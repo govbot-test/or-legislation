@@ -1,0 +1,1089 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+Senate Bill 1505
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Rules and Executive Appointments for Senator Kayse Jama)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would make new laws about a workforce standards board for some workers in
+the home and community-based services sector. (Flesch Readability Score: 60.6).
+Establishes the Home and Community-Based Services Workforce Standards Board.
+Prescribes the duties of the board. Directs the board to establish minimum working standards
+for the home and community-based services workforce. Requires the board to take certain actions
+before adopting proposed minimum standards. Directs certain state agencies to conduct a fiscal
+impact analysis to determine whether a proposed minimum standard will increase the fiscal obli-
+gations of the state, including an increase in Medicaid reimbursement rates.
+Requires the board to report to the Legislative Assembly and to the Governor the increase in
+funding needed to implement the standard. Provides that a rule establishing a minimum standard
+may not take effect before the Legislative Assembly has appropriated funding and the board has
+received approval from the Centers for Medicare and Medicaid Services, if applicable.
+Permits the Bureau of Labor and Industries to conduct investigations, issue subpoenas, admin-
+ister oaths, obtain evidence and take testimony to make determinations regarding implementation
+and compliance with the minimum standards established by the board.
+Provides remedies for allegations of violations of the minimum standards established by the
+board. Clarifies that relief may be sought for alleged violations no sooner than 90 days after a rule
+establishing a minimum standard takes effect.
+Requires the board to conduct a quadrennial comprehensive review, including a labor market
+analysis to inform the board’s decisions to adopt new minimum standards or revise existing stan-
+dards.
+Requires the board to submit a biennial report to the Governor and the Legislative Assembly
+summarizing the results of the comprehensive review and any actions taken by the board in the
+prior biennium.
+Requires the online registry administered by the Department of Human Services to include
+workers from the home and community-based services workforce.
+Requires that any public hearing conducted by the board be accessible through electronic or
+virtual means, if possible.
+1 A BILL FOR AN ACT
+2 Relating to the Home and Community-Based Services Workforce Standards Board; creating new
+3 provisions; and amending ORS 192.670 and 443.517.
+4 Whereas Oregonians who rely on home and community-based services have the right to direct
+5 their services, exercise self-determination and independent choice and live full lives in their com-
+6 munities; and
+7 Whereas a stable, well-trained and respected workforce is essential to ensuring access to ser-
+8 vices of choice, at the needed time and in the preferred settings, for people with disabilities; and
+9 Whereas the establishment of a workforce standards board for home and community-based ser-
+10 vices strengthens the voices of consumers, families and workers by providing a shared forum for
+11 problem solving, accountability and continuous improvement across the home and community-based
+12 services system; and
+13 Whereas high-quality training, defined career pathways and professional development opportu-
+14 nities for the home and community-based services workforce directly improve the safety, dignity,
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 38
+SB 1505
+1 independence and community participation of individuals receiving home and community-based ser-
+2 vices; and
+3 Whereas community inclusion, equity and the core values of Oregon’s developmental disability
+4 system must guide the decisions that shape services and supports; and
+5 Whereas transparency, accessibility and meaningful participation of self-advocates throughout
+6 all stages of policy development are essential to advancing equity and ensuring that decisions reflect
+7 the lived experiences of individuals who rely on home and community-based services; and
+8 Whereas taxpayers and the State of Oregon have a shared interest in the efficient use of public
+9 resources to support high-quality services, adequate staffing, fair compensation and sustainable
+10 benefits that reduce workforce turnover and promote continuity of care; and
+11 Whereas a responsive, coordinated home and community-based services system requires align-
+12 ment between the needs of individuals receiving home and community-based services and the needs
+13 of the workforce that supports them; now, therefore,
+14 Be It Enacted by the People of the State of Oregon:
+15
+16 DEFINITIONS
+17
+18 SECTION 1. Definitions. As used in sections 1 to 13 of this 2026 Act:
+19 (1) “Attendant care services” has the meaning given that term in ORS 427.191.
+20 (2) “Developmental disability child foster home” has the meaning given that term in ORS
+21 443.830.
+22 (3)(a) “Direct care staff” means employees of a residential care facility, a residential
+23 training facility or a residential training home whose primary responsibilities are to provide
+24 personal care services to residents, including but not limited to:
+25 (A) Administering medications;
+26 (B) Coordinating resident-focused activities;
+27 (C) Supervising and supporting residents;
+28 (D) Supporting activities of daily living, including but not limited to bathing, dressing,
+29 eating and transferring; and
+30 (E) Serving but not preparing meals.
+31 (b) “Direct care staff” does not include management-level staff, including nurses, physi-
+32 cians and administrative staff.
+33 (4) “Domiciliary care facilities” has the meaning given that term in ORS 443.205.
+34 (5) “Employer organization” means a nonprofit trade association whose membership is
+35 composed of or includes entities that employ workers of the home and community-based
+36 services workforce in this state.
+37 (6)(a) “Home and community-based services workforce” includes the following workers
+38 who provide long-term care services and supports:
+39 (A) A home care worker, as defined in ORS 410.600;
+40 (B) A personal support worker, as defined in ORS 410.600;
+41 (C) A personal care attendant;
+42 (D) A direct support professional, as defined in ORS 427.191;
+43 (E) An individual providing in-home care services as an employee of or under an ar-
+44 rangement or contract with an in-home care agency, as defined in ORS 443.305;
+45 (F) An individual providing attendant care services or personal care services as an em-
+[2]
+SB 1505
+1 ployee of an organization that provides:
+2 (i) Agency with choice services, as defined in ORS 427.181; or
+3 (ii) Agency with choice services, as defined in ORS 443.360; and
+4 (G) Direct care staff.
+5 (b) “Home and community-based services workforce” does not include:
+6 (A) A private pay home care worker, as defined in ORS 410.600.
+7 (B) Management-level staff, including nurses, physicians and administrative staff.
+8 (7) “In-home care services” has the meaning given that term in ORS 443.305.
+9 (8) “Labor organization” has the meaning given that term in ORS 663.005.
+10 (9) “Personal care attendant” means an individual who:
+11 (a) Provides in-home care services to a person with a behavioral health condition or dis-
+12 ability; and
+13 (b) Meets the eligibility requirements established by rule by the Oregon Health Authority
+14 in order to receive Medicaid reimbursement for such services.
+15 (10) “Public hearing” means an open hearing conducted in accordance with the require-
+16 ments for a public meeting under ORS 192.610 to 192.705.
+17 (11) “Residential care facility” means a residential care facility, as defined in ORS 443.400,
+18 with a memory care endorsement under ORS 443.886 and an assisted living facility.
+19 (12) “Residential training facility” and “residential training home” have the meanings
+20 given those terms in ORS 443.400.
+21 (13) “Supported living services” means services that provide an individual with an intel-
+22 lectual or developmental disability the ability to live in the community where the individual
+23 wants, with whom the individuals wants, for as long as the individual desires.
+24
+25 HOME AND COMMUNITY-BASED SERVICES
+26 WORKFORCE STANDARDS BOARD
+27
+28 SECTION 2. Establishment; members; term; vacancies. (1) There is established the Home
+29 and Community-Based Services Workforce Standards Board within the Department of Con-
+30 sumer and Business Services. The purposes of the board are to:
+31 (a) Strengthen and maintain a sufficient supply of a skilled home and community-based
+32 services workforce by:
+33 (A) Examining factors that may present challenges to recruiting and retaining workers,
+34 including but not limited to compensation, work schedules and other working conditions; and
+35 (B) Addressing barriers that may impact the sustainability of the workforce including
+36 affordability, access, quality and satisfaction regarding home and community-based services;
+37 and
+38 (b) Make recommendations to revise the minimum workforce standards established by
+39 the board under section 6 of this 2026 Act and adopt new standards, as needed, to improve
+40 the working conditions of the home and community-based services workforce.
+41 (2) The board shall consist of 11 members appointed as follows:
+42 (a) Three members appointed by the Governor who represent the home and community-
+43 based services workforce or labor organizations;
+44 (b) Three members appointed by the Governor who represent employers of individuals
+45 of the home and community-based services workforce or employer organizations;
+[3]
+SB 1505
+1 (c) Two members appointed by the Governor who receive services provided by the home
+2 and community-based services workforce;
+3 (d) One member appointed by the Commissioner of the Bureau of Labor and Industries
+4 who represents the bureau;
+5 (e) One member appointed by the Governor who represents the Department of Human
+6 Services; and
+7 (f) One member appointed by the Governor who represents the Oregon Health Authority.
+8 (3) The appointments of the Governor under subsection (2)(a) to (c) of this section:
+9 (a) Shall be subject to confirmation by the Senate in the manner provided by ORS 171.562
+10 and 171.565.
+11 (b) Must be individuals who, collectively, have current knowledge and experience in the
+12 following home and community-based services or care settings:
+13 (A) In-home care services;
+14 (B) Attendant care services;
+15 (C) Supported living services;
+16 (D) Residential care facilities;
+17 (E) Residential training facilities or residential training homes;
+18 (F) Developmental disability child foster homes; and
+19 (G) Domiciliary care facilities.
+20 (4) Members of the board shall comply with applicable state and federal antitrust laws
+21 concerning anticompetitive behavior, including, but not limited to, laws prohibiting collusion,
+22 price-fixing and other unfair trade practices.
+23 (5) The term of a member of the board is three years and the member may be reap-
+24 pointed. An appointed member serves at the pleasure of the appointing authority.
+25 (6) Each successor board member shall be appointed by the appointing authority, before
+26 the expiration of the term of a member, but not later than January 1 of each even-numbered
+27 year. If a vacancy occurs for any cause before the expiration of the term of a member, the
+28 appointing authority shall make an appointment to fill the vacancy, in the same manner as
+29 an appointment to a full term, to become immediately effective for the unexpired term.
+30 (7) The Governor shall appoint two members, one from each of the appointments made
+31 under subsection (2)(a) and (b) of this section, to serve as cochairs who shall preside over
+32 meetings on a quarterly rotating basis, unless agreed upon otherwise by the cochairs.
+33 (8) The Governor may appoint an executive director for the board who is responsible for
+34 the performance of duties assigned by the board. The executive director may employ appro-
+35 priate staff to carry out the duties assigned by the board.
+36 SECTION 3. Initial terms. (1) All appointments to the board made under section 2 of this
+37 2026 Act must be completed on or before December 31, 2027.
+38 (2) Notwithstanding the term of office specified by section 2 of this 2026 Act, of the
+39 members first appointed to the board:
+40 (a) Four shall serve for a term ending January 1, 2029.
+41 (b) Four shall serve for a term ending January 1, 2030.
+42 (c) Three shall serve for a term ending January 1, 2031.
+43 SECTION 4. Initial staff support. Notwithstanding section 2 (8) of this 2026 Act, the
+44 executive director may employ no more than three staff members to carry out the duties
+45 of the board during the biennium immediately following the date by which board appoint-
+[4]
+SB 1505
+1 ments must be completed, as specified in section 3 of this 2026 Act.
+2 SECTION 5. Compensation; meetings. (1) Members of the Home and Community-Based
+3 Services Workforce Standards Board shall receive such compensation as authorized under
+4 ORS 292.495.
+5 (2) The board shall adopt rules for conducting meetings.
+6 (3) A majority of members of the board constitutes a quorum for the transaction of
+7 business.
+8 (4) An affirmative vote by a majority of members of the board is necessary for the board
+9 to take any action.
+10 (5) The board shall meet once per calendar quarter at times and places specified by the
+11 call of the cochairs.
+12 (6) All meetings of the board shall be held as public meetings in accordance with ORS
+13 192.610 to 192.705.
+14
+15 DUTIES OF THE BOARD
+16
+17 SECTION 6. Minimum workforce standards. (1) Subject to subsections (4), (5) and (6) of
+18 this section, the Home and Community-Based Services Workforce Standards Board shall
+19 adopt rules establishing minimum standards for the home and community-based services
+20 workforce that are designed to improve the working conditions of such workers and that
+21 may be tailored to specific categories of worker types and across different care settings. The
+22 board may not adopt any standards that:
+23 (a) Are less protective of or beneficial to the home and community-based services
+24 workforce than the standards provided under any other applicable statute or rule; or
+25 (b) Infringe on an individual’s right to self-determination, as defined in ORS 427.101.
+26 (2) At a minimum, the standards must:
+27 (a) Set compensation rates for paying individuals in the home and community-based
+28 services workforce, provided that the rates are not less than the minimum wage rate es-
+29 tablished under ORS 653.025.
+30 (b) Establish curriculum and criteria for providing education and professional develop-
+31 ment opportunities and career pathways for the home and community-based services
+32 workforce.
+33 (c) Provide for the provision of health care benefits and other paid benefits for the home
+34 and community-based services workforce, including but not limited to paid family leave, sick
+35 leave and retirement benefits.
+36 (3) Before establishing any minimum standards under this section, the board shall:
+37 (a) Obtain and evaluate the following information in relation to the home and
+38 community-based services workforce to ensure that the standards adopted by the board meet
+39 or exceed prevailing labor market conditions:
+40 (A) Labor market data, including but not limited to:
+41 (i) Wage levels and benefit data from comparable occupations and industries within dif-
+42 ferent geographic regions in this state;
+43 (ii) Collective bargaining agreements applicable to workers in comparable occupations
+44 and industries within different geographic regions in this state; and
+45 (iii) Existing federal, state and local minimum standards for the home and community-
+[5]
+SB 1505
+1 based services workforce;
+2 (B) Industry profitability and economic data that includes:
+3 (i) Total reimbursement spending within the home and community-based services indus-
+4 try;
+5 (ii) The distribution of reimbursement spending among direct care labor costs, adminis-
+6 trative and overhead costs and net income;
+7 (iii) Average operating margins weighted by total revenue or service hours delivered; and
+8 (iv) Disaggregation of the data described under this subparagraph by entity type of the
+9 providers of home and community-based services;
+10 (C) Testimony from current and former workers from the home and community-based
+11 services workforce, labor organizations, employers and other interested stakeholders, in-
+12 cluding individuals receiving developmental disability services and representatives from or-
+13 ganizations that represent the interests of such individuals;
+14 (D) Data submitted by or obtained from state and local government entities related to
+15 consumers of home and community-based services, including service levels needed by con-
+16 sumers and consumers’ ability to timely access affordable home and community-based ser-
+17 vices; and
+18 (E) Any other information the board deems relevant and reflective of trends concerning
+19 the working conditions of the home and community-based services workforce, consumer and
+20 family satisfaction with home and community-based services and consumer access to af-
+21 fordable home and community-based services.
+22 (b) Hold at least one public hearing at which members of the public, including workers
+23 in the home and community-based services workforce, individuals receiving home and
+24 community-based services and the individuals’ family members, shall have the opportunity
+25 to provide input on any matter relating to the minimum standards being considered by the
+26 board.
+27 (c) Consult with the director of the division of the Oregon Health Authority that admin-
+28 isters the state medical assistance program to determine whether any minimum standards
+29 proposed by the board require the approval of the Centers for Medicare and Medicaid Ser-
+30 vices.
+31 (d) Consult with the Home Care Commission to ensure that the minimum standards
+32 proposed by the board do not conflict with any rule or standard established by the commis-
+33 sion pursuant to Article XV, section 11, of the Oregon Constitution, or ORS 410.595 to
+34 410.625.
+35 (e) Consult with individuals receiving home and community-based services, including
+36 self-advocates from diverse disability and aging communities, to ensure that the proposed
+37 minimum standards relating to curriculum and criteria described under subsection (2)(b) of
+38 this section:
+39 (A) Reflect and reinforce the values of self-determination, independence and individual
+40 choice for individuals receiving home and community-based services;
+41 (B) Incorporate educational content that is designed or delivered by individuals receiving
+42 home and community-based services or self-advocacy organizations representing such indi-
+43 viduals; and
+44 (C) Address training and competency needs identified by individuals receiving home and
+45 community-based services, including barriers that limit access to high-quality services and
+[6]
+SB 1505
+1 concerns regarding the adequacy and effectiveness of existing standards.
+2 (4)(a) The Bureau of Labor and Industries, the Department of Consumer and Business
+3 Services, the Department of Human Services and the Oregon Health Authority shall conduct
+4 a fiscal impact analysis to determine whether a proposed minimum standard of the board
+5 will require any increase to state funding levels or otherwise result in an increase in the
+6 fiscal obligations of the state, including but not limited to an increase in Medicaid re-
+7 imbursement rates.
+8 (b) If a determination is made under paragraph (a) of this subsection that a proposed
+9 minimum standard will require any increase to state funding levels or otherwise result in
+10 an increase in the fiscal obligations of the state, the board shall report to the Legislative
+11 Assembly and to the Governor the increase in funding needed to implement the standard.
+12 (c) If the Legislative Assembly appropriates less than what is necessary for implemen-
+13 tation and enforcement of the rule establishing the minimum standard, the board shall
+14 amend or repeal the rule to align the minimum standard with the level of funding appropri-
+15 ated by the Legislative Assembly.
+16 (5) If the director of the division of the Oregon Health Authority that administers the
+17 state medical assistance program determines that approval from the Centers for Medicare
+18 and Medicaid Services is necessary to implement a minimum standard proposed by the board,
+19 the authority shall seek the necessary approval.
+20 (6) In no event may a rule establishing a minimum standard under this section take ef-
+21 fect before the Legislative Assembly appropriates funding under subsection (4) of this section
+22 and the board has received approval from the Centers for Medicare and Medicaid Services
+23 under subsection (5) of this section, if applicable.
+24 (7) All agencies of state government, as defined in ORS 174.111, are directed to furnish
+25 to the board, in a timely manner and upon request, information that the board considers
+26 necessary for the board to carry out the board’s duties under subsection (3) of this section,
+27 unless such information is exempt from public disclosure under federal or state law.
+28 (8) Rules establishing minimum standards under this section shall be adopted by the
+29 board in accordance with applicable provisions of ORS chapter 183.
+30 SECTION 7. Comprehensive review. (1) At least once every four years, the Home and
+31 Community-Based Services Workforce Standards Board shall conduct a comprehensive re-
+32 view of the minimum standards previously adopted by the board to determine whether the
+33 standards have continuing applicability or whether the board should adopt new standards or
+34 revise the existing standards.
+35 (2)(a) As part of the review, the board shall conduct a labor market analysis of the
+36 working conditions for the home and community-based services workforce that examines
+37 factors that may include, but need not be limited to:
+38 (A) Supply and demand estimates and projections for such workers;
+39 (B) Education, training and skill requirements;
+40 (C) Compensation rates for the home and community-based services workforce;
+41 (D) Industry profits; and
+42 (E) Professional development and training opportunities.
+43 (b) In conducting the labor market analysis, the board shall consider whether and to
+44 what extent the board’s minimum standards regarding compensation rates for paying work-
+45 ers in the home and community-based services workforce should be adjusted relative to the
+[7]
+SB 1505
+1 Medicaid reimbursement rates for services provided by such workers. Such a determination
+2 shall be made pursuant to a process specified by the board by rule.
+3 SECTION 8. Reporting. (1) The Home and Community-Based Services Workforce Stan-
+4 dards Board shall prepare and submit a biennial report to the Governor and to the Legisla-
+5 tive Assembly by June 30 of each even-numbered year on the board’s activities and
+6 recommendations.
+7 (2) The report must include, at a minimum:
+8 (a) A statement of findings and conclusions of the most recently completed comprehen-
+9 sive review required under section 7 of this 2026 Act, including recommendations:
+10 (A) For statutory changes;
+11 (B) For revisions to amounts appropriated to the board, if any; and
+12 (C) For proposed adjustments to Medicaid reimbursement rates to ensure that such rates
+13 directly correspond to the board’s minimum standards for compensation rates paid to the
+14 home and community-based services workforce.
+15 (b) A copy of the budget documents of the board showing:
+16 (A) The Medicaid reimbursement rates for the home and community-based services
+17 workforce; and
+18 (B) Statements showing aggregate data regarding compensation paid and benefits pro-
+19 vided to the home and community-based services workforce.
+20 (c) A description of the public hearing process used to inform the minimum standards
+21 established by the board.
+22 (d) A description of the current minimum standards established by the board and re-
+23 commended changes to the standards, along with any supporting documentation for the
+24 proposed changes.
+25 (e) The number and types of complaints or civil actions filed alleging a violation of any
+26 of the standards established by the board, if any.
+27 (f) A summary of all other actions taken during the prior biennium in the performance
+28 of the board’s statutory responsibilities that is adequate to allow evaluation of the board’s
+29 performance.
+30
+31 BOARD AUTHORITY
+32
+33 SECTION 9. Investigative authority. In order to determine any facts relevant to matters
+34 concerning implementation of and compliance with the minimum standards established by
+35 the Home and Community-Based Services Workforce Standards Board under section 6 of this
+36 2026 Act, the Commissioner of the Bureau of Labor and Industries may conduct investi-
+37 gations, issue subpoenas and subpoenas duces tecum, administer oaths, obtain evidence and
+38 take testimony to the same extent that the commissioner may exercise such authority with
+39 respect to the bureau’s duties as described under ORS 651.060.
+40
+41 WORKER PROTECTIONS
+42
+43 SECTION 10. Retaliation prohibited. It is an unlawful practice under ORS chapter 659A
+44 for an employer to terminate, discipline, penalize, retaliate or take any other adverse action
+45 against any worker from the home and community-based services workforce because the
+[8]
+SB 1505
+1 worker has:
+2 (1) Inquired about or exercised any right afforded to a worker under sections 1 to 13 of
+3 this 2026 Act or under any minimum standards established by the board under section 6 of
+4 this 2026 Act.
+5 (2) Participated in any process or proceeding under or related to sections 1 to 13 of this
+6 2026 Act, or has testified or is about to testify in any such proceeding.
+7 SECTION 11. Remedies. (1) No sooner than 90 days after a rule establishing a minimum
+8 standard under section 6 of this 2026 Act takes effect, a worker from the home and
+9 community-based services workforce or a labor organization may seek relief for an alleged
+10 violation of a minimum standard established by the Home and Community-Based Services
+11 Workforce Standards Board under section 6 of this 2026 Act by:
+12 (a) Commencing a civil action in the circuit court of appropriate jurisdiction for
+13 injunctive relief, damages or other appropriate equitable relief against any person alleged to
+14 have violated a minimum standard; or
+15 (b) Filing a complaint with the Commissioner of the Bureau of Labor and Industries in
+16 the manner provided by ORS 659A.820, not later than one year after the date of the alleged
+17 violation. In addition to any other penalty provided by law, the Commissioner of the Bureau
+18 of Labor and Industries may assess a civil penalty under ORS 183.745 not to exceed $1,000 for
+19 each violation of a minimum standard adopted by the board under section 6 of this 2026 Act.
+20 (2) Prior to commencing a civil action under subsection (1)(a) of this section, the person
+21 alleging the violation shall provide written notice to the person alleged to have violated the
+22 minimum standard stating that the person shall have 30 days from receipt of the notice to
+23 correct the alleged violation. A civil action may not be brought against the person alleged
+24 to have violated the minimum standard if the person has corrected the alleged violation
+25 within the time period specified under this subsection.
+26 (3) A labor organization may file a civil action under this section only on behalf of
+27 workers from the home and community-based services workforce whom the labor organiza-
+28 tion represents. A labor organization may not file a civil action on behalf of workers who are
+29 not represented by the labor organization.
+30 (4) Upon prevailing in an action under this section, the plaintiff may recover actual
+31 damages and the court shall award reasonable attorney fees and costs to the prevailing
+32 plaintiff.
+33 SECTION 12. Limits. Nothing in sections 1 to 13 of this 2026 Act is intended to:
+34 (1) Limit, interfere with or reduce the rights of any parties to a collective bargaining
+35 agreement.
+36 (2) Diminish the rights or remedies that are otherwise available to a worker from the
+37 home and community-based services workforce under federal or state law or regulation, in-
+38 cluding but not limited to the right to file a wage claim under ORS 652.310 to 652.414.
+39 SECTION 13. Employer notice requirements. (1) Each employer of workers of the home
+40 and community-based services workforce shall provide notice to the workers of the following:
+41 (a) The rights of the workers with respect to the minimum standards established by the
+42 Home and Community-Based Services Workforce Standards Board under section 6 of this
+43 2026 Act.
+44 (b) The duties and functions of the board.
+45 (c) Contact information for each state agency responsible with enforcement authority
+[9]
+SB 1505
+1 over matters that relate to the same subjects over which the board has authority.
+2 (2) The employer shall provide the notice required under this section as follows:
+3 (a) At the time of hire;
+4 (b) In the same language that the employer typically communicates with the worker;
+5 (c) By posting the notice in a conspicuous location in the workplace; and
+6 (d) By sending the notice to the electronic mail address of each worker of the employer.
+7 (3) The board shall annually review and update the notice required under this section
+8 insofar as necessary to reflect changes to any minimum standards that are adopted by the
+9 board.
+10
+11 MISCELLANEOUS
+12
+13 SECTION 14. ORS 443.517 is amended to read:
+14 443.517. (1) The Department of Human Services shall maintain an online [home or community-
+15 based services caregiver] registry that is accessible to the public and that lists home or
+16 community-based services caregivers and workers. The information to be displayed on the reg-
+17 istry for each caregiver and worker, respectively, shall be limited to the:
+18 (a) Name of the caregiver or worker;
+19 (b) County and, if applicable, city where the caregiver or worker resides;
+20 (c)(A) Certification status of the caregiver under ORS 443.515 and any endorsements earned by
+21 the caregiver; [and] or
+22 (B) Certification status of the worker and any endorsements earned by the worker, if
+23 applicable; and
+24 (d) Criminal records check status of the caregiver or worker.
+25 (2) The registry shall contain links to:
+26 (a) Sites that explain the training requirements for the certification of each type of home or
+27 community-based services caregiver described in ORS 443.515 (1)(b); and
+28 (b) The home care registry, as defined in ORS 410.600, for members of the public to find home
+29 care workers.
+30 (3) The department shall create a process for a home or community-based services caregiver or
+31 worker to request to be excluded from the registry.
+32 (4) The department shall prominently display a notice on the registry that states that:
+33 (a) Home or community-based services caregivers and workers may choose not to be listed on
+34 the registry; and
+35 (b) The registry is not an exclusive list of all home and community-based services caregivers
+36 and workers that are qualified and trained in this state.
+37 (5) The department may include on the registry disclaimers, user guidance and other resources
+38 that the department deems appropriate to help users of the registry.
+39 (6) This section does not prohibit the department from requesting and collecting from home or
+40 community-based services caregivers and workers information in addition to the information that
+41 must be displayed on the registry under subsection (1) of this section.
+42 (7) As used in this section, “worker” means an individual from the home and
+43 community-based services workforce, as defined in section 1 of this 2026 Act.
+44 SECTION 15. ORS 192.670 is amended to read:
+45 192.670. (1) Any meeting, including an executive session, of a governing body of a public body
+[10]
+SB 1505
+1 which is held through the use of telephone or other electronic communication shall be conducted in
+2 accordance with ORS 192.610 to 192.705.
+3 (2) When telephone or other electronic means of communication is used and the meeting is not
+4 an executive session, the governing body of the public body shall make available to the public at
+5 least one place where, or at least one electronic means by which, the public can listen to the com-
+6 munication at the time it occurs. A place provided may be a place where no member of the gov-
+7 erning body of the public body is present.
+8 (3) All meetings held by a governing body of a public body, excluding executive sessions, must
+9 provide to members of the general public, to the extent reasonably possible, an opportunity to:
+10 (a) Access and attend the meeting by telephone, video or other electronic or virtual means;
+11 (b) If in-person oral testimony is allowed, submit during the meeting oral testimony by telephone,
+12 video or other electronic or virtual means; and
+13 (c) If in-person written testimony is allowed, submit written testimony, including by electronic
+14 mail or other electronic means, so that the governing body is able to consider the submitted testi-
+15 mony in a timely manner.
+16 (4) The provisions of subsection (3) of this section:
+17 (a) Apply to:
+18 (A) Hearings under ORS 197.797, 215.402 to 215.438 and 215.700 to 215.780 regardless of whether
+19 a governing body or governing body’s designee, including a hearings officer, conducts the hearing;
+20 and
+21 (B) Public hearings under section 5 of this 2026 Act; and
+22 (b) Do not apply to contested case hearings under ORS chapter 183.
+23 SECTION 16. (1)(a) The Home and Community-Based Services Workforce Standards
+24 Board shall consider the information related to prevailing labor market conditions described
+25 under section 6 (3) of this 2026 Act no later than September 30, 2028.
+26 (b) The board shall adopt rules establishing the initial minimum standards under section
+27 6 of this 2026 Act following completion of the initial market study described in paragraph (a)
+28 of this subsection, but not sooner than March 1, 2029.
+29 (2) If, as a result of a fiscal impact analysis conducted under section 6 (4) of this 2026
+30 Act, the Bureau of Labor and Industries, the Department of Consumer and Business Ser-
+31 vices, the Department of Human Services or the Oregon Health Authority determines that
+32 a proposed minimum standard will require any increase to state funding levels or otherwise
+33 result in an increase in the fiscal obligations of the state, the board shall report to the
+34 Legislative Assembly and to the Governor the increase in funding needed to implement the
+35 standard. The rule establishing the standard may not take effect until the regular legislative
+36 session next following provided that an appropriation has been made for purposes of imple-
+37 menting and enforcing the standard, in the regular legislative session next following.
+38 SECTION 17. The unit and section captions used in this 2026 Act are provided only for
+39 the convenience of the reader and do not become part of the statutory law of this state or
+40 express any legislative intent in the enactment of this 2026 Act.
+41
+[11]
+[DELETED:  B 1 i n a n o o t p o t P ( t r c b t L A I i a e b s o t e f o t.T t d o t b D t b t e m a c s w R t b t t c a a p m s.D c s a t c a f a t d w a p m s w i t f o t b t r t n t i t s P t a r e a m s n t e b t L A h a f a t b h i i s a o o e a t t t m d r i r f a o v o t m s e b t t b t c a q c r i a l m t i t b d t a n m s o r e s t b t s a b r t t G a t L A t r o t c r a a a t b t b i trb t o r a b t D o H S t i t a p h c b t b b a t e o t t H a C S W S B c n s h t r t d s e s a i c a l f l i t c;a a s w a r w i e t e a t s t e s t v o c f a w b p a s f f h t d c p a p d o f t h a c s w d i t s d:M[]]
+[DELETED: B1 c s;a c i e a t a a m p o s t t s h s a s f c a s a r c h a c s s r a.D “ c s m e o a r c f a r S a o d l i b n l t b d “ o m a n t a w m i o o i e t e w o t h a c “ a c s w i t f w A i p i c s a a e o o u a a]
+[DELETED: B1 “ t f a “ t h h t m.E A b t m i t s o t w i M r t r t m w s e b T m a b t G w r e o i]
+[DELETED: B1 O m a b t G w r t D;ad1 M o t b s c w a s a T t o a m o t b i t y a t m m b r.I a c w s p o.I N t t o o s b s 2 o t 2 A o t 4.I s s N s 2 ( o t 2 A t d m e n m t t s m t c o t t b d t b i f t d b w b a]
+[DELETED: B1 5.C m ( M o t H a C W S B s r s c a a uS2 A m o m o t b c a q f t t o A m o t b s b h a p m i.M s t H a C S W S B s r e m s f t h a c s t a d t i t w c o s w a t A l p o o b t t h a c s S c r f p i i t h a c w p t t r a n l t t m w r e E c a c f p e a p d o a c p f t h a c s O a e t f i i r t t h a C b a a t w i c o]
+[DELETED: B1 T f c a f w f t h a c w l o e a o i s i i r d d s o f s a l g e r t o h a c s i s l n;a s w h a c s a c a t a t h a c s w i r h a s a t i f m s h b t b r t a C w t H C C t e t t m s p t A X s 1 o t O C o O 4 t C w i r h a c s i f d d a a c t e t t p R a r t v o s i a i a c s o;a s i b]
+[DELETED: B1 B o L a I t D o C a B f i a t d w a p m s o t b r a i t s f l o o r i a i i t o o t s i b n l t a i i M rtr I a d i m u p ( o t s t a p s w r a i t s f l o o r i i i t f o o t s t b s r t t L t w i n f i a e o t r e t m s t b s I t d o t d o t O H t a f t C f M a f t C f M a M S t b i a t m a u r i t t b c R e m s u t s s b a b t 7.C r ( A l o e f y t H a S W S B s c a c r o t A p o t r t b s c a l m a o t c f t h a c s w t e I c t l m a t b s c w a t]
+[DELETED: B1 8.R ( T H a C S W S A b J 3 o e e y o t b a a c t t b m s f c r p t t T M r r f t h a c s;a S s a d r c p a b p t p h p u t i t m s A d o t c m s e b t b a r c t t s a w a s d f tdc t b sDA.I i o a c w t m s e b A t C o t B o L a I m c i.R a w f t h a c s w b t]
+[DELETED: B1rh.R u s 6 o t 2 A t e a w f t h a o a m s e b t H a C S C a c a i t c c o a j f.A h v t m s i t p h c t a v A l o m f a c a u t s o o b o U p i a a u t s t p m r a a t c s a r a f a c t t p.L L i w o r t r o a p t a c b D t r o r t a o a t a w f.E.( a C S W S B u s 6 o t6A C i f e s a r w e a]
+[DELETED: B1 T b s a r a u t n r u t s ( T D o H S s m a o  s c r t i a t t p a t l h o[] C s o t w a a e e b t w i;a S t e t t r f t c o e t o h o T T r i n a e l o a h a c s c T s c a i i a t t i t A u i t s “ m a i f t h a a g b o a p b]
+[DELETED: B1 e s t g b o t p b s m a t t p a.A p m b a p w n m o t g i a s w t i b e o g b o g 1.( T H a C S W S I a a r o a f i t B o L a I t D o C a B S i a i i t f o o t s t b s r t t.T o f]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1505
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Rules and Executive Appointments for Senator Kayse Jama)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would make new laws about a workforce standards board for some workers in
+the home and community-based services sector. (Flesch Readability Score: 60.6).
+Establishes the Home and Community-Based Services Workforce Standards Board.
+Prescribes the duties of the board. Directs the board to establish minimum working standards
+for the home and community-based services workforce. Requires the board to take certain actions
+before adopting proposed minimum standards. Directs certain state agencies to conduct a fiscal
+impact analysis to determine whether a proposed minimum standard will increase the fiscal obli-
+gations of the state, including an increase in Medicaid reimbursement rates.
+Requires the board to report to the Legislative Assembly and to the Governor the increase in
+funding needed to implement the standard. Provides that a rule establishing a minimum standard
+may not take effect before the Legislative Assembly has appropriated funding and the board has
+received approval from the Centers for Medicare and Medicaid Services, if applicable.
+Permits the Bureau of Labor and Industries to conduct investigations, issue subpoenas, admin-
+ister oaths, obtain evidence and take testimony to make determinations regarding implementation
+and compliance with the minimum standards established by the board.
+Provides remedies for allegations of violations of the minimum standards established by the
+board. Clarifies that relief may be sought for alleged violations no sooner than 90 days after a rule
+establishing a minimum standard takes effect.
+Requires the board to conduct a quadrennial comprehensive review, including a labor market
+analysis to inform the board’s decisions to adopt new minimum standards or revise existing stan-
+dards.
+Requires the board to submit a biennial report to the Governor and the Legislative Assembly
+summarizing the results of the comprehensive review and any actions taken by the board in the
+prior biennium.
+Requires the online registry administered by the Department of Human Services to include
+workers from the home and community-based services workforce.
+Requires that any public hearing conducted by the board be accessible through electronic or
+virtual means, if possible.
+1 A BILL FOR AN ACT
+2 Relating to the Home and Community-Based Services Workforce Standards Board; creating new
+3 provisions; and amending ORS 192.670 and 443.517.
+4 Whereas Oregonians who rely on home and community-based services have the right to direct
+5 their services, exercise self-determination and independent choice and live full lives in their com-
+6 munities; and
+7 Whereas a stable, well-trained and respected workforce is essential to ensuring access to ser-
+8 vices of choice, at the needed time and in the preferred settings, for people with disabilities; and
+9 Whereas the establishment of a workforce standards board for home and community-based ser-
+10 vices strengthens the voices of consumers, families and workers by providing a shared forum for
+11 problem solving, accountability and continuous improvement across the home and community-based
+12 services system; and
+13 Whereas high-quality training, defined career pathways and professional development opportu-
+14 nities for the home and community-based services workforce directly improve the safety, dignity,
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 38
+
+SB 1505
+1 independence and community participation of individuals receiving home and community-based ser-
+2 vices; and
+3 Whereas community inclusion, equity and the core values of Oregon’s developmental disability
+4 system must guide the decisions that shape services and supports; and
+5 Whereas transparency, accessibility and meaningful participation of self-advocates throughout
+6 all stages of policy development are essential to advancing equity and ensuring that decisions reflect
+7 the lived experiences of individuals who rely on home and community-based services; and
+8 Whereas taxpayers and the State of Oregon have a shared interest in the efficient use of public
+9 resources to support high-quality services, adequate staffing, fair compensation and sustainable
+10 benefits that reduce workforce turnover and promote continuity of care; and
+11 Whereas a responsive, coordinated home and community-based services system requires align-
+12 ment between the needs of individuals receiving home and community-based services and the needs
+13 of the workforce that supports them; now, therefore,
+14 Be It Enacted by the People of the State of Oregon:
+15
+16 DEFINITIONS
+17
+18 SECTION 1. Definitions. As used in sections 1 to 13 of this 2026 Act:
+19 (1) “Attendant care services” has the meaning given that term in ORS 427.191.
+20 (2) “Developmental disability child foster home” has the meaning given that term in ORS
+21 443.830.
+22 (3)(a) “Direct care staff” means employees of a residential care facility, a residential
+23 training facility or a residential training home whose primary responsibilities are to provide
+24 personal care services to residents, including but not limited to:
+25 (A) Administering medications;
+26 (B) Coordinating resident-focused activities;
+27 (C) Supervising and supporting residents;
+28 (D) Supporting activities of daily living, including but not limited to bathing, dressing,
+29 eating and transferring; and
+30 (E) Serving but not preparing meals.
+31 (b) “Direct care staff” does not include management-level staff, including nurses, physi-
+32 cians and administrative staff.
+33 (4) “Domiciliary care facilities” has the meaning given that term in ORS 443.205.
+34 (5) “Employer organization” means a nonprofit trade association whose membership is
+35 composed of or includes entities that employ workers of the home and community-based
+36 services workforce in this state.
+37 (6)(a) “Home and community-based services workforce” includes the following workers
+38 who provide long-term care services and supports:
+39 (A) A home care worker, as defined in ORS 410.600;
+40 (B) A personal support worker, as defined in ORS 410.600;
+41 (C) A personal care attendant;
+42 (D) A direct support professional, as defined in ORS 427.191;
+43 (E) An individual providing in-home care services as an employee of or under an ar-
+44 rangement or contract with an in-home care agency, as defined in ORS 443.305;
+45 (F) An individual providing attendant care services or personal care services as an em-
+[2]
+
+SB 1505
+1 ployee of an organization that provides:
+2 (i) Agency with choice services, as defined in ORS 427.181; or
+3 (ii) Agency with choice services, as defined in ORS 443.360; and
+4 (G) Direct care staff.
+5 (b) “Home and community-based services workforce” does not include:
+6 (A) A private pay home care worker, as defined in ORS 410.600.
+7 (B) Management-level staff, including nurses, physicians and administrative staff.
+8 (7) “In-home care services” has the meaning given that term in ORS 443.305.
+9 (8) “Labor organization” has the meaning given that term in ORS 663.005.
+10 (9) “Personal care attendant” means an individual who:
+11 (a) Provides in-home care services to a person with a behavioral health condition or dis-
+12 ability; and
+13 (b) Meets the eligibility requirements established by rule by the Oregon Health Authority
+14 in order to receive Medicaid reimbursement for such services.
+15 (10) “Public hearing” means an open hearing conducted in accordance with the require-
+16 ments for a public meeting under ORS 192.610 to 192.705.
+17 (11) “Residential care facility” means a residential care facility, as defined in ORS 443.400,
+18 with a memory care endorsement under ORS 443.886 and an assisted living facility.
+19 (12) “Residential training facility” and “residential training home” have the meanings
+20 given those terms in ORS 443.400.
+21 (13) “Supported living services” means services that provide an individual with an intel-
+22 lectual or developmental disability the ability to live in the community where the individual
+23 wants, with whom the individuals wants, for as long as the individual desires.
+24
+25 HOME AND COMMUNITY-BASED SERVICES
+26 WORKFORCE STANDARDS BOARD
+27
+28 SECTION 2. Establishment; members; term; vacancies. (1) There is established the Home
+29 and Community-Based Services Workforce Standards Board within the Department of Con-
+30 sumer and Business Services. The purposes of the board are to:
+31 (a) Strengthen and maintain a sufficient supply of a skilled home and community-based
+32 services workforce by:
+33 (A) Examining factors that may present challenges to recruiting and retaining workers,
+34 including but not limited to compensation, work schedules and other working conditions; and
+35 (B) Addressing barriers that may impact the sustainability of the workforce including
+36 affordability, access, quality and satisfaction regarding home and community-based services;
+37 and
+38 (b) Make recommendations to revise the minimum workforce standards established by
+39 the board under section 6 of this 2026 Act and adopt new standards, as needed, to improve
+40 the working conditions of the home and community-based services workforce.
+41 (2) The board shall consist of 11 members appointed as follows:
+42 (a) Three members appointed by the Governor who represent the home and community-
+43 based services workforce or labor organizations;
+44 (b) Three members appointed by the Governor who represent employers of individuals
+45 of the home and community-based services workforce or employer organizations;
+[3]
+
+SB 1505
+1 (c) Two members appointed by the Governor who receive services provided by the home
+2 and community-based services workforce;
+3 (d) One member appointed by the Commissioner of the Bureau of Labor and Industries
+4 who represents the bureau;
+5 (e) One member appointed by the Governor who represents the Department of Human
+6 Services; and
+7 (f) One member appointed by the Governor who represents the Oregon Health Authority.
+8 (3) The appointments of the Governor under subsection (2)(a) to (c) of this section:
+9 (a) Shall be subject to confirmation by the Senate in the manner provided by ORS 171.562
+10 and 171.565.
+11 (b) Must be individuals who, collectively, have current knowledge and experience in the
+12 following home and community-based services or care settings:
+13 (A) In-home care services;
+14 (B) Attendant care services;
+15 (C) Supported living services;
+16 (D) Residential care facilities;
+17 (E) Residential training facilities or residential training homes;
+18 (F) Developmental disability child foster homes; and
+19 (G) Domiciliary care facilities.
+20 (4) Members of the board shall comply with applicable state and federal antitrust laws
+21 concerning anticompetitive behavior, including, but not limited to, laws prohibiting collusion,
+22 price-fixing and other unfair trade practices.
+23 (5) The term of a member of the board is three years and the member may be reap-
+24 pointed. An appointed member serves at the pleasure of the appointing authority.
+25 (6) Each successor board member shall be appointed by the appointing authority, before
+26 the expiration of the term of a member, but not later than January 1 of each even-numbered
+27 year. If a vacancy occurs for any cause before the expiration of the term of a member, the
+28 appointing authority shall make an appointment to fill the vacancy, in the same manner as
+29 an appointment to a full term, to become immediately effective for the unexpired term.
+30 (7) The Governor shall appoint two members, one from each of the appointments made
+31 under subsection (2)(a) and (b) of this section, to serve as cochairs who shall preside over
+32 meetings on a quarterly rotating basis, unless agreed upon otherwise by the cochairs.
+33 (8) The Governor may appoint an executive director for the board who is responsible for
+34 the performance of duties assigned by the board. The executive director may employ appro-
+35 priate staff to carry out the duties assigned by the board.
+36 SECTION 3. Initial terms. (1) All appointments to the board made under section 2 of this
+37 2026 Act must be completed on or before December 31, 2027.
+38 (2) Notwithstanding the term of office specified by section 2 of this 2026 Act, of the
+39 members first appointed to the board:
+40 (a) Four shall serve for a term ending January 1, 2029.
+41 (b) Four shall serve for a term ending January 1, 2030.
+42 (c) Three shall serve for a term ending January 1, 2031.
+43 SECTION 4. Initial staff support. Notwithstanding section 2 (8) of this 2026 Act, the
+44 executive director may employ no more than three staff members to carry out the duties
+45 of the board during the biennium immediately following the date by which board appoint-
+[4]
+
+SB 1505
+1 ments must be completed, as specified in section 3 of this 2026 Act.
+2 SECTION 5. Compensation; meetings. (1) Members of the Home and Community-Based
+3 Services Workforce Standards Board shall receive such compensation as authorized under
+4 ORS 292.495.
+5 (2) The board shall adopt rules for conducting meetings.
+6 (3) A majority of members of the board constitutes a quorum for the transaction of
+7 business.
+8 (4) An affirmative vote by a majority of members of the board is necessary for the board
+9 to take any action.
+10 (5) The board shall meet once per calendar quarter at times and places specified by the
+11 call of the cochairs.
+12 (6) All meetings of the board shall be held as public meetings in accordance with ORS
+13 192.610 to 192.705.
+14
+15 DUTIES OF THE BOARD
+16
+17 SECTION 6. Minimum workforce standards. (1) Subject to subsections (4), (5) and (6) of
+18 this section, the Home and Community-Based Services Workforce Standards Board shall
+19 adopt rules establishing minimum standards for the home and community-based services
+20 workforce that are designed to improve the working conditions of such workers and that
+21 may be tailored to specific categories of worker types and across different care settings. The
+22 board may not adopt any standards that:
+23 (a) Are less protective of or beneficial to the home and community-based services
+24 workforce than the standards provided under any other applicable statute or rule; or
+25 (b) Infringe on an individual’s right to self-determination, as defined in ORS 427.101.
+26 (2) At a minimum, the standards must:
+27 (a) Set compensation rates for paying individuals in the home and community-based
+28 services workforce, provided that the rates are not less than the minimum wage rate es-
+29 tablished under ORS 653.025.
+30 (b) Establish curriculum and criteria for providing education and professional develop-
+31 ment opportunities and career pathways for the home and community-based services
+32 workforce.
+33 (c) Provide for the provision of health care benefits and other paid benefits for the home
+34 and community-based services workforce, including but not limited to paid family leave, sick
+35 leave and retirement benefits.
+36 (3) Before establishing any minimum standards under this section, the board shall:
+37 (a) Obtain and evaluate the following information in relation to the home and
+38 community-based services workforce to ensure that the standards adopted by the board meet
+39 or exceed prevailing labor market conditions:
+40 (A) Labor market data, including but not limited to:
+41 (i) Wage levels and benefit data from comparable occupations and industries within dif-
+42 ferent geographic regions in this state;
+43 (ii) Collective bargaining agreements applicable to workers in comparable occupations
+44 and industries within different geographic regions in this state; and
+45 (iii) Existing federal, state and local minimum standards for the home and community-
+[5]
+
+SB 1505
+1 based services workforce;
+2 (B) Industry profitability and economic data that includes:
+3 (i) Total reimbursement spending within the home and community-based services indus-
+4 try;
+5 (ii) The distribution of reimbursement spending among direct care labor costs, adminis-
+6 trative and overhead costs and net income;
+7 (iii) Average operating margins weighted by total revenue or service hours delivered; and
+8 (iv) Disaggregation of the data described under this subparagraph by entity type of the
+9 providers of home and community-based services;
+10 (C) Testimony from current and former workers from the home and community-based
+11 services workforce, labor organizations, employers and other interested stakeholders, in-
+12 cluding individuals receiving developmental disability services and representatives from or-
+13 ganizations that represent the interests of such individuals;
+14 (D) Data submitted by or obtained from state and local government entities related to
+15 consumers of home and community-based services, including service levels needed by con-
+16 sumers and consumers’ ability to timely access affordable home and community-based ser-
+17 vices; and
+18 (E) Any other information the board deems relevant and reflective of trends concerning
+19 the working conditions of the home and community-based services workforce, consumer and
+20 family satisfaction with home and community-based services and consumer access to af-
+21 fordable home and community-based services.
+22 (b) Hold at least one public hearing at which members of the public, including workers
+23 in the home and community-based services workforce, individuals receiving home and
+24 community-based services and the individuals’ family members, shall have the opportunity
+25 to provide input on any matter relating to the minimum standards being considered by the
+26 board.
+27 (c) Consult with the director of the division of the Oregon Health Authority that admin-
+28 isters the state medical assistance program to determine whether any minimum standards
+29 proposed by the board require the approval of the Centers for Medicare and Medicaid Ser-
+30 vices.
+31 (d) Consult with the Home Care Commission to ensure that the minimum standards
+32 proposed by the board do not conflict with any rule or standard established by the commis-
+33 sion pursuant to Article XV, section 11, of the Oregon Constitution, or ORS 410.595 to
+34 410.625.
+35 (e) Consult with individuals receiving home and community-based services, including
+36 self-advocates from diverse disability and aging communities, to ensure that the proposed
+37 minimum standards relating to curriculum and criteria described under subsection (2)(b) of
+38 this section:
+39 (A) Reflect and reinforce the values of self-determination, independence and individual
+40 choice for individuals receiving home and community-based services;
+41 (B) Incorporate educational content that is designed or delivered by individuals receiving
+42 home and community-based services or self-advocacy organizations representing such indi-
+43 viduals; and
+44 (C) Address training and competency needs identified by individuals receiving home and
+45 community-based services, including barriers that limit access to high-quality services and
+[6]
+
+SB 1505
+1 concerns regarding the adequacy and effectiveness of existing standards.
+2 (4)(a) The Bureau of Labor and Industries, the Department of Consumer and Business
+3 Services, the Department of Human Services and the Oregon Health Authority shall conduct
+4 a fiscal impact analysis to determine whether a proposed minimum standard of the board
+5 will require any increase to state funding levels or otherwise result in an increase in the
+6 fiscal obligations of the state, including but not limited to an increase in Medicaid re-
+7 imbursement rates.
+8 (b) If a determination is made under paragraph (a) of this subsection that a proposed
+9 minimum standard will require any increase to state funding levels or otherwise result in
+10 an increase in the fiscal obligations of the state, the board shall report to the Legislative
+11 Assembly and to the Governor the increase in funding needed to implement the standard.
+12 (c) If the Legislative Assembly appropriates less than what is necessary for implemen-
+13 tation and enforcement of the rule establishing the minimum standard, the board shall
+14 amend or repeal the rule to align the minimum standard with the level of funding appropri-
+15 ated by the Legislative Assembly.
+16 (5) If the director of the division of the Oregon Health Authority that administers the
+17 state medical assistance program determines that approval from the Centers for Medicare
+18 and Medicaid Services is necessary to implement a minimum standard proposed by the board,
+19 the authority shall seek the necessary approval.
+20 (6) In no event may a rule establishing a minimum standard under this section take ef-
+21 fect before the Legislative Assembly appropriates funding under subsection (4) of this section
+22 and the board has received approval from the Centers for Medicare and Medicaid Services
+23 under subsection (5) of this section, if applicable.
+24 (7) All agencies of state government, as defined in ORS 174.111, are directed to furnish
+25 to the board, in a timely manner and upon request, information that the board considers
+26 necessary for the board to carry out the board’s duties under subsection (3) of this section,
+27 unless such information is exempt from public disclosure under federal or state law.
+28 (8) Rules establishing minimum standards under this section shall be adopted by the
+29 board in accordance with applicable provisions of ORS chapter 183.
+30 SECTION 7. Comprehensive review. (1) At least once every four years, the Home and
+31 Community-Based Services Workforce Standards Board shall conduct a comprehensive re-
+32 view of the minimum standards previously adopted by the board to determine whether the
+33 standards have continuing applicability or whether the board should adopt new standards or
+34 revise the existing standards.
+35 (2)(a) As part of the review, the board shall conduct a labor market analysis of the
+36 working conditions for the home and community-based services workforce that examines
+37 factors that may include, but need not be limited to:
+38 (A) Supply and demand estimates and projections for such workers;
+39 (B) Education, training and skill requirements;
+40 (C) Compensation rates for the home and community-based services workforce;
+41 (D) Industry profits; and
+42 (E) Professional development and training opportunities.
+43 (b) In conducting the labor market analysis, the board shall consider whether and to
+44 what extent the board’s minimum standards regarding compensation rates for paying work-
+45 ers in the home and community-based services workforce should be adjusted relative to the
+[7]
+
+SB 1505
+1 Medicaid reimbursement rates for services provided by such workers. Such a determination
+2 shall be made pursuant to a process specified by the board by rule.
+3 SECTION 8. Reporting. (1) The Home and Community-Based Services Workforce Stan-
+4 dards Board shall prepare and submit a biennial report to the Governor and to the Legisla-
+5 tive Assembly by June 30 of each even-numbered year on the board’s activities and
+6 recommendations.
+7 (2) The report must include, at a minimum:
+8 (a) A statement of findings and conclusions of the most recently completed comprehen-
+9 sive review required under section 7 of this 2026 Act, including recommendations:
+10 (A) For statutory changes;
+11 (B) For revisions to amounts appropriated to the board, if any; and
+12 (C) For proposed adjustments to Medicaid reimbursement rates to ensure that such rates
+13 directly correspond to the board’s minimum standards for compensation rates paid to the
+14 home and community-based services workforce.
+15 (b) A copy of the budget documents of the board showing:
+16 (A) The Medicaid reimbursement rates for the home and community-based services
+17 workforce; and
+18 (B) Statements showing aggregate data regarding compensation paid and benefits pro-
+19 vided to the home and community-based services workforce.
+20 (c) A description of the public hearing process used to inform the minimum standards
+21 established by the board.
+22 (d) A description of the current minimum standards established by the board and re-
+23 commended changes to the standards, along with any supporting documentation for the
+24 proposed changes.
+25 (e) The number and types of complaints or civil actions filed alleging a violation of any
+26 of the standards established by the board, if any.
+27 (f) A summary of all other actions taken during the prior biennium in the performance
+28 of the board’s statutory responsibilities that is adequate to allow evaluation of the board’s
+29 performance.
+30
+31 BOARD AUTHORITY
+32
+33 SECTION 9. Investigative authority. In order to determine any facts relevant to matters
+34 concerning implementation of and compliance with the minimum standards established by
+35 the Home and Community-Based Services Workforce Standards Board under section 6 of this
+36 2026 Act, the Commissioner of the Bureau of Labor and Industries may conduct investi-
+37 gations, issue subpoenas and subpoenas duces tecum, administer oaths, obtain evidence and
+38 take testimony to the same extent that the commissioner may exercise such authority with
+39 respect to the bureau’s duties as described under ORS 651.060.
+40
+41 WORKER PROTECTIONS
+42
+43 SECTION 10. Retaliation prohibited. It is an unlawful practice under ORS chapter 659A
+44 for an employer to terminate, discipline, penalize, retaliate or take any other adverse action
+45 against any worker from the home and community-based services workforce because the
+[8]
+
+SB 1505
+1 worker has:
+2 (1) Inquired about or exercised any right afforded to a worker under sections 1 to 13 of
+3 this 2026 Act or under any minimum standards established by the board under section 6 of
+4 this 2026 Act.
+5 (2) Participated in any process or proceeding under or related to sections 1 to 13 of this
+6 2026 Act, or has testified or is about to testify in any such proceeding.
+7 SECTION 11. Remedies. (1) No sooner than 90 days after a rule establishing a minimum
+8 standard under section 6 of this 2026 Act takes effect, a worker from the home and
+9 community-based services workforce or a labor organization may seek relief for an alleged
+10 violation of a minimum standard established by the Home and Community-Based Services
+11 Workforce Standards Board under section 6 of this 2026 Act by:
+12 (a) Commencing a civil action in the circuit court of appropriate jurisdiction for
+13 injunctive relief, damages or other appropriate equitable relief against any person alleged to
+14 have violated a minimum standard; or
+15 (b) Filing a complaint with the Commissioner of the Bureau of Labor and Industries in
+16 the manner provided by ORS 659A.820, not later than one year after the date of the alleged
+17 violation. In addition to any other penalty provided by law, the Commissioner of the Bureau
+18 of Labor and Industries may assess a civil penalty under ORS 183.745 not to exceed $1,000 for
+19 each violation of a minimum standard adopted by the board under section 6 of this 2026 Act.
+20 (2) Prior to commencing a civil action under subsection (1)(a) of this section, the person
+21 alleging the violation shall provide written notice to the person alleged to have violated the
+22 minimum standard stating that the person shall have 30 days from receipt of the notice to
+23 correct the alleged violation. A civil action may not be brought against the person alleged
+24 to have violated the minimum standard if the person has corrected the alleged violation
+25 within the time period specified under this subsection.
+26 (3) A labor organization may file a civil action under this section only on behalf of
+27 workers from the home and community-based services workforce whom the labor organiza-
+28 tion represents. A labor organization may not file a civil action on behalf of workers who are
+29 not represented by the labor organization.
+30 (4) Upon prevailing in an action under this section, the plaintiff may recover actual
+31 damages and the court shall award reasonable attorney fees and costs to the prevailing
+32 plaintiff.
+33 SECTION 12. Limits. Nothing in sections 1 to 13 of this 2026 Act is intended to:
+34 (1) Limit, interfere with or reduce the rights of any parties to a collective bargaining
+35 agreement.
+36 (2) Diminish the rights or remedies that are otherwise available to a worker from the
+37 home and community-based services workforce under federal or state law or regulation, in-
+38 cluding but not limited to the right to file a wage claim under ORS 652.310 to 652.414.
+39 SECTION 13. Employer notice requirements. (1) Each employer of workers of the home
+40 and community-based services workforce shall provide notice to the workers of the following:
+41 (a) The rights of the workers with respect to the minimum standards established by the
+42 Home and Community-Based Services Workforce Standards Board under section 6 of this
+43 2026 Act.
+44 (b) The duties and functions of the board.
+45 (c) Contact information for each state agency responsible with enforcement authority
+[9]
+
+SB 1505
+1 over matters that relate to the same subjects over which the board has authority.
+2 (2) The employer shall provide the notice required under this section as follows:
+3 (a) At the time of hire;
+4 (b) In the same language that the employer typically communicates with the worker;
+5 (c) By posting the notice in a conspicuous location in the workplace; and
+6 (d) By sending the notice to the electronic mail address of each worker of the employer.
+7 (3) The board shall annually review and update the notice required under this section
+8 insofar as necessary to reflect changes to any minimum standards that are adopted by the
+9 board.
+10
+11 MISCELLANEOUS
+12
+13 SECTION 14. ORS 443.517 is amended to read:
+14 443.517. (1) The Department of Human Services shall maintain an online [home or community-
+15 based services caregiver] registry that is accessible to the public and that lists home or
+16 community-based services caregivers and workers. The information to be displayed on the reg-
+17 istry for each caregiver and worker, respectively, shall be limited to the:
+18 (a) Name of the caregiver or worker;
+19 (b) County and, if applicable, city where the caregiver or worker resides;
+20 (c)(A) Certification status of the caregiver under ORS 443.515 and any endorsements earned by
+21 the caregiver; [and] or
+22 (B) Certification status of the worker and any endorsements earned by the worker, if
+23 applicable; and
+24 (d) Criminal records check status of the caregiver or worker.
+25 (2) The registry shall contain links to:
+26 (a) Sites that explain the training requirements for the certification of each type of home or
+27 community-based services caregiver described in ORS 443.515 (1)(b); and
+28 (b) The home care registry, as defined in ORS 410.600, for members of the public to find home
+29 care workers.
+30 (3) The department shall create a process for a home or community-based services caregiver or
+31 worker to request to be excluded from the registry.
+32 (4) The department shall prominently display a notice on the registry that states that:
+33 (a) Home or community-based services caregivers and workers may choose not to be listed on
+34 the registry; and
+35 (b) The registry is not an exclusive list of all home and community-based services caregivers
+36 and workers that are qualified and trained in this state.
+37 (5) The department may include on the registry disclaimers, user guidance and other resources
+38 that the department deems appropriate to help users of the registry.
+39 (6) This section does not prohibit the department from requesting and collecting from home or
+40 community-based services caregivers and workers information in addition to the information that
+41 must be displayed on the registry under subsection (1) of this section.
+42 (7) As used in this section, “worker” means an individual from the home and
+43 community-based services workforce, as defined in section 1 of this 2026 Act.
+44 SECTION 15. ORS 192.670 is amended to read:
+45 192.670. (1) Any meeting, including an executive session, of a governing body of a public body
+[10]
+
+SB 1505
+1 which is held through the use of telephone or other electronic communication shall be conducted in
+2 accordance with ORS 192.610 to 192.705.
+3 (2) When telephone or other electronic means of communication is used and the meeting is not
+4 an executive session, the governing body of the public body shall make available to the public at
+5 least one place where, or at least one electronic means by which, the public can listen to the com-
+6 munication at the time it occurs. A place provided may be a place where no member of the gov-
+7 erning body of the public body is present.
+8 (3) All meetings held by a governing body of a public body, excluding executive sessions, must
+9 provide to members of the general public, to the extent reasonably possible, an opportunity to:
+10 (a) Access and attend the meeting by telephone, video or other electronic or virtual means;
+11 (b) If in-person oral testimony is allowed, submit during the meeting oral testimony by telephone,
+12 video or other electronic or virtual means; and
+13 (c) If in-person written testimony is allowed, submit written testimony, including by electronic
+14 mail or other electronic means, so that the governing body is able to consider the submitted testi-
+15 mony in a timely manner.
+16 (4) The provisions of subsection (3) of this section:
+17 (a) Apply to:
+18 (A) Hearings under ORS 197.797, 215.402 to 215.438 and 215.700 to 215.780 regardless of whether
+19 a governing body or governing body’s designee, including a hearings officer, conducts the hearing;
+20 and
+21 (B) Public hearings under section 5 of this 2026 Act; and
+22 (b) Do not apply to contested case hearings under ORS chapter 183.
+23 SECTION 16. (1)(a) The Home and Community-Based Services Workforce Standards
+24 Board shall consider the information related to prevailing labor market conditions described
+25 under section 6 (3) of this 2026 Act no later than September 30, 2028.
+26 (b) The board shall adopt rules establishing the initial minimum standards under section
+27 6 of this 2026 Act following completion of the initial market study described in paragraph (a)
+28 of this subsection, but not sooner than March 1, 2029.
+29 (2) If, as a result of a fiscal impact analysis conducted under section 6 (4) of this 2026
+30 Act, the Bureau of Labor and Industries, the Department of Consumer and Business Ser-
+31 vices, the Department of Human Services or the Oregon Health Authority determines that
+32 a proposed minimum standard will require any increase to state funding levels or otherwise
+33 result in an increase in the fiscal obligations of the state, the board shall report to the
+34 Legislative Assembly and to the Governor the increase in funding needed to implement the
+35 standard. The rule establishing the standard may not take effect until the regular legislative
+36 session next following provided that an appropriation has been made for purposes of imple-
+37 menting and enforcing the standard, in the regular legislative session next following.
+38 SECTION 17. The unit and section captions used in this 2026 Act are provided only for
+39 the convenience of the reader and do not become part of the statutory law of this state or
+40 express any legislative intent in the enactment of this 2026 Act.
+41
+[11]
+
+[DELETED:  B 1 i n a n o o t p o t P ( t r c b t L A I i a e b s o t e f o t.T t d o t b D t b t e m a c s w R t b t t c a a p m s.D c s a t c a f a t d w a p m s w i t f o t b t r t n t i t s P t a r e a m s n t e b t L A h a f a t b h i i s a o o e a t t t m d r i r f a o v o t m s e b t t b t c a q c r i a l m t i t b d t a n m s o r e s t b t s a b r t t G a t L A t r o t c r a a a t b t b i trb t o r a b t D o H S t i t a p h c b t b b a t e o t t H a C S W S B c n s h t r t d s e s a i c a l f l i t c;a a s w a r w i e t e a t s t e s t v o c f a w b p a s f f h t d c p a p d o f t h a c s w d i t s d:M[]]
+[DELETED: B1 c s;a c i e a t a a m p o s t t s h s a s f c a s a r c h a c s s r a.D “ c s m e o a r c f a r S a o d l i b n l t b d “ o m a n t a w m i o o i e t e w o t h a c “ a c s w i t f w A i p i c s a a e o o u a a]
+[DELETED: B1 “ t f a “ t h h t m.E A b t m i t s o t w i M r t r t m w s e b T m a b t G w r e o i]
+[DELETED: B1 O m a b t G w r t D;ad1 M o t b s c w a s a T t o a m o t b i t y a t m m b r.I a c w s p o.I N t t o o s b s 2 o t 2 A o t 4.I s s N s 2 ( o t 2 A t d m e n m t t s m t c o t t b d t b i f t d b w b a]
+[DELETED: B1 5.C m ( M o t H a C W S B s r s c a a uS2 A m o m o t b c a q f t t o A m o t b s b h a p m i.M s t H a C S W S B s r e m s f t h a c s t a d t i t w c o s w a t A l p o o b t t h a c s S c r f p i i t h a c w p t t r a n l t t m w r e E c a c f p e a p d o a c p f t h a c s O a e t f i i r t t h a C b a a t w i c o]
+[DELETED: B1 T f c a f w f t h a c w l o e a o i s i i r d d s o f s a l g e r t o h a c s i s l n;a s w h a c s a c a t a t h a c s w i r h a s a t i f m s h b t b r t a C w t H C C t e t t m s p t A X s 1 o t O C o O 4 t C w i r h a c s i f d d a a c t e t t p R a r t v o s i a i a c s o;a s i b]
+[DELETED: B1 B o L a I t D o C a B f i a t d w a p m s o t b r a i t s f l o o r i a i i t o o t s i b n l t a i i M rtr I a d i m u p ( o t s t a p s w r a i t s f l o o r i i i t f o o t s t b s r t t L t w i n f i a e o t r e t m s t b s I t d o t d o t O H t a f t C f M a f t C f M a M S t b i a t m a u r i t t b c R e m s u t s s b a b t 7.C r ( A l o e f y t H a S W S B s c a c r o t A p o t r t b s c a l m a o t c f t h a c s w t e I c t l m a t b s c w a t]
+[DELETED: B1 8.R ( T H a C S W S A b J 3 o e e y o t b a a c t t b m s f c r p t t T M r r f t h a c s;a S s a d r c p a b p t p h p u t i t m s A d o t c m s e b t b a r c t t s a w a s d f tdc t b sDA.I i o a c w t m s e b A t C o t B o L a I m c i.R a w f t h a c s w b t]
+[DELETED: B1rh.R u s 6 o t 2 A t e a w f t h a o a m s e b t H a C S C a c a i t c c o a j f.A h v t m s i t p h c t a v A l o m f a c a u t s o o b o U p i a a u t s t p m r a a t c s a r a f a c t t p.L L i w o r t r o a p t a c b D t r o r t a o a t a w f.E.( a C S W S B u s 6 o t6A C i f e s a r w e a]
+[DELETED: B1 T b s a r a u t n r u t s ( T D o H S s m a o  s c r t i a t t p a t l h o[] C s o t w a a e e b t w i;a S t e t t r f t c o e t o h o T T r i n a e l o a h a c s c T s c a i i a t t i t A u i t s “ m a i f t h a a g b o a p b]
+[DELETED: B1 e s t g b o t p b s m a t t p a.A p m b a p w n m o t g i a s w t i b e o g b o g 1.( T H a C S W S I a a r o a f i t B o L a I t D o C a B S i a i i t f o o t s t b s r t t.T o f]

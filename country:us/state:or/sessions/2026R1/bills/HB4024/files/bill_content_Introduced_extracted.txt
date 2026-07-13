@@ -1,0 +1,229 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4024
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Commerce and Consumer Protection for Representative Nathan Sosa)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Says a reseller may not offer or resell a ticket unless the reseller has or can get the
+ticket. (Flesch Readability Score: 62.8).
+Prohibits a reseller or person affiliated with a reseller from offering for resale or engaging in
+a resale of an admission ticket unless the reseller or person affiliated with the reseller has actual
+or constructive possession of the admission ticket or explicit authorization in a written contract to
+obtain the admission ticket from an operator, a ticket seller or a person the operator or ticket seller
+authorized to purchase the admission ticket in an initial sale.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to speculative ticket sales; amending ORS 646A.115; and prescribing an effective date.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. ORS 646A.115 is amended to read:
+5 646A.115. (1) As used in this section:
+6 (a) “Admission ticket” means evidence of a purchaser’s right of entry to a venue other than a
+7 commercial motion picture theater or an entertainment event other than a movie shown at a com-
+8 mercial motion picture theater.
+9 (b)(A) “Entertainment event” means a performance, recreation, amusement, diversion, spectacle,
+10 show or similar event that occurs in this state including, but not limited to, a theatrical or musical
+11 performance, concert, film, game, ride or sporting event.
+12 (B) “Entertainment event” does not include a trade show.
+13 (c) “Initial sale” means a ticket seller’s first sale of an admission ticket to a purchaser.
+14 (d) “Operator” means a person that owns, operates or controls a venue or that produces or
+15 promotes an entertainment event, or the person’s agent or employee.
+16 (e) “Presale” means a sale of admission tickets to a selected group of purchasers with the per-
+17 mission of the ticket seller before admission tickets become available for purchase to the general
+18 public.
+19 (f) “Promoter” means a person that organizes financing or publicity for an entertainment event,
+20 or the person’s agent or employee.
+21 (g) “Purchaser” means an individual who purchases an admission ticket as admission to an
+22 entertainment event.
+23 (h) “Resale” means a sale other than a ticket seller or an operator’s initial sale of an admission
+24 ticket for a venue that is located in or an entertainment event that occurs in this state, irrespective
+25 of the location in which the sale occurs or the means by which a reseller solicits or advertises the
+26 sale or delivers or receives payment for the admission ticket.
+27 (i) “Reseller” means a person other than a ticket seller or an operator that conducts a resale,
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 137
+HB 4024
+1 or the person’s agent or employee.
+2 (j) “Ticket seller” means a person, including but not limited to an operator or promoter, that
+3 makes an admission ticket available for presale or an initial sale to a purchaser or reseller, or the
+4 person’s agent or employee.
+5 (k) “Venue” means a location in which an entertainment event occurs, entry to which requires
+6 an admission ticket.
+7 (2)(a) A person may not willfully sell or use software, the purpose of which is to circumvent,
+8 thwart, interfere with or evade a control or measure, including a security measure or an access
+9 control system, that an operator, ticket seller or reseller establishes or uses to ensure an equitable
+10 distribution, sale or resale of admission tickets for an entertainment event, including a public or
+11 private presale of admission tickets, or to limit the number of admission tickets a single purchaser
+12 may purchase from a ticket seller or reseller.
+13 (b) A person may not willfully sell or offer to sell an admission ticket that the person obtained
+14 using software described in paragraph (a) of this subsection.
+15 (3)(a) Except as provided in paragraph (b) of this subsection, a person may not, without prior
+16 written authorization, willfully:
+17 (A) Use or cause another person to use an Internet domain name or subdomain name if the do-
+18 main name or subdomain name:
+19 (i) Names the venue;
+20 (ii) Names the entertainment event or an individual or entity that is scheduled to appear or
+21 perform at the entertainment event; or
+22 (iii) Is substantially similar to the name of the venue, of the entertainment event or of a person
+23 or entity that is scheduled to appear or perform at the entertainment event; or
+24 (B) Publish or cause another person to publish a website that has or uses:
+25 (i) Text, images, graphics, a design or other material that individually or in combination is so
+26 substantially similar to the intellectual property of an operator or venue as to mislead a reasonable
+27 visitor to the website into believing that the website is affiliated with the operator or venue; or
+28 (ii) Text, images, graphics or a design that states or implies, including by use of the word “of-
+29 ficial,” that the website is affiliated with or endorsed by an operator or venue or an individual or
+30 entity that is scheduled to appear or perform at an entertainment event.
+31 (b) Paragraph (a) of this subsection does not apply to a person that is licensed to use an image
+32 of, or is otherwise authorized to act on behalf of:
+33 (A) A venue, a promoter or another person that is scheduled to appear or perform at an enter-
+34 tainment event; or
+35 (B) A promoter or sponsor of:
+36 (i) The entertainment event; or
+37 (ii) A person that is scheduled to appear or perform at the entertainment event.
+38 (c) A seating chart of a venue or a picture of a view from a seat in a venue does not constitute
+39 text, images, graphics or a design that a person may not publish or cause another person to publish
+40 under paragraph (a)(B) of this subsection.
+41 (4) A reseller or person affiliated with a reseller may not offer for resale or engage in a
+42 resale of an admission ticket unless the reseller or person affiliated with the reseller:
+43 (a) Has actual or constructive possession of the admission ticket; or
+44 (b) Has explicit authorization in a written contract with an operator to obtain the ad-
+45 mission ticket from the operator, a ticket seller or a person that the operator or ticket seller
+[2]
+HB 4024
+1 authorized to purchase the admission ticket from the operator or ticket seller in an initial
+2 sale.
+3 [(4)] (5) Violation of this section is an unlawful practice under ORS 646.608 that is subject to
+4 an action under ORS 646.632 and 646.638.
+5 SECTION 2. This 2026 Act takes effect on the 91st day after the date on which the 2026
+6 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+7
+[3]
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T S a r m n o o r a t u t r h o c g t a r f o f r o e i r o a “ t m c “ m a p t o o o c a v o t p o o t t s b a t b a f p t t g “ m a i w p a a t a a t ate r:M[]]
+[DELETED: B4 “ s m a p i b n l t a o o p t A p m n w s o u s t p o w i t c i w o e a c o m i a s m o a a s o r o a t f a e e i a p o E a p i p ( o t s a p m n w p N t e e o a i o e t i s t a o T i g a d o o m t “ t t w i H e a i a w c w a o t o t a]
+[DELETED: B4] t s i a u p u O 6 t i s t.T]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4024
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Commerce and Consumer Protection for Representative Nathan Sosa)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Says a reseller may not offer or resell a ticket unless the reseller has or can get the
+ticket. (Flesch Readability Score: 62.8).
+Prohibits a reseller or person affiliated with a reseller from offering for resale or engaging in
+a resale of an admission ticket unless the reseller or person affiliated with the reseller has actual
+or constructive possession of the admission ticket or explicit authorization in a written contract to
+obtain the admission ticket from an operator, a ticket seller or a person the operator or ticket seller
+authorized to purchase the admission ticket in an initial sale.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to speculative ticket sales; amending ORS 646A.115; and prescribing an effective date.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. ORS 646A.115 is amended to read:
+5 646A.115. (1) As used in this section:
+6 (a) “Admission ticket” means evidence of a purchaser’s right of entry to a venue other than a
+7 commercial motion picture theater or an entertainment event other than a movie shown at a com-
+8 mercial motion picture theater.
+9 (b)(A) “Entertainment event” means a performance, recreation, amusement, diversion, spectacle,
+10 show or similar event that occurs in this state including, but not limited to, a theatrical or musical
+11 performance, concert, film, game, ride or sporting event.
+12 (B) “Entertainment event” does not include a trade show.
+13 (c) “Initial sale” means a ticket seller’s first sale of an admission ticket to a purchaser.
+14 (d) “Operator” means a person that owns, operates or controls a venue or that produces or
+15 promotes an entertainment event, or the person’s agent or employee.
+16 (e) “Presale” means a sale of admission tickets to a selected group of purchasers with the per-
+17 mission of the ticket seller before admission tickets become available for purchase to the general
+18 public.
+19 (f) “Promoter” means a person that organizes financing or publicity for an entertainment event,
+20 or the person’s agent or employee.
+21 (g) “Purchaser” means an individual who purchases an admission ticket as admission to an
+22 entertainment event.
+23 (h) “Resale” means a sale other than a ticket seller or an operator’s initial sale of an admission
+24 ticket for a venue that is located in or an entertainment event that occurs in this state, irrespective
+25 of the location in which the sale occurs or the means by which a reseller solicits or advertises the
+26 sale or delivers or receives payment for the admission ticket.
+27 (i) “Reseller” means a person other than a ticket seller or an operator that conducts a resale,
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 137
+
+HB 4024
+1 or the person’s agent or employee.
+2 (j) “Ticket seller” means a person, including but not limited to an operator or promoter, that
+3 makes an admission ticket available for presale or an initial sale to a purchaser or reseller, or the
+4 person’s agent or employee.
+5 (k) “Venue” means a location in which an entertainment event occurs, entry to which requires
+6 an admission ticket.
+7 (2)(a) A person may not willfully sell or use software, the purpose of which is to circumvent,
+8 thwart, interfere with or evade a control or measure, including a security measure or an access
+9 control system, that an operator, ticket seller or reseller establishes or uses to ensure an equitable
+10 distribution, sale or resale of admission tickets for an entertainment event, including a public or
+11 private presale of admission tickets, or to limit the number of admission tickets a single purchaser
+12 may purchase from a ticket seller or reseller.
+13 (b) A person may not willfully sell or offer to sell an admission ticket that the person obtained
+14 using software described in paragraph (a) of this subsection.
+15 (3)(a) Except as provided in paragraph (b) of this subsection, a person may not, without prior
+16 written authorization, willfully:
+17 (A) Use or cause another person to use an Internet domain name or subdomain name if the do-
+18 main name or subdomain name:
+19 (i) Names the venue;
+20 (ii) Names the entertainment event or an individual or entity that is scheduled to appear or
+21 perform at the entertainment event; or
+22 (iii) Is substantially similar to the name of the venue, of the entertainment event or of a person
+23 or entity that is scheduled to appear or perform at the entertainment event; or
+24 (B) Publish or cause another person to publish a website that has or uses:
+25 (i) Text, images, graphics, a design or other material that individually or in combination is so
+26 substantially similar to the intellectual property of an operator or venue as to mislead a reasonable
+27 visitor to the website into believing that the website is affiliated with the operator or venue; or
+28 (ii) Text, images, graphics or a design that states or implies, including by use of the word “of-
+29 ficial,” that the website is affiliated with or endorsed by an operator or venue or an individual or
+30 entity that is scheduled to appear or perform at an entertainment event.
+31 (b) Paragraph (a) of this subsection does not apply to a person that is licensed to use an image
+32 of, or is otherwise authorized to act on behalf of:
+33 (A) A venue, a promoter or another person that is scheduled to appear or perform at an enter-
+34 tainment event; or
+35 (B) A promoter or sponsor of:
+36 (i) The entertainment event; or
+37 (ii) A person that is scheduled to appear or perform at the entertainment event.
+38 (c) A seating chart of a venue or a picture of a view from a seat in a venue does not constitute
+39 text, images, graphics or a design that a person may not publish or cause another person to publish
+40 under paragraph (a)(B) of this subsection.
+41 (4) A reseller or person affiliated with a reseller may not offer for resale or engage in a
+42 resale of an admission ticket unless the reseller or person affiliated with the reseller:
+43 (a) Has actual or constructive possession of the admission ticket; or
+44 (b) Has explicit authorization in a written contract with an operator to obtain the ad-
+45 mission ticket from the operator, a ticket seller or a person that the operator or ticket seller
+[2]
+
+HB 4024
+1 authorized to purchase the admission ticket from the operator or ticket seller in an initial
+2 sale.
+3 [(4)] (5) Violation of this section is an unlawful practice under ORS 646.608 that is subject to
+4 an action under ORS 646.632 and 646.638.
+5 SECTION 2. This 2026 Act takes effect on the 91st day after the date on which the 2026
+6 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+7
+[3]
+
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T S a r m n o o r a t u t r h o c g t a r f o f r o e i r o a “ t m c “ m a p t o o o c a v o t p o o t t s b a t b a f p t t g “ m a i w p a a t a a t ate r:M[]]
+[DELETED: B4 “ s m a p i b n l t a o o p t A p m n w s o u s t p o w i t c i w o e a c o m i a s m o a a s o r o a t f a e e i a p o E a p i p ( o t s a p m n w p N t e e o a i o e t i s t a o T i g a d o o m t “ t t w i H e a i a w c w a o t o t a]
+[DELETED: B4] t s i a u p u O 6 t i s t.T]

@@ -1,0 +1,384 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Senate Bill 1556
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Chief Justice Meagan A. Flynn for Judicial Department)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes the laws for the magistrate division of the Oregon Tax Court. (Flesch
+Readability Score: 65.7).
+Consolidates statutes governing the representation of parties before the magistrate division of
+the Oregon Tax Court.
+Applies to proceedings commenced on or after January 1, 2027.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to representation of persons in the magistrate division of the Oregon Tax Court; creating
+3 new provisions; amending ORS 305.239, 305.242 and 305.875; repealing ORS 305.245 and 305.494;
+4 and prescribing an effective date.
+5 Be It Enacted by the People of the State of Oregon:
+6 SECTION 1. Section 2 of this 2026 Act is added to and made a part of ORS 305.404 to
+7 305.560.
+8 SECTION 2. (1) Notwithstanding ORS 8.690, 9.160, 9.320 or 203.145 or ORS chapter 180,
+9 and notwithstanding ORS 9.241 or any rule adopted thereunder unless the rule particularly
+10 refers to the magistrate division of the Oregon Tax Court, in lieu of appearing by an attorney
+11 who is an active licensee of the Oregon State Bar:
+12 (a) A party to a proceeding in the magistrate division of the Oregon Tax Court may be
+13 represented by a natural person designated by the party and recognized by the court as an
+14 authorized representative under this section.
+15 (b) A party that is represented under this subsection is bound by all things done by the
+16 authorized representative and may not thereafter claim that any proceeding was legally de-
+17 fective because the party was not represented by an attorney licensed to practice law in
+18 Oregon.
+19 (c)(A) A taxpayer that is a natural person may designate as the taxpayer’s representative
+20 any other natural person, including a certified public accountant, an individual who is li-
+21 censed as a real estate broker or principal real estate broker under ORS 696.022, an individ-
+22 ual who is a state certified appraiser or state licensed appraiser under ORS 674.310 or is a
+23 registered appraiser under ORS 308.010, a tax preparer or tax consultant licensed under ORS
+24 673.605 to 673.740 or a family member of the taxpayer.
+25 (B) A taxpayer that is a legal entity must designate as the taxpayer’s representative in
+26 the magistrate division of the Oregon Tax Court a natural person, which may include a cer-
+27 tified public accountant, an individual who is licensed as a real estate broker or principal real
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 245
+SB 1556
+1 estate broker under ORS 696.022, an individual who is a state certified appraiser or state li-
+2 censed appraiser under ORS 674.310 or is a registered appraiser under ORS 308.010, a tax
+3 preparer or tax consultant licensed under ORS 673.605 to 673.740 or an owner, partner,
+4 shareholder, member, officer or employer of the legal entity.
+5 (c) Any other party, including the Department of Revenue or a local government, must
+6 designate as the party’s representative in the magistrate division of the Oregon Tax Court
+7 an officer or authorized employee of the party or of the administrator of the tax at issue
+8 before the tax court.
+9 (2)(a) A taxpayer shall designate a representative under this section by filing with the
+10 court a written authorization in a form acceptable to the court.
+11 (b) Any other party shall designate a representative under this section by filing a plead-
+12 ing, motion or notice with the court naming the representative on behalf of the party.
+13 (3) The court shall recognize a representative for purposes of this section upon desig-
+14 nation as provided under subsection (2) of this section, or may recognize a representative
+15 when it appears to the satisfaction of the magistrate that a representative has authority to
+16 represent the party.
+17 (4) Upon recognizing a representative of a taxpayer other than an attorney licensed to
+18 practice law in Oregon, the court shall provide written notice of the recognition to all par-
+19 ties, and shall include with the notice a statement of the provisions of subsection (1)(b) of
+20 this section.
+21 (5) The represented party, or the court on its own motion, may revoke the authority of
+22 an authorized representative to represent a party in a particular case.
+23 (6) A representative recognized by the court under this section shall also be recognized
+24 by the Department of Revenue as the authorized representative of the party for purposes
+25 of a related proceeding in the magistrate division of the Oregon Tax Court.
+26 SECTION 3. ORS 305.239 is amended to read:
+27 305.239. (1) Notwithstanding ORS 9.320:
+28 (a) Any person who is qualified to practice law or public accountancy in this state, any person
+29 who has been granted active enrollment to practice before the Internal Revenue Service and who
+30 is qualified to prepare tax returns in this state or any person who is the authorized employee of a
+31 taxpayer and is regularly employed by the taxpayer in tax matters may represent the taxpayer be-
+32 fore [a tax court magistrate or] the Department of Revenue in any conference or proceeding with
+33 respect to the administration of any tax.
+34 (b) Any person who is licensed by the State Board of Tax Practitioners or who is exempt from
+35 such licensing requirement as provided for and limited by ORS 673.610 may represent a taxpayer
+36 before [a tax court magistrate or] the department in any conference or proceeding with respect to
+37 the administration of any tax on or measured by net income.
+38 (c) Any shareholder of an S corporation, as defined in section 1361 of the Internal Revenue
+39 Code, as amended and in effect on December 31, 2023, may represent the corporation in any pro-
+40 ceeding before [a tax court magistrate or] the department in the same manner as if the shareholder
+41 were a partner and the S corporation were a partnership. The S corporation must designate in
+42 writing a tax matters shareholder authorized to represent the S corporation.
+43 (d) An individual who is licensed as a real estate broker or principal real estate broker under
+44 ORS 696.022 or is a state certified appraiser or state licensed appraiser under ORS 674.310 or is a
+45 registered appraiser under ORS 308.010 may represent a taxpayer before [a tax court magistrate or]
+[2]
+SB 1556
+1 the department in any conference or proceeding with respect to the administration of any ad
+2 valorem property tax.
+3 (e) A general partner who has been designated by members of a partnership as their tax matters
+4 partner under ORS 305.242 may represent those partners in any conference or proceeding with re-
+5 spect to the administration of any tax on or measured by net income.
+6 (f) Any person authorized under rules adopted by the department may represent a taxpayer be-
+7 fore the department in any conference or proceeding with respect to any tax. Rules adopted under
+8 this paragraph, to the extent feasible, shall be consistent with federal law that governs represen-
+9 tation before the Internal Revenue Service, as federal law is amended and in effect on December 31,
+10 2023.
+11 [(g) Any person authorized under rules adopted by the tax court may represent a taxpayer in a
+12 proceeding before a tax court magistrate.]
+13 (2) A person may not be recognized as representing a taxpayer pursuant to this section unless
+14 there is first filed with the [magistrate or] department a written authorization, or unless it appears
+15 to the satisfaction of the [magistrate or] department that the representative does in fact have au-
+16 thority to represent the taxpayer. A person recognized as an authorized representative [under rules
+17 or procedures adopted] by the tax court shall be considered an authorized representative by the de-
+18 partment for the purpose of a proceeding in the magistrate division of the tax court.
+19 (3) A taxpayer represented by someone other than an attorney is bound by all things done by
+20 the authorized representative, and may not thereafter claim any proceeding was legally defective
+21 because the taxpayer was not represented by an attorney.
+22 (4) Prior to the holding of a conference or proceeding before the [tax court magistrate or] de-
+23 partment, written notice shall be given by the [magistrate or] department to the taxpayer of the
+24 provisions of subsection (3) of this section.
+25 SECTION 4. ORS 305.242 is amended to read:
+26 305.242. (1)(a) When the treatment of partnership items on a partner’s return is consistent with
+27 the treatment of that item on the partnership return and results in a notice of deficiency, the part-
+28 ners may designate a tax matters partner to represent each of them before the Department of Re-
+29 venue in any conference or [before a tax court magistrate] in any proceeding with respect to the
+30 administration of any tax on or measured by net income.
+31 (b) Notwithstanding paragraph (a) of this subsection, a tax matters partner shall be designated
+32 as provided in ORS 314.733 (2), in the case of a partnership subject to ORS 314.731 to 314.737.
+33 (2) The designation of a tax matters partner shall be made in writing and filed with the de-
+34 partment [or magistrate] within 30 days after the date of the notice of deficiency. The tax matters
+35 partner must be:
+36 (a) A general partner in the partnership at some time during the taxable year; or
+37 (b) A general partner in the partnership at the time the designation is made.
+38 (3) If a notice explaining the partnership adjustments is mailed by the department to the tax
+39 matters partner with respect to any partnership taxable year, the tax matters partner shall supply
+40 the department [or, if applicable, the magistrate] with the name, address, profits interest and taxpayer
+41 identification number of each person who was a partner in the partnership at any time during the
+42 taxable year, unless that information was provided in the partnership return for that year.
+43 (4) A timely request for a conference filed with the department [or appeal filed with the tax
+44 court] by the tax matters partner shall be considered as a request [or an appeal] by all of the part-
+45 ners represented by the tax matters partner, and all issues regarding treatment of partnership items
+[3]
+SB 1556
+1 shall be resolved in a single conference.
+2 (5) A partner who elects to be represented by a tax matters partner, or any partner in a part-
+3 nership subject to ORS 314.731 to 314.737, shall be bound by all things done by the tax matters
+4 partner and may not thereafter claim that any act or proceeding was legally defective because the
+5 partner was not represented by an attorney.
+6 SECTION 5. ORS 305.875 is amended to read:
+7 305.875. In any meeting or communication with the Department of Revenue, including but not
+8 limited to audits, conferences, interviews and any other meeting or communication between the
+9 taxpayer and the department, the taxpayer shall have the following rights, unless waived by the
+10 taxpayer:
+11 (1) The right to an explanation, by an officer or employee of the department before or during
+12 the meeting of:
+13 (a) The audit, conference or meeting process and the taxpayer’s rights under such process; and
+14 (b) The collection process and the taxpayer’s rights under such process.
+15 (2) The right to make an audio recording of any meeting relating to the determination or col-
+16 lection of any tax with the department representative, using the taxpayer’s own equipment, and at
+17 the taxpayer’s own expense.
+18 (3) If the department makes an audio recording of the meeting, the taxpayer has the right to
+19 advance notice of the recording and a copy of the recording upon request. The taxpayer shall re-
+20 imburse the department the reasonable cost of the copy.
+21 (4) The right to consult with an attorney, certified public accountant, enrolled agent, or an other
+22 person permitted to represent a taxpayer at any meeting before the department, if the taxpayer
+23 clearly states to the department representative at any time during any meeting, that the taxpayer
+24 wishes to consult with the person. This subsection does not apply to a meeting initiated by an ad-
+25 ministrative subpoena.
+26 (5) The right to be represented by anyone who is permitted to represent the taxpayer before the
+27 department, as provided under ORS 305.239 and [305.245] section 2 of this 2026 Act.
+28 (6) The right not to be present, if represented, at the meeting unless subpoenaed by the depart-
+29 ment pursuant to ORS 305.190, or other laws of this state.
+30 SECTION 6. ORS 305.245 and 305.494 are repealed.
+31 SECTION 7. Section 2 of this 2026 Act, the amendments to ORS 305.239, 305.242 and
+32 305.875 by sections 3 to 5 of this 2026 Act and the repeal of ORS 305.245 and 305.494 by section
+33 6 of this 2026 Act apply to proceedings commenced in the magistrate division of the Oregon
+34 Tax Court on or after January 1, 2027.
+35 SECTION 8. This 2026 Act takes effect on the 91st day after the date on which the 2026
+36 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+37
+[4]
+[DELETED:  B 1 i n a n o o t p o t P ( t r c b t L A I i a e b s o t e f o t.T s g t r o p b t m 1.S 2 o t 2 A i a t a m a p o O 3 t 2.( N O 8 9 9 o 2 o O c 1 b t p w n r b a a l t p l i o n p i a c p a a i w i l:M[]]
+[DELETED: B1 a u O 6 o i a r a u O 3 a t o t c l u O 6 t 6 o a o p o o a e o t p o o t a o t t A t s d a r u t s b f w t T c s r a r f p o t s u d a p u s ( o t s o m r a r U r a r o a a s iss t D o R a t a r o t p f p b g a e t p b t I R S a w [] t D o R i a c o p w t c m o l r a p f a l b O 6 m r a t [] t d i a c o p w r t t c m o A s o a S c a d i s 1 o t I R a a a i e o D 3 2 m r t c i a p[] a p a t S c w a p T S c m d i A i[]
+[DELETED: B1 d i a c o p w r t t a o a a u O p t t e f s b c w f l t g r A p a u r a b t t c m r a t i [] t s o t [] d t t r d i f h a o A t r b s o t a a a r a m n t c a p w l d P t t h o a c o p b t [] c m o w n s b g b t [] d t t t o t o m d a t m p i a c o [] i a p w r t t a t c m T d o a t m p s b m i w a f w t d [] w 3 d a t m I a n e t p a i m b t d t t t[] t A t r f a c f w t d  a f w t tto[]]
+[DELETED: B1 s t O 3 t 3 s b b b a t d b t t m I a m o c w t D o R i b n t a c i a a o m o c b t a t d t t s h t f r u w b t t a e b a o o e o t d b o d T r t m a a r o a m I t d m a a r o t m t t h t r t o t r a a c o t r u r T t s r p t r a t a a m b t d i t t t d a m t t t t[].O 7.S 2 o t 2 A t a t O 3 3 a.T]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1556
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Chief Justice Meagan A. Flynn for Judicial Department)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes the laws for the magistrate division of the Oregon Tax Court. (Flesch
+Readability Score: 65.7).
+Consolidates statutes governing the representation of parties before the magistrate division of
+the Oregon Tax Court.
+Applies to proceedings commenced on or after January 1, 2027.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to representation of persons in the magistrate division of the Oregon Tax Court; creating
+3 new provisions; amending ORS 305.239, 305.242 and 305.875; repealing ORS 305.245 and 305.494;
+4 and prescribing an effective date.
+5 Be It Enacted by the People of the State of Oregon:
+6 SECTION 1. Section 2 of this 2026 Act is added to and made a part of ORS 305.404 to
+7 305.560.
+8 SECTION 2. (1) Notwithstanding ORS 8.690, 9.160, 9.320 or 203.145 or ORS chapter 180,
+9 and notwithstanding ORS 9.241 or any rule adopted thereunder unless the rule particularly
+10 refers to the magistrate division of the Oregon Tax Court, in lieu of appearing by an attorney
+11 who is an active licensee of the Oregon State Bar:
+12 (a) A party to a proceeding in the magistrate division of the Oregon Tax Court may be
+13 represented by a natural person designated by the party and recognized by the court as an
+14 authorized representative under this section.
+15 (b) A party that is represented under this subsection is bound by all things done by the
+16 authorized representative and may not thereafter claim that any proceeding was legally de-
+17 fective because the party was not represented by an attorney licensed to practice law in
+18 Oregon.
+19 (c)(A) A taxpayer that is a natural person may designate as the taxpayer’s representative
+20 any other natural person, including a certified public accountant, an individual who is li-
+21 censed as a real estate broker or principal real estate broker under ORS 696.022, an individ-
+22 ual who is a state certified appraiser or state licensed appraiser under ORS 674.310 or is a
+23 registered appraiser under ORS 308.010, a tax preparer or tax consultant licensed under ORS
+24 673.605 to 673.740 or a family member of the taxpayer.
+25 (B) A taxpayer that is a legal entity must designate as the taxpayer’s representative in
+26 the magistrate division of the Oregon Tax Court a natural person, which may include a cer-
+27 tified public accountant, an individual who is licensed as a real estate broker or principal real
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 245
+
+SB 1556
+1 estate broker under ORS 696.022, an individual who is a state certified appraiser or state li-
+2 censed appraiser under ORS 674.310 or is a registered appraiser under ORS 308.010, a tax
+3 preparer or tax consultant licensed under ORS 673.605 to 673.740 or an owner, partner,
+4 shareholder, member, officer or employer of the legal entity.
+5 (c) Any other party, including the Department of Revenue or a local government, must
+6 designate as the party’s representative in the magistrate division of the Oregon Tax Court
+7 an officer or authorized employee of the party or of the administrator of the tax at issue
+8 before the tax court.
+9 (2)(a) A taxpayer shall designate a representative under this section by filing with the
+10 court a written authorization in a form acceptable to the court.
+11 (b) Any other party shall designate a representative under this section by filing a plead-
+12 ing, motion or notice with the court naming the representative on behalf of the party.
+13 (3) The court shall recognize a representative for purposes of this section upon desig-
+14 nation as provided under subsection (2) of this section, or may recognize a representative
+15 when it appears to the satisfaction of the magistrate that a representative has authority to
+16 represent the party.
+17 (4) Upon recognizing a representative of a taxpayer other than an attorney licensed to
+18 practice law in Oregon, the court shall provide written notice of the recognition to all par-
+19 ties, and shall include with the notice a statement of the provisions of subsection (1)(b) of
+20 this section.
+21 (5) The represented party, or the court on its own motion, may revoke the authority of
+22 an authorized representative to represent a party in a particular case.
+23 (6) A representative recognized by the court under this section shall also be recognized
+24 by the Department of Revenue as the authorized representative of the party for purposes
+25 of a related proceeding in the magistrate division of the Oregon Tax Court.
+26 SECTION 3. ORS 305.239 is amended to read:
+27 305.239. (1) Notwithstanding ORS 9.320:
+28 (a) Any person who is qualified to practice law or public accountancy in this state, any person
+29 who has been granted active enrollment to practice before the Internal Revenue Service and who
+30 is qualified to prepare tax returns in this state or any person who is the authorized employee of a
+31 taxpayer and is regularly employed by the taxpayer in tax matters may represent the taxpayer be-
+32 fore [a tax court magistrate or] the Department of Revenue in any conference or proceeding with
+33 respect to the administration of any tax.
+34 (b) Any person who is licensed by the State Board of Tax Practitioners or who is exempt from
+35 such licensing requirement as provided for and limited by ORS 673.610 may represent a taxpayer
+36 before [a tax court magistrate or] the department in any conference or proceeding with respect to
+37 the administration of any tax on or measured by net income.
+38 (c) Any shareholder of an S corporation, as defined in section 1361 of the Internal Revenue
+39 Code, as amended and in effect on December 31, 2023, may represent the corporation in any pro-
+40 ceeding before [a tax court magistrate or] the department in the same manner as if the shareholder
+41 were a partner and the S corporation were a partnership. The S corporation must designate in
+42 writing a tax matters shareholder authorized to represent the S corporation.
+43 (d) An individual who is licensed as a real estate broker or principal real estate broker under
+44 ORS 696.022 or is a state certified appraiser or state licensed appraiser under ORS 674.310 or is a
+45 registered appraiser under ORS 308.010 may represent a taxpayer before [a tax court magistrate or]
+[2]
+
+SB 1556
+1 the department in any conference or proceeding with respect to the administration of any ad
+2 valorem property tax.
+3 (e) A general partner who has been designated by members of a partnership as their tax matters
+4 partner under ORS 305.242 may represent those partners in any conference or proceeding with re-
+5 spect to the administration of any tax on or measured by net income.
+6 (f) Any person authorized under rules adopted by the department may represent a taxpayer be-
+7 fore the department in any conference or proceeding with respect to any tax. Rules adopted under
+8 this paragraph, to the extent feasible, shall be consistent with federal law that governs represen-
+9 tation before the Internal Revenue Service, as federal law is amended and in effect on December 31,
+10 2023.
+11 [(g) Any person authorized under rules adopted by the tax court may represent a taxpayer in a
+12 proceeding before a tax court magistrate.]
+13 (2) A person may not be recognized as representing a taxpayer pursuant to this section unless
+14 there is first filed with the [magistrate or] department a written authorization, or unless it appears
+15 to the satisfaction of the [magistrate or] department that the representative does in fact have au-
+16 thority to represent the taxpayer. A person recognized as an authorized representative [under rules
+17 or procedures adopted] by the tax court shall be considered an authorized representative by the de-
+18 partment for the purpose of a proceeding in the magistrate division of the tax court.
+19 (3) A taxpayer represented by someone other than an attorney is bound by all things done by
+20 the authorized representative, and may not thereafter claim any proceeding was legally defective
+21 because the taxpayer was not represented by an attorney.
+22 (4) Prior to the holding of a conference or proceeding before the [tax court magistrate or] de-
+23 partment, written notice shall be given by the [magistrate or] department to the taxpayer of the
+24 provisions of subsection (3) of this section.
+25 SECTION 4. ORS 305.242 is amended to read:
+26 305.242. (1)(a) When the treatment of partnership items on a partner’s return is consistent with
+27 the treatment of that item on the partnership return and results in a notice of deficiency, the part-
+28 ners may designate a tax matters partner to represent each of them before the Department of Re-
+29 venue in any conference or [before a tax court magistrate] in any proceeding with respect to the
+30 administration of any tax on or measured by net income.
+31 (b) Notwithstanding paragraph (a) of this subsection, a tax matters partner shall be designated
+32 as provided in ORS 314.733 (2), in the case of a partnership subject to ORS 314.731 to 314.737.
+33 (2) The designation of a tax matters partner shall be made in writing and filed with the de-
+34 partment [or magistrate] within 30 days after the date of the notice of deficiency. The tax matters
+35 partner must be:
+36 (a) A general partner in the partnership at some time during the taxable year; or
+37 (b) A general partner in the partnership at the time the designation is made.
+38 (3) If a notice explaining the partnership adjustments is mailed by the department to the tax
+39 matters partner with respect to any partnership taxable year, the tax matters partner shall supply
+40 the department [or, if applicable, the magistrate] with the name, address, profits interest and taxpayer
+41 identification number of each person who was a partner in the partnership at any time during the
+42 taxable year, unless that information was provided in the partnership return for that year.
+43 (4) A timely request for a conference filed with the department [or appeal filed with the tax
+44 court] by the tax matters partner shall be considered as a request [or an appeal] by all of the part-
+45 ners represented by the tax matters partner, and all issues regarding treatment of partnership items
+[3]
+
+SB 1556
+1 shall be resolved in a single conference.
+2 (5) A partner who elects to be represented by a tax matters partner, or any partner in a part-
+3 nership subject to ORS 314.731 to 314.737, shall be bound by all things done by the tax matters
+4 partner and may not thereafter claim that any act or proceeding was legally defective because the
+5 partner was not represented by an attorney.
+6 SECTION 5. ORS 305.875 is amended to read:
+7 305.875. In any meeting or communication with the Department of Revenue, including but not
+8 limited to audits, conferences, interviews and any other meeting or communication between the
+9 taxpayer and the department, the taxpayer shall have the following rights, unless waived by the
+10 taxpayer:
+11 (1) The right to an explanation, by an officer or employee of the department before or during
+12 the meeting of:
+13 (a) The audit, conference or meeting process and the taxpayer’s rights under such process; and
+14 (b) The collection process and the taxpayer’s rights under such process.
+15 (2) The right to make an audio recording of any meeting relating to the determination or col-
+16 lection of any tax with the department representative, using the taxpayer’s own equipment, and at
+17 the taxpayer’s own expense.
+18 (3) If the department makes an audio recording of the meeting, the taxpayer has the right to
+19 advance notice of the recording and a copy of the recording upon request. The taxpayer shall re-
+20 imburse the department the reasonable cost of the copy.
+21 (4) The right to consult with an attorney, certified public accountant, enrolled agent, or an other
+22 person permitted to represent a taxpayer at any meeting before the department, if the taxpayer
+23 clearly states to the department representative at any time during any meeting, that the taxpayer
+24 wishes to consult with the person. This subsection does not apply to a meeting initiated by an ad-
+25 ministrative subpoena.
+26 (5) The right to be represented by anyone who is permitted to represent the taxpayer before the
+27 department, as provided under ORS 305.239 and [305.245] section 2 of this 2026 Act.
+28 (6) The right not to be present, if represented, at the meeting unless subpoenaed by the depart-
+29 ment pursuant to ORS 305.190, or other laws of this state.
+30 SECTION 6. ORS 305.245 and 305.494 are repealed.
+31 SECTION 7. Section 2 of this 2026 Act, the amendments to ORS 305.239, 305.242 and
+32 305.875 by sections 3 to 5 of this 2026 Act and the repeal of ORS 305.245 and 305.494 by section
+33 6 of this 2026 Act apply to proceedings commenced in the magistrate division of the Oregon
+34 Tax Court on or after January 1, 2027.
+35 SECTION 8. This 2026 Act takes effect on the 91st day after the date on which the 2026
+36 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+37
+[4]
+
+[DELETED:  B 1 i n a n o o t p o t P ( t r c b t L A I i a e b s o t e f o t.T s g t r o p b t m 1.S 2 o t 2 A i a t a m a p o O 3 t 2.( N O 8 9 9 o 2 o O c 1 b t p w n r b a a l t p l i o n p i a c p a a i w i l:M[]]
+[DELETED: B1 a u O 6 o i a r a u O 3 a t o t c l u O 6 t 6 o a o p o o a e o t p o o t a o t t A t s d a r u t s b f w t T c s r a r f p o t s u d a p u s ( o t s o m r a r U r a r o a a s iss t D o R a t a r o t p f p b g a e t p b t I R S a w [] t D o R i a c o p w t c m o l r a p f a l b O 6 m r a t [] t d i a c o p w r t t c m o A s o a S c a d i s 1 o t I R a a a i e o D 3 2 m r t c i a p[] a p a t S c w a p T S c m d i A i[]
+[DELETED: B1 d i a c o p w r t t a o a a u O p t t e f s b c w f l t g r A p a u r a b t t c m r a t i [] t s o t [] d t t r d i f h a o A t r b s o t a a a r a m n t c a p w l d P t t h o a c o p b t [] c m o w n s b g b t [] d t t t o t o m d a t m p i a c o [] i a p w r t t a t c m T d o a t m p s b m i w a f w t d [] w 3 d a t m I a n e t p a i m b t d t t t[] t A t r f a c f w t d  a f w t tto[]]
+[DELETED: B1 s t O 3 t 3 s b b b a t d b t t m I a m o c w t D o R i b n t a c i a a o m o c b t a t d t t s h t f r u w b t t a e b a o o e o t d b o d T r t m a a r o a m I t d m a a r o t m t t h t r t o t r a a c o t r u r T t s r p t r a t a a m b t d i t t t d a m t t t t[].O 7.S 2 o t 2 A t a t O 3 3 a.T]

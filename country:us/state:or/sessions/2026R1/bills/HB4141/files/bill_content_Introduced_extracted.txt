@@ -1,0 +1,1649 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4141
+Sponsored by Representative BREESE-IVERSON; Representative LEVY E (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Says what a person that bargains with a consumer’s creditors to lower debt can and
+may not do in this state. (Flesch Readability Score: 72.7).
+Requires a person that provides debt resolution services to consumers in this state to register
+with the Department of Consumer and Business Services and regulates the activities of debt resol-
+ution service providers.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to debt resolution services; creating new provisions; amending ORS 697.602, 697.612,
+3 697.632, 697.642, 697.672, 697.702, 697.707, 697.718, 697.732, 697.752 and 697.822; and prescribing
+4 an effective date.
+5 Be It Enacted by the People of the State of Oregon:
+6 SECTION 1. ORS 697.602 is amended to read:
+7 697.602. As used in ORS 697.602 to 697.842:
+8 (1) “Consumer” means:
+9 (a) An individual resident of this state who is obligated or is allegedly obligated to pay a debt
+10 and on whose behalf a debt management service provider performs or agrees to perform a debt
+11 management service[.]; or
+12 (b) An individual resident of this state who has executed an agreement with a debt re-
+13 solution service provider for debt resolution services under section 13 of this 2026 Act.
+14 (2) “Creditor” has the meaning given that term in ORS 646.639.
+15 [(2)] (3)(a) “Debt management service” means an activity for which a person receives money or
+16 other valuable consideration or expects to receive money or other valuable consideration in return
+17 for:
+18 [(a)] (A) Receiving or offering to receive funds from a consumer for the purpose of distributing
+19 the funds among the consumer’s creditors in full or partial payment of the consumer’s debts, whether
+20 or not the person holds the consumer’s funds;
+21 [(b)] (B) Improving or offering to improve or preserve a consumer’s credit record, credit history
+22 or credit rating;
+23 [(c)] (C) Modifying or offering to modify terms and conditions of an existing loan from or obli-
+24 gation to a third party; or
+25 [(d)] (D) Obtaining or attempting to obtain as an intermediary on a consumer’s behalf a con-
+26 cession from a creditor including, but not limited to, a reduction in the principal, interest, penalties
+27 or fees associated with a debt.
+28 (b) “Debt management service” does not include a debt resolution service.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 17
+HB 4141
+1 [(3)] (4)(a) “Debt management service provider” means a person that:
+2 [(a)] (A) Resides or does business in this state; and
+3 [(b)] (B) Provides or performs, or represents that the person can or will provide or perform a
+4 debt management service in return for or in expectation of money or other valuable consideration.
+5 (b) “Debt management service provider” does not include a debt resolution service pro-
+6 vider.
+7 (5)(a) “Debt resolution service” means a program that purports, directly or indirectly,
+8 to:
+9 (A) Reduce the balance of, or the interest rate or fees that apply to, a debt that a con-
+10 sumer owes to an unsecured creditor; or
+11 (B) Negotiate, renegotiate, resolve, reduce or otherwise alter the terms of payment of a
+12 debt that a consumer owes to an unsecured creditor.
+13 (b) “Debt resolution service” does not include a debt management service.
+14 (6)(a) “Debt resolution service provider” means a person that provides a debt resolution
+15 service to a consumer.
+16 (b) “Debt resolution service provider” does not include a debt management service pro-
+17 vider.
+18 (7) “Dedicated account” means an account that meets the criteria set forth in section
+19 13 (2)(a) of this 2026 Act.
+20 (8) “Dedicated account service provider” means a person that administers a consumer’s
+21 dedicated account and facilitates a consumer’s authorized deposits to and withdrawals from
+22 the dedicated account in accordance with the requirements set forth in 16 C.F.R.
+23 310.4(a)(5)(ii), as in effect on the effective date of this 2026 Act.
+24 [(4)] (9) “Nationwide Multistate Licensing System” means a system that the Conference of State
+25 Bank Supervisors and the American Association of Residential Mortgage Regulators, or assigns of
+26 the Conference of State Bank Supervisors or the American Association of Residential Mortgage
+27 Regulators, develop and maintain for participating state agencies to use in licensing and registering
+28 mortgage loan originators and other persons that provide nondepository financial services.
+29 [(5)] (10) “Nonprofit entity” means a person, corporation, organization, board, association or
+30 other entity described in 26 U.S.C. 501(c)(3), as in effect on June 26, 2009, that is exempt from tax-
+31 ation under 26 U.S.C. 501(a).
+32 (11) “Registrant” means a person that the Director of the Department of Consumer and
+33 Business Services registers under ORS 697.632.
+34 SECTION 2. ORS 697.612 is amended to read:
+35 697.612. (1) A person that has not registered with the Director of the Department of Consumer
+36 and Business Services under ORS 697.632 may not engage in business in this state in the course of
+37 which the person:
+38 (a) Provides a debt resolution service;
+39 [(a)] (b) Performs a debt management service; or
+40 [(b)] (c) Receives money or other valuable consideration or expects to receive money or other
+41 valuable consideration for:
+42 (A) Soliciting or receiving an application from a consumer for a debt management service;
+43 (B) Forwarding or providing a completed application for a debt management service to a debt
+44 management service provider;
+45 (C) Referring a consumer to another debt management service provider, if the person is a debt
+[2]
+HB 4141
+1 management service provider;
+2 (D) Providing a consumer’s name, address or other information that identifies the consumer to
+3 a debt management service provider for the purpose of arranging the provision of a debt manage-
+4 ment service; or
+5 (E) Providing advice, assistance, instruction or instructional material concerning a debt man-
+6 agement service to a consumer.
+7 [(2)] (2)(a) A debt management service provider registered under ORS 697.632 may negotiate on
+8 a consumer’s behalf for a reasonable alternative repayment schedule or to reduce a claim described
+9 in 11 U.S.C. 502 if the debt management service provider is a nonprofit budget and credit counseling
+10 agency approved in accordance with 11 U.S.C. 111.
+11 (b) A debt resolution service provider that is registered under ORS 697.632 may provide
+12 a debt resolution service to a consumer.
+13 [(3)] (3)(a) Subsection (1) of this section does not apply to:
+14 [(a)] (A) An employee of a [debt management service provider, if the debt management service
+15 provider is registered under ORS 697.632] registrant.
+16 [(b)] (B) An attorney licensed or authorized to practice law in this state, if the attorney provides
+17 a debt management service or a debt resolution service within an attorney-client relationship
+18 or only incidentally in the practice of law.
+19 [(c)] (C) A financial institution or a trust company, both as defined in ORS 706.008.
+20 [(d)] (D) A consumer finance company licensed under ORS chapter 725.
+21 [(e)] (E) An escrow agent licensed under ORS 696.505 to 696.590 to the extent that the escrow
+22 agent is acting to close an escrow, as defined in ORS 696.505, is engaging in activity related to a
+23 collection escrow, as defined in ORS 696.505, or is serving as a trustee of a trust deed in accordance
+24 with ORS 86.713. This paragraph does not apply if the escrow agent:
+25 [(A)] (i) Assists an unregistered debt management service provider that is not exempt from
+26 registration under this subsection in performing a debt management service; or
+27 [(B)] (ii) Provides escrow services to a consumer in accordance with a debt management ser-
+28 vices plan executed by an unregistered debt management services provider that is not exempt from
+29 registration under this subsection.
+30 [(f)] (F) A mortgage banker or mortgage broker licensed under ORS 86A.095 to 86A.198 or a
+31 mortgage loan originator, as defined in ORS 86A.100.
+32 [(g)] (G) A broker-dealer registered with the United States Securities and Exchange Commission
+33 or the United States Commodity Futures Trading Commission, if the broker-dealer is subject to and
+34 acts in accordance with regulations promulgated by either commission.
+35 [(h)] (H) A consumer reporting agency, as defined in 15 U.S.C. 1681a(f).
+36 [(i)] (I) A public body, as defined in ORS 174.109.
+37 [(j)] (J) A person that is obeying or acting in accordance with a court order.
+38 [(k)] (K) An accredited educational institution or program that offers or performs a debt man-
+39 agement service without receiving money or other valuable consideration, if the institution or pro-
+40 gram performs the debt management service as an incidental part of a class or a duty the institution
+41 or program provides regularly.
+42 (L) A nonprofit budget and credit counseling agency approved in accordance with 11 U.S.C. 111
+43 that:
+44 (i) Provides only an individual or group briefing, as described in 11 U.S.C. 109(h), or an in-
+45 structional course concerning personal financial management, as described in 11 U.S.C. 111; and
+[3]
+HB 4141
+1 (ii) Does not receive or offer to receive funds from a consumer for the purpose of distributing
+2 the funds among the consumer’s creditors in full or partial payment of the consumer’s debts.
+3 [(m)] (M) A nonprofit entity that provides advice, assistance, instruction or instructional mate-
+4 rials to a consumer in return for a fee that is reasonably calculated to pay the cost of making the
+5 advice, assistance, instruction or instructional materials available.
+6 [(n)] (N) An organization or a counselor approved by the United States Department of Housing
+7 and Urban Development under 12 U.S.C. 1701x.
+8 (b) Subsection (1)(a) of this section does not apply to:
+9 (A) A person that advertises or conducts marketing on behalf of a debt resolution service
+10 provider but does not provide a debt resolution service;
+11 (B) A dedicated account service provider that does not provide a debt resolution service;
+12 (C) A person that is described in section 501(q) or in section 501(c)(3) of the Internal
+13 Revenue Code that is exempt from taxation under section 501(a) of the Internal Revenue
+14 Code;
+15 (D) A judge of any court of this state;
+16 (E) A creditor, or an employee or assignee of a creditor, that resolves a debt with a
+17 consumer or with a debt resolution service provider;
+18 (F) An officer or employee of the federal government or a state government who provides
+19 a debt resolution service on behalf of the government and receives compensation for the debt
+20 resolution service only from the government;
+21 (G) A public accountant certified under ORS 673.040 who provides a debt resolution ser-
+22 vice within the accountant-client relationship;
+23 (H) An attorney who is licensed to practice law in this state and who provides debt re-
+24 solution service within an attorney-client relationship; or
+25 (I) A person that provides or agrees to provide a debt resolution service to an individual
+26 who the person had no reason to know resided in this state at the time the person provided
+27 or agreed to provide the debt resolution service.
+28 SECTION 3. ORS 697.632 is amended to read:
+29 697.632. (1)(a) The Director of the Department of Consumer and Business Services shall maintain
+30 a registry of debt management service providers and debt resolution service providers and by rule
+31 in accordance with ORS chapter 183 shall require a person that performs a debt management ser-
+32 vice, or a debt resolution service unless the person is exempt under ORS 697.612 (3), to apply to
+33 the director to register or to renew a registration as a debt management service provider or debt
+34 resolution service provider, as appropriate.
+35 (b) The director, consistent with the requirements of ORS 697.602 to 697.842, may administer a
+36 program to register debt management service providers or debt resolution service providers, or
+37 renew registrations, by means of an agreement with the Nationwide Multistate Licensing System
+38 and may, by rule, conform the practices, procedures and information that the Department of Con-
+39 sumer and Business Services uses to register a debt management service provider or debt resol-
+40 ution service provider, or renew a registration, to the requirements of the Nationwide Multistate
+41 Licensing System.
+42 (c) An application for registration or renewal must provide to the director on a form and in a
+43 format the director specifies:
+44 (A) The applicant’s name and address;
+45 (B) Any assumed business names, trade names or other identities under which the applicant
+[4]
+HB 4141
+1 performs a debt management service or debt resolution service;
+2 (C) A general description of the debt management service or debt resolution service business
+3 activities the applicant undertakes or proposes to undertake;
+4 (D) The names of any managing members, managing partners, executive officers, directors,
+5 principals or agents the applicant has;
+6 (E) The name of the applicant’s registered agent or the applicant’s agent for the purpose of re-
+7 ceiving service of legal process;
+8 (F) A signed statement that identifies and describes in detail any incident in which the applicant
+9 or a member, partner, officer, director or principal of the applicant within the five years before the
+10 date on which the applicant applied to register or renew a registration as a debt management ser-
+11 vice provider or debt resolution service provider was subject to:
+12 (i) A judgment in favor of another person in a circuit court of this state or in an equivalent
+13 court in another state;
+14 (ii) An arbitration award in favor of another person; or
+15 (iii) An adverse final order from an administrative agency in this state or another state;
+16 (G) A copy of the corporate surety bond the applicant filed with the director under ORS 697.642;
+17 (H) Fingerprints for any of the applicant’s executive officers, and officers and managers with
+18 supervisory responsibility over the applicant’s activities, with which the director may conduct a
+19 criminal records check that the director may process through the Nationwide Multistate Licensing
+20 System; [and]
+21 (I) A copy of each form of agreement and a schedule of the fees the applicant proposes
+22 to charge consumers for services the applicant will provide; and
+23 [(I)] (J) Other information the director may require concerning the financial responsibility,
+24 training, background, experience and business activities of the applicant or a member, partner, offi-
+25 cer, director or principal of the applicant.
+26 (2) At the time an applicant submits an application for registration under this section, the ap-
+27 plicant shall pay a nonrefundable fee in an amount the director specifies by rule. An applicant who
+28 applies to renew a registration shall pay another fee in an amount the director specifies by rule.
+29 (3) The director shall specify amounts for the fees described in subsection (2) of this section that
+30 in the aggregate are sufficient to pay the costs of administering ORS 697.602 to 697.842. The director
+31 shall pay all moneys received under this section as provided in ORS 697.842.
+32 (4) A registration under this section is valid until December 31 of the calendar year in which
+33 the director approves the registration. In order to continue to provide a debt management service
+34 or debt resolution service, a debt management service provider or debt resolution service pro-
+35 vider must renew the appropriate registration at the time the registration expires.
+36 (5)(a) The director may refuse to register the applicant or may refuse to renew a registration
+37 for a debt management service provider or debt resolution service provider for any of the reasons
+38 set forth in ORS 697.752.
+39 (b) The director, for good cause shown or in order to conform the department’s licensing and
+40 license renewal program to the requirements of the Nationwide Multistate Licensing System, may
+41 waive a requirement of this section with respect to a license application or may allow an applicant
+42 to substitute information required in an application in lieu of information required under this sec-
+43 tion.
+44 SECTION 4. ORS 697.642 is amended to read:
+45 697.642. (1) An applicant for registration as a debt management service provider or debt re-
+[5]
+HB 4141
+1 solution service provider at the time of application shall file with the Director of the Department
+2 of Consumer and Business Services a surety bond issued by one or more corporate sureties au-
+3 thorized to do business in this state. The surety bond must:
+4 (a) Be in an amount that the director specifies by rule and that is[:] at least $10,000 and
+5 not more than $50,000.
+6 [(A) A minimum of $10,000; or]
+7 [(B) An amount the director specifies by rule.]
+8 (b) Require the surety company to provide written notice to the director by registered or certi-
+9 fied mail:
+10 (A) At least 30 days before the surety company cancels or revokes the surety bond; or
+11 (B) Whenever the surety company pays for a loss under the surety bond.
+12 (c) Satisfy the provisions of subsection (2) of this section.
+13 (2) The surety bond that a [debt management service provider] registrant must file under sub-
+14 section (1) of this section, in addition to the requirements set forth under subsection (1) of this
+15 section, must be:
+16 (a) Payable to the order of the director; and
+17 (b) Conditioned so that the corporate surety or the [debt management service provider] regis-
+18 trant upon the director’s order or a court order pays all amounts due for a violation of the [debt
+19 management service provider’s] registrant’s duties and obligations to consumers under ORS 697.652
+20 to 697.702.
+21 (3) If a surety cancels, revokes or otherwise terminates a surety bond required under subsection
+22 (1) of this section or if the amount of the surety bond is reduced to less than the amount required
+23 under subsection (1) of this section, the [debt management service provider] registrant shall imme-
+24 diately:
+25 (a) File a replacement surety bond; or
+26 (b) Surrender the [debt management service provider’s] registrant’s registration to the director
+27 and cease operating as a debt management service provider or debt resolution service provider
+28 or providing debt management services or debt resolution services, as appropriate.
+29 (4) A person that has a right of action against a [debt management service provider] registrant
+30 under ORS 697.718 has a right of action against the surety bond required under subsection (1) of
+31 this section.
+32 SECTION 5. ORS 697.672 is amended to read:
+33 697.672. (1) A [debt management service provider] registrant shall make, keep and maintain ac-
+34 counts, correspondence, memoranda, papers, books and other records that the Director of the De-
+35 partment of Consumer and Business Services by rule determines are necessary to ensure that the
+36 [debt management service provider] registrant is complying with the provisions of ORS 697.602 to
+37 697.842.
+38 (2) A [debt management service provider] registrant shall maintain records for each consumer
+39 with which the [debt management service provider] registrant does business in a form and with
+40 contents the director specifies by rule. The [debt management service provider] registrant shall
+41 maintain each consumer record for a period of three years after the date of the last entry in the
+42 record. The [debt management service provider] registrant may dispose of the record in accordance
+43 with applicable law after the three-year period described in this subsection has expired.
+44 (3) A [debt management service provider] registrant shall record all disbursements that the [debt
+45 management service provider] registrant makes, if any, to a consumer’s creditors.
+[6]
+HB 4141
+1 (4) The director may at any reasonable time examine the [debt management service provider]
+2 registrant, the records described in subsection (1) of this section or the [debt management service
+3 provider’s] registrant’s activities in connection with performing a debt management service or debt
+4 resolution service.
+5 SECTION 6. ORS 697.702 is amended to read:
+6 697.702. (1) A person commits the offense of interfering with records of a [debt management
+7 service provider] registrant if, with respect to a record to which ORS 697.672 applies, the person
+8 intentionally:
+9 (a) Makes a false entry in the record; or
+10 (b) Mutilates, destroys or otherwise disposes of the record.
+11 (2) Subsection (1)(b) of this section does not apply to a [debt management service provider] reg-
+12 istrant that disposes of a record after the retention period set forth in ORS 697.672 expires.
+13 SECTION 7. ORS 697.707 is amended to read:
+14 697.707. (1) A debt management service provider may not charge or receive from a consumer a
+15 fee described in ORS 697.692 until after the debt management service provider makes the disclosures
+16 described in this section.
+17 (2) A debt management service provider shall give to every consumer for whom the debt man-
+18 agement service provider offers to perform a debt management service a document that:
+19 (a) States the maximum amount the debt management service provider may charge the consumer
+20 for all debt management services that the debt management service provider will perform;
+21 (b) States that the consumer is responsible for paying the debt management service provider’s
+22 charges;
+23 (c) Warns the consumer that canceled debt may constitute income that is subject to state and
+24 federal taxation and advises the consumer to consult with a tax professional;
+25 (d) Describes completely and in detail the debt management services that the debt management
+26 service provider will perform for the consumer and states the amount the consumer must pay for
+27 each service and for all services; and
+28 (e) States that the consumer may bring an action against the bond required under ORS 697.642
+29 and lists the name and address of the surety that issued the bond.
+30 (3) A debt management service provider that performs a debt management service as defined in
+31 ORS 697.602 [(2)(b)] (3)(a)(B) or described in ORS 697.612 [(1)(b)(E)] (1)(c)(E), in the document re-
+32 quired under subsection (2) of this section, shall:
+33 (a) Describe, accurately and completely, the consumer’s right to review consumer credit infor-
+34 mation about the consumer that a consumer reporting agency, as defined in 15 U.S.C. 1681a, main-
+35 tains; and
+36 (b) State the approximate price that a consumer reporting agency will charge a consumer to
+37 review the consumer credit information described in paragraph (a) of this subsection and that the
+38 consumer may review the information at no charge if the consumer makes a request to the consumer
+39 reporting agency within 30 days after the consumer was denied credit.
+40 (4) A debt management service provider that does not hold a consumer’s funds, directly or in-
+41 directly, shall include in the document required under subsection (2) of this section these additional
+42 statements:
+43 (a) That the debt management service provider does not predict or guarantee specific results
+44 and cannot force or require a creditor to accept a specific settlement;
+45 (b) That the debt management service provider does not make scheduled periodic payments to
+[7]
+HB 4141
+1 creditors;
+2 (c) That creditors may continue collection efforts, including lawsuits;
+3 (d) That the consumer’s failure to make monthly payments on outstanding debt will likely have
+4 a negative impact on the consumer’s credit score;
+5 (e) That the consumer must make regular monthly deposits of funds in an account the consumer
+6 establishes and maintains in the consumer’s name with an insured institution, as defined in ORS
+7 706.008, and designates specifically for making disbursements in connection with a debt management
+8 service; and
+9 (f) That the debt management service provider will withdraw fees for debt management services
+10 from the account described in paragraph (e) of this subsection only with the consumer’s specific
+11 authorization and that the debt management service provider does not have custody, control or
+12 separate or additional access to the account.
+13 (5) The document described in this section must provide a space for the consumer to sign the
+14 form under a statement that indicates that the consumer has read and understands the disclosures
+15 set forth in the document.
+16 SECTION 8. ORS 697.718 is amended to read:
+17 697.718. (1) A [debt management service provider] registrant or a person required to obtain a
+18 registration as a debt management service provider or debt resolution service provider under ORS
+19 697.612 is liable to a consumer who suffers an ascertainable loss of money or property, real or per-
+20 sonal, in connection with the [debt management service provider’s] registrant’s or person’s violation
+21 of a provision of ORS 697.652, 697.662, 697.682, 697.692 or 697.707.
+22 (2) Except as provided in this subsection, an action or suit may not be commenced under this
+23 section more than three years after the date on which the [debt management service provider] reg-
+24 istrant or person enters into an agreement for a debt management service or debt resolution
+25 service with the consumer that suffered the ascertainable loss of money or property or more than
+26 three years after the [debt management service provider] registrant or person performs a debt man-
+27 agement service that violates ORS 697.652 or a debt resolution service that violates section 14
+28 of this 2026 Act. An action under this section may be commenced within three years after the
+29 transaction that is the subject of the action or within two years after the facts on which the action
+30 is based were or should have been discovered, but an action may not be commenced more than five
+31 years after the transaction. Failure to commence an action on a timely basis is an affirmative de-
+32 fense.
+33 (3) A consumer that has a right of action against a [debt management service provider] regis-
+34 trant under this section has a right of action against the bond required under ORS 697.642.
+35 (4) A court may award reasonable attorney fees to the prevailing party in an action brought
+36 under this section.
+37 SECTION 9. ORS 697.732 is amended to read:
+38 697.732. (1) To enforce the provisions of ORS 697.612 and 697.642 to 697.702, the Director of the
+39 Department of Consumer and Business Services may:
+40 (a) Examine a [debt management service provider] registrant or a person required to obtain a
+41 registration as a debt management service provider or debt resolution service provider under ORS
+42 697.612 and the [debt management service provider’s] registrant’s or the person’s accounts for the
+43 purpose of investigating a violation of ORS 697.642 to 697.702.
+44 (b) Undertake an investigation, including an investigation outside this state, that the director
+45 considers necessary to:
+[8]
+HB 4141
+1 (A) Determine whether a [debt management service provider] registrant or a person required to
+2 obtain a registration as a debt management service provider or debt resolution service provider
+3 under ORS 697.612 violated, is violating or is about to violate ORS 697.612 or 697.642 to 697.702 or
+4 a rule the director adopted under ORS 697.632; or
+5 (B) Aid in enforcing the provisions of ORS 697.612 and 697.642 to 697.702 and in formulating
+6 rules for adoption under ORS 697.632.
+7 (c) Require a [debt management service provider] registrant or a person required to obtain a
+8 registration as a debt management service provider or debt resolution service provider under ORS
+9 697.612 to file a written statement, under oath or otherwise, that addresses a matter the director is
+10 investigating.
+11 (d) Administer oaths and affirmations, subpoena witnesses, compel the witnesses to attend, take
+12 evidence and require a person that the director is investigating to produce books, papers, corre-
+13 spondence, memoranda, agreements or other documents or records that the director deems relevant
+14 or material to the investigation. A witness who appears before the director under a subpoena shall
+15 receive the fees and mileage described in ORS 44.415 (2).
+16 (e) Charge and require a [debt management service provider] registrant or a person required to
+17 obtain a registration as a debt management service provider or debt resolution service provider
+18 under ORS 697.612 to pay for the reasonable cost of an examination or investigation conducted un-
+19 der this section in an amount the director specifies.
+20 (2) If a person does not comply with a subpoena that the director issues under this section, a
+21 circuit court in this state upon the director’s application shall begin contempt proceedings to compel
+22 compliance in the same manner in which the court would compel compliance with a subpoena in a
+23 civil action.
+24 (3) A [debt management service provider] registrant or a person required to obtain a registration
+25 as a debt management service provider or debt resolution service provider under ORS 697.612
+26 shall provide the director for the purpose of investigating a violation of ORS 697.612 or 697.642 to
+27 697.702 with free access to the [debt management service provider’s] registrant’s or the person’s
+28 offices, places of business, books, accounts, records, papers, files, safes and vaults.
+29 (4)(a) The director shall maintain for public inspection a record of any order the director issued
+30 that:
+31 (A) Suspended, revoked or refused to renew a person’s registration as a debt management ser-
+32 vice provider or debt resolution service provider; or
+33 (B) Imposed a civil penalty under ORS 697.832.
+34 (b) The record that the director maintains of the director’s order [shall] must show:
+35 (A) The form of the order that the director issued;
+36 (B) The name of the person that is the subject of the order; and
+37 (C) The grounds for the action that the director took in the order.
+38 (c) The director shall maintain as a public record any notice or other information that indicates
+39 that a collection on a deposit or on the bond required under ORS 697.642 has occurred.
+40 (d) Except as provided in this subsection, records, reports and other information that the direc-
+41 tor receives or compiles as a result of an investigation conducted under this section are exempt from
+42 the disclosure required under ORS 192.314.
+43 SECTION 10. ORS 697.752 is amended to read:
+44 697.752. The Director of the Department of Consumer and Business Services may deny, suspend,
+45 condition, revoke or refuse to issue or renew a registration as a debt management service provider
+[9]
+HB 4141
+1 or debt resolution service provider if the director determines that an applicant or [debt manage-
+2 ment service provider] registrant:
+3 (1) Cannot meet financial obligations as the obligations mature, has liabilities that exceed assets
+4 or is in a financial condition that prevents the applicant or [debt management service provider]
+5 registrant from continuing in business with safety to consumers;
+6 (2) Engaged in dishonest, fraudulent or illegal practices or conduct in a business or profession,
+7 or unfair or unethical practices or conduct in connection with a debt management service or debt
+8 resolution service;
+9 (3) Filed, knowingly or negligently, false or untruthful information with the director under ORS
+10 697.632;
+11 (4) Violated a provision of ORS 697.642 to 697.702 or a rule the director adopted under ORS
+12 697.632;
+13 (5) Filed an application for registration that on the date the director issued a registration or
+14 on the date the director denied, suspended, conditioned or revoked a registration was incomplete in
+15 a material respect or contained a statement that was false or misleading with respect to a material
+16 fact in light of the circumstances in which the applicant or [debt management service provider]
+17 registrant made the statement;
+18 (6) Failed to account to interested persons for money or property the applicant or [debt man-
+19 agement service provider] registrant received;
+20 (7) Was temporarily or permanently enjoined from engaging in or continuing a conduct or
+21 practice involving a debt management service or debt resolution service by a court of competent
+22 jurisdiction;
+23 (8) Is subject to a director’s order that denied, suspended, conditioned or revoked a registration
+24 as a debt management service provider or debt resolution service provider, or a license or regis-
+25 tration that the director issued under another provision of law;
+26 (9) Is subject to a cease and desist order that the director entered within the previous five years
+27 after giving the applicant or [debt management service provider] registrant notice and an opportu-
+28 nity for a hearing;
+29 (10) Demonstrated negligence or incompetence in performing a debt management service or debt
+30 resolution service or an act, the performance of which requires the applicant or [debt management
+31 service provider] registrant to obtain a registration or license;
+32 (11) Failed to supervise diligently and control an employee’s or agent’s actions related to a debt
+33 management service or debt resolution service that the applicant or [debt management service
+34 provider] registrant performed;
+35 (12) Was convicted of a felony or of a misdemeanor for which an essential element is fraud, ei-
+36 ther as an individual that is subject to the requirement to register as a debt management service
+37 provider or debt resolution service provider or as a member, partner, officer, director or principal
+38 of an applicant or [debt management service provider] registrant;
+39 (13) Reduced the amount of the bond required under ORS 697.642 or allowed the bond to lapse;
+40 (14) Knowingly made a false entry in a consumer’s record; or
+41 (15) Knowingly mutilated, destroyed or otherwise disposed of a consumer’s record unless the
+42 record concerns a consumer that no longer receives a debt management service or debt resolution
+43 service from the applicant or [debt management service provider] registrant or the record is not
+44 subject to the retention requirement set forth in ORS 697.672.
+45 SECTION 11. ORS 697.822 is amended to read:
+[10]
+HB 4141
+1 697.822. The remedy provided for in ORS 697.718:
+2 (1) Is in addition to and not exclusive of other remedies provided by law.
+3 (2) Does not limit a person’s statutory or common-law right to bring an action in any court for
+4 an act of a [debt management service provider] registrant, or the right of the state to punish a
+5 person for violating a law.
+6 SECTION 12. Sections 13 to 17 of this 2026 Act are added to and made a part of ORS
+7 697.602 to 697.842.
+8 SECTION 13. (1) A debt resolution service provider shall:
+9 (a) Deliver or make available to a consumer a copy of any agreement the debt resolution
+10 service provider enters into with the consumer. The debt resolution service provider may
+11 deliver or make the agreement available electronically with the consumer’s consent. An
+12 agreement between a debt resolution service provider and a consumer must:
+13 (A) Describe the services that the debt resolution service provider will perform for the
+14 consumer;
+15 (B) Describe how the debt resolution service provider will calculate fees for debt resol-
+16 ution services and list the fees the debt resolution service provider will charge, to the extent
+17 that the debt resolution service provider has a current list of fees;
+18 (C) Estimate in good faith the amount of time that will be necessary to resolve the
+19 consumer’s debts and, if the debt resolution services involve offering a resolution to the
+20 consumer’s creditors, estimate in good faith the amount of time within which the debt re-
+21 solution service provider will make bona fide offers to the consumer’s creditors;
+22 (D) Specify the amount of money, or the percentage of each debt, that a consumer must
+23 accumulate before the debt resolution service provider makes a bona fide offer to a creditor
+24 to resolve the consumer’s debt;
+25 (E) State that debt resolution services might not suit all consumers;
+26 (F) State that a failure to make timely payment on a consumer’s debts will likely ad-
+27 versely affect the consumer’s creditworthiness, might result in a creditor’s attempt to col-
+28 lect the debt by means that include a lawsuit or other legal proceeding and might increase
+29 the amount the consumer owes in accrued interest and fees, if a debt resolution service re-
+30 lies upon or requires the consumer to not make timely payments to creditors;
+31 (G) State that, unless the consumer is insolvent, the consumer might have taxable in-
+32 come as the result of a resolution of a debt for less than the full amount of the debt, even
+33 if the consumer does not receive money;
+34 (H) State that the debt resolution service provider cannot compel a creditor to negotiate
+35 a resolution of the consumer’s debt and that the debt resolution service provider cannot
+36 guarantee a specific resolution or other result from a debt resolution service;
+37 (I) State that resolving a debt by means of a debt resolution service requires the con-
+38 sumer to meet regular savings goals;
+39 (J) State that the debt resolution service provider does not provide tax, accounting or
+40 legal advice to consumers unless the debt resolution service provider has a license required
+41 to provide tax, accounting or legal advice;
+42 (K) State that the debt resolution service provider does not receive compensation of any
+43 kind from creditors and operates as the consumer’s advocate with respect to creditors and
+44 the consumer’s debts;
+45 (L) State that the debt resolution service provider does not make any payment to a
+[11]
+HB 4141
+1 creditor or other person on the consumer’s behalf;
+2 (M) List the debts to which debt resolution services apply under the agreement; and
+3 (N) State that the consumer must resolve all disputes with the debt resolution service
+4 provider by means of mandatory arbitration, if the agreement requires mandatory arbi-
+5 tration.
+6 (b) Maintain during ordinary business hours a toll-free telephone number or electronic
+7 communication method and a staff that is of adequate capacity to accept communications
+8 from a reasonably anticipated number of consumers.
+9 (c) Comply with 16 C.F.R. part 255, as in effect on the effective date of this 2026 Act, and
+10 with Bulletin 2022-05: Unfair and Deceptive Acts or Practices That Impede Consumer Re-
+11 views published by the federal Consumer Financial Protection Bureau.
+12 (d) File each year with the Director of the Department of Consumer and Business Ser-
+13 vices a written report that lists:
+14 (A) The total number of consumers in this state for which the debt resolution service
+15 provider provided debt resolution services in the previous 12 months; and
+16 (B) The total amount of fees the debt resolution service provider collected from con-
+17 sumers in this state during the previous 12 months.
+18 (2) A debt resolution service provider may:
+19 (a) Request or require that a consumer establish and deposit funds into a dedicated ac-
+20 count that a dedicated account service provider administers if:
+21 (A) The dedicated account is with an insured institution, as defined in ORS 706.008;
+22 (B) The consumer owns the funds in the dedicated account and all interest that accrues
+23 on the funds;
+24 (C) The debt resolution service provider does not own and is not owned by or under
+25 common control with the dedicated account service provider, with “control” for the purpose
+26 of this subparagraph meaning having the direct or indirect power to manage the debt resol-
+27 ution service provider or the dedicated account service provider by contract or by ownership
+28 of more than 20 percent of the ownership interest in the debt resolution service provider or
+29 the dedicated account service provider;
+30 (D) The dedicated account service provider does not give or accept money or other
+31 compensation for referrals of business that involve the debt resolution service provider;
+32 (E) The consumer may terminate debt resolution services at any time without penalty
+33 by providing notice under section 15 of this 2026 Act, after which the debt resolution service
+34 provider must notify the dedicated account service provider of the termination within five
+35 business days after receiving the consumer’s notice; and
+36 (F) The debt resolution service provider discloses the requirements specified in subpara-
+37 graphs (A) to (E) of this paragraph in any agreement with the consumer;
+38 (b) Extend credit to a consumer for the purpose of deferring some or all of the
+39 consumer’s debts, or negotiate with another person for an extension of credit to the con-
+40 sumer, at no additional expense to the consumer, if the person with which the debt resol-
+41 ution service provider negotiates the extension of credit has authority or a license necessary
+42 to extend credit in this state;
+43 (c) Terminate an agreement with a consumer by delivering a written notice of termi-
+44 nation electronically or by postal mail:
+45 (A) Not later than 60 days after the consumer fails to perform an obligation due under
+[12]
+HB 4141
+1 the terms of the agreement, in which case the consumer does not owe any further payment
+2 to the debt resolution service provider as of the date of termination; or
+3 (B) Immediately, if the consumer refuses to pay the debt resolution service provider a
+4 fee that the debt resolution service provider has earned; and
+5 (d) Recover all fees the debt resolution service provider has earned before a consumer
+6 terminates an agreement as provided in section 15 of this 2026 Act, if the debt resolution
+7 service provider charges and receives the fee in accordance with the agreement and does not
+8 violate the provisions of section 14 (1)(a) of this 2026 Act.
+9 (3)(a) A fee that a dedicated account service provider charges or collects from a con-
+10 sumer or that a person charges or collects from a consumer for legal services is not a fee
+11 that a debt resolution service provider charges or collects for a debt resolution service.
+12 (b) A debt resolution service provider need not report or account to the director or a
+13 consumer for a fee described in paragraph (a) of this subsection.
+14 SECTION 14. (1) A debt resolution service provider may not:
+15 (a) Request, charge, receive or collect a fee from a consumer unless and until:
+16 (A) The debt resolution service provider and the consumer enter into an agreement as
+17 provided in section 13 of this 2026 Act and the debt resolution service provider charges the
+18 fee in accordance with the terms of the agreement;
+19 (B) The debt resolution service provider negotiates, renegotiates, resolves, reduces or
+20 otherwise alters the terms of at least one of a consumer’s debts in accordance with the
+21 terms of any agreement between the debt resolution service provider and the consumer;
+22 (C) The consumer makes at least one payment under the terms of any resolution between
+23 the consumer and any creditor that is a party to the resolution; and
+24 (D) The debt resolution service provider’s fee either:
+25 (i) Bears the same proportional relationship to the total fee the debt resolution service
+26 provider charges the consumer for all debt resolution services that the amount of the debt
+27 that is negotiated, renegotiated, resolved, reduced or otherwise altered bears to the
+28 consumer’s total debt at the time the consumer entered into an agreement with the debt
+29 resolution service provider; or
+30 (ii) Is a fixed percentage of the amount the consumer saved in debt payments, interest
+31 or otherwise as a result of the negotiation, renegotiation, resolution, reduction or alteration
+32 of the terms of each of the debts subject to the agreement, measured as the difference be-
+33 tween the amount the consumer owed on each debt and the amount the consumer actually
+34 paid to satisfy each debt;
+35 (b) Require from a consumer, or exercise, a power of attorney that authorizes the debt
+36 resolution service provider to enter into a binding agreement to fully discharge a debt in
+37 return for a payment of a specific sum of money;
+38 (c) Send a creditor a cease and desist notice;
+39 (d) Require a consumer to notify a creditor that the consumer’s address or phone num-
+40 ber has changed in an attempt to divert communications from the creditor to the debt re-
+41 solution service provider instead of to the consumer;
+42 (e) Exercise or attempt to exercise any authority on behalf of the consumer after the
+43 consumer has terminated an agreement as provided in section 15 of this 2026 Act;
+44 (f) Initiate, or request that a dedicated account service provider initiate, a transfer of
+45 any money from a consumer’s dedicated account unless the transfer:
+[13]
+HB 4141
+1 (A) Returns money to the consumer;
+2 (B) Occurs before any agreement between the debt resolution service provider and the
+3 consumer terminates or expires;
+4 (C) Is a fee that the debt resolution service provider earns in accordance with paragraph
+5 (a) of this subsection; or
+6 (D) Funds a negotiated resolution with a creditor and occurs at the consumer’s express
+7 direction;
+8 (g) Control or receive a consumer’s funds for any purpose other than receiving payment
+9 of a fee the debt resolution service provider earns for debt resolution services;
+10 (h) Resolve a debt, represent to a consumer that a debt is resolved or advise a consumer
+11 to make a payment to a creditor for the purpose of resolving a debt unless, at the time the
+12 debt resolution service provider resolves the debt, makes the representation or gives the
+13 advice, the creditor confirms that the debt is fully resolved or that a payment will fully re-
+14 solve the debt or is part of a payment plan that, upon completion, will fully resolve the debt;
+15 (i) Represent that:
+16 (A) The debt resolution service provider will provide any money to pay a bill or to prevent
+17 a lien or claim from attaching to any of the consumer’s property; or
+18 (B) A consumer’s participation in debt resolution services will prevent any litigation,
+19 garnishment, attachment, repossession, foreclosure, eviction or loss of employment;
+20 (j) Falsely represent, directly or by implication:
+21 (A) That the debt resolution service provider can provide legal advice or legal services;
+22 or
+23 (B) Any material provision of an agreement for debt resolution services or the character
+24 or scope of a debt resolution service, including:
+25 (i) How much money or what percentage of a debt a consumer might save by using the
+26 debt resolution service;
+27 (ii) The amount of time in which a consumer will achieve results from the debt resolution
+28 service;
+29 (iii) How much money or what percentage of each debt the consumer must accumulate
+30 before the debt resolution service provider offers or attempts to negotiate, renegotiate, re-
+31 solve or otherwise alter the terms of the consumer’s debt;
+32 (iv) How using a debt resolution service could or will affect the consumer’s credit score
+33 or other measure of creditworthiness or any collection efforts a creditor may pursue;
+34 (v) The number or percentage of consumers that successfully resolve debts by using the
+35 debt resolution service provider’s services; or
+36 (vi) That the debt resolution service provider is a nonprofit entity;
+37 (k) Receive a confession of judgment from a consumer or a power of attorney from a
+38 consumer to confess judgment against the consumer;
+39 (L) Purchase a debt or obligation of the consumer’s or obtain a mortgage or security
+40 interest in the consumer’s property in connection with services the debt resolution service
+41 provider provides to the consumer;
+42 (m) Receive from or on behalf of a consumer a promissory note or other negotiable in-
+43 strument other than a check or demand draft or a post-dated check or demand draft;
+44 (n) Disclose the consumer’s identity or identifying information or the identity of the
+45 consumer’s creditors, except:
+[14]
+HB 4141
+1 (A) As permitted under federal law or by court order;
+2 (B) To the Director of the Department of Consumer and Business Services in response
+3 to the director’s lawful demand; or
+4 (C) To the extent necessary to administer debt resolution services, which may include a
+5 disclosure to:
+6 (i) A creditor of the consumer; or
+7 (ii) A dedicated account service provider;
+8 (o) Advertise, announce, broadcast, display, distribute, print, publish or televise a state-
+9 ment or representation that is deceptive, false or misleading, either directly or indirectly or
+10 through a person that markets debt resolution services on behalf of the debt resolution
+11 service provider;
+12 (p) Provide any person with anything of value in exchange for favorable treatment in
+13 reviews or favorable placement in rankings;
+14 (q) Own or operate a website, electronic resource or publication that provides rankings
+15 or consumer reviews of the debt resolution service provider, whether directly, indirectly or
+16 through an affiliate of the debt resolution service provider; or
+17 (r) Make a statement or representation or take an action that is likely to mislead a
+18 consumer as to whether reviews the debt resolution service provider uses to advertise debt
+19 resolution services accurately reflect all reviews the debt resolution service provider has
+20 received.
+21 (2) An agreement under section 13 (1)(a) of this 2026 Act may not:
+22 (a) Subject the parties to the agreement to, or require the application of, the law of any
+23 jurisdiction other than the federal government or this state;
+24 (b) Restrict a consumer’s remedies under applicable provisions of ORS 697.602 to 697.842
+25 or another law of this state except as provided in the Federal Arbitration Act, 9 U.S.C. 1 et
+26 seq., as in effect on the effective date of this 2026 Act; or
+27 (c) Limit or release the liability of a party to the agreement for failing to perform the
+28 agreement or for violating an applicable provision of ORS 697.602 to 697.842.
+29 SECTION 15. (1) A consumer may terminate an agreement with a debt resolution service
+30 provider at any time by notifying the debt resolution service provider in writing, or orally
+31 by contacting a representative of the debt resolution service provider or by recording an oral
+32 message for delivery to the debt resolution service provider.
+33 (2) A debt resolution service provider, after receiving a consumer’s notice of termination
+34 under subsection (1) of this section, shall:
+35 (a) Within two business days after the date of the consumer’s notice, advise the con-
+36 sumer of any effect that the termination will have on any resolution agreements that the
+37 debt resolution service provider has negotiated or is in the process of negotiating; and
+38 (b) Within five business days after the date of the consumer’s notice, notify the dedicated
+39 account service provider of the consumer’s termination and request that the dedicated ac-
+40 count service provider communicate with the consumer concerning the disposition of any of
+41 the consumer’s funds that the dedicated account service provider holds.
+42 SECTION 16. (1)(a) While an agreement for debt resolution services remains in effect
+43 between a debt resolution service provider and a consumer, the debt resolution service pro-
+44 vider shall deliver to the consumer a statement of account:
+45 (A) At least once per month; and
+[15]
+HB 4141
+1 (B) Not later than five days after receiving a request for a statement of account from a
+2 consumer, except that the debt resolution service provider need not provide more than one
+3 statement of account per month in response to a consumer’s request.
+4 (b) A debt resolution service provider shall deliver a statement of account to a consumer
+5 within five days after an agreement for debt resolution services terminates or expires.
+6 (2) A statement of account must:
+7 (a) Show the total amount of money a consumer has deposited into the consumer’s ded-
+8 icated account as of the date of the statement of account, the total sum of money the con-
+9 sumer now has in the dedicated account and all withdrawals from the dedicated account from
+10 the date on which the dedicated account was opened;
+11 (b) List all creditors with which the consumer has reached a resolution of the consumer’s
+12 debt and the date on which the resolution was reached;
+13 (c) List each fee and the total of all fees that the debt resolution service provider charged
+14 to and collected from the consumer as of the date of the statement of account and ascribe
+15 each fee to a specific debt or resolution;
+16 (d) List for each debt that the consumer resolved with a creditor by means of a debt
+17 resolution service:
+18 (A) The amount of each debt on the date on which the debt resolution service provider
+19 and the consumer executed an agreement for debt resolution services;
+20 (B) The amount of each debt on the date on which the consumer and the creditor agreed
+21 to resolve the debt;
+22 (C) The total sum that the consumer paid to the creditor to discharge the debt in full
+23 and in accordance with a resolution agreement; and
+24 (D) The amount that the consumer paid to the debt resolution service provider as a fee
+25 to negotiate, renegotiate, resolve, reduce or otherwise alter the terms of the consumer’s
+26 debt.
+27 (3) A debt resolution service provider delivers a statement of account to a consumer in
+28 accordance with subsection (1) of this section if the debt resolution service provider provides
+29 or makes available to the consumer the information described in subsection (2) of this sec-
+30 tion by means of a website or other electronic means that are continuously accessible to the
+31 consumer at any time.
+32 SECTION 17. (1)(a) Except as provided in paragraph (b) of this subsection, a debt resol-
+33 ution service provider shall provide to a consumer copies of any agreement for debt resol-
+34 ution services between the debt resolution service provider and the consumer and any of the
+35 records the debt resolution service provider must maintain under ORS 697.672 (2) that per-
+36 tain to the consumer:
+37 (A) At no charge and within five days after the consumer submits a request for the
+38 agreement or records to the debt resolution service provider in writing, orally in person,
+39 orally by telephone or by other means the debt resolution service provider maintains for
+40 communications with consumers; or
+41 (B) Within a reasonable time after receiving a request from a consumer if the debt re-
+42 solution service provider receives the request more than 90 days and less than two years
+43 after the agreement for debt resolution services terminated or expired.
+44 (b) A debt resolution service provider need not respond to a request from a consumer
+45 that:
+[16]
+HB 4141
+1 (A) Exceeds a limit of one request per calendar month;
+2 (B) The debt resolution service provider reasonably believes the consumer made to har-
+3 ass the debt resolution service provider; or
+4 (C) A consumer made later than six years after the agreement for debt resolution ser-
+5 vices terminated or expired.
+6 (2) In addition to, and not in lieu of, the records that a debt resolution service provider
+7 must maintain under ORS 697.672, the debt resolution service provider shall maintain the
+8 following records for the specified length of time after the date on which the debt resolution
+9 service provider created the record:
+10 (a) For a period of two years:
+11 (A) Each advertisement, brochure, telemarketing script, promotional material and sup-
+12 porting data the debt resolution service provider used in marketing debt resolution services;
+13 (B) The names and last known addresses of each of the consumers with whom the debt
+14 resolution service provider entered into an agreement to provide debt resolution services, the
+15 date on which the consumer executed the agreement or received a debt resolution service
+16 and the amount the consumer paid for the debt resolution service; and
+17 (C) The names of each of the debt resolution service provider’s employees or former
+18 employees who had job duties related to selling or soliciting debt resolution services and each
+19 fictitious name an employee used, if the debt resolution service provider permits employees
+20 to use fictitious names in communications with consumers; and
+21 (b) For a period of five years, each signed or otherwise executed agreement with a con-
+22 sumer for debt resolution services.
+23 SECTION 18. Sections 13 to 17 of this 2026 Act and the amendments to ORS 697.602,
+24 697.612, 697.632, 697.642, 697.672, 697.702, 697.707, 697.718, 697.732, 697.752 and 697.822 by
+25 sections 1 to 11 of this 2026 Act apply to agreements for debt resolution services that a debt
+26 resolution service provider enters into with a consumer on or after the operative date spec-
+27 ified in section 19 of this 2026 Act.
+28 SECTION 19. (1) Sections 13 to 17 of this 2026 Act and the amendments to ORS 697.602,
+29 697.612, 697.632, 697.642, 697.672, 697.702, 697.707, 697.718, 697.732, 697.752 and 697.822 by
+30 sections 1 to 11 of this 2026 Act become operative on January 1, 2027.
+31 (2) The Director of the Department of Consumer and Business Services may adopt rules
+32 and take any other action before the operative date specified in subsection (1) of this section
+33 that is necessary to enable the director, on and after the operative date specified in sub-
+34 section (1) of this section, to undertake and exercise all of the duties, functions and powers
+35 conferred on the director by sections 13 to 17 of this 2026 Act and the amendments to ORS
+36 697.602, 697.612, 697.632, 697.642, 697.672, 697.702, 697.707, 697.718, 697.732, 697.752 and 697.822
+37 by sections 1 to 11 of this 2026 Act.
+38 SECTION 20. This 2026 Act takes effect on the 91st day after the date on which the 2026
+39 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+40
+[17]
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T S w a p t b w a c c t l d c a a p t d r s c n p a O 6 6 o w b a d m s p p o a t p a d[]]]]] M o] O o a t o a a i o a c b a c:M[]]
+[DELETED: B4]]] ( P o p o r t t p c o w “ r s m a p t p d o i c a m a a t m t c s f i s d a i a w t r s f i 1 C] M R o a o C o S B S o t A A o R M] ( “ e m a p c o b a o]] R m o o v c a f a d m s t a d]
+[DELETED: B4 t c t d m s p f t p o a t p o P a a i o i m c a d m]]] ( A e o a )d m s p i t d m s] d]]] i a t c a e a d] ( A a u d m s p t i n e f] ( P e s t a c i a w a d m s] ( A m b o m b l u O 8 t 8 o ]]]]] o p t o o p a d m P o a i o g b a d i 1 U 1 o a i]
+[DELETED: B4 D n r o o t r]] A p t i d i s 5 o i s 5 o t I C t i e f t u s 5 o t I R A c o a e o a o a c t r a d w  a w O c 1 s r t r d m s p r b m o a a w t N M L S m b r c t p p a i t t D o C a B S u t r a d m s p o d r i  A a b n t n o o i u w t a]
+[DELETED: B4 T n o a m m m p e o d A j i f o a p i a c c o t s o i a e F f a o t a e o a o a m w r o t a a w w t d m c [] ( O i t d m r c t f r A t t a a s v u D 3 o t c y i w d a t r I o T d m r t r t a o m r t r a T d f g c s o i o t c t d l a r p t t r o t N M L S m i l o i r u t s ( A a f r a a d m s p o]
+[DELETED: B4 C a B S a s b i b o o m c s a B i a a t t d i[] T b t[] ( o t s i a t t r s f u s ( o t C s t t c s o t [] m s p a a d f a v o t  t [] m s p[] a a d m s p[] a a t b r u s ( oss[] c m p b a o r t t D o t D o C a B S b r d a n t e t t] i c w t p o O 6 t m s p A [] s m r f e c m s p w t [] r d b i a f a w m s p t d s b r T [] r s m s p e c r f a p o t y a t d o t l e i t[][]rd]
+[DELETED: B4 T d m a a r t e t [ m s p t r d i s ( o t sns ( A p c t o o i w r o a  m p i w r t a r t w O 6 a t p[] A d m s p i r f p t d m s p W t c t c d p w p f t c a s t a t c m p f[] ( o d i[])( t c r t r c c i S t a p t a c r a w c a c t t c c i d i p ( o t d n h a c f d o i T t d m s p d n p o g s r p d n m s p p t]
+[DELETED: B4 a m i t c n w a i i a d i O;a t a d i p ( o t s o w t c s a t t d m s p d n h c c o s m p a s f t c t s t[] o a p r t o  m s p[] a a o s m n b c u t[] o p e i a a f a d m s o d r[] t 2 A A a u t s m b c w t y a t a a o a t b i a a d A c t h a r o a a a [] m s p A c m a r a f t t p p i a a b E a [] o a p r t o  m s p[] r o t p a f t s p U a i i a i o t s t t d]
+[DELETED: B4[] A i e t p o O 6 a 6 t 6 a i f R a [] r o a p r t o  m s p a r a p t t d i i t p b p c[] w a s t t d i u t s [] a d m s p o d r s p u O 6 w f a t t [] r o t p m s p S r o r[]]
+[DELETED: B4 i i a f c t p t a o [ m s p V a p o O 6 t 6 o a r t d a u O F a a f r t o t d t d i a r o i l o t c i w t a o [ m s p F t a t i p f m o p t a o  W t o p e f e i o c a c o g t a o [] s o d r s t t a o  m s t i s t t r t r a a d m s[] K m d o o d o a c r u t f t a o [] r o t r i n m s p]
+[DELETED: B4 a o a [] r o t r o t s t p  m s p 1.S 1 t 1 o t 2 A a a t a m a p o O.( p e i w t c T d r s p m o m t a a e w t c c A E i g f t a o t t w b n t r t d a i t d r s i o a r t t S t a f t m t p o a c d w l a S t u t c i i t c r o t c d a t t d r s p c b m o a d r s r t c S t t d r s p d n p t a o S t t d r s p d n m a p t ]
+[DELETED: B4 S t t c m r b m o m a i t a r m a M d o b h a t t m a a s t i o a c t a c B 2 U a D A o P T I C R T t n o c i t s f w t d T t a o f t d r s p c f c T d r s p d n o a i n o b o u T d a s p d n g o a m o o T c m t d r s a a d a s p o t t w f E c t a c f t p o d s o a o t d o n w a p f a e o c t t c p w w t d r T a a w a c b d a w n o t]
+[DELETED: B4 p t d r s p  R a f t d r s a a a p i s 1 o t 2 A i t d r A f t a d a s p c o c f a c A d r s p n n r o a t t d o .( a a a T d r s p n r r r o a t t o a l o o a c d i a w t i n r r r o o a b t t t d a t t t c e i a a w t d s p t e i a b a t f d a d i E o a t e a a o b o t c a t I o r t a d a s p i a t o]
+[DELETED: B4 O b a a b t r s p r t d m t r o g t A c p i d r s w p a l R a c o j f a c o a p o a f  P a d o o o t c o o a m o s D t c i o i i o t i o t]
+[DELETED: B4 a p t m d r s o b o t d rep P a p w a o v i e f f t i M a s o r o t a a t i l t m  s a r a r t d r s p h t p t.( a a t b n t d r W t b d a t d o t c n a t c o a e t t t w h o a r a 1.( W a a f d r s r i e]
+[DELETED: B4 L f e d t t c r w a c b m o a dns T t s t t c p t t n r r r o o a t t o t c.( r s p A n c a w f d a t c s a r f t o r t t d r s p i w o i p b t o b o m t d r s p m f s p r t r m t 9 d a l t t y r s p n n r t a r f a c]
+[DELETED: B4 m u O 6 t d r s p s m t E a b o w t c e t a o T n o e o t d r s p e o f 1.S 1 t 1 o t 2 A a t a t O 6 6 6 6 6 6 6 6 6 a 6 b.( 6 6 6 6 6 6 6 6 a 6 b i n t e t d o a a t o d s i s 6 a 6.T]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4141
+Sponsored by Representative BREESE-IVERSON; Representative LEVY E (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Says what a person that bargains with a consumer’s creditors to lower debt can and
+may not do in this state. (Flesch Readability Score: 72.7).
+Requires a person that provides debt resolution services to consumers in this state to register
+with the Department of Consumer and Business Services and regulates the activities of debt resol-
+ution service providers.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to debt resolution services; creating new provisions; amending ORS 697.602, 697.612,
+3 697.632, 697.642, 697.672, 697.702, 697.707, 697.718, 697.732, 697.752 and 697.822; and prescribing
+4 an effective date.
+5 Be It Enacted by the People of the State of Oregon:
+6 SECTION 1. ORS 697.602 is amended to read:
+7 697.602. As used in ORS 697.602 to 697.842:
+8 (1) “Consumer” means:
+9 (a) An individual resident of this state who is obligated or is allegedly obligated to pay a debt
+10 and on whose behalf a debt management service provider performs or agrees to perform a debt
+11 management service[.]; or
+12 (b) An individual resident of this state who has executed an agreement with a debt re-
+13 solution service provider for debt resolution services under section 13 of this 2026 Act.
+14 (2) “Creditor” has the meaning given that term in ORS 646.639.
+15 [(2)] (3)(a) “Debt management service” means an activity for which a person receives money or
+16 other valuable consideration or expects to receive money or other valuable consideration in return
+17 for:
+18 [(a)] (A) Receiving or offering to receive funds from a consumer for the purpose of distributing
+19 the funds among the consumer’s creditors in full or partial payment of the consumer’s debts, whether
+20 or not the person holds the consumer’s funds;
+21 [(b)] (B) Improving or offering to improve or preserve a consumer’s credit record, credit history
+22 or credit rating;
+23 [(c)] (C) Modifying or offering to modify terms and conditions of an existing loan from or obli-
+24 gation to a third party; or
+25 [(d)] (D) Obtaining or attempting to obtain as an intermediary on a consumer’s behalf a con-
+26 cession from a creditor including, but not limited to, a reduction in the principal, interest, penalties
+27 or fees associated with a debt.
+28 (b) “Debt management service” does not include a debt resolution service.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 17
+
+HB 4141
+1 [(3)] (4)(a) “Debt management service provider” means a person that:
+2 [(a)] (A) Resides or does business in this state; and
+3 [(b)] (B) Provides or performs, or represents that the person can or will provide or perform a
+4 debt management service in return for or in expectation of money or other valuable consideration.
+5 (b) “Debt management service provider” does not include a debt resolution service pro-
+6 vider.
+7 (5)(a) “Debt resolution service” means a program that purports, directly or indirectly,
+8 to:
+9 (A) Reduce the balance of, or the interest rate or fees that apply to, a debt that a con-
+10 sumer owes to an unsecured creditor; or
+11 (B) Negotiate, renegotiate, resolve, reduce or otherwise alter the terms of payment of a
+12 debt that a consumer owes to an unsecured creditor.
+13 (b) “Debt resolution service” does not include a debt management service.
+14 (6)(a) “Debt resolution service provider” means a person that provides a debt resolution
+15 service to a consumer.
+16 (b) “Debt resolution service provider” does not include a debt management service pro-
+17 vider.
+18 (7) “Dedicated account” means an account that meets the criteria set forth in section
+19 13 (2)(a) of this 2026 Act.
+20 (8) “Dedicated account service provider” means a person that administers a consumer’s
+21 dedicated account and facilitates a consumer’s authorized deposits to and withdrawals from
+22 the dedicated account in accordance with the requirements set forth in 16 C.F.R.
+23 310.4(a)(5)(ii), as in effect on the effective date of this 2026 Act.
+24 [(4)] (9) “Nationwide Multistate Licensing System” means a system that the Conference of State
+25 Bank Supervisors and the American Association of Residential Mortgage Regulators, or assigns of
+26 the Conference of State Bank Supervisors or the American Association of Residential Mortgage
+27 Regulators, develop and maintain for participating state agencies to use in licensing and registering
+28 mortgage loan originators and other persons that provide nondepository financial services.
+29 [(5)] (10) “Nonprofit entity” means a person, corporation, organization, board, association or
+30 other entity described in 26 U.S.C. 501(c)(3), as in effect on June 26, 2009, that is exempt from tax-
+31 ation under 26 U.S.C. 501(a).
+32 (11) “Registrant” means a person that the Director of the Department of Consumer and
+33 Business Services registers under ORS 697.632.
+34 SECTION 2. ORS 697.612 is amended to read:
+35 697.612. (1) A person that has not registered with the Director of the Department of Consumer
+36 and Business Services under ORS 697.632 may not engage in business in this state in the course of
+37 which the person:
+38 (a) Provides a debt resolution service;
+39 [(a)] (b) Performs a debt management service; or
+40 [(b)] (c) Receives money or other valuable consideration or expects to receive money or other
+41 valuable consideration for:
+42 (A) Soliciting or receiving an application from a consumer for a debt management service;
+43 (B) Forwarding or providing a completed application for a debt management service to a debt
+44 management service provider;
+45 (C) Referring a consumer to another debt management service provider, if the person is a debt
+[2]
+
+HB 4141
+1 management service provider;
+2 (D) Providing a consumer’s name, address or other information that identifies the consumer to
+3 a debt management service provider for the purpose of arranging the provision of a debt manage-
+4 ment service; or
+5 (E) Providing advice, assistance, instruction or instructional material concerning a debt man-
+6 agement service to a consumer.
+7 [(2)] (2)(a) A debt management service provider registered under ORS 697.632 may negotiate on
+8 a consumer’s behalf for a reasonable alternative repayment schedule or to reduce a claim described
+9 in 11 U.S.C. 502 if the debt management service provider is a nonprofit budget and credit counseling
+10 agency approved in accordance with 11 U.S.C. 111.
+11 (b) A debt resolution service provider that is registered under ORS 697.632 may provide
+12 a debt resolution service to a consumer.
+13 [(3)] (3)(a) Subsection (1) of this section does not apply to:
+14 [(a)] (A) An employee of a [debt management service provider, if the debt management service
+15 provider is registered under ORS 697.632] registrant.
+16 [(b)] (B) An attorney licensed or authorized to practice law in this state, if the attorney provides
+17 a debt management service or a debt resolution service within an attorney-client relationship
+18 or only incidentally in the practice of law.
+19 [(c)] (C) A financial institution or a trust company, both as defined in ORS 706.008.
+20 [(d)] (D) A consumer finance company licensed under ORS chapter 725.
+21 [(e)] (E) An escrow agent licensed under ORS 696.505 to 696.590 to the extent that the escrow
+22 agent is acting to close an escrow, as defined in ORS 696.505, is engaging in activity related to a
+23 collection escrow, as defined in ORS 696.505, or is serving as a trustee of a trust deed in accordance
+24 with ORS 86.713. This paragraph does not apply if the escrow agent:
+25 [(A)] (i) Assists an unregistered debt management service provider that is not exempt from
+26 registration under this subsection in performing a debt management service; or
+27 [(B)] (ii) Provides escrow services to a consumer in accordance with a debt management ser-
+28 vices plan executed by an unregistered debt management services provider that is not exempt from
+29 registration under this subsection.
+30 [(f)] (F) A mortgage banker or mortgage broker licensed under ORS 86A.095 to 86A.198 or a
+31 mortgage loan originator, as defined in ORS 86A.100.
+32 [(g)] (G) A broker-dealer registered with the United States Securities and Exchange Commission
+33 or the United States Commodity Futures Trading Commission, if the broker-dealer is subject to and
+34 acts in accordance with regulations promulgated by either commission.
+35 [(h)] (H) A consumer reporting agency, as defined in 15 U.S.C. 1681a(f).
+36 [(i)] (I) A public body, as defined in ORS 174.109.
+37 [(j)] (J) A person that is obeying or acting in accordance with a court order.
+38 [(k)] (K) An accredited educational institution or program that offers or performs a debt man-
+39 agement service without receiving money or other valuable consideration, if the institution or pro-
+40 gram performs the debt management service as an incidental part of a class or a duty the institution
+41 or program provides regularly.
+42 (L) A nonprofit budget and credit counseling agency approved in accordance with 11 U.S.C. 111
+43 that:
+44 (i) Provides only an individual or group briefing, as described in 11 U.S.C. 109(h), or an in-
+45 structional course concerning personal financial management, as described in 11 U.S.C. 111; and
+[3]
+
+HB 4141
+1 (ii) Does not receive or offer to receive funds from a consumer for the purpose of distributing
+2 the funds among the consumer’s creditors in full or partial payment of the consumer’s debts.
+3 [(m)] (M) A nonprofit entity that provides advice, assistance, instruction or instructional mate-
+4 rials to a consumer in return for a fee that is reasonably calculated to pay the cost of making the
+5 advice, assistance, instruction or instructional materials available.
+6 [(n)] (N) An organization or a counselor approved by the United States Department of Housing
+7 and Urban Development under 12 U.S.C. 1701x.
+8 (b) Subsection (1)(a) of this section does not apply to:
+9 (A) A person that advertises or conducts marketing on behalf of a debt resolution service
+10 provider but does not provide a debt resolution service;
+11 (B) A dedicated account service provider that does not provide a debt resolution service;
+12 (C) A person that is described in section 501(q) or in section 501(c)(3) of the Internal
+13 Revenue Code that is exempt from taxation under section 501(a) of the Internal Revenue
+14 Code;
+15 (D) A judge of any court of this state;
+16 (E) A creditor, or an employee or assignee of a creditor, that resolves a debt with a
+17 consumer or with a debt resolution service provider;
+18 (F) An officer or employee of the federal government or a state government who provides
+19 a debt resolution service on behalf of the government and receives compensation for the debt
+20 resolution service only from the government;
+21 (G) A public accountant certified under ORS 673.040 who provides a debt resolution ser-
+22 vice within the accountant-client relationship;
+23 (H) An attorney who is licensed to practice law in this state and who provides debt re-
+24 solution service within an attorney-client relationship; or
+25 (I) A person that provides or agrees to provide a debt resolution service to an individual
+26 who the person had no reason to know resided in this state at the time the person provided
+27 or agreed to provide the debt resolution service.
+28 SECTION 3. ORS 697.632 is amended to read:
+29 697.632. (1)(a) The Director of the Department of Consumer and Business Services shall maintain
+30 a registry of debt management service providers and debt resolution service providers and by rule
+31 in accordance with ORS chapter 183 shall require a person that performs a debt management ser-
+32 vice, or a debt resolution service unless the person is exempt under ORS 697.612 (3), to apply to
+33 the director to register or to renew a registration as a debt management service provider or debt
+34 resolution service provider, as appropriate.
+35 (b) The director, consistent with the requirements of ORS 697.602 to 697.842, may administer a
+36 program to register debt management service providers or debt resolution service providers, or
+37 renew registrations, by means of an agreement with the Nationwide Multistate Licensing System
+38 and may, by rule, conform the practices, procedures and information that the Department of Con-
+39 sumer and Business Services uses to register a debt management service provider or debt resol-
+40 ution service provider, or renew a registration, to the requirements of the Nationwide Multistate
+41 Licensing System.
+42 (c) An application for registration or renewal must provide to the director on a form and in a
+43 format the director specifies:
+44 (A) The applicant’s name and address;
+45 (B) Any assumed business names, trade names or other identities under which the applicant
+[4]
+
+HB 4141
+1 performs a debt management service or debt resolution service;
+2 (C) A general description of the debt management service or debt resolution service business
+3 activities the applicant undertakes or proposes to undertake;
+4 (D) The names of any managing members, managing partners, executive officers, directors,
+5 principals or agents the applicant has;
+6 (E) The name of the applicant’s registered agent or the applicant’s agent for the purpose of re-
+7 ceiving service of legal process;
+8 (F) A signed statement that identifies and describes in detail any incident in which the applicant
+9 or a member, partner, officer, director or principal of the applicant within the five years before the
+10 date on which the applicant applied to register or renew a registration as a debt management ser-
+11 vice provider or debt resolution service provider was subject to:
+12 (i) A judgment in favor of another person in a circuit court of this state or in an equivalent
+13 court in another state;
+14 (ii) An arbitration award in favor of another person; or
+15 (iii) An adverse final order from an administrative agency in this state or another state;
+16 (G) A copy of the corporate surety bond the applicant filed with the director under ORS 697.642;
+17 (H) Fingerprints for any of the applicant’s executive officers, and officers and managers with
+18 supervisory responsibility over the applicant’s activities, with which the director may conduct a
+19 criminal records check that the director may process through the Nationwide Multistate Licensing
+20 System; [and]
+21 (I) A copy of each form of agreement and a schedule of the fees the applicant proposes
+22 to charge consumers for services the applicant will provide; and
+23 [(I)] (J) Other information the director may require concerning the financial responsibility,
+24 training, background, experience and business activities of the applicant or a member, partner, offi-
+25 cer, director or principal of the applicant.
+26 (2) At the time an applicant submits an application for registration under this section, the ap-
+27 plicant shall pay a nonrefundable fee in an amount the director specifies by rule. An applicant who
+28 applies to renew a registration shall pay another fee in an amount the director specifies by rule.
+29 (3) The director shall specify amounts for the fees described in subsection (2) of this section that
+30 in the aggregate are sufficient to pay the costs of administering ORS 697.602 to 697.842. The director
+31 shall pay all moneys received under this section as provided in ORS 697.842.
+32 (4) A registration under this section is valid until December 31 of the calendar year in which
+33 the director approves the registration. In order to continue to provide a debt management service
+34 or debt resolution service, a debt management service provider or debt resolution service pro-
+35 vider must renew the appropriate registration at the time the registration expires.
+36 (5)(a) The director may refuse to register the applicant or may refuse to renew a registration
+37 for a debt management service provider or debt resolution service provider for any of the reasons
+38 set forth in ORS 697.752.
+39 (b) The director, for good cause shown or in order to conform the department’s licensing and
+40 license renewal program to the requirements of the Nationwide Multistate Licensing System, may
+41 waive a requirement of this section with respect to a license application or may allow an applicant
+42 to substitute information required in an application in lieu of information required under this sec-
+43 tion.
+44 SECTION 4. ORS 697.642 is amended to read:
+45 697.642. (1) An applicant for registration as a debt management service provider or debt re-
+[5]
+
+HB 4141
+1 solution service provider at the time of application shall file with the Director of the Department
+2 of Consumer and Business Services a surety bond issued by one or more corporate sureties au-
+3 thorized to do business in this state. The surety bond must:
+4 (a) Be in an amount that the director specifies by rule and that is[:] at least $10,000 and
+5 not more than $50,000.
+6 [(A) A minimum of $10,000; or]
+7 [(B) An amount the director specifies by rule.]
+8 (b) Require the surety company to provide written notice to the director by registered or certi-
+9 fied mail:
+10 (A) At least 30 days before the surety company cancels or revokes the surety bond; or
+11 (B) Whenever the surety company pays for a loss under the surety bond.
+12 (c) Satisfy the provisions of subsection (2) of this section.
+13 (2) The surety bond that a [debt management service provider] registrant must file under sub-
+14 section (1) of this section, in addition to the requirements set forth under subsection (1) of this
+15 section, must be:
+16 (a) Payable to the order of the director; and
+17 (b) Conditioned so that the corporate surety or the [debt management service provider] regis-
+18 trant upon the director’s order or a court order pays all amounts due for a violation of the [debt
+19 management service provider’s] registrant’s duties and obligations to consumers under ORS 697.652
+20 to 697.702.
+21 (3) If a surety cancels, revokes or otherwise terminates a surety bond required under subsection
+22 (1) of this section or if the amount of the surety bond is reduced to less than the amount required
+23 under subsection (1) of this section, the [debt management service provider] registrant shall imme-
+24 diately:
+25 (a) File a replacement surety bond; or
+26 (b) Surrender the [debt management service provider’s] registrant’s registration to the director
+27 and cease operating as a debt management service provider or debt resolution service provider
+28 or providing debt management services or debt resolution services, as appropriate.
+29 (4) A person that has a right of action against a [debt management service provider] registrant
+30 under ORS 697.718 has a right of action against the surety bond required under subsection (1) of
+31 this section.
+32 SECTION 5. ORS 697.672 is amended to read:
+33 697.672. (1) A [debt management service provider] registrant shall make, keep and maintain ac-
+34 counts, correspondence, memoranda, papers, books and other records that the Director of the De-
+35 partment of Consumer and Business Services by rule determines are necessary to ensure that the
+36 [debt management service provider] registrant is complying with the provisions of ORS 697.602 to
+37 697.842.
+38 (2) A [debt management service provider] registrant shall maintain records for each consumer
+39 with which the [debt management service provider] registrant does business in a form and with
+40 contents the director specifies by rule. The [debt management service provider] registrant shall
+41 maintain each consumer record for a period of three years after the date of the last entry in the
+42 record. The [debt management service provider] registrant may dispose of the record in accordance
+43 with applicable law after the three-year period described in this subsection has expired.
+44 (3) A [debt management service provider] registrant shall record all disbursements that the [debt
+45 management service provider] registrant makes, if any, to a consumer’s creditors.
+[6]
+
+HB 4141
+1 (4) The director may at any reasonable time examine the [debt management service provider]
+2 registrant, the records described in subsection (1) of this section or the [debt management service
+3 provider’s] registrant’s activities in connection with performing a debt management service or debt
+4 resolution service.
+5 SECTION 6. ORS 697.702 is amended to read:
+6 697.702. (1) A person commits the offense of interfering with records of a [debt management
+7 service provider] registrant if, with respect to a record to which ORS 697.672 applies, the person
+8 intentionally:
+9 (a) Makes a false entry in the record; or
+10 (b) Mutilates, destroys or otherwise disposes of the record.
+11 (2) Subsection (1)(b) of this section does not apply to a [debt management service provider] reg-
+12 istrant that disposes of a record after the retention period set forth in ORS 697.672 expires.
+13 SECTION 7. ORS 697.707 is amended to read:
+14 697.707. (1) A debt management service provider may not charge or receive from a consumer a
+15 fee described in ORS 697.692 until after the debt management service provider makes the disclosures
+16 described in this section.
+17 (2) A debt management service provider shall give to every consumer for whom the debt man-
+18 agement service provider offers to perform a debt management service a document that:
+19 (a) States the maximum amount the debt management service provider may charge the consumer
+20 for all debt management services that the debt management service provider will perform;
+21 (b) States that the consumer is responsible for paying the debt management service provider’s
+22 charges;
+23 (c) Warns the consumer that canceled debt may constitute income that is subject to state and
+24 federal taxation and advises the consumer to consult with a tax professional;
+25 (d) Describes completely and in detail the debt management services that the debt management
+26 service provider will perform for the consumer and states the amount the consumer must pay for
+27 each service and for all services; and
+28 (e) States that the consumer may bring an action against the bond required under ORS 697.642
+29 and lists the name and address of the surety that issued the bond.
+30 (3) A debt management service provider that performs a debt management service as defined in
+31 ORS 697.602 [(2)(b)] (3)(a)(B) or described in ORS 697.612 [(1)(b)(E)] (1)(c)(E), in the document re-
+32 quired under subsection (2) of this section, shall:
+33 (a) Describe, accurately and completely, the consumer’s right to review consumer credit infor-
+34 mation about the consumer that a consumer reporting agency, as defined in 15 U.S.C. 1681a, main-
+35 tains; and
+36 (b) State the approximate price that a consumer reporting agency will charge a consumer to
+37 review the consumer credit information described in paragraph (a) of this subsection and that the
+38 consumer may review the information at no charge if the consumer makes a request to the consumer
+39 reporting agency within 30 days after the consumer was denied credit.
+40 (4) A debt management service provider that does not hold a consumer’s funds, directly or in-
+41 directly, shall include in the document required under subsection (2) of this section these additional
+42 statements:
+43 (a) That the debt management service provider does not predict or guarantee specific results
+44 and cannot force or require a creditor to accept a specific settlement;
+45 (b) That the debt management service provider does not make scheduled periodic payments to
+[7]
+
+HB 4141
+1 creditors;
+2 (c) That creditors may continue collection efforts, including lawsuits;
+3 (d) That the consumer’s failure to make monthly payments on outstanding debt will likely have
+4 a negative impact on the consumer’s credit score;
+5 (e) That the consumer must make regular monthly deposits of funds in an account the consumer
+6 establishes and maintains in the consumer’s name with an insured institution, as defined in ORS
+7 706.008, and designates specifically for making disbursements in connection with a debt management
+8 service; and
+9 (f) That the debt management service provider will withdraw fees for debt management services
+10 from the account described in paragraph (e) of this subsection only with the consumer’s specific
+11 authorization and that the debt management service provider does not have custody, control or
+12 separate or additional access to the account.
+13 (5) The document described in this section must provide a space for the consumer to sign the
+14 form under a statement that indicates that the consumer has read and understands the disclosures
+15 set forth in the document.
+16 SECTION 8. ORS 697.718 is amended to read:
+17 697.718. (1) A [debt management service provider] registrant or a person required to obtain a
+18 registration as a debt management service provider or debt resolution service provider under ORS
+19 697.612 is liable to a consumer who suffers an ascertainable loss of money or property, real or per-
+20 sonal, in connection with the [debt management service provider’s] registrant’s or person’s violation
+21 of a provision of ORS 697.652, 697.662, 697.682, 697.692 or 697.707.
+22 (2) Except as provided in this subsection, an action or suit may not be commenced under this
+23 section more than three years after the date on which the [debt management service provider] reg-
+24 istrant or person enters into an agreement for a debt management service or debt resolution
+25 service with the consumer that suffered the ascertainable loss of money or property or more than
+26 three years after the [debt management service provider] registrant or person performs a debt man-
+27 agement service that violates ORS 697.652 or a debt resolution service that violates section 14
+28 of this 2026 Act. An action under this section may be commenced within three years after the
+29 transaction that is the subject of the action or within two years after the facts on which the action
+30 is based were or should have been discovered, but an action may not be commenced more than five
+31 years after the transaction. Failure to commence an action on a timely basis is an affirmative de-
+32 fense.
+33 (3) A consumer that has a right of action against a [debt management service provider] regis-
+34 trant under this section has a right of action against the bond required under ORS 697.642.
+35 (4) A court may award reasonable attorney fees to the prevailing party in an action brought
+36 under this section.
+37 SECTION 9. ORS 697.732 is amended to read:
+38 697.732. (1) To enforce the provisions of ORS 697.612 and 697.642 to 697.702, the Director of the
+39 Department of Consumer and Business Services may:
+40 (a) Examine a [debt management service provider] registrant or a person required to obtain a
+41 registration as a debt management service provider or debt resolution service provider under ORS
+42 697.612 and the [debt management service provider’s] registrant’s or the person’s accounts for the
+43 purpose of investigating a violation of ORS 697.642 to 697.702.
+44 (b) Undertake an investigation, including an investigation outside this state, that the director
+45 considers necessary to:
+[8]
+
+HB 4141
+1 (A) Determine whether a [debt management service provider] registrant or a person required to
+2 obtain a registration as a debt management service provider or debt resolution service provider
+3 under ORS 697.612 violated, is violating or is about to violate ORS 697.612 or 697.642 to 697.702 or
+4 a rule the director adopted under ORS 697.632; or
+5 (B) Aid in enforcing the provisions of ORS 697.612 and 697.642 to 697.702 and in formulating
+6 rules for adoption under ORS 697.632.
+7 (c) Require a [debt management service provider] registrant or a person required to obtain a
+8 registration as a debt management service provider or debt resolution service provider under ORS
+9 697.612 to file a written statement, under oath or otherwise, that addresses a matter the director is
+10 investigating.
+11 (d) Administer oaths and affirmations, subpoena witnesses, compel the witnesses to attend, take
+12 evidence and require a person that the director is investigating to produce books, papers, corre-
+13 spondence, memoranda, agreements or other documents or records that the director deems relevant
+14 or material to the investigation. A witness who appears before the director under a subpoena shall
+15 receive the fees and mileage described in ORS 44.415 (2).
+16 (e) Charge and require a [debt management service provider] registrant or a person required to
+17 obtain a registration as a debt management service provider or debt resolution service provider
+18 under ORS 697.612 to pay for the reasonable cost of an examination or investigation conducted un-
+19 der this section in an amount the director specifies.
+20 (2) If a person does not comply with a subpoena that the director issues under this section, a
+21 circuit court in this state upon the director’s application shall begin contempt proceedings to compel
+22 compliance in the same manner in which the court would compel compliance with a subpoena in a
+23 civil action.
+24 (3) A [debt management service provider] registrant or a person required to obtain a registration
+25 as a debt management service provider or debt resolution service provider under ORS 697.612
+26 shall provide the director for the purpose of investigating a violation of ORS 697.612 or 697.642 to
+27 697.702 with free access to the [debt management service provider’s] registrant’s or the person’s
+28 offices, places of business, books, accounts, records, papers, files, safes and vaults.
+29 (4)(a) The director shall maintain for public inspection a record of any order the director issued
+30 that:
+31 (A) Suspended, revoked or refused to renew a person’s registration as a debt management ser-
+32 vice provider or debt resolution service provider; or
+33 (B) Imposed a civil penalty under ORS 697.832.
+34 (b) The record that the director maintains of the director’s order [shall] must show:
+35 (A) The form of the order that the director issued;
+36 (B) The name of the person that is the subject of the order; and
+37 (C) The grounds for the action that the director took in the order.
+38 (c) The director shall maintain as a public record any notice or other information that indicates
+39 that a collection on a deposit or on the bond required under ORS 697.642 has occurred.
+40 (d) Except as provided in this subsection, records, reports and other information that the direc-
+41 tor receives or compiles as a result of an investigation conducted under this section are exempt from
+42 the disclosure required under ORS 192.314.
+43 SECTION 10. ORS 697.752 is amended to read:
+44 697.752. The Director of the Department of Consumer and Business Services may deny, suspend,
+45 condition, revoke or refuse to issue or renew a registration as a debt management service provider
+[9]
+
+HB 4141
+1 or debt resolution service provider if the director determines that an applicant or [debt manage-
+2 ment service provider] registrant:
+3 (1) Cannot meet financial obligations as the obligations mature, has liabilities that exceed assets
+4 or is in a financial condition that prevents the applicant or [debt management service provider]
+5 registrant from continuing in business with safety to consumers;
+6 (2) Engaged in dishonest, fraudulent or illegal practices or conduct in a business or profession,
+7 or unfair or unethical practices or conduct in connection with a debt management service or debt
+8 resolution service;
+9 (3) Filed, knowingly or negligently, false or untruthful information with the director under ORS
+10 697.632;
+11 (4) Violated a provision of ORS 697.642 to 697.702 or a rule the director adopted under ORS
+12 697.632;
+13 (5) Filed an application for registration that on the date the director issued a registration or
+14 on the date the director denied, suspended, conditioned or revoked a registration was incomplete in
+15 a material respect or contained a statement that was false or misleading with respect to a material
+16 fact in light of the circumstances in which the applicant or [debt management service provider]
+17 registrant made the statement;
+18 (6) Failed to account to interested persons for money or property the applicant or [debt man-
+19 agement service provider] registrant received;
+20 (7) Was temporarily or permanently enjoined from engaging in or continuing a conduct or
+21 practice involving a debt management service or debt resolution service by a court of competent
+22 jurisdiction;
+23 (8) Is subject to a director’s order that denied, suspended, conditioned or revoked a registration
+24 as a debt management service provider or debt resolution service provider, or a license or regis-
+25 tration that the director issued under another provision of law;
+26 (9) Is subject to a cease and desist order that the director entered within the previous five years
+27 after giving the applicant or [debt management service provider] registrant notice and an opportu-
+28 nity for a hearing;
+29 (10) Demonstrated negligence or incompetence in performing a debt management service or debt
+30 resolution service or an act, the performance of which requires the applicant or [debt management
+31 service provider] registrant to obtain a registration or license;
+32 (11) Failed to supervise diligently and control an employee’s or agent’s actions related to a debt
+33 management service or debt resolution service that the applicant or [debt management service
+34 provider] registrant performed;
+35 (12) Was convicted of a felony or of a misdemeanor for which an essential element is fraud, ei-
+36 ther as an individual that is subject to the requirement to register as a debt management service
+37 provider or debt resolution service provider or as a member, partner, officer, director or principal
+38 of an applicant or [debt management service provider] registrant;
+39 (13) Reduced the amount of the bond required under ORS 697.642 or allowed the bond to lapse;
+40 (14) Knowingly made a false entry in a consumer’s record; or
+41 (15) Knowingly mutilated, destroyed or otherwise disposed of a consumer’s record unless the
+42 record concerns a consumer that no longer receives a debt management service or debt resolution
+43 service from the applicant or [debt management service provider] registrant or the record is not
+44 subject to the retention requirement set forth in ORS 697.672.
+45 SECTION 11. ORS 697.822 is amended to read:
+[10]
+
+HB 4141
+1 697.822. The remedy provided for in ORS 697.718:
+2 (1) Is in addition to and not exclusive of other remedies provided by law.
+3 (2) Does not limit a person’s statutory or common-law right to bring an action in any court for
+4 an act of a [debt management service provider] registrant, or the right of the state to punish a
+5 person for violating a law.
+6 SECTION 12. Sections 13 to 17 of this 2026 Act are added to and made a part of ORS
+7 697.602 to 697.842.
+8 SECTION 13. (1) A debt resolution service provider shall:
+9 (a) Deliver or make available to a consumer a copy of any agreement the debt resolution
+10 service provider enters into with the consumer. The debt resolution service provider may
+11 deliver or make the agreement available electronically with the consumer’s consent. An
+12 agreement between a debt resolution service provider and a consumer must:
+13 (A) Describe the services that the debt resolution service provider will perform for the
+14 consumer;
+15 (B) Describe how the debt resolution service provider will calculate fees for debt resol-
+16 ution services and list the fees the debt resolution service provider will charge, to the extent
+17 that the debt resolution service provider has a current list of fees;
+18 (C) Estimate in good faith the amount of time that will be necessary to resolve the
+19 consumer’s debts and, if the debt resolution services involve offering a resolution to the
+20 consumer’s creditors, estimate in good faith the amount of time within which the debt re-
+21 solution service provider will make bona fide offers to the consumer’s creditors;
+22 (D) Specify the amount of money, or the percentage of each debt, that a consumer must
+23 accumulate before the debt resolution service provider makes a bona fide offer to a creditor
+24 to resolve the consumer’s debt;
+25 (E) State that debt resolution services might not suit all consumers;
+26 (F) State that a failure to make timely payment on a consumer’s debts will likely ad-
+27 versely affect the consumer’s creditworthiness, might result in a creditor’s attempt to col-
+28 lect the debt by means that include a lawsuit or other legal proceeding and might increase
+29 the amount the consumer owes in accrued interest and fees, if a debt resolution service re-
+30 lies upon or requires the consumer to not make timely payments to creditors;
+31 (G) State that, unless the consumer is insolvent, the consumer might have taxable in-
+32 come as the result of a resolution of a debt for less than the full amount of the debt, even
+33 if the consumer does not receive money;
+34 (H) State that the debt resolution service provider cannot compel a creditor to negotiate
+35 a resolution of the consumer’s debt and that the debt resolution service provider cannot
+36 guarantee a specific resolution or other result from a debt resolution service;
+37 (I) State that resolving a debt by means of a debt resolution service requires the con-
+38 sumer to meet regular savings goals;
+39 (J) State that the debt resolution service provider does not provide tax, accounting or
+40 legal advice to consumers unless the debt resolution service provider has a license required
+41 to provide tax, accounting or legal advice;
+42 (K) State that the debt resolution service provider does not receive compensation of any
+43 kind from creditors and operates as the consumer’s advocate with respect to creditors and
+44 the consumer’s debts;
+45 (L) State that the debt resolution service provider does not make any payment to a
+[11]
+
+HB 4141
+1 creditor or other person on the consumer’s behalf;
+2 (M) List the debts to which debt resolution services apply under the agreement; and
+3 (N) State that the consumer must resolve all disputes with the debt resolution service
+4 provider by means of mandatory arbitration, if the agreement requires mandatory arbi-
+5 tration.
+6 (b) Maintain during ordinary business hours a toll-free telephone number or electronic
+7 communication method and a staff that is of adequate capacity to accept communications
+8 from a reasonably anticipated number of consumers.
+9 (c) Comply with 16 C.F.R. part 255, as in effect on the effective date of this 2026 Act, and
+10 with Bulletin 2022-05: Unfair and Deceptive Acts or Practices That Impede Consumer Re-
+11 views published by the federal Consumer Financial Protection Bureau.
+12 (d) File each year with the Director of the Department of Consumer and Business Ser-
+13 vices a written report that lists:
+14 (A) The total number of consumers in this state for which the debt resolution service
+15 provider provided debt resolution services in the previous 12 months; and
+16 (B) The total amount of fees the debt resolution service provider collected from con-
+17 sumers in this state during the previous 12 months.
+18 (2) A debt resolution service provider may:
+19 (a) Request or require that a consumer establish and deposit funds into a dedicated ac-
+20 count that a dedicated account service provider administers if:
+21 (A) The dedicated account is with an insured institution, as defined in ORS 706.008;
+22 (B) The consumer owns the funds in the dedicated account and all interest that accrues
+23 on the funds;
+24 (C) The debt resolution service provider does not own and is not owned by or under
+25 common control with the dedicated account service provider, with “control” for the purpose
+26 of this subparagraph meaning having the direct or indirect power to manage the debt resol-
+27 ution service provider or the dedicated account service provider by contract or by ownership
+28 of more than 20 percent of the ownership interest in the debt resolution service provider or
+29 the dedicated account service provider;
+30 (D) The dedicated account service provider does not give or accept money or other
+31 compensation for referrals of business that involve the debt resolution service provider;
+32 (E) The consumer may terminate debt resolution services at any time without penalty
+33 by providing notice under section 15 of this 2026 Act, after which the debt resolution service
+34 provider must notify the dedicated account service provider of the termination within five
+35 business days after receiving the consumer’s notice; and
+36 (F) The debt resolution service provider discloses the requirements specified in subpara-
+37 graphs (A) to (E) of this paragraph in any agreement with the consumer;
+38 (b) Extend credit to a consumer for the purpose of deferring some or all of the
+39 consumer’s debts, or negotiate with another person for an extension of credit to the con-
+40 sumer, at no additional expense to the consumer, if the person with which the debt resol-
+41 ution service provider negotiates the extension of credit has authority or a license necessary
+42 to extend credit in this state;
+43 (c) Terminate an agreement with a consumer by delivering a written notice of termi-
+44 nation electronically or by postal mail:
+45 (A) Not later than 60 days after the consumer fails to perform an obligation due under
+[12]
+
+HB 4141
+1 the terms of the agreement, in which case the consumer does not owe any further payment
+2 to the debt resolution service provider as of the date of termination; or
+3 (B) Immediately, if the consumer refuses to pay the debt resolution service provider a
+4 fee that the debt resolution service provider has earned; and
+5 (d) Recover all fees the debt resolution service provider has earned before a consumer
+6 terminates an agreement as provided in section 15 of this 2026 Act, if the debt resolution
+7 service provider charges and receives the fee in accordance with the agreement and does not
+8 violate the provisions of section 14 (1)(a) of this 2026 Act.
+9 (3)(a) A fee that a dedicated account service provider charges or collects from a con-
+10 sumer or that a person charges or collects from a consumer for legal services is not a fee
+11 that a debt resolution service provider charges or collects for a debt resolution service.
+12 (b) A debt resolution service provider need not report or account to the director or a
+13 consumer for a fee described in paragraph (a) of this subsection.
+14 SECTION 14. (1) A debt resolution service provider may not:
+15 (a) Request, charge, receive or collect a fee from a consumer unless and until:
+16 (A) The debt resolution service provider and the consumer enter into an agreement as
+17 provided in section 13 of this 2026 Act and the debt resolution service provider charges the
+18 fee in accordance with the terms of the agreement;
+19 (B) The debt resolution service provider negotiates, renegotiates, resolves, reduces or
+20 otherwise alters the terms of at least one of a consumer’s debts in accordance with the
+21 terms of any agreement between the debt resolution service provider and the consumer;
+22 (C) The consumer makes at least one payment under the terms of any resolution between
+23 the consumer and any creditor that is a party to the resolution; and
+24 (D) The debt resolution service provider’s fee either:
+25 (i) Bears the same proportional relationship to the total fee the debt resolution service
+26 provider charges the consumer for all debt resolution services that the amount of the debt
+27 that is negotiated, renegotiated, resolved, reduced or otherwise altered bears to the
+28 consumer’s total debt at the time the consumer entered into an agreement with the debt
+29 resolution service provider; or
+30 (ii) Is a fixed percentage of the amount the consumer saved in debt payments, interest
+31 or otherwise as a result of the negotiation, renegotiation, resolution, reduction or alteration
+32 of the terms of each of the debts subject to the agreement, measured as the difference be-
+33 tween the amount the consumer owed on each debt and the amount the consumer actually
+34 paid to satisfy each debt;
+35 (b) Require from a consumer, or exercise, a power of attorney that authorizes the debt
+36 resolution service provider to enter into a binding agreement to fully discharge a debt in
+37 return for a payment of a specific sum of money;
+38 (c) Send a creditor a cease and desist notice;
+39 (d) Require a consumer to notify a creditor that the consumer’s address or phone num-
+40 ber has changed in an attempt to divert communications from the creditor to the debt re-
+41 solution service provider instead of to the consumer;
+42 (e) Exercise or attempt to exercise any authority on behalf of the consumer after the
+43 consumer has terminated an agreement as provided in section 15 of this 2026 Act;
+44 (f) Initiate, or request that a dedicated account service provider initiate, a transfer of
+45 any money from a consumer’s dedicated account unless the transfer:
+[13]
+
+HB 4141
+1 (A) Returns money to the consumer;
+2 (B) Occurs before any agreement between the debt resolution service provider and the
+3 consumer terminates or expires;
+4 (C) Is a fee that the debt resolution service provider earns in accordance with paragraph
+5 (a) of this subsection; or
+6 (D) Funds a negotiated resolution with a creditor and occurs at the consumer’s express
+7 direction;
+8 (g) Control or receive a consumer’s funds for any purpose other than receiving payment
+9 of a fee the debt resolution service provider earns for debt resolution services;
+10 (h) Resolve a debt, represent to a consumer that a debt is resolved or advise a consumer
+11 to make a payment to a creditor for the purpose of resolving a debt unless, at the time the
+12 debt resolution service provider resolves the debt, makes the representation or gives the
+13 advice, the creditor confirms that the debt is fully resolved or that a payment will fully re-
+14 solve the debt or is part of a payment plan that, upon completion, will fully resolve the debt;
+15 (i) Represent that:
+16 (A) The debt resolution service provider will provide any money to pay a bill or to prevent
+17 a lien or claim from attaching to any of the consumer’s property; or
+18 (B) A consumer’s participation in debt resolution services will prevent any litigation,
+19 garnishment, attachment, repossession, foreclosure, eviction or loss of employment;
+20 (j) Falsely represent, directly or by implication:
+21 (A) That the debt resolution service provider can provide legal advice or legal services;
+22 or
+23 (B) Any material provision of an agreement for debt resolution services or the character
+24 or scope of a debt resolution service, including:
+25 (i) How much money or what percentage of a debt a consumer might save by using the
+26 debt resolution service;
+27 (ii) The amount of time in which a consumer will achieve results from the debt resolution
+28 service;
+29 (iii) How much money or what percentage of each debt the consumer must accumulate
+30 before the debt resolution service provider offers or attempts to negotiate, renegotiate, re-
+31 solve or otherwise alter the terms of the consumer’s debt;
+32 (iv) How using a debt resolution service could or will affect the consumer’s credit score
+33 or other measure of creditworthiness or any collection efforts a creditor may pursue;
+34 (v) The number or percentage of consumers that successfully resolve debts by using the
+35 debt resolution service provider’s services; or
+36 (vi) That the debt resolution service provider is a nonprofit entity;
+37 (k) Receive a confession of judgment from a consumer or a power of attorney from a
+38 consumer to confess judgment against the consumer;
+39 (L) Purchase a debt or obligation of the consumer’s or obtain a mortgage or security
+40 interest in the consumer’s property in connection with services the debt resolution service
+41 provider provides to the consumer;
+42 (m) Receive from or on behalf of a consumer a promissory note or other negotiable in-
+43 strument other than a check or demand draft or a post-dated check or demand draft;
+44 (n) Disclose the consumer’s identity or identifying information or the identity of the
+45 consumer’s creditors, except:
+[14]
+
+HB 4141
+1 (A) As permitted under federal law or by court order;
+2 (B) To the Director of the Department of Consumer and Business Services in response
+3 to the director’s lawful demand; or
+4 (C) To the extent necessary to administer debt resolution services, which may include a
+5 disclosure to:
+6 (i) A creditor of the consumer; or
+7 (ii) A dedicated account service provider;
+8 (o) Advertise, announce, broadcast, display, distribute, print, publish or televise a state-
+9 ment or representation that is deceptive, false or misleading, either directly or indirectly or
+10 through a person that markets debt resolution services on behalf of the debt resolution
+11 service provider;
+12 (p) Provide any person with anything of value in exchange for favorable treatment in
+13 reviews or favorable placement in rankings;
+14 (q) Own or operate a website, electronic resource or publication that provides rankings
+15 or consumer reviews of the debt resolution service provider, whether directly, indirectly or
+16 through an affiliate of the debt resolution service provider; or
+17 (r) Make a statement or representation or take an action that is likely to mislead a
+18 consumer as to whether reviews the debt resolution service provider uses to advertise debt
+19 resolution services accurately reflect all reviews the debt resolution service provider has
+20 received.
+21 (2) An agreement under section 13 (1)(a) of this 2026 Act may not:
+22 (a) Subject the parties to the agreement to, or require the application of, the law of any
+23 jurisdiction other than the federal government or this state;
+24 (b) Restrict a consumer’s remedies under applicable provisions of ORS 697.602 to 697.842
+25 or another law of this state except as provided in the Federal Arbitration Act, 9 U.S.C. 1 et
+26 seq., as in effect on the effective date of this 2026 Act; or
+27 (c) Limit or release the liability of a party to the agreement for failing to perform the
+28 agreement or for violating an applicable provision of ORS 697.602 to 697.842.
+29 SECTION 15. (1) A consumer may terminate an agreement with a debt resolution service
+30 provider at any time by notifying the debt resolution service provider in writing, or orally
+31 by contacting a representative of the debt resolution service provider or by recording an oral
+32 message for delivery to the debt resolution service provider.
+33 (2) A debt resolution service provider, after receiving a consumer’s notice of termination
+34 under subsection (1) of this section, shall:
+35 (a) Within two business days after the date of the consumer’s notice, advise the con-
+36 sumer of any effect that the termination will have on any resolution agreements that the
+37 debt resolution service provider has negotiated or is in the process of negotiating; and
+38 (b) Within five business days after the date of the consumer’s notice, notify the dedicated
+39 account service provider of the consumer’s termination and request that the dedicated ac-
+40 count service provider communicate with the consumer concerning the disposition of any of
+41 the consumer’s funds that the dedicated account service provider holds.
+42 SECTION 16. (1)(a) While an agreement for debt resolution services remains in effect
+43 between a debt resolution service provider and a consumer, the debt resolution service pro-
+44 vider shall deliver to the consumer a statement of account:
+45 (A) At least once per month; and
+[15]
+
+HB 4141
+1 (B) Not later than five days after receiving a request for a statement of account from a
+2 consumer, except that the debt resolution service provider need not provide more than one
+3 statement of account per month in response to a consumer’s request.
+4 (b) A debt resolution service provider shall deliver a statement of account to a consumer
+5 within five days after an agreement for debt resolution services terminates or expires.
+6 (2) A statement of account must:
+7 (a) Show the total amount of money a consumer has deposited into the consumer’s ded-
+8 icated account as of the date of the statement of account, the total sum of money the con-
+9 sumer now has in the dedicated account and all withdrawals from the dedicated account from
+10 the date on which the dedicated account was opened;
+11 (b) List all creditors with which the consumer has reached a resolution of the consumer’s
+12 debt and the date on which the resolution was reached;
+13 (c) List each fee and the total of all fees that the debt resolution service provider charged
+14 to and collected from the consumer as of the date of the statement of account and ascribe
+15 each fee to a specific debt or resolution;
+16 (d) List for each debt that the consumer resolved with a creditor by means of a debt
+17 resolution service:
+18 (A) The amount of each debt on the date on which the debt resolution service provider
+19 and the consumer executed an agreement for debt resolution services;
+20 (B) The amount of each debt on the date on which the consumer and the creditor agreed
+21 to resolve the debt;
+22 (C) The total sum that the consumer paid to the creditor to discharge the debt in full
+23 and in accordance with a resolution agreement; and
+24 (D) The amount that the consumer paid to the debt resolution service provider as a fee
+25 to negotiate, renegotiate, resolve, reduce or otherwise alter the terms of the consumer’s
+26 debt.
+27 (3) A debt resolution service provider delivers a statement of account to a consumer in
+28 accordance with subsection (1) of this section if the debt resolution service provider provides
+29 or makes available to the consumer the information described in subsection (2) of this sec-
+30 tion by means of a website or other electronic means that are continuously accessible to the
+31 consumer at any time.
+32 SECTION 17. (1)(a) Except as provided in paragraph (b) of this subsection, a debt resol-
+33 ution service provider shall provide to a consumer copies of any agreement for debt resol-
+34 ution services between the debt resolution service provider and the consumer and any of the
+35 records the debt resolution service provider must maintain under ORS 697.672 (2) that per-
+36 tain to the consumer:
+37 (A) At no charge and within five days after the consumer submits a request for the
+38 agreement or records to the debt resolution service provider in writing, orally in person,
+39 orally by telephone or by other means the debt resolution service provider maintains for
+40 communications with consumers; or
+41 (B) Within a reasonable time after receiving a request from a consumer if the debt re-
+42 solution service provider receives the request more than 90 days and less than two years
+43 after the agreement for debt resolution services terminated or expired.
+44 (b) A debt resolution service provider need not respond to a request from a consumer
+45 that:
+[16]
+
+HB 4141
+1 (A) Exceeds a limit of one request per calendar month;
+2 (B) The debt resolution service provider reasonably believes the consumer made to har-
+3 ass the debt resolution service provider; or
+4 (C) A consumer made later than six years after the agreement for debt resolution ser-
+5 vices terminated or expired.
+6 (2) In addition to, and not in lieu of, the records that a debt resolution service provider
+7 must maintain under ORS 697.672, the debt resolution service provider shall maintain the
+8 following records for the specified length of time after the date on which the debt resolution
+9 service provider created the record:
+10 (a) For a period of two years:
+11 (A) Each advertisement, brochure, telemarketing script, promotional material and sup-
+12 porting data the debt resolution service provider used in marketing debt resolution services;
+13 (B) The names and last known addresses of each of the consumers with whom the debt
+14 resolution service provider entered into an agreement to provide debt resolution services, the
+15 date on which the consumer executed the agreement or received a debt resolution service
+16 and the amount the consumer paid for the debt resolution service; and
+17 (C) The names of each of the debt resolution service provider’s employees or former
+18 employees who had job duties related to selling or soliciting debt resolution services and each
+19 fictitious name an employee used, if the debt resolution service provider permits employees
+20 to use fictitious names in communications with consumers; and
+21 (b) For a period of five years, each signed or otherwise executed agreement with a con-
+22 sumer for debt resolution services.
+23 SECTION 18. Sections 13 to 17 of this 2026 Act and the amendments to ORS 697.602,
+24 697.612, 697.632, 697.642, 697.672, 697.702, 697.707, 697.718, 697.732, 697.752 and 697.822 by
+25 sections 1 to 11 of this 2026 Act apply to agreements for debt resolution services that a debt
+26 resolution service provider enters into with a consumer on or after the operative date spec-
+27 ified in section 19 of this 2026 Act.
+28 SECTION 19. (1) Sections 13 to 17 of this 2026 Act and the amendments to ORS 697.602,
+29 697.612, 697.632, 697.642, 697.672, 697.702, 697.707, 697.718, 697.732, 697.752 and 697.822 by
+30 sections 1 to 11 of this 2026 Act become operative on January 1, 2027.
+31 (2) The Director of the Department of Consumer and Business Services may adopt rules
+32 and take any other action before the operative date specified in subsection (1) of this section
+33 that is necessary to enable the director, on and after the operative date specified in sub-
+34 section (1) of this section, to undertake and exercise all of the duties, functions and powers
+35 conferred on the director by sections 13 to 17 of this 2026 Act and the amendments to ORS
+36 697.602, 697.612, 697.632, 697.642, 697.672, 697.702, 697.707, 697.718, 697.732, 697.752 and 697.822
+37 by sections 1 to 11 of this 2026 Act.
+38 SECTION 20. This 2026 Act takes effect on the 91st day after the date on which the 2026
+39 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+40
+[17]
+
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T S w a p t b w a c c t l d c a a p t d r s c n p a O 6 6 o w b a d m s p p o a t p a d[]]]]] M o] O o a t o a a i o a c b a c:M[]]
+[DELETED: B4]]] ( P o p o r t t p c o w “ r s m a p t p d o i c a m a a t m t c s f i s d a i a w t r s f i 1 C] M R o a o C o S B S o t A A o R M] ( “ e m a p c o b a o]] R m o o v c a f a d m s t a d]
+[DELETED: B4 t c t d m s p f t p o a t p o P a a i o i m c a d m]]] ( A e o a )d m s p i t d m s] d]]] i a t c a e a d] ( A a u d m s p t i n e f] ( P e s t a c i a w a d m s] ( A m b o m b l u O 8 t 8 o ]]]]] o p t o o p a d m P o a i o g b a d i 1 U 1 o a i]
+[DELETED: B4 D n r o o t r]] A p t i d i s 5 o i s 5 o t I C t i e f t u s 5 o t I R A c o a e o a o a c t r a d w  a w O c 1 s r t r d m s p r b m o a a w t N M L S m b r c t p p a i t t D o C a B S u t r a d m s p o d r i  A a b n t n o o i u w t a]
+[DELETED: B4 T n o a m m m p e o d A j i f o a p i a c c o t s o i a e F f a o t a e o a o a m w r o t a a w w t d m c [] ( O i t d m r c t f r A t t a a s v u D 3 o t c y i w d a t r I o T d m r t r t a o m r t r a T d f g c s o i o t c t d l a r p t t r o t N M L S m i l o i r u t s ( A a f r a a d m s p o]
+[DELETED: B4 C a B S a s b i b o o m c s a B i a a t t d i[] T b t[] ( o t s i a t t r s f u s ( o t C s t t c s o t [] m s p a a d f a v o t  t [] m s p[] a a d m s p[] a a t b r u s ( oss[] c m p b a o r t t D o t D o C a B S b r d a n t e t t] i c w t p o O 6 t m s p A [] s m r f e c m s p w t [] r d b i a f a w m s p t d s b r T [] r s m s p e c r f a p o t y a t d o t l e i t[][]rd]
+[DELETED: B4 T d m a a r t e t [ m s p t r d i s ( o t sns ( A p c t o o i w r o a  m p i w r t a r t w O 6 a t p[] A d m s p i r f p t d m s p W t c t c d p w p f t c a s t a t c m p f[] ( o d i[])( t c r t r c c i S t a p t a c r a w c a c t t c c i d i p ( o t d n h a c f d o i T t d m s p d n p o g s r p d n m s p p t]
+[DELETED: B4 a m i t c n w a i i a d i O;a t a d i p ( o t s o w t c s a t t d m s p d n h c c o s m p a s f t c t s t[] o a p r t o  m s p[] a a o s m n b c u t[] o p e i a a f a d m s o d r[] t 2 A A a u t s m b c w t y a t a a o a t b i a a d A c t h a r o a a a [] m s p A c m a r a f t t p p i a a b E a [] o a p r t o  m s p[] r o t p a f t s p U a i i a i o t s t t d]
+[DELETED: B4[] A i e t p o O 6 a 6 t 6 a i f R a [] r o a p r t o  m s p a r a p t t d i i t p b p c[] w a s t t d i u t s [] a d m s p o d r s p u O 6 w f a t t [] r o t p m s p S r o r[]]
+[DELETED: B4 i i a f c t p t a o [ m s p V a p o O 6 t 6 o a r t d a u O F a a f r t o t d t d i a r o i l o t c i w t a o [ m s p F t a t i p f m o p t a o  W t o p e f e i o c a c o g t a o [] s o d r s t t a o  m s t i s t t r t r a a d m s[] K m d o o d o a c r u t f t a o [] r o t r i n m s p]
+[DELETED: B4 a o a [] r o t r o t s t p  m s p 1.S 1 t 1 o t 2 A a a t a m a p o O.( p e i w t c T d r s p m o m t a a e w t c c A E i g f t a o t t w b n t r t d a i t d r s i o a r t t S t a f t m t p o a c d w l a S t u t c i i t c r o t c d a t t d r s p c b m o a d r s r t c S t t d r s p d n p t a o S t t d r s p d n m a p t ]
+[DELETED: B4 S t t c m r b m o m a i t a r m a M d o b h a t t m a a s t i o a c t a c B 2 U a D A o P T I C R T t n o c i t s f w t d T t a o f t d r s p c f c T d r s p d n o a i n o b o u T d a s p d n g o a m o o T c m t d r s a a d a s p o t t w f E c t a c f t p o d s o a o t d o n w a p f a e o c t t c p w w t d r T a a w a c b d a w n o t]
+[DELETED: B4 p t d r s p  R a f t d r s a a a p i s 1 o t 2 A i t d r A f t a d a s p c o c f a c A d r s p n n r o a t t d o .( a a a T d r s p n r r r o a t t o a l o o a c d i a w t i n r r r o o a b t t t d a t t t c e i a a w t d s p t e i a b a t f d a d i E o a t e a a o b o t c a t I o r t a d a s p i a t o]
+[DELETED: B4 O b a a b t r s p r t d m t r o g t A c p i d r s w p a l R a c o j f a c o a p o a f  P a d o o o t c o o a m o s D t c i o i i o t i o t]
+[DELETED: B4 a p t m d r s o b o t d rep P a p w a o v i e f f t i M a s o r o t a a t i l t m  s a r a r t d r s p h t p t.( a a t b n t d r W t b d a t d o t c n a t c o a e t t t w h o a r a 1.( W a a f d r s r i e]
+[DELETED: B4 L f e d t t c r w a c b m o a dns T t s t t c p t t n r r r o o a t t o t c.( r s p A n c a w f d a t c s a r f t o r t t d r s p i w o i p b t o b o m t d r s p m f s p r t r m t 9 d a l t t y r s p n n r t a r f a c]
+[DELETED: B4 m u O 6 t d r s p s m t E a b o w t c e t a o T n o e o t d r s p e o f 1.S 1 t 1 o t 2 A a t a t O 6 6 6 6 6 6 6 6 6 a 6 b.( 6 6 6 6 6 6 6 6 a 6 b i n t e t d o a a t o d s i s 6 a 6.T]

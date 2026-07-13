@@ -1,0 +1,356 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4033
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Emergency Management and Veterans for Representative Thuy Tran)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act puts ODEM in charge of the volunteer database known as ORVID. The Act tells
+ODEM to adapt the database in specified ways. (Flesch Readability Score: 67.7).
+Transfers responsibility for the volunteer database known as ORVID from the Higher Education
+Coordinating Commission to the Oregon Department of Emergency Management. Directs the de-
+partment to adapt and maintain the database.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to emergency volunteers; and declaring an emergency.
+3 Be It Enacted by the People of the State of Oregon:
+4
+5 TRANSFER
+6
+7 SECTION 1. (1) The duties, functions and powers of the Higher Education Coordinating
+8 Commission relating to the volunteer database known as ORVID are imposed upon, trans-
+9 ferred to and vested in the Oregon Department of Emergency Management.
+10 (2) The department shall adapt and maintain the database in a manner consistent with
+11 section 9 of this 2026 Act.
+12
+13 RECORDS, PROPERTY, EMPLOYEES
+14
+15 SECTION 2. (1) The executive director of the Higher Education Coordinating Commission
+16 shall:
+17 (a) Deliver to the Oregon Department of Emergency Management all records and prop-
+18 erty within the jurisdiction of the commission that relate to the duties, functions and powers
+19 transferred by section 1 of this 2026 Act; and
+20 (b) Transfer to the department those employees engaged primarily in the exercise of the
+21 duties, functions and powers transferred by section 1 of this 2026 Act.
+22 (2) The Director of the Oregon Department of Emergency Management shall take pos-
+23 session of the records and property, and shall take charge of the employees and employ them
+24 in the exercise of the duties, functions and powers transferred by section 1 of this 2026 Act,
+25 without reduction of compensation but subject to change or termination of employment or
+26 compensation as provided by law.
+27 (3) The Governor shall resolve any dispute between the commission and the department
+28 relating to transfers of records, property and employees under this section, and the
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 129
+HB 4033
+1 Governor’s decision is final.
+2
+3 UNEXPENDED REVENUES
+4
+5 SECTION 3. (1) The unexpended balances of amounts authorized to be expended by the
+6 Higher Education Coordinating Commission for the biennium ending June 30, 2027, from re-
+7 venues dedicated, continuously appropriated, appropriated or otherwise made available for
+8 the purpose of administering and enforcing the duties, functions and powers transferred by
+9 section 1 of this 2026 Act are transferred to and are available for expenditure by the Oregon
+10 Department of Emergency Management for the biennium ending June 30, 2027, for the pur-
+11 pose of administering and enforcing the duties, functions and powers transferred by section
+12 1 of this 2026 Act.
+13 (2) The expenditure classifications, if any, established by Acts authorizing or limiting
+14 expenditures by the commission remain applicable to expenditures by the department under
+15 this section.
+16
+17 ACTION, PROCEEDING, PROSECUTION
+18
+19 SECTION 4. The transfer of duties, functions and powers to the Oregon Department of
+20 Emergency Management by section 1 of this 2026 Act does not affect any action, proceeding
+21 or prosecution involving or with respect to the duties, functions and powers begun before
+22 and pending at the time of the transfer, except that the department is substituted for the
+23 Higher Education Coordinating Commission in the action, proceeding or prosecution.
+24
+25 LIABILITY, DUTY, OBLIGATION
+26
+27 SECTION 5. (1) Nothing in sections 1 to 4 of this 2026 Act relieves a person of a liability,
+28 duty or obligation accruing under or with respect to the duties, functions and powers
+29 transferred by section 1 of this 2026 Act. The Oregon Department of Emergency Management
+30 may undertake the collection or enforcement of any such liability, duty or obligation.
+31 (2) The rights and obligations of the Higher Education Coordinating Commission legally
+32 incurred under contracts, leases and business transactions executed, entered into or begun
+33 before the operative date of section 1 of this 2026 Act accruing under or with respect to the
+34 duties, functions and powers transferred by section 1 of this 2026 Act are transferred to the
+35 department. For the purpose of succession to these rights and obligations, the department
+36 is a continuation of the commission and not a new authority.
+37
+38 RULES
+39
+40 SECTION 6. Notwithstanding the transfer of duties, functions and powers by section 1
+41 of this 2026 Act, the rules of the Higher Education Coordinating Commission with respect to
+42 such duties, functions or powers that are in effect on the operative date of section 1 of this
+43 2026 Act continue in effect until superseded or repealed by rules of the Oregon Department
+44 of Emergency Management. References in the rules of the commission to the commission
+45 or an officer or employee of the commission are considered to be references to the depart-
+[2]
+HB 4033
+1 ment or an officer or employee of the department.
+2 SECTION 7. Whenever, in any uncodified law or resolution of the Legislative Assembly
+3 or in any rule, document, record or proceeding authorized by the Legislative Assembly, in
+4 the context of the duties, functions and powers transferred by section 1 of this 2026 Act,
+5 reference is made to the Higher Education Coordinating Commission, or an officer or em-
+6 ployee of the commission whose duties, functions or powers are transferred by section 1 of
+7 this 2026 Act, the reference is considered to be a reference to the Oregon Department of
+8 Emergency Management, or an officer or employee of the department who by this 2026 Act
+9 is charged with carrying out the duties, functions and powers.
+10
+11 OPERATIVE DATE
+12
+13 SECTION 8. (1) The Director of the Oregon Department of Emergency Management shall
+14 notify the standing or interim committees of the Legislative Assembly and the Legislative
+15 Counsel when the transfer described in section 1 of this 2026 Act is complete.
+16 (2) Sections 1 to 7 of this 2026 Act become operative on the day after the date the no-
+17 tifications described in subsection (1) of this section are complete.
+18
+19 DUTIES OF OREGON DEPARTMENT OF EMERGENCY MANAGEMENT
+20
+21 SECTION 9. (1) The Oregon Department of Emergency Management shall maintain a
+22 statewide registry of persons who are willing and able to volunteer to perform emergency
+23 service activities, as defined in ORS 401.358. The registry may include:
+24 (a) Qualified emergency service volunteers, as defined in ORS 401.358;
+25 (b) Persons registered as volunteers with a local government, as defined in ORS 174.116,
+26 or a tribal entity, including members of community emergency response teams and neigh-
+27 borhood emergency teams;
+28 (c) Persons experienced in construction or other skilled trades;
+29 (d) Persons certified by the State Fire Marshal as building evaluators under the Oregon
+30 Safety Assessment Program established under ORS 401.256; and
+31 (e) Other persons that the department determines are able to assist in emergency re-
+32 sponse and recovery.
+33 (2) As a condition of inclusion on the registry, the department may require:
+34 (a) Evidence of relevant qualifications; and
+35 (b) Training related to emergency response and recovery, including incident management
+36 or command.
+37 (3) The registry must include, for each person:
+38 (a) The person’s name and contact information;
+39 (b) The physical location where the person is based; and
+40 (c) Specialized training or skills related to emergency response and recovery that the
+41 person has.
+42 (4) The registry must be accessible to emergency management agencies and emergency
+43 program managers described in ORS 401.305. The department may make the registry ac-
+44 cessible to any other persons or entities if the department determines that providing such
+45 access will enhance public safety.
+[3]
+HB 4033
+1 (5) The department shall establish procedures for collaborating with appropriate entities,
+2 including the Higher Education Coordinating Commission, the Department of Human Ser-
+3 vices, the Oregon Health Authority and local governments, for the purposes of:
+4 (a) Gathering information for the registry, integrating data from existing databases into
+5 the registry and regularly updating the information; and
+6 (b) Recruiting, training, mobilizing and deploying volunteers for emergency management
+7 purposes.
+8 (6) The Oregon Department of Emergency Management is authorized to issue badges to
+9 volunteers listed in the registry that describe a volunteer’s skills, training, licenses, certif-
+10 ications or other information relevant to the performance of emergency service activities.
+11
+12 CAPTIONS
+13
+14 SECTION 10. The unit captions used in this 2026 Act are provided only for the conven-
+15 ience of the reader and do not become part of the statutory law of this state or express any
+16 legislative intent in the enactment of this 2026 Act.
+17
+18 EFFECTIVE DATE
+19
+20 SECTION 11. This 2026 Act being necessary for the immediate preservation of the public
+21 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+22 on its passage.
+23
+[4]
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T C t t O D o E M D t d.( r t t v d k a.( O D o E M s t p t t o r p a e u t s a t:M[]]
+[DELETED: B4 3.( d c a a o o m a f T e c i a e b A a o l.T p i o w r t t d f a p b b i s f t.( o o a u o w r t t d f a p F t.N t t o d f a p b s  E M R i t r o t c t t c]
+[DELETED: B4.W r o p a b t L A i c o t d f a p t b s 1 o t 2 A t H E C C o a o o e 2 A t r i c t b a r t t O D o.( t s o i c o t L A a t t n 9.( T O D o E M s m  r o p w a w a a t v t p e i m o c e r t a n O p t t d d a a t a i e r S t o s r t e r a r t tnh m d i O 4.T d m m t r a t p s]
+[DELETED: B4 t H E C C t D o H S.T.T a t 2 A t e]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4033
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Emergency Management and Veterans for Representative Thuy Tran)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act puts ODEM in charge of the volunteer database known as ORVID. The Act tells
+ODEM to adapt the database in specified ways. (Flesch Readability Score: 67.7).
+Transfers responsibility for the volunteer database known as ORVID from the Higher Education
+Coordinating Commission to the Oregon Department of Emergency Management. Directs the de-
+partment to adapt and maintain the database.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to emergency volunteers; and declaring an emergency.
+3 Be It Enacted by the People of the State of Oregon:
+4
+5 TRANSFER
+6
+7 SECTION 1. (1) The duties, functions and powers of the Higher Education Coordinating
+8 Commission relating to the volunteer database known as ORVID are imposed upon, trans-
+9 ferred to and vested in the Oregon Department of Emergency Management.
+10 (2) The department shall adapt and maintain the database in a manner consistent with
+11 section 9 of this 2026 Act.
+12
+13 RECORDS, PROPERTY, EMPLOYEES
+14
+15 SECTION 2. (1) The executive director of the Higher Education Coordinating Commission
+16 shall:
+17 (a) Deliver to the Oregon Department of Emergency Management all records and prop-
+18 erty within the jurisdiction of the commission that relate to the duties, functions and powers
+19 transferred by section 1 of this 2026 Act; and
+20 (b) Transfer to the department those employees engaged primarily in the exercise of the
+21 duties, functions and powers transferred by section 1 of this 2026 Act.
+22 (2) The Director of the Oregon Department of Emergency Management shall take pos-
+23 session of the records and property, and shall take charge of the employees and employ them
+24 in the exercise of the duties, functions and powers transferred by section 1 of this 2026 Act,
+25 without reduction of compensation but subject to change or termination of employment or
+26 compensation as provided by law.
+27 (3) The Governor shall resolve any dispute between the commission and the department
+28 relating to transfers of records, property and employees under this section, and the
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 129
+
+HB 4033
+1 Governor’s decision is final.
+2
+3 UNEXPENDED REVENUES
+4
+5 SECTION 3. (1) The unexpended balances of amounts authorized to be expended by the
+6 Higher Education Coordinating Commission for the biennium ending June 30, 2027, from re-
+7 venues dedicated, continuously appropriated, appropriated or otherwise made available for
+8 the purpose of administering and enforcing the duties, functions and powers transferred by
+9 section 1 of this 2026 Act are transferred to and are available for expenditure by the Oregon
+10 Department of Emergency Management for the biennium ending June 30, 2027, for the pur-
+11 pose of administering and enforcing the duties, functions and powers transferred by section
+12 1 of this 2026 Act.
+13 (2) The expenditure classifications, if any, established by Acts authorizing or limiting
+14 expenditures by the commission remain applicable to expenditures by the department under
+15 this section.
+16
+17 ACTION, PROCEEDING, PROSECUTION
+18
+19 SECTION 4. The transfer of duties, functions and powers to the Oregon Department of
+20 Emergency Management by section 1 of this 2026 Act does not affect any action, proceeding
+21 or prosecution involving or with respect to the duties, functions and powers begun before
+22 and pending at the time of the transfer, except that the department is substituted for the
+23 Higher Education Coordinating Commission in the action, proceeding or prosecution.
+24
+25 LIABILITY, DUTY, OBLIGATION
+26
+27 SECTION 5. (1) Nothing in sections 1 to 4 of this 2026 Act relieves a person of a liability,
+28 duty or obligation accruing under or with respect to the duties, functions and powers
+29 transferred by section 1 of this 2026 Act. The Oregon Department of Emergency Management
+30 may undertake the collection or enforcement of any such liability, duty or obligation.
+31 (2) The rights and obligations of the Higher Education Coordinating Commission legally
+32 incurred under contracts, leases and business transactions executed, entered into or begun
+33 before the operative date of section 1 of this 2026 Act accruing under or with respect to the
+34 duties, functions and powers transferred by section 1 of this 2026 Act are transferred to the
+35 department. For the purpose of succession to these rights and obligations, the department
+36 is a continuation of the commission and not a new authority.
+37
+38 RULES
+39
+40 SECTION 6. Notwithstanding the transfer of duties, functions and powers by section 1
+41 of this 2026 Act, the rules of the Higher Education Coordinating Commission with respect to
+42 such duties, functions or powers that are in effect on the operative date of section 1 of this
+43 2026 Act continue in effect until superseded or repealed by rules of the Oregon Department
+44 of Emergency Management. References in the rules of the commission to the commission
+45 or an officer or employee of the commission are considered to be references to the depart-
+[2]
+
+HB 4033
+1 ment or an officer or employee of the department.
+2 SECTION 7. Whenever, in any uncodified law or resolution of the Legislative Assembly
+3 or in any rule, document, record or proceeding authorized by the Legislative Assembly, in
+4 the context of the duties, functions and powers transferred by section 1 of this 2026 Act,
+5 reference is made to the Higher Education Coordinating Commission, or an officer or em-
+6 ployee of the commission whose duties, functions or powers are transferred by section 1 of
+7 this 2026 Act, the reference is considered to be a reference to the Oregon Department of
+8 Emergency Management, or an officer or employee of the department who by this 2026 Act
+9 is charged with carrying out the duties, functions and powers.
+10
+11 OPERATIVE DATE
+12
+13 SECTION 8. (1) The Director of the Oregon Department of Emergency Management shall
+14 notify the standing or interim committees of the Legislative Assembly and the Legislative
+15 Counsel when the transfer described in section 1 of this 2026 Act is complete.
+16 (2) Sections 1 to 7 of this 2026 Act become operative on the day after the date the no-
+17 tifications described in subsection (1) of this section are complete.
+18
+19 DUTIES OF OREGON DEPARTMENT OF EMERGENCY MANAGEMENT
+20
+21 SECTION 9. (1) The Oregon Department of Emergency Management shall maintain a
+22 statewide registry of persons who are willing and able to volunteer to perform emergency
+23 service activities, as defined in ORS 401.358. The registry may include:
+24 (a) Qualified emergency service volunteers, as defined in ORS 401.358;
+25 (b) Persons registered as volunteers with a local government, as defined in ORS 174.116,
+26 or a tribal entity, including members of community emergency response teams and neigh-
+27 borhood emergency teams;
+28 (c) Persons experienced in construction or other skilled trades;
+29 (d) Persons certified by the State Fire Marshal as building evaluators under the Oregon
+30 Safety Assessment Program established under ORS 401.256; and
+31 (e) Other persons that the department determines are able to assist in emergency re-
+32 sponse and recovery.
+33 (2) As a condition of inclusion on the registry, the department may require:
+34 (a) Evidence of relevant qualifications; and
+35 (b) Training related to emergency response and recovery, including incident management
+36 or command.
+37 (3) The registry must include, for each person:
+38 (a) The person’s name and contact information;
+39 (b) The physical location where the person is based; and
+40 (c) Specialized training or skills related to emergency response and recovery that the
+41 person has.
+42 (4) The registry must be accessible to emergency management agencies and emergency
+43 program managers described in ORS 401.305. The department may make the registry ac-
+44 cessible to any other persons or entities if the department determines that providing such
+45 access will enhance public safety.
+[3]
+
+HB 4033
+1 (5) The department shall establish procedures for collaborating with appropriate entities,
+2 including the Higher Education Coordinating Commission, the Department of Human Ser-
+3 vices, the Oregon Health Authority and local governments, for the purposes of:
+4 (a) Gathering information for the registry, integrating data from existing databases into
+5 the registry and regularly updating the information; and
+6 (b) Recruiting, training, mobilizing and deploying volunteers for emergency management
+7 purposes.
+8 (6) The Oregon Department of Emergency Management is authorized to issue badges to
+9 volunteers listed in the registry that describe a volunteer’s skills, training, licenses, certif-
+10 ications or other information relevant to the performance of emergency service activities.
+11
+12 CAPTIONS
+13
+14 SECTION 10. The unit captions used in this 2026 Act are provided only for the conven-
+15 ience of the reader and do not become part of the statutory law of this state or express any
+16 legislative intent in the enactment of this 2026 Act.
+17
+18 EFFECTIVE DATE
+19
+20 SECTION 11. This 2026 Act being necessary for the immediate preservation of the public
+21 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+22 on its passage.
+23
+[4]
+
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T C t t O D o E M D t d.( r t t v d k a.( O D o E M s t p t t o r p a e u t s a t:M[]]
+[DELETED: B4 3.( d c a a o o m a f T e c i a e b A a o l.T p i o w r t t d f a p b b i s f t.( o o a u o w r t t d f a p F t.N t t o d f a p b s  E M R i t r o t c t t c]
+[DELETED: B4.W r o p a b t L A i c o t d f a p t b s 1 o t 2 A t H E C C o a o o e 2 A t r i c t b a r t t O D o.( t s o i c o t L A a t t n 9.( T O D o E M s m  r o p w a w a a t v t p e i m o c e r t a n O p t t d d a a t a i e r S t o s r t e r a r t tnh m d i O 4.T d m m t r a t p s]
+[DELETED: B4 t H E C C t D o H S.T.T a t 2 A t e]

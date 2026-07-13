@@ -1,0 +1,1940 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4063
+Sponsored by Representative OSBORNE, Senator BROADMAN, Representatives SKARLATOS, PHAM H; Repre-
+sentatives BOICE, BREESE-IVERSON, BUNCH, CATE, DIEHL, EDWARDS, EVANS, HELFRICH, LEVY B,
+LEWIS, MANNIX, MCINTIRE, NELSON, NOSSE, OWENS, RIEKE SMITH, SCHARF, WRIGHT, YUNKER,
+Senators FREDERICK, PROZANSKI, SMITH DB (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes laws about Kei trucks. (Flesch Readability Score: 100.0).
+Allows a person to title and register a Kei truck in Oregon. Amends and creates laws related
+to allowing Kei trucks to operate on highways in Oregon.
+Creates the offense of unlawfully operating a Kei truck on a highway. Punishes by a maximum
+fine of $1,000.
+1 A BILL FOR AN ACT
+2 Relating to Kei trucks; creating new provisions; and amending ORS 468A.350, 646.913, 803.045,
+3 803.210, 803.420, 815.075, 815.105, 815.109 and 815.300.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. Section 2 of this 2026 Act is added to and made a part of the Oregon Vehicle
+6 Code.
+7 SECTION 2. “Kei truck” means a motor vehicle that:
+8 (1) Was originally manufactured in Japan or South Korea;
+9 (2) Has an engine that has a piston or rotor displacement of 660 cubic centimeters;
+10 (3) Is 11 feet or less in length;
+11 (4) Is 4.9 feet or less in width;
+12 (5) Is 6.6 feet or less in height; and
+13 (6) Has a model year that predates the current year by 25 years or more.
+14 SECTION 3. ORS 803.045 is amended to read:
+15 803.045. (1) The Department of Transportation shall issue title for a vehicle if the applicant and
+16 the vehicle meet the following qualifications:
+17 (a) The applicant must satisfy the department that the applicant is the owner of the vehicle and
+18 is otherwise entitled to have title issued in the applicant’s name.
+19 (b) Except as otherwise provided in ORS 803.050 (2), the applicant must submit a completed and
+20 signed application for title described in ORS 803.050.
+21 (c) The applicant must pay the fee for issuance of a certificate of title under ORS 803.090 or the
+22 fee for issuance of title in another form, as established by the department by rule in accordance with
+23 ORS 803.012.
+24 (d) If the vehicle is a reconstructed vehicle or an assembled vehicle, the applicant must provide
+25 the following information in addition to any other information required under this section:
+26 (A) The certificate of title last issued for the frame of the vehicle, a salvage title certificate is-
+27 sued for the vehicle or other evidence of ownership satisfactory to the department.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 19
+HB 4063
+1 (B) Bills of sale for major components used to build the vehicle.
+2 (e) If the vehicle is covered by an Oregon title or salvage title certificate, the applicant shall
+3 surrender the Oregon title or salvage title certificate, submit an application as provided under ORS
+4 803.065 or submit other evidence of ownership satisfactory to the department.
+5 (f) Unless the department adopts rules to the contrary, if the vehicle is from another jurisdic-
+6 tion, the applicant shall surrender to the department with the application the certificate of title is-
+7 sued by the other jurisdiction, if such jurisdiction requires certificates of title. If such jurisdiction
+8 does not require certificates of title, then the applicant shall surrender the registration cards.
+9 (g) If required by the department, the applicant must submit proof of ownership as described
+10 under ORS 803.205.
+11 (h) Other than a racing activity vehicle [as defined in ORS 801.404] or Kei truck, if the de-
+12 partment has reason to believe a vehicle was not certified by the original manufacturer as con-
+13 forming to federal vehicle standards, the department may require the applicant to provide proof
+14 satisfactory to the department that the vehicle conforms to federal vehicle standards.
+15 (i) Unless the vehicle is exempted from odometer disclosure requirements, the applicant shall
+16 submit an appropriate odometer disclosure form. The department shall determine what constitutes
+17 an appropriate form in any particular situation. The department may make exceptions by rule to the
+18 requirement for submission of an odometer disclosure form.
+19 (2) The department may not issue title for a vehicle:
+20 (a) Required by ORS 803.210 to be inspected unless the vehicle has been inspected as described
+21 in ORS 803.212 and the inspection fee paid under ORS 803.215.
+22 (b) If the current vehicle title, certificate, ownership document or the vehicle record available
+23 through electronic record inquiry:
+24 (A) Has a junk status;
+25 (B) Is a junk title, junk certificate or similar ownership document issued by another jurisdiction;
+26 or
+27 (C) Has a junk or similar brand or notation.
+28 (c) As prescribed in ORS 803.591.
+29 (3) The department may adopt any rules it considers necessary for the administration of sub-
+30 section (2)(a) and (b) of this section.
+31 SECTION 4. ORS 803.210 is amended to read:
+32 803.210. (1) The Department of Transportation shall not issue title for a vehicle described in
+33 subsection (2) of this section unless:
+34 (a) An inspection of the vehicle identification number or numbers of the vehicle is performed in
+35 accordance with ORS 803.212; and
+36 (b) The fee established under ORS 803.215 is paid to the department for the inspection.
+37 (2) Except as provided in subsection (3) of this section, the requirements of this section apply
+38 to all of the following:
+39 (a) A vehicle from another jurisdiction.
+40 (b) Any assembled or reconstructed vehicle.
+41 (c) Any vehicle if the certificate of title has been or is required to be submitted to the depart-
+42 ment, or a person is required to report to the department, under ORS 819.010, 819.012, 819.014 or
+43 819.030.
+44 (d) Any vehicle if the department has received notice that the vehicle has been or will be
+45 wrecked, dismantled or disassembled under ORS 819.010 or 822.135.
+[2]
+HB 4063
+1 (e) Replicas.
+2 (f) Other than a racing activity vehicle [as defined in ORS 801.404] or Kei truck, any vehicle
+3 the department has reason to believe was not certified by the original manufacturer as conforming
+4 to federal vehicle standards.
+5 (3) The requirements of this section do not apply to the following vehicles if the person shown
+6 as the owner on an out-of-state title for the vehicle applies for an Oregon title in that person’s name:
+7 (a) A rental truck, rental truck tractor or rental trailer that is registered in Oregon under an
+8 interstate agreement that provides that a portion of the owner’s fleet is to be registered in each
+9 state in which the fleet operates.
+10 (b) A trailer or semitrailer that has permanent registration.
+11 (4) The requirement to inspect a vehicle identification number or numbers of the vehicle under
+12 subsection (1) of this section does not apply to park model recreational vehicles, as defined in ORS
+13 803.036, or former park model recreational vehicles.
+14 SECTION 5. ORS 803.420, as amended by section 18 (6)(e), chapter 1, Oregon Laws 2025 (special
+15 session), is amended to read:
+16 803.420. (1) The vehicle registration fees imposed under this section shall be based on the clas-
+17 sifications determined by the Department of Transportation by rule. The department may classify a
+18 vehicle to ensure that registration fees for the vehicle are the same as for other vehicles the de-
+19 partment determines to be comparable.
+20 (2) Except as otherwise provided in this section, or unless the vehicle is registered quarterly,
+21 the fees described in this section are for an entire registration period for the vehicle as described
+22 under ORS 803.415. For a vehicle registered for a quarterly registration period under ORS 803.415,
+23 the department shall apportion any fee under this section to reflect the number of quarters regis-
+24 tered.
+25 (3) Vehicle registration fees are due when a vehicle is registered and when the registered owner
+26 renews the registration.
+27 (4) In addition to the registration fees listed in this section, a county or a district may impose
+28 an additional registration fee as provided under ORS 801.041 and 801.042.
+29 (5) A rental or leasing company, as defined in ORS 221.275, that elects to initially register a
+30 vehicle for an annual or biennial registration period shall pay a fee of $2 in addition to the vehicle
+31 registration fee provided under this section.
+32 (6) The registration fees for each year of the registration period for vehicles subject to biennial
+33 registration are as follows:
+34 (a) Passenger vehicles not otherwise provided for in this section or ORS 821.320, $43.
+35 (b) Utility trailers or light trailers, as those terms are defined by rule by the department, $63.
+36 (c) Mopeds and motorcycles, $44.
+37 (d) Low-speed vehicles, $63.
+38 (e) Medium-speed electric vehicles, $105.
+39 (f) Kei trucks, $63.
+40 (7) The registration fees for vehicles that are subject to biennial registration and that are listed
+41 in this subsection are as follows:
+42 (a) State-owned vehicles registered under ORS 805.045 and undercover vehicles registered under
+43 ORS 805.060, $10 upon registration or renewal.
+44 (b) Fixed load vehicles:
+45 (A) If a declaration of weight described under ORS 803.435 is submitted establishing the weight
+[3]
+HB 4063
+1 of the vehicle at 3,000 pounds or less, $61.
+2 (B) If no declaration of weight is submitted or if the weight of the vehicles is in excess of 3,000
+3 pounds, $82.
+4 (c) Travel trailers, special use trailers, campers and motor homes, based on length as determined
+5 under ORS 803.425:
+6 (A) Trailers or campers that are 6 to 10 feet in length, $81.
+7 (B) Trailers or campers over 10 feet in length, $81 plus $7 a foot for each foot of length over
+8 the first 10 feet.
+9 (C) Motor homes that are 6 to 14 feet in length, $86.
+10 (D) Motor homes over 14 feet in length, $126 plus $8 a foot for each foot of length over the first
+11 10 feet.
+12 (8) The registration fee for trailers for hire that are equipped with pneumatic tires made of an
+13 elastic material and that are not travel trailers or trailers registered under permanent registration
+14 is $30.
+15 (9) The registration fees for vehicles subject to ownership registration are as follows:
+16 (a) Government-owned vehicles registered under ORS 805.040, $5.
+17 (b) Vehicles registered with special registration for disabled veterans under ORS 805.100 or for
+18 former prisoners of war under ORS 805.110, $15.
+19 (c) School vehicles registered under ORS 805.050, $5.
+20 (10) The registration fees for vehicles subject to permanent registration are as follows:
+21 (a) Antique vehicles registered under ORS 805.010, $100.
+22 (b) Vehicles of special interest registered under ORS 805.020, $100.
+23 (c) Racing activity vehicles registered under ORS 805.035, $100.
+24 (d) Trailers, $10.
+25 (e) State-owned vehicles registered under ORS 805.045 and undercover vehicles registered under
+26 ORS 805.060, $10.
+27 (11) The registration fee for trailers registered as part of a fleet under an agreement reached
+28 pursuant to ORS 802.500 is the same fee as the fee for vehicles of the same type registered under
+29 other provisions of the Oregon Vehicle Code.
+30 (12) The registration fee for vehicles with proportional registration under ORS 826.009, or pro-
+31 portional fleet registration under ORS 826.011, is the same fee as the fee for vehicles of the same
+32 type under this section except that the fees shall be fixed on an apportioned basis as provided under
+33 the agreement established under ORS 826.007.
+34 (13) In addition to any other registration fees charged for registration of vehicles in fleets under
+35 ORS 805.120, the department may charge the following fees:
+36 (a) Service charge for each vehicle entered into a fleet, $3.
+37 (b) Service charge for each vehicle in the fleet at the time of renewal, $2.
+38 (14)(a) The registration fee for motor vehicles required to establish a registration weight under
+39 ORS 803.430 or 826.013, tow vehicles used to transport property for hire other than as described in
+40 ORS 822.210 and commercial buses is as provided in the following chart, based upon the weight
+41 submitted in the declaration of weight prepared under ORS 803.435 or 826.015:
+42 _______________________________________________________________________________________
+43
+44 Weight in Pounds Fee
+45 8,000 or less $ 74
+[4]
+HB 4063
+1 8,001 to 10,000 464
+2 10,001 to 12,000 528
+3 12,001 to 14,000 591
+4 14,001 to 16,000 655
+5 16,001 to 18,000 718
+6 18,001 to 20,000 801
+7 20,001 to 22,000 864
+8 22,001 to 24,000 949
+9 24,001 to 26,000 1,031
+10 26,001 to 28,000 375
+11 28,001 to 30,000 391
+12 30,001 to 32,000 422
+13 32,001 to 34,000 438
+14 34,001 to 36,000 468
+15 36,001 to 38,000 485
+16 38,001 to 40,000 515
+17 40,001 to 42,000 532
+18 42,001 to 44,000 562
+19 44,001 to 46,000 578
+20 46,001 to 48,000 593
+21 48,001 to 50,000 625
+22 50,001 to 52,000 656
+23 52,001 to 54,000 672
+24 54,001 to 56,000 686
+25 56,001 to 58,000 717
+26 58,001 to 60,000 750
+27 60,001 to 62,000 780
+28 62,001 to 64,000 811
+29 64,001 to 66,000 827
+30 66,001 to 68,000 857
+31 68,001 to 70,000 874
+32 70,001 to 72,000 904
+33 72,001 to 74,000 921
+34 74,001 to 76,000 951
+35 76,001 to 78,000 967
+36 78,001 to 80,000 998
+37 80,001 to 82,000 1,014
+38 82,001 to 84,000 1,045
+39 84,001 to 86,000 1,061
+40 86,001 to 88,000 1,092
+41 88,001 to 90,000 1,108
+42 90,001 to 92,000 1,139
+43 92,001 to 94,000 1,155
+44 94,001 to 96,000 1,185
+45 96,001 to 98,000 1,202
+[5]
+HB 4063
+1 98,001 to 100,000 1,218
+2 100,001 to 102,000 1,249
+3 102,001 to 104,000 1,265
+4 104,001 to 105,500 1,295
+5 _______________________________________________________________________________________
+6
+7 (b)(A) The registration fee for motor vehicles with a registration weight of more than 8,000
+8 pounds that are described in ORS 825.015, that are operated by a charitable organization as defined
+9 in ORS 825.017 (13), is as provided in the following chart:
+10 _______________________________________________________________________________________
+11
+12 Weight in Pounds Fee
+13 8,001 to 10,000 $ 71
+14 10,001 to 12,000 85
+15 12,001 to 14,000 92
+16 14,001 to 16,000 107
+17 16,001 to 18,000 114
+18 18,001 to 20,000 128
+19 20,001 to 22,000 135
+20 22,001 to 24,000 149
+21 24,001 to 26,000 156
+22 26,001 to 28,000 170
+23 28,001 to 30,000 178
+24 30,001 to 32,000 192
+25 32,001 to 34,000 199
+26 34,001 to 36,000 213
+27 36,001 to 38,000 220
+28 38,001 to 40,000 234
+29 40,001 to 42,000 241
+30 42,001 to 44,000 256
+31 44,001 to 46,000 263
+32 46,001 to 48,000 270
+33 48,001 to 50,000 284
+34 50,001 to 52,000 298
+35 52,001 to 54,000 305
+36 54,001 to 56,000 312
+37 56,001 to 58,000 327
+38 58,001 to 60,000 341
+39 60,001 to 62,000 355
+40 62,001 to 64,000 369
+41 64,001 to 66,000 376
+42 66,001 to 68,000 391
+43 68,001 to 70,000 398
+44 70,001 to 72,000 412
+45 72,001 to 74,000 419
+[6]
+HB 4063
+1 74,001 to 76,000 433
+2 76,001 to 78,000 440
+3 78,001 to 80,000 454
+4 80,001 to 82,000 462
+5 82,001 to 84,000 476
+6 84,001 to 86,000 483
+7 86,001 to 88,000 497
+8 88,001 to 90,000 504
+9 90,001 to 92,000 518
+10 92,001 to 94,000 525
+11 94,001 to 96,000 540
+12 96,001 to 98,000 547
+13 98,001 to 100,000 554
+14 100,001 to 102,000 568
+15 102,001 to 104,000 575
+16 104,001 to 105,500 589
+17 _______________________________________________________________________________________
+18
+19 (B) The registration fee for motor vehicles that are certified under ORS 822.205, unless the mo-
+20 tor vehicles are registered under paragraph (a) of this subsection, or that are used exclusively to
+21 transport manufactured structures, is as provided in the following chart:
+22 _______________________________________________________________________________________
+23
+24 Weight in Pounds Fee
+25 8,000 or less $ 63
+26 8,001 to 10,000 145
+27 10,001 to 12,000 173
+28 12,001 to 14,000 187
+29 14,001 to 16,000 217
+30 16,001 to 18,000 231
+31 18,001 to 20,000 260
+32 20,001 to 22,000 274
+33 22,001 to 24,000 304
+34 24,001 to 26,000 318
+35 26,001 to 28,000 346
+36 28,001 to 30,000 362
+37 30,001 to 32,000 391
+38 32,001 to 34,000 405
+39 34,001 to 36,000 435
+40 36,001 to 38,000 449
+41 38,001 to 40,000 477
+42 40,001 to 42,000 491
+43 42,001 to 44,000 521
+44 44,001 to 46,000 535
+45 46,001 to 48,000 550
+[7]
+HB 4063
+1 48,001 to 50,000 578
+2 50,001 to 52,000 608
+3 52,001 to 54,000 622
+4 54,001 to 56,000 636
+5 56,001 to 58,000 665
+6 58,001 to 60,000 694
+7 60,001 to 62,000 723
+8 62,001 to 64,000 753
+9 64,001 to 66,000 767
+10 66,001 to 68,000 795
+11 68,001 to 70,000 809
+12 70,001 to 72,000 839
+13 72,001 to 74,000 853
+14 74,001 to 76,000 882
+15 76,001 to 78,000 896
+16 78,001 to 80,000 926
+17 80,001 to 82,000 940
+18 82,001 to 84,000 968
+19 84,001 to 86,000 983
+20 86,001 to 88,000 1,012
+21 88,001 to 90,000 1,027
+22 90,001 to 92,000 1,055
+23 92,001 to 94,000 1,071
+24 94,001 to 96,000 1,099
+25 96,001 to 98,000 1,113
+26 98,001 to 100,000 1,127
+27 100,001 to 102,000 1,157
+28 102,001 to 104,000 1,172
+29 104,001 to 105,500 1,200
+30 _______________________________________________________________________________________
+31
+32 (C) The owner of a vehicle described in subparagraph (A) or (B) of this paragraph must certify
+33 at the time of initial registration, in a manner determined by the department by rule, that the motor
+34 vehicle will be used exclusively to transport manufactured structures or exclusively as described in
+35 ORS 822.210, unless the motor vehicle is registered under paragraph (a) of this subsection, or as
+36 described in ORS 825.015 or 825.017 (13). Registration of a vehicle described in subparagraph (A) or
+37 (B) of this paragraph is invalid if the vehicle is operated in any manner other than that described
+38 in the certification under this subparagraph.
+39 (c) Subject to paragraph (d) of this subsection, the registration fee for motor vehicles registered
+40 as farm vehicles under ORS 805.300 is as provided in the following chart, based upon the registra-
+41 tion weight given in the declaration of weight submitted under ORS 803.435:
+42 _______________________________________________________________________________________
+43
+44 Weight in Pounds Fee
+45 8,000 or less $ 50
+[8]
+HB 4063
+1 8,001 to 10,000 65
+2 10,001 to 12,000 75
+3 12,001 to 14,000 97
+4 14,001 to 16,000 108
+5 16,001 to 18,000 129
+6 18,001 to 20,000 141
+7 20,001 to 22,000 162
+8 22,001 to 24,000 172
+9 24,001 to 26,000 195
+10 26,001 to 28,000 204
+11 28,001 to 30,000 226
+12 30,001 to 32,000 237
+13 32,001 to 34,000 258
+14 34,001 to 36,000 270
+15 36,001 to 38,000 291
+16 38,001 to 40,000 302
+17 40,001 to 42,000 324
+18 42,001 to 44,000 334
+19 44,001 to 46,000 356
+20 46,001 to 48,000 366
+21 48,001 to 50,000 388
+22 50,001 to 52,000 399
+23 52,001 to 54,000 409
+24 54,001 to 56,000 432
+25 56,001 to 58,000 453
+26 58,001 to 60,000 463
+27 60,001 to 62,000 474
+28 62,001 to 64,000 496
+29 64,001 to 66,000 517
+30 66,001 to 68,000 528
+31 68,001 to 70,000 540
+32 70,001 to 72,000 561
+33 72,001 to 74,000 571
+34 74,001 to 76,000 594
+35 76,001 to 78,000 604
+36 78,001 to 80,000 625
+37 80,001 to 82,000 636
+38 82,001 to 84,000 657
+39 84,001 to 86,000 669
+40 86,001 to 88,000 690
+41 88,001 to 90,000 700
+42 90,001 to 92,000 723
+43 92,001 to 94,000 733
+44 94,001 to 96,000 754
+45 96,001 to 98,000 765
+[9]
+HB 4063
+1 98,001 to 100,000 787
+2 100,001 to 102,000 798
+3 102,001 to 104,000 819
+4 104,001 to 105,500 831
+5 _______________________________________________________________________________________
+6
+7 (d) For any vehicle that is registered under a quarterly registration period, the registration fee
+8 is a minimum of $15 for each quarter registered plus an additional fee of $2.
+9 (15) The registration and renewal fees for vehicles specified in this subsection that are required
+10 to establish a registration weight under ORS 803.430 or 826.013 are as follows:
+11 (a) State-owned vehicles registered under ORS 805.045, $10.
+12 (b) Undercover vehicles registered under ORS 805.060, $10.
+13 SECTION 6. If Ballot Measure ___ (2026) (referring parts of chapter 1, Oregon Laws 2025
+14 (special session)) is approved by the voters at an election held throughout this state, ORS 803.420,
+15 as amended by section 18 (6)(a) to (e), chapter 1, Oregon Laws 2025 (special session), is amended to
+16 read:
+17 803.420. (1) The vehicle registration fees imposed under this section shall be based on the clas-
+18 sifications determined by the Department of Transportation by rule. The department may classify a
+19 vehicle to ensure that registration fees for the vehicle are the same as for other vehicles the de-
+20 partment determines to be comparable.
+21 (2) Except as otherwise provided in this section, or unless the vehicle is registered quarterly,
+22 the fees described in this section are for an entire registration period for the vehicle as described
+23 under ORS 803.415. For a vehicle registered for a quarterly registration period under ORS 803.415,
+24 the department shall apportion any fee under this section to reflect the number of quarters regis-
+25 tered.
+26 (3) Vehicle registration fees are due when a vehicle is registered and when the registered owner
+27 renews the registration.
+28 (4) In addition to the registration fees listed in this section, a county or a district may impose
+29 an additional registration fee as provided under ORS 801.041 and 801.042.
+30 (5) A rental or leasing company, as defined in ORS 221.275, that elects to initially register a
+31 vehicle for an annual or biennial registration period shall pay a fee of $2 in addition to the vehicle
+32 registration fee provided under this section.
+33 (6) The registration fees for each year of the registration period for vehicles subject to biennial
+34 registration are as follows:
+35 (a) Passenger vehicles not otherwise provided for in this section or ORS 821.320, $85.
+36 (b) Utility trailers or light trailers, as those terms are defined by rule by the department, $105.
+37 (c) Mopeds and motorcycles, $86.
+38 (d) Low-speed vehicles, $105.
+39 (e) Medium-speed electric vehicles, $105.
+40 (f) Kei trucks, $63.
+41 (7) The registration fees for vehicles that are subject to biennial registration and that are listed
+42 in this subsection are as follows:
+43 (a) State-owned vehicles registered under ORS 805.045 and undercover vehicles registered under
+44 ORS 805.060, $10 upon registration or renewal.
+45 (b) Fixed load vehicles:
+[10]
+HB 4063
+1 (A) If a declaration of weight described under ORS 803.435 is submitted establishing the weight
+2 of the vehicle at 3,000 pounds or less, $61.
+3 (B) If no declaration of weight is submitted or if the weight of the vehicles is in excess of 3,000
+4 pounds, $82.
+5 (c) Travel trailers, special use trailers, campers and motor homes, based on length as determined
+6 under ORS 803.425:
+7 (A) Trailers or campers that are 6 to 10 feet in length, $81.
+8 (B) Trailers or campers over 10 feet in length, $81 plus $7 a foot for each foot of length over
+9 the first 10 feet.
+10 (C) Motor homes that are 6 to 14 feet in length, $86.
+11 (D) Motor homes over 14 feet in length, $126 plus $8 a foot for each foot of length over the first
+12 10 feet.
+13 (8) The registration fee for trailers for hire that are equipped with pneumatic tires made of an
+14 elastic material and that are not travel trailers or trailers registered under permanent registration
+15 is $30.
+16 (9) The registration fees for vehicles subject to ownership registration are as follows:
+17 (a) Government-owned vehicles registered under ORS 805.040, $5.
+18 (b) Vehicles registered with special registration for disabled veterans under ORS 805.100 or for
+19 former prisoners of war under ORS 805.110, $15.
+20 (c) School vehicles registered under ORS 805.050, $5.
+21 (10) The registration fees for vehicles subject to permanent registration are as follows:
+22 (a) Antique vehicles registered under ORS 805.010, $100.
+23 (b) Vehicles of special interest registered under ORS 805.020, $100.
+24 (c) Racing activity vehicles registered under ORS 805.035, $100.
+25 (d) Trailers, $10.
+26 (e) State-owned vehicles registered under ORS 805.045 and undercover vehicles registered under
+27 ORS 805.060, $10.
+28 (11) The registration fee for trailers registered as part of a fleet under an agreement reached
+29 pursuant to ORS 802.500 is the same fee as the fee for vehicles of the same type registered under
+30 other provisions of the Oregon Vehicle Code.
+31 (12) The registration fee for vehicles with proportional registration under ORS 826.009, or pro-
+32 portional fleet registration under ORS 826.011, is the same fee as the fee for vehicles of the same
+33 type under this section except that the fees shall be fixed on an apportioned basis as provided under
+34 the agreement established under ORS 826.007.
+35 (13) In addition to any other registration fees charged for registration of vehicles in fleets under
+36 ORS 805.120, the department may charge the following fees:
+37 (a) Service charge for each vehicle entered into a fleet, $3.
+38 (b) Service charge for each vehicle in the fleet at the time of renewal, $2.
+39 (14)(a) The registration fee for motor vehicles required to establish a registration weight under
+40 ORS 803.430 or 826.013, tow vehicles used to transport property for hire other than as described in
+41 ORS 822.210 and commercial buses is as provided in the following chart, based upon the weight
+42 submitted in the declaration of weight prepared under ORS 803.435 or 826.015:
+43 _______________________________________________________________________________________
+44
+45 Weight in Pounds Fee
+[11]
+HB 4063
+1 8,000 or less $ 74
+2 8,001 to 10,000 464
+3 10,001 to 12,000 528
+4 12,001 to 14,000 591
+5 14,001 to 16,000 655
+6 16,001 to 18,000 718
+7 18,001 to 20,000 801
+8 20,001 to 22,000 864
+9 22,001 to 24,000 949
+10 24,001 to 26,000 1,031
+11 26,001 to 28,000 375
+12 28,001 to 30,000 391
+13 30,001 to 32,000 422
+14 32,001 to 34,000 438
+15 34,001 to 36,000 468
+16 36,001 to 38,000 485
+17 38,001 to 40,000 515
+18 40,001 to 42,000 532
+19 42,001 to 44,000 562
+20 44,001 to 46,000 578
+21 46,001 to 48,000 593
+22 48,001 to 50,000 625
+23 50,001 to 52,000 656
+24 52,001 to 54,000 672
+25 54,001 to 56,000 686
+26 56,001 to 58,000 717
+27 58,001 to 60,000 750
+28 60,001 to 62,000 780
+29 62,001 to 64,000 811
+30 64,001 to 66,000 827
+31 66,001 to 68,000 857
+32 68,001 to 70,000 874
+33 70,001 to 72,000 904
+34 72,001 to 74,000 921
+35 74,001 to 76,000 951
+36 76,001 to 78,000 967
+37 78,001 to 80,000 998
+38 80,001 to 82,000 1,014
+39 82,001 to 84,000 1,045
+40 84,001 to 86,000 1,061
+41 86,001 to 88,000 1,092
+42 88,001 to 90,000 1,108
+43 90,001 to 92,000 1,139
+44 92,001 to 94,000 1,155
+45 94,001 to 96,000 1,185
+[12]
+HB 4063
+1 96,001 to 98,000 1,202
+2 98,001 to 100,000 1,218
+3 100,001 to 102,000 1,249
+4 102,001 to 104,000 1,265
+5 104,001 to 105,500 1,295
+6 _______________________________________________________________________________________
+7
+8 (b)(A) The registration fee for motor vehicles with a registration weight of more than 8,000
+9 pounds that are described in ORS 825.015, that are operated by a charitable organization as defined
+10 in ORS 825.017 (13), is as provided in the following chart:
+11 _______________________________________________________________________________________
+12
+13 Weight in Pounds Fee
+14 8,001 to 10,000 $ 71
+15 10,001 to 12,000 85
+16 12,001 to 14,000 92
+17 14,001 to 16,000 107
+18 16,001 to 18,000 114
+19 18,001 to 20,000 128
+20 20,001 to 22,000 135
+21 22,001 to 24,000 149
+22 24,001 to 26,000 156
+23 26,001 to 28,000 170
+24 28,001 to 30,000 178
+25 30,001 to 32,000 192
+26 32,001 to 34,000 199
+27 34,001 to 36,000 213
+28 36,001 to 38,000 220
+29 38,001 to 40,000 234
+30 40,001 to 42,000 241
+31 42,001 to 44,000 256
+32 44,001 to 46,000 263
+33 46,001 to 48,000 270
+34 48,001 to 50,000 284
+35 50,001 to 52,000 298
+36 52,001 to 54,000 305
+37 54,001 to 56,000 312
+38 56,001 to 58,000 327
+39 58,001 to 60,000 341
+40 60,001 to 62,000 355
+41 62,001 to 64,000 369
+42 64,001 to 66,000 376
+43 66,001 to 68,000 391
+44 68,001 to 70,000 398
+45 70,001 to 72,000 412
+[13]
+HB 4063
+1 72,001 to 74,000 419
+2 74,001 to 76,000 433
+3 76,001 to 78,000 440
+4 78,001 to 80,000 454
+5 80,001 to 82,000 462
+6 82,001 to 84,000 476
+7 84,001 to 86,000 483
+8 86,001 to 88,000 497
+9 88,001 to 90,000 504
+10 90,001 to 92,000 518
+11 92,001 to 94,000 525
+12 94,001 to 96,000 540
+13 96,001 to 98,000 547
+14 98,001 to 100,000 554
+15 100,001 to 102,000 568
+16 102,001 to 104,000 575
+17 104,001 to 105,500 589
+18 _______________________________________________________________________________________
+19
+20 (B) The registration fee for motor vehicles that are certified under ORS 822.205, unless the mo-
+21 tor vehicles are registered under paragraph (a) of this subsection, or that are used exclusively to
+22 transport manufactured structures, is as provided in the following chart:
+23 _______________________________________________________________________________________
+24
+25 Weight in Pounds Fee
+26 8,000 or less $ 63
+27 8,001 to 10,000 145
+28 10,001 to 12,000 173
+29 12,001 to 14,000 187
+30 14,001 to 16,000 217
+31 16,001 to 18,000 231
+32 18,001 to 20,000 260
+33 20,001 to 22,000 274
+34 22,001 to 24,000 304
+35 24,001 to 26,000 318
+36 26,001 to 28,000 346
+37 28,001 to 30,000 362
+38 30,001 to 32,000 391
+39 32,001 to 34,000 405
+40 34,001 to 36,000 435
+41 36,001 to 38,000 449
+42 38,001 to 40,000 477
+43 40,001 to 42,000 491
+44 42,001 to 44,000 521
+45 44,001 to 46,000 535
+[14]
+HB 4063
+1 46,001 to 48,000 550
+2 48,001 to 50,000 578
+3 50,001 to 52,000 608
+4 52,001 to 54,000 622
+5 54,001 to 56,000 636
+6 56,001 to 58,000 665
+7 58,001 to 60,000 694
+8 60,001 to 62,000 723
+9 62,001 to 64,000 753
+10 64,001 to 66,000 767
+11 66,001 to 68,000 795
+12 68,001 to 70,000 809
+13 70,001 to 72,000 839
+14 72,001 to 74,000 853
+15 74,001 to 76,000 882
+16 76,001 to 78,000 896
+17 78,001 to 80,000 926
+18 80,001 to 82,000 940
+19 82,001 to 84,000 968
+20 84,001 to 86,000 983
+21 86,001 to 88,000 1,012
+22 88,001 to 90,000 1,027
+23 90,001 to 92,000 1,055
+24 92,001 to 94,000 1,071
+25 94,001 to 96,000 1,099
+26 96,001 to 98,000 1,113
+27 98,001 to 100,000 1,127
+28 100,001 to 102,000 1,157
+29 102,001 to 104,000 1,172
+30 104,001 to 105,500 1,200
+31 _______________________________________________________________________________________
+32
+33 (C) The owner of a vehicle described in subparagraph (A) or (B) of this paragraph must certify
+34 at the time of initial registration, in a manner determined by the department by rule, that the motor
+35 vehicle will be used exclusively to transport manufactured structures or exclusively as described in
+36 ORS 822.210, unless the motor vehicle is registered under paragraph (a) of this subsection, or as
+37 described in ORS 825.015 or 825.017 (13). Registration of a vehicle described in subparagraph (A) or
+38 (B) of this paragraph is invalid if the vehicle is operated in any manner other than that described
+39 in the certification under this subparagraph.
+40 (c) Subject to paragraph (d) of this subsection, the registration fee for motor vehicles registered
+41 as farm vehicles under ORS 805.300 is as provided in the following chart, based upon the registra-
+42 tion weight given in the declaration of weight submitted under ORS 803.435:
+43 _______________________________________________________________________________________
+44
+45 Weight in Pounds Fee
+[15]
+HB 4063
+1 8,000 or less $ 50
+2 8,001 to 10,000 65
+3 10,001 to 12,000 75
+4 12,001 to 14,000 97
+5 14,001 to 16,000 108
+6 16,001 to 18,000 129
+7 18,001 to 20,000 141
+8 20,001 to 22,000 162
+9 22,001 to 24,000 172
+10 24,001 to 26,000 195
+11 26,001 to 28,000 204
+12 28,001 to 30,000 226
+13 30,001 to 32,000 237
+14 32,001 to 34,000 258
+15 34,001 to 36,000 270
+16 36,001 to 38,000 291
+17 38,001 to 40,000 302
+18 40,001 to 42,000 324
+19 42,001 to 44,000 334
+20 44,001 to 46,000 356
+21 46,001 to 48,000 366
+22 48,001 to 50,000 388
+23 50,001 to 52,000 399
+24 52,001 to 54,000 409
+25 54,001 to 56,000 432
+26 56,001 to 58,000 453
+27 58,001 to 60,000 463
+28 60,001 to 62,000 474
+29 62,001 to 64,000 496
+30 64,001 to 66,000 517
+31 66,001 to 68,000 528
+32 68,001 to 70,000 540
+33 70,001 to 72,000 561
+34 72,001 to 74,000 571
+35 74,001 to 76,000 594
+36 76,001 to 78,000 604
+37 78,001 to 80,000 625
+38 80,001 to 82,000 636
+39 82,001 to 84,000 657
+40 84,001 to 86,000 669
+41 86,001 to 88,000 690
+42 88,001 to 90,000 700
+43 90,001 to 92,000 723
+44 92,001 to 94,000 733
+45 94,001 to 96,000 754
+[16]
+HB 4063
+1 96,001 to 98,000 765
+2 98,001 to 100,000 787
+3 100,001 to 102,000 798
+4 102,001 to 104,000 819
+5 104,001 to 105,500 831
+6 _______________________________________________________________________________________
+7
+8 (d) For any vehicle that is registered under a quarterly registration period, the registration fee
+9 is a minimum of $15 for each quarter registered plus an additional fee of $2.
+10 (15) The registration and renewal fees for vehicles specified in this subsection that are required
+11 to establish a registration weight under ORS 803.430 or 826.013 are as follows:
+12 (a) State-owned vehicles registered under ORS 805.045, $10.
+13 (b) Undercover vehicles registered under ORS 805.060, $10.
+14 SECTION 7. Section 8 of this 2026 Act is added to and made a part of the Oregon Vehicle
+15 Code.
+16 SECTION 8. (1) A person commits the offense of unlawfully operating a Kei truck on a
+17 highway if the person operates a Kei truck on a highway that has a speed limit or posted
+18 speed that is greater than 65 miles per hour.
+19 (2) The offense described in this section, unlawfully operating a Kei truck on a highway,
+20 is a Class B traffic violation.
+21 SECTION 9. ORS 815.075 is amended to read:
+22 815.075. (1) A person commits the offense of selling vehicles or equipment that violates state
+23 equipment administrative rules if the person sells or offers for sale any vehicle or sells or offers for
+24 sale for use upon a vehicle or uses on any vehicle any equipment if the vehicle or equipment:
+25 (a) Does not conform to standards established by the Department of Transportation by rule un-
+26 der ORS 815.030; and
+27 (b) Does not bear thereon proof of certification that it complies with the applicable standards.
+28 (2) Proof of certification required under this section may be made in any manner provided under
+29 ORS 815.030.
+30 (3) This section is subject to the following exemptions in addition to any exemptions under ORS
+31 801.026:
+32 (a) Vehicles of special interest that are registered under ORS 805.020 are deemed to comply with
+33 this section if:
+34 (A) The vehicles are equipped with original manufacturer’s equipment and accessories, or their
+35 equivalent, and are maintained in safe operating order; or
+36 (B) The vehicles are street rods that conform to ORS 815.107.
+37 (b) Road machinery, road rollers, implements of husbandry, farm trailers and farm tractors are
+38 not subject to this section.
+39 (c) Antique vehicles are not subject to this section if the vehicles are maintained as collectors’
+40 items and used for exhibitions, parades, club activities and similar uses, but not used primarily for
+41 the transportation of persons or property.
+42 (d) Racing activity vehicles and Kei trucks are not subject to this section.
+43 (4) The offense described under this section, selling vehicles or equipment that violates state
+44 equipment administrative rules, is a Class D traffic violation.
+45 SECTION 10. ORS 815.105 is amended to read:
+[17]
+HB 4063
+1 815.105. This section establishes exemptions from ORS 815.030 and 815.100. Exemptions under
+2 this section are in addition to any exemptions under ORS 801.026. Exemptions under this section are
+3 partial or complete as described in the following:
+4 (1) Vehicles of special interest that are registered under ORS 805.020 are deemed to comply with
+5 ORS 815.030 and 815.100 if:
+6 (a) The vehicles are equipped with original manufacturer’s equipment and accessories, or their
+7 equivalent, and are maintained in safe operating condition; or
+8 (b) The vehicles are street rods that conform to ORS 815.107.
+9 (2) Road machinery, road rollers, implements of husbandry, farm trailers and farm tractors are
+10 exempt from ORS 815.030 and 815.100.
+11 (3) Antique vehicles are exempt from ORS 815.030 and 815.100 if the vehicles are maintained as
+12 collectors’ items and used for exhibitions, parades, club activities and similar uses, but not used
+13 primarily for the transportation of persons or property.
+14 (4) Motorized wheelchairs are exempt from ORS 815.030 and 815.100 when used as permitted
+15 under ORS 811.440.
+16 (5) Racing activity vehicles and Kei trucks are exempt from ORS 815.030 and 815.100.
+17 SECTION 11. ORS 815.109 is amended to read:
+18 815.109. [A] Racing activity [vehicle is] vehicles and Kei trucks are exempt from vehicle
+19 equipment requirements under ORS 815.040, 815.075, 815.250, 815.295 and 815.310 if all of the fol-
+20 lowing apply:
+21 (1) The vehicle is equipped with original manufacturer’s equipment and accessories or their
+22 equivalent; and
+23 (2) The vehicle is maintained in safe operating condition.
+24 SECTION 12. ORS 815.300 is amended to read:
+25 815.300. This section establishes exemptions from the requirements under ORS 815.295 to be
+26 equipped with a certified pollution control system. Exemptions established by this section are in
+27 addition to any exemptions established by ORS 801.026. The exemptions established in this section
+28 are also applicable to requirements for certification of pollution control equipment before registra-
+29 tion under ORS 803.350 and 803.465. All of the following vehicles are exempt from the requirements
+30 under ORS 815.295:
+31 (1) Any vehicle that is not a motor vehicle.
+32 (2) Any vehicle unless the vehicle is registered within:
+33 (a) The boundaries of the metropolitan service district formed under ORS chapter 268 for the
+34 metropolitan area, as defined in ORS 268.020, which includes the City of Portland, Oregon.
+35 (b) Boundaries designated by the Environmental Quality Commission under ORS 468A.390.
+36 (3) Any new motor vehicle or new motor vehicle engine when the registration results from the
+37 initial retail sale thereof.
+38 (4) Any motor vehicle:
+39 (a) Not registered in areas designated under subsection (2)(a) of this section, including any ex-
+40 pansion of such boundary under subsection (2)(b) of this section, with a model year that predates
+41 by more than 20 years the year in which registration or renewal of registration is required; or
+42 (b) Registered in areas designated under subsection (2)(a) of this section, including any expan-
+43 sion of such boundary under subsection (2)(b) of this section, with a model year of 1974 or earlier.
+44 (5) Motor vehicles that are registered as farm vehicles under ORS 805.300 or apportioned farm
+45 vehicles under ORS 805.300.
+[18]
+HB 4063
+1 (6) Special interest vehicles that are maintained as collectors’ items and used for exhibitions,
+2 parades, club activities and similar uses but not used primarily for the transportation of persons or
+3 property.
+4 (7) Fixed load vehicles.
+5 (8) Vehicles that are proportionally registered under ORS 826.009 and 826.011 in accordance
+6 with agreements established under ORS 826.007.
+7 (9) Electric motor vehicles. This subsection does not exempt hybrid motor vehicles that use
+8 electricity and another source of motive power.
+9 (10) First response rescue units operated by political subdivisions of this state that are not used
+10 to transport persons who are ill or injured or who have disabilities.
+11 (11) A vehicle that is currently registered in Oregon at the time application for new registration
+12 is received by the Department of Transportation if the new registration is a result of a change in
+13 the registration or plate type and the application is received at least four months prior to the ex-
+14 piration of the existing registration.
+15 (12) Golf carts.
+16 (13) Any Class I, Class II, Class III or Class IV all-terrain vehicle.
+17 (14) An original equipment manufacturer vehicle that is engineered, designed, produced and
+18 warranted to use natural gas as its only fuel source.
+19 (15) Racing activity vehicles.
+20 (16) Kei trucks.
+21 SECTION 13. ORS 468A.350 is amended to read:
+22 468A.350. As used in ORS 468A.350 to 468A.400:
+23 (1) “Certified system” means a motor vehicle pollution control system for which a certificate of
+24 approval has been issued under ORS 468A.365 (3).
+25 (2) “Factory-installed system” means a motor vehicle pollution control system installed by the
+26 manufacturer which meets criteria for emission of pollutants in effect under federal laws and regu-
+27 lations applicable on September 9, 1971, or which meets criteria adopted pursuant to ORS 468A.365
+28 (1), whichever criteria are stricter.
+29 (3) “Motor vehicle” includes any self-propelled vehicle used for transporting persons or com-
+30 modities on public roads and highways but does not include a vehicle of special interest as that term
+31 is defined in ORS 801.605, if the vehicle is maintained as a collector’s item and used for exhibitions,
+32 parades, club activities and similar uses but not used primarily for the transportation of persons or
+33 property, [or] a racing activity vehicle as defined in ORS 801.404 or Kei truck as defined in sec-
+34 tion 2 of this 2026 Act.
+35 (4) “Motor vehicle pollution control system” means equipment designed for installation on a
+36 motor vehicle for the purpose of reducing the pollutants emitted from the vehicle, or a system or
+37 engine adjustment or modification which causes a reduction of pollutants emitted from the vehicle.
+38 SECTION 14. ORS 646.913 is amended to read:
+39 646.913. (1) Except as provided in subsection (4) of this section, a wholesale dealer, retail dealer
+40 or nonretail dealer may not sell gasoline or offer gasoline for sale unless the gasoline contains at
+41 least 10 percent denatured fuel ethanol by volume. Gasoline that contains anhydrous ethanol in
+42 concentrations of at least 9.2 percent by volume complies with the requirement set forth in this
+43 subsection.
+44 (2) The State Department of Agriculture shall adopt standards for gasoline blended with ethanol
+45 that is sold in this state. The standards that the department adopts shall require that the gasoline
+[19]
+HB 4063
+1 blended with ethanol:
+2 (a) Contains ethanol that is derived from agricultural or woody waste or residue;
+3 (b) Complies with the volatility requirements specified in 40 C.F.R. part 1090;
+4 (c) Complies with ASTM International specification D 4814, Standard Specification for Automo-
+5 tive Spark-Ignition Engine Fuel;
+6 (d) Is not blended with casinghead gasoline, absorption gasoline, drip gasoline or natural gaso-
+7 line after the gasoline has been sold, transferred or otherwise removed from a refinery or terminal;
+8 and
+9 (e) Contains denatured fuel ethanol that complies with ASTM International specification D 4806,
+10 Standard Specification for Denatured Fuel Ethanol for Blending with Gasolines for Use as Automo-
+11 tive Spark-Ignition Engine Fuel.
+12 (3) The department may review specifications adopted by ASTM International, or equivalent
+13 organizations, and federal regulations and revise the standards adopted under this section as nec-
+14 essary.
+15 (4) A wholesale dealer, retail dealer or nonretail dealer may sell or offer for sale gasoline that
+16 is not blended with ethanol if the gasoline has an octane rating, as defined in ORS 646.945, of 91
+17 or above or if the gasoline is for use in:
+18 (a) An aircraft:
+19 (A) With a supplemental type certificate approved by the Federal Aviation Administration that
+20 allows the aircraft to use gasoline that is intended for use in motor vehicles; or
+21 (B) Issued a type certificate by an aircraft engine manufacturer that allows the aircraft to use
+22 gasoline that is intended for use in motor vehicles;
+23 (b) An aircraft that has been issued an experimental certificate, as described in 14 C.F.R. 21.191,
+24 by the Federal Aviation Administration and for which the manufacturer’s specifications require the
+25 use of gasoline that is intended for use in motor vehicles;
+26 (c) A light-sport aircraft, as defined in 14 C.F.R. 1.1, for which the manufacturer’s specifications
+27 require the use of gasoline that is intended for use in motor vehicles;
+28 (d) A vintage aircraft, as defined by the Oregon Department of Aviation by rule, for which the
+29 manufacturer’s specifications require the use of gasoline that is intended for use in motor vehicles;
+30 (e) An antique vehicle, as defined in ORS 801.125;
+31 (f) A Class I all-terrain vehicle, as defined in ORS 801.190;
+32 (g) A Class III all-terrain vehicle, as defined in ORS 801.194;
+33 (h) A Class IV all-terrain vehicle, as defined in ORS 801.194 (2);
+34 (i) A racing activity vehicle, as defined in ORS 801.404;
+35 (j) A snowmobile, as defined in ORS 801.490;
+36 (k) Tools, including but not limited to lawn mowers, leaf blowers and chain saws; [or]
+37 (L) A watercraft; or
+38 (m) A Kei truck, as defined in section 2 of this 2026 Act.
+39
+[20]
+[DELETED:  B 4 b R O S B R S P H R B B B C D E E H L B M M N N O R S S W Y c b t L A I i a e b s o t e f o t.T.A t K t c n p a a O 4 6 8.S.“S8:M[]]
+[DELETED: B4 I t v i c b a O t o s t U t d a r t t c i t v b t o j i I r b t d t a m s p o o a d O t a r a v [] o K t i t d d i O 8 h r t b a v w n c b t o m a c t f v s t d m r t a t p p U t v i e f o d r t a s a a o d f T d s d w c o t v r a T d m a a r i c n f t a o s ( T D o T s n i t f a v d i E a p i s ( o t s t r o o a p i r t r t t d u O 8 8 8 A v i t d h r n t t v h b o w b]
+[DELETED: B4)R O t a r a[] O u a a t p t a p o t o f i t b r i e t e t r f f t v a t s a f o v t d E a o p i t s o u t v i r q v a d a a f u t s t r t n o q r A r o l c a d i O 2 t e t i r ]
+[DELETED: B4 T o c o 1 f i l $ p $0f T r f f t r a p o a f u a a o t s t r u s f a t f f v o t s 8 a c b i a p i t f c b u t wsF0orls$7]
+[DELETED: B41to1041to1051to1051to1061to1071to2081to2081to2091to2011to2031to3031to3041to3041to3041to3041to4051to4051to4051to4051to4051to5061to5061to5061to5061to5071to6071to6071to6081to6081to6081to7081to7091to7091to7091to7091to8091to8011to8011to8011to8011to9011to9011to9011to9011to901]
+[DELETED: B41to1011to1011to1011to101 T r f f m v w a r w o m t 8sF1to10$71to1081to1091to1011to1011to2011to2011to2011to2011to2011to3011to3011to3011to3021to3021to4021to4021to4021to4021to4021to5021to5021to5031to5031to5031to6031to6031to6031to6031to6031to7031to7041to704]
+[DELETED: B41to7041to7041to8041to8041to8041to8041to8041to9051to9051to9051to9051to9051to1051to1051to1051to105 v a r u p ( o t s o t a u e tsF0orls$61to1011to1011to1011to1021to1021to2021to2021to2031to2031to2031to3031to3031to3041to3041to3041to4041to4041to4051to4051to405]
+[DELETED: B41to5051to5061to5061to5061to5061to6061to6071to6071to6071to6071to7081to7081to7081to7081to7081to8091to8091to8091to8091to8011to9011to9011to9011to9011to9011to1011to1011to1011to101 u t m v i r u p ( o t s o a o t psF0orls$5]
+[DELETED: B41to1061to1071to1091to1011to1011to2011to2011to2011to2011to2021to3021to3021to3021to3021to3021to4031to4031to4031to4031to4031to5031to5031to5041to5041to5041to6041to6041to6041to6051to6051to7051to7051to7051to7051to7061to8061to8061to8061to8061to8061to9071to9071to9071to9071to907]
+[DELETED: B41to1071to1071to1081to108 6 I B M _ ( ( p o c 1 O L 2 s t e t r f f t v a t s a f o v t d E a o p i t s o u t v i r q v a d a a f u t s t r t n o q r A r o l c a d i O 2 t e t i r ]
+[DELETED: B4 T o c o 1 f i l $ p $0f T r f f t r a p o a f u a a o t s t r u s f a t f f v o t s 8 a c b i a p i t f c b u t wsF]
+[DELETED: B40orls$71to1041to1051to1051to1061to1071to2081to2081to2091to2011to2031to3031to3041to3041to3041to3041to4051to4051to4051to4051to4051to5061to5061to5061to5061to5071to6071to6071to6081to6081to6081to7081to7091to7091to7091to7091to8091to8011to8011to8011to8011to9011to9011to9011to901]
+[DELETED: B41to9011to1011to1011to1011to101 T r f f m v w a r w o m t 8sF1to10$71to1081to1091to1011to1011to2011to2011to2011to2011to2011to3011to3011to3011to3021to3021to4021to4021to4021to4021to4021to5021to5021to5031to5031to5031to6031to6031to6031to6031to6031to7031to704]
+[DELETED: B41to7041to7041to7041to8041to8041to8041to8041to8041to9051to9051to9051to9051to9051to1051to1051to1051to105 v a r u p ( o t s o t a u e tsF0orls$61to1011to1011to1011to1021to1021to2021to2021to2031to2031to2031to3031to3031to3041to3041to3041to4041to4041to4051to405]
+[DELETED: B41to4051to5051to5061to5061to5061to5061to6061to6071to6071to6071to6071to7081to7081to7081to7081to7081to8091to8091to8091to8091to8011to9011to9011to9011to9011to9011to1011to1011to1011to101 u t m v i r u p ( o t s o a o t psF]
+[DELETED: B40orls$51to1061to1071to1091to1011to1011to2011to2011to2011to2011to2021to3021to3021to3021to3021to3021to4031to4031to4031to4031to4031to5031to5031to5041to5041to5041to6041to6041to6041to6051to6051to7051to7051to7051to7051to7061to8061to8061to8061to8061to8061to9071to9071to9071to907]
+[DELETED: B41to9071to1071to1071to1081to108.S.( i t p o a K t o a ( A p c t o o s v o e t v sS8 T o d u t s s v o e t v s]
+[DELETED: B4 T s e e f O 8 a 8 E u i a u f e p c a a s u b n u M w a e f O 8 a 8 w u a p [] R a [] v a K t a e f vv i r u O 8 8 8 8 a 8 i a o t fga T v i e w o m e a a o t;a T s e e f t r u O 8 t b w a c p c s E e b t s a i i t s a T b o t m s d f u O c 2 f t o s b u s ( o t s w a m y t p s ( o t s i a e]
+[DELETED: B4 S i v t a m a c i a u f e V t a p r u O 8 a 8 i a E m v T s d n e h m v t u r b t D o T f m p t t e A o e m v t i e d p a s m a m v p c s i b t “ v i a s v u f t p o c[] “ v p c s m e d f i o  v f t p o r t p e f t v o a s o f s u t g c a 1 p d f e b v.G t c a e i o a l 9 p b v c w t r s f i t]
+[DELETED: B4 T d m r s a b A I o e a f r a r t s a u t s a n e i t g h a o r a d i O 6 o 9[]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4063
+Sponsored by Representative OSBORNE, Senator BROADMAN, Representatives SKARLATOS, PHAM H; Repre-
+sentatives BOICE, BREESE-IVERSON, BUNCH, CATE, DIEHL, EDWARDS, EVANS, HELFRICH, LEVY B,
+LEWIS, MANNIX, MCINTIRE, NELSON, NOSSE, OWENS, RIEKE SMITH, SCHARF, WRIGHT, YUNKER,
+Senators FREDERICK, PROZANSKI, SMITH DB (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes laws about Kei trucks. (Flesch Readability Score: 100.0).
+Allows a person to title and register a Kei truck in Oregon. Amends and creates laws related
+to allowing Kei trucks to operate on highways in Oregon.
+Creates the offense of unlawfully operating a Kei truck on a highway. Punishes by a maximum
+fine of $1,000.
+1 A BILL FOR AN ACT
+2 Relating to Kei trucks; creating new provisions; and amending ORS 468A.350, 646.913, 803.045,
+3 803.210, 803.420, 815.075, 815.105, 815.109 and 815.300.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. Section 2 of this 2026 Act is added to and made a part of the Oregon Vehicle
+6 Code.
+7 SECTION 2. “Kei truck” means a motor vehicle that:
+8 (1) Was originally manufactured in Japan or South Korea;
+9 (2) Has an engine that has a piston or rotor displacement of 660 cubic centimeters;
+10 (3) Is 11 feet or less in length;
+11 (4) Is 4.9 feet or less in width;
+12 (5) Is 6.6 feet or less in height; and
+13 (6) Has a model year that predates the current year by 25 years or more.
+14 SECTION 3. ORS 803.045 is amended to read:
+15 803.045. (1) The Department of Transportation shall issue title for a vehicle if the applicant and
+16 the vehicle meet the following qualifications:
+17 (a) The applicant must satisfy the department that the applicant is the owner of the vehicle and
+18 is otherwise entitled to have title issued in the applicant’s name.
+19 (b) Except as otherwise provided in ORS 803.050 (2), the applicant must submit a completed and
+20 signed application for title described in ORS 803.050.
+21 (c) The applicant must pay the fee for issuance of a certificate of title under ORS 803.090 or the
+22 fee for issuance of title in another form, as established by the department by rule in accordance with
+23 ORS 803.012.
+24 (d) If the vehicle is a reconstructed vehicle or an assembled vehicle, the applicant must provide
+25 the following information in addition to any other information required under this section:
+26 (A) The certificate of title last issued for the frame of the vehicle, a salvage title certificate is-
+27 sued for the vehicle or other evidence of ownership satisfactory to the department.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 19
+
+HB 4063
+1 (B) Bills of sale for major components used to build the vehicle.
+2 (e) If the vehicle is covered by an Oregon title or salvage title certificate, the applicant shall
+3 surrender the Oregon title or salvage title certificate, submit an application as provided under ORS
+4 803.065 or submit other evidence of ownership satisfactory to the department.
+5 (f) Unless the department adopts rules to the contrary, if the vehicle is from another jurisdic-
+6 tion, the applicant shall surrender to the department with the application the certificate of title is-
+7 sued by the other jurisdiction, if such jurisdiction requires certificates of title. If such jurisdiction
+8 does not require certificates of title, then the applicant shall surrender the registration cards.
+9 (g) If required by the department, the applicant must submit proof of ownership as described
+10 under ORS 803.205.
+11 (h) Other than a racing activity vehicle [as defined in ORS 801.404] or Kei truck, if the de-
+12 partment has reason to believe a vehicle was not certified by the original manufacturer as con-
+13 forming to federal vehicle standards, the department may require the applicant to provide proof
+14 satisfactory to the department that the vehicle conforms to federal vehicle standards.
+15 (i) Unless the vehicle is exempted from odometer disclosure requirements, the applicant shall
+16 submit an appropriate odometer disclosure form. The department shall determine what constitutes
+17 an appropriate form in any particular situation. The department may make exceptions by rule to the
+18 requirement for submission of an odometer disclosure form.
+19 (2) The department may not issue title for a vehicle:
+20 (a) Required by ORS 803.210 to be inspected unless the vehicle has been inspected as described
+21 in ORS 803.212 and the inspection fee paid under ORS 803.215.
+22 (b) If the current vehicle title, certificate, ownership document or the vehicle record available
+23 through electronic record inquiry:
+24 (A) Has a junk status;
+25 (B) Is a junk title, junk certificate or similar ownership document issued by another jurisdiction;
+26 or
+27 (C) Has a junk or similar brand or notation.
+28 (c) As prescribed in ORS 803.591.
+29 (3) The department may adopt any rules it considers necessary for the administration of sub-
+30 section (2)(a) and (b) of this section.
+31 SECTION 4. ORS 803.210 is amended to read:
+32 803.210. (1) The Department of Transportation shall not issue title for a vehicle described in
+33 subsection (2) of this section unless:
+34 (a) An inspection of the vehicle identification number or numbers of the vehicle is performed in
+35 accordance with ORS 803.212; and
+36 (b) The fee established under ORS 803.215 is paid to the department for the inspection.
+37 (2) Except as provided in subsection (3) of this section, the requirements of this section apply
+38 to all of the following:
+39 (a) A vehicle from another jurisdiction.
+40 (b) Any assembled or reconstructed vehicle.
+41 (c) Any vehicle if the certificate of title has been or is required to be submitted to the depart-
+42 ment, or a person is required to report to the department, under ORS 819.010, 819.012, 819.014 or
+43 819.030.
+44 (d) Any vehicle if the department has received notice that the vehicle has been or will be
+45 wrecked, dismantled or disassembled under ORS 819.010 or 822.135.
+[2]
+
+HB 4063
+1 (e) Replicas.
+2 (f) Other than a racing activity vehicle [as defined in ORS 801.404] or Kei truck, any vehicle
+3 the department has reason to believe was not certified by the original manufacturer as conforming
+4 to federal vehicle standards.
+5 (3) The requirements of this section do not apply to the following vehicles if the person shown
+6 as the owner on an out-of-state title for the vehicle applies for an Oregon title in that person’s name:
+7 (a) A rental truck, rental truck tractor or rental trailer that is registered in Oregon under an
+8 interstate agreement that provides that a portion of the owner’s fleet is to be registered in each
+9 state in which the fleet operates.
+10 (b) A trailer or semitrailer that has permanent registration.
+11 (4) The requirement to inspect a vehicle identification number or numbers of the vehicle under
+12 subsection (1) of this section does not apply to park model recreational vehicles, as defined in ORS
+13 803.036, or former park model recreational vehicles.
+14 SECTION 5. ORS 803.420, as amended by section 18 (6)(e), chapter 1, Oregon Laws 2025 (special
+15 session), is amended to read:
+16 803.420. (1) The vehicle registration fees imposed under this section shall be based on the clas-
+17 sifications determined by the Department of Transportation by rule. The department may classify a
+18 vehicle to ensure that registration fees for the vehicle are the same as for other vehicles the de-
+19 partment determines to be comparable.
+20 (2) Except as otherwise provided in this section, or unless the vehicle is registered quarterly,
+21 the fees described in this section are for an entire registration period for the vehicle as described
+22 under ORS 803.415. For a vehicle registered for a quarterly registration period under ORS 803.415,
+23 the department shall apportion any fee under this section to reflect the number of quarters regis-
+24 tered.
+25 (3) Vehicle registration fees are due when a vehicle is registered and when the registered owner
+26 renews the registration.
+27 (4) In addition to the registration fees listed in this section, a county or a district may impose
+28 an additional registration fee as provided under ORS 801.041 and 801.042.
+29 (5) A rental or leasing company, as defined in ORS 221.275, that elects to initially register a
+30 vehicle for an annual or biennial registration period shall pay a fee of $2 in addition to the vehicle
+31 registration fee provided under this section.
+32 (6) The registration fees for each year of the registration period for vehicles subject to biennial
+33 registration are as follows:
+34 (a) Passenger vehicles not otherwise provided for in this section or ORS 821.320, $43.
+35 (b) Utility trailers or light trailers, as those terms are defined by rule by the department, $63.
+36 (c) Mopeds and motorcycles, $44.
+37 (d) Low-speed vehicles, $63.
+38 (e) Medium-speed electric vehicles, $105.
+39 (f) Kei trucks, $63.
+40 (7) The registration fees for vehicles that are subject to biennial registration and that are listed
+41 in this subsection are as follows:
+42 (a) State-owned vehicles registered under ORS 805.045 and undercover vehicles registered under
+43 ORS 805.060, $10 upon registration or renewal.
+44 (b) Fixed load vehicles:
+45 (A) If a declaration of weight described under ORS 803.435 is submitted establishing the weight
+[3]
+
+HB 4063
+1 of the vehicle at 3,000 pounds or less, $61.
+2 (B) If no declaration of weight is submitted or if the weight of the vehicles is in excess of 3,000
+3 pounds, $82.
+4 (c) Travel trailers, special use trailers, campers and motor homes, based on length as determined
+5 under ORS 803.425:
+6 (A) Trailers or campers that are 6 to 10 feet in length, $81.
+7 (B) Trailers or campers over 10 feet in length, $81 plus $7 a foot for each foot of length over
+8 the first 10 feet.
+9 (C) Motor homes that are 6 to 14 feet in length, $86.
+10 (D) Motor homes over 14 feet in length, $126 plus $8 a foot for each foot of length over the first
+11 10 feet.
+12 (8) The registration fee for trailers for hire that are equipped with pneumatic tires made of an
+13 elastic material and that are not travel trailers or trailers registered under permanent registration
+14 is $30.
+15 (9) The registration fees for vehicles subject to ownership registration are as follows:
+16 (a) Government-owned vehicles registered under ORS 805.040, $5.
+17 (b) Vehicles registered with special registration for disabled veterans under ORS 805.100 or for
+18 former prisoners of war under ORS 805.110, $15.
+19 (c) School vehicles registered under ORS 805.050, $5.
+20 (10) The registration fees for vehicles subject to permanent registration are as follows:
+21 (a) Antique vehicles registered under ORS 805.010, $100.
+22 (b) Vehicles of special interest registered under ORS 805.020, $100.
+23 (c) Racing activity vehicles registered under ORS 805.035, $100.
+24 (d) Trailers, $10.
+25 (e) State-owned vehicles registered under ORS 805.045 and undercover vehicles registered under
+26 ORS 805.060, $10.
+27 (11) The registration fee for trailers registered as part of a fleet under an agreement reached
+28 pursuant to ORS 802.500 is the same fee as the fee for vehicles of the same type registered under
+29 other provisions of the Oregon Vehicle Code.
+30 (12) The registration fee for vehicles with proportional registration under ORS 826.009, or pro-
+31 portional fleet registration under ORS 826.011, is the same fee as the fee for vehicles of the same
+32 type under this section except that the fees shall be fixed on an apportioned basis as provided under
+33 the agreement established under ORS 826.007.
+34 (13) In addition to any other registration fees charged for registration of vehicles in fleets under
+35 ORS 805.120, the department may charge the following fees:
+36 (a) Service charge for each vehicle entered into a fleet, $3.
+37 (b) Service charge for each vehicle in the fleet at the time of renewal, $2.
+38 (14)(a) The registration fee for motor vehicles required to establish a registration weight under
+39 ORS 803.430 or 826.013, tow vehicles used to transport property for hire other than as described in
+40 ORS 822.210 and commercial buses is as provided in the following chart, based upon the weight
+41 submitted in the declaration of weight prepared under ORS 803.435 or 826.015:
+42 _______________________________________________________________________________________
+43
+44 Weight in Pounds Fee
+45 8,000 or less $ 74
+[4]
+
+HB 4063
+1 8,001 to 10,000 464
+2 10,001 to 12,000 528
+3 12,001 to 14,000 591
+4 14,001 to 16,000 655
+5 16,001 to 18,000 718
+6 18,001 to 20,000 801
+7 20,001 to 22,000 864
+8 22,001 to 24,000 949
+9 24,001 to 26,000 1,031
+10 26,001 to 28,000 375
+11 28,001 to 30,000 391
+12 30,001 to 32,000 422
+13 32,001 to 34,000 438
+14 34,001 to 36,000 468
+15 36,001 to 38,000 485
+16 38,001 to 40,000 515
+17 40,001 to 42,000 532
+18 42,001 to 44,000 562
+19 44,001 to 46,000 578
+20 46,001 to 48,000 593
+21 48,001 to 50,000 625
+22 50,001 to 52,000 656
+23 52,001 to 54,000 672
+24 54,001 to 56,000 686
+25 56,001 to 58,000 717
+26 58,001 to 60,000 750
+27 60,001 to 62,000 780
+28 62,001 to 64,000 811
+29 64,001 to 66,000 827
+30 66,001 to 68,000 857
+31 68,001 to 70,000 874
+32 70,001 to 72,000 904
+33 72,001 to 74,000 921
+34 74,001 to 76,000 951
+35 76,001 to 78,000 967
+36 78,001 to 80,000 998
+37 80,001 to 82,000 1,014
+38 82,001 to 84,000 1,045
+39 84,001 to 86,000 1,061
+40 86,001 to 88,000 1,092
+41 88,001 to 90,000 1,108
+42 90,001 to 92,000 1,139
+43 92,001 to 94,000 1,155
+44 94,001 to 96,000 1,185
+45 96,001 to 98,000 1,202
+[5]
+
+HB 4063
+1 98,001 to 100,000 1,218
+2 100,001 to 102,000 1,249
+3 102,001 to 104,000 1,265
+4 104,001 to 105,500 1,295
+5 _______________________________________________________________________________________
+6
+7 (b)(A) The registration fee for motor vehicles with a registration weight of more than 8,000
+8 pounds that are described in ORS 825.015, that are operated by a charitable organization as defined
+9 in ORS 825.017 (13), is as provided in the following chart:
+10 _______________________________________________________________________________________
+11
+12 Weight in Pounds Fee
+13 8,001 to 10,000 $ 71
+14 10,001 to 12,000 85
+15 12,001 to 14,000 92
+16 14,001 to 16,000 107
+17 16,001 to 18,000 114
+18 18,001 to 20,000 128
+19 20,001 to 22,000 135
+20 22,001 to 24,000 149
+21 24,001 to 26,000 156
+22 26,001 to 28,000 170
+23 28,001 to 30,000 178
+24 30,001 to 32,000 192
+25 32,001 to 34,000 199
+26 34,001 to 36,000 213
+27 36,001 to 38,000 220
+28 38,001 to 40,000 234
+29 40,001 to 42,000 241
+30 42,001 to 44,000 256
+31 44,001 to 46,000 263
+32 46,001 to 48,000 270
+33 48,001 to 50,000 284
+34 50,001 to 52,000 298
+35 52,001 to 54,000 305
+36 54,001 to 56,000 312
+37 56,001 to 58,000 327
+38 58,001 to 60,000 341
+39 60,001 to 62,000 355
+40 62,001 to 64,000 369
+41 64,001 to 66,000 376
+42 66,001 to 68,000 391
+43 68,001 to 70,000 398
+44 70,001 to 72,000 412
+45 72,001 to 74,000 419
+[6]
+
+HB 4063
+1 74,001 to 76,000 433
+2 76,001 to 78,000 440
+3 78,001 to 80,000 454
+4 80,001 to 82,000 462
+5 82,001 to 84,000 476
+6 84,001 to 86,000 483
+7 86,001 to 88,000 497
+8 88,001 to 90,000 504
+9 90,001 to 92,000 518
+10 92,001 to 94,000 525
+11 94,001 to 96,000 540
+12 96,001 to 98,000 547
+13 98,001 to 100,000 554
+14 100,001 to 102,000 568
+15 102,001 to 104,000 575
+16 104,001 to 105,500 589
+17 _______________________________________________________________________________________
+18
+19 (B) The registration fee for motor vehicles that are certified under ORS 822.205, unless the mo-
+20 tor vehicles are registered under paragraph (a) of this subsection, or that are used exclusively to
+21 transport manufactured structures, is as provided in the following chart:
+22 _______________________________________________________________________________________
+23
+24 Weight in Pounds Fee
+25 8,000 or less $ 63
+26 8,001 to 10,000 145
+27 10,001 to 12,000 173
+28 12,001 to 14,000 187
+29 14,001 to 16,000 217
+30 16,001 to 18,000 231
+31 18,001 to 20,000 260
+32 20,001 to 22,000 274
+33 22,001 to 24,000 304
+34 24,001 to 26,000 318
+35 26,001 to 28,000 346
+36 28,001 to 30,000 362
+37 30,001 to 32,000 391
+38 32,001 to 34,000 405
+39 34,001 to 36,000 435
+40 36,001 to 38,000 449
+41 38,001 to 40,000 477
+42 40,001 to 42,000 491
+43 42,001 to 44,000 521
+44 44,001 to 46,000 535
+45 46,001 to 48,000 550
+[7]
+
+HB 4063
+1 48,001 to 50,000 578
+2 50,001 to 52,000 608
+3 52,001 to 54,000 622
+4 54,001 to 56,000 636
+5 56,001 to 58,000 665
+6 58,001 to 60,000 694
+7 60,001 to 62,000 723
+8 62,001 to 64,000 753
+9 64,001 to 66,000 767
+10 66,001 to 68,000 795
+11 68,001 to 70,000 809
+12 70,001 to 72,000 839
+13 72,001 to 74,000 853
+14 74,001 to 76,000 882
+15 76,001 to 78,000 896
+16 78,001 to 80,000 926
+17 80,001 to 82,000 940
+18 82,001 to 84,000 968
+19 84,001 to 86,000 983
+20 86,001 to 88,000 1,012
+21 88,001 to 90,000 1,027
+22 90,001 to 92,000 1,055
+23 92,001 to 94,000 1,071
+24 94,001 to 96,000 1,099
+25 96,001 to 98,000 1,113
+26 98,001 to 100,000 1,127
+27 100,001 to 102,000 1,157
+28 102,001 to 104,000 1,172
+29 104,001 to 105,500 1,200
+30 _______________________________________________________________________________________
+31
+32 (C) The owner of a vehicle described in subparagraph (A) or (B) of this paragraph must certify
+33 at the time of initial registration, in a manner determined by the department by rule, that the motor
+34 vehicle will be used exclusively to transport manufactured structures or exclusively as described in
+35 ORS 822.210, unless the motor vehicle is registered under paragraph (a) of this subsection, or as
+36 described in ORS 825.015 or 825.017 (13). Registration of a vehicle described in subparagraph (A) or
+37 (B) of this paragraph is invalid if the vehicle is operated in any manner other than that described
+38 in the certification under this subparagraph.
+39 (c) Subject to paragraph (d) of this subsection, the registration fee for motor vehicles registered
+40 as farm vehicles under ORS 805.300 is as provided in the following chart, based upon the registra-
+41 tion weight given in the declaration of weight submitted under ORS 803.435:
+42 _______________________________________________________________________________________
+43
+44 Weight in Pounds Fee
+45 8,000 or less $ 50
+[8]
+
+HB 4063
+1 8,001 to 10,000 65
+2 10,001 to 12,000 75
+3 12,001 to 14,000 97
+4 14,001 to 16,000 108
+5 16,001 to 18,000 129
+6 18,001 to 20,000 141
+7 20,001 to 22,000 162
+8 22,001 to 24,000 172
+9 24,001 to 26,000 195
+10 26,001 to 28,000 204
+11 28,001 to 30,000 226
+12 30,001 to 32,000 237
+13 32,001 to 34,000 258
+14 34,001 to 36,000 270
+15 36,001 to 38,000 291
+16 38,001 to 40,000 302
+17 40,001 to 42,000 324
+18 42,001 to 44,000 334
+19 44,001 to 46,000 356
+20 46,001 to 48,000 366
+21 48,001 to 50,000 388
+22 50,001 to 52,000 399
+23 52,001 to 54,000 409
+24 54,001 to 56,000 432
+25 56,001 to 58,000 453
+26 58,001 to 60,000 463
+27 60,001 to 62,000 474
+28 62,001 to 64,000 496
+29 64,001 to 66,000 517
+30 66,001 to 68,000 528
+31 68,001 to 70,000 540
+32 70,001 to 72,000 561
+33 72,001 to 74,000 571
+34 74,001 to 76,000 594
+35 76,001 to 78,000 604
+36 78,001 to 80,000 625
+37 80,001 to 82,000 636
+38 82,001 to 84,000 657
+39 84,001 to 86,000 669
+40 86,001 to 88,000 690
+41 88,001 to 90,000 700
+42 90,001 to 92,000 723
+43 92,001 to 94,000 733
+44 94,001 to 96,000 754
+45 96,001 to 98,000 765
+[9]
+
+HB 4063
+1 98,001 to 100,000 787
+2 100,001 to 102,000 798
+3 102,001 to 104,000 819
+4 104,001 to 105,500 831
+5 _______________________________________________________________________________________
+6
+7 (d) For any vehicle that is registered under a quarterly registration period, the registration fee
+8 is a minimum of $15 for each quarter registered plus an additional fee of $2.
+9 (15) The registration and renewal fees for vehicles specified in this subsection that are required
+10 to establish a registration weight under ORS 803.430 or 826.013 are as follows:
+11 (a) State-owned vehicles registered under ORS 805.045, $10.
+12 (b) Undercover vehicles registered under ORS 805.060, $10.
+13 SECTION 6. If Ballot Measure ___ (2026) (referring parts of chapter 1, Oregon Laws 2025
+14 (special session)) is approved by the voters at an election held throughout this state, ORS 803.420,
+15 as amended by section 18 (6)(a) to (e), chapter 1, Oregon Laws 2025 (special session), is amended to
+16 read:
+17 803.420. (1) The vehicle registration fees imposed under this section shall be based on the clas-
+18 sifications determined by the Department of Transportation by rule. The department may classify a
+19 vehicle to ensure that registration fees for the vehicle are the same as for other vehicles the de-
+20 partment determines to be comparable.
+21 (2) Except as otherwise provided in this section, or unless the vehicle is registered quarterly,
+22 the fees described in this section are for an entire registration period for the vehicle as described
+23 under ORS 803.415. For a vehicle registered for a quarterly registration period under ORS 803.415,
+24 the department shall apportion any fee under this section to reflect the number of quarters regis-
+25 tered.
+26 (3) Vehicle registration fees are due when a vehicle is registered and when the registered owner
+27 renews the registration.
+28 (4) In addition to the registration fees listed in this section, a county or a district may impose
+29 an additional registration fee as provided under ORS 801.041 and 801.042.
+30 (5) A rental or leasing company, as defined in ORS 221.275, that elects to initially register a
+31 vehicle for an annual or biennial registration period shall pay a fee of $2 in addition to the vehicle
+32 registration fee provided under this section.
+33 (6) The registration fees for each year of the registration period for vehicles subject to biennial
+34 registration are as follows:
+35 (a) Passenger vehicles not otherwise provided for in this section or ORS 821.320, $85.
+36 (b) Utility trailers or light trailers, as those terms are defined by rule by the department, $105.
+37 (c) Mopeds and motorcycles, $86.
+38 (d) Low-speed vehicles, $105.
+39 (e) Medium-speed electric vehicles, $105.
+40 (f) Kei trucks, $63.
+41 (7) The registration fees for vehicles that are subject to biennial registration and that are listed
+42 in this subsection are as follows:
+43 (a) State-owned vehicles registered under ORS 805.045 and undercover vehicles registered under
+44 ORS 805.060, $10 upon registration or renewal.
+45 (b) Fixed load vehicles:
+[10]
+
+HB 4063
+1 (A) If a declaration of weight described under ORS 803.435 is submitted establishing the weight
+2 of the vehicle at 3,000 pounds or less, $61.
+3 (B) If no declaration of weight is submitted or if the weight of the vehicles is in excess of 3,000
+4 pounds, $82.
+5 (c) Travel trailers, special use trailers, campers and motor homes, based on length as determined
+6 under ORS 803.425:
+7 (A) Trailers or campers that are 6 to 10 feet in length, $81.
+8 (B) Trailers or campers over 10 feet in length, $81 plus $7 a foot for each foot of length over
+9 the first 10 feet.
+10 (C) Motor homes that are 6 to 14 feet in length, $86.
+11 (D) Motor homes over 14 feet in length, $126 plus $8 a foot for each foot of length over the first
+12 10 feet.
+13 (8) The registration fee for trailers for hire that are equipped with pneumatic tires made of an
+14 elastic material and that are not travel trailers or trailers registered under permanent registration
+15 is $30.
+16 (9) The registration fees for vehicles subject to ownership registration are as follows:
+17 (a) Government-owned vehicles registered under ORS 805.040, $5.
+18 (b) Vehicles registered with special registration for disabled veterans under ORS 805.100 or for
+19 former prisoners of war under ORS 805.110, $15.
+20 (c) School vehicles registered under ORS 805.050, $5.
+21 (10) The registration fees for vehicles subject to permanent registration are as follows:
+22 (a) Antique vehicles registered under ORS 805.010, $100.
+23 (b) Vehicles of special interest registered under ORS 805.020, $100.
+24 (c) Racing activity vehicles registered under ORS 805.035, $100.
+25 (d) Trailers, $10.
+26 (e) State-owned vehicles registered under ORS 805.045 and undercover vehicles registered under
+27 ORS 805.060, $10.
+28 (11) The registration fee for trailers registered as part of a fleet under an agreement reached
+29 pursuant to ORS 802.500 is the same fee as the fee for vehicles of the same type registered under
+30 other provisions of the Oregon Vehicle Code.
+31 (12) The registration fee for vehicles with proportional registration under ORS 826.009, or pro-
+32 portional fleet registration under ORS 826.011, is the same fee as the fee for vehicles of the same
+33 type under this section except that the fees shall be fixed on an apportioned basis as provided under
+34 the agreement established under ORS 826.007.
+35 (13) In addition to any other registration fees charged for registration of vehicles in fleets under
+36 ORS 805.120, the department may charge the following fees:
+37 (a) Service charge for each vehicle entered into a fleet, $3.
+38 (b) Service charge for each vehicle in the fleet at the time of renewal, $2.
+39 (14)(a) The registration fee for motor vehicles required to establish a registration weight under
+40 ORS 803.430 or 826.013, tow vehicles used to transport property for hire other than as described in
+41 ORS 822.210 and commercial buses is as provided in the following chart, based upon the weight
+42 submitted in the declaration of weight prepared under ORS 803.435 or 826.015:
+43 _______________________________________________________________________________________
+44
+45 Weight in Pounds Fee
+[11]
+
+HB 4063
+1 8,000 or less $ 74
+2 8,001 to 10,000 464
+3 10,001 to 12,000 528
+4 12,001 to 14,000 591
+5 14,001 to 16,000 655
+6 16,001 to 18,000 718
+7 18,001 to 20,000 801
+8 20,001 to 22,000 864
+9 22,001 to 24,000 949
+10 24,001 to 26,000 1,031
+11 26,001 to 28,000 375
+12 28,001 to 30,000 391
+13 30,001 to 32,000 422
+14 32,001 to 34,000 438
+15 34,001 to 36,000 468
+16 36,001 to 38,000 485
+17 38,001 to 40,000 515
+18 40,001 to 42,000 532
+19 42,001 to 44,000 562
+20 44,001 to 46,000 578
+21 46,001 to 48,000 593
+22 48,001 to 50,000 625
+23 50,001 to 52,000 656
+24 52,001 to 54,000 672
+25 54,001 to 56,000 686
+26 56,001 to 58,000 717
+27 58,001 to 60,000 750
+28 60,001 to 62,000 780
+29 62,001 to 64,000 811
+30 64,001 to 66,000 827
+31 66,001 to 68,000 857
+32 68,001 to 70,000 874
+33 70,001 to 72,000 904
+34 72,001 to 74,000 921
+35 74,001 to 76,000 951
+36 76,001 to 78,000 967
+37 78,001 to 80,000 998
+38 80,001 to 82,000 1,014
+39 82,001 to 84,000 1,045
+40 84,001 to 86,000 1,061
+41 86,001 to 88,000 1,092
+42 88,001 to 90,000 1,108
+43 90,001 to 92,000 1,139
+44 92,001 to 94,000 1,155
+45 94,001 to 96,000 1,185
+[12]
+
+HB 4063
+1 96,001 to 98,000 1,202
+2 98,001 to 100,000 1,218
+3 100,001 to 102,000 1,249
+4 102,001 to 104,000 1,265
+5 104,001 to 105,500 1,295
+6 _______________________________________________________________________________________
+7
+8 (b)(A) The registration fee for motor vehicles with a registration weight of more than 8,000
+9 pounds that are described in ORS 825.015, that are operated by a charitable organization as defined
+10 in ORS 825.017 (13), is as provided in the following chart:
+11 _______________________________________________________________________________________
+12
+13 Weight in Pounds Fee
+14 8,001 to 10,000 $ 71
+15 10,001 to 12,000 85
+16 12,001 to 14,000 92
+17 14,001 to 16,000 107
+18 16,001 to 18,000 114
+19 18,001 to 20,000 128
+20 20,001 to 22,000 135
+21 22,001 to 24,000 149
+22 24,001 to 26,000 156
+23 26,001 to 28,000 170
+24 28,001 to 30,000 178
+25 30,001 to 32,000 192
+26 32,001 to 34,000 199
+27 34,001 to 36,000 213
+28 36,001 to 38,000 220
+29 38,001 to 40,000 234
+30 40,001 to 42,000 241
+31 42,001 to 44,000 256
+32 44,001 to 46,000 263
+33 46,001 to 48,000 270
+34 48,001 to 50,000 284
+35 50,001 to 52,000 298
+36 52,001 to 54,000 305
+37 54,001 to 56,000 312
+38 56,001 to 58,000 327
+39 58,001 to 60,000 341
+40 60,001 to 62,000 355
+41 62,001 to 64,000 369
+42 64,001 to 66,000 376
+43 66,001 to 68,000 391
+44 68,001 to 70,000 398
+45 70,001 to 72,000 412
+[13]
+
+HB 4063
+1 72,001 to 74,000 419
+2 74,001 to 76,000 433
+3 76,001 to 78,000 440
+4 78,001 to 80,000 454
+5 80,001 to 82,000 462
+6 82,001 to 84,000 476
+7 84,001 to 86,000 483
+8 86,001 to 88,000 497
+9 88,001 to 90,000 504
+10 90,001 to 92,000 518
+11 92,001 to 94,000 525
+12 94,001 to 96,000 540
+13 96,001 to 98,000 547
+14 98,001 to 100,000 554
+15 100,001 to 102,000 568
+16 102,001 to 104,000 575
+17 104,001 to 105,500 589
+18 _______________________________________________________________________________________
+19
+20 (B) The registration fee for motor vehicles that are certified under ORS 822.205, unless the mo-
+21 tor vehicles are registered under paragraph (a) of this subsection, or that are used exclusively to
+22 transport manufactured structures, is as provided in the following chart:
+23 _______________________________________________________________________________________
+24
+25 Weight in Pounds Fee
+26 8,000 or less $ 63
+27 8,001 to 10,000 145
+28 10,001 to 12,000 173
+29 12,001 to 14,000 187
+30 14,001 to 16,000 217
+31 16,001 to 18,000 231
+32 18,001 to 20,000 260
+33 20,001 to 22,000 274
+34 22,001 to 24,000 304
+35 24,001 to 26,000 318
+36 26,001 to 28,000 346
+37 28,001 to 30,000 362
+38 30,001 to 32,000 391
+39 32,001 to 34,000 405
+40 34,001 to 36,000 435
+41 36,001 to 38,000 449
+42 38,001 to 40,000 477
+43 40,001 to 42,000 491
+44 42,001 to 44,000 521
+45 44,001 to 46,000 535
+[14]
+
+HB 4063
+1 46,001 to 48,000 550
+2 48,001 to 50,000 578
+3 50,001 to 52,000 608
+4 52,001 to 54,000 622
+5 54,001 to 56,000 636
+6 56,001 to 58,000 665
+7 58,001 to 60,000 694
+8 60,001 to 62,000 723
+9 62,001 to 64,000 753
+10 64,001 to 66,000 767
+11 66,001 to 68,000 795
+12 68,001 to 70,000 809
+13 70,001 to 72,000 839
+14 72,001 to 74,000 853
+15 74,001 to 76,000 882
+16 76,001 to 78,000 896
+17 78,001 to 80,000 926
+18 80,001 to 82,000 940
+19 82,001 to 84,000 968
+20 84,001 to 86,000 983
+21 86,001 to 88,000 1,012
+22 88,001 to 90,000 1,027
+23 90,001 to 92,000 1,055
+24 92,001 to 94,000 1,071
+25 94,001 to 96,000 1,099
+26 96,001 to 98,000 1,113
+27 98,001 to 100,000 1,127
+28 100,001 to 102,000 1,157
+29 102,001 to 104,000 1,172
+30 104,001 to 105,500 1,200
+31 _______________________________________________________________________________________
+32
+33 (C) The owner of a vehicle described in subparagraph (A) or (B) of this paragraph must certify
+34 at the time of initial registration, in a manner determined by the department by rule, that the motor
+35 vehicle will be used exclusively to transport manufactured structures or exclusively as described in
+36 ORS 822.210, unless the motor vehicle is registered under paragraph (a) of this subsection, or as
+37 described in ORS 825.015 or 825.017 (13). Registration of a vehicle described in subparagraph (A) or
+38 (B) of this paragraph is invalid if the vehicle is operated in any manner other than that described
+39 in the certification under this subparagraph.
+40 (c) Subject to paragraph (d) of this subsection, the registration fee for motor vehicles registered
+41 as farm vehicles under ORS 805.300 is as provided in the following chart, based upon the registra-
+42 tion weight given in the declaration of weight submitted under ORS 803.435:
+43 _______________________________________________________________________________________
+44
+45 Weight in Pounds Fee
+[15]
+
+HB 4063
+1 8,000 or less $ 50
+2 8,001 to 10,000 65
+3 10,001 to 12,000 75
+4 12,001 to 14,000 97
+5 14,001 to 16,000 108
+6 16,001 to 18,000 129
+7 18,001 to 20,000 141
+8 20,001 to 22,000 162
+9 22,001 to 24,000 172
+10 24,001 to 26,000 195
+11 26,001 to 28,000 204
+12 28,001 to 30,000 226
+13 30,001 to 32,000 237
+14 32,001 to 34,000 258
+15 34,001 to 36,000 270
+16 36,001 to 38,000 291
+17 38,001 to 40,000 302
+18 40,001 to 42,000 324
+19 42,001 to 44,000 334
+20 44,001 to 46,000 356
+21 46,001 to 48,000 366
+22 48,001 to 50,000 388
+23 50,001 to 52,000 399
+24 52,001 to 54,000 409
+25 54,001 to 56,000 432
+26 56,001 to 58,000 453
+27 58,001 to 60,000 463
+28 60,001 to 62,000 474
+29 62,001 to 64,000 496
+30 64,001 to 66,000 517
+31 66,001 to 68,000 528
+32 68,001 to 70,000 540
+33 70,001 to 72,000 561
+34 72,001 to 74,000 571
+35 74,001 to 76,000 594
+36 76,001 to 78,000 604
+37 78,001 to 80,000 625
+38 80,001 to 82,000 636
+39 82,001 to 84,000 657
+40 84,001 to 86,000 669
+41 86,001 to 88,000 690
+42 88,001 to 90,000 700
+43 90,001 to 92,000 723
+44 92,001 to 94,000 733
+45 94,001 to 96,000 754
+[16]
+
+HB 4063
+1 96,001 to 98,000 765
+2 98,001 to 100,000 787
+3 100,001 to 102,000 798
+4 102,001 to 104,000 819
+5 104,001 to 105,500 831
+6 _______________________________________________________________________________________
+7
+8 (d) For any vehicle that is registered under a quarterly registration period, the registration fee
+9 is a minimum of $15 for each quarter registered plus an additional fee of $2.
+10 (15) The registration and renewal fees for vehicles specified in this subsection that are required
+11 to establish a registration weight under ORS 803.430 or 826.013 are as follows:
+12 (a) State-owned vehicles registered under ORS 805.045, $10.
+13 (b) Undercover vehicles registered under ORS 805.060, $10.
+14 SECTION 7. Section 8 of this 2026 Act is added to and made a part of the Oregon Vehicle
+15 Code.
+16 SECTION 8. (1) A person commits the offense of unlawfully operating a Kei truck on a
+17 highway if the person operates a Kei truck on a highway that has a speed limit or posted
+18 speed that is greater than 65 miles per hour.
+19 (2) The offense described in this section, unlawfully operating a Kei truck on a highway,
+20 is a Class B traffic violation.
+21 SECTION 9. ORS 815.075 is amended to read:
+22 815.075. (1) A person commits the offense of selling vehicles or equipment that violates state
+23 equipment administrative rules if the person sells or offers for sale any vehicle or sells or offers for
+24 sale for use upon a vehicle or uses on any vehicle any equipment if the vehicle or equipment:
+25 (a) Does not conform to standards established by the Department of Transportation by rule un-
+26 der ORS 815.030; and
+27 (b) Does not bear thereon proof of certification that it complies with the applicable standards.
+28 (2) Proof of certification required under this section may be made in any manner provided under
+29 ORS 815.030.
+30 (3) This section is subject to the following exemptions in addition to any exemptions under ORS
+31 801.026:
+32 (a) Vehicles of special interest that are registered under ORS 805.020 are deemed to comply with
+33 this section if:
+34 (A) The vehicles are equipped with original manufacturer’s equipment and accessories, or their
+35 equivalent, and are maintained in safe operating order; or
+36 (B) The vehicles are street rods that conform to ORS 815.107.
+37 (b) Road machinery, road rollers, implements of husbandry, farm trailers and farm tractors are
+38 not subject to this section.
+39 (c) Antique vehicles are not subject to this section if the vehicles are maintained as collectors’
+40 items and used for exhibitions, parades, club activities and similar uses, but not used primarily for
+41 the transportation of persons or property.
+42 (d) Racing activity vehicles and Kei trucks are not subject to this section.
+43 (4) The offense described under this section, selling vehicles or equipment that violates state
+44 equipment administrative rules, is a Class D traffic violation.
+45 SECTION 10. ORS 815.105 is amended to read:
+[17]
+
+HB 4063
+1 815.105. This section establishes exemptions from ORS 815.030 and 815.100. Exemptions under
+2 this section are in addition to any exemptions under ORS 801.026. Exemptions under this section are
+3 partial or complete as described in the following:
+4 (1) Vehicles of special interest that are registered under ORS 805.020 are deemed to comply with
+5 ORS 815.030 and 815.100 if:
+6 (a) The vehicles are equipped with original manufacturer’s equipment and accessories, or their
+7 equivalent, and are maintained in safe operating condition; or
+8 (b) The vehicles are street rods that conform to ORS 815.107.
+9 (2) Road machinery, road rollers, implements of husbandry, farm trailers and farm tractors are
+10 exempt from ORS 815.030 and 815.100.
+11 (3) Antique vehicles are exempt from ORS 815.030 and 815.100 if the vehicles are maintained as
+12 collectors’ items and used for exhibitions, parades, club activities and similar uses, but not used
+13 primarily for the transportation of persons or property.
+14 (4) Motorized wheelchairs are exempt from ORS 815.030 and 815.100 when used as permitted
+15 under ORS 811.440.
+16 (5) Racing activity vehicles and Kei trucks are exempt from ORS 815.030 and 815.100.
+17 SECTION 11. ORS 815.109 is amended to read:
+18 815.109. [A] Racing activity [vehicle is] vehicles and Kei trucks are exempt from vehicle
+19 equipment requirements under ORS 815.040, 815.075, 815.250, 815.295 and 815.310 if all of the fol-
+20 lowing apply:
+21 (1) The vehicle is equipped with original manufacturer’s equipment and accessories or their
+22 equivalent; and
+23 (2) The vehicle is maintained in safe operating condition.
+24 SECTION 12. ORS 815.300 is amended to read:
+25 815.300. This section establishes exemptions from the requirements under ORS 815.295 to be
+26 equipped with a certified pollution control system. Exemptions established by this section are in
+27 addition to any exemptions established by ORS 801.026. The exemptions established in this section
+28 are also applicable to requirements for certification of pollution control equipment before registra-
+29 tion under ORS 803.350 and 803.465. All of the following vehicles are exempt from the requirements
+30 under ORS 815.295:
+31 (1) Any vehicle that is not a motor vehicle.
+32 (2) Any vehicle unless the vehicle is registered within:
+33 (a) The boundaries of the metropolitan service district formed under ORS chapter 268 for the
+34 metropolitan area, as defined in ORS 268.020, which includes the City of Portland, Oregon.
+35 (b) Boundaries designated by the Environmental Quality Commission under ORS 468A.390.
+36 (3) Any new motor vehicle or new motor vehicle engine when the registration results from the
+37 initial retail sale thereof.
+38 (4) Any motor vehicle:
+39 (a) Not registered in areas designated under subsection (2)(a) of this section, including any ex-
+40 pansion of such boundary under subsection (2)(b) of this section, with a model year that predates
+41 by more than 20 years the year in which registration or renewal of registration is required; or
+42 (b) Registered in areas designated under subsection (2)(a) of this section, including any expan-
+43 sion of such boundary under subsection (2)(b) of this section, with a model year of 1974 or earlier.
+44 (5) Motor vehicles that are registered as farm vehicles under ORS 805.300 or apportioned farm
+45 vehicles under ORS 805.300.
+[18]
+
+HB 4063
+1 (6) Special interest vehicles that are maintained as collectors’ items and used for exhibitions,
+2 parades, club activities and similar uses but not used primarily for the transportation of persons or
+3 property.
+4 (7) Fixed load vehicles.
+5 (8) Vehicles that are proportionally registered under ORS 826.009 and 826.011 in accordance
+6 with agreements established under ORS 826.007.
+7 (9) Electric motor vehicles. This subsection does not exempt hybrid motor vehicles that use
+8 electricity and another source of motive power.
+9 (10) First response rescue units operated by political subdivisions of this state that are not used
+10 to transport persons who are ill or injured or who have disabilities.
+11 (11) A vehicle that is currently registered in Oregon at the time application for new registration
+12 is received by the Department of Transportation if the new registration is a result of a change in
+13 the registration or plate type and the application is received at least four months prior to the ex-
+14 piration of the existing registration.
+15 (12) Golf carts.
+16 (13) Any Class I, Class II, Class III or Class IV all-terrain vehicle.
+17 (14) An original equipment manufacturer vehicle that is engineered, designed, produced and
+18 warranted to use natural gas as its only fuel source.
+19 (15) Racing activity vehicles.
+20 (16) Kei trucks.
+21 SECTION 13. ORS 468A.350 is amended to read:
+22 468A.350. As used in ORS 468A.350 to 468A.400:
+23 (1) “Certified system” means a motor vehicle pollution control system for which a certificate of
+24 approval has been issued under ORS 468A.365 (3).
+25 (2) “Factory-installed system” means a motor vehicle pollution control system installed by the
+26 manufacturer which meets criteria for emission of pollutants in effect under federal laws and regu-
+27 lations applicable on September 9, 1971, or which meets criteria adopted pursuant to ORS 468A.365
+28 (1), whichever criteria are stricter.
+29 (3) “Motor vehicle” includes any self-propelled vehicle used for transporting persons or com-
+30 modities on public roads and highways but does not include a vehicle of special interest as that term
+31 is defined in ORS 801.605, if the vehicle is maintained as a collector’s item and used for exhibitions,
+32 parades, club activities and similar uses but not used primarily for the transportation of persons or
+33 property, [or] a racing activity vehicle as defined in ORS 801.404 or Kei truck as defined in sec-
+34 tion 2 of this 2026 Act.
+35 (4) “Motor vehicle pollution control system” means equipment designed for installation on a
+36 motor vehicle for the purpose of reducing the pollutants emitted from the vehicle, or a system or
+37 engine adjustment or modification which causes a reduction of pollutants emitted from the vehicle.
+38 SECTION 14. ORS 646.913 is amended to read:
+39 646.913. (1) Except as provided in subsection (4) of this section, a wholesale dealer, retail dealer
+40 or nonretail dealer may not sell gasoline or offer gasoline for sale unless the gasoline contains at
+41 least 10 percent denatured fuel ethanol by volume. Gasoline that contains anhydrous ethanol in
+42 concentrations of at least 9.2 percent by volume complies with the requirement set forth in this
+43 subsection.
+44 (2) The State Department of Agriculture shall adopt standards for gasoline blended with ethanol
+45 that is sold in this state. The standards that the department adopts shall require that the gasoline
+[19]
+
+HB 4063
+1 blended with ethanol:
+2 (a) Contains ethanol that is derived from agricultural or woody waste or residue;
+3 (b) Complies with the volatility requirements specified in 40 C.F.R. part 1090;
+4 (c) Complies with ASTM International specification D 4814, Standard Specification for Automo-
+5 tive Spark-Ignition Engine Fuel;
+6 (d) Is not blended with casinghead gasoline, absorption gasoline, drip gasoline or natural gaso-
+7 line after the gasoline has been sold, transferred or otherwise removed from a refinery or terminal;
+8 and
+9 (e) Contains denatured fuel ethanol that complies with ASTM International specification D 4806,
+10 Standard Specification for Denatured Fuel Ethanol for Blending with Gasolines for Use as Automo-
+11 tive Spark-Ignition Engine Fuel.
+12 (3) The department may review specifications adopted by ASTM International, or equivalent
+13 organizations, and federal regulations and revise the standards adopted under this section as nec-
+14 essary.
+15 (4) A wholesale dealer, retail dealer or nonretail dealer may sell or offer for sale gasoline that
+16 is not blended with ethanol if the gasoline has an octane rating, as defined in ORS 646.945, of 91
+17 or above or if the gasoline is for use in:
+18 (a) An aircraft:
+19 (A) With a supplemental type certificate approved by the Federal Aviation Administration that
+20 allows the aircraft to use gasoline that is intended for use in motor vehicles; or
+21 (B) Issued a type certificate by an aircraft engine manufacturer that allows the aircraft to use
+22 gasoline that is intended for use in motor vehicles;
+23 (b) An aircraft that has been issued an experimental certificate, as described in 14 C.F.R. 21.191,
+24 by the Federal Aviation Administration and for which the manufacturer’s specifications require the
+25 use of gasoline that is intended for use in motor vehicles;
+26 (c) A light-sport aircraft, as defined in 14 C.F.R. 1.1, for which the manufacturer’s specifications
+27 require the use of gasoline that is intended for use in motor vehicles;
+28 (d) A vintage aircraft, as defined by the Oregon Department of Aviation by rule, for which the
+29 manufacturer’s specifications require the use of gasoline that is intended for use in motor vehicles;
+30 (e) An antique vehicle, as defined in ORS 801.125;
+31 (f) A Class I all-terrain vehicle, as defined in ORS 801.190;
+32 (g) A Class III all-terrain vehicle, as defined in ORS 801.194;
+33 (h) A Class IV all-terrain vehicle, as defined in ORS 801.194 (2);
+34 (i) A racing activity vehicle, as defined in ORS 801.404;
+35 (j) A snowmobile, as defined in ORS 801.490;
+36 (k) Tools, including but not limited to lawn mowers, leaf blowers and chain saws; [or]
+37 (L) A watercraft; or
+38 (m) A Kei truck, as defined in section 2 of this 2026 Act.
+39
+[20]
+
+[DELETED:  B 4 b R O S B R S P H R B B B C D E E H L B M M N N O R S S W Y c b t L A I i a e b s o t e f o t.T.A t K t c n p a a O 4 6 8.S.“S8:M[]]
+[DELETED: B4 I t v i c b a O t o s t U t d a r t t c i t v b t o j i I r b t d t a m s p o o a d O t a r a v [] o K t i t d d i O 8 h r t b a v w n c b t o m a c t f v s t d m r t a t p p U t v i e f o d r t a s a a o d f T d s d w c o t v r a T d m a a r i c n f t a o s ( T D o T s n i t f a v d i E a p i s ( o t s t r o o a p i r t r t t d u O 8 8 8 A v i t d h r n t t v h b o w b]
+[DELETED: B4)R O t a r a[] O u a a t p t a p o t o f i t b r i e t e t r f f t v a t s a f o v t d E a o p i t s o u t v i r q v a d a a f u t s t r t n o q r A r o l c a d i O 2 t e t i r ]
+[DELETED: B4 T o c o 1 f i l $ p $0f T r f f t r a p o a f u a a o t s t r u s f a t f f v o t s 8 a c b i a p i t f c b u t wsF0orls$7]
+[DELETED: B41to1041to1051to1051to1061to1071to2081to2081to2091to2011to2031to3031to3041to3041to3041to3041to4051to4051to4051to4051to4051to5061to5061to5061to5061to5071to6071to6071to6081to6081to6081to7081to7091to7091to7091to7091to8091to8011to8011to8011to8011to9011to9011to9011to9011to901]
+[DELETED: B41to1011to1011to1011to101 T r f f m v w a r w o m t 8sF1to10$71to1081to1091to1011to1011to2011to2011to2011to2011to2011to3011to3011to3011to3021to3021to4021to4021to4021to4021to4021to5021to5021to5031to5031to5031to6031to6031to6031to6031to6031to7031to7041to704]
+[DELETED: B41to7041to7041to8041to8041to8041to8041to8041to9051to9051to9051to9051to9051to1051to1051to1051to105 v a r u p ( o t s o t a u e tsF0orls$61to1011to1011to1011to1021to1021to2021to2021to2031to2031to2031to3031to3031to3041to3041to3041to4041to4041to4051to4051to405]
+[DELETED: B41to5051to5061to5061to5061to5061to6061to6071to6071to6071to6071to7081to7081to7081to7081to7081to8091to8091to8091to8091to8011to9011to9011to9011to9011to9011to1011to1011to1011to101 u t m v i r u p ( o t s o a o t psF0orls$5]
+[DELETED: B41to1061to1071to1091to1011to1011to2011to2011to2011to2011to2021to3021to3021to3021to3021to3021to4031to4031to4031to4031to4031to5031to5031to5041to5041to5041to6041to6041to6041to6051to6051to7051to7051to7051to7051to7061to8061to8061to8061to8061to8061to9071to9071to9071to9071to907]
+[DELETED: B41to1071to1071to1081to108 6 I B M _ ( ( p o c 1 O L 2 s t e t r f f t v a t s a f o v t d E a o p i t s o u t v i r q v a d a a f u t s t r t n o q r A r o l c a d i O 2 t e t i r ]
+[DELETED: B4 T o c o 1 f i l $ p $0f T r f f t r a p o a f u a a o t s t r u s f a t f f v o t s 8 a c b i a p i t f c b u t wsF]
+[DELETED: B40orls$71to1041to1051to1051to1061to1071to2081to2081to2091to2011to2031to3031to3041to3041to3041to3041to4051to4051to4051to4051to4051to5061to5061to5061to5061to5071to6071to6071to6081to6081to6081to7081to7091to7091to7091to7091to8091to8011to8011to8011to8011to9011to9011to9011to901]
+[DELETED: B41to9011to1011to1011to1011to101 T r f f m v w a r w o m t 8sF1to10$71to1081to1091to1011to1011to2011to2011to2011to2011to2011to3011to3011to3011to3021to3021to4021to4021to4021to4021to4021to5021to5021to5031to5031to5031to6031to6031to6031to6031to6031to7031to704]
+[DELETED: B41to7041to7041to7041to8041to8041to8041to8041to8041to9051to9051to9051to9051to9051to1051to1051to1051to105 v a r u p ( o t s o t a u e tsF0orls$61to1011to1011to1011to1021to1021to2021to2021to2031to2031to2031to3031to3031to3041to3041to3041to4041to4041to4051to405]
+[DELETED: B41to4051to5051to5061to5061to5061to5061to6061to6071to6071to6071to6071to7081to7081to7081to7081to7081to8091to8091to8091to8091to8011to9011to9011to9011to9011to9011to1011to1011to1011to101 u t m v i r u p ( o t s o a o t psF]
+[DELETED: B40orls$51to1061to1071to1091to1011to1011to2011to2011to2011to2011to2021to3021to3021to3021to3021to3021to4031to4031to4031to4031to4031to5031to5031to5041to5041to5041to6041to6041to6041to6051to6051to7051to7051to7051to7051to7061to8061to8061to8061to8061to8061to9071to9071to9071to907]
+[DELETED: B41to9071to1071to1071to1081to108.S.( i t p o a K t o a ( A p c t o o s v o e t v sS8 T o d u t s s v o e t v s]
+[DELETED: B4 T s e e f O 8 a 8 E u i a u f e p c a a s u b n u M w a e f O 8 a 8 w u a p [] R a [] v a K t a e f vv i r u O 8 8 8 8 a 8 i a o t fga T v i e w o m e a a o t;a T s e e f t r u O 8 t b w a c p c s E e b t s a i i t s a T b o t m s d f u O c 2 f t o s b u s ( o t s w a m y t p s ( o t s i a e]
+[DELETED: B4 S i v t a m a c i a u f e V t a p r u O 8 a 8 i a E m v T s d n e h m v t u r b t D o T f m p t t e A o e m v t i e d p a s m a m v p c s i b t “ v i a s v u f t p o c[] “ v p c s m e d f i o  v f t p o r t p e f t v o a s o f s u t g c a 1 p d f e b v.G t c a e i o a l 9 p b v c w t r s f i t]
+[DELETED: B4 T d m r s a b A I o e a f r a r t s a u t s a n e i t g h a o r a d i O 6 o 9[]

@@ -1,0 +1,805 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4140
+Sponsored by Representative WALLAN, Senators PROZANSKI, ANDERSON; Representatives LEWIS, LIVELY,
+MARSH (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates a new crime about selling or trading scrap metal without being regis-
+tered as a scrap metal seller. The Act adds new requirements for scrap metal businesses. (Flesch
+Readability Score: 60.8).
+Modifies the crime of criminal mischief in the first degree by expanding the types of telecom-
+munications entities whose property may be subject to ORS 164.365.
+Prohibits certain individuals from selling or trading nonferrous metal property or commercial
+metal property to a scrap metal business unless the individual is registered as a scrap metal seller
+with the Department of Justice. Punishes by a maximum of 364 days’ imprisonment, $6,250 fine, or
+both. Specifies exemptions. Requires the department to establish a scrap metal seller registration
+database.
+Requires scrap metal businesses to sign up with a national scrap metal theft alert system and
+use the system in conducting business activity. Requires scrap metal businesses to check that indi-
+viduals are registered as scrap metal sellers before completing a transaction.
+1 A BILL FOR AN ACT
+2 Relating to metal property; creating new provisions; and amending ORS 161.005, 164.365 and 165.117.
+3 Be It Enacted by the People of the State of Oregon:
+4
+5 CHANGES TO CRIMINAL MISCHIEF
+6
+7 SECTION 1. ORS 164.365 is amended to read:
+8 164.365. (1) A person commits the crime of criminal mischief in the first degree who, with intent
+9 to damage property, and having no right to do so nor reasonable ground to believe that the person
+10 has such right:
+11 (a) Damages or destroys property of another:
+12 (A) In an amount exceeding $1,000;
+13 (B) By means of an explosive;
+14 (C) By starting a fire in an institution while the person is committed to and confined in the in-
+15 stitution;
+16 (D) Which is a livestock animal as defined in ORS 164.055;
+17 (E) Which is the property of a public utility, telecommunications [carrier] provider, railroad,
+18 public transportation facility or medical facility used in direct service to the public; or
+19 (F) By intentionally interfering with, obstructing or adulterating in any manner the service of
+20 a public utility, telecommunications [carrier] provider, railroad, public transportation facility or
+21 medical facility; or
+22 (b) Intentionally uses, manipulates, arranges or rearranges the property of a public utility,
+23 telecommunications [carrier] provider, railroad, public transportation facility or medical facility
+24 used in direct service to the public so as to interfere with its efficiency.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 52
+HB 4140
+1 (2) As used in subsection (1) of this section:
+2 (a) “Institution” includes state and local correctional facilities, mental health facilities, juvenile
+3 detention facilities and state training schools.
+4 (b) “Medical facility” means a health care facility as defined in ORS 442.015, a licensed
+5 physician’s office or anywhere a licensed medical practitioner provides health care services.
+6 (c) “Public utility” has the meaning provided for that term in ORS 757.005 and includes any
+7 cooperative, people’s utility district or other municipal corporation providing an electric, gas, water
+8 or other utility service.
+9 (d) “Railroad” has the meaning provided for that term in ORS 824.020.
+10 (e) “Public transportation facility” means any property, structure or equipment used for or in
+11 connection with the transportation of persons for hire by rail, air or bus, including any railroad
+12 cars, buses or airplanes used to carry out such transportation.
+13 (f) [“Telecommunications carrier” has the meaning given that term in ORS 133.721.] “Telecom-
+14 munications provider” has the meaning given that term in ORS 184.911.
+15 (3) Criminal mischief in the first degree is a Class C felony.
+16
+17 SCRAP METAL THEFT ALERT SYSTEM
+18
+19 SECTION 2. Sections 3 to 9 of this 2026 Act are added to and made a part of ORS 165.116
+20 to 165.124.
+21 SECTION 3. (1) A law enforcement agency may:
+22 (a) Register with the scrap metal theft alert system maintained and provided at no
+23 charge to users by the Recycled Materials Association, or its successor organization, or an
+24 equivalent scrap metal theft alert system described in administrative rule by the Department
+25 of Justice; and
+26 (b) Report thefts of metal property to the system that occur within the geographic area
+27 over which the law enforcement agency has jurisdiction.
+28 (2) The department may adopt rules necessary to administer the provisions of this sec-
+29 tion.
+30 SECTION 4. A scrap metal business shall:
+31 (1) Register with or subscribe to a scrap metal theft alert system described in section 3
+32 of this 2026 Act to receive alerts regarding thefts of metal property in the relevant ge-
+33 ographic area;
+34 (2) Maintain the registration or subscription;
+35 (3) On a daily basis, download the scrap metal theft alerts generated by the system;
+36 (4) Use the scrap metal theft alerts in conducting all applicable business activity to
+37 identify metal property that may be the subject of theft; and
+38 (5) Maintain a copy of any scrap metal theft alert for a minimum of 90 days following the
+39 date the alert was downloaded under this section.
+40
+41 SCRAP METAL SELLER REGISTRATION
+42
+43 SECTION 5. (1)(a) An individual may not sell, trade or contract to sell or trade
+44 nonferrous metal property or commercial metal property to a scrap metal business unless
+45 the individual is registered as a scrap metal seller with the Department of Justice under
+[2]
+HB 4140
+1 section 7 of this 2026 Act.
+2 (b) Notwithstanding paragraph (a) of this subsection, an individual not registered under
+3 section 7 of this 2026 Act may sell, trade or contract to sell or trade nonferrous metal
+4 property or commercial metal property to a scrap metal business without registering with
+5 the department if the aggregate value of the metal property sold or traded does not exceed
+6 $ within a 90-day period. The total value of metal property included in a single
+7 transaction under this paragraph may not exceed $ .
+8 (2) Violation of subsection (1) of this section is a Class A misdemeanor.
+9 SECTION 6. Section 5 of this 2026 Act does not apply to:
+10 (1) The persons described in ORS 165.124 (1)(a) to (e);
+11 (2) A person to whom a license has been issued under ORS 479.630;
+12 (3) A person to whom a journeyman plumber license has been issued under ORS 693.030;
+13 (4) A person to whom a Section 608 Technician Certification has been issued by the
+14 United States Environmental Protection Agency; and
+15 (5) Any other similar persons designated by the Department of Justice by rule as a li-
+16 censed professional that regularly or periodically sells or delivers metal property to a scrap
+17 metal business in the course of the person’s applicable business activity.
+18 SECTION 7. (1) An individual is qualified to be registered as a scrap metal seller with the
+19 Department of Justice under this section if the individual:
+20 (a) Is not prohibited from selling, purchasing, receiving, trading or entering into a con-
+21 tract, agreement or pledge to sell, purchase, receive or trade metal property under state or
+22 federal law, including successfully completing a background check as described under sub-
+23 section (3) of this section;
+24 (b) Applies to the department in a form and manner prescribed by the department; and
+25 (c) Pays any fee adopted by the department by rule.
+26 (2) An application for registration under this section must state the applicant’s legal
+27 name, current address and telephone number, date and place of birth, physical description
+28 and any additional information determined necessary by department rules.
+29 (3)(a) The department shall request that the Department of State Police conduct a
+30 criminal background check to determine the eligibility of an individual to be registered under
+31 this section by reviewing state and federal databases including the:
+32 (A) Oregon computerized criminal history system;
+33 (B) Law Enforcement Data System;
+34 (C) Databases maintained by the Federal Bureau of Investigation; and
+35 (D) National Crime Information Center.
+36 (b) An individual is ineligible to be registered under this section if the individual, within
+37 five years of the criminal background check, has been convicted of:
+38 (A) A felony or misdemeanor for which an essential element is fraud; or
+39 (B) Burglary, robbery or theft.
+40 (c) For the purpose of requesting a state or nationwide criminal records check under this
+41 section, the Department of Justice may require the fingerprints of an individual who applies
+42 for registration as a scrap metal seller under this section.
+43 (4)(a) Within 30 days of receiving an application for registration as a scrap metal seller
+44 under this section, if the department has verified the information contained in the applica-
+45 tion and determined that the applicant has met each of the qualifications described in sub-
+[3]
+HB 4140
+1 section (1) of this section, the department shall register the individual as a scrap metal seller
+2 and issue proof of registration to the individual.
+3 (b) The department may refuse to register an individual as a scrap metal seller under
+4 this section or may suspend or revoke the registration if the department determines that the
+5 individual violated a provision of this section or a rule adopted by the department under
+6 section 9 of this 2026 Act.
+7 (5)(a) Registration under this section is valid for one year from the date of registration,
+8 unless revoked.
+9 (b) An individual may renew an unexpired registration by repeating the procedures set
+10 forth in subsection (1) of this section.
+11 (6) An individual registered as a scrap metal seller under this section shall:
+12 (a) Maintain a copy of the proof of registration as long as the registration is valid.
+13 (b) Present a copy of the proof of registration to a scrap metal business when required
+14 under ORS 165.117.
+15 (7) The department shall establish and maintain an electronic searchable database of all
+16 individuals registered as a scrap metal seller under this section. The department shall
+17 maintain the database by ensuring that new registrations are added to the database, renewed
+18 registrations are assigned a new expiration date and expired or revoked registrations are
+19 marked expired or revoked but maintained in the database.
+20 SECTION 8. All fees received by the Department of Justice under section 7 of this 2026
+21 Act shall be deposited in the Department of Justice Operating Account created in ORS
+22 180.180. Amounts deposited under this section are continuously appropriated to the depart-
+23 ment to carry out the provisions of sections 6, 7, 8 and 9 of this 2026 Act.
+24 SECTION 9. The Department of Justice shall adopt rules necessary to administer the
+25 provisions of sections 6, 7, 8 and 9 of this 2026 Act. The rules must:
+26 (1) Include procedures for applying for and renewing registration as a scrap metal seller
+27 under section 7 of this 2026 Act; and
+28 (2) Provide that any fee adopted by the department under section 7 (1)(c) of this 2026 Act
+29 be in an amount reasonably calculated to cover the cost of administering the provisions of
+30 sections 6, 7, 8 and 9 of this 2026 Act, not to exceed an annual total of $500 per individual.
+31 SECTION 10. ORS 165.117 is amended to read:
+32 165.117. (1) Before completing a transaction, a scrap metal business engaged in business in this
+33 state shall:
+34 (a) Create a metal property record for the transaction at the time and in the location where the
+35 transaction occurs. The record must:
+36 (A) Be accurate and written clearly and legibly in English;
+37 (B) Be entered onto a standardized printed form or an electronic form that is securely stored
+38 and is capable of ready retrieval and printing; and
+39 (C) Contain all of the following information:
+40 (i) The signature of the individual with whom the scrap metal business conducts the transaction.
+41 (ii) The time, date, location and monetary amount or other value of the transaction.
+42 (iii) The name of the employee who conducts the transaction on behalf of the scrap metal busi-
+43 ness.
+44 (iv) The name and telephone number of the individual with whom the scrap metal business
+45 conducts the transaction and a street address or, if a post office box is listed on the government-
+[4]
+HB 4140
+1 issued photo identification described in sub-subparagraph (vi) of this subparagraph, a post office box,
+2 to which the scrap metal business will mail payment to the individual.
+3 (v) The make, model year and the license plate number and state of issue of the motor vehicle
+4 or motor vehicles, if any, used to transport the individual who conducts the transaction and to
+5 transport the nonferrous metal property or private metal property that is the subject of the trans-
+6 action.
+7 (vi) A photocopy of a current, valid driver license or other government-issued photo identifica-
+8 tion belonging to the individual with whom the scrap metal business conducts the transaction.
+9 (vii) A photograph of, or video surveillance recording depicting, a recognizable facial image of
+10 the individual with whom the scrap metal business conducts the transaction.
+11 (viii) Either a photocopy of a current, valid scrap metal seller registration issued under
+12 section 7 of this 2026 Act to the individual with whom the scrap metal business conducts the
+13 transaction or a photocopy of a document demonstrating that the individual is exempt from
+14 the registration requirement under section 6 of this 2026 Act. This sub-subparagraph does
+15 not apply if the individual is not registered as a scrap metal seller under section 7 of this 2026
+16 Act and the total value of the metal property included in the transaction does not exceed
+17 $ .
+18 [(viii)] (ix) A general description of the nonferrous metal property that constitutes the predom-
+19 inant part of the transaction and a specific description of private metal property, if any, included
+20 in the transaction. The description must include any identifiable marks on the property, if readily
+21 discernible, and must specify the weight, quantity or volume of the nonferrous metal property or
+22 private metal property.
+23 [(ix)] (x) For private metal property, the vehicle identification number and a copy of the title
+24 or vehicle registration for the vehicle from which the private metal property was removed.
+25 (b) Require the individual with whom the scrap metal business conducts a transaction to sign
+26 and date a declaration printed in conspicuous type, either on the record described in this subsection
+27 or on a receipt issued to the individual with whom the scrap metal business conducts the trans-
+28 action, that states:
+29 _______________________________________________________________________________________
+30
+31 I, , AFFIRM UNDER PENALTY OF LAW THAT THE PROPERTY I AM
+32 SELLING IN THIS TRANSACTION IS NOT, TO THE BEST OF MY KNOWLEDGE, STOLEN
+33 PROPERTY.
+34 _______________________________________________________________________________________
+35
+36 (c) Require the employee of the scrap metal business who conducts the transaction on behalf
+37 of the scrap metal business to witness the individual sign the declaration, and also to sign and date
+38 the declaration in a space provided for that purpose.
+39 (d) For one year following the date of the transaction, keep a copy of the record and the signed
+40 and dated declaration described in this subsection. If the scrap metal business uses a video surveil-
+41 lance recording as part of the record kept in accordance with this subsection, the scrap metal
+42 business need not keep the video surveillance recording for one year, but shall retain the video
+43 surveillance recording for a minimum of 30 days following the date of the transaction. The scrap
+44 metal business shall at all times keep the copies at the current place of business for the scrap metal
+45 business.
+[5]
+HB 4140
+1 (2) A scrap metal business engaged in business in this state may not do any of the following:
+2 (a) Purchase or receive kegs or similar metallic containers used to store or dispense alcoholic
+3 beverages, except from a person that manufactures the kegs or containers or from a person licensed
+4 by the Oregon Liquor and Cannabis Commission under ORS 471.155.
+5 (b) Conduct a transaction with an individual if the individual does not at the time of the trans-
+6 action consent to the creation of the record described in subsection (1) of this section and produce
+7 for inspection a valid driver license or other valid government-issued photo identification that be-
+8 longs to the individual and, if applicable, either the valid scrap metal seller registration issued
+9 to the individual under section 7 of this 2026 Act or a document demonstrating that the in-
+10 dividual is exempt from the registration requirement under section 6 of this 2026 Act.
+11 (c) Conduct a transaction with an individual in which the scrap metal business pays the indi-
+12 vidual other than by electronic funds transfer, stored value card or stored value device, or by
+13 mailing a nontransferable check, made payable to the individual, for the amount of the transaction
+14 to the street address or post office box the individual provided under subsection (1)(a)(C)(iv) of this
+15 section. Payment must be made not earlier than three business days after the date of the trans-
+16 action. The check, electronic funds transfer or stored value device must be drawn on or must draw
+17 from an account that the scrap metal business maintains with a financial institution, as defined in
+18 ORS 706.008. A stored value card may be issued by a money transmission business licensed under
+19 ORS 717.200 to 717.320 or exempt from the licensing requirement under ORS 717.210.
+20 (d) Purchase metal property from a nonprofit corporation other than by electronic funds trans-
+21 fer, stored value card or stored value device, or by mailing a nontransferable check, made payable
+22 to the nonprofit corporation, for the amount of the purchase price to the business address provided
+23 under subsection (4)(a)(B) of this section. Payment must be made not earlier than three business days
+24 after the date of the purchase. The check, electronic funds transfer or stored value device must be
+25 drawn on or must draw from an account that the scrap metal business maintains with a financial
+26 institution, as defined in ORS 706.008. A stored value card may be issued by a money transmission
+27 business licensed under ORS 717.200 to 717.320 or exempt from the licensing requirement under ORS
+28 717.210.
+29 (e) Purchase private metal property from a commercial seller other than by electronic funds
+30 transfer, credit card, debit card, stored value card or stored value device or by mailing a
+31 nontransferable check, made payable to the commercial seller, for the amount of the purchase price
+32 to the business address provided under subsection (4)(a)(B) of this section. Except for an electronic
+33 funds transfer, credit card transaction or debit card transaction which can be immediate, payment
+34 must be made not earlier than three business days after the date of the purchase. The check,
+35 electronic funds transfer, credit card, debit card or stored value device must be drawn on or must
+36 draw from an account that the scrap metal business maintains with a financial institution, as defined
+37 in ORS 706.008. A stored value card may be issued by a money transmission business licensed under
+38 ORS 717.200 to 717.320 or exempt from the licensing requirement under ORS 717.210.
+39 (f) Cash or release a check issued in payment for a transaction or for a purchase described in
+40 paragraph (c), (d) or (e) of this subsection other than as provided in this paragraph or paragraph (c),
+41 (d) or (e) of this subsection. If a check is not delivered to the intended recipient within 10 days of
+42 the date of the transaction or the purchase, the scrap metal business may release the check directly
+43 to the individual or commercial seller with the written approval of a law enforcement agency having
+44 jurisdiction over the scrap metal business. If a check is returned as undelivered or undeliverable,
+45 the scrap metal business shall:
+[6]
+HB 4140
+1 (A) Release the check directly to the individual or commercial seller with the written approval
+2 of a law enforcement agency having jurisdiction over the scrap metal business; or
+3 (B) Retain the check until the individual or commercial seller to which the check was mailed
+4 provides a valid address in accordance with subsection (1)(a)(C)(iv) or (4)(a)(B) of this section. If af-
+5 ter 30 days following the date of the transaction or the purchase described in paragraph (c), (d) or
+6 (e) of this subsection the individual or commercial seller fails to provide a valid address, the scrap
+7 metal business may cancel the check and the individual or commercial seller shall forfeit to the
+8 scrap metal business the amount due as payment.
+9 (g) Purchase or receive private metal property, except from:
+10 (A) A commercial seller; or
+11 (B) An individual who is the owner of the vehicle from which the private metal property was
+12 removed and who provides the information required under subsection (1)(a)(C) of this section.
+13 (h) Conduct a transaction with an individual at a time that the scrap metal business is
+14 out of compliance with the requirements described in section 4 of this 2026 Act.
+15 (3) If a scrap metal business obtains the approval of a law enforcement agency under subsection
+16 (2)(f) of this section, the scrap metal business shall retain the written approval for one year follow-
+17 ing the date the approval is received.
+18 (4) Before purchasing or receiving metal property from a commercial seller, a scrap metal busi-
+19 ness shall:
+20 (a) Create and maintain a commercial account with the commercial seller. As part of the com-
+21 mercial account, the scrap metal business shall enter accurately, clearly and legibly in English onto
+22 a standardized printed form, or an electronic form that is securely stored and is capable of ready
+23 retrieval and printing, the following information:
+24 (A) The full name of the commercial seller;
+25 (B) The business address and telephone number of the commercial seller; and
+26 (C) The full name of each employee, agent or other individual the commercial seller authorizes
+27 to receive payment for metal property from the scrap metal business.
+28 (b) Create a metal property record as part of the commercial account at the time and in the
+29 location that the scrap metal business purchases or receives metal property from a commercial
+30 seller that contains the following information:
+31 (A) The time, date and location at which the scrap metal business purchased or received the
+32 metal property;
+33 (B) The printed name and signature or electronic signature of the employee who conducted the
+34 purchase or receipt on behalf of the scrap metal business;
+35 (C) The printed name and signature or electronic signature of the individual or individuals who
+36 conducted the purchase or receipt of the metal property on behalf of the commercial seller and of
+37 the individual or individuals who delivered the metal property on behalf of the commercial seller to
+38 the scrap metal business, if different;
+39 (D) A photocopy of a valid driver license or other valid government-issued photo identification
+40 belonging to the individual or individuals who conducted the purchase or receipt of the metal
+41 property on behalf of the commercial seller and of the individual or individuals who delivered the
+42 metal property on behalf of the commercial seller to the scrap metal business, if different;
+43 (E) The monetary amount or other value of the metal property;
+44 (F) A description of the type of metal property that constitutes the predominant part of the
+45 purchase or receipt;
+[7]
+HB 4140
+1 (G) For private metal property sold or transferred by a commercial seller other than a
+2 dismantler, the following information for the vehicle from which the private metal property was re-
+3 moved:
+4 (i) The make, model year, vehicle identification number and, if available, the license plate num-
+5 ber and issuing state shown on the license plate; and
+6 (ii) The date that the commercial seller removed the private metal property; and
+7 (H) For private metal property sold or transferred by a dismantler, the stock or yard number
+8 or numbers assigned to the private metal property by the dismantler under ORS 822.137.
+9 (c) Require all signatories to the metal property record to declare the accuracy of the informa-
+10 tion contained in the record by including on the metal property record in conspicuous type, “I AF-
+11 FIRM BY MY SIGNATURE THAT UNDER PENALTY OF LAW THAT THE INFORMATION I
+12 PROVIDED AND REFLECTED ON THIS FORM IS TRUE AND ACCURATE.”
+13 (5) A scrap metal business may require an individual from whom the business obtains metal
+14 property to provide the individual’s thumbprint to the scrap metal business.
+15 (6) A scrap metal business shall make all records and accounts required to be maintained under
+16 this section available to any peace officer on demand.
+17 (7)(a) Except as otherwise provided in ORS 165.118, violation of this section is a specific fine
+18 violation, and the presumptive fine for the violation is $1,000.
+19 (b) Notwithstanding paragraph (a) of this subsection, the presumptive fine for a violation of a
+20 provision of this section is $5,000 if the scrap metal business has at least three previous convictions
+21 for violations of a provision of this section.
+22 SECTION 11. ORS 161.005 is amended to read:
+23 161.005. ORS 161.005 to 161.055, 161.065, 161.085 to 161.125, 161.150 to 161.175, 161.190 to
+24 161.275, 161.290 to 161.373, 161.405 to 161.485, 161.505 to 161.585, 161.605, 161.615 to 161.685, 161.705
+25 to 161.737, 162.005, 162.015 to 162.035, 162.055 to 162.115, 162.135 to 162.205, 162.225 to 162.375,
+26 162.405 to 162.425, 162.465, 163.005, 163.095, 163.107, 163.115, 163.125 to 163.145, 163.149, 163.160 to
+27 163.208, 163.191, 163.196, 163.215 to 163.257, 163.261, 163.263, 163.264, 163.266, 163.275, 163.285,
+28 163.305 to 163.467, 163.429, 163.432, 163.433, 163.472, 163.505 to 163.575, 163.665 to 163.693, 163.700,
+29 163.701, 163.715, 163.720, 164.005, 164.015 to 164.135, 164.138, 164.140, 164.205 to 164.270, 164.305 to
+30 164.377, 164.395 to 164.415, 164.805, 164.857, 164.886, 165.002 to 165.102, 165.109, 165.118, 165.805,
+31 165.815, 166.005 to 166.095, 166.119, 166.125, 166.128, 166.350, 166.382, 166.384, 166.660, 167.002 to
+32 167.027, 167.057, 167.060 to 167.100, 167.117, 167.122 to 167.162, 167.203 to 167.252, 167.310 to 167.340,
+33 167.350, 167.810 and 167.820 and section 5 of this 2026 Act shall be known and may be cited as
+34 Oregon Criminal Code of 1971.
+35
+36 APPLICABILITY
+37
+38 SECTION 12. Section 5 of this 2026 Act and the amendments to ORS 164.365 and 165.117
+39 by sections 1 and 10 of this 2026 Act apply to conduct occurring on or after the effective date
+40 of this 2026 Act.
+41
+42 CAPTIONS
+43
+44 SECTION 13. The unit captions used in this 2026 Act are provided only for the conven-
+45 ience of the reader and do not become part of the statutory law of this state or express any
+[8]
+HB 4140
+1 legislative intent in the enactment of this 2026 Act.
+2
+[9]
+[DELETED:  B 4 b R W S P A R L L c b t L A I i a e b s o t e f o t.T T A c a a s m s T A a n r f s m b ( t c o c m i t f d b e t t c i f s o t n m p o c f o S e R t d t e a s m s r s m t a s a W i t p o a p u t [] p r B i i w o o a i a p u t [] p r p t f o I u m a o r t p o a p u [] p r p t f o m f:M[]]
+[DELETED: B4 “ f m a h c f a d i O 4 a l “ u h t m p f t t i O 7 a i a “ t f m a p s o e u f o i w t t o p f h b r a o b i a r [] “ c h t m g t.S.( R w t s m t a s m a p a n.A t 2 A t r a r t o m p i t r gca U t s m t a i c a a b a t 5.( A i m n s t o c t s o t m p o c m p i i r a a s m s w t D o J u]
+[DELETED: B4 7 o t 2 A m s t o c t s o t n m o c m p t $.S A p t w a S 6 T C h b i b t t D o J b r a a l.( i s c a b c a d u s A a f r u t s m s t a l a p o b p d T d s r t t D o S P c ]
+[DELETED: B4 T d m r t r a i a a s m s u v a p o t s o a r a b t d u A i m r a u r a a s m s u t s T d s a a a n e d a e o r r a.A s b d i t D o J O A c i O Asd 9.T D o J s a r n t a t B e o a s p f o a e f t i s s T n a t n o t i w w t s m b s a o i a p o b i l o t g]
+[DELETED: B4 m v i a u t t t i w c t t a t t n m A p o r u s 6 o t 2 A T s d a t t v o t m p i i t t d] p o t t a a s d o p m p i a m i a i m o t p i r a m s t w q o v o t n m p o] ( F p m p t v i n a a c o t t t i w w t s m b c a t t s o a r i t t i w w t s m b c t t , I T T I N T T B O M K S R t e o t s m b w c t t o b r a p o t r k i a w t s t s m n n k t v s r f o y b s r t v r f a m o 3 d f t d o t t T s]
+[DELETED: B4 o d a i a v d l o o v g p i t b C a t w a i i w t s m b p t i o t b e f t s v c o s v d o b P m b m n e t t b d a t d o t t i.A f a a t t s m b m w a f.A P p m p f a c s o t b e f c c d c s v c o s v d o b m  c b i p b m n e t t b d a t d o t p.T c o t s m b I a c i r a u o u]
+[DELETED: B4 R t c u t i o c s t w t c b m c t c a t i o c s s f t t A i w i t o o t v f w t p m s p f o a e f t i s s a i C a m p r a p o t c a a t t a i t t t s m b p o r m p f a c T t d a l a w t s m b p o r tlp t p o t t i o i w c t p o r o t m o t i o i w d t A d o t t o m p t c t p p o t]
+[DELETED: B4 F p m p s o t b a c s o t  F p m p s o t b a d t s o y n B M S T U P O L T T I  A s m b m r a i f w t b o m E a o p i O 1 v o t s i a s f N p ( o t s t p f f a v o  O 1 t 1 1 1 t 1 1 t 1 1 t 1 1 1 t 1 1 t 1 1 t 1 1 t 1 1 1 1 t 1 1 1 1 1 1 1 1 t 1 1 1 1 1 t 1 1 1 1 1 t 1 1 1 1 1 1 1 1 1 t 1 s b k a m b c a.S.T]
+[DELETED: B4]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4140
+Sponsored by Representative WALLAN, Senators PROZANSKI, ANDERSON; Representatives LEWIS, LIVELY,
+MARSH (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act creates a new crime about selling or trading scrap metal without being regis-
+tered as a scrap metal seller. The Act adds new requirements for scrap metal businesses. (Flesch
+Readability Score: 60.8).
+Modifies the crime of criminal mischief in the first degree by expanding the types of telecom-
+munications entities whose property may be subject to ORS 164.365.
+Prohibits certain individuals from selling or trading nonferrous metal property or commercial
+metal property to a scrap metal business unless the individual is registered as a scrap metal seller
+with the Department of Justice. Punishes by a maximum of 364 days’ imprisonment, $6,250 fine, or
+both. Specifies exemptions. Requires the department to establish a scrap metal seller registration
+database.
+Requires scrap metal businesses to sign up with a national scrap metal theft alert system and
+use the system in conducting business activity. Requires scrap metal businesses to check that indi-
+viduals are registered as scrap metal sellers before completing a transaction.
+1 A BILL FOR AN ACT
+2 Relating to metal property; creating new provisions; and amending ORS 161.005, 164.365 and 165.117.
+3 Be It Enacted by the People of the State of Oregon:
+4
+5 CHANGES TO CRIMINAL MISCHIEF
+6
+7 SECTION 1. ORS 164.365 is amended to read:
+8 164.365. (1) A person commits the crime of criminal mischief in the first degree who, with intent
+9 to damage property, and having no right to do so nor reasonable ground to believe that the person
+10 has such right:
+11 (a) Damages or destroys property of another:
+12 (A) In an amount exceeding $1,000;
+13 (B) By means of an explosive;
+14 (C) By starting a fire in an institution while the person is committed to and confined in the in-
+15 stitution;
+16 (D) Which is a livestock animal as defined in ORS 164.055;
+17 (E) Which is the property of a public utility, telecommunications [carrier] provider, railroad,
+18 public transportation facility or medical facility used in direct service to the public; or
+19 (F) By intentionally interfering with, obstructing or adulterating in any manner the service of
+20 a public utility, telecommunications [carrier] provider, railroad, public transportation facility or
+21 medical facility; or
+22 (b) Intentionally uses, manipulates, arranges or rearranges the property of a public utility,
+23 telecommunications [carrier] provider, railroad, public transportation facility or medical facility
+24 used in direct service to the public so as to interfere with its efficiency.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 52
+
+HB 4140
+1 (2) As used in subsection (1) of this section:
+2 (a) “Institution” includes state and local correctional facilities, mental health facilities, juvenile
+3 detention facilities and state training schools.
+4 (b) “Medical facility” means a health care facility as defined in ORS 442.015, a licensed
+5 physician’s office or anywhere a licensed medical practitioner provides health care services.
+6 (c) “Public utility” has the meaning provided for that term in ORS 757.005 and includes any
+7 cooperative, people’s utility district or other municipal corporation providing an electric, gas, water
+8 or other utility service.
+9 (d) “Railroad” has the meaning provided for that term in ORS 824.020.
+10 (e) “Public transportation facility” means any property, structure or equipment used for or in
+11 connection with the transportation of persons for hire by rail, air or bus, including any railroad
+12 cars, buses or airplanes used to carry out such transportation.
+13 (f) [“Telecommunications carrier” has the meaning given that term in ORS 133.721.] “Telecom-
+14 munications provider” has the meaning given that term in ORS 184.911.
+15 (3) Criminal mischief in the first degree is a Class C felony.
+16
+17 SCRAP METAL THEFT ALERT SYSTEM
+18
+19 SECTION 2. Sections 3 to 9 of this 2026 Act are added to and made a part of ORS 165.116
+20 to 165.124.
+21 SECTION 3. (1) A law enforcement agency may:
+22 (a) Register with the scrap metal theft alert system maintained and provided at no
+23 charge to users by the Recycled Materials Association, or its successor organization, or an
+24 equivalent scrap metal theft alert system described in administrative rule by the Department
+25 of Justice; and
+26 (b) Report thefts of metal property to the system that occur within the geographic area
+27 over which the law enforcement agency has jurisdiction.
+28 (2) The department may adopt rules necessary to administer the provisions of this sec-
+29 tion.
+30 SECTION 4. A scrap metal business shall:
+31 (1) Register with or subscribe to a scrap metal theft alert system described in section 3
+32 of this 2026 Act to receive alerts regarding thefts of metal property in the relevant ge-
+33 ographic area;
+34 (2) Maintain the registration or subscription;
+35 (3) On a daily basis, download the scrap metal theft alerts generated by the system;
+36 (4) Use the scrap metal theft alerts in conducting all applicable business activity to
+37 identify metal property that may be the subject of theft; and
+38 (5) Maintain a copy of any scrap metal theft alert for a minimum of 90 days following the
+39 date the alert was downloaded under this section.
+40
+41 SCRAP METAL SELLER REGISTRATION
+42
+43 SECTION 5. (1)(a) An individual may not sell, trade or contract to sell or trade
+44 nonferrous metal property or commercial metal property to a scrap metal business unless
+45 the individual is registered as a scrap metal seller with the Department of Justice under
+[2]
+
+HB 4140
+1 section 7 of this 2026 Act.
+2 (b) Notwithstanding paragraph (a) of this subsection, an individual not registered under
+3 section 7 of this 2026 Act may sell, trade or contract to sell or trade nonferrous metal
+4 property or commercial metal property to a scrap metal business without registering with
+5 the department if the aggregate value of the metal property sold or traded does not exceed
+6 $ within a 90-day period. The total value of metal property included in a single
+7 transaction under this paragraph may not exceed $ .
+8 (2) Violation of subsection (1) of this section is a Class A misdemeanor.
+9 SECTION 6. Section 5 of this 2026 Act does not apply to:
+10 (1) The persons described in ORS 165.124 (1)(a) to (e);
+11 (2) A person to whom a license has been issued under ORS 479.630;
+12 (3) A person to whom a journeyman plumber license has been issued under ORS 693.030;
+13 (4) A person to whom a Section 608 Technician Certification has been issued by the
+14 United States Environmental Protection Agency; and
+15 (5) Any other similar persons designated by the Department of Justice by rule as a li-
+16 censed professional that regularly or periodically sells or delivers metal property to a scrap
+17 metal business in the course of the person’s applicable business activity.
+18 SECTION 7. (1) An individual is qualified to be registered as a scrap metal seller with the
+19 Department of Justice under this section if the individual:
+20 (a) Is not prohibited from selling, purchasing, receiving, trading or entering into a con-
+21 tract, agreement or pledge to sell, purchase, receive or trade metal property under state or
+22 federal law, including successfully completing a background check as described under sub-
+23 section (3) of this section;
+24 (b) Applies to the department in a form and manner prescribed by the department; and
+25 (c) Pays any fee adopted by the department by rule.
+26 (2) An application for registration under this section must state the applicant’s legal
+27 name, current address and telephone number, date and place of birth, physical description
+28 and any additional information determined necessary by department rules.
+29 (3)(a) The department shall request that the Department of State Police conduct a
+30 criminal background check to determine the eligibility of an individual to be registered under
+31 this section by reviewing state and federal databases including the:
+32 (A) Oregon computerized criminal history system;
+33 (B) Law Enforcement Data System;
+34 (C) Databases maintained by the Federal Bureau of Investigation; and
+35 (D) National Crime Information Center.
+36 (b) An individual is ineligible to be registered under this section if the individual, within
+37 five years of the criminal background check, has been convicted of:
+38 (A) A felony or misdemeanor for which an essential element is fraud; or
+39 (B) Burglary, robbery or theft.
+40 (c) For the purpose of requesting a state or nationwide criminal records check under this
+41 section, the Department of Justice may require the fingerprints of an individual who applies
+42 for registration as a scrap metal seller under this section.
+43 (4)(a) Within 30 days of receiving an application for registration as a scrap metal seller
+44 under this section, if the department has verified the information contained in the applica-
+45 tion and determined that the applicant has met each of the qualifications described in sub-
+[3]
+
+HB 4140
+1 section (1) of this section, the department shall register the individual as a scrap metal seller
+2 and issue proof of registration to the individual.
+3 (b) The department may refuse to register an individual as a scrap metal seller under
+4 this section or may suspend or revoke the registration if the department determines that the
+5 individual violated a provision of this section or a rule adopted by the department under
+6 section 9 of this 2026 Act.
+7 (5)(a) Registration under this section is valid for one year from the date of registration,
+8 unless revoked.
+9 (b) An individual may renew an unexpired registration by repeating the procedures set
+10 forth in subsection (1) of this section.
+11 (6) An individual registered as a scrap metal seller under this section shall:
+12 (a) Maintain a copy of the proof of registration as long as the registration is valid.
+13 (b) Present a copy of the proof of registration to a scrap metal business when required
+14 under ORS 165.117.
+15 (7) The department shall establish and maintain an electronic searchable database of all
+16 individuals registered as a scrap metal seller under this section. The department shall
+17 maintain the database by ensuring that new registrations are added to the database, renewed
+18 registrations are assigned a new expiration date and expired or revoked registrations are
+19 marked expired or revoked but maintained in the database.
+20 SECTION 8. All fees received by the Department of Justice under section 7 of this 2026
+21 Act shall be deposited in the Department of Justice Operating Account created in ORS
+22 180.180. Amounts deposited under this section are continuously appropriated to the depart-
+23 ment to carry out the provisions of sections 6, 7, 8 and 9 of this 2026 Act.
+24 SECTION 9. The Department of Justice shall adopt rules necessary to administer the
+25 provisions of sections 6, 7, 8 and 9 of this 2026 Act. The rules must:
+26 (1) Include procedures for applying for and renewing registration as a scrap metal seller
+27 under section 7 of this 2026 Act; and
+28 (2) Provide that any fee adopted by the department under section 7 (1)(c) of this 2026 Act
+29 be in an amount reasonably calculated to cover the cost of administering the provisions of
+30 sections 6, 7, 8 and 9 of this 2026 Act, not to exceed an annual total of $500 per individual.
+31 SECTION 10. ORS 165.117 is amended to read:
+32 165.117. (1) Before completing a transaction, a scrap metal business engaged in business in this
+33 state shall:
+34 (a) Create a metal property record for the transaction at the time and in the location where the
+35 transaction occurs. The record must:
+36 (A) Be accurate and written clearly and legibly in English;
+37 (B) Be entered onto a standardized printed form or an electronic form that is securely stored
+38 and is capable of ready retrieval and printing; and
+39 (C) Contain all of the following information:
+40 (i) The signature of the individual with whom the scrap metal business conducts the transaction.
+41 (ii) The time, date, location and monetary amount or other value of the transaction.
+42 (iii) The name of the employee who conducts the transaction on behalf of the scrap metal busi-
+43 ness.
+44 (iv) The name and telephone number of the individual with whom the scrap metal business
+45 conducts the transaction and a street address or, if a post office box is listed on the government-
+[4]
+
+HB 4140
+1 issued photo identification described in sub-subparagraph (vi) of this subparagraph, a post office box,
+2 to which the scrap metal business will mail payment to the individual.
+3 (v) The make, model year and the license plate number and state of issue of the motor vehicle
+4 or motor vehicles, if any, used to transport the individual who conducts the transaction and to
+5 transport the nonferrous metal property or private metal property that is the subject of the trans-
+6 action.
+7 (vi) A photocopy of a current, valid driver license or other government-issued photo identifica-
+8 tion belonging to the individual with whom the scrap metal business conducts the transaction.
+9 (vii) A photograph of, or video surveillance recording depicting, a recognizable facial image of
+10 the individual with whom the scrap metal business conducts the transaction.
+11 (viii) Either a photocopy of a current, valid scrap metal seller registration issued under
+12 section 7 of this 2026 Act to the individual with whom the scrap metal business conducts the
+13 transaction or a photocopy of a document demonstrating that the individual is exempt from
+14 the registration requirement under section 6 of this 2026 Act. This sub-subparagraph does
+15 not apply if the individual is not registered as a scrap metal seller under section 7 of this 2026
+16 Act and the total value of the metal property included in the transaction does not exceed
+17 $ .
+18 [(viii)] (ix) A general description of the nonferrous metal property that constitutes the predom-
+19 inant part of the transaction and a specific description of private metal property, if any, included
+20 in the transaction. The description must include any identifiable marks on the property, if readily
+21 discernible, and must specify the weight, quantity or volume of the nonferrous metal property or
+22 private metal property.
+23 [(ix)] (x) For private metal property, the vehicle identification number and a copy of the title
+24 or vehicle registration for the vehicle from which the private metal property was removed.
+25 (b) Require the individual with whom the scrap metal business conducts a transaction to sign
+26 and date a declaration printed in conspicuous type, either on the record described in this subsection
+27 or on a receipt issued to the individual with whom the scrap metal business conducts the trans-
+28 action, that states:
+29 _______________________________________________________________________________________
+30
+31 I, , AFFIRM UNDER PENALTY OF LAW THAT THE PROPERTY I AM
+32 SELLING IN THIS TRANSACTION IS NOT, TO THE BEST OF MY KNOWLEDGE, STOLEN
+33 PROPERTY.
+34 _______________________________________________________________________________________
+35
+36 (c) Require the employee of the scrap metal business who conducts the transaction on behalf
+37 of the scrap metal business to witness the individual sign the declaration, and also to sign and date
+38 the declaration in a space provided for that purpose.
+39 (d) For one year following the date of the transaction, keep a copy of the record and the signed
+40 and dated declaration described in this subsection. If the scrap metal business uses a video surveil-
+41 lance recording as part of the record kept in accordance with this subsection, the scrap metal
+42 business need not keep the video surveillance recording for one year, but shall retain the video
+43 surveillance recording for a minimum of 30 days following the date of the transaction. The scrap
+44 metal business shall at all times keep the copies at the current place of business for the scrap metal
+45 business.
+[5]
+
+HB 4140
+1 (2) A scrap metal business engaged in business in this state may not do any of the following:
+2 (a) Purchase or receive kegs or similar metallic containers used to store or dispense alcoholic
+3 beverages, except from a person that manufactures the kegs or containers or from a person licensed
+4 by the Oregon Liquor and Cannabis Commission under ORS 471.155.
+5 (b) Conduct a transaction with an individual if the individual does not at the time of the trans-
+6 action consent to the creation of the record described in subsection (1) of this section and produce
+7 for inspection a valid driver license or other valid government-issued photo identification that be-
+8 longs to the individual and, if applicable, either the valid scrap metal seller registration issued
+9 to the individual under section 7 of this 2026 Act or a document demonstrating that the in-
+10 dividual is exempt from the registration requirement under section 6 of this 2026 Act.
+11 (c) Conduct a transaction with an individual in which the scrap metal business pays the indi-
+12 vidual other than by electronic funds transfer, stored value card or stored value device, or by
+13 mailing a nontransferable check, made payable to the individual, for the amount of the transaction
+14 to the street address or post office box the individual provided under subsection (1)(a)(C)(iv) of this
+15 section. Payment must be made not earlier than three business days after the date of the trans-
+16 action. The check, electronic funds transfer or stored value device must be drawn on or must draw
+17 from an account that the scrap metal business maintains with a financial institution, as defined in
+18 ORS 706.008. A stored value card may be issued by a money transmission business licensed under
+19 ORS 717.200 to 717.320 or exempt from the licensing requirement under ORS 717.210.
+20 (d) Purchase metal property from a nonprofit corporation other than by electronic funds trans-
+21 fer, stored value card or stored value device, or by mailing a nontransferable check, made payable
+22 to the nonprofit corporation, for the amount of the purchase price to the business address provided
+23 under subsection (4)(a)(B) of this section. Payment must be made not earlier than three business days
+24 after the date of the purchase. The check, electronic funds transfer or stored value device must be
+25 drawn on or must draw from an account that the scrap metal business maintains with a financial
+26 institution, as defined in ORS 706.008. A stored value card may be issued by a money transmission
+27 business licensed under ORS 717.200 to 717.320 or exempt from the licensing requirement under ORS
+28 717.210.
+29 (e) Purchase private metal property from a commercial seller other than by electronic funds
+30 transfer, credit card, debit card, stored value card or stored value device or by mailing a
+31 nontransferable check, made payable to the commercial seller, for the amount of the purchase price
+32 to the business address provided under subsection (4)(a)(B) of this section. Except for an electronic
+33 funds transfer, credit card transaction or debit card transaction which can be immediate, payment
+34 must be made not earlier than three business days after the date of the purchase. The check,
+35 electronic funds transfer, credit card, debit card or stored value device must be drawn on or must
+36 draw from an account that the scrap metal business maintains with a financial institution, as defined
+37 in ORS 706.008. A stored value card may be issued by a money transmission business licensed under
+38 ORS 717.200 to 717.320 or exempt from the licensing requirement under ORS 717.210.
+39 (f) Cash or release a check issued in payment for a transaction or for a purchase described in
+40 paragraph (c), (d) or (e) of this subsection other than as provided in this paragraph or paragraph (c),
+41 (d) or (e) of this subsection. If a check is not delivered to the intended recipient within 10 days of
+42 the date of the transaction or the purchase, the scrap metal business may release the check directly
+43 to the individual or commercial seller with the written approval of a law enforcement agency having
+44 jurisdiction over the scrap metal business. If a check is returned as undelivered or undeliverable,
+45 the scrap metal business shall:
+[6]
+
+HB 4140
+1 (A) Release the check directly to the individual or commercial seller with the written approval
+2 of a law enforcement agency having jurisdiction over the scrap metal business; or
+3 (B) Retain the check until the individual or commercial seller to which the check was mailed
+4 provides a valid address in accordance with subsection (1)(a)(C)(iv) or (4)(a)(B) of this section. If af-
+5 ter 30 days following the date of the transaction or the purchase described in paragraph (c), (d) or
+6 (e) of this subsection the individual or commercial seller fails to provide a valid address, the scrap
+7 metal business may cancel the check and the individual or commercial seller shall forfeit to the
+8 scrap metal business the amount due as payment.
+9 (g) Purchase or receive private metal property, except from:
+10 (A) A commercial seller; or
+11 (B) An individual who is the owner of the vehicle from which the private metal property was
+12 removed and who provides the information required under subsection (1)(a)(C) of this section.
+13 (h) Conduct a transaction with an individual at a time that the scrap metal business is
+14 out of compliance with the requirements described in section 4 of this 2026 Act.
+15 (3) If a scrap metal business obtains the approval of a law enforcement agency under subsection
+16 (2)(f) of this section, the scrap metal business shall retain the written approval for one year follow-
+17 ing the date the approval is received.
+18 (4) Before purchasing or receiving metal property from a commercial seller, a scrap metal busi-
+19 ness shall:
+20 (a) Create and maintain a commercial account with the commercial seller. As part of the com-
+21 mercial account, the scrap metal business shall enter accurately, clearly and legibly in English onto
+22 a standardized printed form, or an electronic form that is securely stored and is capable of ready
+23 retrieval and printing, the following information:
+24 (A) The full name of the commercial seller;
+25 (B) The business address and telephone number of the commercial seller; and
+26 (C) The full name of each employee, agent or other individual the commercial seller authorizes
+27 to receive payment for metal property from the scrap metal business.
+28 (b) Create a metal property record as part of the commercial account at the time and in the
+29 location that the scrap metal business purchases or receives metal property from a commercial
+30 seller that contains the following information:
+31 (A) The time, date and location at which the scrap metal business purchased or received the
+32 metal property;
+33 (B) The printed name and signature or electronic signature of the employee who conducted the
+34 purchase or receipt on behalf of the scrap metal business;
+35 (C) The printed name and signature or electronic signature of the individual or individuals who
+36 conducted the purchase or receipt of the metal property on behalf of the commercial seller and of
+37 the individual or individuals who delivered the metal property on behalf of the commercial seller to
+38 the scrap metal business, if different;
+39 (D) A photocopy of a valid driver license or other valid government-issued photo identification
+40 belonging to the individual or individuals who conducted the purchase or receipt of the metal
+41 property on behalf of the commercial seller and of the individual or individuals who delivered the
+42 metal property on behalf of the commercial seller to the scrap metal business, if different;
+43 (E) The monetary amount or other value of the metal property;
+44 (F) A description of the type of metal property that constitutes the predominant part of the
+45 purchase or receipt;
+[7]
+
+HB 4140
+1 (G) For private metal property sold or transferred by a commercial seller other than a
+2 dismantler, the following information for the vehicle from which the private metal property was re-
+3 moved:
+4 (i) The make, model year, vehicle identification number and, if available, the license plate num-
+5 ber and issuing state shown on the license plate; and
+6 (ii) The date that the commercial seller removed the private metal property; and
+7 (H) For private metal property sold or transferred by a dismantler, the stock or yard number
+8 or numbers assigned to the private metal property by the dismantler under ORS 822.137.
+9 (c) Require all signatories to the metal property record to declare the accuracy of the informa-
+10 tion contained in the record by including on the metal property record in conspicuous type, “I AF-
+11 FIRM BY MY SIGNATURE THAT UNDER PENALTY OF LAW THAT THE INFORMATION I
+12 PROVIDED AND REFLECTED ON THIS FORM IS TRUE AND ACCURATE.”
+13 (5) A scrap metal business may require an individual from whom the business obtains metal
+14 property to provide the individual’s thumbprint to the scrap metal business.
+15 (6) A scrap metal business shall make all records and accounts required to be maintained under
+16 this section available to any peace officer on demand.
+17 (7)(a) Except as otherwise provided in ORS 165.118, violation of this section is a specific fine
+18 violation, and the presumptive fine for the violation is $1,000.
+19 (b) Notwithstanding paragraph (a) of this subsection, the presumptive fine for a violation of a
+20 provision of this section is $5,000 if the scrap metal business has at least three previous convictions
+21 for violations of a provision of this section.
+22 SECTION 11. ORS 161.005 is amended to read:
+23 161.005. ORS 161.005 to 161.055, 161.065, 161.085 to 161.125, 161.150 to 161.175, 161.190 to
+24 161.275, 161.290 to 161.373, 161.405 to 161.485, 161.505 to 161.585, 161.605, 161.615 to 161.685, 161.705
+25 to 161.737, 162.005, 162.015 to 162.035, 162.055 to 162.115, 162.135 to 162.205, 162.225 to 162.375,
+26 162.405 to 162.425, 162.465, 163.005, 163.095, 163.107, 163.115, 163.125 to 163.145, 163.149, 163.160 to
+27 163.208, 163.191, 163.196, 163.215 to 163.257, 163.261, 163.263, 163.264, 163.266, 163.275, 163.285,
+28 163.305 to 163.467, 163.429, 163.432, 163.433, 163.472, 163.505 to 163.575, 163.665 to 163.693, 163.700,
+29 163.701, 163.715, 163.720, 164.005, 164.015 to 164.135, 164.138, 164.140, 164.205 to 164.270, 164.305 to
+30 164.377, 164.395 to 164.415, 164.805, 164.857, 164.886, 165.002 to 165.102, 165.109, 165.118, 165.805,
+31 165.815, 166.005 to 166.095, 166.119, 166.125, 166.128, 166.350, 166.382, 166.384, 166.660, 167.002 to
+32 167.027, 167.057, 167.060 to 167.100, 167.117, 167.122 to 167.162, 167.203 to 167.252, 167.310 to 167.340,
+33 167.350, 167.810 and 167.820 and section 5 of this 2026 Act shall be known and may be cited as
+34 Oregon Criminal Code of 1971.
+35
+36 APPLICABILITY
+37
+38 SECTION 12. Section 5 of this 2026 Act and the amendments to ORS 164.365 and 165.117
+39 by sections 1 and 10 of this 2026 Act apply to conduct occurring on or after the effective date
+40 of this 2026 Act.
+41
+42 CAPTIONS
+43
+44 SECTION 13. The unit captions used in this 2026 Act are provided only for the conven-
+45 ience of the reader and do not become part of the statutory law of this state or express any
+[8]
+
+HB 4140
+1 legislative intent in the enactment of this 2026 Act.
+2
+[9]
+
+[DELETED:  B 4 b R W S P A R L L c b t L A I i a e b s o t e f o t.T T A c a a s m s T A a n r f s m b ( t c o c m i t f d b e t t c i f s o t n m p o c f o S e R t d t e a s m s r s m t a s a W i t p o a p u t [] p r B i i w o o a i a p u t [] p r p t f o I u m a o r t p o a p u [] p r p t f o m f:M[]]
+[DELETED: B4 “ f m a h c f a d i O 4 a l “ u h t m p f t t i O 7 a i a “ t f m a p s o e u f o i w t t o p f h b r a o b i a r [] “ c h t m g t.S.( R w t s m t a s m a p a n.A t 2 A t r a r t o m p i t r gca U t s m t a i c a a b a t 5.( A i m n s t o c t s o t m p o c m p i i r a a s m s w t D o J u]
+[DELETED: B4 7 o t 2 A m s t o c t s o t n m o c m p t $.S A p t w a S 6 T C h b i b t t D o J b r a a l.( i s c a b c a d u s A a f r u t s m s t a l a p o b p d T d s r t t D o S P c ]
+[DELETED: B4 T d m r t r a i a a s m s u v a p o t s o a r a b t d u A i m r a u r a a s m s u t s T d s a a a n e d a e o r r a.A s b d i t D o J O A c i O Asd 9.T D o J s a r n t a t B e o a s p f o a e f t i s s T n a t n o t i w w t s m b s a o i a p o b i l o t g]
+[DELETED: B4 m v i a u t t t i w c t t a t t n m A p o r u s 6 o t 2 A T s d a t t v o t m p i i t t d] p o t t a a s d o p m p i a m i a i m o t p i r a m s t w q o v o t n m p o] ( F p m p t v i n a a c o t t t i w w t s m b c a t t s o a r i t t i w w t s m b c t t , I T T I N T T B O M K S R t e o t s m b w c t t o b r a p o t r k i a w t s t s m n n k t v s r f o y b s r t v r f a m o 3 d f t d o t t T s]
+[DELETED: B4 o d a i a v d l o o v g p i t b C a t w a i i w t s m b p t i o t b e f t s v c o s v d o b P m b m n e t t b d a t d o t t i.A f a a t t s m b m w a f.A P p m p f a c s o t b e f c c d c s v c o s v d o b m  c b i p b m n e t t b d a t d o t p.T c o t s m b I a c i r a u o u]
+[DELETED: B4 R t c u t i o c s t w t c b m c t c a t i o c s s f t t A i w i t o o t v f w t p m s p f o a e f t i s s a i C a m p r a p o t c a a t t a i t t t s m b p o r m p f a c T t d a l a w t s m b p o r tlp t p o t t i o i w c t p o r o t m o t i o i w d t A d o t t o m p t c t p p o t]
+[DELETED: B4 F p m p s o t b a c s o t  F p m p s o t b a d t s o y n B M S T U P O L T T I  A s m b m r a i f w t b o m E a o p i O 1 v o t s i a s f N p ( o t s t p f f a v o  O 1 t 1 1 1 t 1 1 t 1 1 t 1 1 1 t 1 1 t 1 1 t 1 1 t 1 1 1 1 t 1 1 1 1 1 1 1 1 t 1 1 1 1 1 t 1 1 1 1 1 t 1 1 1 1 1 1 1 1 1 t 1 s b k a m b c a.S.T]
+[DELETED: B4]

@@ -1,0 +1,1170 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4059
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Early Childhood and Human Services for Representative Annessa Hartman)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes what “threatened harm” means when talking about hurting a child. It
+says that DHS can only look into some reports of child abuse. It also makes a rule for how certain
+reports of child abuse are resolved. It is an emergency law and starts right away. (Flesch Read-
+ability Score: 78.7).
+Modifies the definition of “threatened harm” for purposes of determining whether a child has
+been abused.
+Limits the investigative jurisdiction of the Department of Human Services to investigate certain
+reports of child abuse.
+Creates a statutory substantiation standard for certain reports of alleged child abuse.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to child abuse; creating new provisions; amending ORS 339.389, 409.185, 419B.005, 419B.015,
+3 419B.020, 419B.026 and 419B.030; and declaring an emergency.
+4 Be It Enacted by the People of the State of Oregon:
+5
+6 THREATENED HARM
+7
+8 SECTION 1. ORS 419B.005 is amended to read:
+9 419B.005. As used in ORS 419B.005 to 419B.050, unless the context requires otherwise:
+10 (1)(a) “Abuse” means:
+11 (A) Any assault, as defined in ORS chapter 163, of a child and any physical injury to a child that
+12 has been caused by other than accidental means, including any injury that appears to be at variance
+13 with the explanation given of the injury.
+14 (B) Any mental injury to a child, which shall include only cruel or unconscionable acts or
+15 statements made, or threatened to be made, to a child if the acts, statements or threats result in
+16 severe harm, as defined in ORS 419B.150, to the child’s psychological, cognitive, emotional or so-
+17 cial well-being and functioning.
+18 (C) Rape of a child, which includes but is not limited to rape, sodomy, unlawful sexual pene-
+19 tration and incest, as those acts are described in ORS chapter 163.
+20 (D) Sexual abuse, as described in ORS chapter 163.
+21 (E) Sexual exploitation, including but not limited to:
+22 (i) Contributing to the sexual delinquency of a minor, as defined in ORS chapter 163, and any
+23 other conduct that allows, employs, authorizes, permits, induces or encourages a child to engage in
+24 the performing for people to observe or the photographing, filming, tape recording or other exhibi-
+25 tion that, in whole or in part, depicts sexual conduct or contact, as defined in ORS 167.002 or de-
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 266
+HB 4059
+1 scribed in ORS 163.665 and 163.670, sexual abuse involving a child or rape of a child, but not
+2 including any conduct that is part of any investigation conducted pursuant to ORS 419B.020 or that
+3 is designed to serve educational or other legitimate purposes; and
+4 (ii) Allowing, permitting, encouraging or hiring a child to engage in prostitution as described in
+5 ORS 167.007 or a commercial sex act as defined in ORS 163.266, to purchase sex with a minor as
+6 described in ORS 163.413 or to engage in commercial sexual solicitation as described in ORS 167.008.
+7 (F) Negligent treatment or maltreatment of a child, including but not limited to the failure to
+8 provide adequate food, clothing, shelter or medical care that is likely to endanger the health or
+9 welfare of the child.
+10 [(G) Threatened harm to a child, which means subjecting a child to a substantial risk of harm to
+11 the child’s health or welfare.]
+12 (G) Threatened harm to a child, which means subjecting a child to an imminent risk of
+13 severe harm, as defined in ORS 419B.150, to the child’s health or welfare.
+14 (H) Buying or selling a person under 18 years of age as described in ORS 163.537.
+15 (I) Permitting a person under 18 years of age to enter or remain in or upon premises where
+16 methamphetamines are being manufactured.
+17 (J) Unlawful exposure to a controlled substance, as defined in ORS 475.005, or to the unlawful
+18 manufacturing of a cannabinoid extract, as defined in ORS 475C.009, that subjects a child to a sub-
+19 stantial risk of harm to the child’s health or safety.
+20 (K) The restraint or seclusion of a child in violation of ORS 339.285, 339.288, 339.291, 339.303
+21 or 339.308.
+22 (L) The infliction of corporal punishment on a child in violation of ORS 339.250 (9).
+23 (b) “Abuse” does not include reasonable discipline unless the discipline results in one of the
+24 conditions described in paragraph (a) of this subsection.
+25 (2) “Child” means an unmarried person who:
+26 (a) Is under 18 years of age; or
+27 (b) Is a child in care, as defined in ORS 418.257.
+28 (3) “Higher education institution” means:
+29 (a) A community college as defined in ORS 341.005;
+30 (b) A public university listed in ORS 352.002;
+31 (c) The Oregon Health and Science University; and
+32 (d) A private institution of higher education located in Oregon.
+33 (4)(a) “Investigation” means a detailed inquiry into or assessment of the safety of a child alleged
+34 to have experienced abuse.
+35 (b) “Investigation” does not include screening activities conducted upon the receipt of a report.
+36 (5) “Law enforcement agency” means:
+37 (a) A city or municipal police department.
+38 (b) A county sheriff’s office.
+39 (c) The Oregon State Police.
+40 (d) A police department established by a university under ORS 352.121 or 353.125.
+41 (e) A county juvenile department.
+42 (6) “Public or private official” means:
+43 (a) Physician or physician associate licensed under ORS chapter 677 or naturopathic physician,
+44 including any intern or resident.
+45 (b) Dentist.
+[2]
+HB 4059
+1 (c) School employee, including an employee of a higher education institution.
+2 (d) Licensed practical nurse, registered nurse, nurse practitioner, nurse’s aide, home health aide
+3 or employee of an in-home health service.
+4 (e) Employee of the Department of Human Services, Oregon Health Authority, Department of
+5 Early Learning and Care, Department of Education, Youth Development Division, the Oregon Youth
+6 Authority, a local health department, a community mental health program, a community develop-
+7 mental disabilities program, a county juvenile department, a child-caring agency as that term is de-
+8 fined in ORS 418.205 or an alcohol and drug treatment program.
+9 (f) Peace officer.
+10 (g) Psychologist.
+11 (h) Member of the clergy.
+12 (i) Regulated social worker.
+13 (j) Optometrist.
+14 (k) Chiropractor.
+15 (L) Certified provider of foster care, or an employee thereof.
+16 (m) Attorney.
+17 (n) Licensed professional counselor.
+18 (o) Licensed marriage and family therapist.
+19 (p) Firefighter or emergency medical services provider.
+20 (q) Court appointed special advocate, as defined in ORS 419A.004.
+21 (r) Child care provider registered or certified under ORS 329A.250 to 329A.450.
+22 (s) Elected official of a branch of government of this state or a state agency, board, commission
+23 or department of a branch of government of this state or of a city, county or other political subdi-
+24 vision in this state.
+25 (t) Physical, speech or occupational therapist.
+26 (u) Audiologist.
+27 (v) Speech-language pathologist.
+28 (w) Employee of the Teacher Standards and Practices Commission directly involved in investi-
+29 gations or discipline by the commission.
+30 (x) Pharmacist.
+31 (y) Operator of a preschool recorded program under ORS 329A.255.
+32 (z) Operator of a school-age recorded program under ORS 329A.255.
+33 (aa) Employee of a private agency or organization facilitating the provision of respite services,
+34 as defined in ORS 418.205, for parents pursuant to a properly executed power of attorney under ORS
+35 109.056.
+36 (bb) Employee of a public or private organization providing child-related services or activities:
+37 (A) Including but not limited to an employee of a:
+38 (i) Youth group or center;
+39 (ii) Scout group or camp;
+40 (iii) Summer or day camp;
+41 (iv) Survival camp; or
+42 (v) Group, center or camp that is operated under the guidance, supervision or auspices of a re-
+43 ligious, public or private educational system or a community service organization; and
+44 (B) Excluding an employee of a qualified victim services program as defined in ORS 147.600 that
+45 provides confidential, direct services to victims of domestic violence, sexual assault, stalking or hu-
+[3]
+HB 4059
+1 man trafficking.
+2 (cc) Coach, assistant coach or trainer of an amateur, semiprofessional or professional athlete,
+3 if compensated and if the athlete is a child.
+4 (dd) Personal support worker, as defined in ORS 410.600.
+5 (ee) Home care worker, as defined in ORS 410.600.
+6 (ff) Animal control officer, as defined in ORS 609.500.
+7 (gg) Member of a school district board, an education service district board or a public charter
+8 school governing body.
+9 (hh) Individual who is paid by a public body, in accordance with ORS 430.215, to provide a ser-
+10 vice identified in an individualized service plan of a child with a developmental disability.
+11 (ii) Referral agent, as defined in ORS 418.351.
+12 (jj) Parole and probation officer, as defined in ORS 181A.355.
+13 (kk) Behavior analyst or assistant behavior analyst licensed under ORS 676.810 or behavior
+14 analysis interventionist registered by the Health Licensing Office under ORS 676.815.
+15 (LL) Massage therapist, as defined in ORS 687.011.
+16 SECTION 2. ORS 419B.005, as amended by section 6, chapter 581, Oregon Laws 2023, section
+17 65, chapter 73, Oregon Laws 2024, and section 10, chapter 308, Oregon Laws 2025, is amended to
+18 read:
+19 419B.005. As used in ORS 419B.005 to 419B.050, unless the context requires otherwise:
+20 (1)(a) “Abuse” means:
+21 (A) Any assault, as defined in ORS chapter 163, of a child and any physical injury to a child that
+22 has been caused by other than accidental means, including any injury that appears to be at variance
+23 with the explanation given of the injury.
+24 (B) Any mental injury to a child, which shall include only cruel or unconscionable acts or
+25 statements made, or threatened to be made, to a child if the acts, statements or threats result in
+26 severe harm, as defined in ORS 419B.150, to the child’s psychological, cognitive, emotional or so-
+27 cial well-being and functioning.
+28 (C) Rape of a child, which includes but is not limited to rape, sodomy, unlawful sexual pene-
+29 tration and incest, as those acts are described in ORS chapter 163.
+30 (D) Sexual abuse, as described in ORS chapter 163.
+31 (E) Sexual exploitation, including but not limited to:
+32 (i) Contributing to the sexual delinquency of a minor, as defined in ORS chapter 163, and any
+33 other conduct that allows, employs, authorizes, permits, induces or encourages a child to engage in
+34 the performing for people to observe or the photographing, filming, tape recording or other exhibi-
+35 tion that, in whole or in part, depicts sexual conduct or contact, as defined in ORS 167.002 or de-
+36 scribed in ORS 163.665 and 163.670, sexual abuse involving a child or rape of a child, but not
+37 including any conduct that is part of any investigation conducted pursuant to ORS 419B.020 or that
+38 is designed to serve educational or other legitimate purposes; and
+39 (ii) Allowing, permitting, encouraging or hiring a child to engage in prostitution as described in
+40 ORS 167.007 or a commercial sex act as defined in ORS 163.266, to purchase sex with a minor as
+41 described in ORS 163.413 or to engage in commercial sexual solicitation as described in ORS 167.008.
+42 (F) Negligent treatment or maltreatment of a child, including but not limited to the failure to
+43 provide adequate food, clothing, shelter or medical care that is likely to endanger the health or
+44 welfare of the child.
+45 [(G) Threatened harm to a child, which means subjecting a child to a substantial risk of harm to
+[4]
+HB 4059
+1 the child’s health or welfare.]
+2 (G) Threatened harm to a child, which means subjecting a child to an imminent risk of
+3 severe harm, as defined in ORS 419B.150, to the child’s health or welfare.
+4 (H) Buying or selling a person under 18 years of age as described in ORS 163.537.
+5 (I) Permitting a person under 18 years of age to enter or remain in or upon premises where
+6 methamphetamines are being manufactured.
+7 (J) Unlawful exposure to a controlled substance, as defined in ORS 475.005, or to the unlawful
+8 manufacturing of a cannabinoid extract, as defined in ORS 475C.009, that subjects a child to a sub-
+9 stantial risk of harm to the child’s health or safety.
+10 (K) The infliction of corporal punishment on a child in violation of ORS 339.250 (9).
+11 (b) “Abuse” does not include reasonable discipline unless the discipline results in one of the
+12 conditions described in paragraph (a) of this subsection.
+13 (2) “Child” means an unmarried person who:
+14 (a) Is under 18 years of age; or
+15 (b) Is a child in care, as defined in ORS 418.257.
+16 (3) “Higher education institution” means:
+17 (a) A community college as defined in ORS 341.005;
+18 (b) A public university listed in ORS 352.002;
+19 (c) The Oregon Health and Science University; and
+20 (d) A private institution of higher education located in Oregon.
+21 (4)(a) “Investigation” means a detailed inquiry into or assessment of the safety of a child alleged
+22 to have experienced abuse.
+23 (b) “Investigation” does not include screening activities conducted upon the receipt of a report.
+24 (5) “Law enforcement agency” means:
+25 (a) A city or municipal police department.
+26 (b) A county sheriff’s office.
+27 (c) The Oregon State Police.
+28 (d) A police department established by a university under ORS 352.121 or 353.125.
+29 (e) A county juvenile department.
+30 (6) “Public or private official” means:
+31 (a) Physician or physician associate licensed under ORS chapter 677 or naturopathic physician,
+32 including any intern or resident.
+33 (b) Dentist.
+34 (c) School employee, including an employee of a higher education institution.
+35 (d) Licensed practical nurse, registered nurse, nurse practitioner, nurse’s aide, home health aide
+36 or employee of an in-home health service.
+37 (e) Employee of the Department of Human Services, Oregon Health Authority, Department of
+38 Early Learning and Care, Department of Education, Youth Development Division, the Oregon Youth
+39 Authority, a local health department, a community mental health program, a community develop-
+40 mental disabilities program, a county juvenile department, a child-caring agency as that term is de-
+41 fined in ORS 418.205 or an alcohol and drug treatment program.
+42 (f) Peace officer.
+43 (g) Psychologist.
+44 (h) Member of the clergy.
+45 (i) Regulated social worker.
+[5]
+HB 4059
+1 (j) Optometrist.
+2 (k) Chiropractor.
+3 (L) Certified provider of foster care, or an employee thereof.
+4 (m) Attorney.
+5 (n) Licensed professional counselor.
+6 (o) Licensed marriage and family therapist.
+7 (p) Firefighter or emergency medical services provider.
+8 (q) Court appointed special advocate, as defined in ORS 419A.004.
+9 (r) Child care provider registered or certified under ORS 329A.250 to 329A.450.
+10 (s) Elected official of a branch of government of this state or a state agency, board, commission
+11 or department of a branch of government of this state or of a city, county or other political subdi-
+12 vision in this state.
+13 (t) Physical, speech or occupational therapist.
+14 (u) Audiologist.
+15 (v) Speech-language pathologist.
+16 (w) Employee of the Teacher Standards and Practices Commission directly involved in investi-
+17 gations or discipline by the commission.
+18 (x) Pharmacist.
+19 (y) Operator of a preschool recorded program under ORS 329A.255.
+20 (z) Operator of a school-age recorded program under ORS 329A.255.
+21 (aa) Employee of a private agency or organization facilitating the provision of respite services,
+22 as defined in ORS 418.205, for parents pursuant to a properly executed power of attorney under ORS
+23 109.056.
+24 (bb) Employee of a public or private organization providing child-related services or activities:
+25 (A) Including but not limited to an employee of a:
+26 (i) Youth group or center;
+27 (ii) Scout group or camp;
+28 (iii) Summer or day camp;
+29 (iv) Survival camp; or
+30 (v) Group, center or camp that is operated under the guidance, supervision or auspices of a re-
+31 ligious, public or private educational system or a community service organization; and
+32 (B) Excluding an employee of a qualified victim services program as defined in ORS 147.600 that
+33 provides confidential, direct services to victims of domestic violence, sexual assault, stalking or hu-
+34 man trafficking.
+35 (cc) Coach, assistant coach or trainer of an amateur, semiprofessional or professional athlete,
+36 if compensated and if the athlete is a child.
+37 (dd) Personal support worker, as defined in ORS 410.600.
+38 (ee) Home care worker, as defined in ORS 410.600.
+39 (ff) Animal control officer, as defined in ORS 609.500.
+40 (gg) Member of a school district board, an education service district board or a public charter
+41 school governing body.
+42 (hh) Individual who is paid by a public body, in accordance with ORS 430.215, to provide a ser-
+43 vice identified in an individualized service plan of a child with a developmental disability.
+44 (ii) Referral agent, as defined in ORS 418.351.
+45 (jj) Parole and probation officer, as defined in ORS 181A.355.
+[6]
+HB 4059
+1 (kk) Behavior analyst or assistant behavior analyst licensed under ORS 676.810 or behavior
+2 analysis interventionist registered by the Health Licensing Office under ORS 676.815.
+3 (LL) Massage therapist, as defined in ORS 687.011.
+4
+5 INVESTIGATIVE JURISDICTION
+6
+7 SECTION 3. ORS 419B.015 is amended to read:
+8 419B.015. (1)(a) A person making a voluntary report of child abuse shall make an oral report to
+9 the Department of Human Services by telephone to the child abuse reporting hotline described in
+10 ORS 418.190 or to a law enforcement agency within the county where the person making the report
+11 is located at the time of the contact. A person making a report of child abuse that is required by
+12 ORS 419B.010 shall make the report to the department through the centralized child abuse reporting
+13 system described in ORS 418.190 or to a law enforcement agency within the county where the person
+14 making the report is located at the time of the contact. The report must contain, if known, the
+15 names and addresses of the child and the parents of the child or other persons responsible for care
+16 of the child, the child’s age, the nature and extent of the abuse, including any evidence of previous
+17 abuse, the explanation given for the abuse and any other information that the person making the
+18 report believes might be helpful in establishing the cause of the abuse and the identity of the
+19 perpetrator.
+20 (b)(A) When a report of alleged child abuse is received by the department, the department shall
+21 notify a law enforcement agency within the county where the alleged abuse occurred or, if that
+22 county is unknown, the county where the child resides or, if that county is unknown, the county
+23 where the reporter came into contact with the child or the alleged perpetrator of the abuse.
+24 (B) When a report of alleged child abuse is received by a law enforcement agency, the agency
+25 shall notify the department by making a report of the alleged child abuse to the centralized child
+26 abuse reporting system described in ORS 418.190.
+27 (c) When a report of alleged child abuse is received by the department or by a law enforcement
+28 agency, the department or law enforcement agency, or both, may collect information concerning the
+29 military status of the parent or guardian of the child who is the subject of the report and may share
+30 the information with the appropriate military authorities. Disclosure of information under this par-
+31 agraph is subject to ORS 419B.035 (7).
+32 (d) When a report of alleged child abuse is received by the department or by a law
+33 enforcement agency, the department or law enforcement agency, or both, shall make the
+34 following notifications:
+35 (A) To the Department of Early Learning and Care if the alleged child abuse occurred in
+36 a child care facility as defined in ORS 329A.250; or
+37 (B) To the Department of Education if the alleged child abuse occurred in a school, was
+38 related to a school-sponsored activity or was conduct that may be subject to actions taken
+39 by the Department of Education under ORS 339.370 to 339.400.
+40 (2) When a report of alleged child abuse is received under subsection (1)(a) of this section, the
+41 entity receiving the report shall make the notification required by subsection (1)(b) of this section
+42 according to rules adopted by the Department of Human Services under ORS 419B.017.
+43 (3)(a) When a report alleging that a child or ward in substitute care may have been subjected
+44 to abuse is received by the department, the department shall notify the attorney for the child or
+45 ward, the child’s or ward’s court appointed special advocate, the parents of the child or ward and
+[7]
+HB 4059
+1 any attorney representing a parent of the child or ward that a report has been received.
+2 (b) The name and address of and other identifying information about the person who made the
+3 report may not be disclosed under this subsection. Any person or entity to whom notification is
+4 made under this subsection may not release any information not authorized by this subsection.
+5 (c) The department shall make the notification required by this subsection within three business
+6 days of receiving the report of alleged child abuse.
+7 (d) Notwithstanding the obligation imposed by this subsection, the department is not required
+8 under this subsection to notify the parent or parent’s attorney that a report of alleged child abuse
+9 has been received if the notification may interfere with an investigation or assessment or jeopardize
+10 the child’s or ward’s safety.
+11 SECTION 4. ORS 419B.020 is amended to read:
+12 419B.020. (1) If the Department of Human Services or a law enforcement agency receives a re-
+13 port of child abuse, the department or the agency shall immediately[:]
+14 [(a)] cause an investigation to be made to determine the nature and cause of the abuse of the
+15 child. [; and]
+16 [(b) Make the following notifications:]
+17 [(A) To the Department of Early Learning and Care if the alleged child abuse occurred in a child
+18 care facility as defined in ORS 329A.250; or]
+19 [(B) To the Department of Education if the alleged child abuse occurred in a school, was related
+20 to a school-sponsored activity or was conduct that may be subject to actions taken by the Department
+21 of Education under ORS 339.370 to 339.400.]
+22 (2) The department [of Human Services] shall ensure that an investigation required by subsection
+23 (1) of this section is completed if the report is not investigated by a law enforcement agency.
+24 (3) If the alleged child abuse [reported] described in subsection (1) of this section occurred at
+25 a child care facility or in a school, was related to a school-sponsored activity or was conduct that
+26 may be subject to actions taken by the Department of Education under ORS 339.370 to 339.400:
+27 (a) The Department of Human Services and the law enforcement agency shall jointly determine
+28 the roles and responsibilities of the Department of Human Services and the agency in their respec-
+29 tive investigations; and
+30 (b) The Department of Human Services and the agency shall each report the outcomes of their
+31 investigations:
+32 (A) To the Department of Early Learning and Care if the alleged child abuse occurred in a child
+33 care facility as defined in ORS 329A.250; or
+34 (B) To the Department of Education if the alleged child abuse:
+35 (i) Occurred in a school;
+36 (ii) Was related to a school-sponsored activity; or
+37 (iii) Was conduct that may be subject to actions taken by the Department of Education under
+38 ORS 339.370 to 339.400.
+39 (4) Notwithstanding subsections (1) to (3) of this section, the Department of Human
+40 Services is required under this section to investigate a report of child abuse only if the al-
+41 leged perpetrator of the abuse:
+42 (a) Is a parent, guardian or custodian of the child;
+43 (b) Has attained 18 years of age and:
+44 (A) Lives in the child’s home;
+45 (B) Has access to the child based on the person’s relationship to the child’s parent,
+[8]
+HB 4059
+1 guardian, custodian, household member or caregiver or to any other person who may have
+2 authority or control over the child;
+3 (C) Is in a role, position or occupation in which the person has access to, responsibility
+4 for, power over or the trust of the child;
+5 (D) Has been accused of subjecting the child to involuntary servitude, as described in
+6 ORS 163.263 or 163.264, or trafficking, as described in ORS 163.266; or
+7 (E) Is determined by the department to be an individual from whom the department can,
+8 consistent with ORS 409.185, safeguard the child against further abuse through the provision
+9 of child protective services;
+10 (c) Is a child care facility, as defined in ORS 329A.250; or
+11 (d) Is an education provider, as defined in ORS 339.370.
+12 [(4)] (5) [If the law enforcement agency conducting the investigation] If a law enforcement
+13 agency conducting an investigation under this section finds reasonable cause to believe that
+14 abuse has occurred, the law enforcement agency shall notify the Department of Human Services by
+15 making an oral report followed by a written report to the centralized child abuse reporting system
+16 described in ORS 418.190. The department shall provide protective social services of its own or of
+17 other available social agencies if necessary to prevent further abuses to the child or to safeguard
+18 the child’s welfare.
+19 [(5) ] (6) If a child is taken into protective custody by the Department of Human Services, the
+20 department shall promptly make reasonable efforts to ascertain the name and address of the child’s
+21 parents or guardian.
+22 [(6)(a)] (7)(a) If a child is taken into protective custody by the Department of Human Services
+23 or a law enforcement official, the department or law enforcement official shall, if possible, make
+24 reasonable efforts to advise the parents or guardian immediately, regardless of the time of day, that
+25 the child has been taken into custody, the reasons the child has been taken into custody and general
+26 information about the child’s placement, and the telephone number of the local office of the depart-
+27 ment and any after-hours telephone numbers.
+28 (b) Notice may be given by any means reasonably certain of notifying the parents or guardian,
+29 including but not limited to written, telephonic or in-person oral notification. If the initial notifica-
+30 tion is not in writing, the information required by paragraph (a) of this subsection also shall be
+31 provided to the parents or guardian in writing as soon as possible.
+32 (c) The department also shall make a reasonable effort to notify the noncustodial parent of the
+33 information required by paragraph (a) of this subsection in a timely manner.
+34 (d) If a child is taken into custody while under the care and supervision of a person or organ-
+35 ization other than the parent, the department, if possible, shall immediately notify the person or
+36 organization that the child has been taken into protective custody.
+37 [(7)] (8)(a) If a law enforcement officer or the Department of Human Services, when taking a
+38 child into protective custody, has reasonable cause to believe that the child has been affected by
+39 [sexual abuse and] rape or sexual abuse of a child as defined in ORS 419B.005 (1)(a)(C) or (D) and
+40 that physical evidence of the abuse exists and is likely to disappear, the court may authorize a
+41 physical examination for the purposes of preserving evidence if the court finds that it is in the best
+42 interest of the child to have such an examination.
+43 (b) Nothing in this [section] subsection affects the authority of the department to consent to
+44 physical examinations of the child at other times.
+45 [(8)] (c) [A minor child of 12 years of age or older] If the child has attained 12 years of age,
+[9]
+HB 4059
+1 the child may refuse to consent to the examination described in this subsection [(7) of this
+2 section].
+3 (d) The examination shall be conducted by or under the supervision of an individual who is a
+4 physician licensed under ORS chapter 677, a physician associate licensed under ORS 677.505 to
+5 677.525 or a nurse practitioner licensed under ORS chapter 678 and, whenever practicable, who is
+6 trained in conducting such examinations.
+7 (9) When the Department of Human Services completes an investigation under this section, if
+8 the person who made the report of child abuse provided contact information to the department, the
+9 department shall notify the person about whether contact with the child was made, whether the
+10 department determined that child abuse occurred and whether services will be provided. The de-
+11 partment is not required to disclose information under this subsection if the department determines
+12 that disclosure is not permitted under ORS 419B.035.
+13 (10) When the Department of Education receives a notification under [subsection (1) of this sec-
+14 tion] ORS 419B.015 or a report on the outcomes of an investigation under subsection (3) of this
+15 section, the Department of Education shall act under, and is subject to, ORS 339.389.
+16 SECTION 5. ORS 339.389 is amended to read:
+17 339.389. (1) When the Department of Education receives from the Department of Human Services
+18 notification of a report of abuse or receives a report on the outcomes of an investigation of abuse,
+19 as provided by ORS 419B.015, 419B.019 or 419B.020, and the notification or report involves a child
+20 and a person who is a school employee, contractor, agent or volunteer, the Department of Education
+21 may notify, as soon as practicable, any education provider that the Department of Education deter-
+22 mines must be notified to ensure the safety of children.
+23 (2) When providing notice to an education provider under subsection (1) of this section, the
+24 Department of Education:
+25 (a) Shall include any information the department determines is necessary to ensure the safety
+26 of children, including the name of the school and the name of the person who allegedly committed
+27 the suspected abuse.
+28 (b) May not disclose the name and address of, or any other identifying information about, the
+29 person who made the report of suspected abuse.
+30 (3) The Department of Education may provide information related to the notification or report
+31 received as described in subsection (1) of this section to the Teacher Standards and Practices
+32 Commission if the department determines that:
+33 (a) The commission must be notified to ensure the safety of children; and
+34 (b) The notification or report involves a person who is licensed by the commission.
+35 (4)(a) Notwithstanding ORS 192.311 to 192.478, any information received as provided by this
+36 section is not a public record and is not subject to public inspection.
+37 (b) Any person or entity who receives information under this section may not release the in-
+38 formation, unless as otherwise provided by law.
+39 (5) The State Board of Education may adopt rules for the purposes of implementing this section.
+40 SECTION 6. ORS 409.185 is amended to read:
+41 409.185. (1) The Director of Human Services shall oversee the development of standards and
+42 procedures for assessment, investigation and enforcement of child protective services.
+43 (2)(a) The Department of Human Services shall take action to implement the provision of child
+44 protective services as outlined in ORS 417.705 to 417.800 and based on the recommendations in the
+45 1992 “Oregon Child Protective Services Performance Study” published by the University of Southern
+[10]
+HB 4059
+1 Maine.
+2 (b) In all substantiated cases of child abuse and neglect, the role of the department is to com-
+3 plete a comprehensive family assessment of risk of abuse or neglect, or both, assess service needs
+4 and provide immediate protective services as necessary.
+5 (c) The department shall provide remedial services needed to ensure the safety of the child.
+6 (d) In all cases of child abuse and neglect for which a criminal investigation is conducted, the
+7 role of law enforcement agencies is to provide a legally sound, child sensitive investigation of
+8 whether abuse or neglect or both have occurred and to gather other evidence and perform other
+9 responsibilities in accordance with interagency agreements.
+10 (e) Except as provided in ORS 419B.020, the department and law enforcement agencies shall
+11 conduct the investigation and assessment concurrently[,]. The investigations must be based upon
+12 the protocols and procedures of the county child abuse multidisciplinary team in each jurisdiction.
+13 (f) When the department and law enforcement agencies conduct a joint investigation and as-
+14 sessment, the activities of the department and agencies are to be clearly differentiated by the pro-
+15 tocols of the county child abuse multidisciplinary team.
+16 (g) Nothing in this subsection is intended to be inconsistent with ORS 418.702, 418.747 and
+17 418.748 and ORS chapter 419B.
+18 (h) In all cases of child abuse for which an investigation is conducted, the department shall
+19 provide a child’s parent, guardian or caregiver with a clear written explanation of the investigation
+20 process, the court hearing process and the rights of the parent, guardian or caregiver in the abuse
+21 investigation and in the court proceedings related to the abuse investigation.
+22 (3) Upon receipt of a recommendation of the Children’s Advocate under ORS 417.815 (2)(e), the
+23 department shall implement the recommendation or give the Children’s Advocate written notice of
+24 an intent not to implement the recommendation.
+25
+26 SUBSTANTIATION STANDARD
+27
+28 SECTION 7. ORS 419B.026 is amended to read:
+29 419B.026. (1) An investigation conducted under ORS 419B.020 must conclude in one of the fol-
+30 lowing findings:
+31 (a) That the report of child abuse is founded[;]. A report of child abuse is founded when, by
+32 a preponderance of the evidence, the abuse of the child occurred.
+33 (b) That the report of child abuse is unfounded[; or]. A report of child abuse is unfounded
+34 when, by a preponderance of the evidence, the abuse of the child did not occur.
+35 (c) That the report of child abuse cannot be determined. A report of child abuse cannot be
+36 determined when there is some indication that the abuse occurred but there is insufficient
+37 evidence to conclude, by a preponderance of the evidence, that the abuse occurred or did not
+38 occur.
+39 (2) All investigations conducted under ORS 419B.020 must be conducted in accordance with ORS
+40 419B.005 to 419B.050 and result in the findings described in subsection (1) of this section until all
+41 of the following criteria have been met:
+42 (a) The child welfare workload model for the Department of Human Services is staffed at 95
+43 percent or greater;
+44 (b) A centralized, statewide child abuse hotline has been established and in operation for at least
+45 six consecutive months;
+[11]
+HB 4059
+1 (c) The department has completed investigations within timelines mandated by law and rule at
+2 least 90 percent of the time for at least six consecutive months;
+3 (d) The department has conducted in-person contacts with children who are the subject of re-
+4 ports of child abuse, as mandated by law and rule, in at least 90 percent of the reports of child abuse
+5 for at least six consecutive months; and
+6 (e) The reabuse rate for children in this state is below the national average.
+7 SECTION 8. ORS 419B.030 is amended to read:
+8 419B.030. (1) A central state registry shall be established and maintained by the Department of
+9 Human Services. The local offices of the department shall report to the state registry in writing
+10 when an investigation has shown [reasonable cause to believe], by a preponderance of the evi-
+11 dence, that a child’s condition was the result of abuse even if the cause remains unknown. Each
+12 registry shall contain current information from reports cataloged both as to the name of the child
+13 and the name of the family.
+14 (2) When the department provides specific case information from the central state registry, the
+15 department shall include a notice that the information does not necessarily reflect any subsequent
+16 proceedings that are not within the jurisdiction of the department.
+17
+18 MISCELLANEOUS
+19
+20 SECTION 9. (1) The amendments to ORS 419B.005, 419B.026 and 419B.030 by sections 1,
+21 2, 7 and 8 of this 2026 Act become operative on January 1, 2027.
+22 (2) The Department of Human Services and law enforcement agencies may take any
+23 action before the operative date specified in subsection (1) of this section that is necessary
+24 to enable the department or law enforcement agencies, on or after the operative date speci-
+25 fied in subsection (1) of this section, to undertake and exercise all of the duties, functions
+26 and powers conferred on the department or law enforcement agencies by the amendments
+27 to ORS 419B.005, 419B.026 and 419B.030 by sections 1, 2, 7 and 8 of this 2026 Act.
+28 SECTION 10. (1) The amendments to ORS 419B.005 by sections 1 and 2 of this 2026 Act
+29 apply to acts occurring on or after January 1, 2027.
+30 (2) The amendments to ORS 339.389, 409.185, 419B.015 and 419B.020 by sections 3 to 6 of
+31 this 2026 Act apply to investigations of child abuse initiated on or after the effective date of
+32 this 2026 Act.
+33 (3) The amendments to ORS 419B.026 and 419B.030 by sections 7 and 8 of this 2026 Act
+34 apply to reports of abuse occurring on or after January 1, 2027.
+35 SECTION 11. The unit captions used in this 2026 Act are provided only for the conven-
+36 ience of the reader and do not become part of the statutory law of this state or express any
+37 legislative intent in the enactment of this 2026 Act.
+38 SECTION 12. This 2026 Act being necessary for the immediate preservation of the public
+39 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+40 on its passage.
+41
+[12]
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T o c a a r I i a e l a s r a ( R t d o “ h f p o d w a c hna A m i t a c w s i o c o u a o m o t t b m t a c i t a s o t r i R o a c w i b i n l t r s u s p a d i O c 1 a a t i w o i p:M[]]
+[DELETED: B4 i O 1 a 1 s a i a c o r o a c b n 1 o a c s a a d i O 1 t p m o a c i b n l t t f t a f c s o m c t i l t e t h o P a p u 1 y o a t e o r i o u p w T r o s o a c i v o O 3 3 3 3r3 “ d n i r d u t d r i o o t]
+[DELETED: B4 E o t D o H S O H A D o a l h d a c m h p a c d a P C d i i i]
+[DELETED: B4nt C a c o t o a a s o p a B a o a b a l u O 6 o b O 4 a a b s c 7 O L 2 a s 1 c 3 O L 2 i a t A m i t a c w s i o c o u a o m o t t b m t a c i t a s o t r i R o a c w i b i n l t r s u s p C t t s d o a m i O 1 a 1 s a i a c o r o a c b n a a d i O 1 t p s w a m a N t o m o a c i b n l t a f c s o m c t i l t e t h o]
+[DELETED: B4 P a p u 1 y o a t e o r i o u p w “ d n i r d u t d r i o o t E o t D o H S O H A D o a l h d a c m h p a c d]
+[DELETED: B4)O)C E o t T S a P C a c o t o a a s o p a]
+[DELETED: B4 B a o a b a l u O 6 o b D o H S b t t t c a r h d o c a t i r b t r i l a t t o t c T r m c i k t t e g f t a a a o i t t p m t b m b h i e t c o t a a t i o t a l e a w t c w t a a o o i t i u t c w t c r o i t c i u t c m a r o t a c a t t c c W a r o a c a i r b t d o b a l a t d o l e a o b s m tgn r t r s m t c m h b s a i r b t d t d s n t a f t c o c o w a]
+[DELETED: B4 m n b d u t s A p o e t w n i N t o i b t s t d i n r[] t n a c o t a o t[ T t[] I t a c a [] i s t a t b t D o E u N s ( t ( o t s t D o H H a t t c b o t p r t t c p]
+[DELETED: B4 I H b a o s t c t i s a d i] ( [] I a l e)I t l e a c t i c a i u t s f r c t b t i O 4 T d p f a t t c o t s]] o H S a l e o t d o l e o s i p m i n i w t i r b p ( o t s a s b o t t p t d i p s i n t p o] I a l e o o t D o H S w t  i p c h r c t b t t c h b a b] p e o t a e a i l t d t c m a  N i t [] s a t a o t d t c t][])A]
+[DELETED: B4 c m r t c t t e d i t s  o t l u O c 6 a p a l u O 6 t W t D o H S c a i u t s i s n t p a w c w t c w m w t d t c a o a w s w b p.T d O 4 o a r o t o o a i u s ( o t W p n t a e p u s ( o t s t S i a i t d d i n t e t M n d t n a a o o a o i o r a d i s ( o t s t t T S a P N O 1 t 1 a i r a p b t A p o e w r i u t s m n r t i ( T D o H S s o t d o s a]
+[DELETED: B4 I a s o n o b a s n o l e a i t p a l s c s i o a o n o b h o a t g o e a p o l e a s[] W t d a l e a c a j i a a N i t s i i t b i w O 4 4 a I a c o c a f w a i i c t d s s i t r u O 4 m c i o o t fgf[] T t r o c a i u[] A r o c a i u o T t r o c a c b d A t 4 a r i t f d i T c w w m f t D o H S i s a 9]
+[DELETED: B4 T d h c i c w c w a t s o r S T l o o t d s r t t s r i w a i h s [] b a p o t e c t b t a c c w t r o a e i t c r u E s c c i s i.( 1 T D o H S a l e a m t a t d f p c o t d o l.( T a.T.T h a s a e i]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4059
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Early Childhood and Human Services for Representative Annessa Hartman)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes what “threatened harm” means when talking about hurting a child. It
+says that DHS can only look into some reports of child abuse. It also makes a rule for how certain
+reports of child abuse are resolved. It is an emergency law and starts right away. (Flesch Read-
+ability Score: 78.7).
+Modifies the definition of “threatened harm” for purposes of determining whether a child has
+been abused.
+Limits the investigative jurisdiction of the Department of Human Services to investigate certain
+reports of child abuse.
+Creates a statutory substantiation standard for certain reports of alleged child abuse.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to child abuse; creating new provisions; amending ORS 339.389, 409.185, 419B.005, 419B.015,
+3 419B.020, 419B.026 and 419B.030; and declaring an emergency.
+4 Be It Enacted by the People of the State of Oregon:
+5
+6 THREATENED HARM
+7
+8 SECTION 1. ORS 419B.005 is amended to read:
+9 419B.005. As used in ORS 419B.005 to 419B.050, unless the context requires otherwise:
+10 (1)(a) “Abuse” means:
+11 (A) Any assault, as defined in ORS chapter 163, of a child and any physical injury to a child that
+12 has been caused by other than accidental means, including any injury that appears to be at variance
+13 with the explanation given of the injury.
+14 (B) Any mental injury to a child, which shall include only cruel or unconscionable acts or
+15 statements made, or threatened to be made, to a child if the acts, statements or threats result in
+16 severe harm, as defined in ORS 419B.150, to the child’s psychological, cognitive, emotional or so-
+17 cial well-being and functioning.
+18 (C) Rape of a child, which includes but is not limited to rape, sodomy, unlawful sexual pene-
+19 tration and incest, as those acts are described in ORS chapter 163.
+20 (D) Sexual abuse, as described in ORS chapter 163.
+21 (E) Sexual exploitation, including but not limited to:
+22 (i) Contributing to the sexual delinquency of a minor, as defined in ORS chapter 163, and any
+23 other conduct that allows, employs, authorizes, permits, induces or encourages a child to engage in
+24 the performing for people to observe or the photographing, filming, tape recording or other exhibi-
+25 tion that, in whole or in part, depicts sexual conduct or contact, as defined in ORS 167.002 or de-
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 266
+
+HB 4059
+1 scribed in ORS 163.665 and 163.670, sexual abuse involving a child or rape of a child, but not
+2 including any conduct that is part of any investigation conducted pursuant to ORS 419B.020 or that
+3 is designed to serve educational or other legitimate purposes; and
+4 (ii) Allowing, permitting, encouraging or hiring a child to engage in prostitution as described in
+5 ORS 167.007 or a commercial sex act as defined in ORS 163.266, to purchase sex with a minor as
+6 described in ORS 163.413 or to engage in commercial sexual solicitation as described in ORS 167.008.
+7 (F) Negligent treatment or maltreatment of a child, including but not limited to the failure to
+8 provide adequate food, clothing, shelter or medical care that is likely to endanger the health or
+9 welfare of the child.
+10 [(G) Threatened harm to a child, which means subjecting a child to a substantial risk of harm to
+11 the child’s health or welfare.]
+12 (G) Threatened harm to a child, which means subjecting a child to an imminent risk of
+13 severe harm, as defined in ORS 419B.150, to the child’s health or welfare.
+14 (H) Buying or selling a person under 18 years of age as described in ORS 163.537.
+15 (I) Permitting a person under 18 years of age to enter or remain in or upon premises where
+16 methamphetamines are being manufactured.
+17 (J) Unlawful exposure to a controlled substance, as defined in ORS 475.005, or to the unlawful
+18 manufacturing of a cannabinoid extract, as defined in ORS 475C.009, that subjects a child to a sub-
+19 stantial risk of harm to the child’s health or safety.
+20 (K) The restraint or seclusion of a child in violation of ORS 339.285, 339.288, 339.291, 339.303
+21 or 339.308.
+22 (L) The infliction of corporal punishment on a child in violation of ORS 339.250 (9).
+23 (b) “Abuse” does not include reasonable discipline unless the discipline results in one of the
+24 conditions described in paragraph (a) of this subsection.
+25 (2) “Child” means an unmarried person who:
+26 (a) Is under 18 years of age; or
+27 (b) Is a child in care, as defined in ORS 418.257.
+28 (3) “Higher education institution” means:
+29 (a) A community college as defined in ORS 341.005;
+30 (b) A public university listed in ORS 352.002;
+31 (c) The Oregon Health and Science University; and
+32 (d) A private institution of higher education located in Oregon.
+33 (4)(a) “Investigation” means a detailed inquiry into or assessment of the safety of a child alleged
+34 to have experienced abuse.
+35 (b) “Investigation” does not include screening activities conducted upon the receipt of a report.
+36 (5) “Law enforcement agency” means:
+37 (a) A city or municipal police department.
+38 (b) A county sheriff’s office.
+39 (c) The Oregon State Police.
+40 (d) A police department established by a university under ORS 352.121 or 353.125.
+41 (e) A county juvenile department.
+42 (6) “Public or private official” means:
+43 (a) Physician or physician associate licensed under ORS chapter 677 or naturopathic physician,
+44 including any intern or resident.
+45 (b) Dentist.
+[2]
+
+HB 4059
+1 (c) School employee, including an employee of a higher education institution.
+2 (d) Licensed practical nurse, registered nurse, nurse practitioner, nurse’s aide, home health aide
+3 or employee of an in-home health service.
+4 (e) Employee of the Department of Human Services, Oregon Health Authority, Department of
+5 Early Learning and Care, Department of Education, Youth Development Division, the Oregon Youth
+6 Authority, a local health department, a community mental health program, a community develop-
+7 mental disabilities program, a county juvenile department, a child-caring agency as that term is de-
+8 fined in ORS 418.205 or an alcohol and drug treatment program.
+9 (f) Peace officer.
+10 (g) Psychologist.
+11 (h) Member of the clergy.
+12 (i) Regulated social worker.
+13 (j) Optometrist.
+14 (k) Chiropractor.
+15 (L) Certified provider of foster care, or an employee thereof.
+16 (m) Attorney.
+17 (n) Licensed professional counselor.
+18 (o) Licensed marriage and family therapist.
+19 (p) Firefighter or emergency medical services provider.
+20 (q) Court appointed special advocate, as defined in ORS 419A.004.
+21 (r) Child care provider registered or certified under ORS 329A.250 to 329A.450.
+22 (s) Elected official of a branch of government of this state or a state agency, board, commission
+23 or department of a branch of government of this state or of a city, county or other political subdi-
+24 vision in this state.
+25 (t) Physical, speech or occupational therapist.
+26 (u) Audiologist.
+27 (v) Speech-language pathologist.
+28 (w) Employee of the Teacher Standards and Practices Commission directly involved in investi-
+29 gations or discipline by the commission.
+30 (x) Pharmacist.
+31 (y) Operator of a preschool recorded program under ORS 329A.255.
+32 (z) Operator of a school-age recorded program under ORS 329A.255.
+33 (aa) Employee of a private agency or organization facilitating the provision of respite services,
+34 as defined in ORS 418.205, for parents pursuant to a properly executed power of attorney under ORS
+35 109.056.
+36 (bb) Employee of a public or private organization providing child-related services or activities:
+37 (A) Including but not limited to an employee of a:
+38 (i) Youth group or center;
+39 (ii) Scout group or camp;
+40 (iii) Summer or day camp;
+41 (iv) Survival camp; or
+42 (v) Group, center or camp that is operated under the guidance, supervision or auspices of a re-
+43 ligious, public or private educational system or a community service organization; and
+44 (B) Excluding an employee of a qualified victim services program as defined in ORS 147.600 that
+45 provides confidential, direct services to victims of domestic violence, sexual assault, stalking or hu-
+[3]
+
+HB 4059
+1 man trafficking.
+2 (cc) Coach, assistant coach or trainer of an amateur, semiprofessional or professional athlete,
+3 if compensated and if the athlete is a child.
+4 (dd) Personal support worker, as defined in ORS 410.600.
+5 (ee) Home care worker, as defined in ORS 410.600.
+6 (ff) Animal control officer, as defined in ORS 609.500.
+7 (gg) Member of a school district board, an education service district board or a public charter
+8 school governing body.
+9 (hh) Individual who is paid by a public body, in accordance with ORS 430.215, to provide a ser-
+10 vice identified in an individualized service plan of a child with a developmental disability.
+11 (ii) Referral agent, as defined in ORS 418.351.
+12 (jj) Parole and probation officer, as defined in ORS 181A.355.
+13 (kk) Behavior analyst or assistant behavior analyst licensed under ORS 676.810 or behavior
+14 analysis interventionist registered by the Health Licensing Office under ORS 676.815.
+15 (LL) Massage therapist, as defined in ORS 687.011.
+16 SECTION 2. ORS 419B.005, as amended by section 6, chapter 581, Oregon Laws 2023, section
+17 65, chapter 73, Oregon Laws 2024, and section 10, chapter 308, Oregon Laws 2025, is amended to
+18 read:
+19 419B.005. As used in ORS 419B.005 to 419B.050, unless the context requires otherwise:
+20 (1)(a) “Abuse” means:
+21 (A) Any assault, as defined in ORS chapter 163, of a child and any physical injury to a child that
+22 has been caused by other than accidental means, including any injury that appears to be at variance
+23 with the explanation given of the injury.
+24 (B) Any mental injury to a child, which shall include only cruel or unconscionable acts or
+25 statements made, or threatened to be made, to a child if the acts, statements or threats result in
+26 severe harm, as defined in ORS 419B.150, to the child’s psychological, cognitive, emotional or so-
+27 cial well-being and functioning.
+28 (C) Rape of a child, which includes but is not limited to rape, sodomy, unlawful sexual pene-
+29 tration and incest, as those acts are described in ORS chapter 163.
+30 (D) Sexual abuse, as described in ORS chapter 163.
+31 (E) Sexual exploitation, including but not limited to:
+32 (i) Contributing to the sexual delinquency of a minor, as defined in ORS chapter 163, and any
+33 other conduct that allows, employs, authorizes, permits, induces or encourages a child to engage in
+34 the performing for people to observe or the photographing, filming, tape recording or other exhibi-
+35 tion that, in whole or in part, depicts sexual conduct or contact, as defined in ORS 167.002 or de-
+36 scribed in ORS 163.665 and 163.670, sexual abuse involving a child or rape of a child, but not
+37 including any conduct that is part of any investigation conducted pursuant to ORS 419B.020 or that
+38 is designed to serve educational or other legitimate purposes; and
+39 (ii) Allowing, permitting, encouraging or hiring a child to engage in prostitution as described in
+40 ORS 167.007 or a commercial sex act as defined in ORS 163.266, to purchase sex with a minor as
+41 described in ORS 163.413 or to engage in commercial sexual solicitation as described in ORS 167.008.
+42 (F) Negligent treatment or maltreatment of a child, including but not limited to the failure to
+43 provide adequate food, clothing, shelter or medical care that is likely to endanger the health or
+44 welfare of the child.
+45 [(G) Threatened harm to a child, which means subjecting a child to a substantial risk of harm to
+[4]
+
+HB 4059
+1 the child’s health or welfare.]
+2 (G) Threatened harm to a child, which means subjecting a child to an imminent risk of
+3 severe harm, as defined in ORS 419B.150, to the child’s health or welfare.
+4 (H) Buying or selling a person under 18 years of age as described in ORS 163.537.
+5 (I) Permitting a person under 18 years of age to enter or remain in or upon premises where
+6 methamphetamines are being manufactured.
+7 (J) Unlawful exposure to a controlled substance, as defined in ORS 475.005, or to the unlawful
+8 manufacturing of a cannabinoid extract, as defined in ORS 475C.009, that subjects a child to a sub-
+9 stantial risk of harm to the child’s health or safety.
+10 (K) The infliction of corporal punishment on a child in violation of ORS 339.250 (9).
+11 (b) “Abuse” does not include reasonable discipline unless the discipline results in one of the
+12 conditions described in paragraph (a) of this subsection.
+13 (2) “Child” means an unmarried person who:
+14 (a) Is under 18 years of age; or
+15 (b) Is a child in care, as defined in ORS 418.257.
+16 (3) “Higher education institution” means:
+17 (a) A community college as defined in ORS 341.005;
+18 (b) A public university listed in ORS 352.002;
+19 (c) The Oregon Health and Science University; and
+20 (d) A private institution of higher education located in Oregon.
+21 (4)(a) “Investigation” means a detailed inquiry into or assessment of the safety of a child alleged
+22 to have experienced abuse.
+23 (b) “Investigation” does not include screening activities conducted upon the receipt of a report.
+24 (5) “Law enforcement agency” means:
+25 (a) A city or municipal police department.
+26 (b) A county sheriff’s office.
+27 (c) The Oregon State Police.
+28 (d) A police department established by a university under ORS 352.121 or 353.125.
+29 (e) A county juvenile department.
+30 (6) “Public or private official” means:
+31 (a) Physician or physician associate licensed under ORS chapter 677 or naturopathic physician,
+32 including any intern or resident.
+33 (b) Dentist.
+34 (c) School employee, including an employee of a higher education institution.
+35 (d) Licensed practical nurse, registered nurse, nurse practitioner, nurse’s aide, home health aide
+36 or employee of an in-home health service.
+37 (e) Employee of the Department of Human Services, Oregon Health Authority, Department of
+38 Early Learning and Care, Department of Education, Youth Development Division, the Oregon Youth
+39 Authority, a local health department, a community mental health program, a community develop-
+40 mental disabilities program, a county juvenile department, a child-caring agency as that term is de-
+41 fined in ORS 418.205 or an alcohol and drug treatment program.
+42 (f) Peace officer.
+43 (g) Psychologist.
+44 (h) Member of the clergy.
+45 (i) Regulated social worker.
+[5]
+
+HB 4059
+1 (j) Optometrist.
+2 (k) Chiropractor.
+3 (L) Certified provider of foster care, or an employee thereof.
+4 (m) Attorney.
+5 (n) Licensed professional counselor.
+6 (o) Licensed marriage and family therapist.
+7 (p) Firefighter or emergency medical services provider.
+8 (q) Court appointed special advocate, as defined in ORS 419A.004.
+9 (r) Child care provider registered or certified under ORS 329A.250 to 329A.450.
+10 (s) Elected official of a branch of government of this state or a state agency, board, commission
+11 or department of a branch of government of this state or of a city, county or other political subdi-
+12 vision in this state.
+13 (t) Physical, speech or occupational therapist.
+14 (u) Audiologist.
+15 (v) Speech-language pathologist.
+16 (w) Employee of the Teacher Standards and Practices Commission directly involved in investi-
+17 gations or discipline by the commission.
+18 (x) Pharmacist.
+19 (y) Operator of a preschool recorded program under ORS 329A.255.
+20 (z) Operator of a school-age recorded program under ORS 329A.255.
+21 (aa) Employee of a private agency or organization facilitating the provision of respite services,
+22 as defined in ORS 418.205, for parents pursuant to a properly executed power of attorney under ORS
+23 109.056.
+24 (bb) Employee of a public or private organization providing child-related services or activities:
+25 (A) Including but not limited to an employee of a:
+26 (i) Youth group or center;
+27 (ii) Scout group or camp;
+28 (iii) Summer or day camp;
+29 (iv) Survival camp; or
+30 (v) Group, center or camp that is operated under the guidance, supervision or auspices of a re-
+31 ligious, public or private educational system or a community service organization; and
+32 (B) Excluding an employee of a qualified victim services program as defined in ORS 147.600 that
+33 provides confidential, direct services to victims of domestic violence, sexual assault, stalking or hu-
+34 man trafficking.
+35 (cc) Coach, assistant coach or trainer of an amateur, semiprofessional or professional athlete,
+36 if compensated and if the athlete is a child.
+37 (dd) Personal support worker, as defined in ORS 410.600.
+38 (ee) Home care worker, as defined in ORS 410.600.
+39 (ff) Animal control officer, as defined in ORS 609.500.
+40 (gg) Member of a school district board, an education service district board or a public charter
+41 school governing body.
+42 (hh) Individual who is paid by a public body, in accordance with ORS 430.215, to provide a ser-
+43 vice identified in an individualized service plan of a child with a developmental disability.
+44 (ii) Referral agent, as defined in ORS 418.351.
+45 (jj) Parole and probation officer, as defined in ORS 181A.355.
+[6]
+
+HB 4059
+1 (kk) Behavior analyst or assistant behavior analyst licensed under ORS 676.810 or behavior
+2 analysis interventionist registered by the Health Licensing Office under ORS 676.815.
+3 (LL) Massage therapist, as defined in ORS 687.011.
+4
+5 INVESTIGATIVE JURISDICTION
+6
+7 SECTION 3. ORS 419B.015 is amended to read:
+8 419B.015. (1)(a) A person making a voluntary report of child abuse shall make an oral report to
+9 the Department of Human Services by telephone to the child abuse reporting hotline described in
+10 ORS 418.190 or to a law enforcement agency within the county where the person making the report
+11 is located at the time of the contact. A person making a report of child abuse that is required by
+12 ORS 419B.010 shall make the report to the department through the centralized child abuse reporting
+13 system described in ORS 418.190 or to a law enforcement agency within the county where the person
+14 making the report is located at the time of the contact. The report must contain, if known, the
+15 names and addresses of the child and the parents of the child or other persons responsible for care
+16 of the child, the child’s age, the nature and extent of the abuse, including any evidence of previous
+17 abuse, the explanation given for the abuse and any other information that the person making the
+18 report believes might be helpful in establishing the cause of the abuse and the identity of the
+19 perpetrator.
+20 (b)(A) When a report of alleged child abuse is received by the department, the department shall
+21 notify a law enforcement agency within the county where the alleged abuse occurred or, if that
+22 county is unknown, the county where the child resides or, if that county is unknown, the county
+23 where the reporter came into contact with the child or the alleged perpetrator of the abuse.
+24 (B) When a report of alleged child abuse is received by a law enforcement agency, the agency
+25 shall notify the department by making a report of the alleged child abuse to the centralized child
+26 abuse reporting system described in ORS 418.190.
+27 (c) When a report of alleged child abuse is received by the department or by a law enforcement
+28 agency, the department or law enforcement agency, or both, may collect information concerning the
+29 military status of the parent or guardian of the child who is the subject of the report and may share
+30 the information with the appropriate military authorities. Disclosure of information under this par-
+31 agraph is subject to ORS 419B.035 (7).
+32 (d) When a report of alleged child abuse is received by the department or by a law
+33 enforcement agency, the department or law enforcement agency, or both, shall make the
+34 following notifications:
+35 (A) To the Department of Early Learning and Care if the alleged child abuse occurred in
+36 a child care facility as defined in ORS 329A.250; or
+37 (B) To the Department of Education if the alleged child abuse occurred in a school, was
+38 related to a school-sponsored activity or was conduct that may be subject to actions taken
+39 by the Department of Education under ORS 339.370 to 339.400.
+40 (2) When a report of alleged child abuse is received under subsection (1)(a) of this section, the
+41 entity receiving the report shall make the notification required by subsection (1)(b) of this section
+42 according to rules adopted by the Department of Human Services under ORS 419B.017.
+43 (3)(a) When a report alleging that a child or ward in substitute care may have been subjected
+44 to abuse is received by the department, the department shall notify the attorney for the child or
+45 ward, the child’s or ward’s court appointed special advocate, the parents of the child or ward and
+[7]
+
+HB 4059
+1 any attorney representing a parent of the child or ward that a report has been received.
+2 (b) The name and address of and other identifying information about the person who made the
+3 report may not be disclosed under this subsection. Any person or entity to whom notification is
+4 made under this subsection may not release any information not authorized by this subsection.
+5 (c) The department shall make the notification required by this subsection within three business
+6 days of receiving the report of alleged child abuse.
+7 (d) Notwithstanding the obligation imposed by this subsection, the department is not required
+8 under this subsection to notify the parent or parent’s attorney that a report of alleged child abuse
+9 has been received if the notification may interfere with an investigation or assessment or jeopardize
+10 the child’s or ward’s safety.
+11 SECTION 4. ORS 419B.020 is amended to read:
+12 419B.020. (1) If the Department of Human Services or a law enforcement agency receives a re-
+13 port of child abuse, the department or the agency shall immediately[:]
+14 [(a)] cause an investigation to be made to determine the nature and cause of the abuse of the
+15 child. [; and]
+16 [(b) Make the following notifications:]
+17 [(A) To the Department of Early Learning and Care if the alleged child abuse occurred in a child
+18 care facility as defined in ORS 329A.250; or]
+19 [(B) To the Department of Education if the alleged child abuse occurred in a school, was related
+20 to a school-sponsored activity or was conduct that may be subject to actions taken by the Department
+21 of Education under ORS 339.370 to 339.400.]
+22 (2) The department [of Human Services] shall ensure that an investigation required by subsection
+23 (1) of this section is completed if the report is not investigated by a law enforcement agency.
+24 (3) If the alleged child abuse [reported] described in subsection (1) of this section occurred at
+25 a child care facility or in a school, was related to a school-sponsored activity or was conduct that
+26 may be subject to actions taken by the Department of Education under ORS 339.370 to 339.400:
+27 (a) The Department of Human Services and the law enforcement agency shall jointly determine
+28 the roles and responsibilities of the Department of Human Services and the agency in their respec-
+29 tive investigations; and
+30 (b) The Department of Human Services and the agency shall each report the outcomes of their
+31 investigations:
+32 (A) To the Department of Early Learning and Care if the alleged child abuse occurred in a child
+33 care facility as defined in ORS 329A.250; or
+34 (B) To the Department of Education if the alleged child abuse:
+35 (i) Occurred in a school;
+36 (ii) Was related to a school-sponsored activity; or
+37 (iii) Was conduct that may be subject to actions taken by the Department of Education under
+38 ORS 339.370 to 339.400.
+39 (4) Notwithstanding subsections (1) to (3) of this section, the Department of Human
+40 Services is required under this section to investigate a report of child abuse only if the al-
+41 leged perpetrator of the abuse:
+42 (a) Is a parent, guardian or custodian of the child;
+43 (b) Has attained 18 years of age and:
+44 (A) Lives in the child’s home;
+45 (B) Has access to the child based on the person’s relationship to the child’s parent,
+[8]
+
+HB 4059
+1 guardian, custodian, household member or caregiver or to any other person who may have
+2 authority or control over the child;
+3 (C) Is in a role, position or occupation in which the person has access to, responsibility
+4 for, power over or the trust of the child;
+5 (D) Has been accused of subjecting the child to involuntary servitude, as described in
+6 ORS 163.263 or 163.264, or trafficking, as described in ORS 163.266; or
+7 (E) Is determined by the department to be an individual from whom the department can,
+8 consistent with ORS 409.185, safeguard the child against further abuse through the provision
+9 of child protective services;
+10 (c) Is a child care facility, as defined in ORS 329A.250; or
+11 (d) Is an education provider, as defined in ORS 339.370.
+12 [(4)] (5) [If the law enforcement agency conducting the investigation] If a law enforcement
+13 agency conducting an investigation under this section finds reasonable cause to believe that
+14 abuse has occurred, the law enforcement agency shall notify the Department of Human Services by
+15 making an oral report followed by a written report to the centralized child abuse reporting system
+16 described in ORS 418.190. The department shall provide protective social services of its own or of
+17 other available social agencies if necessary to prevent further abuses to the child or to safeguard
+18 the child’s welfare.
+19 [(5) ] (6) If a child is taken into protective custody by the Department of Human Services, the
+20 department shall promptly make reasonable efforts to ascertain the name and address of the child’s
+21 parents or guardian.
+22 [(6)(a)] (7)(a) If a child is taken into protective custody by the Department of Human Services
+23 or a law enforcement official, the department or law enforcement official shall, if possible, make
+24 reasonable efforts to advise the parents or guardian immediately, regardless of the time of day, that
+25 the child has been taken into custody, the reasons the child has been taken into custody and general
+26 information about the child’s placement, and the telephone number of the local office of the depart-
+27 ment and any after-hours telephone numbers.
+28 (b) Notice may be given by any means reasonably certain of notifying the parents or guardian,
+29 including but not limited to written, telephonic or in-person oral notification. If the initial notifica-
+30 tion is not in writing, the information required by paragraph (a) of this subsection also shall be
+31 provided to the parents or guardian in writing as soon as possible.
+32 (c) The department also shall make a reasonable effort to notify the noncustodial parent of the
+33 information required by paragraph (a) of this subsection in a timely manner.
+34 (d) If a child is taken into custody while under the care and supervision of a person or organ-
+35 ization other than the parent, the department, if possible, shall immediately notify the person or
+36 organization that the child has been taken into protective custody.
+37 [(7)] (8)(a) If a law enforcement officer or the Department of Human Services, when taking a
+38 child into protective custody, has reasonable cause to believe that the child has been affected by
+39 [sexual abuse and] rape or sexual abuse of a child as defined in ORS 419B.005 (1)(a)(C) or (D) and
+40 that physical evidence of the abuse exists and is likely to disappear, the court may authorize a
+41 physical examination for the purposes of preserving evidence if the court finds that it is in the best
+42 interest of the child to have such an examination.
+43 (b) Nothing in this [section] subsection affects the authority of the department to consent to
+44 physical examinations of the child at other times.
+45 [(8)] (c) [A minor child of 12 years of age or older] If the child has attained 12 years of age,
+[9]
+
+HB 4059
+1 the child may refuse to consent to the examination described in this subsection [(7) of this
+2 section].
+3 (d) The examination shall be conducted by or under the supervision of an individual who is a
+4 physician licensed under ORS chapter 677, a physician associate licensed under ORS 677.505 to
+5 677.525 or a nurse practitioner licensed under ORS chapter 678 and, whenever practicable, who is
+6 trained in conducting such examinations.
+7 (9) When the Department of Human Services completes an investigation under this section, if
+8 the person who made the report of child abuse provided contact information to the department, the
+9 department shall notify the person about whether contact with the child was made, whether the
+10 department determined that child abuse occurred and whether services will be provided. The de-
+11 partment is not required to disclose information under this subsection if the department determines
+12 that disclosure is not permitted under ORS 419B.035.
+13 (10) When the Department of Education receives a notification under [subsection (1) of this sec-
+14 tion] ORS 419B.015 or a report on the outcomes of an investigation under subsection (3) of this
+15 section, the Department of Education shall act under, and is subject to, ORS 339.389.
+16 SECTION 5. ORS 339.389 is amended to read:
+17 339.389. (1) When the Department of Education receives from the Department of Human Services
+18 notification of a report of abuse or receives a report on the outcomes of an investigation of abuse,
+19 as provided by ORS 419B.015, 419B.019 or 419B.020, and the notification or report involves a child
+20 and a person who is a school employee, contractor, agent or volunteer, the Department of Education
+21 may notify, as soon as practicable, any education provider that the Department of Education deter-
+22 mines must be notified to ensure the safety of children.
+23 (2) When providing notice to an education provider under subsection (1) of this section, the
+24 Department of Education:
+25 (a) Shall include any information the department determines is necessary to ensure the safety
+26 of children, including the name of the school and the name of the person who allegedly committed
+27 the suspected abuse.
+28 (b) May not disclose the name and address of, or any other identifying information about, the
+29 person who made the report of suspected abuse.
+30 (3) The Department of Education may provide information related to the notification or report
+31 received as described in subsection (1) of this section to the Teacher Standards and Practices
+32 Commission if the department determines that:
+33 (a) The commission must be notified to ensure the safety of children; and
+34 (b) The notification or report involves a person who is licensed by the commission.
+35 (4)(a) Notwithstanding ORS 192.311 to 192.478, any information received as provided by this
+36 section is not a public record and is not subject to public inspection.
+37 (b) Any person or entity who receives information under this section may not release the in-
+38 formation, unless as otherwise provided by law.
+39 (5) The State Board of Education may adopt rules for the purposes of implementing this section.
+40 SECTION 6. ORS 409.185 is amended to read:
+41 409.185. (1) The Director of Human Services shall oversee the development of standards and
+42 procedures for assessment, investigation and enforcement of child protective services.
+43 (2)(a) The Department of Human Services shall take action to implement the provision of child
+44 protective services as outlined in ORS 417.705 to 417.800 and based on the recommendations in the
+45 1992 “Oregon Child Protective Services Performance Study” published by the University of Southern
+[10]
+
+HB 4059
+1 Maine.
+2 (b) In all substantiated cases of child abuse and neglect, the role of the department is to com-
+3 plete a comprehensive family assessment of risk of abuse or neglect, or both, assess service needs
+4 and provide immediate protective services as necessary.
+5 (c) The department shall provide remedial services needed to ensure the safety of the child.
+6 (d) In all cases of child abuse and neglect for which a criminal investigation is conducted, the
+7 role of law enforcement agencies is to provide a legally sound, child sensitive investigation of
+8 whether abuse or neglect or both have occurred and to gather other evidence and perform other
+9 responsibilities in accordance with interagency agreements.
+10 (e) Except as provided in ORS 419B.020, the department and law enforcement agencies shall
+11 conduct the investigation and assessment concurrently[,]. The investigations must be based upon
+12 the protocols and procedures of the county child abuse multidisciplinary team in each jurisdiction.
+13 (f) When the department and law enforcement agencies conduct a joint investigation and as-
+14 sessment, the activities of the department and agencies are to be clearly differentiated by the pro-
+15 tocols of the county child abuse multidisciplinary team.
+16 (g) Nothing in this subsection is intended to be inconsistent with ORS 418.702, 418.747 and
+17 418.748 and ORS chapter 419B.
+18 (h) In all cases of child abuse for which an investigation is conducted, the department shall
+19 provide a child’s parent, guardian or caregiver with a clear written explanation of the investigation
+20 process, the court hearing process and the rights of the parent, guardian or caregiver in the abuse
+21 investigation and in the court proceedings related to the abuse investigation.
+22 (3) Upon receipt of a recommendation of the Children’s Advocate under ORS 417.815 (2)(e), the
+23 department shall implement the recommendation or give the Children’s Advocate written notice of
+24 an intent not to implement the recommendation.
+25
+26 SUBSTANTIATION STANDARD
+27
+28 SECTION 7. ORS 419B.026 is amended to read:
+29 419B.026. (1) An investigation conducted under ORS 419B.020 must conclude in one of the fol-
+30 lowing findings:
+31 (a) That the report of child abuse is founded[;]. A report of child abuse is founded when, by
+32 a preponderance of the evidence, the abuse of the child occurred.
+33 (b) That the report of child abuse is unfounded[; or]. A report of child abuse is unfounded
+34 when, by a preponderance of the evidence, the abuse of the child did not occur.
+35 (c) That the report of child abuse cannot be determined. A report of child abuse cannot be
+36 determined when there is some indication that the abuse occurred but there is insufficient
+37 evidence to conclude, by a preponderance of the evidence, that the abuse occurred or did not
+38 occur.
+39 (2) All investigations conducted under ORS 419B.020 must be conducted in accordance with ORS
+40 419B.005 to 419B.050 and result in the findings described in subsection (1) of this section until all
+41 of the following criteria have been met:
+42 (a) The child welfare workload model for the Department of Human Services is staffed at 95
+43 percent or greater;
+44 (b) A centralized, statewide child abuse hotline has been established and in operation for at least
+45 six consecutive months;
+[11]
+
+HB 4059
+1 (c) The department has completed investigations within timelines mandated by law and rule at
+2 least 90 percent of the time for at least six consecutive months;
+3 (d) The department has conducted in-person contacts with children who are the subject of re-
+4 ports of child abuse, as mandated by law and rule, in at least 90 percent of the reports of child abuse
+5 for at least six consecutive months; and
+6 (e) The reabuse rate for children in this state is below the national average.
+7 SECTION 8. ORS 419B.030 is amended to read:
+8 419B.030. (1) A central state registry shall be established and maintained by the Department of
+9 Human Services. The local offices of the department shall report to the state registry in writing
+10 when an investigation has shown [reasonable cause to believe], by a preponderance of the evi-
+11 dence, that a child’s condition was the result of abuse even if the cause remains unknown. Each
+12 registry shall contain current information from reports cataloged both as to the name of the child
+13 and the name of the family.
+14 (2) When the department provides specific case information from the central state registry, the
+15 department shall include a notice that the information does not necessarily reflect any subsequent
+16 proceedings that are not within the jurisdiction of the department.
+17
+18 MISCELLANEOUS
+19
+20 SECTION 9. (1) The amendments to ORS 419B.005, 419B.026 and 419B.030 by sections 1,
+21 2, 7 and 8 of this 2026 Act become operative on January 1, 2027.
+22 (2) The Department of Human Services and law enforcement agencies may take any
+23 action before the operative date specified in subsection (1) of this section that is necessary
+24 to enable the department or law enforcement agencies, on or after the operative date speci-
+25 fied in subsection (1) of this section, to undertake and exercise all of the duties, functions
+26 and powers conferred on the department or law enforcement agencies by the amendments
+27 to ORS 419B.005, 419B.026 and 419B.030 by sections 1, 2, 7 and 8 of this 2026 Act.
+28 SECTION 10. (1) The amendments to ORS 419B.005 by sections 1 and 2 of this 2026 Act
+29 apply to acts occurring on or after January 1, 2027.
+30 (2) The amendments to ORS 339.389, 409.185, 419B.015 and 419B.020 by sections 3 to 6 of
+31 this 2026 Act apply to investigations of child abuse initiated on or after the effective date of
+32 this 2026 Act.
+33 (3) The amendments to ORS 419B.026 and 419B.030 by sections 7 and 8 of this 2026 Act
+34 apply to reports of abuse occurring on or after January 1, 2027.
+35 SECTION 11. The unit captions used in this 2026 Act are provided only for the conven-
+36 ience of the reader and do not become part of the statutory law of this state or express any
+37 legislative intent in the enactment of this 2026 Act.
+38 SECTION 12. This 2026 Act being necessary for the immediate preservation of the public
+39 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+40 on its passage.
+41
+[12]
+
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T o c a a r I i a e l a s r a ( R t d o “ h f p o d w a c hna A m i t a c w s i o c o u a o m o t t b m t a c i t a s o t r i R o a c w i b i n l t r s u s p a d i O c 1 a a t i w o i p:M[]]
+[DELETED: B4 i O 1 a 1 s a i a c o r o a c b n 1 o a c s a a d i O 1 t p m o a c i b n l t t f t a f c s o m c t i l t e t h o P a p u 1 y o a t e o r i o u p w T r o s o a c i v o O 3 3 3 3r3 “ d n i r d u t d r i o o t]
+[DELETED: B4 E o t D o H S O H A D o a l h d a c m h p a c d a P C d i i i]
+[DELETED: B4nt C a c o t o a a s o p a B a o a b a l u O 6 o b O 4 a a b s c 7 O L 2 a s 1 c 3 O L 2 i a t A m i t a c w s i o c o u a o m o t t b m t a c i t a s o t r i R o a c w i b i n l t r s u s p C t t s d o a m i O 1 a 1 s a i a c o r o a c b n a a d i O 1 t p s w a m a N t o m o a c i b n l t a f c s o m c t i l t e t h o]
+[DELETED: B4 P a p u 1 y o a t e o r i o u p w “ d n i r d u t d r i o o t E o t D o H S O H A D o a l h d a c m h p a c d]
+[DELETED: B4)O)C E o t T S a P C a c o t o a a s o p a]
+[DELETED: B4 B a o a b a l u O 6 o b D o H S b t t t c a r h d o c a t i r b t r i l a t t o t c T r m c i k t t e g f t a a a o i t t p m t b m b h i e t c o t a a t i o t a l e a w t c w t a a o o i t i u t c w t c r o i t c i u t c m a r o t a c a t t c c W a r o a c a i r b t d o b a l a t d o l e a o b s m tgn r t r s m t c m h b s a i r b t d t d s n t a f t c o c o w a]
+[DELETED: B4 m n b d u t s A p o e t w n i N t o i b t s t d i n r[] t n a c o t a o t[ T t[] I t a c a [] i s t a t b t D o E u N s ( t ( o t s t D o H H a t t c b o t p r t t c p]
+[DELETED: B4 I H b a o s t c t i s a d i] ( [] I a l e)I t l e a c t i c a i u t s f r c t b t i O 4 T d p f a t t c o t s]] o H S a l e o t d o l e o s i p m i n i w t i r b p ( o t s a s b o t t p t d i p s i n t p o] I a l e o o t D o H S w t  i p c h r c t b t t c h b a b] p e o t a e a i l t d t c m a  N i t [] s a t a o t d t c t][])A]
+[DELETED: B4 c m r t c t t e d i t s  o t l u O c 6 a p a l u O 6 t W t D o H S c a i u t s i s n t p a w c w t c w m w t d t c a o a w s w b p.T d O 4 o a r o t o o a i u s ( o t W p n t a e p u s ( o t s t S i a i t d d i n t e t M n d t n a a o o a o i o r a d i s ( o t s t t T S a P N O 1 t 1 a i r a p b t A p o e w r i u t s m n r t i ( T D o H S s o t d o s a]
+[DELETED: B4 I a s o n o b a s n o l e a i t p a l s c s i o a o n o b h o a t g o e a p o l e a s[] W t d a l e a c a j i a a N i t s i i t b i w O 4 4 a I a c o c a f w a i i c t d s s i t r u O 4 m c i o o t fgf[] T t r o c a i u[] A r o c a i u o T t r o c a c b d A t 4 a r i t f d i T c w w m f t D o H S i s a 9]
+[DELETED: B4 T d h c i c w c w a t s o r S T l o o t d s r t t s r i w a i h s [] b a p o t e c t b t a c c w t r o a e i t c r u E s c c i s i.( 1 T D o H S a l e a m t a t d f p c o t d o l.( T a.T.T h a s a e i]

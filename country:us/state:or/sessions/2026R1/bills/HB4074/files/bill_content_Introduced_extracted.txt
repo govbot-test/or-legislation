@@ -1,0 +1,1021 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4074
+Sponsored by Representative MCINTIRE (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes changes to the laws regarding hospital nurse staffing plans. (Flesch Readability
+Score: 61.3).
+Directs a hospital to implement a hospital-wide nurse staffing plan that has been developed and
+adopted by the hospital nurse staffing committee or, if the committee has not adopted a plan, a
+hospital-wide nurse staffing plan that meets the statutory requirements. Directs that the statutory
+direct care registered nurse-to-patient staffing ratios constitute the nurse staffing plan for a unit if
+the hospital nurse staffing committee has not adopted a nurse staffing plan for the unit.
+Changes from four to five the number of patients that a direct care registered nurse may be
+assigned for a medical-surgical unit under the statutory staffing ratios.
+Allows a type C hospital to vary from the statutory direct care registered nurse-to-patient
+staffing ratios. Modifies the definition of type C hospital.
+Requires a unit manager to notify the cochairs of the hospital nurse staffing committee after
+each deviation from a nurse staffing plan.
+Directs the Oregon Health Authority to determine whether a complaint is valid or not within
+30 days after receiving the complaint. Requires the authority to accept an attestation from a hos-
+pital as sufficient documentation the hospital took certain actions.
+Establishes a maximum amount in civil penalties that may be imposed for violations of the
+hospital staffing requirements. Directs that all civil penalties collected shall be paid into the Hos-
+pital Quality Assurance Fund. Requires the authority to submit an annual report on the number and
+types of violations to the committees or interim committees of the Legislative Assembly related to
+health care. Prohibits the impositions of civil penalties for violations that occur before July 1, 2030.
+1 A BILL FOR AN ACT
+2 Relating to hospital staffing; creating new provisions; and amending ORS 441.762, 441.763, 441.765,
+3 441.791, 441.792, 441.793 and 442.470.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 441.762 is amended to read:
+6 441.762. (1)(a) For each hospital there shall be established a hospital nurse staffing committee.
+7 Each hospital nurse staffing committee shall:
+8 (A) Consist of an equal number of hospital nurse managers and direct care staff;
+9 (B) For the portion of the committee composed of direct care staff, consist entirely of direct care
+10 registered nurses, except for one position to be filled by a direct care staff member who is not a
+11 registered nurse and whose services are covered by a [written] hospital-wide nurse staffing plan; and
+12 (C) Include at least one direct care registered nurse from each hospital nurse specialty or unit.
+13 (b) If any of the direct care registered nurses who work at a hospital have an exclusive repre-
+14 sentative, the exclusive representative shall select the direct care registered nurse members of the
+15 committee.
+16 (c) If the direct care staff member who is not a registered nurse who works at a hospital has
+17 an exclusive representative, the exclusive representative shall select the direct care staff member
+18 of the committee who is not a registered nurse.
+19 (d) If none of the direct care registered nurses who work at a hospital are represented by an
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 93
+HB 4074
+1 exclusive representative, the direct care registered nurses belonging to a hospital nurse specialty
+2 or unit shall select the members of the committee who are direct care registered nurses from the
+3 specialty or unit to serve on the committee.
+4 (e) If none of the direct care staff working at the hospital who are not registered nurses are
+5 represented by an exclusive representative, the direct care registered nurses who are members of
+6 the staffing committee shall select the direct care staff who are not registered nurses to serve on
+7 the committee.
+8 (2) A hospital nurse staffing committee shall develop and may adopt a [written] hospital-wide
+9 nurse staffing plan or nurse staffing plan for a unit in accordance with this section and ORS
+10 441.763, 441.764, 441.765, 441.766, 441.767 and 441.768. A hospital-wide nurse staffing plan or
+11 nurse staffing plan for a unit that is developed and adopted under this section must be in
+12 writing. The committee’s primary goals in developing the staffing plan shall be to ensure that the
+13 hospital is staffed to meet the health care needs of patients. The committee shall review and modify
+14 the staffing plan in accordance with ORS 441.764.
+15 (3) A majority of the members of a hospital nurse staffing committee constitutes a quorum for
+16 the transaction of business.
+17 (4) A hospital nurse staffing committee shall have two cochairs. One cochair shall be a hospital
+18 nurse manager elected by the members of the committee who are hospital nurse managers and one
+19 cochair shall be a direct care registered nurse elected by the members of the committee who are
+20 direct care staff.
+21 (5) A decision made by a hospital nurse staffing committee must be made by a vote of a majority
+22 of the members of the committee. If a quorum of members present at a meeting comprises an unequal
+23 number of hospital nurse managers and direct care staff, only an equal number of hospital nurse
+24 managers and direct care staff may vote.
+25 (6) A hospital nurse staffing committee shall meet:
+26 (a) At least once every four months; and
+27 (b) At any time and place specified by either cochair.
+28 (7)(a) Subject to paragraph (b) of this subsection, a hospital nurse staffing committee meeting
+29 must be open to:
+30 (A) The hospital nursing staff as observers; and
+31 (B) Upon invitation by either cochair, other observers or presenters.
+32 (b) At any time, either cochair may exclude persons described in paragraph (a) of this subsection
+33 from a committee meeting for purposes related to deliberation and voting.
+34 (8) Minutes of hospital nurse staffing committee meetings must:
+35 (a) Include motions made and outcomes of votes taken;
+36 (b) Summarize discussions; and
+37 (c) Be made available in a timely manner to hospital nursing staff and other hospital staff upon
+38 request.
+39 (9) A hospital shall release a member of a hospital nurse staffing committee described in sub-
+40 section (1)(a) of this section from the member’s assignment, and provide the member with paid time,
+41 to attend committee meetings.
+42 SECTION 2. ORS 441.763 is amended to read:
+43 441.763. (1) Each hospital shall implement:
+44 (a) A hospital-wide nurse staffing plan that has been developed and adopted by the hos-
+45 pital nurse staffing committee under ORS 441.762; or
+[2]
+HB 4074
+1 (b) If the hospital nurse staffing committee has not adopted a nurse staffing plan under
+2 ORS 441.762, a [written] hospital-wide nurse staffing plan that:
+3 [(a)] (A) Meets the requirements of this section and ORS 441.762, 441.764, 441.765, 441.766,
+4 441.767 and 441.768; and
+5 [(b)] (B) Includes any staffing-related terms and conditions that were previously adopted through
+6 any applicable collective bargaining agreement, including meal breaks and rest breaks, unless a term
+7 or condition is in direct conflict with an applicable statute or administrative rule[; and]
+8 [(c) Has been developed and approved by the hospital nurse staffing committee under ORS
+9 441.762].
+10 (2) If the nurse-to-patient staffing ratios in ORS 441.765 apply, the hospital nurse staffing com-
+11 mittee:
+12 (a) May consider:
+13 (A) The specialized qualifications and competencies of the nursing staff and the skill mix and
+14 level of competency needed to ensure that the hospital is staffed to meet the health care needs of
+15 patients;
+16 (B) The size of the hospital and a measurement of hospital unit activity that quantifies the rate
+17 of admissions, discharges and transfers for each hospital unit and the time required for a direct care
+18 registered nurse belonging to a hospital unit to complete admissions, discharges and transfers for
+19 that hospital unit;
+20 (C) The unit’s general and predominant patient population as defined by the Medicare Severity
+21 Diagnosis-Related Groups adopted by the Centers for Medicare and Medicaid Services, or by other
+22 measures for patients who are not classified in the Medicare Severity Diagnosis-Related Groups;
+23 (D) Nationally recognized evidence-based standards and guidelines established by professional
+24 nursing specialty organizations, if any;
+25 (E) Differences in patient acuity; and
+26 (F) Tasks not related to providing direct care; and
+27 (b) Must comply with ORS 441.765.
+28 (3) A hospital must maintain and post, in a physical location or online, a list of on-call nursing
+29 staff or staffing agencies to provide replacement nursing staff in the event of a vacancy. The list
+30 of on-call nursing staff or staffing agencies must be sufficient to provide for replacement nursing
+31 staff.
+32 (4)(a) An employer may not impose upon unionized nursing staff any changes in wages, hours
+33 or other terms and conditions of employment pursuant to a staffing plan unless the employer first
+34 provides notice to and, upon request, bargains with the union as the exclusive collective bargaining
+35 representative of the nursing staff in the bargaining unit.
+36 (b) A staffing plan does not create, preempt or modify a collective bargaining agreement or re-
+37 quire a union or employer to bargain over the staffing plan while a collective bargaining agreement
+38 is in effect.
+39 (5) A hospital shall submit to the Oregon Health Authority a nurse staffing plan adopted in ac-
+40 cordance with this section and ORS 441.766 and submit any changes to the plan no later than 30
+41 days after approval of the changes by the hospital nurse staffing committee.
+42 (6) A type A, [or a] type B or type C hospital may vary from the requirements of ORS 441.765
+43 if the hospital nurse staffing committee of the hospital has voted to approve the variance. A type
+44 A hospital, [or] type B hospital or type C hospital shall notify the authority of the variance through
+45 the authority’s website. The notification to the authority shall include a statement signed by the
+[3]
+HB 4074
+1 cochairs of the committee, confirming that the committee voted to approve the variance. The vari-
+2 ance becomes effective upon the submission of the notification to the authority and remains in effect
+3 for two years. A type A, [or] type B or type C hospital may renew a variance or notify the authority
+4 of a new variance as provided in this subsection.
+5 SECTION 3. ORS 441.765 is amended to read:
+6 441.765. (1) As used in this section, “unit” means a hospital unit as defined by the chief execu-
+7 tive officer of the hospital or the chief executive officer’s designee.
+8 (2) With respect to direct care registered nurses, a nurse staffing plan must ensure that at all
+9 times:
+10 (a) In an emergency department:
+11 (A) A direct care registered nurse is assigned to not more than one trauma patient; and
+12 (B) The ratio of direct care registered nurses to patients averages no more than one to four over
+13 a 12-hour shift and a single direct care registered nurse may not be assigned more than five patients
+14 at one time. Direct care registered nurses assigned to trauma patients may not be taken into ac-
+15 count in determining the average ratio.
+16 (b) In an intensive care unit, a direct care registered nurse is assigned to no more than two
+17 patients.
+18 (c) In a labor and delivery unit, a direct care registered nurse is assigned to no more than:
+19 (A) Two patients if the patients are not in active labor or experiencing complications; or
+20 (B) One patient if the patient is in active labor or if the patient is at any stage of labor and is
+21 experiencing complications.
+22 (d) In a postpartum, antepartum and well-baby nursery, a direct care registered nurse is assigned
+23 to no more than six patients, counting mother and baby each as separate patients.
+24 (e) In a mother-baby unit, a direct care registered nurse is assigned to no more than eight pa-
+25 tients, counting mother and baby each as separate patients.
+26 (f) In an operating room, a direct care registered nurse is assigned to no more than one patient.
+27 (g) In an oncology unit, a direct care registered nurse is assigned to no more than four patients.
+28 (h) In a post-anesthesia care unit, a direct care registered nurse is assigned to no more than two
+29 patients.
+30 (i) In an intermediate care unit, a direct care registered nurse is assigned to no more than three
+31 patients.
+32 (j) In a medical-surgical unit, a direct care registered nurse is assigned to no more than [four]
+33 five patients.
+34 (k) In a cardiac telemetry unit, a direct care registered nurse is assigned to no more than four
+35 patients.
+36 (L) In a pediatric unit, a direct care registered nurse is assigned to no more than four patients.
+37 (3) Notwithstanding subsection (2) of this section, the direct care registered nurse-to-patient
+38 staffing ratio for an individual patient shall be based on a licensed independent practitioner’s
+39 classification of the patient, as indicated in the patient’s medical record, regardless of the unit
+40 where the patient is being cared for.
+41 (4) With the approval of a majority of the members of the hospital nurse staffing committee, a
+42 unit can deviate from the direct care registered nurse-to-patient staffing ratios in subsection (2) of
+43 this section, in pursuit of innovative care models that were considered by the committee, by allowing
+44 other clinical care staff to constitute up to 50 percent of the registered nurses needed to comply
+45 with the applicable nurse-to-patient staffing ratio. The staffing in an innovative care model must
+[4]
+HB 4074
+1 be reapproved by the committee every two years.
+2 (5) A hospital shall provide for meal breaks and rest breaks in accordance with ORS 653.261,
+3 and rules implementing ORS 653.261, and any applicable collective bargaining agreement.
+4 (6) Each hospital unit may deviate from a nurse staffing plan, except with respect to meal breaks
+5 and rest breaks, including the applicable direct care registered nurse-to-patient staffing ratios un-
+6 der this section, within a period of 12 consecutive hours, no more than six times during a rolling
+7 30-day period, without being in violation of the nurse staffing plan. The unit manager must notify
+8 the cochairs of the hospital nurse staffing committee no later than 10 days after each deviation.
+9 Each subsequent deviation during the 30-day period constitutes a separate violation under ORS
+10 441.792.
+11 (7)(a) If a hospital nurse staffing committee has adopted a nurse staffing plan for a unit under
+12 ORS 441.762, the hospital shall comply with the nurse staffing plan for the unit and may not require
+13 a direct care registered nurse to be assigned to more patients than as specified in the nurse staffing
+14 plan for the unit.
+15 (b) If a hospital nurse staffing committee has not adopted a nurse staffing plan for a unit under
+16 ORS 441.762, the direct care registered nurse-to-patient staffing ratios applicable to the unit
+17 under this section shall constitute the nurse staffing plan for the unit, and the hospital shall
+18 comply with the direct care registered nurse-to-patient staffing ratios applicable to the unit under
+19 this section and may not require a direct care registered nurse to be assigned to more patients than
+20 as specified for the unit in this section.
+21 (8) A charge nurse may:
+22 (a) Take patient assignments, including patient assignments taken for the purpose of covering
+23 staff who are on meal breaks or rest breaks, in units with 10 or fewer beds;
+24 (b) Take patient assignments, including patient assignments taken for the purpose of covering
+25 staff who are on meal breaks or rest breaks, in units with 11 or more beds with the approval of the
+26 hospital nurse staffing committee; and
+27 (c) Be taken into account in determining the direct care registered nurse-to-patient ratio during
+28 periods when the charge nurse is taking patient assignments under this subsection.
+29 SECTION 4. ORS 441.765, as operative until July 1, 2026, is amended to read:
+30 441.765. (1) As used in this section, “unit” means a hospital unit as defined by the chief execu-
+31 tive officer of the hospital or the chief executive officer’s designee.
+32 (2) With respect to direct care registered nurses, a nurse staffing plan must ensure that at all
+33 times:
+34 (a) In an emergency department:
+35 (A) A direct care registered nurse is assigned to not more than one trauma patient; and
+36 (B) The ratio of direct care registered nurses to patients averages no more than one to four over
+37 a 12-hour shift and a single direct care registered nurse may not be assigned more than five patients
+38 at one time. Direct care registered nurses assigned to trauma patients may not be taken into ac-
+39 count in determining the average ratio.
+40 (b) In an intensive care unit, a direct care registered nurse is assigned to no more than two
+41 patients.
+42 (c) In a labor and delivery unit, a direct care registered nurse is assigned to no more than:
+43 (A) Two patients if the patients are not in active labor or experiencing complications; or
+44 (B) One patient if the patient is in active labor or if the patient is at any stage of labor and is
+45 experiencing complications.
+[5]
+HB 4074
+1 (d) In a postpartum, antepartum and well-baby nursery, a direct care registered nurse is assigned
+2 to no more than six patients, counting mother and baby each as separate patients.
+3 (e) In a mother-baby unit, a direct care registered nurse is assigned to no more than eight pa-
+4 tients, counting mother and baby each as separate patients.
+5 (f) In an operating room, a direct care registered nurse is assigned to no more than one patient.
+6 (g) In an oncology unit, a direct care registered nurse is assigned to no more than four patients.
+7 (h) In a post-anesthesia care unit, a direct care registered nurse is assigned to no more than two
+8 patients.
+9 (i) In an intermediate care unit, a direct care registered nurse is assigned to no more than three
+10 patients.
+11 (j) In a medical-surgical unit, a direct care registered nurse is assigned to no more than five
+12 patients.
+13 (k) In a cardiac telemetry unit, a direct care registered nurse is assigned to no more than four
+14 patients.
+15 (L) In a pediatric unit, a direct care registered nurse is assigned to no more than four patients.
+16 (3) Notwithstanding subsection (2) of this section, the direct care registered nurse-to-patient
+17 staffing ratio for an individual patient shall be based on a licensed independent practitioner’s
+18 classification of the patient, as indicated in the patient’s medical record, regardless of the unit
+19 where the patient is being cared for.
+20 (4) With the approval of a majority of the members of the hospital nurse staffing committee, a
+21 unit can deviate from the direct care registered nurse-to-patient staffing ratios in subsection (2) of
+22 this section, in pursuit of innovative care models that were considered by the committee, by allowing
+23 other clinical care staff to constitute up to 50 percent of the registered nurses needed to comply
+24 with the applicable nurse-to-patient staffing ratio. The staffing in an innovative care model must
+25 be reapproved by the committee every two years.
+26 (5) A hospital shall provide for meal breaks and rest breaks in accordance with ORS 653.261,
+27 and rules implementing ORS 653.261, and any applicable collective bargaining agreement.
+28 (6) Each hospital unit may deviate from a nurse staffing plan, except with respect to meal breaks
+29 and rest breaks, including the applicable direct care registered nurse-to-patient staffing ratios un-
+30 der this section, within a period of 12 consecutive hours, no more than six times during a rolling
+31 30-day period, without being in violation of the nurse staffing plan. The unit manager must notify
+32 the cochairs of the hospital nurse staffing committee no later than 10 days after each deviation.
+33 Each subsequent deviation during the 30-day period constitutes a separate violation under ORS
+34 441.792.
+35 (7)(a) If a hospital nurse staffing committee has adopted a nurse staffing plan for a unit under
+36 ORS 441.762, the hospital shall comply with the nurse staffing plan for the unit and may not require
+37 a direct care registered nurse to be assigned to more patients than as specified in the nurse staffing
+38 plan for the unit.
+39 (b) If a hospital nurse staffing committee has not adopted a nurse staffing plan for a unit under
+40 ORS 441.762, the direct care registered nurse-to-patient staffing ratios applicable to the unit
+41 under this section shall constitute the nurse staffing plan for the unit, and the hospital shall
+42 comply with the direct care registered nurse-to-patient staffing ratios applicable to the unit under
+43 this section and may not require a direct care registered nurse to be assigned to more patients than
+44 as specified for the unit in this section.
+45 (8) A charge nurse may:
+[6]
+HB 4074
+1 (a) Take patient assignments, including patient assignments taken for the purpose of covering
+2 staff who are on meal breaks or rest breaks, in units with 10 or fewer beds;
+3 (b) Take patient assignments, including patient assignments taken for the purpose of covering
+4 staff who are on meal breaks or rest breaks, in units with 11 or more beds with the approval of the
+5 hospital nurse staffing committee; and
+6 (c) Be taken into account in determining the direct care registered nurse-to-patient staffing
+7 ratio during periods when the charge nurse is taking patient assignments under this subsection.
+8 SECTION 5. ORS 441.791 is amended to read:
+9 441.791. (1) As used in this section, “valid complaint” means a complaint containing an
+10 allegation that, if assumed to be true, is a violation listed in ORS 441.792.
+11 (2) To ensure compliance with ORS 441.761 to 441.795, the Oregon Health Authority shall:
+12 (a) Establish a method by which a hospital staff person or an exclusive representative of a
+13 hospital staff person may submit a complaint through the authority’s website regarding any violation
+14 listed in ORS 441.792;
+15 (b) No later than 14 days after receiving a complaint, send a copy of the complaint to the ex-
+16 clusive representative, if any, of the staff person or staff persons who filed the complaint;
+17 (c) No later than 30 days after receiving a complaint, determine whether the complaint is
+18 a valid complaint, and if the complaint is a valid complaint [of a violation listed in ORS
+19 441.792], open an investigation of the hospital and provide a notice of the investigation to the hos-
+20 pital and the cochairs of the relevant staffing committee established pursuant to ORS 441.762,
+21 441.775 or 441.776, and to the exclusive representative, if any, of the staff person or staff persons
+22 filing the complaint. The notice must include a summary of the complaint that does not include the
+23 complainant’s name or the specific date, shift or unit but does include the calendar week in which
+24 the complaint arose;
+25 (d) Not later than 80 days after opening the investigation, conclude the investigation and pro-
+26 vide a written report on the complaint to the hospital, the cochairs of the hospital staffing commit-
+27 tee and the exclusive representative, if any, of the staff person or staff persons filing the complaint.
+28 The report:
+29 (A) Shall include a summary of the complaint;
+30 (B) Shall include the nature of the alleged violation or violations;
+31 (C) Shall include the authority’s findings and factual bases for the findings;
+32 (D) Shall include other information the authority determines is appropriate to include in the
+33 report; and
+34 (E) May not include the name of any complainant, the name of any patient or the names of any
+35 individuals that the authority interviewed in investigating the complaint;
+36 (e) If the authority issues a warning or imposes one or more civil penalties based on the report
+37 described in paragraph (d) of this subsection, provide a notice of the civil penalty that complies with
+38 ORS 183.415, 183.745 and 441.793 to the hospital, the cochairs of the applicable hospital staffing
+39 committee and the exclusive representative, if any, of the staff person or staff persons who filed the
+40 complaint; and
+41 (f) In determining whether to impose a civil penalty, consider all relevant evidence, including
+42 but not limited to witness testimony, written documents and the observations of the investigator.
+43 (3) A hospital subject to a valid complaint shall provide to the authority, no later than 20 days
+44 after receiving the notice under subsection (1)(c) of this section:
+45 (a) The staffing plan that is the subject of the complaint;
+[7]
+HB 4074
+1 (b) If relevant to the complaint, documents that show the scheduled staffing and the actual
+2 staffing on the unit that is the subject of the complaint during the period of time specified in the
+3 complaint; and
+4 (c) Documents that show the actions described in ORS 441.793 (4), if any, that the hospital took
+5 to comply with the staffing plan or to address the issue raised by the complaint.
+6 (4) In conducting an investigation, the authority shall:
+7 (a) Review any document:
+8 [(a)] (A) Related to the complaint that is provided by the exclusive representative that filed the
+9 complaint or by the hospital staff person who filed the complaint and the person’s exclusive repre-
+10 sentative, if any; and
+11 [(b)] (B) Provided by the hospital in response to the complaint; and
+12 (b) Accept an attestation from the hospital as sufficient documentation that the hospital
+13 took the actions listed under ORS 441.793 (4).
+14 (5) In conducting an investigation, the authority may:
+15 (a) Make an on-site inspection of the unit that is the subject of the complaint;
+16 (b) Interview a manager for the unit and any other staff persons with information relevant to
+17 the complaint;
+18 (c) Interview the cochairs of the relevant staffing committee;
+19 (d) Interview the staff person or staff persons who filed the complaint unless the individual de-
+20 clines to be interviewed; and
+21 (e) Compel the production of books, papers, accounts, documents and testimony pertaining to the
+22 complaint, other than documents that are privileged or not otherwise subject to disclosure.
+23 (6) A complaint by a hospital staff person or the staff person’s exclusive representative must be
+24 filed no later than 60 days after the date of the violation alleged in the complaint. The authority
+25 may not investigate a complaint or take any enforcement action with respect to a complaint that
+26 has not been filed timely. If multiple complaints contain the same allegations or contain allegations
+27 that are based on the same set of facts, the authority may consolidate the complaints into a single
+28 investigation or enforcement action, irrespective of whether the authority has already investigated
+29 one of complaints or taken an enforcement action with respect to one of the complaints.
+30 SECTION 6. ORS 441.792 is amended to read:
+31 441.792. (1) Following the receipt of a complaint and completion of an investigation described
+32 in ORS 441.791, for a violation described in subsection (2) of this section, the Oregon Health Au-
+33 thority shall:
+34 (a) Issue a warning for the first violation in a four-year period;
+35 (b) Impose a civil penalty of $1,750 for the second violation of the same provision in a four-year
+36 period;
+37 (c) Impose a civil penalty of $2,500 for the third violation of the same provision in a four-year
+38 period; and
+39 (d) Impose a civil penalty of $5,000 for the fourth and subsequent violations of the same pro-
+40 vision in a four-year period.
+41 (2) The authority shall take the actions described in subsection (1) of this section for the fol-
+42 lowing violations by a hospital of ORS 441.761 to 441.795:
+43 (a) Failure to establish a hospital professional and technical staffing committee or a hospital
+44 service staffing committee[;].
+45 (b) Failure to create a professional and technical staffing plan or a hospital service staffing
+[8]
+HB 4074
+1 plan[;].
+2 [(c) Failure to adopt a hospital-wide nurse staffing plan. Each day in which there is a failure to
+3 adopt a hospital-wide nurse staffing plan shall be considered a single violation;]
+4 [(d)] (c) Failure to comply with the staffing level in a nurse staffing plan for a unit that has been
+5 adopted under ORS 441.762, including the nurse-to-patient staffing ratios prescribed in ORS 441.765,
+6 if applicable, if the failure to comply is not an allowed deviation described in ORS 441.765 (6)[;].
+7 [(e)] (d) If a hospital nurse staffing committee has not adopted a nurse staffing plan for a unit
+8 under ORS 441.762, failure to comply with the direct care registered nurse-to-patient staffing ratios
+9 applicable to the unit under ORS 441.765, if the failure to comply is not an allowed deviation de-
+10 scribed in ORS 441.765 (6). [Under] For purposes of this paragraph, failure of a unit to comply with
+11 the direct care registered nurse-to-patient staffing ratios under ORS 441.765 [for a single direct care
+12 registered nurse] during [the nurse’s] a shift shall be considered a single violation[;].
+13 [(f)] (e) Failure to comply with the staffing level in the professional and technical staffing plan
+14 or the hospital service staffing plan, if the failure to comply is not an allowed deviation as described
+15 in ORS 441.775 (12) or 441.776 (12)[;].
+16 [(g)] (f) Failure to comply with the staffing requirements for certified nursing assistants in ORS
+17 441.768, if the failure is not an allowed deviation under ORS 441.776 (12)[; or].
+18 [(h)] (g) Requiring a nursing staff, except as allowed by ORS 441.770, to work:
+19 (A) Beyond an agreed-upon prearranged shift regardless of the length of the shift;
+20 (B) More than 48 hours in any hospital-defined work week;
+21 (C) More than 12 hours in a 24-hour period; or
+22 (D) During the 10-hour period immediately following the 12th hour worked during a 24-hour pe-
+23 riod.
+24 (3) If a staff person at a hospital is unable to attend a staffing committee meeting because the
+25 staff person was not released from other hospital duties to attend the meeting, in violation of ORS
+26 441.762 (9), 441.775 (10) or 441.776 (10), the authority shall:
+27 (a) Issue a warning for the first violation; and
+28 (b) Impose a civil penalty of $500 for a second and each subsequent violation.
+29 (4) A direct care staff person, a hospital professional or technical staff person or a hospital
+30 service staff person, or an exclusive representative of a direct care staff person, a hospital profes-
+31 sional or technical staff person or a hospital service staff person, may elect to enforce meal break
+32 and rest break violations under ORS 653.261 by filing a complaint with the authority in accordance
+33 with ORS 441.791.
+34 SECTION 7. ORS 441.793 is amended to read:
+35 441.793. (1) The Oregon Health Authority shall impose civil penalties in the manner provided in
+36 ORS 183.745 for a violation listed in ORS 441.792.
+37 [(2) The authority may suspend or revoke the license of a hospital, in the manner provided in ORS
+38 441.030, for a violation described in ORS 441.792.]
+39 [(3)] (2) Each violation of a [written] hospital-wide staffing plan shall be considered a separate
+40 violation and there is no cap on the times that a penalty may be imposed for a repeat of a violation.
+41 (3) The maximum amount in civil penalties that may be imposed on a hospital in a four-
+42 year period for violations described in ORS 441.792 is the lesser of:
+43 (a) An amount equal to $2,000 times the number of licensed inpatient beds that the hos-
+44 pital maintains; or
+45 (b) $1 million.
+[9]
+HB 4074
+1 (4) The authority may not impose a civil penalty for a violation of a nurse staffing plan, a hos-
+2 pital professional and technical staffing plan or a hospital service staffing plan if the hospital took
+3 the following actions:
+4 (a) Scheduled staff in accordance with the staffing plan;
+5 (b) Sought volunteers from all available qualified employees to work extra time;
+6 (c) Contacted qualified employees who made themselves available to work extra time;
+7 (d) Solicited per diem staff to work; and
+8 (e) Contacted contracted temporary agencies, that the hospital regularly uses, if temporary staff
+9 from such agencies are permitted to work in the hospital by law or any applicable collective bar-
+10 gaining agreement.
+11 (5) If a hospital nurse staffing committee has not adopted a nurse staffing plan for a unit under
+12 ORS 441.762, the authority may not impose a civil penalty for a violation of a direct care registered
+13 nurse-to-patient staffing ratio applicable to the unit under ORS 441.765 if the hospital took the fol-
+14 lowing actions:
+15 (a) Scheduled staff in accordance with the direct care registered nurse-to-patient staffing ratio
+16 applicable to the unit under ORS 441.765;
+17 (b) Sought volunteers from all available qualified employees to work extra time;
+18 (c) Contacted qualified employees who made themselves available to work extra time;
+19 (d) Solicited per diem staff to work; and
+20 (e) Contacted contracted temporary agencies that the hospital regularly uses if temporary staff
+21 from such agencies are permitted to work in the hospital by law or any applicable collective bar-
+22 gaining agreement.
+23 (6) All civil penalties collected under ORS 441.792 shall be paid into the Hospital Quality
+24 Assurance Fund, established under ORS 414.869.
+25 [(6)] (7) The authority shall maintain for public inspection records of any civil penalties or li-
+26 cense suspensions or revocations imposed on hospitals penalized under subsection (1) [or (2)] of this
+27 section.
+28 (8) The authority shall submit an annual report on the number and types of violations
+29 described under ORS 441.792 that have occurred, in the manner provided by ORS 192.245, to
+30 the committees or interim committees of the Legislative Assembly related to health care.
+31 SECTION 8. The Oregon Health Authority may not impose civil penalties under ORS
+32 441.792 for violations that occur before July 1, 2030.
+33 SECTION 9. ORS 442.470 is amended to read:
+34 442.470. As used in ORS 442.470 to 442.507:
+35 (1) “Acute inpatient care facility” means a licensed hospital with an organized medical staff,
+36 with permanent facilities that include inpatient beds, and with comprehensive medical services, in-
+37 cluding physician services and continuous nursing services under the supervision of registered
+38 nurses, to provide diagnosis and medical or surgical treatment primarily for but not limited to
+39 acutely ill patients and accident victims.
+40 (2) “Council” means the Rural Health Coordinating Council.
+41 (3) “Office” means the Office of Rural Health.
+42 (4) “Primary care physician” means a doctor licensed under ORS chapter 677 whose specialty
+43 is family practice, general practice, internal medicine, pediatrics or obstetrics and gynecology.
+44 (5) “Rural critical access hospital” means a facility that meets the criteria set forth in 42 U.S.C.
+45 1395i-4 (c)(2)(B) and that has been designated a critical access hospital by the Office of Rural Health.
+[10]
+HB 4074
+1 (6)(a) “Rural hospital” means a hospital characterized as one of the following:
+2 (A) A type A hospital, which is a small and remote hospital that has 50 or fewer beds and is
+3 more than 30 miles from another acute inpatient care facility;
+4 (B) A type B hospital, which is a small and rural hospital that has 50 or fewer beds and is 30
+5 miles or less from another acute inpatient care facility;
+6 (C) A type C hospital, which is considered to be a rural hospital and has more than 50 beds[,
+7 but is not a referral center]; or
+8 (D) A rural critical access hospital.
+9 (b) “Rural hospital” does not include a hospital of any class that was designated by the federal
+10 government as a rural referral hospital before January 1, 1989.
+11
+[11]
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T s p ( R:6 b t h n s c o i t c h n a a p  t m t s r D t t s f f t f t n o p t a d c r n m b a t C h t v f t s d c r n a u m t n t c o t h n s c a t O H A t d w a c i v c R t a t a a a f a h a m a i c p t m b i f v o t.D o ( F e h n e f o p t b f b a d c s m w i n [] I t d c s m w i n a r e r t e r s s t d c s m I n o t d c r n w w a a h a:M[]]
+[DELETED: B4 r t d c r n b t a h n s u s s t m o t c w a d c r I n o t d c s w a t h w a n r n a b a e r t d c r n w a m o s c s s t d c s w A h n s c s d a a [] h s p o n s p f a u i a w t s a O 4 4 4 4 a 4 A h n s p o s p f a u t i d a t A m o t m o s b a d c r n e b t m o t c w a o h n m a d c s o a e n o h n S t p ( o t s a h n s c m A h s r a m o a h n s c d i s]
+[DELETED: B4[]] ( M t r o t s a O 4 4 4 4][ H b d a a b teh n s c u O T s q a c o t n s a t s m a o c n t e n b t a h u t c a d a t f N r e s a g e b p o s a t p r n s i t e o a v T l o n s o s a m b s t p f r n A e m n i u u n s a c i w h o t a c o e p t t s a O 4 a s a c t t p n l t 3[]Bo s c o t h h v t a t v A t[] a w T n t t a s i a s s b t]
+[DELETED: B4[] t a a o t D c r n a t t p m n b t i a I a i c u a d c r n i a t n m t t[ N s ( o t s t d c r n r f a i p s b b o a l i p o t p a i i t p m r r o t u c  c c s t c u t 5 p o t r n n t c t a n s r T s i a i c m m]
+[DELETED: B4 A h s p f m b a r b i a w O 6 w a p o 1 c h n m t s t d a r p w b i v o t n s p T u m m c h n s c n l t 1 d a e d s d d t 3 p c a s v u O f a u u w t d c r n s r a t T p a i p a t f t p o c T p a i p a t f t p o c W r t o t D c r n a t t p m n b t i a I a i c u a d c r n i a t n m t t]
+[DELETED: B4 I a m u a d c r n i a t n m t f N s ( o t s t d c r n r f a i p s b b o a l i p o t p a i i t p m r r o t u W t c c s t c u t 5 p o t r n n t c t a n r T s i a i c m m A h s p f m b a r b i a w O 6 t s w a p o 1 c h n m t s t d w b i v o t n s p T u m m n c h n s c n l t 1 d a e d s d d t 3 p c a s v u O I a h n c r n s r a t t u u]
+[DELETED: B4 T p a i p a t f t p o c T p a i p a t f t p o c B t i a i d t d c r n s ( A u i t s “ c m a c c a E a m b w a h s p o a e r o  N l t 1 d a r a a r a v c a i t c i a v c  a v l i O a t c o t r s c e p t O 4 4 a t t e r i a o t s p o s p.T o t i c t i a p S i o i t a d i a t i i t;a 1 1 a 4 t t h t c o t a h s I d w t i a c p c a r e i A]
+[DELETED: B4 I r t t c d t s t s s a t a o t u t i t s o t c d t p]] I a m f t u a a o s p w i n l t 6 d a t d o t v a i t c T a n i a c o t a e a w r t a c t.I ( F t r o a c a c o a i d O 4 f a v d i s ( o t s t O H Ays I a I a c p o $ f t f a s v o t s p T a s t t a d i s ( o t s f t f F t e a h p a t s c o a h[])F t c a p a t s p o a h s s]
+[DELETED: B4[].E][]] ( I a t t u u O 4 i t f t c i n a a d d[]ets[][]][]][]] A d c s p a h p o t s p o a h s p o a] E v o a [])w]
+[DELETED: B4 s a a p t w i t h b l o S s i a w s a a p t w i t h b l o] ( T a s m f p i r o a c[] o t n a t o v 8.T O H A m n i c p u O “ i c f m a l h w a o m s s i p s a c n s u t s o r t p d a m o s t p f b n l t “ c p m a d l u O c 6 w s]
+[DELETED: B4 h w i a s a r h t h 5 o f b a i A t b a r h a h m t 5 b]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4074
+Sponsored by Representative MCINTIRE (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes changes to the laws regarding hospital nurse staffing plans. (Flesch Readability
+Score: 61.3).
+Directs a hospital to implement a hospital-wide nurse staffing plan that has been developed and
+adopted by the hospital nurse staffing committee or, if the committee has not adopted a plan, a
+hospital-wide nurse staffing plan that meets the statutory requirements. Directs that the statutory
+direct care registered nurse-to-patient staffing ratios constitute the nurse staffing plan for a unit if
+the hospital nurse staffing committee has not adopted a nurse staffing plan for the unit.
+Changes from four to five the number of patients that a direct care registered nurse may be
+assigned for a medical-surgical unit under the statutory staffing ratios.
+Allows a type C hospital to vary from the statutory direct care registered nurse-to-patient
+staffing ratios. Modifies the definition of type C hospital.
+Requires a unit manager to notify the cochairs of the hospital nurse staffing committee after
+each deviation from a nurse staffing plan.
+Directs the Oregon Health Authority to determine whether a complaint is valid or not within
+30 days after receiving the complaint. Requires the authority to accept an attestation from a hos-
+pital as sufficient documentation the hospital took certain actions.
+Establishes a maximum amount in civil penalties that may be imposed for violations of the
+hospital staffing requirements. Directs that all civil penalties collected shall be paid into the Hos-
+pital Quality Assurance Fund. Requires the authority to submit an annual report on the number and
+types of violations to the committees or interim committees of the Legislative Assembly related to
+health care. Prohibits the impositions of civil penalties for violations that occur before July 1, 2030.
+1 A BILL FOR AN ACT
+2 Relating to hospital staffing; creating new provisions; and amending ORS 441.762, 441.763, 441.765,
+3 441.791, 441.792, 441.793 and 442.470.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 441.762 is amended to read:
+6 441.762. (1)(a) For each hospital there shall be established a hospital nurse staffing committee.
+7 Each hospital nurse staffing committee shall:
+8 (A) Consist of an equal number of hospital nurse managers and direct care staff;
+9 (B) For the portion of the committee composed of direct care staff, consist entirely of direct care
+10 registered nurses, except for one position to be filled by a direct care staff member who is not a
+11 registered nurse and whose services are covered by a [written] hospital-wide nurse staffing plan; and
+12 (C) Include at least one direct care registered nurse from each hospital nurse specialty or unit.
+13 (b) If any of the direct care registered nurses who work at a hospital have an exclusive repre-
+14 sentative, the exclusive representative shall select the direct care registered nurse members of the
+15 committee.
+16 (c) If the direct care staff member who is not a registered nurse who works at a hospital has
+17 an exclusive representative, the exclusive representative shall select the direct care staff member
+18 of the committee who is not a registered nurse.
+19 (d) If none of the direct care registered nurses who work at a hospital are represented by an
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 93
+
+HB 4074
+1 exclusive representative, the direct care registered nurses belonging to a hospital nurse specialty
+2 or unit shall select the members of the committee who are direct care registered nurses from the
+3 specialty or unit to serve on the committee.
+4 (e) If none of the direct care staff working at the hospital who are not registered nurses are
+5 represented by an exclusive representative, the direct care registered nurses who are members of
+6 the staffing committee shall select the direct care staff who are not registered nurses to serve on
+7 the committee.
+8 (2) A hospital nurse staffing committee shall develop and may adopt a [written] hospital-wide
+9 nurse staffing plan or nurse staffing plan for a unit in accordance with this section and ORS
+10 441.763, 441.764, 441.765, 441.766, 441.767 and 441.768. A hospital-wide nurse staffing plan or
+11 nurse staffing plan for a unit that is developed and adopted under this section must be in
+12 writing. The committee’s primary goals in developing the staffing plan shall be to ensure that the
+13 hospital is staffed to meet the health care needs of patients. The committee shall review and modify
+14 the staffing plan in accordance with ORS 441.764.
+15 (3) A majority of the members of a hospital nurse staffing committee constitutes a quorum for
+16 the transaction of business.
+17 (4) A hospital nurse staffing committee shall have two cochairs. One cochair shall be a hospital
+18 nurse manager elected by the members of the committee who are hospital nurse managers and one
+19 cochair shall be a direct care registered nurse elected by the members of the committee who are
+20 direct care staff.
+21 (5) A decision made by a hospital nurse staffing committee must be made by a vote of a majority
+22 of the members of the committee. If a quorum of members present at a meeting comprises an unequal
+23 number of hospital nurse managers and direct care staff, only an equal number of hospital nurse
+24 managers and direct care staff may vote.
+25 (6) A hospital nurse staffing committee shall meet:
+26 (a) At least once every four months; and
+27 (b) At any time and place specified by either cochair.
+28 (7)(a) Subject to paragraph (b) of this subsection, a hospital nurse staffing committee meeting
+29 must be open to:
+30 (A) The hospital nursing staff as observers; and
+31 (B) Upon invitation by either cochair, other observers or presenters.
+32 (b) At any time, either cochair may exclude persons described in paragraph (a) of this subsection
+33 from a committee meeting for purposes related to deliberation and voting.
+34 (8) Minutes of hospital nurse staffing committee meetings must:
+35 (a) Include motions made and outcomes of votes taken;
+36 (b) Summarize discussions; and
+37 (c) Be made available in a timely manner to hospital nursing staff and other hospital staff upon
+38 request.
+39 (9) A hospital shall release a member of a hospital nurse staffing committee described in sub-
+40 section (1)(a) of this section from the member’s assignment, and provide the member with paid time,
+41 to attend committee meetings.
+42 SECTION 2. ORS 441.763 is amended to read:
+43 441.763. (1) Each hospital shall implement:
+44 (a) A hospital-wide nurse staffing plan that has been developed and adopted by the hos-
+45 pital nurse staffing committee under ORS 441.762; or
+[2]
+
+HB 4074
+1 (b) If the hospital nurse staffing committee has not adopted a nurse staffing plan under
+2 ORS 441.762, a [written] hospital-wide nurse staffing plan that:
+3 [(a)] (A) Meets the requirements of this section and ORS 441.762, 441.764, 441.765, 441.766,
+4 441.767 and 441.768; and
+5 [(b)] (B) Includes any staffing-related terms and conditions that were previously adopted through
+6 any applicable collective bargaining agreement, including meal breaks and rest breaks, unless a term
+7 or condition is in direct conflict with an applicable statute or administrative rule[; and]
+8 [(c) Has been developed and approved by the hospital nurse staffing committee under ORS
+9 441.762].
+10 (2) If the nurse-to-patient staffing ratios in ORS 441.765 apply, the hospital nurse staffing com-
+11 mittee:
+12 (a) May consider:
+13 (A) The specialized qualifications and competencies of the nursing staff and the skill mix and
+14 level of competency needed to ensure that the hospital is staffed to meet the health care needs of
+15 patients;
+16 (B) The size of the hospital and a measurement of hospital unit activity that quantifies the rate
+17 of admissions, discharges and transfers for each hospital unit and the time required for a direct care
+18 registered nurse belonging to a hospital unit to complete admissions, discharges and transfers for
+19 that hospital unit;
+20 (C) The unit’s general and predominant patient population as defined by the Medicare Severity
+21 Diagnosis-Related Groups adopted by the Centers for Medicare and Medicaid Services, or by other
+22 measures for patients who are not classified in the Medicare Severity Diagnosis-Related Groups;
+23 (D) Nationally recognized evidence-based standards and guidelines established by professional
+24 nursing specialty organizations, if any;
+25 (E) Differences in patient acuity; and
+26 (F) Tasks not related to providing direct care; and
+27 (b) Must comply with ORS 441.765.
+28 (3) A hospital must maintain and post, in a physical location or online, a list of on-call nursing
+29 staff or staffing agencies to provide replacement nursing staff in the event of a vacancy. The list
+30 of on-call nursing staff or staffing agencies must be sufficient to provide for replacement nursing
+31 staff.
+32 (4)(a) An employer may not impose upon unionized nursing staff any changes in wages, hours
+33 or other terms and conditions of employment pursuant to a staffing plan unless the employer first
+34 provides notice to and, upon request, bargains with the union as the exclusive collective bargaining
+35 representative of the nursing staff in the bargaining unit.
+36 (b) A staffing plan does not create, preempt or modify a collective bargaining agreement or re-
+37 quire a union or employer to bargain over the staffing plan while a collective bargaining agreement
+38 is in effect.
+39 (5) A hospital shall submit to the Oregon Health Authority a nurse staffing plan adopted in ac-
+40 cordance with this section and ORS 441.766 and submit any changes to the plan no later than 30
+41 days after approval of the changes by the hospital nurse staffing committee.
+42 (6) A type A, [or a] type B or type C hospital may vary from the requirements of ORS 441.765
+43 if the hospital nurse staffing committee of the hospital has voted to approve the variance. A type
+44 A hospital, [or] type B hospital or type C hospital shall notify the authority of the variance through
+45 the authority’s website. The notification to the authority shall include a statement signed by the
+[3]
+
+HB 4074
+1 cochairs of the committee, confirming that the committee voted to approve the variance. The vari-
+2 ance becomes effective upon the submission of the notification to the authority and remains in effect
+3 for two years. A type A, [or] type B or type C hospital may renew a variance or notify the authority
+4 of a new variance as provided in this subsection.
+5 SECTION 3. ORS 441.765 is amended to read:
+6 441.765. (1) As used in this section, “unit” means a hospital unit as defined by the chief execu-
+7 tive officer of the hospital or the chief executive officer’s designee.
+8 (2) With respect to direct care registered nurses, a nurse staffing plan must ensure that at all
+9 times:
+10 (a) In an emergency department:
+11 (A) A direct care registered nurse is assigned to not more than one trauma patient; and
+12 (B) The ratio of direct care registered nurses to patients averages no more than one to four over
+13 a 12-hour shift and a single direct care registered nurse may not be assigned more than five patients
+14 at one time. Direct care registered nurses assigned to trauma patients may not be taken into ac-
+15 count in determining the average ratio.
+16 (b) In an intensive care unit, a direct care registered nurse is assigned to no more than two
+17 patients.
+18 (c) In a labor and delivery unit, a direct care registered nurse is assigned to no more than:
+19 (A) Two patients if the patients are not in active labor or experiencing complications; or
+20 (B) One patient if the patient is in active labor or if the patient is at any stage of labor and is
+21 experiencing complications.
+22 (d) In a postpartum, antepartum and well-baby nursery, a direct care registered nurse is assigned
+23 to no more than six patients, counting mother and baby each as separate patients.
+24 (e) In a mother-baby unit, a direct care registered nurse is assigned to no more than eight pa-
+25 tients, counting mother and baby each as separate patients.
+26 (f) In an operating room, a direct care registered nurse is assigned to no more than one patient.
+27 (g) In an oncology unit, a direct care registered nurse is assigned to no more than four patients.
+28 (h) In a post-anesthesia care unit, a direct care registered nurse is assigned to no more than two
+29 patients.
+30 (i) In an intermediate care unit, a direct care registered nurse is assigned to no more than three
+31 patients.
+32 (j) In a medical-surgical unit, a direct care registered nurse is assigned to no more than [four]
+33 five patients.
+34 (k) In a cardiac telemetry unit, a direct care registered nurse is assigned to no more than four
+35 patients.
+36 (L) In a pediatric unit, a direct care registered nurse is assigned to no more than four patients.
+37 (3) Notwithstanding subsection (2) of this section, the direct care registered nurse-to-patient
+38 staffing ratio for an individual patient shall be based on a licensed independent practitioner’s
+39 classification of the patient, as indicated in the patient’s medical record, regardless of the unit
+40 where the patient is being cared for.
+41 (4) With the approval of a majority of the members of the hospital nurse staffing committee, a
+42 unit can deviate from the direct care registered nurse-to-patient staffing ratios in subsection (2) of
+43 this section, in pursuit of innovative care models that were considered by the committee, by allowing
+44 other clinical care staff to constitute up to 50 percent of the registered nurses needed to comply
+45 with the applicable nurse-to-patient staffing ratio. The staffing in an innovative care model must
+[4]
+
+HB 4074
+1 be reapproved by the committee every two years.
+2 (5) A hospital shall provide for meal breaks and rest breaks in accordance with ORS 653.261,
+3 and rules implementing ORS 653.261, and any applicable collective bargaining agreement.
+4 (6) Each hospital unit may deviate from a nurse staffing plan, except with respect to meal breaks
+5 and rest breaks, including the applicable direct care registered nurse-to-patient staffing ratios un-
+6 der this section, within a period of 12 consecutive hours, no more than six times during a rolling
+7 30-day period, without being in violation of the nurse staffing plan. The unit manager must notify
+8 the cochairs of the hospital nurse staffing committee no later than 10 days after each deviation.
+9 Each subsequent deviation during the 30-day period constitutes a separate violation under ORS
+10 441.792.
+11 (7)(a) If a hospital nurse staffing committee has adopted a nurse staffing plan for a unit under
+12 ORS 441.762, the hospital shall comply with the nurse staffing plan for the unit and may not require
+13 a direct care registered nurse to be assigned to more patients than as specified in the nurse staffing
+14 plan for the unit.
+15 (b) If a hospital nurse staffing committee has not adopted a nurse staffing plan for a unit under
+16 ORS 441.762, the direct care registered nurse-to-patient staffing ratios applicable to the unit
+17 under this section shall constitute the nurse staffing plan for the unit, and the hospital shall
+18 comply with the direct care registered nurse-to-patient staffing ratios applicable to the unit under
+19 this section and may not require a direct care registered nurse to be assigned to more patients than
+20 as specified for the unit in this section.
+21 (8) A charge nurse may:
+22 (a) Take patient assignments, including patient assignments taken for the purpose of covering
+23 staff who are on meal breaks or rest breaks, in units with 10 or fewer beds;
+24 (b) Take patient assignments, including patient assignments taken for the purpose of covering
+25 staff who are on meal breaks or rest breaks, in units with 11 or more beds with the approval of the
+26 hospital nurse staffing committee; and
+27 (c) Be taken into account in determining the direct care registered nurse-to-patient ratio during
+28 periods when the charge nurse is taking patient assignments under this subsection.
+29 SECTION 4. ORS 441.765, as operative until July 1, 2026, is amended to read:
+30 441.765. (1) As used in this section, “unit” means a hospital unit as defined by the chief execu-
+31 tive officer of the hospital or the chief executive officer’s designee.
+32 (2) With respect to direct care registered nurses, a nurse staffing plan must ensure that at all
+33 times:
+34 (a) In an emergency department:
+35 (A) A direct care registered nurse is assigned to not more than one trauma patient; and
+36 (B) The ratio of direct care registered nurses to patients averages no more than one to four over
+37 a 12-hour shift and a single direct care registered nurse may not be assigned more than five patients
+38 at one time. Direct care registered nurses assigned to trauma patients may not be taken into ac-
+39 count in determining the average ratio.
+40 (b) In an intensive care unit, a direct care registered nurse is assigned to no more than two
+41 patients.
+42 (c) In a labor and delivery unit, a direct care registered nurse is assigned to no more than:
+43 (A) Two patients if the patients are not in active labor or experiencing complications; or
+44 (B) One patient if the patient is in active labor or if the patient is at any stage of labor and is
+45 experiencing complications.
+[5]
+
+HB 4074
+1 (d) In a postpartum, antepartum and well-baby nursery, a direct care registered nurse is assigned
+2 to no more than six patients, counting mother and baby each as separate patients.
+3 (e) In a mother-baby unit, a direct care registered nurse is assigned to no more than eight pa-
+4 tients, counting mother and baby each as separate patients.
+5 (f) In an operating room, a direct care registered nurse is assigned to no more than one patient.
+6 (g) In an oncology unit, a direct care registered nurse is assigned to no more than four patients.
+7 (h) In a post-anesthesia care unit, a direct care registered nurse is assigned to no more than two
+8 patients.
+9 (i) In an intermediate care unit, a direct care registered nurse is assigned to no more than three
+10 patients.
+11 (j) In a medical-surgical unit, a direct care registered nurse is assigned to no more than five
+12 patients.
+13 (k) In a cardiac telemetry unit, a direct care registered nurse is assigned to no more than four
+14 patients.
+15 (L) In a pediatric unit, a direct care registered nurse is assigned to no more than four patients.
+16 (3) Notwithstanding subsection (2) of this section, the direct care registered nurse-to-patient
+17 staffing ratio for an individual patient shall be based on a licensed independent practitioner’s
+18 classification of the patient, as indicated in the patient’s medical record, regardless of the unit
+19 where the patient is being cared for.
+20 (4) With the approval of a majority of the members of the hospital nurse staffing committee, a
+21 unit can deviate from the direct care registered nurse-to-patient staffing ratios in subsection (2) of
+22 this section, in pursuit of innovative care models that were considered by the committee, by allowing
+23 other clinical care staff to constitute up to 50 percent of the registered nurses needed to comply
+24 with the applicable nurse-to-patient staffing ratio. The staffing in an innovative care model must
+25 be reapproved by the committee every two years.
+26 (5) A hospital shall provide for meal breaks and rest breaks in accordance with ORS 653.261,
+27 and rules implementing ORS 653.261, and any applicable collective bargaining agreement.
+28 (6) Each hospital unit may deviate from a nurse staffing plan, except with respect to meal breaks
+29 and rest breaks, including the applicable direct care registered nurse-to-patient staffing ratios un-
+30 der this section, within a period of 12 consecutive hours, no more than six times during a rolling
+31 30-day period, without being in violation of the nurse staffing plan. The unit manager must notify
+32 the cochairs of the hospital nurse staffing committee no later than 10 days after each deviation.
+33 Each subsequent deviation during the 30-day period constitutes a separate violation under ORS
+34 441.792.
+35 (7)(a) If a hospital nurse staffing committee has adopted a nurse staffing plan for a unit under
+36 ORS 441.762, the hospital shall comply with the nurse staffing plan for the unit and may not require
+37 a direct care registered nurse to be assigned to more patients than as specified in the nurse staffing
+38 plan for the unit.
+39 (b) If a hospital nurse staffing committee has not adopted a nurse staffing plan for a unit under
+40 ORS 441.762, the direct care registered nurse-to-patient staffing ratios applicable to the unit
+41 under this section shall constitute the nurse staffing plan for the unit, and the hospital shall
+42 comply with the direct care registered nurse-to-patient staffing ratios applicable to the unit under
+43 this section and may not require a direct care registered nurse to be assigned to more patients than
+44 as specified for the unit in this section.
+45 (8) A charge nurse may:
+[6]
+
+HB 4074
+1 (a) Take patient assignments, including patient assignments taken for the purpose of covering
+2 staff who are on meal breaks or rest breaks, in units with 10 or fewer beds;
+3 (b) Take patient assignments, including patient assignments taken for the purpose of covering
+4 staff who are on meal breaks or rest breaks, in units with 11 or more beds with the approval of the
+5 hospital nurse staffing committee; and
+6 (c) Be taken into account in determining the direct care registered nurse-to-patient staffing
+7 ratio during periods when the charge nurse is taking patient assignments under this subsection.
+8 SECTION 5. ORS 441.791 is amended to read:
+9 441.791. (1) As used in this section, “valid complaint” means a complaint containing an
+10 allegation that, if assumed to be true, is a violation listed in ORS 441.792.
+11 (2) To ensure compliance with ORS 441.761 to 441.795, the Oregon Health Authority shall:
+12 (a) Establish a method by which a hospital staff person or an exclusive representative of a
+13 hospital staff person may submit a complaint through the authority’s website regarding any violation
+14 listed in ORS 441.792;
+15 (b) No later than 14 days after receiving a complaint, send a copy of the complaint to the ex-
+16 clusive representative, if any, of the staff person or staff persons who filed the complaint;
+17 (c) No later than 30 days after receiving a complaint, determine whether the complaint is
+18 a valid complaint, and if the complaint is a valid complaint [of a violation listed in ORS
+19 441.792], open an investigation of the hospital and provide a notice of the investigation to the hos-
+20 pital and the cochairs of the relevant staffing committee established pursuant to ORS 441.762,
+21 441.775 or 441.776, and to the exclusive representative, if any, of the staff person or staff persons
+22 filing the complaint. The notice must include a summary of the complaint that does not include the
+23 complainant’s name or the specific date, shift or unit but does include the calendar week in which
+24 the complaint arose;
+25 (d) Not later than 80 days after opening the investigation, conclude the investigation and pro-
+26 vide a written report on the complaint to the hospital, the cochairs of the hospital staffing commit-
+27 tee and the exclusive representative, if any, of the staff person or staff persons filing the complaint.
+28 The report:
+29 (A) Shall include a summary of the complaint;
+30 (B) Shall include the nature of the alleged violation or violations;
+31 (C) Shall include the authority’s findings and factual bases for the findings;
+32 (D) Shall include other information the authority determines is appropriate to include in the
+33 report; and
+34 (E) May not include the name of any complainant, the name of any patient or the names of any
+35 individuals that the authority interviewed in investigating the complaint;
+36 (e) If the authority issues a warning or imposes one or more civil penalties based on the report
+37 described in paragraph (d) of this subsection, provide a notice of the civil penalty that complies with
+38 ORS 183.415, 183.745 and 441.793 to the hospital, the cochairs of the applicable hospital staffing
+39 committee and the exclusive representative, if any, of the staff person or staff persons who filed the
+40 complaint; and
+41 (f) In determining whether to impose a civil penalty, consider all relevant evidence, including
+42 but not limited to witness testimony, written documents and the observations of the investigator.
+43 (3) A hospital subject to a valid complaint shall provide to the authority, no later than 20 days
+44 after receiving the notice under subsection (1)(c) of this section:
+45 (a) The staffing plan that is the subject of the complaint;
+[7]
+
+HB 4074
+1 (b) If relevant to the complaint, documents that show the scheduled staffing and the actual
+2 staffing on the unit that is the subject of the complaint during the period of time specified in the
+3 complaint; and
+4 (c) Documents that show the actions described in ORS 441.793 (4), if any, that the hospital took
+5 to comply with the staffing plan or to address the issue raised by the complaint.
+6 (4) In conducting an investigation, the authority shall:
+7 (a) Review any document:
+8 [(a)] (A) Related to the complaint that is provided by the exclusive representative that filed the
+9 complaint or by the hospital staff person who filed the complaint and the person’s exclusive repre-
+10 sentative, if any; and
+11 [(b)] (B) Provided by the hospital in response to the complaint; and
+12 (b) Accept an attestation from the hospital as sufficient documentation that the hospital
+13 took the actions listed under ORS 441.793 (4).
+14 (5) In conducting an investigation, the authority may:
+15 (a) Make an on-site inspection of the unit that is the subject of the complaint;
+16 (b) Interview a manager for the unit and any other staff persons with information relevant to
+17 the complaint;
+18 (c) Interview the cochairs of the relevant staffing committee;
+19 (d) Interview the staff person or staff persons who filed the complaint unless the individual de-
+20 clines to be interviewed; and
+21 (e) Compel the production of books, papers, accounts, documents and testimony pertaining to the
+22 complaint, other than documents that are privileged or not otherwise subject to disclosure.
+23 (6) A complaint by a hospital staff person or the staff person’s exclusive representative must be
+24 filed no later than 60 days after the date of the violation alleged in the complaint. The authority
+25 may not investigate a complaint or take any enforcement action with respect to a complaint that
+26 has not been filed timely. If multiple complaints contain the same allegations or contain allegations
+27 that are based on the same set of facts, the authority may consolidate the complaints into a single
+28 investigation or enforcement action, irrespective of whether the authority has already investigated
+29 one of complaints or taken an enforcement action with respect to one of the complaints.
+30 SECTION 6. ORS 441.792 is amended to read:
+31 441.792. (1) Following the receipt of a complaint and completion of an investigation described
+32 in ORS 441.791, for a violation described in subsection (2) of this section, the Oregon Health Au-
+33 thority shall:
+34 (a) Issue a warning for the first violation in a four-year period;
+35 (b) Impose a civil penalty of $1,750 for the second violation of the same provision in a four-year
+36 period;
+37 (c) Impose a civil penalty of $2,500 for the third violation of the same provision in a four-year
+38 period; and
+39 (d) Impose a civil penalty of $5,000 for the fourth and subsequent violations of the same pro-
+40 vision in a four-year period.
+41 (2) The authority shall take the actions described in subsection (1) of this section for the fol-
+42 lowing violations by a hospital of ORS 441.761 to 441.795:
+43 (a) Failure to establish a hospital professional and technical staffing committee or a hospital
+44 service staffing committee[;].
+45 (b) Failure to create a professional and technical staffing plan or a hospital service staffing
+[8]
+
+HB 4074
+1 plan[;].
+2 [(c) Failure to adopt a hospital-wide nurse staffing plan. Each day in which there is a failure to
+3 adopt a hospital-wide nurse staffing plan shall be considered a single violation;]
+4 [(d)] (c) Failure to comply with the staffing level in a nurse staffing plan for a unit that has been
+5 adopted under ORS 441.762, including the nurse-to-patient staffing ratios prescribed in ORS 441.765,
+6 if applicable, if the failure to comply is not an allowed deviation described in ORS 441.765 (6)[;].
+7 [(e)] (d) If a hospital nurse staffing committee has not adopted a nurse staffing plan for a unit
+8 under ORS 441.762, failure to comply with the direct care registered nurse-to-patient staffing ratios
+9 applicable to the unit under ORS 441.765, if the failure to comply is not an allowed deviation de-
+10 scribed in ORS 441.765 (6). [Under] For purposes of this paragraph, failure of a unit to comply with
+11 the direct care registered nurse-to-patient staffing ratios under ORS 441.765 [for a single direct care
+12 registered nurse] during [the nurse’s] a shift shall be considered a single violation[;].
+13 [(f)] (e) Failure to comply with the staffing level in the professional and technical staffing plan
+14 or the hospital service staffing plan, if the failure to comply is not an allowed deviation as described
+15 in ORS 441.775 (12) or 441.776 (12)[;].
+16 [(g)] (f) Failure to comply with the staffing requirements for certified nursing assistants in ORS
+17 441.768, if the failure is not an allowed deviation under ORS 441.776 (12)[; or].
+18 [(h)] (g) Requiring a nursing staff, except as allowed by ORS 441.770, to work:
+19 (A) Beyond an agreed-upon prearranged shift regardless of the length of the shift;
+20 (B) More than 48 hours in any hospital-defined work week;
+21 (C) More than 12 hours in a 24-hour period; or
+22 (D) During the 10-hour period immediately following the 12th hour worked during a 24-hour pe-
+23 riod.
+24 (3) If a staff person at a hospital is unable to attend a staffing committee meeting because the
+25 staff person was not released from other hospital duties to attend the meeting, in violation of ORS
+26 441.762 (9), 441.775 (10) or 441.776 (10), the authority shall:
+27 (a) Issue a warning for the first violation; and
+28 (b) Impose a civil penalty of $500 for a second and each subsequent violation.
+29 (4) A direct care staff person, a hospital professional or technical staff person or a hospital
+30 service staff person, or an exclusive representative of a direct care staff person, a hospital profes-
+31 sional or technical staff person or a hospital service staff person, may elect to enforce meal break
+32 and rest break violations under ORS 653.261 by filing a complaint with the authority in accordance
+33 with ORS 441.791.
+34 SECTION 7. ORS 441.793 is amended to read:
+35 441.793. (1) The Oregon Health Authority shall impose civil penalties in the manner provided in
+36 ORS 183.745 for a violation listed in ORS 441.792.
+37 [(2) The authority may suspend or revoke the license of a hospital, in the manner provided in ORS
+38 441.030, for a violation described in ORS 441.792.]
+39 [(3)] (2) Each violation of a [written] hospital-wide staffing plan shall be considered a separate
+40 violation and there is no cap on the times that a penalty may be imposed for a repeat of a violation.
+41 (3) The maximum amount in civil penalties that may be imposed on a hospital in a four-
+42 year period for violations described in ORS 441.792 is the lesser of:
+43 (a) An amount equal to $2,000 times the number of licensed inpatient beds that the hos-
+44 pital maintains; or
+45 (b) $1 million.
+[9]
+
+HB 4074
+1 (4) The authority may not impose a civil penalty for a violation of a nurse staffing plan, a hos-
+2 pital professional and technical staffing plan or a hospital service staffing plan if the hospital took
+3 the following actions:
+4 (a) Scheduled staff in accordance with the staffing plan;
+5 (b) Sought volunteers from all available qualified employees to work extra time;
+6 (c) Contacted qualified employees who made themselves available to work extra time;
+7 (d) Solicited per diem staff to work; and
+8 (e) Contacted contracted temporary agencies, that the hospital regularly uses, if temporary staff
+9 from such agencies are permitted to work in the hospital by law or any applicable collective bar-
+10 gaining agreement.
+11 (5) If a hospital nurse staffing committee has not adopted a nurse staffing plan for a unit under
+12 ORS 441.762, the authority may not impose a civil penalty for a violation of a direct care registered
+13 nurse-to-patient staffing ratio applicable to the unit under ORS 441.765 if the hospital took the fol-
+14 lowing actions:
+15 (a) Scheduled staff in accordance with the direct care registered nurse-to-patient staffing ratio
+16 applicable to the unit under ORS 441.765;
+17 (b) Sought volunteers from all available qualified employees to work extra time;
+18 (c) Contacted qualified employees who made themselves available to work extra time;
+19 (d) Solicited per diem staff to work; and
+20 (e) Contacted contracted temporary agencies that the hospital regularly uses if temporary staff
+21 from such agencies are permitted to work in the hospital by law or any applicable collective bar-
+22 gaining agreement.
+23 (6) All civil penalties collected under ORS 441.792 shall be paid into the Hospital Quality
+24 Assurance Fund, established under ORS 414.869.
+25 [(6)] (7) The authority shall maintain for public inspection records of any civil penalties or li-
+26 cense suspensions or revocations imposed on hospitals penalized under subsection (1) [or (2)] of this
+27 section.
+28 (8) The authority shall submit an annual report on the number and types of violations
+29 described under ORS 441.792 that have occurred, in the manner provided by ORS 192.245, to
+30 the committees or interim committees of the Legislative Assembly related to health care.
+31 SECTION 8. The Oregon Health Authority may not impose civil penalties under ORS
+32 441.792 for violations that occur before July 1, 2030.
+33 SECTION 9. ORS 442.470 is amended to read:
+34 442.470. As used in ORS 442.470 to 442.507:
+35 (1) “Acute inpatient care facility” means a licensed hospital with an organized medical staff,
+36 with permanent facilities that include inpatient beds, and with comprehensive medical services, in-
+37 cluding physician services and continuous nursing services under the supervision of registered
+38 nurses, to provide diagnosis and medical or surgical treatment primarily for but not limited to
+39 acutely ill patients and accident victims.
+40 (2) “Council” means the Rural Health Coordinating Council.
+41 (3) “Office” means the Office of Rural Health.
+42 (4) “Primary care physician” means a doctor licensed under ORS chapter 677 whose specialty
+43 is family practice, general practice, internal medicine, pediatrics or obstetrics and gynecology.
+44 (5) “Rural critical access hospital” means a facility that meets the criteria set forth in 42 U.S.C.
+45 1395i-4 (c)(2)(B) and that has been designated a critical access hospital by the Office of Rural Health.
+[10]
+
+HB 4074
+1 (6)(a) “Rural hospital” means a hospital characterized as one of the following:
+2 (A) A type A hospital, which is a small and remote hospital that has 50 or fewer beds and is
+3 more than 30 miles from another acute inpatient care facility;
+4 (B) A type B hospital, which is a small and rural hospital that has 50 or fewer beds and is 30
+5 miles or less from another acute inpatient care facility;
+6 (C) A type C hospital, which is considered to be a rural hospital and has more than 50 beds[,
+7 but is not a referral center]; or
+8 (D) A rural critical access hospital.
+9 (b) “Rural hospital” does not include a hospital of any class that was designated by the federal
+10 government as a rural referral hospital before January 1, 1989.
+11
+[11]
+
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T s p ( R:6 b t h n s c o i t c h n a a p  t m t s r D t t s f f t f t n o p t a d c r n m b a t C h t v f t s d c r n a u m t n t c o t h n s c a t O H A t d w a c i v c R t a t a a a f a h a m a i c p t m b i f v o t.D o ( F e h n e f o p t b f b a d c s m w i n [] I t d c s m w i n a r e r t e r s s t d c s m I n o t d c r n w w a a h a:M[]]
+[DELETED: B4 r t d c r n b t a h n s u s s t m o t c w a d c r I n o t d c s w a t h w a n r n a b a e r t d c r n w a m o s c s s t d c s w A h n s c s d a a [] h s p o n s p f a u i a w t s a O 4 4 4 4 a 4 A h n s p o s p f a u t i d a t A m o t m o s b a d c r n e b t m o t c w a o h n m a d c s o a e n o h n S t p ( o t s a h n s c m A h s r a m o a h n s c d i s]
+[DELETED: B4[]] ( M t r o t s a O 4 4 4 4][ H b d a a b teh n s c u O T s q a c o t n s a t s m a o c n t e n b t a h u t c a d a t f N r e s a g e b p o s a t p r n s i t e o a v T l o n s o s a m b s t p f r n A e m n i u u n s a c i w h o t a c o e p t t s a O 4 a s a c t t p n l t 3[]Bo s c o t h h v t a t v A t[] a w T n t t a s i a s s b t]
+[DELETED: B4[] t a a o t D c r n a t t p m n b t i a I a i c u a d c r n i a t n m t t[ N s ( o t s t d c r n r f a i p s b b o a l i p o t p a i i t p m r r o t u c  c c s t c u t 5 p o t r n n t c t a n s r T s i a i c m m]
+[DELETED: B4 A h s p f m b a r b i a w O 6 w a p o 1 c h n m t s t d a r p w b i v o t n s p T u m m c h n s c n l t 1 d a e d s d d t 3 p c a s v u O f a u u w t d c r n s r a t T p a i p a t f t p o c T p a i p a t f t p o c W r t o t D c r n a t t p m n b t i a I a i c u a d c r n i a t n m t t]
+[DELETED: B4 I a m u a d c r n i a t n m t f N s ( o t s t d c r n r f a i p s b b o a l i p o t p a i i t p m r r o t u W t c c s t c u t 5 p o t r n n t c t a n r T s i a i c m m A h s p f m b a r b i a w O 6 t s w a p o 1 c h n m t s t d w b i v o t n s p T u m m n c h n s c n l t 1 d a e d s d d t 3 p c a s v u O I a h n c r n s r a t t u u]
+[DELETED: B4 T p a i p a t f t p o c T p a i p a t f t p o c B t i a i d t d c r n s ( A u i t s “ c m a c c a E a m b w a h s p o a e r o  N l t 1 d a r a a r a v c a i t c i a v c  a v l i O a t c o t r s c e p t O 4 4 a t t e r i a o t s p o s p.T o t i c t i a p S i o i t a d i a t i i t;a 1 1 a 4 t t h t c o t a h s I d w t i a c p c a r e i A]
+[DELETED: B4 I r t t c d t s t s s a t a o t u t i t s o t c d t p]] I a m f t u a a o s p w i n l t 6 d a t d o t v a i t c T a n i a c o t a e a w r t a c t.I ( F t r o a c a c o a i d O 4 f a v d i s ( o t s t O H Ays I a I a c p o $ f t f a s v o t s p T a s t t a d i s ( o t s f t f F t e a h p a t s c o a h[])F t c a p a t s p o a h s s]
+[DELETED: B4[].E][]] ( I a t t u u O 4 i t f t c i n a a d d[]ets[][]][]][]] A d c s p a h p o t s p o a h s p o a] E v o a [])w]
+[DELETED: B4 s a a p t w i t h b l o S s i a w s a a p t w i t h b l o] ( T a s m f p i r o a c[] o t n a t o v 8.T O H A m n i c p u O “ i c f m a l h w a o m s s i p s a c n s u t s o r t p d a m o s t p f b n l t “ c p m a d l u O c 6 w s]
+[DELETED: B4 h w i a s a r h t h 5 o f b a i A t b a r h a h m t 5 b]

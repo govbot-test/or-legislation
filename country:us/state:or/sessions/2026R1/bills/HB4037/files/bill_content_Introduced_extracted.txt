@@ -1,0 +1,2561 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 27 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4037
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Housing and Homelessness for Representative Pam Marsh)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act changes some housing programs, agencies and laws and rules about home
+building. (Flesch Readability Score: 65.7).
+Adjusts certain terms of the revolving loan program for cities and counties to fund affordable
+housing projects.
+Allows state agencies to adjust terms of a grant made to the Network for Oregon Affordable
+Housing in the last biennium.
+Authorizes the Housing Accountability and Production Office to enter an interim administrative
+order against local governments.
+Limits the building permit plan review for housing with two or fewer dwelling units.
+Establishes a local government process for land use approvals for housing subject only to clear
+and objective standards, conditions and procedures.
+Shortens the period under which local governments may review similar housing development
+applications by the same applicant.
+Establishes responsibilities for landlords and tenants for residential tenancies destroyed by na-
+tural disasters.
+Requires state agencies to give priority to housing providers when transferring surplus real
+property.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to housing; creating new provisions; amending ORS 92.031, 197.320, 197A.140, 197A.400,
+3 197A.805, 215.427, 227.178, 270.010, 270.030, 270.100, 307.213, 307.214, 307.216, 307.221, 307.225,
+4 307.227, 307.229, 307.231, 307.233, 455.628 and 458.352 and section 22, chapter 476, Oregon Laws
+5 2025; and prescribing an effective date.
+6 Be It Enacted by the People of the State of Oregon:
+7
+8 CITY AND COUNTY HOUSING PROJECT FUNDING PROGRAMS
+9
+10 SECTION 1. Section 2 of this 2026 Act is added to and made a part of ORS 307.213 to
+11 307.237.
+12 SECTION 2. (1) As used in ORS 307.213 to 307.237, “eligible housing project” means a
+13 project to construct housing, or to convert a building from a nonresidential use to housing,
+14 that is:
+15 (a) Affordable to households with low income or moderate income as those terms are
+16 defined in ORS 458.610;
+17 (b) If for-sale property, a single-family dwelling, middle housing as defined in ORS
+18 197A.420 or a multifamily dwelling that is affordable as described in paragraph (a) of this
+19 subsection for a period determined in accordance with subsection (2) of this section; or
+20 (c) If rental property:
+21 (A)(i) Middle housing as defined in ORS 197A.420;
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 222
+HB 4037
+1 (ii) A multifamily dwelling;
+2 (iii) An accessory dwelling unit as defined in ORS 215.501; or
+3 (iv) Any other form of affordable housing or moderate income housing; and
+4 (B) Rented at a monthly rate that is affordable to households with an annual income not
+5 greater than 120 percent of the area median income, such affordability to be maintained for
+6 a period determined in accordance with subsection (2) of this section.
+7 (2)(a) The affordability of eligible housing project property shall be maintained for at least
+8 as long as the agency loan related to the property remains outstanding.
+9 (b) Notwithstanding paragraph (a) of this subsection, the Housing and Community Ser-
+10 vices Department may establish terms and conditions by which the affordability restrictions
+11 may be terminated upon foreclosure of the property by a permitted mortgage lender.
+12 SECTION 3. ORS 307.213 is amended to read:
+13 307.213. As used in ORS 307.213 to 307.237:
+14 (1) “Agency loan” means a loan made by the Housing and Community Services Department
+15 pursuant to a program adopted under ORS 307.221.
+16 (2) “Assessor,” “tax collector” and “treasurer” mean the individual filling that county office so
+17 named or any county officer performing the functions of the office under another name.
+18 (3) “County tax officers” and “tax officers” mean the assessor, tax collector and treasurer of a
+19 county.
+20 (4) “Eligible costs” means the following costs associated with an eligible housing project:
+21 (a) Infrastructure costs, including, but not limited to, system development charges;
+22 (b) Predevelopment costs;
+23 (c) Construction costs; and
+24 (d) Land write-downs.
+25 (5) “Eligible housing project” has the meaning given that term in section 2 of this 2026 Act.
+26 [means a project to construct housing, or to convert a building from a nonresidential use to housing,
+27 that is:]
+28 [(a) Affordable to households with low income or moderate income as those terms are defined in
+29 ORS 458.610;]
+30 [(b) If for-sale property, a single-family dwelling, middle housing as defined in ORS 197A.420 or
+31 a multifamily dwelling that is affordable as described in paragraph (a) of this subsection continuously
+32 from initial sale for a period, to be established by the Housing and Community Services Department
+33 and the sponsoring jurisdiction, of not less than the term of the agency loan related to the for-sale
+34 property; or]
+35 [(c) If rental property:]
+36 [(A)(i) Middle housing as defined in ORS 197A.420;]
+37 [(ii) A multifamily dwelling;]
+38 [(iii) An accessory dwelling unit as defined in ORS 215.501; or]
+39 [(iv) Any other form of affordable housing or moderate income housing; and]
+40 [(B) Rented at a monthly rate that is affordable to households with an annual income not greater
+41 than 120 percent of the area median income, such affordability to be maintained for a period, to be
+42 established by the department and the sponsoring jurisdiction, of not less than the term of the agency
+43 loan related to the rental property.]
+44 (6) “Eligible housing project property” means the taxable real and personal property constitut-
+45 ing the improvements of an eligible housing project.
+[2]
+HB 4037
+1 (7) “Fee payer” means, for any property tax year, the person responsible for paying ad valorem
+2 property taxes on eligible housing project property to which [a project grant awarded] project
+3 funding under ORS 307.225 relates.
+4 (8) “Fire district taxes” means property taxes levied by fire districts within whose territory all
+5 or a portion of eligible housing project property is located.
+6 (9) “Nonexempt property” means property other than eligible housing project property in the tax
+7 account that includes eligible housing project property.
+8 (10) “Nonexempt taxes” means the ad valorem property taxes assessed on nonexempt property.
+9 (11) “Project funding” means a project grant or a project loan.
+10 (12) “Project funding agreement” means an agreement entered into between a sponsoring juris-
+11 diction and a developer under ORS 307.225 for a project grant or a project loan.
+12 (13) “Project grant” means a grant awarded by a sponsoring jurisdiction under a project funding
+13 program adopted pursuant to ORS 307.214.
+14 (14) “Project loan” means a loan made by a sponsoring jurisdiction under a project funding
+15 program adopted pursuant to ORS 307.214.
+16 (15) “Sponsoring jurisdiction” means:
+17 (a)(A) A city with respect to eligible housing projects located within the city boundaries; or
+18 (B) A county with respect to eligible housing projects located in urban unincorporated areas of
+19 the county; or
+20 (b) The governing body of a city or county described in paragraph (a) of this subsection.
+21 SECTION 4. ORS 307.214 is amended to read:
+22 307.214. (1)(a) A sponsoring jurisdiction may adopt by ordinance or resolution a project funding
+23 program under which the sponsoring jurisdiction awards project grants and makes project loans to
+24 developers for eligible costs.
+25 (b) Before adopting the project funding program, the sponsoring jurisdiction shall consult with
+26 the governing body of any city or county with territory inside the boundaries of the sponsoring ju-
+27 risdiction.
+28 (2) The ordinance or resolution shall set forth:
+29 (a) The kinds of eligible housing projects for which a developer may seek project funding under
+30 the program; and
+31 (b) Any eligibility requirements to be imposed on projects and developers in addition to those
+32 required under ORS 307.213 to 307.237.
+33 (3)(a) A project grant and a project loan:
+34 [(a)] (A) [Shall be in] May not exceed the amount determined under ORS 307.216 (3); [and]
+35 [(b)] (B) May include reimbursement for eligible costs incurred for up to 12 months preceding
+36 the date on which the eligible housing project received local site approval[.];
+37 (C) Shall be secured by an affordable housing covenant, as defined in ORS 456.270, that:
+38 (i) Is recorded in first position in the real property records of the county in which the
+39 eligible housing project is located; and
+40 (ii) Requires the project to remain affordable in accordance with section 2 of this 2026
+41 Act; and
+42 (D) May be transferred and assumed, in whole or in part, on terms and conditions es-
+43 tablished by the Housing and Community Services Department or the sponsoring jurisdiction,
+44 by any subsequent purchaser of the eligible housing project property or a portion of the
+45 property.
+[3]
+HB 4037
+1 (b) Notwithstanding paragraph (a)(C)(i) of this subsection, if the sponsoring jurisdiction
+2 has pledged in repayment of the agency loan its full faith and credit and taxing authority and
+3 an alternative source of revenue acceptable to the department under ORS 307.223, the de-
+4 partment may establish terms and conditions by which the affordable housing covenant may
+5 be made subordinate to a primary deed of trust, mortgage or other security instrument se-
+6 curing financing for the eligible housing project property.
+7 (4)(a) Eligible housing project property [for which a developer receives a project grant for eligible
+8 costs] that is granted exemption under ORS 307.227 may not be granted any other exemption,
+9 partial exemption or special assessment of ad valorem property taxes [other than the exemption
+10 granted under ORS 307.227].
+11 (b) [A sponsoring jurisdiction may not award a project grant to a developer under ORS 307.216
+12 for an] Eligible housing project property that is located in an urban renewal area may not be
+13 granted exemption under ORS 307.227.
+14 (5) A sponsoring jurisdiction may amend an ordinance or resolution adopted pursuant to this
+15 section at any time. The amendments shall apply only to applications submitted under ORS 307.216
+16 on or after the effective date of the ordinance or resolution.
+17 SECTION 5. ORS 307.216 is amended to read:
+18 307.216. (1)(a) A sponsoring jurisdiction that adopts a project funding program pursuant to ORS
+19 307.214 shall prescribe an application process, including forms and deadlines, by which a developer
+20 may apply for project funding with respect to an eligible housing project.
+21 (b) An application for project funding must include, at a minimum:
+22 (A) A description of the eligible housing project;
+23 (B) A detailed explanation of the affordability of the eligible housing project;
+24 (C) An itemized description of the eligible costs for which the project funding is sought;
+25 (D) The proposed schedule for completion of the eligible housing project;
+26 (E) A project pro forma demonstrating that the project would not be economically feasible but
+27 for receipt of the project funding moneys; and
+28 (F) Any other information, documentation or attestation that the sponsoring jurisdiction con-
+29 siders necessary or convenient for the application review process.
+30 (c)(A) The project pro forma under paragraph (b)(E) of this subsection shall be on a form pro-
+31 vided to the sponsoring jurisdiction by the Housing and Community Services Department and made
+32 available to [grant] project funding applicants.
+33 (B) The department may enter into an agreement with a third party to develop the project pro
+34 forma template.
+35 (2)(a) The review of an application under this section shall be completed within 90 days follow-
+36 ing the receipt of the application by the sponsoring jurisdiction.
+37 (b) Notwithstanding paragraph (a) of this subsection:
+38 (A) The sponsoring jurisdiction may in its sole discretion extend the review process beyond 90
+39 days if the volume of applications would make timely completion of the review process unlikely.
+40 (B) The sponsoring jurisdiction may consult with a developer about the developer’s application,
+41 and the developer, after the consultation, may amend the application on or before a deadline set by
+42 the sponsoring jurisdiction.
+43 (3) The sponsoring jurisdiction shall:
+44 (a) Review each application;
+45 (b) Provide the tax officers of the county in which the eligible housing project property is lo-
+[4]
+HB 4037
+1 cated with the estimated real market value and tax lot information of the property;
+2 (c) Request that the county tax officers provide to the sponsoring jurisdiction the increment
+3 determined under ORS 307.218;
+4 (d) Set the term of the agency loan that will fund the project funding award for a period not to
+5 exceed the greater of:
+6 (A) Ten years following July 1 of the first property tax year for which the completed eligible
+7 housing project property is estimated to be taken into account; or
+8 (B) If agreed upon by the sponsoring jurisdiction and the department, the period required for the
+9 agency loan principal, and fees, if any, to be repaid in full;
+10 (e) Set the amount of the project funding that may be awarded to the developer under ORS
+11 307.225 (2) by multiplying the increment determined under ORS 307.218 by the term of the agency
+12 loan; and
+13 (f)(A) Provisionally approve the application as submitted;
+14 (B) Provisionally approve the application on terms other than those requested in the application;
+15 or
+16 (C) Reject the application.
+17 (4)(a) The sponsoring jurisdiction shall forward provisionally approved applications to the
+18 [Housing and Community Services] department.
+19 (b) The department shall review the provisionally approved applications for completeness, in-
+20 cluding, but not limited to, the completeness of the project pro forma submitted with the application
+21 under subsection (1)(b)(E) of this section and the increment computed under ORS 307.218, and notify
+22 the sponsoring jurisdiction of its determination.
+23 (5)(a) If the department has determined that a provisionally approved application is incomplete,
+24 the sponsoring jurisdiction may:
+25 (A) Consult with the applicant developer and reconsider the provisionally approved application
+26 after the applicant revises it; or
+27 (B) Reject the provisionally approved application.
+28 (b) If the department has determined that a provisionally approved application is complete, the
+29 approval shall be final.
+30 (c) The sponsoring jurisdiction shall notify each applicant and the department of the final ap-
+31 proval or rejection of an application and the amount of the project funding award.
+32 (d) The rejection of an application and the amount of a project grant award or project loan
+33 may not be appealed, but a developer may reapply for project funding at any time within the appli-
+34 cable deadlines of the project funding program for the same or another eligible housing project.
+35 (6) Upon request by a sponsoring jurisdiction, the department may assist the sponsoring juris-
+36 diction with, or perform on behalf of the sponsoring jurisdiction, any duty required under this sec-
+37 tion.
+38 SECTION 6. ORS 307.221 is amended to read:
+39 307.221. (1)(a) The Housing and Community Services Department shall develop a program to
+40 make agency loans to sponsoring jurisdictions to fund project grants and project loans awarded
+41 under the sponsoring jurisdiction’s project funding program adopted pursuant to ORS 307.214.
+42 (b) The agency loans shall be interest free for the term set by the sponsoring jurisdiction under
+43 ORS 307.216.
+44 (2) For each application approved under ORS 307.216 (5)(b), the Housing and Community Ser-
+45 vices Department shall:
+[5]
+HB 4037
+1 (a) Enter into an agency loan agreement with the sponsoring jurisdiction for a payment in an
+2 amount equal to the total of:
+3 (A) The agency loan proceeds in an amount equal to the project funding award for the applica-
+4 tion set under ORS 307.216 (3); and
+5 (B) The administrative costs set forth in subsection (3) of this section; and
+6 (b) Pay to the sponsoring jurisdiction the total amount set forth in paragraph (a) of this sub-
+7 section out of the Housing Project Revolving Loan Fund established under ORS 307.237.
+8 (3) The administrative costs referred to in subsection (2)(a)(B) of this section are:
+9 (a) An amount not greater than five percent of the agency loan proceeds to reimburse the
+10 sponsoring jurisdiction for the costs of administering the project funding program, other than the
+11 costs of tax administration; and
+12 (b) An amount equal to one percent of the agency loan proceeds to be transferred to the county
+13 in which the sponsoring jurisdiction is situated to reimburse the county for the costs of the tax
+14 administration of the project funding program by the county tax officers.
+15 (4) The Housing and Community Services Department may:
+16 (a) In order to maximize repayment and compliance with affordability requirements:
+17 (A) Compromise, adjust or modify agency loans; and
+18 (B) Adjust, modify, subordinate or release the terms of contracts, agreements or re-
+19 strictions entered into in connection with agency loans.
+20 (b) Assign any and all agency loan amounts made under this section to the Department of Re-
+21 venue for collection as provided in ORS 293.250.
+22 (5) The Housing and Community Services Department may:
+23 (a) Consult with the Oregon Business Development Department about any of the powers and
+24 duties conferred on the Housing and Community Services Department by ORS 307.213 to 307.237;
+25 and
+26 (b) Adopt any rule it considers necessary or convenient for the administration of ORS 307.213
+27 to 307.237 by the Housing and Community Services Department.
+28 SECTION 7. ORS 307.225 is amended to read:
+29 307.225. (1) Upon entering into an agency loan agreement with the Housing and Community
+30 Services Department under ORS 307.221, a sponsoring jurisdiction shall offer a project funding
+31 agreement to each developer whose application for project funding was approved under ORS 307.216
+32 (5)(b).
+33 (2) The project funding agreement shall:
+34 (a) Include a project grant award or project loan in the amount set under ORS 307.216 (3); and
+35 (b) Contain terms that:
+36 (A) Are required under ORS 307.213 to 307.237 or the ordinance or resolution adopted by the
+37 sponsoring jurisdiction pursuant to ORS 307.214.
+38 (B) Do not conflict with ORS 307.213 to 307.237 or the ordinance or resolution adopted by the
+39 sponsoring jurisdiction pursuant to ORS 307.214.
+40 (3) Upon entering into a project funding agreement with a developer, a sponsoring jurisdiction
+41 shall adopt an ordinance or resolution setting forth the details of the eligible housing project that
+42 is the subject of the project funding agreement, including but not limited to:
+43 [(a) With respect to a project grant or a project loan:]
+44 [(A)] (a) A description of the eligible housing project;
+45 (b) A statement indicating whether the eligible housing project property is exempt from
+[6]
+HB 4037
+1 property taxation under ORS 307.227;
+2 [(B)] (c) An itemized description of the eligible costs;
+3 [(C)] (d) The amount and terms of the grant project award or project loan principal; and
+4 [(D)] (e) A statement declaring that the project funding has been awarded in response to the
+5 housing needs of communities within the sponsoring jurisdiction[; and].
+6 [(b) With respect to a project grant, written notice that the eligible housing project property is ex-
+7 empt from property taxation in accordance with ORS 307.227.]
+8 (4) Unless otherwise specified in the project funding agreement, as soon as practicable after the
+9 ordinance or resolution required under subsection (3) of this section becomes effective, the spon-
+10 soring jurisdiction shall distribute the agency loan proceeds received from the department under
+11 ORS 307.221 (2)(a)(A) to the developer as the project grant moneys or project loan principal awarded
+12 under this section.
+13 (5) The sponsoring jurisdiction shall forward to the tax officers of the county in which the eli-
+14 gible housing project is located a copy of the project funding agreement, the ordinance or resolution
+15 and any other material the sponsoring jurisdiction considers necessary for the tax officers to per-
+16 form their duties under ORS 307.213 to 307.237 or the ordinance or resolution.
+17 (6)(a)(A) Upon request, the department may assist [the] a sponsoring jurisdiction with, or per-
+18 form on behalf of the sponsoring jurisdiction, any duty required under this section.
+19 (B) Upon request, any city or county may assist a sponsoring jurisdiction with, or per-
+20 form on behalf of the sponsoring jurisdiction, any duty required under this section or ORS
+21 307.216.
+22 (b) The department may take any action with respect to a city or county assisting a
+23 sponsoring jurisdiction under this subsection that it may take with respect to the sponsoring
+24 jurisdiction itself.
+25 SECTION 8. ORS 307.227 is amended to read:
+26 307.227. (1) Upon receipt of the copy of a project [grant] funding agreement and ordinance or
+27 resolution from the sponsoring jurisdiction under ORS 307.225 (5) that grants exemption under
+28 this section to eligible housing project property, the assessor of the county in which eligible
+29 housing project property is located shall:
+30 (a) Exempt the eligible housing project property in accordance with this section;
+31 (b) Assess and tax the nonexempt property in the tax account as other similar property is as-
+32 sessed and taxed; and
+33 (c) Submit a written report to the sponsoring jurisdiction setting forth the assessor’s estimate
+34 of the amount of:
+35 (A) The real market value of the exempt eligible housing project property; and
+36 (B) The property taxes on the exempt eligible housing project property that would have been
+37 collected if the property were not exempt.
+38 (2)(a) The exemption shall first apply to the first property tax year that begins after completion
+39 of the eligible housing project to which the [grant] project funding relates.
+40 (b) The eligible housing project property shall be disqualified from the exemption on the earliest
+41 of:
+42 (A) July 1 of the property tax year immediately succeeding the date on which the fee payment
+43 obligation under ORS 307.231 that relates to the eligible housing project, if any, is repaid in full;
+44 (B) The date on which the annual fee imposed on the fee payer under ORS 307.231, if any, be-
+45 comes delinquent;
+[7]
+HB 4037
+1 (C) The date on which foreclosure proceedings are commenced as provided by law for delinquent
+2 nonexempt taxes assessed with respect to the tax account that includes the eligible housing project;
+3 or
+4 (D) The date on which a condition specified in ORS 307.233 (1) occurs.
+5 (c) After the eligible housing project property has been disqualified from the exemption under
+6 this subsection, the property shall be assessed and taxed as other similar property is assessed and
+7 taxed.
+8 (3) For each tax year that the eligible housing project property is exempt from taxation, the
+9 assessor shall enter a notation on the assessment roll stating:
+10 (a) That the property is exempt under this section; and
+11 (b) The presumptive number of property tax years for which the exemption is granted, which
+12 shall be the term of the agency loan agreement relating to the eligible housing project set under
+13 ORS 307.216.
+14 SECTION 9. ORS 307.229 is amended to read:
+15 307.229. (1) Repayment of agency loans made under ORS 307.221 shall begin, in accordance with
+16 ORS 307.231, after completion of the eligible housing project funded by the project grant or project
+17 loan to which the agency loan relates, or after another date or other circumstances agreed to by
+18 the parties to a project funding agreement under ORS 307.223.
+19 (2)(a) The sponsoring jurisdiction shall determine the date of completion of an eligible housing
+20 project.
+21 (b)(A) If an eligible housing project is completed before July 1 of the assessment year, repayment
+22 shall begin with the property tax year that begins on July 1 of the assessment year.
+23 (B) If an eligible housing project is completed on or after July 1 of the assessment year, repay-
+24 ment shall begin with the property tax year that begins on July 1 of the succeeding assessment year.
+25 (c) After determining the date of completion under paragraph (a) of this subsection, the spon-
+26 soring jurisdiction shall notify the Housing and Community Services Department and the county tax
+27 officers of the determination.
+28 (3)(a) [A] An agency loan shall remain outstanding until repaid in full.
+29 (b) An agency loan may be repaid at any time.
+30 (4) Upon payment in full of an agency loan, the sponsoring jurisdiction may release or
+31 modify any affordability restrictions applicable to the eligible housing project property to
+32 which the agency loan relates.
+33 SECTION 10. ORS 307.231 is amended to read:
+34 307.231. (1) Unless repayment of the agency loan made under ORS 307.221 has been otherwise
+35 provided for under ORS 307.223, the fee payer for eligible housing project property that has been
+36 granted exemption under ORS 307.227 shall pay an annual fee for the term that shall be the
+37 presumptive number of property tax years for which the property is granted exemption under ORS
+38 307.227 (3)(b).
+39 (2)(a) The amount of the fee for the first property tax year in which repayment of the agency
+40 loan is due under ORS 307.229 (1) shall equal the total of:
+41 (A) The portion of the increment determined under ORS 307.218 that is attributable to the eli-
+42 gible housing project property to which the fee relates; and
+43 (B) The administrative costs described in ORS 307.221 (3) divided by the term in years of the
+44 project [grant] funding agreement entered into under ORS 307.225.
+45 (b) For each subsequent property tax year, the amount of the fee shall be 103 percent of the
+[8]
+HB 4037
+1 amount of the fee for the preceding property tax year.
+2 (3)(a) Not later than July 15 of each property tax year during the term of the fee obligation, the
+3 sponsoring jurisdiction shall certify to the assessor each fee amount that became due under this
+4 section on or after July 16 of the previous property tax year from fee payers with respect to eligible
+5 housing projects located in the sponsoring jurisdiction.
+6 (b) The assessor shall place each fee amount on the assessment and tax rolls of the county and
+7 notify:
+8 (A) The sponsoring jurisdiction of each fee amount and the aggregate of all fee amounts imposed
+9 with respect to eligible housing project property located in the sponsoring jurisdiction.
+10 (B) The Housing and Community Services Department of each fee amount and the aggregate of
+11 all fee amounts with respect to all eligible housing project property located in the county.
+12 (4)(a) The assessor shall include on the tax statement of each tax account that includes exempt
+13 eligible housing project property the amount of the fee imposed on the fee payer with respect to the
+14 eligible housing project property.
+15 (b) The fee shall be collected and enforced in the same manner as ad valorem property taxes,
+16 including nonexempt taxes, are collected and enforced.
+17 (5)(a) For each property tax year in which a fee is payable under this section, the treasurer
+18 shall:
+19 (A) Estimate the amount of operating taxes as defined in ORS 310.055 and local option taxes as
+20 defined in ORS 310.202 levied by fire districts that would have been collected on eligible housing
+21 project property if the property were not exempt;
+22 (B) Distribute out of the fee moneys the estimated amounts determined under subparagraph (A)
+23 of this paragraph to the respective fire districts when other ad valorem property taxes are distrib-
+24 uted under ORS 311.395; and
+25 (C) Transfer the net fee moneys to the [Housing and Community Services] department for deposit
+26 in the Housing Project Revolving Loan Fund established under ORS 307.237 in repayment of the
+27 loans to which the fees relate.
+28 (b) Nonexempt taxes shall be distributed in the same manner as other ad valorem property taxes
+29 are distributed.
+30 (6) Any person with an interest in the eligible housing project property on the date on which
+31 any fee amount becomes due shall be jointly and severally liable for payment of the fee amount.
+32 (7) Any agency loan amounts that have not been repaid when the fee payer has discharged its
+33 obligations in full under this section remain the obligation of the sponsoring jurisdiction that ob-
+34 tained the agency loan from the department under ORS 307.221.
+35 (8) Any fee amounts collected in excess of the agency loan amount shall be distributed in the
+36 same manner as other ad valorem property taxes are distributed.
+37 SECTION 11. ORS 307.233 is amended to read:
+38 307.233. (1)(a) A developer that received a project [grant] funding award under ORS 307.225
+39 shall become liable for immediate payment of outstanding annual fee payments, if any, imposed un-
+40 der ORS 307.231 for the entire term of the fee if:
+41 (A) The developer has not completed the eligible housing project within three years following
+42 the date on which the project [grant] funding moneys were distributed to the developer;
+43 (B) The eligible housing project changes substantially from the project for which the developer’s
+44 application was approved such that the project would not have been eligible for the project [grant]
+45 funding; or
+[9]
+HB 4037
+1 (C) The developer has not complied with a requirement specified in the project [grant] funding
+2 agreement or with associated affordability requirements and restrictions.
+3 (b) The sponsoring jurisdiction may, in its sole discretion, extend the date on which the eligible
+4 housing project must be completed.
+5 [(2) If the sponsoring jurisdiction discovers that a developer willfully made a false statement or
+6 misrepresentation or willfully failed to report a material fact to obtain a project grant with respect to
+7 an eligible housing project, the sponsoring jurisdiction may impose on the developer a penalty not to
+8 exceed 20 percent of the amount of the project grant so obtained, plus any applicable interest and fees
+9 associated with the costs of collection.]
+10 (2) A sponsoring jurisdiction may impose on a developer, homeowner or other project
+11 representative a penalty not to exceed 20 percent of the amount of the project funding ob-
+12 tained with respect to an eligible housing project, plus any applicable interest and fees as-
+13 sociated with the costs of collection, upon discovery that the developer, homeowner or other
+14 project representative willfully made a false statement or misrepresentation or willfully
+15 failed to report a material fact:
+16 (a) To obtain the project funding; or
+17 (b) Relating to the compliance requirements associated with the eligible housing project.
+18 (3) Any amounts imposed under subsection (1) or (2) of this section shall be a lien on the eligible
+19 housing project property and the nonexempt property in the tax account.
+20 (4) The sponsoring jurisdiction shall provide written notice of any amounts that become due
+21 under subsections (1) and (2) of this section to the county tax officers and the Housing and Com-
+22 munity Services Department.
+23 (5)(a) Any and all amounts required to be paid under this section shall be considered to be liq-
+24 uidated and delinquent, and the Housing and Community Services Department shall assign such
+25 amounts to the Department of Revenue for collection as provided in ORS 293.250.
+26 (b) Amounts collected under this subsection shall be deposited, net of any collection charges, in
+27 the Housing Project Revolving Loan Fund established under ORS 307.237.
+28
+29 COMMUNITY DEVELOPMENT FINANCIAL INSTITUTIONS
+30
+31 SECTION 12. ORS 458.352 is amended to read:
+32 458.352. (1) As used in this section:
+33 (a) “Average income” means an income that complies with income restrictions determined at the
+34 advice and consent of the Oregon Housing Stability Council, but not to exceed the greater of 100
+35 percent of the statewide or local area median income adjusted for household size as determined
+36 annually by the Housing and Community Services Department using United States Department of
+37 Housing and Urban Development information.
+38 (b) “Manufactured dwelling park” has the meaning given that term in ORS 446.003.
+39 (c) “Nonprofit corporation” means a corporation that is exempt from income taxes under section
+40 501(c)(3) or (4) of the Internal Revenue Code as amended and in effect on December 31, 2016.
+41 (2) The Housing and Community Services Department shall provide one or more loans to
+42 nonprofit corporations to create manufactured dwelling park preservation and development pro-
+43 grams that invest in, and provide loans for, the preservation, development and expansion of afford-
+44 able manufactured dwelling parks in this state, including through:
+45 (a) The repair or reconstruction of parks destroyed by natural disasters; or
+[10]
+HB 4037
+1 (b) The acquisition and development of land for parks or for the expansion of parks in areas that
+2 have been affected by a natural disaster.
+3 (3) To be eligible for a loan under this section, a nonprofit corporation shall demonstrate to the
+4 satisfaction of the department that the nonprofit corporation:
+5 (a) Is a community development financial institution, or was certified on October 1, 2025, as
+6 a community development financial institution by the Community Development Financial
+7 Institutions Fund at the United States Department of the Treasury;
+8 (b) Is operating statewide to support investment in, and acquisition, renovation and con-
+9 struction of, affordable housing;
+10 [(b)] (c) Has the ability and capacity to provide the services and reporting required of the pro-
+11 gram described in subsections (4) and (6) of this section; and
+12 [(c)] (d) Meets other requirements established by the department regarding financial risk and
+13 availability or accessibility of additional resources.
+14 (4) An eligible nonprofit corporation, with input from the department, shall develop a manufac-
+15 tured dwelling park development and preservation program that:
+16 (a) Invests in, and loans funds to, other nonprofit corporations, housing authorities, manufac-
+17 tured dwelling park nonprofit cooperatives as defined in ORS 62.803, local units of government as
+18 defined in ORS 466.706, agencies as defined in ORS 183.310, or any entity in which a nonprofit cor-
+19 poration has a controlling share, to:
+20 (A) Purchase or refinance manufactured dwelling parks that will maintain the parks as parks
+21 long term; or
+22 (B) Construct, develop, expand, repair or reconstruct parks, including parks destroyed by na-
+23 tural disasters;
+24 (b) Emphasizes, when providing loans under paragraph (a) of this subsection, the financing of
+25 parks whose residents are predominantly members of households with income less than average in-
+26 come; and
+27 (c) Preserves the affordability of the park space rent to park tenants who are members of
+28 households with income less than average income.
+29 (5) An eligible nonprofit corporation shall create a park development and preservation account
+30 to be used by the nonprofit corporation for the manufactured dwelling park preservation program
+31 and shall deposit the moneys loaned by the department into the account.
+32 (6) An eligible nonprofit corporation shall ensure that all financial activities of the program are
+33 paid from and into the park development and preservation account created under subsection (5) of
+34 this section. Each nonprofit corporation shall report to the department no less than semiannually,
+35 showing the expenses and incomes of the park development and preservation account and the results
+36 of the manufactured dwelling park development and preservation program.
+37 (7) A loan made by the department under this section:
+38 (a) May require the nonprofit corporation to pay interest.
+39 (b) May not require the nonprofit corporation to make any loan payments before the maturity
+40 date of the loan.
+41 (c) Must have a maturity date of no later than September 15, 2036.
+42 (d) May have its maturity date extended by the department.
+43 (e) Shall have all or part of the unpaid balance forgiven by the department in an amount not to
+44 exceed the losses incurred on investments or loans made by the nonprofit corporation under sub-
+45 section (4)(a) of this section.
+[11]
+HB 4037
+1 (f) May include such agreements by the nonprofit corporation practical to secure the loan made
+2 by the department and to accomplish the purposes of the program described in subsection (4) of this
+3 section.
+4 (8) The department or the State Treasurer shall deposit moneys received in servicing the loan
+5 into the General Housing Account of the Oregon Housing Fund created under ORS 458.620.
+6 SECTION 13. The Housing and Community Services Department, Oregon Department of
+7 Administrative Services or Department of Justice may amend the grant agreement with
+8 Network for Oregon Affordable Housing (NOAH) made under section 51, chapter 13, Oregon
+9 Laws 2023, to allow the grant and proceeds from the grant to be used for financing:
+10 (1) Housing projects that will:
+11 (a) Have an affordability term of no less than five years, notwithstanding section 51
+12 (2)(a), chapter 13, Oregon Laws 2023.
+13 (b) Be sold or rented as the primary residence for a low or moderate income household,
+14 notwithstanding section 51 (2)(b), chapter 13, Oregon Laws 2023.
+15 (2) Not to exceed $1,000,000 per eligible project, notwithstanding section 51 (3)(a), chapter
+16 13, Oregon Laws 2023.
+17
+18 HOUSING ACCOUNTABILITY AND PRODUCTION OFFICE
+19
+20 SECTION 14. ORS 197A.805 is amended to read:
+21 197A.805. (1) The Housing Accountability and Production Office shall establish a form or format
+22 through which the office receives allegations of local governments’ violations of housing laws that
+23 impact housing production. For complaints that relate to a specific development project, the office
+24 may receive complaints only from the project applicant. For complaints not related to a specific
+25 development project, the office may receive complaints from any person within the local
+26 government’s jurisdiction or the Department of Land Conservation and Development or the Depart-
+27 ment of Consumer and Business Services.
+28 (2)(a) Except as provided in paragraph (c) of this subsection, the office shall investigate sus-
+29 pected violations of housing laws or violations credibly alleged under subsection (1) of this section.
+30 (b) The office shall develop consistent procedures to evaluate and determine the credibility of
+31 alleged violations of housing laws.
+32 (c) If a complainant has filed a notice of appeal with the Land Use Board of Appeals or has
+33 initiated private litigation regarding any aspect of the application decision that was alleged to have
+34 been the subject of the housing law violation, the office may not further participate in the specific
+35 complaint or its appeal, except for:
+36 (A) Providing agency briefs, including briefs under ORS 197.830 (8), to the board or the court;
+37 (B) Providing technical assistance to the local government unrelated to the resolution of the
+38 specific complaint; or
+39 (C) Mediation at the request of the local government and complainant, including mediation un-
+40 der ORS 197.860.
+41 (3)(a) If the office has a reasonable basis to conclude that a violation was or is being committed,
+42 the office shall deliver written warning notice to the local government specifying the violation and
+43 any authority under this section that the office intends to invoke if the violation continues or is not
+44 remedied. The notice must include an invitation to address or remedy the suspected violation
+45 through mediation, the execution of a compliance agreement to voluntarily remedy the situation, the
+[12]
+HB 4037
+1 adoption of suitable model codes developed by the office under ORS 197A.800 (3)(b) or other reme-
+2 dies suitable to the specific violation.
+3 (b) The office shall prioritize technical assistance funding to local governments that agree to
+4 comply with housing laws under this subsection.
+5 (c) A determination by the office is not a legislative, judicial or quasi-judicial decision.
+6 (4) No earlier than 60 days after a warning notice is delivered under subsection (3) of this sec-
+7 tion, the office may:
+8 (a) Initiate a request for an enforcement order of the Land Conservation and Development
+9 Commission by delivering a notice of request under ORS 197A.810 (3).
+10 (b) Seek a court order against a local government as described under ORS 455.160 (3) without
+11 being adversely affected or serving the demand as described in ORS 455.160 (2).
+12 (c) Notwithstanding ORS 197.090 (2)(b) to (e), participate in and seek review of a matter under
+13 ORS 197.090 (2)(a) that pertains to housing laws without the notice or consent of the commission.
+14 No less than once every two years, the office shall report to the commission on the matters in which
+15 the office participated under this paragraph.
+16 (d) Except regarding matters under the exclusive jurisdiction of the Land Use Board of Appeals,
+17 apply to a circuit court for an order compelling compliance with any housing law. If the court finds
+18 that the defendant is not complying with a housing law, the court may grant an injunction requiring
+19 compliance.
+20 (e) In addition to requesting an order under paragraph (a) of this subsection, enter an
+21 interim administrative order in the name of the office, requiring the local government to
+22 directly apply a model code that has been adopted by rule by the commission during the
+23 pendency of the proceeding. The local government may appeal the order under ORS 183.484
+24 or seek relief from the order within the proceeding described in ORS 197A.810.
+25 (5) The office may not, in the name of the office, exercise the authority of the Department of
+26 Land Conservation and Development under ORS 197A.130.
+27 (6) The office shall send notice to each complainant under subsection (1) of this section at the
+28 time that the office:
+29 (a) Takes any action under subsection (3) or (4) of this section; or
+30 (b) Has determined that it will not take further actions or make further investigations.
+31 (7) The actions authorized of the office under this section are in addition to and may be exer-
+32 cised in conjunction with any other investigative or enforcement authority that may be exercised
+33 by the Department of Land Conservation and Development, the Land Conservation and Development
+34 Commission or the Department of Consumer and Business Services.
+35 (8) Nothing in this section:
+36 (a) Amends the jurisdiction of the Land Use Board of Appeals or of a circuit court;
+37 (b) Creates a new cause of action; or
+38 (c) Tolls or extends:
+39 (A) The statute of limitations for any claim; or
+40 (B) The deadline for any appeal or other action.
+41 SECTION 15. ORS 197.320 is amended to read:
+42 197.320. The Land Conservation and Development Commission shall issue an order requiring a
+43 local government, state agency or special district to take action necessary to bring its comprehen-
+44 sive plan, land use regulation, limited land use decisions or other land use decisions or actions into
+45 compliance with the goals, acknowledged comprehensive plan provisions, land use regulations,
+[13]
+HB 4037
+1 housing production strategy or housing acceleration agreements if the commission has good cause
+2 to believe:
+3 (1) A comprehensive plan or land use regulation adopted by a local government not on a com-
+4 pliance schedule is not in compliance with the goals by the date set in ORS 197.245 or 197.250 for
+5 such compliance.
+6 (2) A plan, program, rule or regulation affecting land use adopted by a state agency or special
+7 district is not in compliance with the goals by the date set in ORS 197.245 or 197.250 for such
+8 compliance.
+9 (3) A local government is not making satisfactory progress toward performance of its compliance
+10 schedule.
+11 (4) A state agency is not making satisfactory progress in carrying out its coordination agree-
+12 ment or the requirements of ORS 197.180.
+13 (5) A local government has no comprehensive plan or land use regulation and is not on a com-
+14 pliance schedule directed to developing the plan or regulation.
+15 (6) A local government has engaged in a pattern or practice of decision-making that violates an
+16 acknowledged comprehensive plan or land use regulation. In making its determination under this
+17 subsection, the commission shall determine whether there is evidence in the record to support the
+18 decisions made. The commission shall not judge the issue solely upon adequacy of the findings in
+19 support of the decisions.
+20 (7) A local government has failed to comply with a commission order entered under ORS 197.644.
+21 (8) A special district has engaged in a pattern or practice of decision-making that violates an
+22 acknowledged comprehensive plan or cooperative agreement adopted pursuant to ORS 197.020.
+23 (9) A special district is not making satisfactory progress toward performance of its obligations
+24 under ORS chapters 195, 197 and 197A.
+25 (10) A local government’s approval standards, special conditions on approval of specific devel-
+26 opment proposals or procedures for approval do not comply with ORS 197A.400 [(1) or (3)].
+27 (11) A local government is not making satisfactory progress toward meeting its obligations un-
+28 der ORS 195.065.
+29 (12) A local government within the jurisdiction of a metropolitan service district has failed to
+30 make changes to the comprehensive plan or land use regulations to comply with the regional
+31 framework plan of the district or has engaged in a pattern or practice of decision-making that vio-
+32 lates a requirement of the regional framework plan.
+33 (13) A city [with a population of 10,000 or greater, as defined in ORS 197A.015,] that:
+34 (a) Has a pattern or practice of violating housing-related statutes or implementing policies that
+35 create unreasonable cost or delay to the production of housing [as described in ORS 197A.400 (1)];
+36 (b) Has a pattern or practice of creating adverse disparate impacts to state or federal protected
+37 classes or inhibiting equitable access to housing choice[, as described in ORS 197A.100 (2)(b) to
+38 (d)];
+39 (c) Has failed to enter into a housing acceleration agreement as required under ORS 197A.130
+40 (6); or
+41 (d) Has materially breached a term of a housing acceleration agreement under ORS 197A.130 (8),
+42 including a failure to meet the timeline for performance under ORS 197A.130 (8)(a)(A).
+43
+44 BUILDING PLAN REVIEW
+45
+[14]
+HB 4037
+1 SECTION 16. ORS 455.628 is amended to read:
+2 455.628. (1) The Department of Consumer and Business Services or a municipality administering
+3 and enforcing a building inspection program under ORS 455.148 or 455.150 may not require a plan
+4 review for one and two family dwellings [that are of conventional light frame construction, as defined
+5 by the department by rule], if:
+6 (a) The plans for the dwelling are designed and stamped by a professional engineer registered
+7 under ORS 672.002 to 672.325 or an architect registered under ORS 671.010 to 671.220; and
+8 (b) The engineer or architect is certified by the Director of the Department of Consumer and
+9 Business Services under ORS 455.720 as being qualified to examine one and two family dwelling
+10 plans.
+11 (2) The department or municipality is exempt from liability for any damages arising from the
+12 nonperformance of a plan review pursuant to this section.
+13
+14 REVIEW OF HOUSING APPLICATIONS
+15
+16 SECTION 17. ORS 197A.400 is amended to read:
+17 197A.400. (1)(a) Except as provided in subsection (3) of this section, a local government may
+18 adopt and apply only clear and objective standards, conditions and procedures regulating:
+19 (A) The development of housing; and
+20 (B) Tree removal [codes] related to the development of housing.
+21 (b) The standards, conditions and procedures:
+22 (A) May include, but are not limited to, one or more provisions regulating the density or height
+23 of a development.
+24 (B) May not have the effect, either in themselves or cumulatively, of discouraging needed
+25 housing through unreasonable cost or delay.
+26 (C) May be contained in a comprehensive plan, land use regulation or an ordinance relating to
+27 housing adopted by a city that adopts, including by reference, a model ordinance adopted by the
+28 Land Conservation and Development Commission that comports with any qualifications, conditions
+29 or applicability of the model ordinance.
+30 (c) This subsection applies only within:
+31 (A) An urban growth boundary;
+32 (B) An unincorporated community designated in a county’s acknowledged comprehensive plan
+33 after December 5, 1994;
+34 (C) Nonresource land; or
+35 (D) An area zoned for rural residential use as defined in ORS 215.501.
+36 (2) The provisions of subsection (1) of this section do not apply to:
+37 (a) An application or permit for residential development in an area identified in a formally
+38 adopted central city plan, or a regional center as defined by Metro, in a city with a population of
+39 500,000 or greater.
+40 (b) An application or permit for residential development in historic areas designated for pro-
+41 tection under a land use planning goal protecting historic areas.
+42 (3) In addition to an approval process for needed housing based on clear and objective standards,
+43 conditions and procedures as provided in subsection (1) of this section, a local government may
+44 adopt and apply an alternative approval process for applications and permits for residential devel-
+45 opment based on approval criteria that are not clear and objective if:
+[15]
+HB 4037
+1 (a) The applicant retains the option of proceeding under the approval process that meets the
+2 requirements of subsection (1) of this section;
+3 (b) The approval criteria for the alternative approval process comply with applicable statewide
+4 land use planning goals and rules; and
+5 (c) The approval criteria for the alternative approval process authorize a density at or above
+6 the density level authorized in the zone under the approval process provided in subsection (1) of this
+7 section.
+8 (4) For applications subject to subsection (1) of this section[, this section does not infringe on
+9 a local government’s prerogative to:] the local government:
+10 (a) Shall set approval standards under which a particular housing type is ordinarily permitted
+11 outright without the need for a land use decision;
+12 [(b) Impose special conditions upon approval of a specific development proposal; or]
+13 [(c) Establish approval procedures.]
+14 (b) May give notice of an approval of any application to the owners of record of any
+15 property that has a common boundary with the subject property, including properties sepa-
+16 rated only by a public road, as shown on the most recent property tax assessment role; and
+17 (c) May not require any public hearings, proceedings or notice of the application or re-
+18 quire any local appeals, review or notice of an approved application except as provided in
+19 paragraph (b) of this subsection unless specifically requested by the applicant.
+20 (5) Notwithstanding subsection (4) of this section or ORS 197.825, an applicant may appeal
+21 a denial of an application to the Land Use Board of Appeals under ORS 197.830 to 197.845 al-
+22 leging that the local government has failed to adopt or apply clear and objective standards,
+23 conditions and procedures under subsection (1) of this section.
+24 SECTION 18. ORS 215.427 is amended to read:
+25 215.427. (1) Except as provided in subsections (3), (5) and (10) of this section, the governing body
+26 of a county or its designee shall take final action on an application, including resolution of all ap-
+27 peals under ORS 215.422, within the shortest applicable period of the following periods, all of which
+28 begin on the date that the application is deemed complete:
+29 (a) 150 days;
+30 (b) 120 days, for land within an urban growth boundary or for applications for mineral aggregate
+31 extraction;
+32 (c) 100 days, for an application for the development of affordable housing as provided in ORS
+33 197A.470; [or]
+34 (d) 90 days, for an application to develop housing within an urban growth boundary where
+35 the developer and zoning designation are identical and the application and lot or parcel are
+36 substantially similar; or
+37 [(d)] (e) 63 days, for an expedited land division under ORS 197A.140.
+38 (2) If an application is incomplete, the governing body or its designee shall notify the applicant
+39 in writing of exactly what information is missing within 30 days of receipt of the application and
+40 allow the applicant to submit the missing information. The application is deemed complete for the
+41 purpose of subsection (1) of this section upon receipt by the governing body or its designee of:
+42 (a) All of the missing information;
+43 (b) Some of the missing information and written notice from the applicant that no other infor-
+44 mation will be provided; or
+45 (c) Written notice from the applicant that none of the missing information will be provided.
+[16]
+HB 4037
+1 (3)(a) Approval or denial of an application that was complete when first submitted or deemed
+2 complete pursuant to subsection (2) of this section must be based:
+3 (A) Upon the standards and criteria that were applicable at the time the application was first
+4 submitted; or
+5 (B) For an application relating to development of housing within an urban growth boundary,
+6 upon the request of the applicant, those standards and criteria that are operative at the time of the
+7 request.
+8 (b) If an applicant requests review under different standards as provided in paragraph (a)(B) of
+9 this subsection:
+10 (A) For the purposes of this section, any applicable timelines for completeness review and final
+11 decisions restart as if a new application were submitted on the date of the request;
+12 (B) For the purposes of this section, the application is not deemed complete until:
+13 (i) The county determines that additional information is not required under subsection (2) of this
+14 section; or
+15 (ii) The applicant makes a submission under subsection (2) of this section in response to a
+16 county’s request;
+17 (C) A county may deny a request under paragraph (a)(B) of this subsection if:
+18 (i) The county has issued a public notice of the application; or
+19 (ii) A request under paragraph (a)(B) of this subsection was previously made; and
+20 (D) The county may not require that the applicant:
+21 (i) Pay a fee, except to cover additional costs incurred by the county to accommodate the re-
+22 quest;
+23 (ii) Submit a new application or duplicative information, unless information resubmittal is re-
+24 quired because the request affects or changes information in other locations in the application or
+25 additional narrative is required to understand the request in context; or
+26 (iii) Repeat redundant processes or hearings that are inapplicable to the change in standards
+27 or criteria.
+28 (4) On the 181st day after first being submitted, the application is void if the applicant has been
+29 notified of the missing information as required under subsection (2) of this section and has not sub-
+30 mitted:
+31 (a) All of the missing information;
+32 (b) Some of the missing information and written notice that no other information will be pro-
+33 vided; or
+34 (c) Written notice that none of the missing information will be provided.
+35 (5) The period set in subsection (1) of this section may be extended for a specified period of time
+36 at the written request of the applicant. The total of all extensions, except as provided in subsection
+37 (10) of this section for mediation, may not exceed 215 days.
+38 (6) The period set in subsection (1) of this section applies:
+39 (a) Only to decisions wholly within the authority and control of the governing body of the
+40 county; and
+41 (b) Unless the parties have agreed to mediation as described in subsection (10) of this section
+42 or ORS 197.319 (2)(b).
+43 (7) Notwithstanding subsection (6) of this section, the period set in subsection (1) of this section
+44 does not apply to:
+45 (a) A decision of the county making a change to an acknowledged comprehensive plan or a land
+[17]
+HB 4037
+1 use regulation that is submitted to the Director of the Department of Land Conservation and De-
+2 velopment under ORS 197.610; or
+3 (b) A decision of a county involving an application for the development of residential structures
+4 within an urban growth boundary, where the county has tentatively approved the application and
+5 extends these periods by no more than seven days in order to assure the sufficiency of its final or-
+6 der.
+7 (8) If the governing body of the county or its designee does not take final action on an appli-
+8 cation within the applicable periods allowed under subsections (1) and (5) of this section, the county
+9 shall refund to the applicant either the unexpended portion of any application fees or deposits pre-
+10 viously paid or 50 percent of the total amount of such fees or deposits, whichever is greater. The
+11 applicant is not liable for additional governmental fees incurred subsequent to the payment of such
+12 fees or deposits. However, the applicant is responsible for the costs of providing sufficient addi-
+13 tional information to address relevant issues identified in the consideration of the application.
+14 (9) A county may not compel an applicant to waive the period set in subsection (1) of this sec-
+15 tion or to waive the provisions of subsection (8) of this section or ORS 215.429 as a condition for
+16 taking any action on an application, except when such applications are filed concurrently and con-
+17 sidered jointly with a plan amendment.
+18 (10) The periods set forth in subsections (1) and (5) of this section may be extended by up to 90
+19 additional days, if the applicant and the county agree that a dispute concerning the application will
+20 be mediated.
+21 (11) As used in this section, “application” means an application for:
+22 (a) A permit;
+23 (b) A limited land use decision;
+24 (c) A zone change;
+25 (d) A consolidated zone change and permit described under ORS 215.416;
+26 (e) An expedited land division under ORS 197A.140; or
+27 (f) A plat consisting of a land division and middle housing land division as described in ORS
+28 92.044 (1)(c)(C).
+29 SECTION 19. ORS 227.178 is amended to read:
+30 227.178. (1) Except as provided in subsections (3), (5) and (11) of this section, the governing body
+31 of a city or its designee shall take final action on an application, including resolution of all appeals
+32 under ORS 227.180, within the shortest applicable period of the following periods, all of which begin
+33 on the date that the application is deemed complete:
+34 (a) 120 days;
+35 (b) 100 days, for an application for the development of affordable housing as provided in ORS
+36 197A.470; [or]
+37 (c) 90 days, for an application to develop housing within an urban growth boundary where
+38 the developer and zoning designation are identical and the application and lot or parcel are
+39 substantially similar; or
+40 [(c)] (d) 63 days, for an expedited land division under ORS 197A.140.
+41 (2) If an application is incomplete, the governing body or its designee shall notify the applicant
+42 in writing of exactly what information is missing within 30 days of receipt of the application and
+43 allow the applicant to submit the missing information. The application is deemed complete for the
+44 purpose of subsection (1) of this section upon receipt by the governing body or its designee of:
+45 (a) All of the missing information;
+[18]
+HB 4037
+1 (b) Some of the missing information and written notice from the applicant that no other infor-
+2 mation will be provided; or
+3 (c) Written notice from the applicant that none of the missing information will be provided.
+4 (3)(a) Approval or denial of an application that was complete when first submitted or deemed
+5 complete pursuant to subsection (2) of this section must be based:
+6 (A) Upon the standards and criteria that were applicable at the time the application was first
+7 submitted; or
+8 (B) For an application relating to development of housing within an urban growth boundary,
+9 upon the request of the applicant, those standards and criteria that are operative at the time of the
+10 request.
+11 (b) If an applicant requests review under different standards as provided in paragraph (a)(B) of
+12 this subsection:
+13 (A) For the purposes of this section, any applicable timelines for completeness review and final
+14 decisions restart as if a new application were submitted on the date of the request;
+15 (B) For the purposes of this section, the application is not deemed complete until:
+16 (i) The city determines that additional information is not required under subsection (2) of this
+17 section; or
+18 (ii) The applicant makes a submission under subsection (2) of this section in response to a city’s
+19 request;
+20 (C) A city may deny a request under paragraph (a)(B) of this subsection if:
+21 (i) The city has issued a public notice of the application; or
+22 (ii) A request under paragraph (a)(B) of this subsection was previously made; and
+23 (D) The city may not require that the applicant:
+24 (i) Pay a fee, except to cover additional costs incurred by the city to accommodate the request;
+25 (ii) Submit a new application or duplicative information, unless information resubmittal is re-
+26 quired because the request affects or changes information in other locations in the application or
+27 additional narrative is required to understand the request in context; or
+28 (iii) Repeat redundant processes or hearings that are inapplicable to the change in standards
+29 or criteria.
+30 (4) On the 181st day after first being submitted, the application is void if the applicant has been
+31 notified of the missing information as required under subsection (2) of this section and has not sub-
+32 mitted:
+33 (a) All of the missing information;
+34 (b) Some of the missing information and written notice that no other information will be pro-
+35 vided; or
+36 (c) Written notice that none of the missing information will be provided.
+37 (5) The period set in subsection (1) of this section may be extended for a specified period of time
+38 at the written request of the applicant. The total of all extensions, except as provided in subsection
+39 (11) of this section for mediation, may not exceed 245 days.
+40 (6) The period set in subsection (1) of this section applies:
+41 (a) Only to decisions wholly within the authority and control of the governing body of the city;
+42 and
+43 (b) Unless the parties have agreed to mediation as described in subsection (11) of this section
+44 or ORS 197.319 (2)(b).
+45 (7) Notwithstanding subsection (6) of this section, the period set in subsection (1) of this section
+[19]
+HB 4037
+1 does not apply to:
+2 (a) A decision of the city making a change to an acknowledged comprehensive plan or a land
+3 use regulation that is submitted to the Director of the Department of Land Conservation and De-
+4 velopment under ORS 197.610; or
+5 (b) A decision of a city involving an application for the development of residential structures
+6 within an urban growth boundary, where the city has tentatively approved the application and ex-
+7 tends these periods by no more than seven days in order to assure the sufficiency of its final order.
+8 (8) If the governing body of the city or its designee does not take final action on an application
+9 within the period set in subsection (1) of this section, the city shall refund to the applicant, subject
+10 to the provisions of subsection (9) of this section, either the unexpended portion of any application
+11 fees or deposits previously paid or 50 percent of the total amount of such fees or deposits, whichever
+12 is greater. The applicant is not liable for additional governmental fees incurred subsequent to the
+13 payment of such fees or deposits. However, the applicant is responsible for the costs of providing
+14 sufficient additional information to address relevant issues identified in the consideration of the
+15 application.
+16 (9)(a) To obtain a refund under subsection (8) of this section, the applicant may either:
+17 (A) Submit a written request for payment, either by mail or in person, to the city or its designee;
+18 or
+19 (B) Include the amount claimed in a mandamus petition filed under ORS 227.179. The court shall
+20 award an amount owed under this section in its final order on the petition.
+21 (b) Within seven calendar days of receiving a request for a refund, the city or its designee shall
+22 determine the amount of any refund owed. Payment, or notice that no payment is due, shall be made
+23 to the applicant within 30 calendar days of receiving the request. Any amount due and not paid
+24 within 30 calendar days of receipt of the request shall be subject to interest charges at the rate of
+25 one percent per month, or a portion thereof.
+26 (c) If payment due under paragraph (b) of this subsection is not paid within 120 days after the
+27 city or its designee receives the refund request, the applicant may file an action for recovery of the
+28 unpaid refund. In an action brought by a person under this paragraph, the court shall award to a
+29 prevailing applicant, in addition to the relief provided in this section, reasonable attorney fees and
+30 costs at trial and on appeal. If the city or its designee prevails, the court shall award reasonable
+31 attorney fees and costs at trial and on appeal if the court finds the petition to be frivolous.
+32 (10) A city may not compel an applicant to waive the period set in subsection (1) of this section
+33 or to waive the provisions of subsection (8) of this section or ORS 227.179 as a condition for taking
+34 any action on an application, except when such applications are filed concurrently and considered
+35 jointly with a plan amendment.
+36 (11) The periods set forth in subsections (1) and (5) of this section may be extended by up to 90
+37 additional days, if the applicant and the city agree that a dispute concerning the application will
+38 be mediated.
+39 (12) As used in this section, “application” means an application for:
+40 (a) A permit;
+41 (b) A limited land use decision;
+42 (c) A zone change;
+43 (d) A consolidated zone change and permit described under ORS 227.175;
+44 (e) An expedited land division under ORS 197A.140; or
+45 (f) A plat consisting of a land division and middle housing land division as described in ORS
+[20]
+HB 4037
+1 92.044 (1)(c)(C).
+2
+3 RESIDENTIAL TENANCIES IMPACTED BY DISASTERS
+4
+5 SECTION 20. Section 21 of this 2026 Act is added to and made a part of ORS 90.100 to
+6 90.465.
+7 SECTION 21. If a tenancy is affected by a natural disaster, as defined in ORS 197A.440,
+8 unless the parties agree otherwise following the natural disaster:
+9 (1) For a dwelling unit that is destroyed, the tenancy is immediately terminated and the
+10 parties are not further obligated under the rental agreement or this chapter, except that:
+11 (a) The landlord shall, pursuant to ORS 90.300, return to the tenant any deposit and
+12 prepaid rent, including prorated rent from the date of the natural disaster.
+13 (b) Unless a tenant is responsible for the natural disaster, the tenant is not responsible
+14 for cleanup of the premises.
+15 (c) After the abatement of the emergency, the landlord shall notify the tenant and pro-
+16 vide the tenant an opportunity to return to the premises to search for valuables. The land-
+17 lord may require the tenant to sign a release of liability related to the tenant’s presence at
+18 the premises.
+19 (2) A tenant does not owe rent while the dwelling unit is inaccessible due to the natural
+20 disaster or the destruction of the dwelling unit.
+21 (3) As used in this section, a dwelling unit is considered inaccessible while a govern-
+22 mental agency has posted the dwelling unit as unsafe or unlawful to occupy.
+23 (4) This section does not apply to rental agreements subject to ORS 90.505 to 90.850.
+24
+25 USE OF STATE PROPERTY FOR HOUSING
+26
+27 SECTION 22. ORS 270.010 is amended to read:
+28 270.010. [(1) It shall be] It is the policy of the State of Oregon to hold in state ownership no
+29 more state-owned real property than is necessary to conduct official business, with allowance for
+30 reasonably foreseeable demands of the future. The acquisition, sale, exchange, lease, retention and
+31 management of state-owned real property shall be subject to a statewide plan that will encourage
+32 the transfer through sale or lease of state-owned real property already in state ownership to private
+33 ownership and use so as to minimize state investment in such land and place such land on the tax
+34 rolls.
+35 [(2) In transferring state-owned real property through sale or lease, to the extent consistent with
+36 applicable trust responsibilities, the state policy shall be to give right of first refusal to purchase in the
+37 following order:]
+38 [(a) To the lessee of the land.]
+39 [(b) Where the intended activity or use is similar to that of adjacent properties within the region:]
+40 [(A) To adjacent landowners.]
+41 [(B) To residents within the region.]
+42 [(C) To persons outside the region.]
+43 SECTION 23. ORS 270.100 is amended to read:
+44 270.100. (1)[(a)] Before offering for sale any real property or equitable interest in real property
+45 that the state owns, the state agency acting for the state in the sales transaction shall report to the
+[21]
+HB 4037
+1 Oregon Department of Administrative Services that the state agency intends to sell or transfer the
+2 real property or the equitable interest. The department, or an agency the department specifically
+3 designates, shall notify other state agencies authorized to own real property of the intended sale or
+4 transfer to determine whether acquiring the real property or interest in the real property would be
+5 advantageous to another state agency.
+6 [(b)(A)] (2) The department shall give the [first opportunity after other state agencies] opportu-
+7 nity to acquire, purchase, exchange or lease real property or an interest in real property that the
+8 State of Oregon disposes of or sells to the following, in order of priority:
+9 (a) Other state agencies.
+10 (b) Any lessee of the land.
+11 [(i)] (c) The following entities, in order of priority, on the condition that the entities will de-
+12 velop housing on the real property [that will be occupied by families and individuals with an income
+13 no greater than 80 percent of the median family income for the county in which the real property is
+14 located] only for households whose income is not greater than 120 percent of the area median
+15 income:
+16 [(I) Nonprofit organizations; and ]
+17 [(II)] (A) Indian tribes, as defined in ORS 97.740[; and].
+18 [(ii)] (B) Political subdivisions, as defined in ORS 271.005.
+19 (C) Nonprofit organizations.
+20 (D) Any person.
+21 (d) The adjacent property owner, where the intended activity or use is similar to that of
+22 adjacent properties within the region.
+23 (e) Political subdivisions, as defined in ORS 271.005.
+24 [(B) The state agency responsible for selling or transferring the property or the equitable interest
+25 may require at the time of] Upon the sale or transfer, the department may require that a political
+26 subdivision [must]:
+27 (A) Use [state real property or an equitable interest in real property sold or transferred to the
+28 political subdivision] the real property for a public purpose or benefit[, and that the political sub-
+29 division].
+30 (B) May not resell the real property or the equitable interest to a private purchaser.
+31 (f) The entities listed under paragraph (c) of this subsection, in order of priority, on the
+32 condition that the entities will develop housing on the real property without regard to the
+33 affordability of the housing.
+34 [(c)] (3) If a state agency that intends to sell or transfer real property or an equitable interest
+35 in real property has not disposed of the real property or the equitable interest under [paragraph (a)
+36 or (b) of this] subsection (2)(a) or (b) of this section, the state agency shall cause the real property
+37 to be appraised by one or more competent and experienced appraisers in accordance with rules the
+38 department adopts. Except as provided in ORS 273.825, if the property has an appraised value ex-
+39 ceeding $5,000, the property or an equitable interest in the property may not be sold to any private
+40 person except after notice calling for such proposals as set forth in ORS 270.130.
+41 [(d)] (4) The department shall adopt rules to carry out the provisions of this section.
+42 [(2)] (5) Before a state agency acquires any real property or interest in real property, except for
+43 highway right of way that the Department of Transportation acquires, park properties that the State
+44 Parks and Recreation Department acquires and property within the approved projected campus
+45 boundaries for public universities listed in ORS 352.002, the state agency shall report to the Oregon
+[22]
+HB 4037
+1 Department of Administrative Services that the state agency intends to acquire the real property
+2 or the interest in real property. The department shall notify other state agencies that own land that
+3 the state agency intends to acquire real property or an interest in real property to determine
+4 whether another state agency desires to sell or transfer property that would meet the needs of the
+5 acquiring agency. In accordance with rules the Oregon Department of Administrative Services
+6 adopts, if no other state agency desires to sell or transfer property that would meet the needs of the
+7 agency that intends to acquire real property or an interest in real property, the agency may acquire
+8 the real property or interest in real property, consistent with applicable provisions of law.
+9 [(3)] (6) Before any terminal disposition of real property or an interest in real property, the state
+10 agency acting for the state in the transaction must secure approval of the transaction from the
+11 Oregon Department of Administrative Services.
+12 [(4)] (7) Subsection [(3)] (6) of this section does not apply to terminal disposition of the following
+13 real property:
+14 (a) Property that the State Department of Fish and Wildlife controls;
+15 (b) State forestlands that the State Forestry Department controls;
+16 (c) Property that the Department of Transportation controls;
+17 (d) Property that the Department of State Lands controls;
+18 (e) Property that public universities listed in ORS 352.002 control;
+19 (f) Property that the legislative branch of state government controls;
+20 (g) Property that the judicial branch of state government controls; and
+21 (h) Property that the State Parks and Recreation Department controls.
+22 [(5)] (8) Notwithstanding the provisions of subsection (4) (7) of this section, prior approval by
+23 the Oregon Department of Administrative Services is required for the terminal disposition of public
+24 land for less than the fair market value of the public land.
+25 [(6)] (9) The provisions of ORS 184.634, 270.005 to 270.015, 270.100 to 270.190, 273.416, 273.426
+26 to 273.436, 273.551 and 308A.709 (1)(a) to (d) do not apply to:
+27 (a) A home or farm that the Department of Veterans’ Affairs acquires or sells under ORS 88.720,
+28 406.050, 407.135, 407.145, 407.375 or 407.377.
+29 (b) Real property that the Housing and Community Services Department acquires or sells under
+30 the provisions of ORS 456.515 to 456.828 or ORS chapter 458.
+31 (c) Real property that the Oregon Health Authority or the Department of Human Services ac-
+32 quires or sells under ORS 410.075 or 416.340.
+33 SECTION 24. ORS 270.030 is amended to read:
+34 270.030. (1) Notwithstanding [ORS 270.010 (2) or] 270.100 to 270.190, a state agency may transfer,
+35 convey, donate, exchange or lease to an eligible Indian tribe, as defined in ORS 307.181, any real
+36 property or interest in real property owned by the agency at such price and on such terms as the
+37 agency may determine.
+38 (2) Notwithstanding ORS 273.775 to 273.790, an agency disposing of real property or interest in
+39 real property under this section also may convey the mineral and geothermal resource rights in the
+40 real property to the Indian tribe.
+41
+42 TECHNICAL FIXES
+43
+44 SECTION 25. ORS 92.031 is amended to read:
+45 92.031. (1) As used in this section, “middle housing land division” means a partition or subdivi-
+[23]
+HB 4037
+1 sion of a lot or parcel on which the development of middle housing is allowed under ORS 197A.420
+2 (2) or (3) or 197A.421.
+3 (2) A city or county shall approve a tentative plan for a middle housing land division if the ap-
+4 plication includes:
+5 (a) Separate utilities, other than water or wastewater, for each dwelling unit;
+6 (b) A proposal for development of middle housing that is in compliance or must comply with the
+7 Oregon residential specialty code and land use regulations under ORS 197A.420 (5) that are appli-
+8 cable to the original lot or parcel and which may consist of:
+9 (A) A single duplex, triplex, quadplex, cottage cluster or structure containing townhouses;
+10 (B) Additional units as allowed by ORS 197A.421 (3); and
+11 (C) Retained or rehabilitated existing units allowed under ORS 197A.420 (4), if any;
+12 (c) Proposed easements necessary for each dwelling unit on the plan for:
+13 (A) Locating, accessing, replacing and servicing all utilities;
+14 (B) Pedestrian access from each dwelling unit to a private or public road;
+15 (C) Any common use areas or shared building elements;
+16 (D) Any dedicated driveways or parking; and
+17 (E) Any dedicated common area;
+18 (d) Exactly one dwelling unit on each resulting lot or parcel, except for:
+19 (A) Lots, parcels or tracts used as common areas; or
+20 (B) Lots or parcels with a detached single-unit dwelling and accessory dwelling unit or a duplex
+21 as allowed under ORS 197A.420 (4); and
+22 (e) Evidence demonstrating how buildings or structures on a resulting lot or parcel will comply
+23 with applicable building codes provisions relating to new property lines and, notwithstanding the
+24 creation of new lots or parcels, how structures or buildings located on the newly created lots or
+25 parcels will comply with the Oregon residential specialty code.
+26 (3) A city or county may add conditions to the approval of a tentative plan for a middle housing
+27 land division to:
+28 (a) Subject to subsection (6) of this section, prohibit the further division of the resulting lots or
+29 parcels.
+30 (b) Require that a notation appear on the final plat indicating that the approval was given under
+31 this section.
+32 (4) In reviewing an application for a middle housing land division, a city or county:
+33 (a) Shall apply the procedures applicable to an expedited land division under ORS 197A.140, if
+34 requested by the applicant and without regard to the criteria in ORS 197A.142 (1).
+35 (b) May require street frontage improvements where a resulting lot or parcel abuts the street
+36 consistent with land use regulations implementing ORS 197A.420.
+37 (c) May not subject an application to approval criteria except as provided in this section, in-
+38 cluding that a lot or parcel require driveways, vehicle access, parking or minimum or maximum
+39 street frontage.
+40 (d) May not subject the application to procedures, ordinances or regulations adopted under ORS
+41 92.044 or 92.046 that are inconsistent with this section or, only if requested by the applicant, ORS
+42 197A.140.
+43 (e) Shall allow the submission of an application for a tentative plan for a middle housing land
+44 division before, after or at the same time as the submission of an application for building permits
+45 for the middle housing.
+[24]
+HB 4037
+1 (f) May require the dedication of right of way if the original parcel did not previously provide
+2 a dedication.
+3 (g) May require separate water and wastewater utilities for each dwelling unit.
+4 (h) Shall allow any existing units allowed under ORS 197A.420 (4) to be considered a single
+5 middle housing unit and allow for the unit to be allocated its own lot or parcel by the division.
+6 (5) The type of middle housing developed on the original parcel is not altered by a middle
+7 housing land division.
+8 (6) Notwithstanding ORS 197A.425 (1) and subsection (4)(d) and (e) of this section, a city or
+9 county may prohibit or add approval criteria to the allowance of a new accessory dwelling unit on,
+10 or a subsequent middle housing land division of, a lot or parcel resulting from a middle housing land
+11 division:
+12 (a) To the extent allowed under this section and ORS 197A.420; and
+13 (b) Provided that the middle housing land division lots or parcels may be used to create housing
+14 that is at or above the minimum density for the zoning of the land.
+15 (7) Notwithstanding any other provision of ORS 92.010 to 92.192, within the same calendar year
+16 as an original partition that was not a middle housing land division, a city or county may allow one
+17 or more of the resulting vacant parcels to be further partitioned into not more than three parcels
+18 through a middle housing land division.
+19 (8) The tentative approval of a middle housing land division is void if and only if a final subdi-
+20 vision or partition plat is not approved within:
+21 (a) Three years [of] following the tentative approval; or
+22 (b) A period equal to that allowed by the city or county for the plat or plan that is sub-
+23 mitted concurrently with the division as described in ORS 92.044.
+24 (9) Nothing in this section prohibits a city or county from requiring a final plat before issuing
+25 building permits.
+26 SECTION 26. ORS 197A.140 is amended to read:
+27 197A.140. Notwithstanding any other requirement applicable to a land use decision under ORS
+28 chapter 197 or 197A, for an application that is reviewed as an expedited land division based on the
+29 request of the applicant:
+30 (1) A decision is not subject to the requirements of ORS 197.797.
+31 (2) A local government:
+32 (a) Shall make a decision to approve or deny the application within 63 days of receiving a
+33 completed application as described in ORS [215.246] 215.427 or 227.178, based on whether the ap-
+34 plication satisfies the substantive requirements of the applicable land use regulations. An approval
+35 may include conditions to ensure that the application meets the applicable land use regulations.
+36 (b) May not hold a hearing on the application or allow any third party to intervene to oppose
+37 the application.
+38 (c) Shall issue a written determination of compliance or noncompliance with applicable land use
+39 regulations that includes a summary statement explaining the determination. The summary state-
+40 ment may be in any form reasonably intended to communicate the local government’s basis for the
+41 determination. The determination must include an explanation of the applicant’s right to appeal the
+42 determination under ORS 197.830 to 197.855.
+43 (d) Shall provide notice of the decision to the applicant but may not require that notice be given
+44 to any other person.
+45 (e) May assess an application fee calculated to recover the estimated full cost of processing an
+[25]
+HB 4037
+1 application based on the estimated average cost of such applications. Within one year of establishing
+2 a fee under this section, the city or county shall review and revise the fee, if necessary, to reflect
+3 actual experience in processing expedited land decisions.
+4 (3) Only the applicant may appeal an expedited land division made under this section.
+5 SECTION 27. Section 22, chapter 476, Oregon Laws 2025, is amended to read:
+6 Sec. 22. (1) On or before January 1, 2028, the Land Conservation and Development Commission
+7 shall adopt rules that must include:
+8 (a) Prohibiting or restricting siting and design standards that prevent or discourage, or have the
+9 effect of preventing or discouraging, the siting of middle housing that is manufactured, site-built or
+10 prefabricated;
+11 (b) Establishing parameters on unreasonable cost or delay for siting and design standards for
+12 accessory dwelling units and single room occupancies under standards allowed under ORS 197A.425
+13 and 197A.430;
+14 (c) Regulating cottage clusters for the purposes of incentivizing the provision of smaller, less
+15 expensive housing, shared community amenities and other public benefits and including regulations
+16 that implement the term “small footprint or floor area” as used within the definition of cottage
+17 clusters in ORS 197A.420;
+18 (d) Amending siting and design parameters for middle housing types;
+19 (e) Amending permissible discretionary criteria applied by local government in evaluating
+20 housing under ORS 197A.400 (3);
+21 (f) Developing model system development charges for residential development types for optional
+22 adoption or incorporation by local governments; and
+23 (g) Establishing procedures to estimate the reasonable zoned housing capacity of an area as part
+24 of an inventory of buildable lands or housing capacity under ORS 197A.270, 197A.280 and 197A.350.
+25 (2) In adopting rules under this section, the commission shall:
+26 (a) Emphasize improving the efficiency of the development process with a focus on increasing
+27 housing production, availability and affordability, especially that of middle housing, accessory
+28 dwelling units and single room occupancies.
+29 (b) To the extent practicable, implement recommendations in the reports produced under section
+30 5 (1) to (3), chapter 110, Oregon Laws 2024.
+31 (c) Implement the principles in ORS 197A.025.
+32 (d) Adopt operative and applicable dates for the rules, subject to section 3, chapter 639, Oregon
+33 Laws 2019.
+34 [(e)] (3) The Department of Land Conservation and Development shall provide a report on
+35 or before July 1, 2028, to the interim committees of the Legislative Assembly relating to land use,
+36 in the manner provided in ORS 192.245, on the feasibility and advisability of providing safe harbor
+37 protections for cities that use the commission’s model system development charges under subsection
+38 (1)(f) of this section or otherwise incentivizing the use of the models.
+39
+40 CAPTIONS
+41
+42 SECTION 28. The unit captions used in this 2026 Act are provided only for the conven-
+43 ience of the reader and do not become part of the statutory law of this state or express any
+44 legislative intent in the enactment of this 2026 Act.
+45
+[26]
+HB 4037
+1 EFFECTIVE DATE
+2
+3 SECTION 29. This 2026 Act takes effect on the 91st day after the date on which the 2026
+4 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+5
+[27]
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T T A c s h p a a l a r a h:6 r l p f c a c t f agp s a t a t o a g m t t N f O A t p u w l g m r s h d s a t g p t h p w t s r t h c n p a O 9 1 1 1 2 2 2 2 2 3 3 3 3 3 1.S 2 o t 2 A i a t a m a p o O 3 t 2.( A u i O 3 t 3 “ h p m  A t h w l i o m i a t t a I f p a s d m h a d i O o a m d t i a a d i p ( o t:M[]]
+[DELETED: B4 N p ( o “ l m a l m b t H a C S D “ “ c a “ a p t c h o l i o m i a t t a d iS4 I f p a s a p t b e b t H a C S D t s j o n l t t t o t a l r t t f;o 1 p o t a m i s a t b m f a p t b]
+[DELETED: B4 t o e h p p t w [] p p g a “ l m a l m b a s j u a p f j s c w r t b i o p a d i a t t][][)Sna] ( M i r f e c i f u[] t R t p t r a i a w s;a a i w o i p o t a c e a s p o t e h p p o a p o t]
+[DELETED: B4 a s o r a t t d u O 3 t d t i g e u O 3 m n b g a o e e o s a o a v p t  t t e  s j m n a a p g t a d a E h p p t i l i a u r a m n b A s j m a a o o r a p t t.  A o i d o a t t s j c o t s s b o a f p[] t t o o t c i w t e h p p i l]
+[DELETED: B4 R t t c t o p t t s j t i T y f J 1 o t f p t y f w t c e S t a o t p f t m b a t t d u O ( b m t i d u O T s j s f p a a t t] T d s r t p a a f c i T s j s n e a a t d o t f a T r o a a a t a o a g a o b a s j t d m a t s j ( T H a C S D s d a p t a l t s j t f p g a p l a F e a a u O 3 ( t H a C S]
+[DELETED: B4 E i a a l a w t s j P t t s j t t a s f i p ( o t s A a n g t f p o t a l p t r t j f t c o a t p f p o t t w t s j i s t r t c f t c o t t A m s o r t t o c a o r C w t O B D D a a o t p a c o t H a C S D b o c f t a o O 3 ( U e i a a l a w t H a C D u O 3 a s j s o a p f A r u O 3 t 3 o t o o r a b t b t U p t]]
+[DELETED: B4]]] ( A s d t t p f h b a i r t t[] o r r u s ( o t s b e t s j s d t a l p r f t d u a o m t s j c n f t t o m a [] s j w o p T d m t a a w r t a c o c a ni p [] a a o o f t s j u O 3 ( t g e u s t e h p p t a o t c i w e A a t t n p i t t a a w r t t s j s f t a e T p t o t e e h p p t w h b[] T d]
+[DELETED: B4 e h p p h b d f t e u s F e t y t t e h p p i e f t t T p n o p t y f w t e i g w b t t o t a l a r t t e h p s uS3 t w t a l r o a a d o o c a t e h A d t d o c u p ( o t s t s[] U p i f o a a l t a a r a t t e h p p t ( U r o t a l m f u O 3 t f p f e h p p t h b e u O 3 s p a a f f t t t s b t T a o t f f t f p t y t e T a c d i O 3 ( d[] F e s p t y t a o t f s b 1 p o t]
+[DELETED: B4 j s c t t a e f a t b d u t a e i t s m a a v p t F e p t y i w a f i p u t s t t i O 3 l b f d t w h b c o e h[] t H P R L F e u O 3 i r o ted i i t e h p p o t d o w i f u t s r t o o t s j t o A f a c i e o t a l a ( A d t r a p [] f a u O 3 d h n c t e h p w t y f[][]
+[DELETED: B4[] I t s j d t a d w m a f s o e h p t s j m i o A s j m i o a d h o o p w r t a e r w m a f s o m o w T s j s p w n o a a t b d s ( a ( o t s t t c t o a t H a C a d a t H a C S D s a s a c o t O H S C b n t e o t s o l a m i a f h s a d b t H a C S D u U S D o T H a C S D s p o o m l t c t c m d p p a d p]
+[DELETED: B4 c d f i b t C D F I o s t s i i a a r a c]] ( M o r e b t d r f r a I i a l f t o n c h a m a d i O 6 l u o g a P o r m d p t w m t p a p C d e r o r p i p d b nld E w p l u p ( o t s t f o P t a o t p s r t p t w a m o b u b t n c f t m d p p p o s E n c s r t t m a l p b t m t l i o i o l m b t n c u s]
+[DELETED: B4 i s t l.T S o D o J m a t g a w H a a t o n l t f y n s 5 l t h p F r c o f t p a F c n r t a s p t o m r c f a p w t l E a p i p ( o t s t o s i s o s d c p t e a d t c o I a c h f a n o a w t L U B o A o h P t a t t l g u t t r o t.T n m i a i t a o r t s v]
+[DELETED: B4 o s T o s p t a f t l g t a t I a r f a e o o t L C a D t h l w t n o c o t c I a t r a o u a o i t n o t o r t l g t a a m c t h b a b r b t c d t T o m n i t n o t o e t a o t D o T a a o t i c w a o i o e a t m b e T L C w t g a c p p l u r]
+[DELETED: B4 a a i t c h g cob A i n i c w t g b t d s i O 1 o 1 f s A s a i n m s p i c o i c a c p o l u r I m i d u t t s t m T c s n j t i s u a o t f i d h e i a p o p o d t v a A g a s s c o a o s d[] j o a m s d h f t c t t c p o l u r t c w t r[][] o i e a t h c a d i O 1 ( t;o]
+[DELETED: B4 e a b a d a s b a p e r T e o a i c b t D o t D o C a S u O 4 a b q t e o a t f d T d o m i e f l f a d a f t ( E a p i s ( o t s a l g m[] M n h t e e i t o c o d n a b a c t a i b r a m o a b t C a D A u c d i a c a c p A a o p f r d i a a i i a f o A a o p f r d i h a d f p a p a p i s ( o t s a l g m a a a a a]
+[DELETED: B4 T a r t o o p u t a p t m t T a c f t a a p a a d a o a s t s ( o t s M g n o a a o a a t t o o r o a a l a r o n o a a a e a p i 1 d f a a f t d o a h a p i O;[] w o e w i i m w 3 d o r o t a a i T a i d c f t S o t m i a w]
+[DELETED: B4 A o d o a a t w c w f s o d U t s a c t F a a r t d o h w a u g b;o T a m a s u s ( o t s i r t sr P a f e t c a c i b t c t a t S a n a o d i u i r i r b t r a o c i i o l i t a R r p o h t a i t t c i src S o t m i a w n t n o i w b p;o O t d w w t a a c o t g b o t;a U t p h a t m a d i]
+[DELETED: B4 r t i s t t D o t D o L C a D a u g b w t c h t a t a a I t g b o t c o i d d n p o 5 p o t t a o s f o d.H t a i r f t c o p s a ( o t s o O 2 a a c f A p c o a l d a m h l d a d i O4( 1 d f a a f t d o a h a p i O;[] w o e w i i m w 3 d o r o t a a i T a i d c f t]
+[DELETED: B4 S o t m i a w A o d o a a t w c w f s o d U t s a c t F a a r t d o h w a u g b T c d t a i i n r S a n a o d i u i r i r t r a o c i i o l i t a o R r p o h t a i t t c i src S o t m i a w n t n o i w b p;o U t p h a t m a d i]
+[DELETED: B4 c m a c t a a c p o a l r t i s t t D o t D o L C a D A d o a c i a a f t d o r s g T a i n l f a g o s f o d H t a i r f t c o p a i t a r i i i t c o t t a w 3 c d o r t r A a d a n p u t p t c s a t  o a I t c o i d p t c s a r a o a d i t a a t c a t a d c t a wem A p c o a l d a m h l d a d i O]
+[DELETED: B44( 2.S 2 o t 2 A.I T l s p t O 9 r t t t a d a A u i t s a d u i c i w a g [] I i t p o t S o O t h i s o n I s b s r p t i n t c o b w a f f d o p s b s t a s p t w e I t s r p t s o l t t e c w[]]
+[DELETED: B4 p o t e i T d o a a t d s] t [] o)f o a o s a] w d g t 8 p o t m f i f t c i w t r p i][]);] i[] U  r p o a e i i r p s o t t tn, a p p o b p w r t t] p i O 2 i t p h a a v e]] a R D a a p w t a p c]
+[DELETED: B4 o A S t t s a i t a t r p s a i t a r p o a i i r p t d a I a w r t O D o A S] a f t s i t t m s a o t t f t][])(lp] N t p o s ( o t s p a b] 2 2 R p t t O H A o[] d e o l t a e I t a d i O 3 a r]
+[DELETED: B4 A r u O 1 ( t a a a b c p r t n p l a n t o n l o p h s o b l o t n c l oss S a t p i w a r l o p a t s M n s a a t a c e a p i t s i t a l o p r d v a p o m o mtf p f a m h l b a o a t s t a t s o a]
+[DELETED: B4 S a a e u a u O 1 ( t b c a s T t o m h d o t o p i n a b a m N O 1 ( a s ( a ( o t s a c o n m t t p[] u O S m a d t a o d t a w 6 d o r  a a d i O [] 2 o 2 b o w t a oea t i a s s e t d T s s]
+[DELETED: B4 E p o u c o d f s a d s f R c c f t p o i t p o s l i t t “ f o f a a u w t d o c A p d c a b l g i e E i t e o t d p w a f o i p a a a e t o m h a] t l u.T]
+[DELETED: B4ED.T]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4037
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Housing and Homelessness for Representative Pam Marsh)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act changes some housing programs, agencies and laws and rules about home
+building. (Flesch Readability Score: 65.7).
+Adjusts certain terms of the revolving loan program for cities and counties to fund affordable
+housing projects.
+Allows state agencies to adjust terms of a grant made to the Network for Oregon Affordable
+Housing in the last biennium.
+Authorizes the Housing Accountability and Production Office to enter an interim administrative
+order against local governments.
+Limits the building permit plan review for housing with two or fewer dwelling units.
+Establishes a local government process for land use approvals for housing subject only to clear
+and objective standards, conditions and procedures.
+Shortens the period under which local governments may review similar housing development
+applications by the same applicant.
+Establishes responsibilities for landlords and tenants for residential tenancies destroyed by na-
+tural disasters.
+Requires state agencies to give priority to housing providers when transferring surplus real
+property.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to housing; creating new provisions; amending ORS 92.031, 197.320, 197A.140, 197A.400,
+3 197A.805, 215.427, 227.178, 270.010, 270.030, 270.100, 307.213, 307.214, 307.216, 307.221, 307.225,
+4 307.227, 307.229, 307.231, 307.233, 455.628 and 458.352 and section 22, chapter 476, Oregon Laws
+5 2025; and prescribing an effective date.
+6 Be It Enacted by the People of the State of Oregon:
+7
+8 CITY AND COUNTY HOUSING PROJECT FUNDING PROGRAMS
+9
+10 SECTION 1. Section 2 of this 2026 Act is added to and made a part of ORS 307.213 to
+11 307.237.
+12 SECTION 2. (1) As used in ORS 307.213 to 307.237, “eligible housing project” means a
+13 project to construct housing, or to convert a building from a nonresidential use to housing,
+14 that is:
+15 (a) Affordable to households with low income or moderate income as those terms are
+16 defined in ORS 458.610;
+17 (b) If for-sale property, a single-family dwelling, middle housing as defined in ORS
+18 197A.420 or a multifamily dwelling that is affordable as described in paragraph (a) of this
+19 subsection for a period determined in accordance with subsection (2) of this section; or
+20 (c) If rental property:
+21 (A)(i) Middle housing as defined in ORS 197A.420;
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 222
+
+HB 4037
+1 (ii) A multifamily dwelling;
+2 (iii) An accessory dwelling unit as defined in ORS 215.501; or
+3 (iv) Any other form of affordable housing or moderate income housing; and
+4 (B) Rented at a monthly rate that is affordable to households with an annual income not
+5 greater than 120 percent of the area median income, such affordability to be maintained for
+6 a period determined in accordance with subsection (2) of this section.
+7 (2)(a) The affordability of eligible housing project property shall be maintained for at least
+8 as long as the agency loan related to the property remains outstanding.
+9 (b) Notwithstanding paragraph (a) of this subsection, the Housing and Community Ser-
+10 vices Department may establish terms and conditions by which the affordability restrictions
+11 may be terminated upon foreclosure of the property by a permitted mortgage lender.
+12 SECTION 3. ORS 307.213 is amended to read:
+13 307.213. As used in ORS 307.213 to 307.237:
+14 (1) “Agency loan” means a loan made by the Housing and Community Services Department
+15 pursuant to a program adopted under ORS 307.221.
+16 (2) “Assessor,” “tax collector” and “treasurer” mean the individual filling that county office so
+17 named or any county officer performing the functions of the office under another name.
+18 (3) “County tax officers” and “tax officers” mean the assessor, tax collector and treasurer of a
+19 county.
+20 (4) “Eligible costs” means the following costs associated with an eligible housing project:
+21 (a) Infrastructure costs, including, but not limited to, system development charges;
+22 (b) Predevelopment costs;
+23 (c) Construction costs; and
+24 (d) Land write-downs.
+25 (5) “Eligible housing project” has the meaning given that term in section 2 of this 2026 Act.
+26 [means a project to construct housing, or to convert a building from a nonresidential use to housing,
+27 that is:]
+28 [(a) Affordable to households with low income or moderate income as those terms are defined in
+29 ORS 458.610;]
+30 [(b) If for-sale property, a single-family dwelling, middle housing as defined in ORS 197A.420 or
+31 a multifamily dwelling that is affordable as described in paragraph (a) of this subsection continuously
+32 from initial sale for a period, to be established by the Housing and Community Services Department
+33 and the sponsoring jurisdiction, of not less than the term of the agency loan related to the for-sale
+34 property; or]
+35 [(c) If rental property:]
+36 [(A)(i) Middle housing as defined in ORS 197A.420;]
+37 [(ii) A multifamily dwelling;]
+38 [(iii) An accessory dwelling unit as defined in ORS 215.501; or]
+39 [(iv) Any other form of affordable housing or moderate income housing; and]
+40 [(B) Rented at a monthly rate that is affordable to households with an annual income not greater
+41 than 120 percent of the area median income, such affordability to be maintained for a period, to be
+42 established by the department and the sponsoring jurisdiction, of not less than the term of the agency
+43 loan related to the rental property.]
+44 (6) “Eligible housing project property” means the taxable real and personal property constitut-
+45 ing the improvements of an eligible housing project.
+[2]
+
+HB 4037
+1 (7) “Fee payer” means, for any property tax year, the person responsible for paying ad valorem
+2 property taxes on eligible housing project property to which [a project grant awarded] project
+3 funding under ORS 307.225 relates.
+4 (8) “Fire district taxes” means property taxes levied by fire districts within whose territory all
+5 or a portion of eligible housing project property is located.
+6 (9) “Nonexempt property” means property other than eligible housing project property in the tax
+7 account that includes eligible housing project property.
+8 (10) “Nonexempt taxes” means the ad valorem property taxes assessed on nonexempt property.
+9 (11) “Project funding” means a project grant or a project loan.
+10 (12) “Project funding agreement” means an agreement entered into between a sponsoring juris-
+11 diction and a developer under ORS 307.225 for a project grant or a project loan.
+12 (13) “Project grant” means a grant awarded by a sponsoring jurisdiction under a project funding
+13 program adopted pursuant to ORS 307.214.
+14 (14) “Project loan” means a loan made by a sponsoring jurisdiction under a project funding
+15 program adopted pursuant to ORS 307.214.
+16 (15) “Sponsoring jurisdiction” means:
+17 (a)(A) A city with respect to eligible housing projects located within the city boundaries; or
+18 (B) A county with respect to eligible housing projects located in urban unincorporated areas of
+19 the county; or
+20 (b) The governing body of a city or county described in paragraph (a) of this subsection.
+21 SECTION 4. ORS 307.214 is amended to read:
+22 307.214. (1)(a) A sponsoring jurisdiction may adopt by ordinance or resolution a project funding
+23 program under which the sponsoring jurisdiction awards project grants and makes project loans to
+24 developers for eligible costs.
+25 (b) Before adopting the project funding program, the sponsoring jurisdiction shall consult with
+26 the governing body of any city or county with territory inside the boundaries of the sponsoring ju-
+27 risdiction.
+28 (2) The ordinance or resolution shall set forth:
+29 (a) The kinds of eligible housing projects for which a developer may seek project funding under
+30 the program; and
+31 (b) Any eligibility requirements to be imposed on projects and developers in addition to those
+32 required under ORS 307.213 to 307.237.
+33 (3)(a) A project grant and a project loan:
+34 [(a)] (A) [Shall be in] May not exceed the amount determined under ORS 307.216 (3); [and]
+35 [(b)] (B) May include reimbursement for eligible costs incurred for up to 12 months preceding
+36 the date on which the eligible housing project received local site approval[.];
+37 (C) Shall be secured by an affordable housing covenant, as defined in ORS 456.270, that:
+38 (i) Is recorded in first position in the real property records of the county in which the
+39 eligible housing project is located; and
+40 (ii) Requires the project to remain affordable in accordance with section 2 of this 2026
+41 Act; and
+42 (D) May be transferred and assumed, in whole or in part, on terms and conditions es-
+43 tablished by the Housing and Community Services Department or the sponsoring jurisdiction,
+44 by any subsequent purchaser of the eligible housing project property or a portion of the
+45 property.
+[3]
+
+HB 4037
+1 (b) Notwithstanding paragraph (a)(C)(i) of this subsection, if the sponsoring jurisdiction
+2 has pledged in repayment of the agency loan its full faith and credit and taxing authority and
+3 an alternative source of revenue acceptable to the department under ORS 307.223, the de-
+4 partment may establish terms and conditions by which the affordable housing covenant may
+5 be made subordinate to a primary deed of trust, mortgage or other security instrument se-
+6 curing financing for the eligible housing project property.
+7 (4)(a) Eligible housing project property [for which a developer receives a project grant for eligible
+8 costs] that is granted exemption under ORS 307.227 may not be granted any other exemption,
+9 partial exemption or special assessment of ad valorem property taxes [other than the exemption
+10 granted under ORS 307.227].
+11 (b) [A sponsoring jurisdiction may not award a project grant to a developer under ORS 307.216
+12 for an] Eligible housing project property that is located in an urban renewal area may not be
+13 granted exemption under ORS 307.227.
+14 (5) A sponsoring jurisdiction may amend an ordinance or resolution adopted pursuant to this
+15 section at any time. The amendments shall apply only to applications submitted under ORS 307.216
+16 on or after the effective date of the ordinance or resolution.
+17 SECTION 5. ORS 307.216 is amended to read:
+18 307.216. (1)(a) A sponsoring jurisdiction that adopts a project funding program pursuant to ORS
+19 307.214 shall prescribe an application process, including forms and deadlines, by which a developer
+20 may apply for project funding with respect to an eligible housing project.
+21 (b) An application for project funding must include, at a minimum:
+22 (A) A description of the eligible housing project;
+23 (B) A detailed explanation of the affordability of the eligible housing project;
+24 (C) An itemized description of the eligible costs for which the project funding is sought;
+25 (D) The proposed schedule for completion of the eligible housing project;
+26 (E) A project pro forma demonstrating that the project would not be economically feasible but
+27 for receipt of the project funding moneys; and
+28 (F) Any other information, documentation or attestation that the sponsoring jurisdiction con-
+29 siders necessary or convenient for the application review process.
+30 (c)(A) The project pro forma under paragraph (b)(E) of this subsection shall be on a form pro-
+31 vided to the sponsoring jurisdiction by the Housing and Community Services Department and made
+32 available to [grant] project funding applicants.
+33 (B) The department may enter into an agreement with a third party to develop the project pro
+34 forma template.
+35 (2)(a) The review of an application under this section shall be completed within 90 days follow-
+36 ing the receipt of the application by the sponsoring jurisdiction.
+37 (b) Notwithstanding paragraph (a) of this subsection:
+38 (A) The sponsoring jurisdiction may in its sole discretion extend the review process beyond 90
+39 days if the volume of applications would make timely completion of the review process unlikely.
+40 (B) The sponsoring jurisdiction may consult with a developer about the developer’s application,
+41 and the developer, after the consultation, may amend the application on or before a deadline set by
+42 the sponsoring jurisdiction.
+43 (3) The sponsoring jurisdiction shall:
+44 (a) Review each application;
+45 (b) Provide the tax officers of the county in which the eligible housing project property is lo-
+[4]
+
+HB 4037
+1 cated with the estimated real market value and tax lot information of the property;
+2 (c) Request that the county tax officers provide to the sponsoring jurisdiction the increment
+3 determined under ORS 307.218;
+4 (d) Set the term of the agency loan that will fund the project funding award for a period not to
+5 exceed the greater of:
+6 (A) Ten years following July 1 of the first property tax year for which the completed eligible
+7 housing project property is estimated to be taken into account; or
+8 (B) If agreed upon by the sponsoring jurisdiction and the department, the period required for the
+9 agency loan principal, and fees, if any, to be repaid in full;
+10 (e) Set the amount of the project funding that may be awarded to the developer under ORS
+11 307.225 (2) by multiplying the increment determined under ORS 307.218 by the term of the agency
+12 loan; and
+13 (f)(A) Provisionally approve the application as submitted;
+14 (B) Provisionally approve the application on terms other than those requested in the application;
+15 or
+16 (C) Reject the application.
+17 (4)(a) The sponsoring jurisdiction shall forward provisionally approved applications to the
+18 [Housing and Community Services] department.
+19 (b) The department shall review the provisionally approved applications for completeness, in-
+20 cluding, but not limited to, the completeness of the project pro forma submitted with the application
+21 under subsection (1)(b)(E) of this section and the increment computed under ORS 307.218, and notify
+22 the sponsoring jurisdiction of its determination.
+23 (5)(a) If the department has determined that a provisionally approved application is incomplete,
+24 the sponsoring jurisdiction may:
+25 (A) Consult with the applicant developer and reconsider the provisionally approved application
+26 after the applicant revises it; or
+27 (B) Reject the provisionally approved application.
+28 (b) If the department has determined that a provisionally approved application is complete, the
+29 approval shall be final.
+30 (c) The sponsoring jurisdiction shall notify each applicant and the department of the final ap-
+31 proval or rejection of an application and the amount of the project funding award.
+32 (d) The rejection of an application and the amount of a project grant award or project loan
+33 may not be appealed, but a developer may reapply for project funding at any time within the appli-
+34 cable deadlines of the project funding program for the same or another eligible housing project.
+35 (6) Upon request by a sponsoring jurisdiction, the department may assist the sponsoring juris-
+36 diction with, or perform on behalf of the sponsoring jurisdiction, any duty required under this sec-
+37 tion.
+38 SECTION 6. ORS 307.221 is amended to read:
+39 307.221. (1)(a) The Housing and Community Services Department shall develop a program to
+40 make agency loans to sponsoring jurisdictions to fund project grants and project loans awarded
+41 under the sponsoring jurisdiction’s project funding program adopted pursuant to ORS 307.214.
+42 (b) The agency loans shall be interest free for the term set by the sponsoring jurisdiction under
+43 ORS 307.216.
+44 (2) For each application approved under ORS 307.216 (5)(b), the Housing and Community Ser-
+45 vices Department shall:
+[5]
+
+HB 4037
+1 (a) Enter into an agency loan agreement with the sponsoring jurisdiction for a payment in an
+2 amount equal to the total of:
+3 (A) The agency loan proceeds in an amount equal to the project funding award for the applica-
+4 tion set under ORS 307.216 (3); and
+5 (B) The administrative costs set forth in subsection (3) of this section; and
+6 (b) Pay to the sponsoring jurisdiction the total amount set forth in paragraph (a) of this sub-
+7 section out of the Housing Project Revolving Loan Fund established under ORS 307.237.
+8 (3) The administrative costs referred to in subsection (2)(a)(B) of this section are:
+9 (a) An amount not greater than five percent of the agency loan proceeds to reimburse the
+10 sponsoring jurisdiction for the costs of administering the project funding program, other than the
+11 costs of tax administration; and
+12 (b) An amount equal to one percent of the agency loan proceeds to be transferred to the county
+13 in which the sponsoring jurisdiction is situated to reimburse the county for the costs of the tax
+14 administration of the project funding program by the county tax officers.
+15 (4) The Housing and Community Services Department may:
+16 (a) In order to maximize repayment and compliance with affordability requirements:
+17 (A) Compromise, adjust or modify agency loans; and
+18 (B) Adjust, modify, subordinate or release the terms of contracts, agreements or re-
+19 strictions entered into in connection with agency loans.
+20 (b) Assign any and all agency loan amounts made under this section to the Department of Re-
+21 venue for collection as provided in ORS 293.250.
+22 (5) The Housing and Community Services Department may:
+23 (a) Consult with the Oregon Business Development Department about any of the powers and
+24 duties conferred on the Housing and Community Services Department by ORS 307.213 to 307.237;
+25 and
+26 (b) Adopt any rule it considers necessary or convenient for the administration of ORS 307.213
+27 to 307.237 by the Housing and Community Services Department.
+28 SECTION 7. ORS 307.225 is amended to read:
+29 307.225. (1) Upon entering into an agency loan agreement with the Housing and Community
+30 Services Department under ORS 307.221, a sponsoring jurisdiction shall offer a project funding
+31 agreement to each developer whose application for project funding was approved under ORS 307.216
+32 (5)(b).
+33 (2) The project funding agreement shall:
+34 (a) Include a project grant award or project loan in the amount set under ORS 307.216 (3); and
+35 (b) Contain terms that:
+36 (A) Are required under ORS 307.213 to 307.237 or the ordinance or resolution adopted by the
+37 sponsoring jurisdiction pursuant to ORS 307.214.
+38 (B) Do not conflict with ORS 307.213 to 307.237 or the ordinance or resolution adopted by the
+39 sponsoring jurisdiction pursuant to ORS 307.214.
+40 (3) Upon entering into a project funding agreement with a developer, a sponsoring jurisdiction
+41 shall adopt an ordinance or resolution setting forth the details of the eligible housing project that
+42 is the subject of the project funding agreement, including but not limited to:
+43 [(a) With respect to a project grant or a project loan:]
+44 [(A)] (a) A description of the eligible housing project;
+45 (b) A statement indicating whether the eligible housing project property is exempt from
+[6]
+
+HB 4037
+1 property taxation under ORS 307.227;
+2 [(B)] (c) An itemized description of the eligible costs;
+3 [(C)] (d) The amount and terms of the grant project award or project loan principal; and
+4 [(D)] (e) A statement declaring that the project funding has been awarded in response to the
+5 housing needs of communities within the sponsoring jurisdiction[; and].
+6 [(b) With respect to a project grant, written notice that the eligible housing project property is ex-
+7 empt from property taxation in accordance with ORS 307.227.]
+8 (4) Unless otherwise specified in the project funding agreement, as soon as practicable after the
+9 ordinance or resolution required under subsection (3) of this section becomes effective, the spon-
+10 soring jurisdiction shall distribute the agency loan proceeds received from the department under
+11 ORS 307.221 (2)(a)(A) to the developer as the project grant moneys or project loan principal awarded
+12 under this section.
+13 (5) The sponsoring jurisdiction shall forward to the tax officers of the county in which the eli-
+14 gible housing project is located a copy of the project funding agreement, the ordinance or resolution
+15 and any other material the sponsoring jurisdiction considers necessary for the tax officers to per-
+16 form their duties under ORS 307.213 to 307.237 or the ordinance or resolution.
+17 (6)(a)(A) Upon request, the department may assist [the] a sponsoring jurisdiction with, or per-
+18 form on behalf of the sponsoring jurisdiction, any duty required under this section.
+19 (B) Upon request, any city or county may assist a sponsoring jurisdiction with, or per-
+20 form on behalf of the sponsoring jurisdiction, any duty required under this section or ORS
+21 307.216.
+22 (b) The department may take any action with respect to a city or county assisting a
+23 sponsoring jurisdiction under this subsection that it may take with respect to the sponsoring
+24 jurisdiction itself.
+25 SECTION 8. ORS 307.227 is amended to read:
+26 307.227. (1) Upon receipt of the copy of a project [grant] funding agreement and ordinance or
+27 resolution from the sponsoring jurisdiction under ORS 307.225 (5) that grants exemption under
+28 this section to eligible housing project property, the assessor of the county in which eligible
+29 housing project property is located shall:
+30 (a) Exempt the eligible housing project property in accordance with this section;
+31 (b) Assess and tax the nonexempt property in the tax account as other similar property is as-
+32 sessed and taxed; and
+33 (c) Submit a written report to the sponsoring jurisdiction setting forth the assessor’s estimate
+34 of the amount of:
+35 (A) The real market value of the exempt eligible housing project property; and
+36 (B) The property taxes on the exempt eligible housing project property that would have been
+37 collected if the property were not exempt.
+38 (2)(a) The exemption shall first apply to the first property tax year that begins after completion
+39 of the eligible housing project to which the [grant] project funding relates.
+40 (b) The eligible housing project property shall be disqualified from the exemption on the earliest
+41 of:
+42 (A) July 1 of the property tax year immediately succeeding the date on which the fee payment
+43 obligation under ORS 307.231 that relates to the eligible housing project, if any, is repaid in full;
+44 (B) The date on which the annual fee imposed on the fee payer under ORS 307.231, if any, be-
+45 comes delinquent;
+[7]
+
+HB 4037
+1 (C) The date on which foreclosure proceedings are commenced as provided by law for delinquent
+2 nonexempt taxes assessed with respect to the tax account that includes the eligible housing project;
+3 or
+4 (D) The date on which a condition specified in ORS 307.233 (1) occurs.
+5 (c) After the eligible housing project property has been disqualified from the exemption under
+6 this subsection, the property shall be assessed and taxed as other similar property is assessed and
+7 taxed.
+8 (3) For each tax year that the eligible housing project property is exempt from taxation, the
+9 assessor shall enter a notation on the assessment roll stating:
+10 (a) That the property is exempt under this section; and
+11 (b) The presumptive number of property tax years for which the exemption is granted, which
+12 shall be the term of the agency loan agreement relating to the eligible housing project set under
+13 ORS 307.216.
+14 SECTION 9. ORS 307.229 is amended to read:
+15 307.229. (1) Repayment of agency loans made under ORS 307.221 shall begin, in accordance with
+16 ORS 307.231, after completion of the eligible housing project funded by the project grant or project
+17 loan to which the agency loan relates, or after another date or other circumstances agreed to by
+18 the parties to a project funding agreement under ORS 307.223.
+19 (2)(a) The sponsoring jurisdiction shall determine the date of completion of an eligible housing
+20 project.
+21 (b)(A) If an eligible housing project is completed before July 1 of the assessment year, repayment
+22 shall begin with the property tax year that begins on July 1 of the assessment year.
+23 (B) If an eligible housing project is completed on or after July 1 of the assessment year, repay-
+24 ment shall begin with the property tax year that begins on July 1 of the succeeding assessment year.
+25 (c) After determining the date of completion under paragraph (a) of this subsection, the spon-
+26 soring jurisdiction shall notify the Housing and Community Services Department and the county tax
+27 officers of the determination.
+28 (3)(a) [A] An agency loan shall remain outstanding until repaid in full.
+29 (b) An agency loan may be repaid at any time.
+30 (4) Upon payment in full of an agency loan, the sponsoring jurisdiction may release or
+31 modify any affordability restrictions applicable to the eligible housing project property to
+32 which the agency loan relates.
+33 SECTION 10. ORS 307.231 is amended to read:
+34 307.231. (1) Unless repayment of the agency loan made under ORS 307.221 has been otherwise
+35 provided for under ORS 307.223, the fee payer for eligible housing project property that has been
+36 granted exemption under ORS 307.227 shall pay an annual fee for the term that shall be the
+37 presumptive number of property tax years for which the property is granted exemption under ORS
+38 307.227 (3)(b).
+39 (2)(a) The amount of the fee for the first property tax year in which repayment of the agency
+40 loan is due under ORS 307.229 (1) shall equal the total of:
+41 (A) The portion of the increment determined under ORS 307.218 that is attributable to the eli-
+42 gible housing project property to which the fee relates; and
+43 (B) The administrative costs described in ORS 307.221 (3) divided by the term in years of the
+44 project [grant] funding agreement entered into under ORS 307.225.
+45 (b) For each subsequent property tax year, the amount of the fee shall be 103 percent of the
+[8]
+
+HB 4037
+1 amount of the fee for the preceding property tax year.
+2 (3)(a) Not later than July 15 of each property tax year during the term of the fee obligation, the
+3 sponsoring jurisdiction shall certify to the assessor each fee amount that became due under this
+4 section on or after July 16 of the previous property tax year from fee payers with respect to eligible
+5 housing projects located in the sponsoring jurisdiction.
+6 (b) The assessor shall place each fee amount on the assessment and tax rolls of the county and
+7 notify:
+8 (A) The sponsoring jurisdiction of each fee amount and the aggregate of all fee amounts imposed
+9 with respect to eligible housing project property located in the sponsoring jurisdiction.
+10 (B) The Housing and Community Services Department of each fee amount and the aggregate of
+11 all fee amounts with respect to all eligible housing project property located in the county.
+12 (4)(a) The assessor shall include on the tax statement of each tax account that includes exempt
+13 eligible housing project property the amount of the fee imposed on the fee payer with respect to the
+14 eligible housing project property.
+15 (b) The fee shall be collected and enforced in the same manner as ad valorem property taxes,
+16 including nonexempt taxes, are collected and enforced.
+17 (5)(a) For each property tax year in which a fee is payable under this section, the treasurer
+18 shall:
+19 (A) Estimate the amount of operating taxes as defined in ORS 310.055 and local option taxes as
+20 defined in ORS 310.202 levied by fire districts that would have been collected on eligible housing
+21 project property if the property were not exempt;
+22 (B) Distribute out of the fee moneys the estimated amounts determined under subparagraph (A)
+23 of this paragraph to the respective fire districts when other ad valorem property taxes are distrib-
+24 uted under ORS 311.395; and
+25 (C) Transfer the net fee moneys to the [Housing and Community Services] department for deposit
+26 in the Housing Project Revolving Loan Fund established under ORS 307.237 in repayment of the
+27 loans to which the fees relate.
+28 (b) Nonexempt taxes shall be distributed in the same manner as other ad valorem property taxes
+29 are distributed.
+30 (6) Any person with an interest in the eligible housing project property on the date on which
+31 any fee amount becomes due shall be jointly and severally liable for payment of the fee amount.
+32 (7) Any agency loan amounts that have not been repaid when the fee payer has discharged its
+33 obligations in full under this section remain the obligation of the sponsoring jurisdiction that ob-
+34 tained the agency loan from the department under ORS 307.221.
+35 (8) Any fee amounts collected in excess of the agency loan amount shall be distributed in the
+36 same manner as other ad valorem property taxes are distributed.
+37 SECTION 11. ORS 307.233 is amended to read:
+38 307.233. (1)(a) A developer that received a project [grant] funding award under ORS 307.225
+39 shall become liable for immediate payment of outstanding annual fee payments, if any, imposed un-
+40 der ORS 307.231 for the entire term of the fee if:
+41 (A) The developer has not completed the eligible housing project within three years following
+42 the date on which the project [grant] funding moneys were distributed to the developer;
+43 (B) The eligible housing project changes substantially from the project for which the developer’s
+44 application was approved such that the project would not have been eligible for the project [grant]
+45 funding; or
+[9]
+
+HB 4037
+1 (C) The developer has not complied with a requirement specified in the project [grant] funding
+2 agreement or with associated affordability requirements and restrictions.
+3 (b) The sponsoring jurisdiction may, in its sole discretion, extend the date on which the eligible
+4 housing project must be completed.
+5 [(2) If the sponsoring jurisdiction discovers that a developer willfully made a false statement or
+6 misrepresentation or willfully failed to report a material fact to obtain a project grant with respect to
+7 an eligible housing project, the sponsoring jurisdiction may impose on the developer a penalty not to
+8 exceed 20 percent of the amount of the project grant so obtained, plus any applicable interest and fees
+9 associated with the costs of collection.]
+10 (2) A sponsoring jurisdiction may impose on a developer, homeowner or other project
+11 representative a penalty not to exceed 20 percent of the amount of the project funding ob-
+12 tained with respect to an eligible housing project, plus any applicable interest and fees as-
+13 sociated with the costs of collection, upon discovery that the developer, homeowner or other
+14 project representative willfully made a false statement or misrepresentation or willfully
+15 failed to report a material fact:
+16 (a) To obtain the project funding; or
+17 (b) Relating to the compliance requirements associated with the eligible housing project.
+18 (3) Any amounts imposed under subsection (1) or (2) of this section shall be a lien on the eligible
+19 housing project property and the nonexempt property in the tax account.
+20 (4) The sponsoring jurisdiction shall provide written notice of any amounts that become due
+21 under subsections (1) and (2) of this section to the county tax officers and the Housing and Com-
+22 munity Services Department.
+23 (5)(a) Any and all amounts required to be paid under this section shall be considered to be liq-
+24 uidated and delinquent, and the Housing and Community Services Department shall assign such
+25 amounts to the Department of Revenue for collection as provided in ORS 293.250.
+26 (b) Amounts collected under this subsection shall be deposited, net of any collection charges, in
+27 the Housing Project Revolving Loan Fund established under ORS 307.237.
+28
+29 COMMUNITY DEVELOPMENT FINANCIAL INSTITUTIONS
+30
+31 SECTION 12. ORS 458.352 is amended to read:
+32 458.352. (1) As used in this section:
+33 (a) “Average income” means an income that complies with income restrictions determined at the
+34 advice and consent of the Oregon Housing Stability Council, but not to exceed the greater of 100
+35 percent of the statewide or local area median income adjusted for household size as determined
+36 annually by the Housing and Community Services Department using United States Department of
+37 Housing and Urban Development information.
+38 (b) “Manufactured dwelling park” has the meaning given that term in ORS 446.003.
+39 (c) “Nonprofit corporation” means a corporation that is exempt from income taxes under section
+40 501(c)(3) or (4) of the Internal Revenue Code as amended and in effect on December 31, 2016.
+41 (2) The Housing and Community Services Department shall provide one or more loans to
+42 nonprofit corporations to create manufactured dwelling park preservation and development pro-
+43 grams that invest in, and provide loans for, the preservation, development and expansion of afford-
+44 able manufactured dwelling parks in this state, including through:
+45 (a) The repair or reconstruction of parks destroyed by natural disasters; or
+[10]
+
+HB 4037
+1 (b) The acquisition and development of land for parks or for the expansion of parks in areas that
+2 have been affected by a natural disaster.
+3 (3) To be eligible for a loan under this section, a nonprofit corporation shall demonstrate to the
+4 satisfaction of the department that the nonprofit corporation:
+5 (a) Is a community development financial institution, or was certified on October 1, 2025, as
+6 a community development financial institution by the Community Development Financial
+7 Institutions Fund at the United States Department of the Treasury;
+8 (b) Is operating statewide to support investment in, and acquisition, renovation and con-
+9 struction of, affordable housing;
+10 [(b)] (c) Has the ability and capacity to provide the services and reporting required of the pro-
+11 gram described in subsections (4) and (6) of this section; and
+12 [(c)] (d) Meets other requirements established by the department regarding financial risk and
+13 availability or accessibility of additional resources.
+14 (4) An eligible nonprofit corporation, with input from the department, shall develop a manufac-
+15 tured dwelling park development and preservation program that:
+16 (a) Invests in, and loans funds to, other nonprofit corporations, housing authorities, manufac-
+17 tured dwelling park nonprofit cooperatives as defined in ORS 62.803, local units of government as
+18 defined in ORS 466.706, agencies as defined in ORS 183.310, or any entity in which a nonprofit cor-
+19 poration has a controlling share, to:
+20 (A) Purchase or refinance manufactured dwelling parks that will maintain the parks as parks
+21 long term; or
+22 (B) Construct, develop, expand, repair or reconstruct parks, including parks destroyed by na-
+23 tural disasters;
+24 (b) Emphasizes, when providing loans under paragraph (a) of this subsection, the financing of
+25 parks whose residents are predominantly members of households with income less than average in-
+26 come; and
+27 (c) Preserves the affordability of the park space rent to park tenants who are members of
+28 households with income less than average income.
+29 (5) An eligible nonprofit corporation shall create a park development and preservation account
+30 to be used by the nonprofit corporation for the manufactured dwelling park preservation program
+31 and shall deposit the moneys loaned by the department into the account.
+32 (6) An eligible nonprofit corporation shall ensure that all financial activities of the program are
+33 paid from and into the park development and preservation account created under subsection (5) of
+34 this section. Each nonprofit corporation shall report to the department no less than semiannually,
+35 showing the expenses and incomes of the park development and preservation account and the results
+36 of the manufactured dwelling park development and preservation program.
+37 (7) A loan made by the department under this section:
+38 (a) May require the nonprofit corporation to pay interest.
+39 (b) May not require the nonprofit corporation to make any loan payments before the maturity
+40 date of the loan.
+41 (c) Must have a maturity date of no later than September 15, 2036.
+42 (d) May have its maturity date extended by the department.
+43 (e) Shall have all or part of the unpaid balance forgiven by the department in an amount not to
+44 exceed the losses incurred on investments or loans made by the nonprofit corporation under sub-
+45 section (4)(a) of this section.
+[11]
+
+HB 4037
+1 (f) May include such agreements by the nonprofit corporation practical to secure the loan made
+2 by the department and to accomplish the purposes of the program described in subsection (4) of this
+3 section.
+4 (8) The department or the State Treasurer shall deposit moneys received in servicing the loan
+5 into the General Housing Account of the Oregon Housing Fund created under ORS 458.620.
+6 SECTION 13. The Housing and Community Services Department, Oregon Department of
+7 Administrative Services or Department of Justice may amend the grant agreement with
+8 Network for Oregon Affordable Housing (NOAH) made under section 51, chapter 13, Oregon
+9 Laws 2023, to allow the grant and proceeds from the grant to be used for financing:
+10 (1) Housing projects that will:
+11 (a) Have an affordability term of no less than five years, notwithstanding section 51
+12 (2)(a), chapter 13, Oregon Laws 2023.
+13 (b) Be sold or rented as the primary residence for a low or moderate income household,
+14 notwithstanding section 51 (2)(b), chapter 13, Oregon Laws 2023.
+15 (2) Not to exceed $1,000,000 per eligible project, notwithstanding section 51 (3)(a), chapter
+16 13, Oregon Laws 2023.
+17
+18 HOUSING ACCOUNTABILITY AND PRODUCTION OFFICE
+19
+20 SECTION 14. ORS 197A.805 is amended to read:
+21 197A.805. (1) The Housing Accountability and Production Office shall establish a form or format
+22 through which the office receives allegations of local governments’ violations of housing laws that
+23 impact housing production. For complaints that relate to a specific development project, the office
+24 may receive complaints only from the project applicant. For complaints not related to a specific
+25 development project, the office may receive complaints from any person within the local
+26 government’s jurisdiction or the Department of Land Conservation and Development or the Depart-
+27 ment of Consumer and Business Services.
+28 (2)(a) Except as provided in paragraph (c) of this subsection, the office shall investigate sus-
+29 pected violations of housing laws or violations credibly alleged under subsection (1) of this section.
+30 (b) The office shall develop consistent procedures to evaluate and determine the credibility of
+31 alleged violations of housing laws.
+32 (c) If a complainant has filed a notice of appeal with the Land Use Board of Appeals or has
+33 initiated private litigation regarding any aspect of the application decision that was alleged to have
+34 been the subject of the housing law violation, the office may not further participate in the specific
+35 complaint or its appeal, except for:
+36 (A) Providing agency briefs, including briefs under ORS 197.830 (8), to the board or the court;
+37 (B) Providing technical assistance to the local government unrelated to the resolution of the
+38 specific complaint; or
+39 (C) Mediation at the request of the local government and complainant, including mediation un-
+40 der ORS 197.860.
+41 (3)(a) If the office has a reasonable basis to conclude that a violation was or is being committed,
+42 the office shall deliver written warning notice to the local government specifying the violation and
+43 any authority under this section that the office intends to invoke if the violation continues or is not
+44 remedied. The notice must include an invitation to address or remedy the suspected violation
+45 through mediation, the execution of a compliance agreement to voluntarily remedy the situation, the
+[12]
+
+HB 4037
+1 adoption of suitable model codes developed by the office under ORS 197A.800 (3)(b) or other reme-
+2 dies suitable to the specific violation.
+3 (b) The office shall prioritize technical assistance funding to local governments that agree to
+4 comply with housing laws under this subsection.
+5 (c) A determination by the office is not a legislative, judicial or quasi-judicial decision.
+6 (4) No earlier than 60 days after a warning notice is delivered under subsection (3) of this sec-
+7 tion, the office may:
+8 (a) Initiate a request for an enforcement order of the Land Conservation and Development
+9 Commission by delivering a notice of request under ORS 197A.810 (3).
+10 (b) Seek a court order against a local government as described under ORS 455.160 (3) without
+11 being adversely affected or serving the demand as described in ORS 455.160 (2).
+12 (c) Notwithstanding ORS 197.090 (2)(b) to (e), participate in and seek review of a matter under
+13 ORS 197.090 (2)(a) that pertains to housing laws without the notice or consent of the commission.
+14 No less than once every two years, the office shall report to the commission on the matters in which
+15 the office participated under this paragraph.
+16 (d) Except regarding matters under the exclusive jurisdiction of the Land Use Board of Appeals,
+17 apply to a circuit court for an order compelling compliance with any housing law. If the court finds
+18 that the defendant is not complying with a housing law, the court may grant an injunction requiring
+19 compliance.
+20 (e) In addition to requesting an order under paragraph (a) of this subsection, enter an
+21 interim administrative order in the name of the office, requiring the local government to
+22 directly apply a model code that has been adopted by rule by the commission during the
+23 pendency of the proceeding. The local government may appeal the order under ORS 183.484
+24 or seek relief from the order within the proceeding described in ORS 197A.810.
+25 (5) The office may not, in the name of the office, exercise the authority of the Department of
+26 Land Conservation and Development under ORS 197A.130.
+27 (6) The office shall send notice to each complainant under subsection (1) of this section at the
+28 time that the office:
+29 (a) Takes any action under subsection (3) or (4) of this section; or
+30 (b) Has determined that it will not take further actions or make further investigations.
+31 (7) The actions authorized of the office under this section are in addition to and may be exer-
+32 cised in conjunction with any other investigative or enforcement authority that may be exercised
+33 by the Department of Land Conservation and Development, the Land Conservation and Development
+34 Commission or the Department of Consumer and Business Services.
+35 (8) Nothing in this section:
+36 (a) Amends the jurisdiction of the Land Use Board of Appeals or of a circuit court;
+37 (b) Creates a new cause of action; or
+38 (c) Tolls or extends:
+39 (A) The statute of limitations for any claim; or
+40 (B) The deadline for any appeal or other action.
+41 SECTION 15. ORS 197.320 is amended to read:
+42 197.320. The Land Conservation and Development Commission shall issue an order requiring a
+43 local government, state agency or special district to take action necessary to bring its comprehen-
+44 sive plan, land use regulation, limited land use decisions or other land use decisions or actions into
+45 compliance with the goals, acknowledged comprehensive plan provisions, land use regulations,
+[13]
+
+HB 4037
+1 housing production strategy or housing acceleration agreements if the commission has good cause
+2 to believe:
+3 (1) A comprehensive plan or land use regulation adopted by a local government not on a com-
+4 pliance schedule is not in compliance with the goals by the date set in ORS 197.245 or 197.250 for
+5 such compliance.
+6 (2) A plan, program, rule or regulation affecting land use adopted by a state agency or special
+7 district is not in compliance with the goals by the date set in ORS 197.245 or 197.250 for such
+8 compliance.
+9 (3) A local government is not making satisfactory progress toward performance of its compliance
+10 schedule.
+11 (4) A state agency is not making satisfactory progress in carrying out its coordination agree-
+12 ment or the requirements of ORS 197.180.
+13 (5) A local government has no comprehensive plan or land use regulation and is not on a com-
+14 pliance schedule directed to developing the plan or regulation.
+15 (6) A local government has engaged in a pattern or practice of decision-making that violates an
+16 acknowledged comprehensive plan or land use regulation. In making its determination under this
+17 subsection, the commission shall determine whether there is evidence in the record to support the
+18 decisions made. The commission shall not judge the issue solely upon adequacy of the findings in
+19 support of the decisions.
+20 (7) A local government has failed to comply with a commission order entered under ORS 197.644.
+21 (8) A special district has engaged in a pattern or practice of decision-making that violates an
+22 acknowledged comprehensive plan or cooperative agreement adopted pursuant to ORS 197.020.
+23 (9) A special district is not making satisfactory progress toward performance of its obligations
+24 under ORS chapters 195, 197 and 197A.
+25 (10) A local government’s approval standards, special conditions on approval of specific devel-
+26 opment proposals or procedures for approval do not comply with ORS 197A.400 [(1) or (3)].
+27 (11) A local government is not making satisfactory progress toward meeting its obligations un-
+28 der ORS 195.065.
+29 (12) A local government within the jurisdiction of a metropolitan service district has failed to
+30 make changes to the comprehensive plan or land use regulations to comply with the regional
+31 framework plan of the district or has engaged in a pattern or practice of decision-making that vio-
+32 lates a requirement of the regional framework plan.
+33 (13) A city [with a population of 10,000 or greater, as defined in ORS 197A.015,] that:
+34 (a) Has a pattern or practice of violating housing-related statutes or implementing policies that
+35 create unreasonable cost or delay to the production of housing [as described in ORS 197A.400 (1)];
+36 (b) Has a pattern or practice of creating adverse disparate impacts to state or federal protected
+37 classes or inhibiting equitable access to housing choice[, as described in ORS 197A.100 (2)(b) to
+38 (d)];
+39 (c) Has failed to enter into a housing acceleration agreement as required under ORS 197A.130
+40 (6); or
+41 (d) Has materially breached a term of a housing acceleration agreement under ORS 197A.130 (8),
+42 including a failure to meet the timeline for performance under ORS 197A.130 (8)(a)(A).
+43
+44 BUILDING PLAN REVIEW
+45
+[14]
+
+HB 4037
+1 SECTION 16. ORS 455.628 is amended to read:
+2 455.628. (1) The Department of Consumer and Business Services or a municipality administering
+3 and enforcing a building inspection program under ORS 455.148 or 455.150 may not require a plan
+4 review for one and two family dwellings [that are of conventional light frame construction, as defined
+5 by the department by rule], if:
+6 (a) The plans for the dwelling are designed and stamped by a professional engineer registered
+7 under ORS 672.002 to 672.325 or an architect registered under ORS 671.010 to 671.220; and
+8 (b) The engineer or architect is certified by the Director of the Department of Consumer and
+9 Business Services under ORS 455.720 as being qualified to examine one and two family dwelling
+10 plans.
+11 (2) The department or municipality is exempt from liability for any damages arising from the
+12 nonperformance of a plan review pursuant to this section.
+13
+14 REVIEW OF HOUSING APPLICATIONS
+15
+16 SECTION 17. ORS 197A.400 is amended to read:
+17 197A.400. (1)(a) Except as provided in subsection (3) of this section, a local government may
+18 adopt and apply only clear and objective standards, conditions and procedures regulating:
+19 (A) The development of housing; and
+20 (B) Tree removal [codes] related to the development of housing.
+21 (b) The standards, conditions and procedures:
+22 (A) May include, but are not limited to, one or more provisions regulating the density or height
+23 of a development.
+24 (B) May not have the effect, either in themselves or cumulatively, of discouraging needed
+25 housing through unreasonable cost or delay.
+26 (C) May be contained in a comprehensive plan, land use regulation or an ordinance relating to
+27 housing adopted by a city that adopts, including by reference, a model ordinance adopted by the
+28 Land Conservation and Development Commission that comports with any qualifications, conditions
+29 or applicability of the model ordinance.
+30 (c) This subsection applies only within:
+31 (A) An urban growth boundary;
+32 (B) An unincorporated community designated in a county’s acknowledged comprehensive plan
+33 after December 5, 1994;
+34 (C) Nonresource land; or
+35 (D) An area zoned for rural residential use as defined in ORS 215.501.
+36 (2) The provisions of subsection (1) of this section do not apply to:
+37 (a) An application or permit for residential development in an area identified in a formally
+38 adopted central city plan, or a regional center as defined by Metro, in a city with a population of
+39 500,000 or greater.
+40 (b) An application or permit for residential development in historic areas designated for pro-
+41 tection under a land use planning goal protecting historic areas.
+42 (3) In addition to an approval process for needed housing based on clear and objective standards,
+43 conditions and procedures as provided in subsection (1) of this section, a local government may
+44 adopt and apply an alternative approval process for applications and permits for residential devel-
+45 opment based on approval criteria that are not clear and objective if:
+[15]
+
+HB 4037
+1 (a) The applicant retains the option of proceeding under the approval process that meets the
+2 requirements of subsection (1) of this section;
+3 (b) The approval criteria for the alternative approval process comply with applicable statewide
+4 land use planning goals and rules; and
+5 (c) The approval criteria for the alternative approval process authorize a density at or above
+6 the density level authorized in the zone under the approval process provided in subsection (1) of this
+7 section.
+8 (4) For applications subject to subsection (1) of this section[, this section does not infringe on
+9 a local government’s prerogative to:] the local government:
+10 (a) Shall set approval standards under which a particular housing type is ordinarily permitted
+11 outright without the need for a land use decision;
+12 [(b) Impose special conditions upon approval of a specific development proposal; or]
+13 [(c) Establish approval procedures.]
+14 (b) May give notice of an approval of any application to the owners of record of any
+15 property that has a common boundary with the subject property, including properties sepa-
+16 rated only by a public road, as shown on the most recent property tax assessment role; and
+17 (c) May not require any public hearings, proceedings or notice of the application or re-
+18 quire any local appeals, review or notice of an approved application except as provided in
+19 paragraph (b) of this subsection unless specifically requested by the applicant.
+20 (5) Notwithstanding subsection (4) of this section or ORS 197.825, an applicant may appeal
+21 a denial of an application to the Land Use Board of Appeals under ORS 197.830 to 197.845 al-
+22 leging that the local government has failed to adopt or apply clear and objective standards,
+23 conditions and procedures under subsection (1) of this section.
+24 SECTION 18. ORS 215.427 is amended to read:
+25 215.427. (1) Except as provided in subsections (3), (5) and (10) of this section, the governing body
+26 of a county or its designee shall take final action on an application, including resolution of all ap-
+27 peals under ORS 215.422, within the shortest applicable period of the following periods, all of which
+28 begin on the date that the application is deemed complete:
+29 (a) 150 days;
+30 (b) 120 days, for land within an urban growth boundary or for applications for mineral aggregate
+31 extraction;
+32 (c) 100 days, for an application for the development of affordable housing as provided in ORS
+33 197A.470; [or]
+34 (d) 90 days, for an application to develop housing within an urban growth boundary where
+35 the developer and zoning designation are identical and the application and lot or parcel are
+36 substantially similar; or
+37 [(d)] (e) 63 days, for an expedited land division under ORS 197A.140.
+38 (2) If an application is incomplete, the governing body or its designee shall notify the applicant
+39 in writing of exactly what information is missing within 30 days of receipt of the application and
+40 allow the applicant to submit the missing information. The application is deemed complete for the
+41 purpose of subsection (1) of this section upon receipt by the governing body or its designee of:
+42 (a) All of the missing information;
+43 (b) Some of the missing information and written notice from the applicant that no other infor-
+44 mation will be provided; or
+45 (c) Written notice from the applicant that none of the missing information will be provided.
+[16]
+
+HB 4037
+1 (3)(a) Approval or denial of an application that was complete when first submitted or deemed
+2 complete pursuant to subsection (2) of this section must be based:
+3 (A) Upon the standards and criteria that were applicable at the time the application was first
+4 submitted; or
+5 (B) For an application relating to development of housing within an urban growth boundary,
+6 upon the request of the applicant, those standards and criteria that are operative at the time of the
+7 request.
+8 (b) If an applicant requests review under different standards as provided in paragraph (a)(B) of
+9 this subsection:
+10 (A) For the purposes of this section, any applicable timelines for completeness review and final
+11 decisions restart as if a new application were submitted on the date of the request;
+12 (B) For the purposes of this section, the application is not deemed complete until:
+13 (i) The county determines that additional information is not required under subsection (2) of this
+14 section; or
+15 (ii) The applicant makes a submission under subsection (2) of this section in response to a
+16 county’s request;
+17 (C) A county may deny a request under paragraph (a)(B) of this subsection if:
+18 (i) The county has issued a public notice of the application; or
+19 (ii) A request under paragraph (a)(B) of this subsection was previously made; and
+20 (D) The county may not require that the applicant:
+21 (i) Pay a fee, except to cover additional costs incurred by the county to accommodate the re-
+22 quest;
+23 (ii) Submit a new application or duplicative information, unless information resubmittal is re-
+24 quired because the request affects or changes information in other locations in the application or
+25 additional narrative is required to understand the request in context; or
+26 (iii) Repeat redundant processes or hearings that are inapplicable to the change in standards
+27 or criteria.
+28 (4) On the 181st day after first being submitted, the application is void if the applicant has been
+29 notified of the missing information as required under subsection (2) of this section and has not sub-
+30 mitted:
+31 (a) All of the missing information;
+32 (b) Some of the missing information and written notice that no other information will be pro-
+33 vided; or
+34 (c) Written notice that none of the missing information will be provided.
+35 (5) The period set in subsection (1) of this section may be extended for a specified period of time
+36 at the written request of the applicant. The total of all extensions, except as provided in subsection
+37 (10) of this section for mediation, may not exceed 215 days.
+38 (6) The period set in subsection (1) of this section applies:
+39 (a) Only to decisions wholly within the authority and control of the governing body of the
+40 county; and
+41 (b) Unless the parties have agreed to mediation as described in subsection (10) of this section
+42 or ORS 197.319 (2)(b).
+43 (7) Notwithstanding subsection (6) of this section, the period set in subsection (1) of this section
+44 does not apply to:
+45 (a) A decision of the county making a change to an acknowledged comprehensive plan or a land
+[17]
+
+HB 4037
+1 use regulation that is submitted to the Director of the Department of Land Conservation and De-
+2 velopment under ORS 197.610; or
+3 (b) A decision of a county involving an application for the development of residential structures
+4 within an urban growth boundary, where the county has tentatively approved the application and
+5 extends these periods by no more than seven days in order to assure the sufficiency of its final or-
+6 der.
+7 (8) If the governing body of the county or its designee does not take final action on an appli-
+8 cation within the applicable periods allowed under subsections (1) and (5) of this section, the county
+9 shall refund to the applicant either the unexpended portion of any application fees or deposits pre-
+10 viously paid or 50 percent of the total amount of such fees or deposits, whichever is greater. The
+11 applicant is not liable for additional governmental fees incurred subsequent to the payment of such
+12 fees or deposits. However, the applicant is responsible for the costs of providing sufficient addi-
+13 tional information to address relevant issues identified in the consideration of the application.
+14 (9) A county may not compel an applicant to waive the period set in subsection (1) of this sec-
+15 tion or to waive the provisions of subsection (8) of this section or ORS 215.429 as a condition for
+16 taking any action on an application, except when such applications are filed concurrently and con-
+17 sidered jointly with a plan amendment.
+18 (10) The periods set forth in subsections (1) and (5) of this section may be extended by up to 90
+19 additional days, if the applicant and the county agree that a dispute concerning the application will
+20 be mediated.
+21 (11) As used in this section, “application” means an application for:
+22 (a) A permit;
+23 (b) A limited land use decision;
+24 (c) A zone change;
+25 (d) A consolidated zone change and permit described under ORS 215.416;
+26 (e) An expedited land division under ORS 197A.140; or
+27 (f) A plat consisting of a land division and middle housing land division as described in ORS
+28 92.044 (1)(c)(C).
+29 SECTION 19. ORS 227.178 is amended to read:
+30 227.178. (1) Except as provided in subsections (3), (5) and (11) of this section, the governing body
+31 of a city or its designee shall take final action on an application, including resolution of all appeals
+32 under ORS 227.180, within the shortest applicable period of the following periods, all of which begin
+33 on the date that the application is deemed complete:
+34 (a) 120 days;
+35 (b) 100 days, for an application for the development of affordable housing as provided in ORS
+36 197A.470; [or]
+37 (c) 90 days, for an application to develop housing within an urban growth boundary where
+38 the developer and zoning designation are identical and the application and lot or parcel are
+39 substantially similar; or
+40 [(c)] (d) 63 days, for an expedited land division under ORS 197A.140.
+41 (2) If an application is incomplete, the governing body or its designee shall notify the applicant
+42 in writing of exactly what information is missing within 30 days of receipt of the application and
+43 allow the applicant to submit the missing information. The application is deemed complete for the
+44 purpose of subsection (1) of this section upon receipt by the governing body or its designee of:
+45 (a) All of the missing information;
+[18]
+
+HB 4037
+1 (b) Some of the missing information and written notice from the applicant that no other infor-
+2 mation will be provided; or
+3 (c) Written notice from the applicant that none of the missing information will be provided.
+4 (3)(a) Approval or denial of an application that was complete when first submitted or deemed
+5 complete pursuant to subsection (2) of this section must be based:
+6 (A) Upon the standards and criteria that were applicable at the time the application was first
+7 submitted; or
+8 (B) For an application relating to development of housing within an urban growth boundary,
+9 upon the request of the applicant, those standards and criteria that are operative at the time of the
+10 request.
+11 (b) If an applicant requests review under different standards as provided in paragraph (a)(B) of
+12 this subsection:
+13 (A) For the purposes of this section, any applicable timelines for completeness review and final
+14 decisions restart as if a new application were submitted on the date of the request;
+15 (B) For the purposes of this section, the application is not deemed complete until:
+16 (i) The city determines that additional information is not required under subsection (2) of this
+17 section; or
+18 (ii) The applicant makes a submission under subsection (2) of this section in response to a city’s
+19 request;
+20 (C) A city may deny a request under paragraph (a)(B) of this subsection if:
+21 (i) The city has issued a public notice of the application; or
+22 (ii) A request under paragraph (a)(B) of this subsection was previously made; and
+23 (D) The city may not require that the applicant:
+24 (i) Pay a fee, except to cover additional costs incurred by the city to accommodate the request;
+25 (ii) Submit a new application or duplicative information, unless information resubmittal is re-
+26 quired because the request affects or changes information in other locations in the application or
+27 additional narrative is required to understand the request in context; or
+28 (iii) Repeat redundant processes or hearings that are inapplicable to the change in standards
+29 or criteria.
+30 (4) On the 181st day after first being submitted, the application is void if the applicant has been
+31 notified of the missing information as required under subsection (2) of this section and has not sub-
+32 mitted:
+33 (a) All of the missing information;
+34 (b) Some of the missing information and written notice that no other information will be pro-
+35 vided; or
+36 (c) Written notice that none of the missing information will be provided.
+37 (5) The period set in subsection (1) of this section may be extended for a specified period of time
+38 at the written request of the applicant. The total of all extensions, except as provided in subsection
+39 (11) of this section for mediation, may not exceed 245 days.
+40 (6) The period set in subsection (1) of this section applies:
+41 (a) Only to decisions wholly within the authority and control of the governing body of the city;
+42 and
+43 (b) Unless the parties have agreed to mediation as described in subsection (11) of this section
+44 or ORS 197.319 (2)(b).
+45 (7) Notwithstanding subsection (6) of this section, the period set in subsection (1) of this section
+[19]
+
+HB 4037
+1 does not apply to:
+2 (a) A decision of the city making a change to an acknowledged comprehensive plan or a land
+3 use regulation that is submitted to the Director of the Department of Land Conservation and De-
+4 velopment under ORS 197.610; or
+5 (b) A decision of a city involving an application for the development of residential structures
+6 within an urban growth boundary, where the city has tentatively approved the application and ex-
+7 tends these periods by no more than seven days in order to assure the sufficiency of its final order.
+8 (8) If the governing body of the city or its designee does not take final action on an application
+9 within the period set in subsection (1) of this section, the city shall refund to the applicant, subject
+10 to the provisions of subsection (9) of this section, either the unexpended portion of any application
+11 fees or deposits previously paid or 50 percent of the total amount of such fees or deposits, whichever
+12 is greater. The applicant is not liable for additional governmental fees incurred subsequent to the
+13 payment of such fees or deposits. However, the applicant is responsible for the costs of providing
+14 sufficient additional information to address relevant issues identified in the consideration of the
+15 application.
+16 (9)(a) To obtain a refund under subsection (8) of this section, the applicant may either:
+17 (A) Submit a written request for payment, either by mail or in person, to the city or its designee;
+18 or
+19 (B) Include the amount claimed in a mandamus petition filed under ORS 227.179. The court shall
+20 award an amount owed under this section in its final order on the petition.
+21 (b) Within seven calendar days of receiving a request for a refund, the city or its designee shall
+22 determine the amount of any refund owed. Payment, or notice that no payment is due, shall be made
+23 to the applicant within 30 calendar days of receiving the request. Any amount due and not paid
+24 within 30 calendar days of receipt of the request shall be subject to interest charges at the rate of
+25 one percent per month, or a portion thereof.
+26 (c) If payment due under paragraph (b) of this subsection is not paid within 120 days after the
+27 city or its designee receives the refund request, the applicant may file an action for recovery of the
+28 unpaid refund. In an action brought by a person under this paragraph, the court shall award to a
+29 prevailing applicant, in addition to the relief provided in this section, reasonable attorney fees and
+30 costs at trial and on appeal. If the city or its designee prevails, the court shall award reasonable
+31 attorney fees and costs at trial and on appeal if the court finds the petition to be frivolous.
+32 (10) A city may not compel an applicant to waive the period set in subsection (1) of this section
+33 or to waive the provisions of subsection (8) of this section or ORS 227.179 as a condition for taking
+34 any action on an application, except when such applications are filed concurrently and considered
+35 jointly with a plan amendment.
+36 (11) The periods set forth in subsections (1) and (5) of this section may be extended by up to 90
+37 additional days, if the applicant and the city agree that a dispute concerning the application will
+38 be mediated.
+39 (12) As used in this section, “application” means an application for:
+40 (a) A permit;
+41 (b) A limited land use decision;
+42 (c) A zone change;
+43 (d) A consolidated zone change and permit described under ORS 227.175;
+44 (e) An expedited land division under ORS 197A.140; or
+45 (f) A plat consisting of a land division and middle housing land division as described in ORS
+[20]
+
+HB 4037
+1 92.044 (1)(c)(C).
+2
+3 RESIDENTIAL TENANCIES IMPACTED BY DISASTERS
+4
+5 SECTION 20. Section 21 of this 2026 Act is added to and made a part of ORS 90.100 to
+6 90.465.
+7 SECTION 21. If a tenancy is affected by a natural disaster, as defined in ORS 197A.440,
+8 unless the parties agree otherwise following the natural disaster:
+9 (1) For a dwelling unit that is destroyed, the tenancy is immediately terminated and the
+10 parties are not further obligated under the rental agreement or this chapter, except that:
+11 (a) The landlord shall, pursuant to ORS 90.300, return to the tenant any deposit and
+12 prepaid rent, including prorated rent from the date of the natural disaster.
+13 (b) Unless a tenant is responsible for the natural disaster, the tenant is not responsible
+14 for cleanup of the premises.
+15 (c) After the abatement of the emergency, the landlord shall notify the tenant and pro-
+16 vide the tenant an opportunity to return to the premises to search for valuables. The land-
+17 lord may require the tenant to sign a release of liability related to the tenant’s presence at
+18 the premises.
+19 (2) A tenant does not owe rent while the dwelling unit is inaccessible due to the natural
+20 disaster or the destruction of the dwelling unit.
+21 (3) As used in this section, a dwelling unit is considered inaccessible while a govern-
+22 mental agency has posted the dwelling unit as unsafe or unlawful to occupy.
+23 (4) This section does not apply to rental agreements subject to ORS 90.505 to 90.850.
+24
+25 USE OF STATE PROPERTY FOR HOUSING
+26
+27 SECTION 22. ORS 270.010 is amended to read:
+28 270.010. [(1) It shall be] It is the policy of the State of Oregon to hold in state ownership no
+29 more state-owned real property than is necessary to conduct official business, with allowance for
+30 reasonably foreseeable demands of the future. The acquisition, sale, exchange, lease, retention and
+31 management of state-owned real property shall be subject to a statewide plan that will encourage
+32 the transfer through sale or lease of state-owned real property already in state ownership to private
+33 ownership and use so as to minimize state investment in such land and place such land on the tax
+34 rolls.
+35 [(2) In transferring state-owned real property through sale or lease, to the extent consistent with
+36 applicable trust responsibilities, the state policy shall be to give right of first refusal to purchase in the
+37 following order:]
+38 [(a) To the lessee of the land.]
+39 [(b) Where the intended activity or use is similar to that of adjacent properties within the region:]
+40 [(A) To adjacent landowners.]
+41 [(B) To residents within the region.]
+42 [(C) To persons outside the region.]
+43 SECTION 23. ORS 270.100 is amended to read:
+44 270.100. (1)[(a)] Before offering for sale any real property or equitable interest in real property
+45 that the state owns, the state agency acting for the state in the sales transaction shall report to the
+[21]
+
+HB 4037
+1 Oregon Department of Administrative Services that the state agency intends to sell or transfer the
+2 real property or the equitable interest. The department, or an agency the department specifically
+3 designates, shall notify other state agencies authorized to own real property of the intended sale or
+4 transfer to determine whether acquiring the real property or interest in the real property would be
+5 advantageous to another state agency.
+6 [(b)(A)] (2) The department shall give the [first opportunity after other state agencies] opportu-
+7 nity to acquire, purchase, exchange or lease real property or an interest in real property that the
+8 State of Oregon disposes of or sells to the following, in order of priority:
+9 (a) Other state agencies.
+10 (b) Any lessee of the land.
+11 [(i)] (c) The following entities, in order of priority, on the condition that the entities will de-
+12 velop housing on the real property [that will be occupied by families and individuals with an income
+13 no greater than 80 percent of the median family income for the county in which the real property is
+14 located] only for households whose income is not greater than 120 percent of the area median
+15 income:
+16 [(I) Nonprofit organizations; and ]
+17 [(II)] (A) Indian tribes, as defined in ORS 97.740[; and].
+18 [(ii)] (B) Political subdivisions, as defined in ORS 271.005.
+19 (C) Nonprofit organizations.
+20 (D) Any person.
+21 (d) The adjacent property owner, where the intended activity or use is similar to that of
+22 adjacent properties within the region.
+23 (e) Political subdivisions, as defined in ORS 271.005.
+24 [(B) The state agency responsible for selling or transferring the property or the equitable interest
+25 may require at the time of] Upon the sale or transfer, the department may require that a political
+26 subdivision [must]:
+27 (A) Use [state real property or an equitable interest in real property sold or transferred to the
+28 political subdivision] the real property for a public purpose or benefit[, and that the political sub-
+29 division].
+30 (B) May not resell the real property or the equitable interest to a private purchaser.
+31 (f) The entities listed under paragraph (c) of this subsection, in order of priority, on the
+32 condition that the entities will develop housing on the real property without regard to the
+33 affordability of the housing.
+34 [(c)] (3) If a state agency that intends to sell or transfer real property or an equitable interest
+35 in real property has not disposed of the real property or the equitable interest under [paragraph (a)
+36 or (b) of this] subsection (2)(a) or (b) of this section, the state agency shall cause the real property
+37 to be appraised by one or more competent and experienced appraisers in accordance with rules the
+38 department adopts. Except as provided in ORS 273.825, if the property has an appraised value ex-
+39 ceeding $5,000, the property or an equitable interest in the property may not be sold to any private
+40 person except after notice calling for such proposals as set forth in ORS 270.130.
+41 [(d)] (4) The department shall adopt rules to carry out the provisions of this section.
+42 [(2)] (5) Before a state agency acquires any real property or interest in real property, except for
+43 highway right of way that the Department of Transportation acquires, park properties that the State
+44 Parks and Recreation Department acquires and property within the approved projected campus
+45 boundaries for public universities listed in ORS 352.002, the state agency shall report to the Oregon
+[22]
+
+HB 4037
+1 Department of Administrative Services that the state agency intends to acquire the real property
+2 or the interest in real property. The department shall notify other state agencies that own land that
+3 the state agency intends to acquire real property or an interest in real property to determine
+4 whether another state agency desires to sell or transfer property that would meet the needs of the
+5 acquiring agency. In accordance with rules the Oregon Department of Administrative Services
+6 adopts, if no other state agency desires to sell or transfer property that would meet the needs of the
+7 agency that intends to acquire real property or an interest in real property, the agency may acquire
+8 the real property or interest in real property, consistent with applicable provisions of law.
+9 [(3)] (6) Before any terminal disposition of real property or an interest in real property, the state
+10 agency acting for the state in the transaction must secure approval of the transaction from the
+11 Oregon Department of Administrative Services.
+12 [(4)] (7) Subsection [(3)] (6) of this section does not apply to terminal disposition of the following
+13 real property:
+14 (a) Property that the State Department of Fish and Wildlife controls;
+15 (b) State forestlands that the State Forestry Department controls;
+16 (c) Property that the Department of Transportation controls;
+17 (d) Property that the Department of State Lands controls;
+18 (e) Property that public universities listed in ORS 352.002 control;
+19 (f) Property that the legislative branch of state government controls;
+20 (g) Property that the judicial branch of state government controls; and
+21 (h) Property that the State Parks and Recreation Department controls.
+22 [(5)] (8) Notwithstanding the provisions of subsection (4) (7) of this section, prior approval by
+23 the Oregon Department of Administrative Services is required for the terminal disposition of public
+24 land for less than the fair market value of the public land.
+25 [(6)] (9) The provisions of ORS 184.634, 270.005 to 270.015, 270.100 to 270.190, 273.416, 273.426
+26 to 273.436, 273.551 and 308A.709 (1)(a) to (d) do not apply to:
+27 (a) A home or farm that the Department of Veterans’ Affairs acquires or sells under ORS 88.720,
+28 406.050, 407.135, 407.145, 407.375 or 407.377.
+29 (b) Real property that the Housing and Community Services Department acquires or sells under
+30 the provisions of ORS 456.515 to 456.828 or ORS chapter 458.
+31 (c) Real property that the Oregon Health Authority or the Department of Human Services ac-
+32 quires or sells under ORS 410.075 or 416.340.
+33 SECTION 24. ORS 270.030 is amended to read:
+34 270.030. (1) Notwithstanding [ORS 270.010 (2) or] 270.100 to 270.190, a state agency may transfer,
+35 convey, donate, exchange or lease to an eligible Indian tribe, as defined in ORS 307.181, any real
+36 property or interest in real property owned by the agency at such price and on such terms as the
+37 agency may determine.
+38 (2) Notwithstanding ORS 273.775 to 273.790, an agency disposing of real property or interest in
+39 real property under this section also may convey the mineral and geothermal resource rights in the
+40 real property to the Indian tribe.
+41
+42 TECHNICAL FIXES
+43
+44 SECTION 25. ORS 92.031 is amended to read:
+45 92.031. (1) As used in this section, “middle housing land division” means a partition or subdivi-
+[23]
+
+HB 4037
+1 sion of a lot or parcel on which the development of middle housing is allowed under ORS 197A.420
+2 (2) or (3) or 197A.421.
+3 (2) A city or county shall approve a tentative plan for a middle housing land division if the ap-
+4 plication includes:
+5 (a) Separate utilities, other than water or wastewater, for each dwelling unit;
+6 (b) A proposal for development of middle housing that is in compliance or must comply with the
+7 Oregon residential specialty code and land use regulations under ORS 197A.420 (5) that are appli-
+8 cable to the original lot or parcel and which may consist of:
+9 (A) A single duplex, triplex, quadplex, cottage cluster or structure containing townhouses;
+10 (B) Additional units as allowed by ORS 197A.421 (3); and
+11 (C) Retained or rehabilitated existing units allowed under ORS 197A.420 (4), if any;
+12 (c) Proposed easements necessary for each dwelling unit on the plan for:
+13 (A) Locating, accessing, replacing and servicing all utilities;
+14 (B) Pedestrian access from each dwelling unit to a private or public road;
+15 (C) Any common use areas or shared building elements;
+16 (D) Any dedicated driveways or parking; and
+17 (E) Any dedicated common area;
+18 (d) Exactly one dwelling unit on each resulting lot or parcel, except for:
+19 (A) Lots, parcels or tracts used as common areas; or
+20 (B) Lots or parcels with a detached single-unit dwelling and accessory dwelling unit or a duplex
+21 as allowed under ORS 197A.420 (4); and
+22 (e) Evidence demonstrating how buildings or structures on a resulting lot or parcel will comply
+23 with applicable building codes provisions relating to new property lines and, notwithstanding the
+24 creation of new lots or parcels, how structures or buildings located on the newly created lots or
+25 parcels will comply with the Oregon residential specialty code.
+26 (3) A city or county may add conditions to the approval of a tentative plan for a middle housing
+27 land division to:
+28 (a) Subject to subsection (6) of this section, prohibit the further division of the resulting lots or
+29 parcels.
+30 (b) Require that a notation appear on the final plat indicating that the approval was given under
+31 this section.
+32 (4) In reviewing an application for a middle housing land division, a city or county:
+33 (a) Shall apply the procedures applicable to an expedited land division under ORS 197A.140, if
+34 requested by the applicant and without regard to the criteria in ORS 197A.142 (1).
+35 (b) May require street frontage improvements where a resulting lot or parcel abuts the street
+36 consistent with land use regulations implementing ORS 197A.420.
+37 (c) May not subject an application to approval criteria except as provided in this section, in-
+38 cluding that a lot or parcel require driveways, vehicle access, parking or minimum or maximum
+39 street frontage.
+40 (d) May not subject the application to procedures, ordinances or regulations adopted under ORS
+41 92.044 or 92.046 that are inconsistent with this section or, only if requested by the applicant, ORS
+42 197A.140.
+43 (e) Shall allow the submission of an application for a tentative plan for a middle housing land
+44 division before, after or at the same time as the submission of an application for building permits
+45 for the middle housing.
+[24]
+
+HB 4037
+1 (f) May require the dedication of right of way if the original parcel did not previously provide
+2 a dedication.
+3 (g) May require separate water and wastewater utilities for each dwelling unit.
+4 (h) Shall allow any existing units allowed under ORS 197A.420 (4) to be considered a single
+5 middle housing unit and allow for the unit to be allocated its own lot or parcel by the division.
+6 (5) The type of middle housing developed on the original parcel is not altered by a middle
+7 housing land division.
+8 (6) Notwithstanding ORS 197A.425 (1) and subsection (4)(d) and (e) of this section, a city or
+9 county may prohibit or add approval criteria to the allowance of a new accessory dwelling unit on,
+10 or a subsequent middle housing land division of, a lot or parcel resulting from a middle housing land
+11 division:
+12 (a) To the extent allowed under this section and ORS 197A.420; and
+13 (b) Provided that the middle housing land division lots or parcels may be used to create housing
+14 that is at or above the minimum density for the zoning of the land.
+15 (7) Notwithstanding any other provision of ORS 92.010 to 92.192, within the same calendar year
+16 as an original partition that was not a middle housing land division, a city or county may allow one
+17 or more of the resulting vacant parcels to be further partitioned into not more than three parcels
+18 through a middle housing land division.
+19 (8) The tentative approval of a middle housing land division is void if and only if a final subdi-
+20 vision or partition plat is not approved within:
+21 (a) Three years [of] following the tentative approval; or
+22 (b) A period equal to that allowed by the city or county for the plat or plan that is sub-
+23 mitted concurrently with the division as described in ORS 92.044.
+24 (9) Nothing in this section prohibits a city or county from requiring a final plat before issuing
+25 building permits.
+26 SECTION 26. ORS 197A.140 is amended to read:
+27 197A.140. Notwithstanding any other requirement applicable to a land use decision under ORS
+28 chapter 197 or 197A, for an application that is reviewed as an expedited land division based on the
+29 request of the applicant:
+30 (1) A decision is not subject to the requirements of ORS 197.797.
+31 (2) A local government:
+32 (a) Shall make a decision to approve or deny the application within 63 days of receiving a
+33 completed application as described in ORS [215.246] 215.427 or 227.178, based on whether the ap-
+34 plication satisfies the substantive requirements of the applicable land use regulations. An approval
+35 may include conditions to ensure that the application meets the applicable land use regulations.
+36 (b) May not hold a hearing on the application or allow any third party to intervene to oppose
+37 the application.
+38 (c) Shall issue a written determination of compliance or noncompliance with applicable land use
+39 regulations that includes a summary statement explaining the determination. The summary state-
+40 ment may be in any form reasonably intended to communicate the local government’s basis for the
+41 determination. The determination must include an explanation of the applicant’s right to appeal the
+42 determination under ORS 197.830 to 197.855.
+43 (d) Shall provide notice of the decision to the applicant but may not require that notice be given
+44 to any other person.
+45 (e) May assess an application fee calculated to recover the estimated full cost of processing an
+[25]
+
+HB 4037
+1 application based on the estimated average cost of such applications. Within one year of establishing
+2 a fee under this section, the city or county shall review and revise the fee, if necessary, to reflect
+3 actual experience in processing expedited land decisions.
+4 (3) Only the applicant may appeal an expedited land division made under this section.
+5 SECTION 27. Section 22, chapter 476, Oregon Laws 2025, is amended to read:
+6 Sec. 22. (1) On or before January 1, 2028, the Land Conservation and Development Commission
+7 shall adopt rules that must include:
+8 (a) Prohibiting or restricting siting and design standards that prevent or discourage, or have the
+9 effect of preventing or discouraging, the siting of middle housing that is manufactured, site-built or
+10 prefabricated;
+11 (b) Establishing parameters on unreasonable cost or delay for siting and design standards for
+12 accessory dwelling units and single room occupancies under standards allowed under ORS 197A.425
+13 and 197A.430;
+14 (c) Regulating cottage clusters for the purposes of incentivizing the provision of smaller, less
+15 expensive housing, shared community amenities and other public benefits and including regulations
+16 that implement the term “small footprint or floor area” as used within the definition of cottage
+17 clusters in ORS 197A.420;
+18 (d) Amending siting and design parameters for middle housing types;
+19 (e) Amending permissible discretionary criteria applied by local government in evaluating
+20 housing under ORS 197A.400 (3);
+21 (f) Developing model system development charges for residential development types for optional
+22 adoption or incorporation by local governments; and
+23 (g) Establishing procedures to estimate the reasonable zoned housing capacity of an area as part
+24 of an inventory of buildable lands or housing capacity under ORS 197A.270, 197A.280 and 197A.350.
+25 (2) In adopting rules under this section, the commission shall:
+26 (a) Emphasize improving the efficiency of the development process with a focus on increasing
+27 housing production, availability and affordability, especially that of middle housing, accessory
+28 dwelling units and single room occupancies.
+29 (b) To the extent practicable, implement recommendations in the reports produced under section
+30 5 (1) to (3), chapter 110, Oregon Laws 2024.
+31 (c) Implement the principles in ORS 197A.025.
+32 (d) Adopt operative and applicable dates for the rules, subject to section 3, chapter 639, Oregon
+33 Laws 2019.
+34 [(e)] (3) The Department of Land Conservation and Development shall provide a report on
+35 or before July 1, 2028, to the interim committees of the Legislative Assembly relating to land use,
+36 in the manner provided in ORS 192.245, on the feasibility and advisability of providing safe harbor
+37 protections for cities that use the commission’s model system development charges under subsection
+38 (1)(f) of this section or otherwise incentivizing the use of the models.
+39
+40 CAPTIONS
+41
+42 SECTION 28. The unit captions used in this 2026 Act are provided only for the conven-
+43 ience of the reader and do not become part of the statutory law of this state or express any
+44 legislative intent in the enactment of this 2026 Act.
+45
+[26]
+
+HB 4037
+1 EFFECTIVE DATE
+2
+3 SECTION 29. This 2026 Act takes effect on the 91st day after the date on which the 2026
+4 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+5
+[27]
+
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T T A c s h p a a l a r a h:6 r l p f c a c t f agp s a t a t o a g m t t N f O A t p u w l g m r s h d s a t g p t h p w t s r t h c n p a O 9 1 1 1 2 2 2 2 2 3 3 3 3 3 1.S 2 o t 2 A i a t a m a p o O 3 t 2.( A u i O 3 t 3 “ h p m  A t h w l i o m i a t t a I f p a s d m h a d i O o a m d t i a a d i p ( o t:M[]]
+[DELETED: B4 N p ( o “ l m a l m b t H a C S D “ “ c a “ a p t c h o l i o m i a t t a d iS4 I f p a s a p t b e b t H a C S D t s j o n l t t t o t a l r t t f;o 1 p o t a m i s a t b m f a p t b]
+[DELETED: B4 t o e h p p t w [] p p g a “ l m a l m b a s j u a p f j s c w r t b i o p a d i a t t][][)Sna] ( M i r f e c i f u[] t R t p t r a i a w s;a a i w o i p o t a c e a s p o t e h p p o a p o t]
+[DELETED: B4 a s o r a t t d u O 3 t d t i g e u O 3 m n b g a o e e o s a o a v p t  t t e  s j m n a a p g t a d a E h p p t i l i a u r a m n b A s j m a a o o r a p t t.  A o i d o a t t s j c o t s s b o a f p[] t t o o t c i w t e h p p i l]
+[DELETED: B4 R t t c t o p t t s j t i T y f J 1 o t f p t y f w t c e S t a o t p f t m b a t t d u O ( b m t i d u O T s j s f p a a t t] T d s r t p a a f c i T s j s n e a a t d o t f a T r o a a a t a o a g a o b a s j t d m a t s j ( T H a C S D s d a p t a l t s j t f p g a p l a F e a a u O 3 ( t H a C S]
+[DELETED: B4 E i a a l a w t s j P t t s j t t a s f i p ( o t s A a n g t f p o t a l p t r t j f t c o a t p f p o t t w t s j i s t r t c f t c o t t A m s o r t t o c a o r C w t O B D D a a o t p a c o t H a C S D b o c f t a o O 3 ( U e i a a l a w t H a C D u O 3 a s j s o a p f A r u O 3 t 3 o t o o r a b t b t U p t]]
+[DELETED: B4]]] ( A s d t t p f h b a i r t t[] o r r u s ( o t s b e t s j s d t a l p r f t d u a o m t s j c n f t t o m a [] s j w o p T d m t a a w r t a c o c a ni p [] a a o o f t s j u O 3 ( t g e u s t e h p p t a o t c i w e A a t t n p i t t a a w r t t s j s f t a e T p t o t e e h p p t w h b[] T d]
+[DELETED: B4 e h p p h b d f t e u s F e t y t t e h p p i e f t t T p n o p t y f w t e i g w b t t o t a l a r t t e h p s uS3 t w t a l r o a a d o o c a t e h A d t d o c u p ( o t s t s[] U p i f o a a l t a a r a t t e h p p t ( U r o t a l m f u O 3 t f p f e h p p t h b e u O 3 s p a a f f t t t s b t T a o t f f t f p t y t e T a c d i O 3 ( d[] F e s p t y t a o t f s b 1 p o t]
+[DELETED: B4 j s c t t a e f a t b d u t a e i t s m a a v p t F e p t y i w a f i p u t s t t i O 3 l b f d t w h b c o e h[] t H P R L F e u O 3 i r o ted i i t e h p p o t d o w i f u t s r t o o t s j t o A f a c i e o t a l a ( A d t r a p [] f a u O 3 d h n c t e h p w t y f[][]
+[DELETED: B4[] I t s j d t a d w m a f s o e h p t s j m i o A s j m i o a d h o o p w r t a e r w m a f s o m o w T s j s p w n o a a t b d s ( a ( o t s t t c t o a t H a C a d a t H a C S D s a s a c o t O H S C b n t e o t s o l a m i a f h s a d b t H a C S D u U S D o T H a C S D s p o o m l t c t c m d p p a d p]
+[DELETED: B4 c d f i b t C D F I o s t s i i a a r a c]] ( M o r e b t d r f r a I i a l f t o n c h a m a d i O 6 l u o g a P o r m d p t w m t p a p C d e r o r p i p d b nld E w p l u p ( o t s t f o P t a o t p s r t p t w a m o b u b t n c f t m d p p p o s E n c s r t t m a l p b t m t l i o i o l m b t n c u s]
+[DELETED: B4 i s t l.T S o D o J m a t g a w H a a t o n l t f y n s 5 l t h p F r c o f t p a F c n r t a s p t o m r c f a p w t l E a p i p ( o t s t o s i s o s d c p t e a d t c o I a c h f a n o a w t L U B o A o h P t a t t l g u t t r o t.T n m i a i t a o r t s v]
+[DELETED: B4 o s T o s p t a f t l g t a t I a r f a e o o t L C a D t h l w t n o c o t c I a t r a o u a o i t n o t o r t l g t a a m c t h b a b r b t c d t T o m n i t n o t o e t a o t D o T a a o t i c w a o i o e a t m b e T L C w t g a c p p l u r]
+[DELETED: B4 a a i t c h g cob A i n i c w t g b t d s i O 1 o 1 f s A s a i n m s p i c o i c a c p o l u r I m i d u t t s t m T c s n j t i s u a o t f i d h e i a p o p o d t v a A g a s s c o a o s d[] j o a m s d h f t c t t c p o l u r t c w t r[][] o i e a t h c a d i O 1 ( t;o]
+[DELETED: B4 e a b a d a s b a p e r T e o a i c b t D o t D o C a S u O 4 a b q t e o a t f d T d o m i e f l f a d a f t ( E a p i s ( o t s a l g m[] M n h t e e i t o c o d n a b a c t a i b r a m o a b t C a D A u c d i a c a c p A a o p f r d i a a i i a f o A a o p f r d i h a d f p a p a p i s ( o t s a l g m a a a a a]
+[DELETED: B4 T a r t o o p u t a p t m t T a c f t a a p a a d a o a s t s ( o t s M g n o a a o a a t t o o r o a a l a r o n o a a a e a p i 1 d f a a f t d o a h a p i O;[] w o e w i i m w 3 d o r o t a a i T a i d c f t S o t m i a w]
+[DELETED: B4 A o d o a a t w c w f s o d U t s a c t F a a r t d o h w a u g b;o T a m a s u s ( o t s i r t sr P a f e t c a c i b t c t a t S a n a o d i u i r i r b t r a o c i i o l i t a R r p o h t a i t t c i src S o t m i a w n t n o i w b p;o O t d w w t a a c o t g b o t;a U t p h a t m a d i]
+[DELETED: B4 r t i s t t D o t D o L C a D a u g b w t c h t a t a a I t g b o t c o i d d n p o 5 p o t t a o s f o d.H t a i r f t c o p s a ( o t s o O 2 a a c f A p c o a l d a m h l d a d i O4( 1 d f a a f t d o a h a p i O;[] w o e w i i m w 3 d o r o t a a i T a i d c f t]
+[DELETED: B4 S o t m i a w A o d o a a t w c w f s o d U t s a c t F a a r t d o h w a u g b T c d t a i i n r S a n a o d i u i r i r t r a o c i i o l i t a o R r p o h t a i t t c i src S o t m i a w n t n o i w b p;o U t p h a t m a d i]
+[DELETED: B4 c m a c t a a c p o a l r t i s t t D o t D o L C a D A d o a c i a a f t d o r s g T a i n l f a g o s f o d H t a i r f t c o p a i t a r i i i t c o t t a w 3 c d o r t r A a d a n p u t p t c s a t  o a I t c o i d p t c s a r a o a d i t a a t c a t a d c t a wem A p c o a l d a m h l d a d i O]
+[DELETED: B44( 2.S 2 o t 2 A.I T l s p t O 9 r t t t a d a A u i t s a d u i c i w a g [] I i t p o t S o O t h i s o n I s b s r p t i n t c o b w a f f d o p s b s t a s p t w e I t s r p t s o l t t e c w[]]
+[DELETED: B4 p o t e i T d o a a t d s] t [] o)f o a o s a] w d g t 8 p o t m f i f t c i w t r p i][]);] i[] U  r p o a e i i r p s o t t tn, a p p o b p w r t t] p i O 2 i t p h a a v e]] a R D a a p w t a p c]
+[DELETED: B4 o A S t t s a i t a t r p s a i t a r p o a i i r p t d a I a w r t O D o A S] a f t s i t t m s a o t t f t][])(lp] N t p o s ( o t s p a b] 2 2 R p t t O H A o[] d e o l t a e I t a d i O 3 a r]
+[DELETED: B4 A r u O 1 ( t a a a b c p r t n p l a n t o n l o p h s o b l o t n c l oss S a t p i w a r l o p a t s M n s a a t a c e a p i t s i t a l o p r d v a p o m o mtf p f a m h l b a o a t s t a t s o a]
+[DELETED: B4 S a a e u a u O 1 ( t b c a s T t o m h d o t o p i n a b a m N O 1 ( a s ( a ( o t s a c o n m t t p[] u O S m a d t a o d t a w 6 d o r  a a d i O [] 2 o 2 b o w t a oea t i a s s e t d T s s]
+[DELETED: B4 E p o u c o d f s a d s f R c c f t p o i t p o s l i t t “ f o f a a u w t d o c A p d c a b l g i e E i t e o t d p w a f o i p a a a e t o m h a] t l u.T]
+[DELETED: B4ED.T]

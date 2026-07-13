@@ -1,0 +1,1019 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4109
+Sponsored by Representatives SKARLATOS, ELMER; Representatives BOICE, EDWARDS, HARBICK, LEVY B,
+LEWIS, MCLAIN, SCHARF, Senator SMITH DB (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would repeal the law that allows UI benefits to be paid to a person who is
+unemployed due to an active strike. (Flesch Readability Score: 69.6).
+Repeals Enrolled Senate Bill 916 (2025), which authorized unemployment insurance benefits for
+individuals who are unemployed due to a strike.
+1 A BILL FOR AN ACT
+2 Relating to unemployment insurance benefits; amending ORS 657.010, 657.153, 657.176, 657.200,
+3 657.202, 657.310, 657.317 and 657.400; and repealing ORS 657.203.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 657.200 is amended to read:
+6 657.200. [(1) Notwithstanding the provisions of this chapter relating to availability for work, ac-
+7 tively seeking work or refusal to accept suitable work, an individual who is otherwise eligible for
+8 benefits is not disqualified for benefits or waiting week credit for any week with respect to which the
+9 Director of the Employment Department finds that the unemployment of the individual is due to a
+10 lockout that is in active progress at the factory, establishment or other premises at which the individual
+11 is or was last employed or at which the individual claims employment rights by union agreement or
+12 otherwise.]
+13 [(2)(a) An individual is disqualified for benefits for the first week with respect to which the Di-
+14 rector of the Employment Department finds that the unemployment of the individual is due to a strike
+15 that is in active progress at the factory, establishment or other premises at which the individual is or
+16 was last employed or at which the individual claims employment rights by union agreement or other-
+17 wise.]
+18 [(b) Notwithstanding the provisions of this chapter relating to availability for work, actively seeking
+19 work or refusal to accept suitable work, after the first week, an individual described in paragraph (a)
+20 of this subsection who is otherwise eligible for benefits is not disqualified for benefits or waiting week
+21 credit for:]
+22 [(A) If the tax schedule in effect on the date on which the strike begins is Fund Adequacy Per-
+23 centage Ratio I, II, III or IV, any of the subsequent 10 weeks of unemployment due to the strike.]
+24 [(B) If the tax schedule in effect on the date on which the strike begins is Fund Adequacy Per-
+25 centage Ratio V, VI, VII or VIII, any of the subsequent eight weeks of unemployment due to the
+26 strike.]
+27 (1) An individual is disqualified for benefits for any week with respect to which the Di-
+28 rector of the Employment Department finds that the unemployment of the individual is due
+29 to a labor dispute that is in active progress at the factory, establishment or other premises
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 217
+HB 4109
+1 at which the individual is or was last employed or at which the individual claims employment
+2 rights by union agreement or otherwise.
+3 (2) When an employer operates two or more premises in the conduct of business they
+4 shall be considered one premises for the purposes of this chapter if the labor dispute at one
+5 makes it impossible or impractical to conduct work at the others or in a normal manner.
+6 (3) This section does not apply if it is shown to the satisfaction of the director that the
+7 individual:
+8 (a) Is unemployed due to a lockout, as defined in ORS 662.205, at the factory, establish-
+9 ment or other premises at which the individual was last employed; or
+10 (b)(A) Is not participating in or financing or directly interested in the labor dispute that
+11 caused the unemployment of the individual; and
+12 (B) Does not belong to a grade or class of workers of which, immediately before the
+13 commencement of the labor dispute, there were members employed at the premises at which
+14 the labor dispute occurs, any of whom are participating in or financing or directly interested
+15 in the dispute.
+16 (4) An individual who meets all other applicable benefit eligibility requirements of this
+17 chapter is not disqualified from receipt of benefits by this section if:
+18 (a) The individual was laid off from the employer prior to commencement of the labor
+19 dispute, did not work for the employer more than seven days during the 21 calendar days
+20 immediately prior to the commencement of the labor dispute and meets the requirements
+21 of subsection (3)(b)(A) of this section; or
+22 (b) During the labor dispute, the individual’s job or position is filled by the employer
+23 hiring a permanent replacement and the following conditions are met:
+24 (A) The individual subsequently unilaterally abandons the labor dispute and affirmatively
+25 seeks reemployment with the employer; and
+26 (B) The individual meets the requirements of subsection (3)(b)(A) of this section.
+27 (5) An individual who maintains membership in a labor union or who continues to pay
+28 labor union dues does not violate the provisions of subsection (3)(b)(A) of this section for the
+29 purposes of subsection (4) of this section.
+30 SECTION 2. ORS 657.010 is amended to read:
+31 657.010. As used in this chapter, unless the context requires otherwise:
+32 (1) “Base year” means the first four of the last five completed calendar quarters preceding the
+33 benefit year.
+34 (2) “Benefits” means the money allowances payable to unemployed persons under this chapter.
+35 (3) “Benefit year” means a period of 52 consecutive weeks commencing with the first week with
+36 respect to which an individual files an initial valid claim for benefits, and thereafter the 52 consec-
+37 utive weeks period beginning with the first week with respect to which the individual next files an
+38 initial valid claim after the termination of the individual’s last preceding benefit year except that
+39 the benefit year shall be 53 weeks if the filing of an initial valid claim would result in overlapping
+40 any quarter of the base year of a previously filed initial valid claim.
+41 (4) “Calendar quarter” means the period of three consecutive calendar months ending on March
+42 31, June 30, September 30 or December 31, or the approximate equivalent thereof, as the Director
+43 of the Employment Department may, by rule, prescribe.
+44 (5) “Client employer” means an employer that enters into a PEO relationship.
+45 (6) “Client worker” means an individual who performs services for compensation for the client
+[2]
+HB 4109
+1 of a professional employer organization.
+2 (7) “Contribution” or “contributions” means the money payments required by this chapter, or
+3 voluntary payments permitted, to be made to the Unemployment Compensation Trust Fund.
+4 (8) “Covered employee” means a client worker for whom a PEO has assumed employer respon-
+5 sibilities under a PEO relationship.
+6 (9) “Educational institution,” including an institution of higher education, means an institution:
+7 (a) In which participants, trainees or students are offered an organized course of study or
+8 training designed to transfer to them knowledge, skills, information, doctrines, attitudes or abilities
+9 from, by or under the guidance of an instructor or teacher;
+10 (b) That is accredited, registered, approved, licensed or issued a permit to operate as a school
+11 by the Department of Education or other government agency, or that offers courses for credit that
+12 are transferable to an approved, registered or accredited school;
+13 (c) In which the course or courses of study or training that it offers may be academic, technical,
+14 trade or preparation for gainful employment in a recognized occupation; and
+15 (d) In which the course or courses of study or training are offered on a regular and continuing
+16 basis.
+17 (10) “Employment office” means a free public employment office or branch thereof, operated by
+18 this state or maintained as a part of a state-controlled system of public employment offices.
+19 (11) “Hospital” has the meaning given that term in ORS 442.015.
+20 (12) “Institution of higher education” means an educational institution that:
+21 (a) Admits as regular students only individuals having a certificate of graduation from a high
+22 school, or the recognized equivalent of such a certificate;
+23 (b) Is legally authorized in this state to provide a program of education beyond high school;
+24 (c) Provides an educational program for which it awards a bachelor’s or higher degree, or pro-
+25 vides a program that is acceptable for full credit toward such a degree, a program of post-graduate
+26 or post-doctoral studies, or a program of training to prepare students for gainful employment in a
+27 recognized occupation; and
+28 (d) Is a public or other nonprofit institution.
+29 (13) “Instructional capacity” does not include services performed as an instructional assistant
+30 as defined in ORS 342.120.
+31 (14) “Internal Revenue Code” means the federal Internal Revenue Code, as amended and in ef-
+32 fect on December 31, 2023.
+33 [(15) “Labor dispute” means any concerted or deliberate action by two or more individuals or by
+34 an employing unit resulting in either a strike or lockout in which wages, hours, working conditions or
+35 terms of employment of the individuals are involved.]
+36 [(16) “Lockout” means any refusal by an employer to permit employees to work as a result of a
+37 dispute with the employees affecting wages, hours or other terms or conditions of their employment.]
+38 [(17)] (15) “Nonprofit employing unit” means an organization, or group of organizations, de-
+39 scribed in section 501(c)(3) of the Internal Revenue Code that is exempt from income tax under
+40 section 501(a) of the Internal Revenue Code.
+41 [(18)] (16) “PEO relationship” means an agreement between a PEO and a client employer under
+42 which certain employer responsibilities for some or all of the client employer’s workers are allo-
+43 cated.
+44 [(19)(a)] (17)(a) “Professional employer organization” or “PEO” means a person required to be
+45 licensed under ORS 656.855 that enters into a PEO relationship with a client employer.
+[3]
+HB 4109
+1 (b) “Professional employer organization” or “PEO” does not mean a person that solely provides
+2 workers to a client on a temporary basis or a person that provides payroll processing or similar
+3 administrative services without assuming employer responsibilities for client workers.
+4 [(20)] (18) “State” includes, in addition to the states of the United States of America, the District
+5 of Columbia and Puerto Rico. However, for all purposes of this chapter the Virgin Islands shall be
+6 considered a state on and after the day on which the United States Secretary of Labor first approves
+7 the Virgin Islands’ law under section 3304(a) of the Federal Unemployment Tax Act as amended by
+8 Public Law 94-566.
+9 [(21) “Strike” means any concerted act of employees in a lawful refusal under applicable state or
+10 federal law to perform work or services for an employer.]
+11 [(22)] (19) “Taxes” means contributions.
+12 [(23)] (20) “Temporary basis” means providing workers to a client:
+13 (a) For special situations, including but not limited to employee absences, employee leaves,
+14 professional skill shortages, seasonal workloads and special assignments and projects with the ex-
+15 pectation that the position will be terminated when the special situation ends.
+16 (b) As probationary new hires with a reasonable expectation of transitioning to permanent em-
+17 ployment with the client, if the client uses a preestablished probationary period in its overall em-
+18 ployment selection program.
+19 [(24)] (21) “Valid claim” means any claim for benefits made in accordance with ORS 657.260 if
+20 the individual meets the wages-paid-for-employment requirements of ORS 657.150.
+21 [(25)] (22) “Week” means any period of seven consecutive calendar days ending at midnight, as
+22 the director may prescribe by rule.
+23 SECTION 3. ORS 657.153 is amended to read:
+24 657.153. [(1) Except as provided in subsection (2) of this section,] The amount of back pay paid
+25 by an employer, or awarded by a judge or arbitrator, to an individual may not be reduced to reflect
+26 the amount of benefits that the individual received for the period for which the back pay was paid
+27 or awarded.
+28 [(2) Subsection (1) of this section does not apply to back pay paid to resolve a strike by an employer
+29 to an employee who received benefits for the period during which the strike was in active progress.]
+30 SECTION 4. ORS 657.310 is amended to read:
+31 657.310. [(1)] (1)(a) [This section applies to an individual who, according to a decision of] If the
+32 Director of the Employment Department[,] decides that an individual received any benefits to
+33 which the individual is not entitled because the individual, [:]
+34 [(a)] regardless of the individual’s knowledge or intent, made or caused to be made a false
+35 statement or misrepresentation of a material fact, or failed to disclose a material fact, [; or]
+36 [(b) Notwithstanding ORS 657.315, received back pay from an employer to resolve a strike.]
+37 [(2)(a)] [An] the individual [described in subsection (1) of this section] is liable:
+38 (A) To repay the amount of the benefits to the director for the Unemployment Compensation
+39 Trust Fund; or
+40 (B) To have the amount of the benefits deducted from any future benefits otherwise payable to
+41 the individual under this chapter.
+42 (b) For purposes of paragraph (a)(B) of this subsection, the director may deduct all or any part
+43 of the individual’s future weekly benefits.
+44 (c) Except as provided in subsection [(3)(b)] (2)(b) of this section, [an overpayment of] benefits
+45 described in paragraph (a) of this subsection [(1) of this section] may be collected for any week or
+[4]
+HB 4109
+1 weeks within five years following the week in which the decision establishing the erroneous pay-
+2 ment became final.
+3 (d) Notice provided to an individual of the individual’s liability for recovery of benefits under
+4 this section must include a description of:
+5 (A) The basis for the director’s decision that benefits have been overpaid; and
+6 (B) The consequences of the overpayment, including the methods of recovery of the overpaid
+7 amount, with interest and penalties, and the possibility of waiver under ORS 657.317.
+8 [(3)(a)] (2)(a) In addition to the liability described in subsection [(2)] (1) of this section, an in-
+9 dividual who has been disqualified for benefits under ORS 657.215 is liable for a penalty imposed at
+10 a rate prescribed by the director of at least 15, but not greater than 30, percent of the amount of
+11 benefits the individual received to which the individual was not entitled.
+12 (b) Notwithstanding subsection [(2)(c)] (1)(c) of this section, overpaid benefits that are subject
+13 to the penalty imposed under this subsection may be collected at any time.
+14 [(4)] (3) A decision of the director under this section does not authorize the recovery of the
+15 amount of any benefits paid to an individual until the decision is final and the decision specifies [the
+16 week or weeks for which the benefits were paid and]:
+17 [(a)(A)] (a) That the individual, by reason of the false statement, misrepresentation or
+18 nondisclosure, is liable to repay the amount to the Unemployment Compensation Trust Fund; [and]
+19 [(B)] (b) The nature of the false statement, misrepresentation or nondisclosure; [or] and
+20 [(b) That the individual, by reason of the receipt of back pay as described in subsection (1)(b) of
+21 this section, is liable to repay the amount to the Unemployment Compensation Trust Fund.]
+22 (c) The week or weeks for which the benefits were paid.
+23 [(5)(a)] (4)(a) The director may bring a civil action against an individual to collect any amount
+24 subject to recovery and any penalty due under this section.
+25 (b) Judgment rendered shall bear interest at the rate provided in subsection [(6)] (5) of this
+26 section.
+27 [(6)] (5) Interest on any amount liable to be repaid under this section shall be paid and collected
+28 at the same time repayment of benefits is made by the individual, at the rate of one percent per
+29 month or fraction of a month, beginning on the first day of the month following 60 days after the
+30 finality of the administrative decision establishing the overpayment.
+31 [(7)(a)] (6)(a) Deductions from unemployment insurance benefits pursuant to subsection
+32 [(2)(a)(B)] (1)(a)(B) of this section shall be applied solely to the amount of the benefits liable to be
+33 repaid under this section.
+34 (b) All other payments shall be applied first to court costs, then to penalties, then to interest,
+35 then to the amount liable to be repaid.
+36 [(8)(a)] (7)(a) The following amounts collected under this section shall be paid into the Unem-
+37 ployment Compensation Trust Fund:
+38 (A) Amounts in repayment of benefits; and
+39 (B) The portion of penalties imposed under subsection [(3)] (2) of this section that is 15 percent
+40 of the amount of benefits received.
+41 (b) The following amounts collected under this section shall be paid into the Employment De-
+42 partment Special Fraud Control Fund in accordance with the provisions of ORS 657.400:
+43 (A) Interest other than interest described in paragraph (c) of this subsection; and
+44 (B) The portion of penalties imposed under subsection (3) of this section that remains after
+45 subtraction of the portion of penalties described in paragraph (a)(B) of this subsection.
+[5]
+HB 4109
+1 (c) Interest payable on any portion of benefits that were funded by the federal government shall
+2 be paid to the United States Department of Labor.
+3 [(9)] (8) The director shall adopt rules establishing standards and procedures for the repayment
+4 of benefits and payment of penalties and interest under this section.
+5 SECTION 5. ORS 657.317 is amended to read:
+6 657.317. (1) The Director of the Employment Department shall waive recovery of overpaid ben-
+7 efits under ORS 657.315 if the director finds that the benefits are recoverable due to a change in
+8 federal or state law, the application of which has caused the disqualification of benefits previously
+9 paid.
+10 (2)(a) Except as provided in paragraph (b) of this subsection, the director may waive recovery
+11 of all or any part of overpaid benefits subject to repayment or deduction under ORS 657.310 [(2)] (1)
+12 or 657.315 (1) if the director finds that recovery of the benefits would be against equity and good
+13 conscience.
+14 (b) The director may not waive recovery under this subsection of overpaid benefits that are[:]
+15 [(A) Described in ORS 657.310 (1)(b); or]
+16 [(B)] subject to the penalty imposed under ORS 657.310 [(3)] (2).
+17 (3) The director may waive establishment and recovery of overpaid benefits when no decision
+18 has been issued under ORS 657.310 or 657.315 and the amount of the overpayment is less than one-
+19 half of the maximum weekly benefit amount in effect at the time the overpayment is discovered.
+20 (4) Any waiver granted under this section extinguishes all liability of the debtor for the waived
+21 amounts.
+22 SECTION 6. ORS 657.203 is repealed.
+23 SECTION 7. ORS 657.176 is amended to read:
+24 657.176. (1) An authorized representative designated by the Director of the Employment De-
+25 partment shall promptly examine each claim to determine whether an individual is subject to dis-
+26 qualification as a result of a separation, termination, leaving, resignation or disciplinary suspension
+27 from work, or as a result of failure to apply for or accept work, and shall promptly enter a director’s
+28 decision if required by ORS 657.267. The authorized representative may address issues raised by
+29 information before the authorized representative, including but not limited to the nature of the
+30 separation, notwithstanding the way the parties characterize those issues.
+31 (2) An individual shall be disqualified from the receipt of benefits until the individual has per-
+32 formed service in employment subject to this chapter or the equivalent law of another state or
+33 Canada or as defined in ORS 657.030 (2) or as an employee of the federal government, for which
+34 remuneration is received that equals or exceeds four times the individual’s weekly benefit amount
+35 subsequent to the week in which the act causing the disqualification occurred, if the authorized
+36 representative designated by the director finds that the individual:
+37 (a) Has been discharged for misconduct connected with work;
+38 (b) Has been suspended from work for misconduct connected with work;
+39 (c) Voluntarily left work without good cause;
+40 (d) Failed without good cause to apply for available suitable work when referred by the em-
+41 ployment office or the director;
+42 (e) Failed without good cause to accept suitable work when offered;
+43 (f) Has been discharged or suspended for being absent or tardy in reporting to work and the
+44 absence or tardiness occurred as a result of the unlawful use of any drug unless the person was
+45 participating in a recognized drug rehabilitation program at the time of the absence or tardiness,
+[6]
+HB 4109
+1 or is so participating within 10 days after the date of the discharge or suspension, and the person
+2 provides to the Employment Department documentation of program participation. As used in this
+3 paragraph, “unlawful use” does not include the use of a drug taken under the supervision of a li-
+4 censed health care professional and in accordance with the prescribed directions for consumption,
+5 or other uses authorized by the laws of this state;
+6 (g) Has been discharged or suspended for being absent or tardy in reporting to work and the
+7 absence or tardiness occurred as the result of the use of alcohol or cannabis on a second or any
+8 subsequent occasion within a period of 12 months unless the person was participating in a recog-
+9 nized alcohol or cannabis rehabilitation program at the time of the absence or tardiness, or is so
+10 participating within 10 days after the date of the discharge or suspension, and the person provides
+11 to the department documentation of program participation; or
+12 (h) Has committed a disqualifying act described in subsection (8) or (9) of this section.
+13 (3) If the authorized representative designated by the director finds that an individual was dis-
+14 charged for misconduct because of the individual’s commission of a felony or theft in connection
+15 with the individual’s work, all benefit rights based on wages earned prior to the date of the dis-
+16 charge shall be canceled if the individual’s employer notifies the director of the discharge within
+17 10 days following issuance of the notice provided for in ORS 657.265 or 30 days following issuance
+18 of the notice provided for in ORS 657.266, and:
+19 (a) The individual has admitted commission of the felony or theft to an authorized representative
+20 of the director;
+21 (b) The individual has signed a written admission of the felony or theft and the written admis-
+22 sion has been presented to an authorized representative of the director; or
+23 (c) The felony or theft has resulted in a conviction by a court of competent jurisdiction.
+24 (4) An individual may not be disqualified from receiving benefits under subsection (2)(c) or (e)
+25 of this section or ORS 657.200 if the individual ceases work or fails to accept work when a collec-
+26 tive bargaining agreement between the individual’s bargaining unit and the individual’s employer is
+27 in effect and the employer unilaterally modifies the amount of wages payable under the agreement,
+28 in breach of the agreement.
+29 (5)(a) For purposes of subsection (2) of this section, a separation from work shall be adjudicated
+30 as if an actual voluntary leaving had not occurred and a planned voluntary leaving had occurred
+31 if an individual has notified an employer that the individual will leave work on a specific date and
+32 it is determined that:
+33 (A) The separation would be for reasons that constitute good cause;
+34 (B) The individual voluntarily left work without good cause prior to the date of the impending
+35 good cause voluntary leaving date; and
+36 (C) The actual voluntary leaving of work occurred no more than 15 days prior to the planned
+37 date of voluntary leaving.
+38 (b) Notwithstanding paragraph (a) of this subsection, the individual shall be ineligible for bene-
+39 fits for the period including the week in which the actual voluntary leaving occurred through the
+40 week prior to the week of the planned good cause voluntary leaving date.
+41 (6)(a) For purposes of subsection (2) of this section, a separation from work shall be adjudicated
+42 as if a voluntary leaving had not occurred and a discharge had occurred if an employer has notified
+43 an individual that the individual will be discharged on a specific date and it is determined that:
+44 (A) The discharge would not be for reasons that constitute misconduct connected with the work;
+45 (B) The individual voluntarily left work without good cause prior to the date of the impending
+[7]
+HB 4109
+1 discharge; and
+2 (C) The voluntary leaving of work occurred no more than 15 days prior to the date of the im-
+3 pending discharge.
+4 (b) Notwithstanding paragraph (a) of this subsection, the individual shall be ineligible for bene-
+5 fits for the period including the week in which the voluntary leaving occurred through the week
+6 prior to the week in which the individual would have been discharged.
+7 (7)(a) For purposes of subsection (2) of this section, a separation from work shall be adjudicated
+8 as if a discharge had not occurred and a planned voluntary leaving had occurred if an individual
+9 has notified an employer that the individual will leave work on a specific date and it is determined
+10 that:
+11 (A) The voluntary leaving would be for reasons that do not constitute good cause;
+12 (B) The employer discharged the individual, but not for misconduct connected with work, prior
+13 to the date of the planned voluntary leaving; and
+14 (C) The actual discharge occurred no more than 15 days prior to the planned voluntary leaving.
+15 (b) Notwithstanding paragraph (a) of this subsection, the individual shall be eligible for benefits
+16 for the period including the week in which the actual discharge occurred through the week prior
+17 to the week of the planned voluntary leaving date.
+18 (8)(a) For the purposes of subsection (2) of this section, an individual is considered to have
+19 committed a disqualifying act when the individual:
+20 (A) Fails to comply with the terms and conditions of a reasonable written policy established by
+21 the employer or through collective bargaining, which may include blanket, random, periodic and
+22 probable cause testing, that governs the use, sale, possession or effects of drugs, cannabis or alcohol
+23 in the workplace;
+24 (B) Fails or refuses to take a drug, cannabis or alcohol test as required by the employer’s rea-
+25 sonable written policy;
+26 (C) Refuses to cooperate with or subverts or attempts to subvert a drug, cannabis or alcohol
+27 testing process in any employment-related test required by the employer’s reasonable written policy,
+28 including but not limited to:
+29 (i) Refusal or failure to complete proper documentation that authorizes the test;
+30 (ii) Refusal or failure to sign a chain of custody form;
+31 (iii) Presentation of false identification;
+32 (iv) Placement of an adulterant in the individual’s specimen for testing, when the adulterant is
+33 identified by a testing facility; or
+34 (v) Interference with the accuracy of the test results by conduct that includes dilution or
+35 adulteration of a test specimen;
+36 (D) Is under the influence of intoxicants while performing services for the employer;
+37 (E) Possesses cannabis or a drug unlawfully or in violation of the employer’s reasonable written
+38 policy during work;
+39 (F) Tests positive for alcohol, cannabis or an unlawful drug in connection with employment; or
+40 (G) Refuses to enter into or violates the terms of a last chance agreement with the employer.
+41 (b)(A) Except as provided in subparagraph (B) of this paragraph, an individual is not considered
+42 to have committed a disqualifying act under this subsection if the individual, on the date of sepa-
+43 ration or within 10 days after the date of separation, is participating in a recognized drug, cannabis
+44 or alcohol rehabilitation program and provides documentation of participation in the program to the
+45 department.
+[8]
+HB 4109
+1 (B) This paragraph does not apply to an individual who has refused to enter into or has violated
+2 the terms of a last chance agreement with the employer.
+3 (c) It is no defense or excuse under this section that the individual’s separation resulted from
+4 alcohol use, cannabis use, unlawful drug use, alcoholism or addiction to cannabis or drugs.
+5 (d) The department shall adopt rules to carry out the provisions of this subsection.
+6 (9) For the purposes of subsection (2) of this section, an individual is considered to have com-
+7 mitted a disqualifying act when the individual voluntarily leaves work, fails to apply for available
+8 suitable work when referred by the employment office or the director or fails to accept suitable
+9 work when offered:
+10 (a) Because the employer has or introduces a reasonable written cannabis-free or drug-free
+11 workplace policy that is consistent with subsection (8)(a)(A) of this section;
+12 (b) Because the employer requires the employee to consent to present or future drug, cannabis
+13 or alcohol tests under a reasonable written policy that is consistent with subsection (8)(a)(A) of this
+14 section;
+15 (c) To avoid taking a drug, cannabis or alcohol test under a reasonable written policy that is
+16 consistent with subsection (8)(a)(A) of this section; or
+17 (d) To avoid meeting the requirements of a last chance agreement.
+18 (10) An individual may not be disqualified from receiving benefits under subsection (2)(c) of this
+19 section and shall be deemed laid off if the individual:
+20 (a) Works under a collective bargaining agreement;
+21 (b) Elects to be laid off when the employer has decided to lay off employees; and
+22 (c) Is placed on the referral list under the collective bargaining agreement.
+23 (11) An individual may not be disqualified from receiving benefits under subsection (2)(c), (d) or
+24 (e) of this section or be considered unavailable for purposes of ORS 657.155 if:
+25 (a) The individual or a member of the individual’s immediate family is a victim of domestic vi-
+26 olence, stalking, sexual assault or a bias crime, or the individual believes that the individual or a
+27 member of the individual’s immediate family could become a victim of domestic violence, stalking,
+28 sexual assault or a bias crime; and
+29 (b) The individual leaves work, fails to apply for available suitable work or fails to accept suit-
+30 able work when offered in order to protect the individual or a member of the individual’s immediate
+31 family from domestic violence, stalking, sexual assault or a bias crime that the individual reasonably
+32 believes will occur as a result of the individual’s continued employment or acceptance of work.
+33 (12) For purposes of this section:
+34 (a) “Adulterant” means a substance that does not occur naturally in urine, or that occurs na-
+35 turally in urine but not at the concentrations detected. “Adulterant” includes but is not limited to
+36 glutaraldehyde, nitrite concentrations above physiological levels, hypochlorite or soap.
+37 (b) “Bias crime” means:
+38 (A) Conduct that, in the determination of the director, more likely than not constitutes a bias
+39 crime in the first degree described in ORS 166.165 or a bias crime in the second degree described
+40 in ORS 166.155; or
+41 (B) Similar conduct, as defined by the director by rule.
+42 (c) “Drug” means a controlled substance as defined in ORS 475.005.
+43 (d) “Last chance agreement” means a reasonable agreement:
+44 (A) Between an employer and an employee who has violated the employer’s reasonable written
+45 policy, has engaged in drug, cannabis or alcohol use connected with work or has admitted to alcohol
+[9]
+HB 4109
+1 abuse, cannabis abuse or unlawful drug use; and
+2 (B) That permits the employee to return to work under conditions that may require the em-
+3 ployee to:
+4 (i) Abstain from alcohol use, cannabis use and unlawful drug use; and
+5 (ii) Attend and comply with the requirements of a rehabilitation or education program accepta-
+6 ble to the employer.
+7 (e) “Under the influence of intoxicants” means the level of alcohol, cannabis or unlawful drugs
+8 present in an individual’s body exceeds the amount prescribed in a collective bargaining agreement
+9 or the amount prescribed in the employer’s reasonable written policy if there is no applicable col-
+10 lective bargaining agreement provision.
+11 SECTION 8. ORS 657.202 is amended to read:
+12 657.202. (1) As used in this section, “temporary lockout benefits” means benefits payable as
+13 provided in this section to individuals who are unemployed due to a lockout, as defined in ORS
+14 662.205.
+15 (2) An individual is eligible to receive temporary lockout benefits for a week in an amount equal
+16 to the weekly benefit amount of the individual’s most recent unemployment benefit claim if:
+17 (a) Prior to the week, the individual has received all of the regular benefits that were available
+18 to the individual under this chapter;
+19 (b) The individual is not eligible for any other benefits, including benefits provided under any
+20 federal law extending benefits beyond those provided for as regular benefits; and
+21 (c) At the time of filing an initial or additional claim, the individual is unemployed due to a
+22 lockout at the individual’s place of employment.
+23 (3) The maximum temporary lockout benefit amount an individual may receive under this section
+24 is 26 times the weekly benefit amount of the individual’s most recent unemployment benefit claim.
+25 (4) Notwithstanding subsections (2) and (3) of this section, temporary lockout benefits otherwise
+26 payable to an individual under this section may not be paid for weeks that begin after the week in
+27 which the lockout ends.
+28 (5) An employer shall be charged for temporary lockout benefits in the manner provided in this
+29 chapter for charging employers for regular benefits.
+30 SECTION 9. ORS 657.400 is amended to read:
+31 657.400. (1) There is established in the State Treasury, separate and distinct from the General
+32 Fund, the Employment Department Special Fraud Control Fund. The Employment Department Spe-
+33 cial Fraud Control Fund shall consist of moneys collected or received by the Employment Depart-
+34 ment as follows:
+35 (a) Interest and penalties described under ORS 657.310 [(8)(b)] (7)(b).
+36 (b) All gifts to, interest on or profits earned by the Employment Department Special Fraud
+37 Control Fund.
+38 (2) The moneys in the Employment Department Special Fraud Control Fund are continuously
+39 appropriated to the Employment Department and may not be appropriated, transferred or otherwise
+40 made available to any other state agency.
+41 (3) All amounts in the Employment Department Special Fraud Control Fund shall be used for
+42 the following purposes, as included in the biennial budget of the Employment Department and ap-
+43 proved by the Legislative Assembly:
+44 (a) Administrative costs associated with the prevention, discovery and collection of unemploy-
+45 ment benefit overpayments;
+[10]
+HB 4109
+1 (b) Costs associated with the Lost Wages Assistance program administered by the department
+2 pursuant to a grant agreement with the Federal Emergency Management Agency under authority
+3 established by the presidential memorandum issued on August 8, 2020, on the subject of Authorizing
+4 the Other Needs Assistance Program for Major Disaster Declarations Related to Coronavirus Dis-
+5 ease 2019; and
+6 (c) Administrative costs associated with other benefit programs administered by the department.
+7 (4) If, under subsection (3)(b) of this section, the Employment Department uses any amounts for
+8 the purpose of reimbursing the Federal Emergency Management Agency for overpayments of bene-
+9 fits under the Lost Wages Assistance program:
+10 (a) Any amounts of overpayments collected from the debtor by the department shall be deposited
+11 in the Employment Department Special Fraud Control Fund.
+12 (b)(A) The department may collect such overpayments under the provisions of this chapter as
+13 if the amounts were overpayments of regular benefits; or
+14 (B) The Director of the Employment Department may waive collection of such overpayments if
+15 the director determines that it is administratively impracticable to pursue collection.
+16
+[11]
+[DELETED:  B 4 b R S E R B E H L B c b t L A I i a e b s o t e f o t.T T A w r t l t a U b t b p t a p w i.( t u i b a O 6 6 6 6 N t p o t c r t a f w a s w o r t a s w a i w i o e f o t E D f t t u o t i i d t  l e o a w t i c e r b u a o A i i d f b f t f w w r t w t D o o I t t s i e o t d o w t s b i F A P I t t s i e o t d o w t s b i F A P R V V V o V,ayoftes e w o u d t t:M[]]
+[DELETED: B4 W a e o t o m p i t c o b t D n b t a g o c o w o w i b t A i w m a o a b e r o t l o f t e p t c o t l d n w f t e m t s d d t 2 c p t t c o t l d a m t r D t l d t i j o p i f b t e m m i a l u o w c t p v c a t t o t i l p b y e t J 3 S 3 o]
+[DELETED: B4 “ o “ m t m p r b t c o I w p t o s a o a o c o s o T i A a r s o i h a c o g f a h p s o a p o t t p s “ c d n i s p a a i a “ o m i o b “ m a r b a e t p e t w a a r o ] ( “ e u m a o o g o o d i s 5 o t I R C t i e f i t u] c e r f s o a o t c e w a a] ( “ e o o “ m]
+[DELETED: B4 t a c o a t b o a p t p p p o s]( “ m a c]] F s s i b n l t e a e l s s s w a s a a p w t e w t c i t c u a p p p] i][] T a o b p p E a p i s ( o t s[][]I t)T o t E D[] d t a i r a b t[] r o t i k o i m o c t b m a f[][][])And T r t a o t b t t d f t U C E a p i s [] ( o t s [] b)a o o[]]
+[DELETED: B4 w f y f t w i w t d e t e p N p t a i o t i l f r o b u T c o t o i t m o r o t o] i s [] ( o t s a i)( r p b t d N s [] ( o t s o b t a s] ( A d o t d u t s d n a t r o t]( T t i b r o t f s m o[][])o T t i b r o t r o] J r s b i a t r p i s [] ( o t] t s t r o b i m b t i a t r o o p p o f o a m b o t f d] ( D f u i b p tos] t p t t i] ( T f a c u t s s b p i[] T f a c u t s s b p i t E D T p o p i u s ( o t s t r a]
+[DELETED: B4] O 6 i t d f t t b a r d t a c i ( o t s t d m w r[] 6 ( i t d f t r o t b w b a[][])( T d m w e a r o o b w n d.O ( A a r d b t D o t E D s p e e c t d w a i i s t d i r b O 6 T a r m a i r b b t a r i b n l t t n o t u t i h p s i e s t t c o t e l o a s o o a d i O 6 ( o a a e o t f g f w i r t e o e f t t t w i w t a c t d o i t a F w g c t a f a s w w r b t e H b d o s f b a o t i r t w a t o t o a a r o t u u o a d u t p w i a r d r p a t t o t a o t]
+[DELETED: B4 i s t t E D d o p p A u i t “ u d n i t u o a d t u t s a w t p d f c H b d o s f b a o t i r t w a t o t o a t r o t u o a o c o a s o a o w a p o 1 m u t p w p i a r a o c r p a t t o t a o t o i s f m b o t i c o a f o t i c t i w a b r b o w e p t t d o t d s b c i t i e n t d o t d w A i m n b d f r b u i a a v l h n o a a p v l h o T a v l o w o f t p i t w i w t]
+[DELETED: B4;a T v l o f t p i t w i w t v l o t t w i a d h n o a a p v l h o i a i t p i t w i w t a d o t t w p F t p o s ( o t s a i i c t h e o t c b w m i b r p a R t c w o s o a t s a d c o a I w t a o t t r b c t i d o h c a d a u t s i t i o t]
+[DELETED: B4 e u t s t t i s r f F t p o s ( o t v l w f t a f a w w r b t e o o t d o f t a s B t e h o i a r w c o d T a t a d c o a t u a r o d v s s a o a b c o i i f c b a v o d v s d n o n i u o t o n m l t n c a b i t f d d i]
+[DELETED: B4 T p t e t r t w u c t m r t eet t i n a c ( A u i t s “ l b m b p a i t s t i w a u d t a l a d i O T i i n e f a o b i b p u A t t o f a i o a c t i i u d t  T s a d f t G t E D S m c o r b t E D[] A g t i o o p e b t E D S FlF T m i t E D S F C F a c A a i t E D S F C F s b u f p a i i t b b o t E D a a A c a w t p d a c o u]
+[DELETED: B4 C a w t L W A p a b t d t a g a w t F E M A u a M D D R t C D T d m c s o u t p o t c a]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4109
+Sponsored by Representatives SKARLATOS, ELMER; Representatives BOICE, EDWARDS, HARBICK, LEVY B,
+LEWIS, MCLAIN, SCHARF, Senator SMITH DB (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would repeal the law that allows UI benefits to be paid to a person who is
+unemployed due to an active strike. (Flesch Readability Score: 69.6).
+Repeals Enrolled Senate Bill 916 (2025), which authorized unemployment insurance benefits for
+individuals who are unemployed due to a strike.
+1 A BILL FOR AN ACT
+2 Relating to unemployment insurance benefits; amending ORS 657.010, 657.153, 657.176, 657.200,
+3 657.202, 657.310, 657.317 and 657.400; and repealing ORS 657.203.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 657.200 is amended to read:
+6 657.200. [(1) Notwithstanding the provisions of this chapter relating to availability for work, ac-
+7 tively seeking work or refusal to accept suitable work, an individual who is otherwise eligible for
+8 benefits is not disqualified for benefits or waiting week credit for any week with respect to which the
+9 Director of the Employment Department finds that the unemployment of the individual is due to a
+10 lockout that is in active progress at the factory, establishment or other premises at which the individual
+11 is or was last employed or at which the individual claims employment rights by union agreement or
+12 otherwise.]
+13 [(2)(a) An individual is disqualified for benefits for the first week with respect to which the Di-
+14 rector of the Employment Department finds that the unemployment of the individual is due to a strike
+15 that is in active progress at the factory, establishment or other premises at which the individual is or
+16 was last employed or at which the individual claims employment rights by union agreement or other-
+17 wise.]
+18 [(b) Notwithstanding the provisions of this chapter relating to availability for work, actively seeking
+19 work or refusal to accept suitable work, after the first week, an individual described in paragraph (a)
+20 of this subsection who is otherwise eligible for benefits is not disqualified for benefits or waiting week
+21 credit for:]
+22 [(A) If the tax schedule in effect on the date on which the strike begins is Fund Adequacy Per-
+23 centage Ratio I, II, III or IV, any of the subsequent 10 weeks of unemployment due to the strike.]
+24 [(B) If the tax schedule in effect on the date on which the strike begins is Fund Adequacy Per-
+25 centage Ratio V, VI, VII or VIII, any of the subsequent eight weeks of unemployment due to the
+26 strike.]
+27 (1) An individual is disqualified for benefits for any week with respect to which the Di-
+28 rector of the Employment Department finds that the unemployment of the individual is due
+29 to a labor dispute that is in active progress at the factory, establishment or other premises
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 217
+
+HB 4109
+1 at which the individual is or was last employed or at which the individual claims employment
+2 rights by union agreement or otherwise.
+3 (2) When an employer operates two or more premises in the conduct of business they
+4 shall be considered one premises for the purposes of this chapter if the labor dispute at one
+5 makes it impossible or impractical to conduct work at the others or in a normal manner.
+6 (3) This section does not apply if it is shown to the satisfaction of the director that the
+7 individual:
+8 (a) Is unemployed due to a lockout, as defined in ORS 662.205, at the factory, establish-
+9 ment or other premises at which the individual was last employed; or
+10 (b)(A) Is not participating in or financing or directly interested in the labor dispute that
+11 caused the unemployment of the individual; and
+12 (B) Does not belong to a grade or class of workers of which, immediately before the
+13 commencement of the labor dispute, there were members employed at the premises at which
+14 the labor dispute occurs, any of whom are participating in or financing or directly interested
+15 in the dispute.
+16 (4) An individual who meets all other applicable benefit eligibility requirements of this
+17 chapter is not disqualified from receipt of benefits by this section if:
+18 (a) The individual was laid off from the employer prior to commencement of the labor
+19 dispute, did not work for the employer more than seven days during the 21 calendar days
+20 immediately prior to the commencement of the labor dispute and meets the requirements
+21 of subsection (3)(b)(A) of this section; or
+22 (b) During the labor dispute, the individual’s job or position is filled by the employer
+23 hiring a permanent replacement and the following conditions are met:
+24 (A) The individual subsequently unilaterally abandons the labor dispute and affirmatively
+25 seeks reemployment with the employer; and
+26 (B) The individual meets the requirements of subsection (3)(b)(A) of this section.
+27 (5) An individual who maintains membership in a labor union or who continues to pay
+28 labor union dues does not violate the provisions of subsection (3)(b)(A) of this section for the
+29 purposes of subsection (4) of this section.
+30 SECTION 2. ORS 657.010 is amended to read:
+31 657.010. As used in this chapter, unless the context requires otherwise:
+32 (1) “Base year” means the first four of the last five completed calendar quarters preceding the
+33 benefit year.
+34 (2) “Benefits” means the money allowances payable to unemployed persons under this chapter.
+35 (3) “Benefit year” means a period of 52 consecutive weeks commencing with the first week with
+36 respect to which an individual files an initial valid claim for benefits, and thereafter the 52 consec-
+37 utive weeks period beginning with the first week with respect to which the individual next files an
+38 initial valid claim after the termination of the individual’s last preceding benefit year except that
+39 the benefit year shall be 53 weeks if the filing of an initial valid claim would result in overlapping
+40 any quarter of the base year of a previously filed initial valid claim.
+41 (4) “Calendar quarter” means the period of three consecutive calendar months ending on March
+42 31, June 30, September 30 or December 31, or the approximate equivalent thereof, as the Director
+43 of the Employment Department may, by rule, prescribe.
+44 (5) “Client employer” means an employer that enters into a PEO relationship.
+45 (6) “Client worker” means an individual who performs services for compensation for the client
+[2]
+
+HB 4109
+1 of a professional employer organization.
+2 (7) “Contribution” or “contributions” means the money payments required by this chapter, or
+3 voluntary payments permitted, to be made to the Unemployment Compensation Trust Fund.
+4 (8) “Covered employee” means a client worker for whom a PEO has assumed employer respon-
+5 sibilities under a PEO relationship.
+6 (9) “Educational institution,” including an institution of higher education, means an institution:
+7 (a) In which participants, trainees or students are offered an organized course of study or
+8 training designed to transfer to them knowledge, skills, information, doctrines, attitudes or abilities
+9 from, by or under the guidance of an instructor or teacher;
+10 (b) That is accredited, registered, approved, licensed or issued a permit to operate as a school
+11 by the Department of Education or other government agency, or that offers courses for credit that
+12 are transferable to an approved, registered or accredited school;
+13 (c) In which the course or courses of study or training that it offers may be academic, technical,
+14 trade or preparation for gainful employment in a recognized occupation; and
+15 (d) In which the course or courses of study or training are offered on a regular and continuing
+16 basis.
+17 (10) “Employment office” means a free public employment office or branch thereof, operated by
+18 this state or maintained as a part of a state-controlled system of public employment offices.
+19 (11) “Hospital” has the meaning given that term in ORS 442.015.
+20 (12) “Institution of higher education” means an educational institution that:
+21 (a) Admits as regular students only individuals having a certificate of graduation from a high
+22 school, or the recognized equivalent of such a certificate;
+23 (b) Is legally authorized in this state to provide a program of education beyond high school;
+24 (c) Provides an educational program for which it awards a bachelor’s or higher degree, or pro-
+25 vides a program that is acceptable for full credit toward such a degree, a program of post-graduate
+26 or post-doctoral studies, or a program of training to prepare students for gainful employment in a
+27 recognized occupation; and
+28 (d) Is a public or other nonprofit institution.
+29 (13) “Instructional capacity” does not include services performed as an instructional assistant
+30 as defined in ORS 342.120.
+31 (14) “Internal Revenue Code” means the federal Internal Revenue Code, as amended and in ef-
+32 fect on December 31, 2023.
+33 [(15) “Labor dispute” means any concerted or deliberate action by two or more individuals or by
+34 an employing unit resulting in either a strike or lockout in which wages, hours, working conditions or
+35 terms of employment of the individuals are involved.]
+36 [(16) “Lockout” means any refusal by an employer to permit employees to work as a result of a
+37 dispute with the employees affecting wages, hours or other terms or conditions of their employment.]
+38 [(17)] (15) “Nonprofit employing unit” means an organization, or group of organizations, de-
+39 scribed in section 501(c)(3) of the Internal Revenue Code that is exempt from income tax under
+40 section 501(a) of the Internal Revenue Code.
+41 [(18)] (16) “PEO relationship” means an agreement between a PEO and a client employer under
+42 which certain employer responsibilities for some or all of the client employer’s workers are allo-
+43 cated.
+44 [(19)(a)] (17)(a) “Professional employer organization” or “PEO” means a person required to be
+45 licensed under ORS 656.855 that enters into a PEO relationship with a client employer.
+[3]
+
+HB 4109
+1 (b) “Professional employer organization” or “PEO” does not mean a person that solely provides
+2 workers to a client on a temporary basis or a person that provides payroll processing or similar
+3 administrative services without assuming employer responsibilities for client workers.
+4 [(20)] (18) “State” includes, in addition to the states of the United States of America, the District
+5 of Columbia and Puerto Rico. However, for all purposes of this chapter the Virgin Islands shall be
+6 considered a state on and after the day on which the United States Secretary of Labor first approves
+7 the Virgin Islands’ law under section 3304(a) of the Federal Unemployment Tax Act as amended by
+8 Public Law 94-566.
+9 [(21) “Strike” means any concerted act of employees in a lawful refusal under applicable state or
+10 federal law to perform work or services for an employer.]
+11 [(22)] (19) “Taxes” means contributions.
+12 [(23)] (20) “Temporary basis” means providing workers to a client:
+13 (a) For special situations, including but not limited to employee absences, employee leaves,
+14 professional skill shortages, seasonal workloads and special assignments and projects with the ex-
+15 pectation that the position will be terminated when the special situation ends.
+16 (b) As probationary new hires with a reasonable expectation of transitioning to permanent em-
+17 ployment with the client, if the client uses a preestablished probationary period in its overall em-
+18 ployment selection program.
+19 [(24)] (21) “Valid claim” means any claim for benefits made in accordance with ORS 657.260 if
+20 the individual meets the wages-paid-for-employment requirements of ORS 657.150.
+21 [(25)] (22) “Week” means any period of seven consecutive calendar days ending at midnight, as
+22 the director may prescribe by rule.
+23 SECTION 3. ORS 657.153 is amended to read:
+24 657.153. [(1) Except as provided in subsection (2) of this section,] The amount of back pay paid
+25 by an employer, or awarded by a judge or arbitrator, to an individual may not be reduced to reflect
+26 the amount of benefits that the individual received for the period for which the back pay was paid
+27 or awarded.
+28 [(2) Subsection (1) of this section does not apply to back pay paid to resolve a strike by an employer
+29 to an employee who received benefits for the period during which the strike was in active progress.]
+30 SECTION 4. ORS 657.310 is amended to read:
+31 657.310. [(1)] (1)(a) [This section applies to an individual who, according to a decision of] If the
+32 Director of the Employment Department[,] decides that an individual received any benefits to
+33 which the individual is not entitled because the individual, [:]
+34 [(a)] regardless of the individual’s knowledge or intent, made or caused to be made a false
+35 statement or misrepresentation of a material fact, or failed to disclose a material fact, [; or]
+36 [(b) Notwithstanding ORS 657.315, received back pay from an employer to resolve a strike.]
+37 [(2)(a)] [An] the individual [described in subsection (1) of this section] is liable:
+38 (A) To repay the amount of the benefits to the director for the Unemployment Compensation
+39 Trust Fund; or
+40 (B) To have the amount of the benefits deducted from any future benefits otherwise payable to
+41 the individual under this chapter.
+42 (b) For purposes of paragraph (a)(B) of this subsection, the director may deduct all or any part
+43 of the individual’s future weekly benefits.
+44 (c) Except as provided in subsection [(3)(b)] (2)(b) of this section, [an overpayment of] benefits
+45 described in paragraph (a) of this subsection [(1) of this section] may be collected for any week or
+[4]
+
+HB 4109
+1 weeks within five years following the week in which the decision establishing the erroneous pay-
+2 ment became final.
+3 (d) Notice provided to an individual of the individual’s liability for recovery of benefits under
+4 this section must include a description of:
+5 (A) The basis for the director’s decision that benefits have been overpaid; and
+6 (B) The consequences of the overpayment, including the methods of recovery of the overpaid
+7 amount, with interest and penalties, and the possibility of waiver under ORS 657.317.
+8 [(3)(a)] (2)(a) In addition to the liability described in subsection [(2)] (1) of this section, an in-
+9 dividual who has been disqualified for benefits under ORS 657.215 is liable for a penalty imposed at
+10 a rate prescribed by the director of at least 15, but not greater than 30, percent of the amount of
+11 benefits the individual received to which the individual was not entitled.
+12 (b) Notwithstanding subsection [(2)(c)] (1)(c) of this section, overpaid benefits that are subject
+13 to the penalty imposed under this subsection may be collected at any time.
+14 [(4)] (3) A decision of the director under this section does not authorize the recovery of the
+15 amount of any benefits paid to an individual until the decision is final and the decision specifies [the
+16 week or weeks for which the benefits were paid and]:
+17 [(a)(A)] (a) That the individual, by reason of the false statement, misrepresentation or
+18 nondisclosure, is liable to repay the amount to the Unemployment Compensation Trust Fund; [and]
+19 [(B)] (b) The nature of the false statement, misrepresentation or nondisclosure; [or] and
+20 [(b) That the individual, by reason of the receipt of back pay as described in subsection (1)(b) of
+21 this section, is liable to repay the amount to the Unemployment Compensation Trust Fund.]
+22 (c) The week or weeks for which the benefits were paid.
+23 [(5)(a)] (4)(a) The director may bring a civil action against an individual to collect any amount
+24 subject to recovery and any penalty due under this section.
+25 (b) Judgment rendered shall bear interest at the rate provided in subsection [(6)] (5) of this
+26 section.
+27 [(6)] (5) Interest on any amount liable to be repaid under this section shall be paid and collected
+28 at the same time repayment of benefits is made by the individual, at the rate of one percent per
+29 month or fraction of a month, beginning on the first day of the month following 60 days after the
+30 finality of the administrative decision establishing the overpayment.
+31 [(7)(a)] (6)(a) Deductions from unemployment insurance benefits pursuant to subsection
+32 [(2)(a)(B)] (1)(a)(B) of this section shall be applied solely to the amount of the benefits liable to be
+33 repaid under this section.
+34 (b) All other payments shall be applied first to court costs, then to penalties, then to interest,
+35 then to the amount liable to be repaid.
+36 [(8)(a)] (7)(a) The following amounts collected under this section shall be paid into the Unem-
+37 ployment Compensation Trust Fund:
+38 (A) Amounts in repayment of benefits; and
+39 (B) The portion of penalties imposed under subsection [(3)] (2) of this section that is 15 percent
+40 of the amount of benefits received.
+41 (b) The following amounts collected under this section shall be paid into the Employment De-
+42 partment Special Fraud Control Fund in accordance with the provisions of ORS 657.400:
+43 (A) Interest other than interest described in paragraph (c) of this subsection; and
+44 (B) The portion of penalties imposed under subsection (3) of this section that remains after
+45 subtraction of the portion of penalties described in paragraph (a)(B) of this subsection.
+[5]
+
+HB 4109
+1 (c) Interest payable on any portion of benefits that were funded by the federal government shall
+2 be paid to the United States Department of Labor.
+3 [(9)] (8) The director shall adopt rules establishing standards and procedures for the repayment
+4 of benefits and payment of penalties and interest under this section.
+5 SECTION 5. ORS 657.317 is amended to read:
+6 657.317. (1) The Director of the Employment Department shall waive recovery of overpaid ben-
+7 efits under ORS 657.315 if the director finds that the benefits are recoverable due to a change in
+8 federal or state law, the application of which has caused the disqualification of benefits previously
+9 paid.
+10 (2)(a) Except as provided in paragraph (b) of this subsection, the director may waive recovery
+11 of all or any part of overpaid benefits subject to repayment or deduction under ORS 657.310 [(2)] (1)
+12 or 657.315 (1) if the director finds that recovery of the benefits would be against equity and good
+13 conscience.
+14 (b) The director may not waive recovery under this subsection of overpaid benefits that are[:]
+15 [(A) Described in ORS 657.310 (1)(b); or]
+16 [(B)] subject to the penalty imposed under ORS 657.310 [(3)] (2).
+17 (3) The director may waive establishment and recovery of overpaid benefits when no decision
+18 has been issued under ORS 657.310 or 657.315 and the amount of the overpayment is less than one-
+19 half of the maximum weekly benefit amount in effect at the time the overpayment is discovered.
+20 (4) Any waiver granted under this section extinguishes all liability of the debtor for the waived
+21 amounts.
+22 SECTION 6. ORS 657.203 is repealed.
+23 SECTION 7. ORS 657.176 is amended to read:
+24 657.176. (1) An authorized representative designated by the Director of the Employment De-
+25 partment shall promptly examine each claim to determine whether an individual is subject to dis-
+26 qualification as a result of a separation, termination, leaving, resignation or disciplinary suspension
+27 from work, or as a result of failure to apply for or accept work, and shall promptly enter a director’s
+28 decision if required by ORS 657.267. The authorized representative may address issues raised by
+29 information before the authorized representative, including but not limited to the nature of the
+30 separation, notwithstanding the way the parties characterize those issues.
+31 (2) An individual shall be disqualified from the receipt of benefits until the individual has per-
+32 formed service in employment subject to this chapter or the equivalent law of another state or
+33 Canada or as defined in ORS 657.030 (2) or as an employee of the federal government, for which
+34 remuneration is received that equals or exceeds four times the individual’s weekly benefit amount
+35 subsequent to the week in which the act causing the disqualification occurred, if the authorized
+36 representative designated by the director finds that the individual:
+37 (a) Has been discharged for misconduct connected with work;
+38 (b) Has been suspended from work for misconduct connected with work;
+39 (c) Voluntarily left work without good cause;
+40 (d) Failed without good cause to apply for available suitable work when referred by the em-
+41 ployment office or the director;
+42 (e) Failed without good cause to accept suitable work when offered;
+43 (f) Has been discharged or suspended for being absent or tardy in reporting to work and the
+44 absence or tardiness occurred as a result of the unlawful use of any drug unless the person was
+45 participating in a recognized drug rehabilitation program at the time of the absence or tardiness,
+[6]
+
+HB 4109
+1 or is so participating within 10 days after the date of the discharge or suspension, and the person
+2 provides to the Employment Department documentation of program participation. As used in this
+3 paragraph, “unlawful use” does not include the use of a drug taken under the supervision of a li-
+4 censed health care professional and in accordance with the prescribed directions for consumption,
+5 or other uses authorized by the laws of this state;
+6 (g) Has been discharged or suspended for being absent or tardy in reporting to work and the
+7 absence or tardiness occurred as the result of the use of alcohol or cannabis on a second or any
+8 subsequent occasion within a period of 12 months unless the person was participating in a recog-
+9 nized alcohol or cannabis rehabilitation program at the time of the absence or tardiness, or is so
+10 participating within 10 days after the date of the discharge or suspension, and the person provides
+11 to the department documentation of program participation; or
+12 (h) Has committed a disqualifying act described in subsection (8) or (9) of this section.
+13 (3) If the authorized representative designated by the director finds that an individual was dis-
+14 charged for misconduct because of the individual’s commission of a felony or theft in connection
+15 with the individual’s work, all benefit rights based on wages earned prior to the date of the dis-
+16 charge shall be canceled if the individual’s employer notifies the director of the discharge within
+17 10 days following issuance of the notice provided for in ORS 657.265 or 30 days following issuance
+18 of the notice provided for in ORS 657.266, and:
+19 (a) The individual has admitted commission of the felony or theft to an authorized representative
+20 of the director;
+21 (b) The individual has signed a written admission of the felony or theft and the written admis-
+22 sion has been presented to an authorized representative of the director; or
+23 (c) The felony or theft has resulted in a conviction by a court of competent jurisdiction.
+24 (4) An individual may not be disqualified from receiving benefits under subsection (2)(c) or (e)
+25 of this section or ORS 657.200 if the individual ceases work or fails to accept work when a collec-
+26 tive bargaining agreement between the individual’s bargaining unit and the individual’s employer is
+27 in effect and the employer unilaterally modifies the amount of wages payable under the agreement,
+28 in breach of the agreement.
+29 (5)(a) For purposes of subsection (2) of this section, a separation from work shall be adjudicated
+30 as if an actual voluntary leaving had not occurred and a planned voluntary leaving had occurred
+31 if an individual has notified an employer that the individual will leave work on a specific date and
+32 it is determined that:
+33 (A) The separation would be for reasons that constitute good cause;
+34 (B) The individual voluntarily left work without good cause prior to the date of the impending
+35 good cause voluntary leaving date; and
+36 (C) The actual voluntary leaving of work occurred no more than 15 days prior to the planned
+37 date of voluntary leaving.
+38 (b) Notwithstanding paragraph (a) of this subsection, the individual shall be ineligible for bene-
+39 fits for the period including the week in which the actual voluntary leaving occurred through the
+40 week prior to the week of the planned good cause voluntary leaving date.
+41 (6)(a) For purposes of subsection (2) of this section, a separation from work shall be adjudicated
+42 as if a voluntary leaving had not occurred and a discharge had occurred if an employer has notified
+43 an individual that the individual will be discharged on a specific date and it is determined that:
+44 (A) The discharge would not be for reasons that constitute misconduct connected with the work;
+45 (B) The individual voluntarily left work without good cause prior to the date of the impending
+[7]
+
+HB 4109
+1 discharge; and
+2 (C) The voluntary leaving of work occurred no more than 15 days prior to the date of the im-
+3 pending discharge.
+4 (b) Notwithstanding paragraph (a) of this subsection, the individual shall be ineligible for bene-
+5 fits for the period including the week in which the voluntary leaving occurred through the week
+6 prior to the week in which the individual would have been discharged.
+7 (7)(a) For purposes of subsection (2) of this section, a separation from work shall be adjudicated
+8 as if a discharge had not occurred and a planned voluntary leaving had occurred if an individual
+9 has notified an employer that the individual will leave work on a specific date and it is determined
+10 that:
+11 (A) The voluntary leaving would be for reasons that do not constitute good cause;
+12 (B) The employer discharged the individual, but not for misconduct connected with work, prior
+13 to the date of the planned voluntary leaving; and
+14 (C) The actual discharge occurred no more than 15 days prior to the planned voluntary leaving.
+15 (b) Notwithstanding paragraph (a) of this subsection, the individual shall be eligible for benefits
+16 for the period including the week in which the actual discharge occurred through the week prior
+17 to the week of the planned voluntary leaving date.
+18 (8)(a) For the purposes of subsection (2) of this section, an individual is considered to have
+19 committed a disqualifying act when the individual:
+20 (A) Fails to comply with the terms and conditions of a reasonable written policy established by
+21 the employer or through collective bargaining, which may include blanket, random, periodic and
+22 probable cause testing, that governs the use, sale, possession or effects of drugs, cannabis or alcohol
+23 in the workplace;
+24 (B) Fails or refuses to take a drug, cannabis or alcohol test as required by the employer’s rea-
+25 sonable written policy;
+26 (C) Refuses to cooperate with or subverts or attempts to subvert a drug, cannabis or alcohol
+27 testing process in any employment-related test required by the employer’s reasonable written policy,
+28 including but not limited to:
+29 (i) Refusal or failure to complete proper documentation that authorizes the test;
+30 (ii) Refusal or failure to sign a chain of custody form;
+31 (iii) Presentation of false identification;
+32 (iv) Placement of an adulterant in the individual’s specimen for testing, when the adulterant is
+33 identified by a testing facility; or
+34 (v) Interference with the accuracy of the test results by conduct that includes dilution or
+35 adulteration of a test specimen;
+36 (D) Is under the influence of intoxicants while performing services for the employer;
+37 (E) Possesses cannabis or a drug unlawfully or in violation of the employer’s reasonable written
+38 policy during work;
+39 (F) Tests positive for alcohol, cannabis or an unlawful drug in connection with employment; or
+40 (G) Refuses to enter into or violates the terms of a last chance agreement with the employer.
+41 (b)(A) Except as provided in subparagraph (B) of this paragraph, an individual is not considered
+42 to have committed a disqualifying act under this subsection if the individual, on the date of sepa-
+43 ration or within 10 days after the date of separation, is participating in a recognized drug, cannabis
+44 or alcohol rehabilitation program and provides documentation of participation in the program to the
+45 department.
+[8]
+
+HB 4109
+1 (B) This paragraph does not apply to an individual who has refused to enter into or has violated
+2 the terms of a last chance agreement with the employer.
+3 (c) It is no defense or excuse under this section that the individual’s separation resulted from
+4 alcohol use, cannabis use, unlawful drug use, alcoholism or addiction to cannabis or drugs.
+5 (d) The department shall adopt rules to carry out the provisions of this subsection.
+6 (9) For the purposes of subsection (2) of this section, an individual is considered to have com-
+7 mitted a disqualifying act when the individual voluntarily leaves work, fails to apply for available
+8 suitable work when referred by the employment office or the director or fails to accept suitable
+9 work when offered:
+10 (a) Because the employer has or introduces a reasonable written cannabis-free or drug-free
+11 workplace policy that is consistent with subsection (8)(a)(A) of this section;
+12 (b) Because the employer requires the employee to consent to present or future drug, cannabis
+13 or alcohol tests under a reasonable written policy that is consistent with subsection (8)(a)(A) of this
+14 section;
+15 (c) To avoid taking a drug, cannabis or alcohol test under a reasonable written policy that is
+16 consistent with subsection (8)(a)(A) of this section; or
+17 (d) To avoid meeting the requirements of a last chance agreement.
+18 (10) An individual may not be disqualified from receiving benefits under subsection (2)(c) of this
+19 section and shall be deemed laid off if the individual:
+20 (a) Works under a collective bargaining agreement;
+21 (b) Elects to be laid off when the employer has decided to lay off employees; and
+22 (c) Is placed on the referral list under the collective bargaining agreement.
+23 (11) An individual may not be disqualified from receiving benefits under subsection (2)(c), (d) or
+24 (e) of this section or be considered unavailable for purposes of ORS 657.155 if:
+25 (a) The individual or a member of the individual’s immediate family is a victim of domestic vi-
+26 olence, stalking, sexual assault or a bias crime, or the individual believes that the individual or a
+27 member of the individual’s immediate family could become a victim of domestic violence, stalking,
+28 sexual assault or a bias crime; and
+29 (b) The individual leaves work, fails to apply for available suitable work or fails to accept suit-
+30 able work when offered in order to protect the individual or a member of the individual’s immediate
+31 family from domestic violence, stalking, sexual assault or a bias crime that the individual reasonably
+32 believes will occur as a result of the individual’s continued employment or acceptance of work.
+33 (12) For purposes of this section:
+34 (a) “Adulterant” means a substance that does not occur naturally in urine, or that occurs na-
+35 turally in urine but not at the concentrations detected. “Adulterant” includes but is not limited to
+36 glutaraldehyde, nitrite concentrations above physiological levels, hypochlorite or soap.
+37 (b) “Bias crime” means:
+38 (A) Conduct that, in the determination of the director, more likely than not constitutes a bias
+39 crime in the first degree described in ORS 166.165 or a bias crime in the second degree described
+40 in ORS 166.155; or
+41 (B) Similar conduct, as defined by the director by rule.
+42 (c) “Drug” means a controlled substance as defined in ORS 475.005.
+43 (d) “Last chance agreement” means a reasonable agreement:
+44 (A) Between an employer and an employee who has violated the employer’s reasonable written
+45 policy, has engaged in drug, cannabis or alcohol use connected with work or has admitted to alcohol
+[9]
+
+HB 4109
+1 abuse, cannabis abuse or unlawful drug use; and
+2 (B) That permits the employee to return to work under conditions that may require the em-
+3 ployee to:
+4 (i) Abstain from alcohol use, cannabis use and unlawful drug use; and
+5 (ii) Attend and comply with the requirements of a rehabilitation or education program accepta-
+6 ble to the employer.
+7 (e) “Under the influence of intoxicants” means the level of alcohol, cannabis or unlawful drugs
+8 present in an individual’s body exceeds the amount prescribed in a collective bargaining agreement
+9 or the amount prescribed in the employer’s reasonable written policy if there is no applicable col-
+10 lective bargaining agreement provision.
+11 SECTION 8. ORS 657.202 is amended to read:
+12 657.202. (1) As used in this section, “temporary lockout benefits” means benefits payable as
+13 provided in this section to individuals who are unemployed due to a lockout, as defined in ORS
+14 662.205.
+15 (2) An individual is eligible to receive temporary lockout benefits for a week in an amount equal
+16 to the weekly benefit amount of the individual’s most recent unemployment benefit claim if:
+17 (a) Prior to the week, the individual has received all of the regular benefits that were available
+18 to the individual under this chapter;
+19 (b) The individual is not eligible for any other benefits, including benefits provided under any
+20 federal law extending benefits beyond those provided for as regular benefits; and
+21 (c) At the time of filing an initial or additional claim, the individual is unemployed due to a
+22 lockout at the individual’s place of employment.
+23 (3) The maximum temporary lockout benefit amount an individual may receive under this section
+24 is 26 times the weekly benefit amount of the individual’s most recent unemployment benefit claim.
+25 (4) Notwithstanding subsections (2) and (3) of this section, temporary lockout benefits otherwise
+26 payable to an individual under this section may not be paid for weeks that begin after the week in
+27 which the lockout ends.
+28 (5) An employer shall be charged for temporary lockout benefits in the manner provided in this
+29 chapter for charging employers for regular benefits.
+30 SECTION 9. ORS 657.400 is amended to read:
+31 657.400. (1) There is established in the State Treasury, separate and distinct from the General
+32 Fund, the Employment Department Special Fraud Control Fund. The Employment Department Spe-
+33 cial Fraud Control Fund shall consist of moneys collected or received by the Employment Depart-
+34 ment as follows:
+35 (a) Interest and penalties described under ORS 657.310 [(8)(b)] (7)(b).
+36 (b) All gifts to, interest on or profits earned by the Employment Department Special Fraud
+37 Control Fund.
+38 (2) The moneys in the Employment Department Special Fraud Control Fund are continuously
+39 appropriated to the Employment Department and may not be appropriated, transferred or otherwise
+40 made available to any other state agency.
+41 (3) All amounts in the Employment Department Special Fraud Control Fund shall be used for
+42 the following purposes, as included in the biennial budget of the Employment Department and ap-
+43 proved by the Legislative Assembly:
+44 (a) Administrative costs associated with the prevention, discovery and collection of unemploy-
+45 ment benefit overpayments;
+[10]
+
+HB 4109
+1 (b) Costs associated with the Lost Wages Assistance program administered by the department
+2 pursuant to a grant agreement with the Federal Emergency Management Agency under authority
+3 established by the presidential memorandum issued on August 8, 2020, on the subject of Authorizing
+4 the Other Needs Assistance Program for Major Disaster Declarations Related to Coronavirus Dis-
+5 ease 2019; and
+6 (c) Administrative costs associated with other benefit programs administered by the department.
+7 (4) If, under subsection (3)(b) of this section, the Employment Department uses any amounts for
+8 the purpose of reimbursing the Federal Emergency Management Agency for overpayments of bene-
+9 fits under the Lost Wages Assistance program:
+10 (a) Any amounts of overpayments collected from the debtor by the department shall be deposited
+11 in the Employment Department Special Fraud Control Fund.
+12 (b)(A) The department may collect such overpayments under the provisions of this chapter as
+13 if the amounts were overpayments of regular benefits; or
+14 (B) The Director of the Employment Department may waive collection of such overpayments if
+15 the director determines that it is administratively impracticable to pursue collection.
+16
+[11]
+
+[DELETED:  B 4 b R S E R B E H L B c b t L A I i a e b s o t e f o t.T T A w r t l t a U b t b p t a p w i.( t u i b a O 6 6 6 6 N t p o t c r t a f w a s w o r t a s w a i w i o e f o t E D f t t u o t i i d t  l e o a w t i c e r b u a o A i i d f b f t f w w r t w t D o o I t t s i e o t d o w t s b i F A P I t t s i e o t d o w t s b i F A P R V V V o V,ayoftes e w o u d t t:M[]]
+[DELETED: B4 W a e o t o m p i t c o b t D n b t a g o c o w o w i b t A i w m a o a b e r o t l o f t e p t c o t l d n w f t e m t s d d t 2 c p t t c o t l d a m t r D t l d t i j o p i f b t e m m i a l u o w c t p v c a t t o t i l p b y e t J 3 S 3 o]
+[DELETED: B4 “ o “ m t m p r b t c o I w p t o s a o a o c o s o T i A a r s o i h a c o g f a h p s o a p o t t p s “ c d n i s p a a i a “ o m i o b “ m a r b a e t p e t w a a r o ] ( “ e u m a o o g o o d i s 5 o t I R C t i e f i t u] c e r f s o a o t c e w a a] ( “ e o o “ m]
+[DELETED: B4 t a c o a t b o a p t p p p o s]( “ m a c]] F s s i b n l t e a e l s s s w a s a a p w t e w t c i t c u a p p p] i][] T a o b p p E a p i s ( o t s[][]I t)T o t E D[] d t a i r a b t[] r o t i k o i m o c t b m a f[][][])And T r t a o t b t t d f t U C E a p i s [] ( o t s [] b)a o o[]]
+[DELETED: B4 w f y f t w i w t d e t e p N p t a i o t i l f r o b u T c o t o i t m o r o t o] i s [] ( o t s a i)( r p b t d N s [] ( o t s o b t a s] ( A d o t d u t s d n a t r o t]( T t i b r o t f s m o[][])o T t i b r o t r o] J r s b i a t r p i s [] ( o t] t s t r o b i m b t i a t r o o p p o f o a m b o t f d] ( D f u i b p tos] t p t t i] ( T f a c u t s s b p i[] T f a c u t s s b p i t E D T p o p i u s ( o t s t r a]
+[DELETED: B4] O 6 i t d f t t b a r d t a c i ( o t s t d m w r[] 6 ( i t d f t r o t b w b a[][])( T d m w e a r o o b w n d.O ( A a r d b t D o t E D s p e e c t d w a i i s t d i r b O 6 T a r m a i r b b t a r i b n l t t n o t u t i h p s i e s t t c o t e l o a s o o a d i O 6 ( o a a e o t f g f w i r t e o e f t t t w i w t a c t d o i t a F w g c t a f a s w w r b t e H b d o s f b a o t i r t w a t o t o a a r o t u u o a d u t p w i a r d r p a t t o t a o t]
+[DELETED: B4 i s t t E D d o p p A u i t “ u d n i t u o a d t u t s a w t p d f c H b d o s f b a o t i r t w a t o t o a t r o t u o a o c o a s o a o w a p o 1 m u t p w p i a r a o c r p a t t o t a o t o i s f m b o t i c o a f o t i c t i w a b r b o w e p t t d o t d s b c i t i e n t d o t d w A i m n b d f r b u i a a v l h n o a a p v l h o T a v l o w o f t p i t w i w t]
+[DELETED: B4;a T v l o f t p i t w i w t v l o t t w i a d h n o a a p v l h o i a i t p i t w i w t a d o t t w p F t p o s ( o t s a i i c t h e o t c b w m i b r p a R t c w o s o a t s a d c o a I w t a o t t r b c t i d o h c a d a u t s i t i o t]
+[DELETED: B4 e u t s t t i s r f F t p o s ( o t v l w f t a f a w w r b t e o o t d o f t a s B t e h o i a r w c o d T a t a d c o a t u a r o d v s s a o a b c o i i f c b a v o d v s d n o n i u o t o n m l t n c a b i t f d d i]
+[DELETED: B4 T p t e t r t w u c t m r t eet t i n a c ( A u i t s “ l b m b p a i t s t i w a u d t a l a d i O T i i n e f a o b i b p u A t t o f a i o a c t i i u d t  T s a d f t G t E D S m c o r b t E D[] A g t i o o p e b t E D S FlF T m i t E D S F C F a c A a i t E D S F C F s b u f p a i i t b b o t E D a a A c a w t p d a c o u]
+[DELETED: B4 C a w t L W A p a b t d t a g a w t F E M A u a M D D R t C D T d m c s o u t p o t c a]

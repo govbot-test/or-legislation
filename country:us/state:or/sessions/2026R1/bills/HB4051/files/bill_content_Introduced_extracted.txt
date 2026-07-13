@@ -1,0 +1,279 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4051
+Sponsored by Representative RESCHKE, Senator DRAZAN; Representative SCHARF (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would have loans made to first-time home buyers to offset closing costs. The
+Act would make the loan plus interest due when the home is sold, the borrower moves out or, if the
+home is a mobile home, it is moved out of state. The Act would have the program run for three
+years. (Flesch Readability Score: 88.1).
+Creates a program for deferred loans to first-time home buyers in an amount not greater than
+the lesser of the closing costs on the purchase or one percent of the purchase price. Makes the de-
+ferred loans repayable when the home changes ownership, is no longer the homestead of the bor-
+rower or, if the home is mobile, is moved out of state. Retires the program after three years.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to first-time homeownership; and declaring an emergency.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. (1)(a) Deferred loans shall be made in accordance with subsection (4) of this
+5 section to individuals determined to be eligible under subsection (2) of this section in an
+6 amount equal to the lesser of the actual closing costs on the purchase of a homestead, as
+7 defined in ORS 311.666, by the individual and one percent of the purchase price of the
+8 homestead.
+9 (b) Deferred loans shall accrue interest at a rate of six percent simple interest per an-
+10 num from the date on which the loan is made.
+11 (2) An individual is eligible to claim a deferred loan if the individual:
+12 (a) Purchases a homestead located in Oregon;
+13 (b)(A) Individually owns the fee simple estate of the homestead under a recorded instru-
+14 ment of sale; or
+15 (B) If two or more owners live in the property and all owners file a claim jointly, owns
+16 the fee simple estate with rights of survivorship under a recorded instrument of sale with
+17 all other claimants;
+18 (c) Has never previously owned a homestead in any jurisdiction;
+19 (d) Purchases the homestead at a price that is not greater than the county median RMV,
+20 as defined in ORS 311.666;
+21 (e) Pays at least three percent of the purchase price in cash;
+22 (f) Has insured the homestead for fire and other casualty; and
+23 (g) Has a household income and net worth that are within the limits established under
+24 ORS 311.668 (2).
+25 (3)(a) Within 180 days following the purchase of a homestead, an individual seeking a
+26 deferred loan must file a claim with the Department of Revenue that includes documentation
+27 demonstrating to the department’s satisfaction the individual’s eligibility for the loan.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 233
+HB 4051
+1 (b) A claim must be signed by the individual, subject to the penalties for false swearing
+2 under ORS 162.075.
+3 (c) The department shall establish by rule a timeline and other matters necessary for the
+4 filing and review of claims.
+5 (d) The department shall review all claims in a timely manner and notify the claimant
+6 of the acceptance or rejection of the claim.
+7 (e) An individual aggrieved by the rejection of a claim may appeal the rejection to the
+8 Oregon Tax Court within the time and in the manner provided in ORS 305.404 to 305.560.
+9 (4)(a) Claims shall be granted on a first-come, first-served basis based on the date on
+10 which the claim was filed.
+11 (b) Notwithstanding paragraph (a) of this subsection, no more than 500 deferred loans
+12 may be made for any calendar year.
+13 (5)(a) The deferred loans shall be made from moneys in the Senior Property Tax Deferral
+14 Revolving Account established under ORS 311.701.
+15 (b) The department may make deferred loans on a quarterly basis.
+16 (6)(a) The receipt of a deferred loan gives rise to a lien against the homestead in the
+17 amount of the loan, including interest accrued under subsection (1)(b) of this section and any
+18 penalties imposed under subsection (8)(c) of this section, less any amounts paid in accord-
+19 ance with subsection (7) of this section before the amount becomes due under subsection (8)
+20 of this section.
+21 (b) A lien arising under this section has the same priority as liens created under ORS
+22 311.679.
+23 (7) All or part of the amount of a deferred loan, including accrued interest, may be paid
+24 without penalty at any time before the amount becomes due under subsection (8) of this
+25 section.
+26 (8)(a) Except as provided in paragraph (c) of this subsection, the amount of a deferred
+27 loan, including accrued interest, becomes due when:
+28 (A) The homestead to which the deferred loan relates is sold, or a contract to sell is
+29 entered into, or some person other than the individual who entered into the deferred loan
+30 agreement, including a transferee, as defined in ORS 311.666, becomes the owner of the
+31 property.
+32 (B) The property is no longer the homestead of the individual who entered into the de-
+33 ferred loan agreement, except in the case of an individual who is required to be absent from
+34 the homestead by reason of health or military service.
+35 (C) If the homestead is a manufactured structure or floating home, the homestead is
+36 moved out of this state.
+37 (b)(A) If a circumstance listed in paragraph (a)(A) or (B) of this subsection occurs, the
+38 amount described in paragraph (a) of this subsection becomes due and payable to the de-
+39 partment on or before August 15 of the year following the calendar year in which the cir-
+40 cumstance that triggers the payment occurs.
+41 (B) If the circumstance listed in paragraph (a)(C) of this subsection occurs, the amount
+42 becomes due and payable five days before the date on which the homestead is removed from
+43 this state.
+44 (c)(A) If an individual willfully makes a false statement or misrepresentation, or willfully
+45 fails to report a material fact, to obtain a deferred loan under this section, the amount of
+[2]
+HB 4051
+1 the deferred loan, including accrued interest and any penalties imposed under this paragraph,
+2 becomes immediately due and payable.
+3 (B) The department may impose a penalty not to exceed five percent of the principal
+4 amount of the deferred loan for the false statement, misrepresentation or failure to report
+5 a material fact.
+6 (9)(a) If an amount that becomes due under subsection (8) of this section is not paid
+7 within 90 days following the due date, the amount shall be deemed delinquent as of the due
+8 date and the lien against the property shall be subject to foreclosure as if it were a purchase
+9 money mortgage under ORS chapter 88.
+10 (b) In a foreclosure action under this section, a court may award:
+11 (A) Reasonable attorney fees to the prevailing party.
+12 (B) All costs associated with foreclosure of the lien to the department if the department
+13 prevails.
+14 (10) All amounts paid under this section, including receipts from foreclosure proceedings,
+15 shall be transferred to the Senior Property Tax Deferral Revolving Account.
+16 (11) The department shall publish information about the deferred loan program, including
+17 the eligibility requirements, claim process and terms of deferred loans, on the department’s
+18 Internet website.
+19 (12) The department may adopt any rules it considers necessary or convenient for ad-
+20 ministering the deferred loan program established under this section.
+21 SECTION 2. (1) Deferred loans may be made under section 1 of this 2026 Act for home-
+22 steads purchased in calendar years 2026, 2027 and 2028.
+23 (2) Notwithstanding any timelines established under section 1 (3) of this 2026 Act, claims
+24 for a deferred loan with respect to a homestead purchased in calendar year 2026 may be made
+25 at any time after the effective date of this 2026 Act and on or before December 31, 2026.
+26 (3) The repeal of section 1 of this 2026 Act by section 3 of this 2026 Act is not a circum-
+27 stance that triggers repayment of a deferred loan under section 1 (8) of this 2026 Act.
+28 SECTION 3. Sections 1 and 2 of this 2026 Act are repealed on January 2, 2030.
+29 SECTION 4. This 2026 Act being necessary for the immediate preservation of the public
+30 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+31 on its passage.
+32
+[3]
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T T A w h l m t f h b t o c c T i a m h i i m o o s T A w h t p r f t:8 a n g t l r w t h c o i n l t h o t b.( t i d t b e u s ( o t s i a e t t i O 3 b t i a o p o t p p o t f s e w W 1 d f t p o a h a i s :M[]]
+[DELETED: B4 T d s r a c i r o a c m a t r t t C s b g o a f f b b o t d o N p ( o t s n m t 5 d l T r o a d l g r t a l a t h i t s l a a p i a A l a u t s h t s p p a a t b t a b d u s ( o t s t a o a d T h t w t d l r i s o a c t s i i w e i t d l i a t a d i O 3 b t o o t I t h i a m s o f h t h i d i p ( o t s b d a p t t d y i w t c a o]
+[DELETED: B4 T d m i a p n t e f p o t p I a a t b d u s ( o t s i n p T d m a a r i c n o c f a.(.S.T a t 2 A t e]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4051
+Sponsored by Representative RESCHKE, Senator DRAZAN; Representative SCHARF (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would have loans made to first-time home buyers to offset closing costs. The
+Act would make the loan plus interest due when the home is sold, the borrower moves out or, if the
+home is a mobile home, it is moved out of state. The Act would have the program run for three
+years. (Flesch Readability Score: 88.1).
+Creates a program for deferred loans to first-time home buyers in an amount not greater than
+the lesser of the closing costs on the purchase or one percent of the purchase price. Makes the de-
+ferred loans repayable when the home changes ownership, is no longer the homestead of the bor-
+rower or, if the home is mobile, is moved out of state. Retires the program after three years.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to first-time homeownership; and declaring an emergency.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. (1)(a) Deferred loans shall be made in accordance with subsection (4) of this
+5 section to individuals determined to be eligible under subsection (2) of this section in an
+6 amount equal to the lesser of the actual closing costs on the purchase of a homestead, as
+7 defined in ORS 311.666, by the individual and one percent of the purchase price of the
+8 homestead.
+9 (b) Deferred loans shall accrue interest at a rate of six percent simple interest per an-
+10 num from the date on which the loan is made.
+11 (2) An individual is eligible to claim a deferred loan if the individual:
+12 (a) Purchases a homestead located in Oregon;
+13 (b)(A) Individually owns the fee simple estate of the homestead under a recorded instru-
+14 ment of sale; or
+15 (B) If two or more owners live in the property and all owners file a claim jointly, owns
+16 the fee simple estate with rights of survivorship under a recorded instrument of sale with
+17 all other claimants;
+18 (c) Has never previously owned a homestead in any jurisdiction;
+19 (d) Purchases the homestead at a price that is not greater than the county median RMV,
+20 as defined in ORS 311.666;
+21 (e) Pays at least three percent of the purchase price in cash;
+22 (f) Has insured the homestead for fire and other casualty; and
+23 (g) Has a household income and net worth that are within the limits established under
+24 ORS 311.668 (2).
+25 (3)(a) Within 180 days following the purchase of a homestead, an individual seeking a
+26 deferred loan must file a claim with the Department of Revenue that includes documentation
+27 demonstrating to the department’s satisfaction the individual’s eligibility for the loan.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 233
+
+HB 4051
+1 (b) A claim must be signed by the individual, subject to the penalties for false swearing
+2 under ORS 162.075.
+3 (c) The department shall establish by rule a timeline and other matters necessary for the
+4 filing and review of claims.
+5 (d) The department shall review all claims in a timely manner and notify the claimant
+6 of the acceptance or rejection of the claim.
+7 (e) An individual aggrieved by the rejection of a claim may appeal the rejection to the
+8 Oregon Tax Court within the time and in the manner provided in ORS 305.404 to 305.560.
+9 (4)(a) Claims shall be granted on a first-come, first-served basis based on the date on
+10 which the claim was filed.
+11 (b) Notwithstanding paragraph (a) of this subsection, no more than 500 deferred loans
+12 may be made for any calendar year.
+13 (5)(a) The deferred loans shall be made from moneys in the Senior Property Tax Deferral
+14 Revolving Account established under ORS 311.701.
+15 (b) The department may make deferred loans on a quarterly basis.
+16 (6)(a) The receipt of a deferred loan gives rise to a lien against the homestead in the
+17 amount of the loan, including interest accrued under subsection (1)(b) of this section and any
+18 penalties imposed under subsection (8)(c) of this section, less any amounts paid in accord-
+19 ance with subsection (7) of this section before the amount becomes due under subsection (8)
+20 of this section.
+21 (b) A lien arising under this section has the same priority as liens created under ORS
+22 311.679.
+23 (7) All or part of the amount of a deferred loan, including accrued interest, may be paid
+24 without penalty at any time before the amount becomes due under subsection (8) of this
+25 section.
+26 (8)(a) Except as provided in paragraph (c) of this subsection, the amount of a deferred
+27 loan, including accrued interest, becomes due when:
+28 (A) The homestead to which the deferred loan relates is sold, or a contract to sell is
+29 entered into, or some person other than the individual who entered into the deferred loan
+30 agreement, including a transferee, as defined in ORS 311.666, becomes the owner of the
+31 property.
+32 (B) The property is no longer the homestead of the individual who entered into the de-
+33 ferred loan agreement, except in the case of an individual who is required to be absent from
+34 the homestead by reason of health or military service.
+35 (C) If the homestead is a manufactured structure or floating home, the homestead is
+36 moved out of this state.
+37 (b)(A) If a circumstance listed in paragraph (a)(A) or (B) of this subsection occurs, the
+38 amount described in paragraph (a) of this subsection becomes due and payable to the de-
+39 partment on or before August 15 of the year following the calendar year in which the cir-
+40 cumstance that triggers the payment occurs.
+41 (B) If the circumstance listed in paragraph (a)(C) of this subsection occurs, the amount
+42 becomes due and payable five days before the date on which the homestead is removed from
+43 this state.
+44 (c)(A) If an individual willfully makes a false statement or misrepresentation, or willfully
+45 fails to report a material fact, to obtain a deferred loan under this section, the amount of
+[2]
+
+HB 4051
+1 the deferred loan, including accrued interest and any penalties imposed under this paragraph,
+2 becomes immediately due and payable.
+3 (B) The department may impose a penalty not to exceed five percent of the principal
+4 amount of the deferred loan for the false statement, misrepresentation or failure to report
+5 a material fact.
+6 (9)(a) If an amount that becomes due under subsection (8) of this section is not paid
+7 within 90 days following the due date, the amount shall be deemed delinquent as of the due
+8 date and the lien against the property shall be subject to foreclosure as if it were a purchase
+9 money mortgage under ORS chapter 88.
+10 (b) In a foreclosure action under this section, a court may award:
+11 (A) Reasonable attorney fees to the prevailing party.
+12 (B) All costs associated with foreclosure of the lien to the department if the department
+13 prevails.
+14 (10) All amounts paid under this section, including receipts from foreclosure proceedings,
+15 shall be transferred to the Senior Property Tax Deferral Revolving Account.
+16 (11) The department shall publish information about the deferred loan program, including
+17 the eligibility requirements, claim process and terms of deferred loans, on the department’s
+18 Internet website.
+19 (12) The department may adopt any rules it considers necessary or convenient for ad-
+20 ministering the deferred loan program established under this section.
+21 SECTION 2. (1) Deferred loans may be made under section 1 of this 2026 Act for home-
+22 steads purchased in calendar years 2026, 2027 and 2028.
+23 (2) Notwithstanding any timelines established under section 1 (3) of this 2026 Act, claims
+24 for a deferred loan with respect to a homestead purchased in calendar year 2026 may be made
+25 at any time after the effective date of this 2026 Act and on or before December 31, 2026.
+26 (3) The repeal of section 1 of this 2026 Act by section 3 of this 2026 Act is not a circum-
+27 stance that triggers repayment of a deferred loan under section 1 (8) of this 2026 Act.
+28 SECTION 3. Sections 1 and 2 of this 2026 Act are repealed on January 2, 2030.
+29 SECTION 4. This 2026 Act being necessary for the immediate preservation of the public
+30 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+31 on its passage.
+32
+[3]
+
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T T A w h l m t f h b t o c c T i a m h i i m o o s T A w h t p r f t:8 a n g t l r w t h c o i n l t h o t b.( t i d t b e u s ( o t s i a e t t i O 3 b t i a o p o t p p o t f s e w W 1 d f t p o a h a i s :M[]]
+[DELETED: B4 T d s r a c i r o a c m a t r t t C s b g o a f f b b o t d o N p ( o t s n m t 5 d l T r o a d l g r t a l a t h i t s l a a p i a A l a u t s h t s p p a a t b t a b d u s ( o t s t a o a d T h t w t d l r i s o a c t s i i w e i t d l i a t a d i O 3 b t o o t I t h i a m s o f h t h i d i p ( o t s b d a p t t d y i w t c a o]
+[DELETED: B4 T d m i a p n t e f p o t p I a a t b d u s ( o t s i n p T d m a a r i c n o c f a.(.S.T a t 2 A t e]

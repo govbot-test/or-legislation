@@ -1,0 +1,720 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+Senate Bill 1578
+Sponsored by Senator NASH, Representatives OWENS, SKARLATOS; Senators FREDERICK, SMITH DB, WEBER,
+Representatives EVANS, JAVADI, LEVY B, MCDONALD, SMITH G (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act allows rural counties to zone up to 50 acres for homes and allows more rural
+ADUs. (Flesch Readability Score: 66.3).
+Allows counties with a population density of less than 30 people per square mile to rezone up
+to 50 acres to be divided and developed for residential dwellings of at least five units per acre.
+Sunsets January 2, 2034.
+Expands allowed development of accessory dwelling units to farmland with certain existing
+nonfarm dwellings. Allows the development of larger rural accessory dwelling units.
+1 A BILL FOR AN ACT
+2 Relating to rural residential development; creating new provisions; and amending ORS 197.783,
+3 197.791, 197A.400, 215.490, 215.495 and 215.501.
+4 Be It Enacted by the People of the State of Oregon:
+5
+6 RURAL REZONING
+7
+8 SECTION 1. Section 2 of this 2026 Act is added to and made a part of ORS chapter 215.
+9 SECTION 2. (1) Notwithstanding any land use planning goal related to urbanization or
+10 agricultural or forest land or any other provision of this chapter, a county with a population
+11 density of less than 30 people per square mile, based on the 2020 federal decennial census,
+12 may approve applications to rezone, and to permit the division of, up to 50 acres of land for
+13 residential uses, provided that:
+14 (a) The land to be rezoned is not within an urban growth boundary and is at least one
+15 acre;
+16 (b) Any remainder lot or parcel created by the division of land rezoned under this section
+17 meets any applicable minimum lot size requirements;
+18 (c) The approval would not result in a cumulative total of more than 50 acres rezoned
+19 by the county under this section; and
+20 (d) The rezoning and division complies with rezoning and land division criteria and stan-
+21 dards adopted by the county, except as otherwise provided in this section.
+22 (2) Lands rezoned under this section must be developed for housing:
+23 (a) With an average density of at least five dwelling units per acre;
+24 (b) With each dwelling unit no more than 1,200 square feet in size; and
+25 (c) That may not be used for vacation occupancy, as defined in ORS 90.100.
+26 (3) The governing body of the county must give the final approval for any proposed re-
+27 zoning under this section.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 85
+SB 1578
+1 (4) Prior to approval of an application under this section, the property owner must agree
+2 as a condition of approval to sign and record in the county deed records an irrevocable deed
+3 restriction, in the form prescribed by the county, acknowledging the protected rights of
+4 farm, forest and rangeland practices in the area and prohibiting the owner and the owner’s
+5 successors in interest from pursuing a cause of action or claim of relief alleging an injury
+6 from any farming, forest or rangeland practices if no claim or action is allowed under ORS
+7 30.936 or 30.937 if the farming, forest or rangeland practices are otherwise protected by law.
+8 (5) Each county that has rezoned lands under this section shall report annually to the
+9 Department of Land Conservation and Development on:
+10 (a) The total acreage rezoned;
+11 (b) The number of housing units developed;
+12 (c) The average rental or sale price of developed units; and
+13 (d) Other information as requested by the department to evaluate the effectiveness of
+14 this section.
+15 SECTION 3. Section 2 of this 2026 Act is repealed on January 2, 2034.
+16
+17 ACCESSORY DWELLING UNITS
+18
+19 SECTION 4. ORS 215.501 is amended to read:
+20 215.501. (1) As used in this section:
+21 (a) “Accessory dwelling unit” means a residential structure that is used in connection with or
+22 that is auxiliary to a single-unit dwelling.
+23 (b) “Area zoned for rural residential use” means [land] a lot or parcel that is not located inside
+24 an urban growth boundary as defined in ORS 197.015 and that is:
+25 (A) Subject to an acknowledged exception to a statewide land use planning goal relating to
+26 farmland or forestland and planned and zoned by the county to allow residential use as a primary
+27 use; or
+28 (B) Zoned for exclusive farm use but has a dwelling that was sited on the lot or parcel
+29 under ORS 215.213 (3) or (4) or 215.284.
+30 (c) “Historic home” means a single-unit dwelling constructed between 1850 and 1945.
+31 (d) “New” means that the dwelling being constructed did not previously exist in residential or
+32 nonresidential form. “New” does not include the acquisition, alteration, renovation or remodeling
+33 of an existing structure.
+34 (e) “Single-unit dwelling” means a residential structure designed as a residence for one family
+35 and sharing no common wall with another residence of any type.
+36 (2) Notwithstanding any local zoning or local regulation or ordinance pertaining to the siting
+37 of accessory dwelling units in areas zoned for rural residential use, a county may allow an owner
+38 of a lot or parcel within an area zoned for rural residential use to construct a new single-unit
+39 dwelling on the lot or parcel, provided:
+40 (a) The lot or parcel is not located in an area designated as an urban reserve as defined in ORS
+41 197A.230;
+42 (b) The lot or parcel is at least two acres in size;
+43 (c) A historic home is sited on the lot or parcel;
+44 (d) The owner converts the historic home to an accessory dwelling unit upon completion of the
+45 new single-unit dwelling; and
+[2]
+SB 1578
+1 (e) The accessory dwelling unit complies with all applicable laws and regulations relating to
+2 sanitation and wastewater disposal and treatment.
+3 (3) An owner that constructs a new single-unit dwelling under subsection (2) of this section may
+4 not:
+5 (a) Subdivide, partition or otherwise divide the lot or parcel so that the new single-unit dwelling
+6 is situated on a different lot or parcel from the accessory dwelling unit.
+7 (b) Alter, renovate or remodel the accessory dwelling unit so that the square footage of the
+8 accessory dwelling unit is more than 120 percent of the historic home’s square footage at the time
+9 construction of the new single-unit dwelling commenced.
+10 (c) Rebuild the accessory dwelling unit if the structure is lost to fire.
+11 (d) Construct an additional accessory dwelling unit on the same lot or parcel.
+12 (4) A county may require that a new single-unit dwelling constructed under this section be
+13 served by the same water supply source as the accessory dwelling unit.
+14 (5) A county may impose additional conditions of approval for construction of a new single-unit
+15 dwelling or conversion of a historic home to an accessory dwelling unit under this section.
+16 SECTION 5. ORS 215.495 is amended to read:
+17 215.495. (1) As used in this section:
+18 (a) “Accessory dwelling unit” has the meaning given that term in ORS 215.501.
+19 (b) “Area zoned for rural residential use” has the meaning given that term in ORS 215.501.
+20 (c) “Single-unit dwelling” has the meaning given that term in ORS 215.501.
+21 (2) Consistent with a county’s comprehensive plan, a county may allow an owner of a lot or
+22 parcel within an area zoned for rural residential use to construct one accessory dwelling unit on the
+23 lot or parcel, provided:
+24 (a) The lot or parcel is not located within an area designated as an urban reserve as defined in
+25 ORS 197A.230;
+26 (b) The lot or parcel is at least two acres in size;
+27 (c) One single-unit dwelling is sited on the lot or parcel;
+28 (d) The existing single-unit dwelling property on the lot or parcel is not subject to an order
+29 declaring it a nuisance or subject to any pending action under ORS 105.550 to 105.600;
+30 (e) The accessory dwelling unit will comply with all applicable laws and regulations relating to
+31 sanitation and wastewater disposal and treatment;
+32 (f) The accessory dwelling unit will not include more than [900] 2,500 square feet of usable floor
+33 area;
+34 (g) The accessory dwelling unit will be located no farther than 100 feet from the existing
+35 single-unit dwelling;
+36 (h) If the water supply source for the accessory dwelling unit or associated lands or gardens
+37 will be a well using water under ORS 537.545 (1)(b) or (d), no portion of the lot or parcel is within
+38 an area in which new or existing ground water uses under ORS 537.545 (1)(b) or (d) have been re-
+39 stricted by the Water Resources Commission;
+40 (i) No portion of the lot or parcel is within a designated area of critical state concern;
+41 (j) The lot or parcel is served by a fire protection service provider with professionals who have
+42 received training or certification described in ORS 181A.410; and
+43 (k) The county has adopted land use regulations that ensure that:
+44 (A) The accessory dwelling unit has adequate setbacks from adjacent lands zoned for resource
+45 use; and
+[3]
+SB 1578
+1 (B) The accessory dwelling unit has adequate access for firefighting equipment, safe evacuation
+2 and staged evacuation areas.
+3 (3) A county may not allow an accessory dwelling unit allowed under this section to be used for
+4 vacation occupancy, as defined in ORS 90.100.
+5 (4) A county that allows construction of an accessory dwelling unit under this section may not
+6 approve:
+7 (a) A subdivision, partition or other division of the lot or parcel so that the existing single-unit
+8 dwelling is situated on a different lot or parcel than the accessory dwelling unit.
+9 (b) Construction of an additional accessory dwelling unit on the same lot or parcel.
+10 (5) A county may require that an accessory dwelling unit constructed under this section be
+11 served by the same water supply source or water supply system as the existing single-unit dwelling,
+12 provided such use is allowed for the accessory dwelling unit by an existing water right or a use
+13 under ORS 537.545. If the accessory dwelling unit is served by a well, the construction of the ac-
+14 cessory dwelling unit shall maintain all setbacks from the well required by the Water Resources
+15 Commission or Water Resources Department.
+16 (6) An existing single-unit dwelling and an accessory dwelling unit allowed under this section
+17 are considered a single unit for the purposes of calculating exemptions under ORS 537.545 (1).
+18 (7) Nothing in this section requires a county to allow any accessory dwelling units in areas
+19 zoned for rural residential use or prohibits a county from imposing any additional restrictions on
+20 accessory dwelling units in areas zoned for rural residential use, including restrictions on the con-
+21 struction of garages and outbuildings that support an accessory dwelling unit.
+22
+23 CONFORMING AMENDMENTS
+24
+25 SECTION 6. ORS 197.791 is amended to read:
+26 197.791. (1) As used in this section:
+27 (a) “Area zoned for rural residential use” means land that is not within an urban growth
+28 boundary, as defined in ORS 197.015, and that is subject to an acknowledged exception to a
+29 statewide land use planning goal relating to farmland or forestland and planned and zoned
+30 by the county to allow residential use as a primary use.
+31 [(a)] (b) “Local government” means a city or county.
+32 [(b)] (c) “Surplus real property” means real property in which a government entity holds title
+33 through a deed or other legal instrument that is no longer suitable or needed for the duties and
+34 responsibilities of the government entity.
+35 (2) The Department of Land Conservation and Development shall develop and implement an
+36 electronic system for receiving and displaying inventory information described in subsection (3) of
+37 this section. The electronic system must be a web-based or online system that allows:
+38 (a) Government entities to upload inventories described in subsection (3) of this section using
+39 a template developed by the department; and
+40 (b) The general public to search and view information stored by the system.
+41 (3)(a) No later than January 1 of each even-numbered year, each local government shall prepare
+42 and submit to the department, using the system developed under subsection (2) of this section, an
+43 inventory of surplus real property owned by the local government that is:
+44 (A) Located inside an urban growth boundary; or
+45 (B) Located in an area zoned for rural residential use [as defined in ORS 215.501].
+[4]
+SB 1578
+1 (b) A mass transit district established under ORS 267.010 to 267.394 or a transportation district
+2 organized under ORS 267.510 to 267.650 may submit to the department an inventory of surplus real
+3 property owned by the district as described in paragraph (a) of this subsection.
+4 (4) Nothing in this section requires the department to verify the accuracy of information re-
+5 ceived by the department using the system developed under subsection (2) of this section before
+6 making the information available to the public.
+7 (5) No later than February 1 of each even-numbered year, the department shall present the in-
+8 formation received by the department under subsection (3) of this section in a report to the interim
+9 committees of the Legislative Assembly related to housing in the manner provided under ORS
+10 192.245.
+11 SECTION 7. ORS 197.783 is amended to read:
+12 197.783. (1) A local government shall approve an application for the development or use of land
+13 for an emergency shelter, as defined in ORS 197.782, on any property, notwithstanding this chapter
+14 or ORS chapter 195, 197A, 215 or 227 or any statewide land use planning goal, rule of the Land
+15 Conservation and Development Commission or local land use regulation, zoning ordinance, regional
+16 framework plan, functional plan or comprehensive plan, if the emergency shelter:
+17 (a) Includes sleeping and restroom facilities for clients;
+18 (b) Will comply with applicable building codes;
+19 (c) Is located inside an urban growth boundary or in an area zoned for rural residential use as
+20 defined in ORS [215.501] 197.791;
+21 (d) Will not result in the development of a new building that is sited within an area designated
+22 under a statewide planning goal relating to natural disasters and hazards, including flood plains or
+23 mapped environmental health hazards, unless the development complies with regulations directly
+24 related to the hazard;
+25 (e) Has adequate transportation access to commercial and medical services; and
+26 (f) Will not pose any unreasonable risk to public health or safety.
+27 (2) An emergency shelter allowed under this section must be operated by:
+28 (a) A local government as defined in ORS 174.116;
+29 (b) An organization with at least two years’ experience operating an emergency shelter using
+30 best practices that is:
+31 (A) A local housing authority as defined in ORS 456.375;
+32 (B) A religious corporation as defined in ORS 65.001; or
+33 (C) A public benefit corporation, as defined in ORS 65.001, whose charitable purpose includes
+34 the support of homeless individuals, that has been recognized as exempt from income tax under
+35 section 501(a) of the Internal Revenue Code for at least three years before the date of the applica-
+36 tion for a shelter; or
+37 (c) A nonprofit corporation partnering with any other entity described in this subsection.
+38 (3) An emergency shelter approved under this section:
+39 (a) May provide on-site for its clients and at no cost to the clients:
+40 (A) Showering or bathing;
+41 (B) Storage for personal property;
+42 (C) Laundry facilities;
+43 (D) Service of food prepared on-site or off-site;
+44 (E) Recreation areas for children and pets;
+45 (F) Case management services for housing, financial, vocational, educational or physical or be-
+[5]
+SB 1578
+1 havioral health care services; or
+2 (G) Any other services incidental to shelter.
+3 (b) May include youth shelters, winter or warming shelters, day shelters and family violence
+4 shelter homes as defined in ORS 409.290.
+5 (4) An emergency shelter approved under this section may also provide additional services not
+6 described in subsection (3) of this section to individuals who are transitioning from unsheltered
+7 homeless status. An organization providing services under this subsection may charge a fee of no
+8 more than $300 per month per client and only to clients who are financially able to pay the fee and
+9 who request the services.
+10 (5)(a) The approval or denial of an emergency shelter under this section may be made without
+11 a hearing. Whether or not a hearing is held, the approval or denial is not a land use decision and
+12 is subject to review only under ORS 34.010 to 34.100.
+13 (b) A reviewing court shall award attorney fees to:
+14 (A) A local government, and any intervening applicant, that prevails on the appeal of a local
+15 government’s approval; and
+16 (B) An applicant that prevails on an appeal of a local government’s denial.
+17 (6) An application for an emergency shelter is not subject to approval under this section if, at
+18 the time of filing, the most recently completed point-in-time count, as reported to the United States
+19 Department of Housing and Urban Development under 24 C.F.R. part 578, indicated that the total
+20 sheltered and unsheltered homeless population was less than 0.18 percent of the state population,
+21 based on the latest estimate from the Portland State University Population Research Center.
+22 SECTION 8. ORS 197A.400 is amended to read:
+23 197A.400. (1)(a) Except as provided in subsection (3) of this section, a local government may
+24 adopt and apply only clear and objective standards, conditions and procedures regulating:
+25 (A) The development of housing; and
+26 (B) Tree removal codes related to the development of housing.
+27 (b) The standards, conditions and procedures:
+28 (A) May include, but are not limited to, one or more provisions regulating the density or height
+29 of a development.
+30 (B) May not have the effect, either in themselves or cumulatively, of discouraging needed
+31 housing through unreasonable cost or delay.
+32 (C) May be contained in a comprehensive plan, land use regulation or an ordinance relating to
+33 housing adopted by a city that adopts, including by reference, a model ordinance adopted by the
+34 Land Conservation and Development Commission that comports with any qualifications, conditions
+35 or applicability of the model ordinance.
+36 (c) This subsection applies only within:
+37 (A) An urban growth boundary;
+38 (B) An unincorporated community designated in a county’s acknowledged comprehensive plan
+39 after December 5, 1994;
+40 (C) Nonresource land; or
+41 (D) An area zoned for rural residential use as defined in ORS [215.501] 197.791.
+42 (2) The provisions of subsection (1) of this section do not apply to:
+43 (a) An application or permit for residential development in an area identified in a formally
+44 adopted central city plan, or a regional center as defined by Metro, in a city with a population of
+45 500,000 or greater.
+[6]
+SB 1578
+1 (b) An application or permit for residential development in historic areas designated for pro-
+2 tection under a land use planning goal protecting historic areas.
+3 (3) In addition to an approval process for needed housing based on clear and objective standards,
+4 conditions and procedures as provided in subsection (1) of this section, a local government may
+5 adopt and apply an alternative approval process for applications and permits for residential devel-
+6 opment based on approval criteria that are not clear and objective if:
+7 (a) The applicant retains the option of proceeding under the approval process that meets the
+8 requirements of subsection (1) of this section;
+9 (b) The approval criteria for the alternative approval process comply with applicable statewide
+10 land use planning goals and rules; and
+11 (c) The approval criteria for the alternative approval process authorize a density at or above
+12 the density level authorized in the zone under the approval process provided in subsection (1) of this
+13 section.
+14 (4) Subject to subsection (1) of this section, this section does not infringe on a local
+15 government’s prerogative to:
+16 (a) Set approval standards under which a particular housing type is permitted outright;
+17 (b) Impose special conditions upon approval of a specific development proposal; or
+18 (c) Establish approval procedures.
+19 SECTION 9. ORS 215.490 is amended to read:
+20 215.490. (1) As used in this section:
+21 (a) “Recreational vehicle” means a recreational vehicle that has not been rendered structurally
+22 immobile and is titled with the Department of Transportation.
+23 (b) “Rural area” means an area zoned for rural residential use as defined in ORS [215.501]
+24 197.791 or land that is within the urban growth boundary of a metropolitan service district, but not
+25 within the jurisdiction of any city, and zoned for residential use.
+26 (2) A county may allow an owner of a lot or parcel in a rural area to site on the property one
+27 recreational vehicle that is used for residential purposes and is subject to a residential rental
+28 agreement, provided:
+29 (a) The property is not within an area designated as an urban reserve as defined in ORS
+30 197A.230;
+31 (b) A single-unit dwelling that is occupied as the primary residence of the property owner is
+32 sited on the property;
+33 (c) There are no other dwelling units on the property and no portion of the single-unit dwelling
+34 is rented as a residential tenancy;
+35 (d) The property owner will not allow the use of the recreational vehicle space or recreational
+36 vehicle for vacation occupancy, as defined in ORS 90.100, or other short-term uses;
+37 (e) The recreational vehicle is owned or leased by the tenant; and
+38 (f) The property owner will provide essential services to the recreational vehicle space, as de-
+39 scribed in ORS 90.100 (15)(b).
+40 (3) A county may require that an owner of a lot or parcel who sites a recreational vehicle under
+41 this section:
+42 (a) Register the use with the county.
+43 (b) Enter into a written residential rental agreement with the tenant of the recreational vehicle.
+44 (c) Limit the amount of payments that the property owner may accept from the tenant under
+45 ORS 90.140 to those reasonably necessary to cover the owner’s costs or losses.
+[7]
+SB 1578
+1 (d) Require that the recreational vehicle comply with any reasonable appearance, repair, in-
+2 spection or siting standards adopted by the county.
+3 (4) Notwithstanding ORS 455.405, a recreational vehicle sited under this section is not subject
+4 to the state building code.
+5
+6 CAPTIONS
+7
+8 SECTION 10. The unit captions used in this 2026 Act are provided only for the conven-
+9 ience of the reader and do not become part of the statutory law of this state or express any
+10 legislative intent in the enactment of this 2026 Act.
+11
+[8]
+[DELETED:  B 1 c b t L A I i a e b s o t e f o t.T:6 c w a p 5 a t b d a d f r d o a l f u p a a d o a d u t f w c e t r r d c n p a a O 1.S 2.( N a l u p g r t u o b o t 2 f d c o T a w n r i a c:M[]]
+[DELETED: B1 i t f p b t c a t p r o i t s s r a t t O i a r b t d t e t e oss.S “ d u[] S t a a e t a s l u p g r t o f a p “ m f “ d n i t a a r o r “ d m a r s d N a l z o l r o o p t t s a d u i a z a l o p w a a z f r r u t c a n s]
+[DELETED: B1 T a d u c w a a l a r r t A r o r t a d u s t t s f o t A c m r t a n s d c u t s b C w a c c p a c m a a o o a l o T e s d p o t l o p i n s t a o[] T a d u w b l n f t 1 f f t etd I t w s s f t a d u o a l o g a f r;a]
+[DELETED: B1 A c m r t a a d u c u t s b s u i a f t a d u b a e w r o a u O 5 I t a d u i s b a w t c o d u s m a s f t w r b t W R A e s d a a a d u a u t s N i t s r a c t a a a d u i a f r r u o p a c f i a a r o f o f a p a z]] “ r p m r p i w a g a d o o l i t i n l s o n f t d a T D o L C a D s d a i a d i i d i s ( o G e t u i d i s ( o t s u t d u t s d u s ( o t s a[]]
+[DELETED: B1 N i t s r t d t v t a o i r b t d u t s d u s ( o t s b o t L A r t h i t m p u O O c 1 1 2 o 2 o a s l u p g r o t L[] e h h u t d c w r d A o w a l t y e o a e s u A p b c a d i O 6 w c p i s o h i t h b r a e f i t u C]
+[DELETED: B1 M i y s w o w s d s a f v i s ( o t s t i w a t f u s A o p s u t s m c a f o n m w A l g a a i a t p o t a o a l o H a U D u 2 C p a u h p w l t 0 p o t s p ( E a p i s ( o t s a l g m M n h t e e i t o c o d n a b a c t a i b r a m o a b t C a D A u c d i a c a c p[] A a o p f r d i a a i i a f o]
+[DELETED: B1 A a o p f r d i h a d f p a p a p i s ( o t s a l g m a a a a a T a r t o o p u t a p t m t T a c f t a a p a a d a o a S t s ( o t s t s d n i o a l “ a m a a z f r r u a d i O [ v t i u f r p a i s t a r r,p T p i n w a a d a a u r a d i O A s d t i o a t p r o t p o i r v s a dss L t a o p t t p o m a f t t u]
+[DELETED: B1 R t t r v c w a r a r i N O 4 a r.T]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1578
+Sponsored by Senator NASH, Representatives OWENS, SKARLATOS; Senators FREDERICK, SMITH DB, WEBER,
+Representatives EVANS, JAVADI, LEVY B, MCDONALD, SMITH G (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act allows rural counties to zone up to 50 acres for homes and allows more rural
+ADUs. (Flesch Readability Score: 66.3).
+Allows counties with a population density of less than 30 people per square mile to rezone up
+to 50 acres to be divided and developed for residential dwellings of at least five units per acre.
+Sunsets January 2, 2034.
+Expands allowed development of accessory dwelling units to farmland with certain existing
+nonfarm dwellings. Allows the development of larger rural accessory dwelling units.
+1 A BILL FOR AN ACT
+2 Relating to rural residential development; creating new provisions; and amending ORS 197.783,
+3 197.791, 197A.400, 215.490, 215.495 and 215.501.
+4 Be It Enacted by the People of the State of Oregon:
+5
+6 RURAL REZONING
+7
+8 SECTION 1. Section 2 of this 2026 Act is added to and made a part of ORS chapter 215.
+9 SECTION 2. (1) Notwithstanding any land use planning goal related to urbanization or
+10 agricultural or forest land or any other provision of this chapter, a county with a population
+11 density of less than 30 people per square mile, based on the 2020 federal decennial census,
+12 may approve applications to rezone, and to permit the division of, up to 50 acres of land for
+13 residential uses, provided that:
+14 (a) The land to be rezoned is not within an urban growth boundary and is at least one
+15 acre;
+16 (b) Any remainder lot or parcel created by the division of land rezoned under this section
+17 meets any applicable minimum lot size requirements;
+18 (c) The approval would not result in a cumulative total of more than 50 acres rezoned
+19 by the county under this section; and
+20 (d) The rezoning and division complies with rezoning and land division criteria and stan-
+21 dards adopted by the county, except as otherwise provided in this section.
+22 (2) Lands rezoned under this section must be developed for housing:
+23 (a) With an average density of at least five dwelling units per acre;
+24 (b) With each dwelling unit no more than 1,200 square feet in size; and
+25 (c) That may not be used for vacation occupancy, as defined in ORS 90.100.
+26 (3) The governing body of the county must give the final approval for any proposed re-
+27 zoning under this section.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 85
+
+SB 1578
+1 (4) Prior to approval of an application under this section, the property owner must agree
+2 as a condition of approval to sign and record in the county deed records an irrevocable deed
+3 restriction, in the form prescribed by the county, acknowledging the protected rights of
+4 farm, forest and rangeland practices in the area and prohibiting the owner and the owner’s
+5 successors in interest from pursuing a cause of action or claim of relief alleging an injury
+6 from any farming, forest or rangeland practices if no claim or action is allowed under ORS
+7 30.936 or 30.937 if the farming, forest or rangeland practices are otherwise protected by law.
+8 (5) Each county that has rezoned lands under this section shall report annually to the
+9 Department of Land Conservation and Development on:
+10 (a) The total acreage rezoned;
+11 (b) The number of housing units developed;
+12 (c) The average rental or sale price of developed units; and
+13 (d) Other information as requested by the department to evaluate the effectiveness of
+14 this section.
+15 SECTION 3. Section 2 of this 2026 Act is repealed on January 2, 2034.
+16
+17 ACCESSORY DWELLING UNITS
+18
+19 SECTION 4. ORS 215.501 is amended to read:
+20 215.501. (1) As used in this section:
+21 (a) “Accessory dwelling unit” means a residential structure that is used in connection with or
+22 that is auxiliary to a single-unit dwelling.
+23 (b) “Area zoned for rural residential use” means [land] a lot or parcel that is not located inside
+24 an urban growth boundary as defined in ORS 197.015 and that is:
+25 (A) Subject to an acknowledged exception to a statewide land use planning goal relating to
+26 farmland or forestland and planned and zoned by the county to allow residential use as a primary
+27 use; or
+28 (B) Zoned for exclusive farm use but has a dwelling that was sited on the lot or parcel
+29 under ORS 215.213 (3) or (4) or 215.284.
+30 (c) “Historic home” means a single-unit dwelling constructed between 1850 and 1945.
+31 (d) “New” means that the dwelling being constructed did not previously exist in residential or
+32 nonresidential form. “New” does not include the acquisition, alteration, renovation or remodeling
+33 of an existing structure.
+34 (e) “Single-unit dwelling” means a residential structure designed as a residence for one family
+35 and sharing no common wall with another residence of any type.
+36 (2) Notwithstanding any local zoning or local regulation or ordinance pertaining to the siting
+37 of accessory dwelling units in areas zoned for rural residential use, a county may allow an owner
+38 of a lot or parcel within an area zoned for rural residential use to construct a new single-unit
+39 dwelling on the lot or parcel, provided:
+40 (a) The lot or parcel is not located in an area designated as an urban reserve as defined in ORS
+41 197A.230;
+42 (b) The lot or parcel is at least two acres in size;
+43 (c) A historic home is sited on the lot or parcel;
+44 (d) The owner converts the historic home to an accessory dwelling unit upon completion of the
+45 new single-unit dwelling; and
+[2]
+
+SB 1578
+1 (e) The accessory dwelling unit complies with all applicable laws and regulations relating to
+2 sanitation and wastewater disposal and treatment.
+3 (3) An owner that constructs a new single-unit dwelling under subsection (2) of this section may
+4 not:
+5 (a) Subdivide, partition or otherwise divide the lot or parcel so that the new single-unit dwelling
+6 is situated on a different lot or parcel from the accessory dwelling unit.
+7 (b) Alter, renovate or remodel the accessory dwelling unit so that the square footage of the
+8 accessory dwelling unit is more than 120 percent of the historic home’s square footage at the time
+9 construction of the new single-unit dwelling commenced.
+10 (c) Rebuild the accessory dwelling unit if the structure is lost to fire.
+11 (d) Construct an additional accessory dwelling unit on the same lot or parcel.
+12 (4) A county may require that a new single-unit dwelling constructed under this section be
+13 served by the same water supply source as the accessory dwelling unit.
+14 (5) A county may impose additional conditions of approval for construction of a new single-unit
+15 dwelling or conversion of a historic home to an accessory dwelling unit under this section.
+16 SECTION 5. ORS 215.495 is amended to read:
+17 215.495. (1) As used in this section:
+18 (a) “Accessory dwelling unit” has the meaning given that term in ORS 215.501.
+19 (b) “Area zoned for rural residential use” has the meaning given that term in ORS 215.501.
+20 (c) “Single-unit dwelling” has the meaning given that term in ORS 215.501.
+21 (2) Consistent with a county’s comprehensive plan, a county may allow an owner of a lot or
+22 parcel within an area zoned for rural residential use to construct one accessory dwelling unit on the
+23 lot or parcel, provided:
+24 (a) The lot or parcel is not located within an area designated as an urban reserve as defined in
+25 ORS 197A.230;
+26 (b) The lot or parcel is at least two acres in size;
+27 (c) One single-unit dwelling is sited on the lot or parcel;
+28 (d) The existing single-unit dwelling property on the lot or parcel is not subject to an order
+29 declaring it a nuisance or subject to any pending action under ORS 105.550 to 105.600;
+30 (e) The accessory dwelling unit will comply with all applicable laws and regulations relating to
+31 sanitation and wastewater disposal and treatment;
+32 (f) The accessory dwelling unit will not include more than [900] 2,500 square feet of usable floor
+33 area;
+34 (g) The accessory dwelling unit will be located no farther than 100 feet from the existing
+35 single-unit dwelling;
+36 (h) If the water supply source for the accessory dwelling unit or associated lands or gardens
+37 will be a well using water under ORS 537.545 (1)(b) or (d), no portion of the lot or parcel is within
+38 an area in which new or existing ground water uses under ORS 537.545 (1)(b) or (d) have been re-
+39 stricted by the Water Resources Commission;
+40 (i) No portion of the lot or parcel is within a designated area of critical state concern;
+41 (j) The lot or parcel is served by a fire protection service provider with professionals who have
+42 received training or certification described in ORS 181A.410; and
+43 (k) The county has adopted land use regulations that ensure that:
+44 (A) The accessory dwelling unit has adequate setbacks from adjacent lands zoned for resource
+45 use; and
+[3]
+
+SB 1578
+1 (B) The accessory dwelling unit has adequate access for firefighting equipment, safe evacuation
+2 and staged evacuation areas.
+3 (3) A county may not allow an accessory dwelling unit allowed under this section to be used for
+4 vacation occupancy, as defined in ORS 90.100.
+5 (4) A county that allows construction of an accessory dwelling unit under this section may not
+6 approve:
+7 (a) A subdivision, partition or other division of the lot or parcel so that the existing single-unit
+8 dwelling is situated on a different lot or parcel than the accessory dwelling unit.
+9 (b) Construction of an additional accessory dwelling unit on the same lot or parcel.
+10 (5) A county may require that an accessory dwelling unit constructed under this section be
+11 served by the same water supply source or water supply system as the existing single-unit dwelling,
+12 provided such use is allowed for the accessory dwelling unit by an existing water right or a use
+13 under ORS 537.545. If the accessory dwelling unit is served by a well, the construction of the ac-
+14 cessory dwelling unit shall maintain all setbacks from the well required by the Water Resources
+15 Commission or Water Resources Department.
+16 (6) An existing single-unit dwelling and an accessory dwelling unit allowed under this section
+17 are considered a single unit for the purposes of calculating exemptions under ORS 537.545 (1).
+18 (7) Nothing in this section requires a county to allow any accessory dwelling units in areas
+19 zoned for rural residential use or prohibits a county from imposing any additional restrictions on
+20 accessory dwelling units in areas zoned for rural residential use, including restrictions on the con-
+21 struction of garages and outbuildings that support an accessory dwelling unit.
+22
+23 CONFORMING AMENDMENTS
+24
+25 SECTION 6. ORS 197.791 is amended to read:
+26 197.791. (1) As used in this section:
+27 (a) “Area zoned for rural residential use” means land that is not within an urban growth
+28 boundary, as defined in ORS 197.015, and that is subject to an acknowledged exception to a
+29 statewide land use planning goal relating to farmland or forestland and planned and zoned
+30 by the county to allow residential use as a primary use.
+31 [(a)] (b) “Local government” means a city or county.
+32 [(b)] (c) “Surplus real property” means real property in which a government entity holds title
+33 through a deed or other legal instrument that is no longer suitable or needed for the duties and
+34 responsibilities of the government entity.
+35 (2) The Department of Land Conservation and Development shall develop and implement an
+36 electronic system for receiving and displaying inventory information described in subsection (3) of
+37 this section. The electronic system must be a web-based or online system that allows:
+38 (a) Government entities to upload inventories described in subsection (3) of this section using
+39 a template developed by the department; and
+40 (b) The general public to search and view information stored by the system.
+41 (3)(a) No later than January 1 of each even-numbered year, each local government shall prepare
+42 and submit to the department, using the system developed under subsection (2) of this section, an
+43 inventory of surplus real property owned by the local government that is:
+44 (A) Located inside an urban growth boundary; or
+45 (B) Located in an area zoned for rural residential use [as defined in ORS 215.501].
+[4]
+
+SB 1578
+1 (b) A mass transit district established under ORS 267.010 to 267.394 or a transportation district
+2 organized under ORS 267.510 to 267.650 may submit to the department an inventory of surplus real
+3 property owned by the district as described in paragraph (a) of this subsection.
+4 (4) Nothing in this section requires the department to verify the accuracy of information re-
+5 ceived by the department using the system developed under subsection (2) of this section before
+6 making the information available to the public.
+7 (5) No later than February 1 of each even-numbered year, the department shall present the in-
+8 formation received by the department under subsection (3) of this section in a report to the interim
+9 committees of the Legislative Assembly related to housing in the manner provided under ORS
+10 192.245.
+11 SECTION 7. ORS 197.783 is amended to read:
+12 197.783. (1) A local government shall approve an application for the development or use of land
+13 for an emergency shelter, as defined in ORS 197.782, on any property, notwithstanding this chapter
+14 or ORS chapter 195, 197A, 215 or 227 or any statewide land use planning goal, rule of the Land
+15 Conservation and Development Commission or local land use regulation, zoning ordinance, regional
+16 framework plan, functional plan or comprehensive plan, if the emergency shelter:
+17 (a) Includes sleeping and restroom facilities for clients;
+18 (b) Will comply with applicable building codes;
+19 (c) Is located inside an urban growth boundary or in an area zoned for rural residential use as
+20 defined in ORS [215.501] 197.791;
+21 (d) Will not result in the development of a new building that is sited within an area designated
+22 under a statewide planning goal relating to natural disasters and hazards, including flood plains or
+23 mapped environmental health hazards, unless the development complies with regulations directly
+24 related to the hazard;
+25 (e) Has adequate transportation access to commercial and medical services; and
+26 (f) Will not pose any unreasonable risk to public health or safety.
+27 (2) An emergency shelter allowed under this section must be operated by:
+28 (a) A local government as defined in ORS 174.116;
+29 (b) An organization with at least two years’ experience operating an emergency shelter using
+30 best practices that is:
+31 (A) A local housing authority as defined in ORS 456.375;
+32 (B) A religious corporation as defined in ORS 65.001; or
+33 (C) A public benefit corporation, as defined in ORS 65.001, whose charitable purpose includes
+34 the support of homeless individuals, that has been recognized as exempt from income tax under
+35 section 501(a) of the Internal Revenue Code for at least three years before the date of the applica-
+36 tion for a shelter; or
+37 (c) A nonprofit corporation partnering with any other entity described in this subsection.
+38 (3) An emergency shelter approved under this section:
+39 (a) May provide on-site for its clients and at no cost to the clients:
+40 (A) Showering or bathing;
+41 (B) Storage for personal property;
+42 (C) Laundry facilities;
+43 (D) Service of food prepared on-site or off-site;
+44 (E) Recreation areas for children and pets;
+45 (F) Case management services for housing, financial, vocational, educational or physical or be-
+[5]
+
+SB 1578
+1 havioral health care services; or
+2 (G) Any other services incidental to shelter.
+3 (b) May include youth shelters, winter or warming shelters, day shelters and family violence
+4 shelter homes as defined in ORS 409.290.
+5 (4) An emergency shelter approved under this section may also provide additional services not
+6 described in subsection (3) of this section to individuals who are transitioning from unsheltered
+7 homeless status. An organization providing services under this subsection may charge a fee of no
+8 more than $300 per month per client and only to clients who are financially able to pay the fee and
+9 who request the services.
+10 (5)(a) The approval or denial of an emergency shelter under this section may be made without
+11 a hearing. Whether or not a hearing is held, the approval or denial is not a land use decision and
+12 is subject to review only under ORS 34.010 to 34.100.
+13 (b) A reviewing court shall award attorney fees to:
+14 (A) A local government, and any intervening applicant, that prevails on the appeal of a local
+15 government’s approval; and
+16 (B) An applicant that prevails on an appeal of a local government’s denial.
+17 (6) An application for an emergency shelter is not subject to approval under this section if, at
+18 the time of filing, the most recently completed point-in-time count, as reported to the United States
+19 Department of Housing and Urban Development under 24 C.F.R. part 578, indicated that the total
+20 sheltered and unsheltered homeless population was less than 0.18 percent of the state population,
+21 based on the latest estimate from the Portland State University Population Research Center.
+22 SECTION 8. ORS 197A.400 is amended to read:
+23 197A.400. (1)(a) Except as provided in subsection (3) of this section, a local government may
+24 adopt and apply only clear and objective standards, conditions and procedures regulating:
+25 (A) The development of housing; and
+26 (B) Tree removal codes related to the development of housing.
+27 (b) The standards, conditions and procedures:
+28 (A) May include, but are not limited to, one or more provisions regulating the density or height
+29 of a development.
+30 (B) May not have the effect, either in themselves or cumulatively, of discouraging needed
+31 housing through unreasonable cost or delay.
+32 (C) May be contained in a comprehensive plan, land use regulation or an ordinance relating to
+33 housing adopted by a city that adopts, including by reference, a model ordinance adopted by the
+34 Land Conservation and Development Commission that comports with any qualifications, conditions
+35 or applicability of the model ordinance.
+36 (c) This subsection applies only within:
+37 (A) An urban growth boundary;
+38 (B) An unincorporated community designated in a county’s acknowledged comprehensive plan
+39 after December 5, 1994;
+40 (C) Nonresource land; or
+41 (D) An area zoned for rural residential use as defined in ORS [215.501] 197.791.
+42 (2) The provisions of subsection (1) of this section do not apply to:
+43 (a) An application or permit for residential development in an area identified in a formally
+44 adopted central city plan, or a regional center as defined by Metro, in a city with a population of
+45 500,000 or greater.
+[6]
+
+SB 1578
+1 (b) An application or permit for residential development in historic areas designated for pro-
+2 tection under a land use planning goal protecting historic areas.
+3 (3) In addition to an approval process for needed housing based on clear and objective standards,
+4 conditions and procedures as provided in subsection (1) of this section, a local government may
+5 adopt and apply an alternative approval process for applications and permits for residential devel-
+6 opment based on approval criteria that are not clear and objective if:
+7 (a) The applicant retains the option of proceeding under the approval process that meets the
+8 requirements of subsection (1) of this section;
+9 (b) The approval criteria for the alternative approval process comply with applicable statewide
+10 land use planning goals and rules; and
+11 (c) The approval criteria for the alternative approval process authorize a density at or above
+12 the density level authorized in the zone under the approval process provided in subsection (1) of this
+13 section.
+14 (4) Subject to subsection (1) of this section, this section does not infringe on a local
+15 government’s prerogative to:
+16 (a) Set approval standards under which a particular housing type is permitted outright;
+17 (b) Impose special conditions upon approval of a specific development proposal; or
+18 (c) Establish approval procedures.
+19 SECTION 9. ORS 215.490 is amended to read:
+20 215.490. (1) As used in this section:
+21 (a) “Recreational vehicle” means a recreational vehicle that has not been rendered structurally
+22 immobile and is titled with the Department of Transportation.
+23 (b) “Rural area” means an area zoned for rural residential use as defined in ORS [215.501]
+24 197.791 or land that is within the urban growth boundary of a metropolitan service district, but not
+25 within the jurisdiction of any city, and zoned for residential use.
+26 (2) A county may allow an owner of a lot or parcel in a rural area to site on the property one
+27 recreational vehicle that is used for residential purposes and is subject to a residential rental
+28 agreement, provided:
+29 (a) The property is not within an area designated as an urban reserve as defined in ORS
+30 197A.230;
+31 (b) A single-unit dwelling that is occupied as the primary residence of the property owner is
+32 sited on the property;
+33 (c) There are no other dwelling units on the property and no portion of the single-unit dwelling
+34 is rented as a residential tenancy;
+35 (d) The property owner will not allow the use of the recreational vehicle space or recreational
+36 vehicle for vacation occupancy, as defined in ORS 90.100, or other short-term uses;
+37 (e) The recreational vehicle is owned or leased by the tenant; and
+38 (f) The property owner will provide essential services to the recreational vehicle space, as de-
+39 scribed in ORS 90.100 (15)(b).
+40 (3) A county may require that an owner of a lot or parcel who sites a recreational vehicle under
+41 this section:
+42 (a) Register the use with the county.
+43 (b) Enter into a written residential rental agreement with the tenant of the recreational vehicle.
+44 (c) Limit the amount of payments that the property owner may accept from the tenant under
+45 ORS 90.140 to those reasonably necessary to cover the owner’s costs or losses.
+[7]
+
+SB 1578
+1 (d) Require that the recreational vehicle comply with any reasonable appearance, repair, in-
+2 spection or siting standards adopted by the county.
+3 (4) Notwithstanding ORS 455.405, a recreational vehicle sited under this section is not subject
+4 to the state building code.
+5
+6 CAPTIONS
+7
+8 SECTION 10. The unit captions used in this 2026 Act are provided only for the conven-
+9 ience of the reader and do not become part of the statutory law of this state or express any
+10 legislative intent in the enactment of this 2026 Act.
+11
+[8]
+
+[DELETED:  B 1 c b t L A I i a e b s o t e f o t.T:6 c w a p 5 a t b d a d f r d o a l f u p a a d o a d u t f w c e t r r d c n p a a O 1.S 2.( N a l u p g r t u o b o t 2 f d c o T a w n r i a c:M[]]
+[DELETED: B1 i t f p b t c a t p r o i t s s r a t t O i a r b t d t e t e oss.S “ d u[] S t a a e t a s l u p g r t o f a p “ m f “ d n i t a a r o r “ d m a r s d N a l z o l r o o p t t s a d u i a z a l o p w a a z f r r u t c a n s]
+[DELETED: B1 T a d u c w a a l a r r t A r o r t a d u s t t s f o t A c m r t a n s d c u t s b C w a c c p a c m a a o o a l o T e s d p o t l o p i n s t a o[] T a d u w b l n f t 1 f f t etd I t w s s f t a d u o a l o g a f r;a]
+[DELETED: B1 A c m r t a a d u c u t s b s u i a f t a d u b a e w r o a u O 5 I t a d u i s b a w t c o d u s m a s f t w r b t W R A e s d a a a d u a u t s N i t s r a c t a a a d u i a f r r u o p a c f i a a r o f o f a p a z]] “ r p m r p i w a g a d o o l i t i n l s o n f t d a T D o L C a D s d a i a d i i d i s ( o G e t u i d i s ( o t s u t d u t s d u s ( o t s a[]]
+[DELETED: B1 N i t s r t d t v t a o i r b t d u t s d u s ( o t s b o t L A r t h i t m p u O O c 1 1 2 o 2 o a s l u p g r o t L[] e h h u t d c w r d A o w a l t y e o a e s u A p b c a d i O 6 w c p i s o h i t h b r a e f i t u C]
+[DELETED: B1 M i y s w o w s d s a f v i s ( o t s t i w a t f u s A o p s u t s m c a f o n m w A l g a a i a t p o t a o a l o H a U D u 2 C p a u h p w l t 0 p o t s p ( E a p i s ( o t s a l g m M n h t e e i t o c o d n a b a c t a i b r a m o a b t C a D A u c d i a c a c p[] A a o p f r d i a a i i a f o]
+[DELETED: B1 A a o p f r d i h a d f p a p a p i s ( o t s a l g m a a a a a T a r t o o p u t a p t m t T a c f t a a p a a d a o a S t s ( o t s t s d n i o a l “ a m a a z f r r u a d i O [ v t i u f r p a i s t a r r,p T p i n w a a d a a u r a d i O A s d t i o a t p r o t p o i r v s a dss L t a o p t t p o m a f t t u]
+[DELETED: B1 R t t r v c w a r a r i N O 4 a r.T]

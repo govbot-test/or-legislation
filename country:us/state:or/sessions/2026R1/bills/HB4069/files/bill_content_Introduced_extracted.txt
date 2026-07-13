@@ -1,0 +1,144 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4069
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Behavioral Health)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act requires a safety plan in certain mental health and SUD treatment settings.
+(Flesch Readability Score: 65.7).
+Requires a behavioral health employer to develop and implement a written safety plan.
+1 A BILL FOR AN ACT
+2 Relating to the safety of behavioral health workers; and prescribing an effective date.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. (1) As used in this section:
+5 (a) “Behavioral health employer” means any of the following entities that contract with
+6 the Oregon Health Authority for the provision of behavioral health services:
+7 (A) A residential treatment facility, as defined in ORS 443.400;
+8 (B) A residential treatment home, as defined in ORS 443.400;
+9 (C) A secure residential treatment facility, as described in ORS 443.465;
+10 (D) A secure residential treatment home, as described in ORS 443.465;
+11 (E) A sobering facility, as defined in ORS 430.306;
+12 (F) A detoxification center, as defined in ORS 430.306;
+13 (G) A halfway house, as defined in ORS 430.306;
+14 (H) A mobile crisis intervention team, as defined in ORS 430.626; or
+15 (I) An emergency shelter.
+16 (b) “Built environment” includes facilities, vehicles and other physical locations where
+17 work is performed on an ongoing basis.
+18 (c) “Lone worker” means an individual who works in a situation or location without a
+19 colleague nearby or where the individual works without close or direct supervision.
+20 (2) A behavioral health employer shall develop and implement a written safety plan. The
+21 safety plan must be tailored to the behavioral health employer’s specific context and easily
+22 accessible to staff. A behavioral health employer shall provide a copy of the safety plan to
+23 new workers upon hire.
+24 (3) A safety plan developed under this section must include:
+25 (a) A plan for the safety of lone workers.
+26 (b) A plan for the safety of the built environment, including:
+27 (A) How workers may report structural security hazards; and
+28 (B) The time frame within which the behavioral health employer must respond to a re-
+29 port of a structural security hazard.
+30 (c) Information for workers about the safety training that the behavioral health employer
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 229
+HB 4069
+1 is required to provide under ORS 430.775, including the time frame within which the employer
+2 must provide all required training for a new worker and how often the employer must pro-
+3 vide renewal training for current workers.
+4 SECTION 2. The requirements under section 1 of this 2026 Act apply to behavioral health
+5 employers as follows:
+6 (1) For a behavioral health employer that does not have a contract with the authority in
+7 effect on the effective date of this 2026 Act, the requirements apply on the date on which the
+8 behavioral health employer first enters into a contract with the authority for the provision
+9 of behavioral health services.
+10 (2) For a behavioral health employer that has an existing contract with the authority in
+11 effect on the effective date of this 2026 Act, the requirements apply on the effective date of
+12 the first renewal, extension or amendment of that contract occurring after the contract’s
+13 expiration.
+14 SECTION 3. This 2026 Act takes effect on July 1, 2027.
+15
+[2]
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T T A r a s p i c m h a S t s:6.( “ e i f v a o p l w a i w w i a s o l w  t s:M[]]
+[DELETED: B4.T e o a o t c o a t c.T]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4069
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Behavioral Health)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act requires a safety plan in certain mental health and SUD treatment settings.
+(Flesch Readability Score: 65.7).
+Requires a behavioral health employer to develop and implement a written safety plan.
+1 A BILL FOR AN ACT
+2 Relating to the safety of behavioral health workers; and prescribing an effective date.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. (1) As used in this section:
+5 (a) “Behavioral health employer” means any of the following entities that contract with
+6 the Oregon Health Authority for the provision of behavioral health services:
+7 (A) A residential treatment facility, as defined in ORS 443.400;
+8 (B) A residential treatment home, as defined in ORS 443.400;
+9 (C) A secure residential treatment facility, as described in ORS 443.465;
+10 (D) A secure residential treatment home, as described in ORS 443.465;
+11 (E) A sobering facility, as defined in ORS 430.306;
+12 (F) A detoxification center, as defined in ORS 430.306;
+13 (G) A halfway house, as defined in ORS 430.306;
+14 (H) A mobile crisis intervention team, as defined in ORS 430.626; or
+15 (I) An emergency shelter.
+16 (b) “Built environment” includes facilities, vehicles and other physical locations where
+17 work is performed on an ongoing basis.
+18 (c) “Lone worker” means an individual who works in a situation or location without a
+19 colleague nearby or where the individual works without close or direct supervision.
+20 (2) A behavioral health employer shall develop and implement a written safety plan. The
+21 safety plan must be tailored to the behavioral health employer’s specific context and easily
+22 accessible to staff. A behavioral health employer shall provide a copy of the safety plan to
+23 new workers upon hire.
+24 (3) A safety plan developed under this section must include:
+25 (a) A plan for the safety of lone workers.
+26 (b) A plan for the safety of the built environment, including:
+27 (A) How workers may report structural security hazards; and
+28 (B) The time frame within which the behavioral health employer must respond to a re-
+29 port of a structural security hazard.
+30 (c) Information for workers about the safety training that the behavioral health employer
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 229
+
+HB 4069
+1 is required to provide under ORS 430.775, including the time frame within which the employer
+2 must provide all required training for a new worker and how often the employer must pro-
+3 vide renewal training for current workers.
+4 SECTION 2. The requirements under section 1 of this 2026 Act apply to behavioral health
+5 employers as follows:
+6 (1) For a behavioral health employer that does not have a contract with the authority in
+7 effect on the effective date of this 2026 Act, the requirements apply on the date on which the
+8 behavioral health employer first enters into a contract with the authority for the provision
+9 of behavioral health services.
+10 (2) For a behavioral health employer that has an existing contract with the authority in
+11 effect on the effective date of this 2026 Act, the requirements apply on the effective date of
+12 the first renewal, extension or amendment of that contract occurring after the contract’s
+13 expiration.
+14 SECTION 3. This 2026 Act takes effect on July 1, 2027.
+15
+[2]
+
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T T A r a s p i c m h a S t s:6.( “ e i f v a o p l w a i w w i a s o l w  t s:M[]]
+[DELETED: B4.T e o a o t c o a t c.T]

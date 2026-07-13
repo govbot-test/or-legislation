@@ -1,0 +1,1532 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4073
+Sponsored by Representative SCHARF; Senator DRAZAN (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes some laws about agency actions. (Flesch Readability Score: 61.2).
+Modifies provisions relating to administrative law.
+Relocates provisions relating to portions of the fiscal impact statement for administrative rules
+regarding businesses and small businesses.
+1 A BILL FOR AN ACT
+2 Relating to administrative law; creating new provisions; amending ORS 183.333, 183.335, 183.355,
+3 183.482, 183.484, 196.115, 279B.415 and 813.450; and repealing ORS 183.336.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 183.333 is amended to read:
+6 183.333. [(1)(a)] (1) The Legislative Assembly finds and declares that it is the policy of this state
+7 that whenever possible the public be involved in the development of public policy by agencies and
+8 in the drafting of rules. The Legislative Assembly encourages agencies to seek public input to the
+9 maximum extent possible before giving notice of intent to adopt a rule. Before an agency gives
+10 notice of intent to adopt a permanent rule that will result in new requirements, changes to
+11 compliance obligations or new or increased costs for persons regulated by the agency, the
+12 agency shall appoint an advisory committee as described in this section. Before an agency
+13 gives notice of intent to adopt a rule that does not result in new requirements, changes to
+14 compliance obligations or new or increased costs for persons regulated by the agency, the
+15 agency may appoint an advisory committee or use any other means of obtaining public views that
+16 will assist the agency in drafting the rule.
+17 (2) At least 14 days before an agency gives notice of intent to adopt a permanent rule
+18 that will result in new requirements, changes to compliance obligations or new or increased
+19 costs for persons regulated by the agency, the agency shall post a public request for interest
+20 in a advisory committee for rule development. The agency shall send the notice to the list
+21 of interested parties developed under subsection (10) of this section and shall post the notice
+22 on the agency’s website. If the agency receives a request for appointment of an advisory
+23 committee from a person regulated by the agency or from an association of persons regu-
+24 lated by the agency during the 14-day period, the agency shall appoint an advisory committee.
+25 If the agency does not receive a request to appoint an advisory committee from a person
+26 regulated by the agency or from an association of persons regulated by the agency during
+27 the 14-day period, the agency may proceed with the rulemaking process without appointing
+28 an advisory committee.
+29 [(b)] (a) The membership of an advisory committee appointed under this [subsection] section
+30 must represent the interests of persons and communities likely to be affected by the rule[.], and
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 135
+HB 4073
+1 must include representatives of regulated entities of the agency and the program within the
+2 agency undertaking the rulemaking. The advisory committee may also include represen-
+3 tatives from unregulated entities but the number of representatives of unregulated entities
+4 may not exceed the number of representatives of regulated entities.
+5 [(c)] (b) An agency that appoints an advisory committee under this [subsection] section with
+6 regard to adoption of rules implementing legislation enacted by the Legislative Assembly shall invite
+7 to participate as a nonvoting member of the committee:
+8 (A) For legislation sponsored by a member of the Legislative Assembly, the first chief sponsor
+9 of the legislation, or another sponsor of the legislation as designated by the first chief sponsor.
+10 (B) For legislation sponsored by a committee of the Legislative Assembly, the chair of the
+11 committee that sponsored the legislation at the time the legislation was introduced, or another
+12 member of the committee as designated by the chair.
+13 [(2) Any agency in its discretion may develop a list of interested parties and inform those parties
+14 of any issue that may be the subject of rulemaking and invite the parties to make comments on the is-
+15 sue.]
+16 (3) An advisory committee appointed under this section may meet in person or virtually,
+17 but meetings of the advisory committee must be open to the public and the advisory com-
+18 mittee process must include an opportunity for public comment.
+19 [(3)] (4) If an agency appoints an advisory committee for consideration of a rule under [sub-
+20 section (1) of] this section, the agency shall seek the committee’s recommendations on whether the
+21 rule will have a fiscal impact, what the extent of that impact will be and whether the rule will have
+22 a significant adverse impact on small businesses. If the committee indicates that the rule will have
+23 a significant adverse impact on small businesses, the agency shall seek the committee’s recommen-
+24 dations on compliance with ORS 183.540.
+25 [(4)] (5) An agency shall consider an advisory committee’s recommendations provided under
+26 subsection [(3)] (4) of this section in preparing the statement of fiscal impact required by ORS
+27 183.335 (2)(b)(E).
+28 [(5)] (6) If an agency does not appoint an advisory committee for consideration of a permanent
+29 rule under [subsection (1) of] this section and 10 or more persons likely to be affected by the rule
+30 object to the agency’s statement of fiscal impact as required by ORS 183.335 (2)(b)(E) or an associ-
+31 ation with at least 10 members likely to be affected by the rule objects to the statement, the agency
+32 shall appoint a fiscal impact advisory committee to provide recommendations on whether the rule
+33 will have a fiscal impact and what the extent of that impact will be. The membership of the fiscal
+34 impact advisory committee must represent the interests of persons and communities likely to be af-
+35 fected by the rule. An objection under this subsection must be made not later than 14 days after the
+36 notice required by ORS 183.335 (1) is given. If the agency determines that the statement does not
+37 adequately reflect the rule’s fiscal impact, the agency shall extend the period for submission of data
+38 or views under ORS 183.335 (3)(a) by at least 20 days. The agency shall include any recommen-
+39 dations from the committee in the record maintained by the agency for the rule.
+40 [(6)] (7) An agency may appoint the Small Business Rules Advisory Committee established in
+41 ORS 183.407 as the advisory committee or fiscal impact advisory committee for purposes of this
+42 section.
+43 [(7)] (8) Subsection [(5)] (6) of this section does not apply to any rule adopted by an agency to
+44 comply with a judgment or a settlement of a judicial proceeding.
+45 [(8)] (9) If an agency is required by law to appoint an advisory committee or a fiscal impact
+[2]
+HB 4073
+1 advisory committee under this section, the agency may not appoint an officer, employee or other
+2 agent of the agency to serve as a member of the advisory committee or fiscal impact advisory
+3 committee.
+4 (10) Any agency in its discretion may develop a list of interested parties and inform those
+5 parties of any issue that may be the subject of rulemaking and invite the parties to make
+6 comments on the issue.
+7 SECTION 2. ORS 183.335 is amended to read:
+8 183.335. (1) Prior to the adoption, amendment or repeal of any rule, the agency shall give notice
+9 of its intended action:
+10 (a) In the manner established by rule adopted by the agency under ORS 183.341 (4), which pro-
+11 vides a reasonable opportunity for interested persons to be notified of the agency’s proposed action;
+12 (b) In the bulletin referred to in ORS 183.360 at least 21 days prior to the [effective] date the
+13 rule is filed with the Secretary of State as provided in ORS 183.355;
+14 (c) At least 28 days before the [effective] date the rule is filed with the Secretary of State
+15 as provided in ORS 183.355, to persons who have requested notice pursuant to subsection (8) of this
+16 section; and
+17 (d) Delivered only by electronic mail, at least 49 days before the [effective] date the rule is filed
+18 with the Secretary of State as provided in ORS 183.355, to the persons specified in subsection
+19 (15) of this section.
+20 (2)(a) The notice required by subsection (1) of this section must include:
+21 (A) A caption of not more than 15 words that reasonably identifies the subject matter of the
+22 agency’s intended action. The agency shall include the caption on each separate notice, statement,
+23 certificate or other similar document related to the intended action.
+24 (B) An objective, simple and understandable statement summarizing the subject matter and
+25 purpose of the intended action in sufficient detail to inform a person that the person’s interests may
+26 be affected, and the time, place and manner in which interested persons may present their views on
+27 the intended action.
+28 (b) The agency shall include with the notice of intended action given under subsection (1) of this
+29 section:
+30 (A) A citation of the statutory or other legal authority relied upon and bearing upon the
+31 promulgation of the rule;
+32 (B) A citation of the statute or other law the rule is intended to implement;
+33 (C) A statement of the need for the rule [and a], including, if applicable, a detailed de-
+34 scription of the problem the agency is attempting to solve with the rule and a detailed
+35 statement of how the rule is intended to meet the need or solve the problem;
+36 (D) A list of the principal documents, reports or studies, if any, prepared by or relied upon by
+37 the agency in considering the need for and in preparing the rule, and a statement of the location
+38 at which those documents are available for public inspection. The list may be abbreviated if neces-
+39 sary, and if so abbreviated there shall be identified the location of a complete list;
+40 (E)(i) A statement of fiscal impact identifying state agencies, units of local government and the
+41 public that may be economically affected by the adoption, amendment or repeal of the rule and an
+42 estimate of that economic impact on state agencies, units of local government and the public. In
+43 considering the economic effect of the proposed action on the public, the agency shall utilize avail-
+44 able information to project any significant economic effect of that action on businesses [which shall
+45 include a cost of compliance effect on small businesses affected.] and small businesses, including:
+[3]
+HB 4073
+1 (I) An estimate of the number of businesses and small businesses subject to the proposed
+2 rule and identification of the types of businesses and industries subject to the proposed rule;
+3 (II) A description of the projected reporting, recordkeeping and other administrative ac-
+4 tivities required for compliance with the proposed rule, including costs of professional ser-
+5 vices;
+6 (III) An identification of equipment, supplies, labor and increased administration required
+7 for compliance with the proposed rule;
+8 (IV) A summary of possible opportunity costs associated with compliance with the pro-
+9 posed rule, which may be achieved by publishing comments on opportunity costs that were
+10 provided to the agency in the fiscal impact statement process; and
+11 (V) A description of the manner in which the agency proposing the rule involved small
+12 businesses in the development of the rule; and
+13 (ii) If an agency determines that there is no fiscal impact on businesses and small busi-
+14 nesses, the statement of fiscal impact must also include documentation of feedback about
+15 costs from representatives of businesses and small businesses; and
+16 (iii) For an agency specified in ORS 183.530, the statement of fiscal impact [shall] must also
+17 include a housing cost impact statement as described in ORS 183.534;
+18 (F) A statement identifying how adoption of the rule will affect racial equity in this state;
+19 (G) If an advisory committee is not appointed under the provisions of ORS 183.333, an explana-
+20 tion as to why no advisory committee was used to assist the agency in drafting the rule; and
+21 (H) A description of alternative options the agency considered in developing the rule and
+22 a request for public comment on whether other options should be considered for achieving the rule’s
+23 substantive goals while reducing the negative economic impact of the rule on business.
+24 (c) The Secretary of State may omit the information submitted under paragraph (b) of this sub-
+25 section from publication in the bulletin referred to in ORS 183.360.
+26 (d) When providing notice of an intended action under subsection (1)(c) of this section, the
+27 agency shall provide a copy of the rule that the agency proposes to adopt, amend or repeal, or an
+28 explanation of how the person may acquire a copy of the rule. The copy of an amended rule shall
+29 show all changes to the rule by striking through material to be deleted and underlining all new
+30 material, or by any other method that clearly shows all new and deleted material.
+31 (3)(a) When an agency proposes to adopt, amend or repeal a rule, it shall give interested persons
+32 reasonable opportunity to submit data or views. The agency shall consider fully any written or
+33 oral submission. Opportunity for oral hearing shall be granted upon request received from 10 per-
+34 sons or from an association having not less than 10 members before the earliest date that the rule
+35 could [become effective] be adopted, amended or repealed after the giving of notice pursuant to
+36 subsection (1) of this section. An agency holding a hearing upon a request made under this sub-
+37 section shall:
+38 (A) Give notice of the hearing at least 21 days before the hearing to the person who has re-
+39 quested the hearing, to persons who have requested notice pursuant to subsection (8) of this
+40 section, to the list of interested parties developed under ORS 183.333 (10) and to the persons
+41 specified in subsection (15) of this section. The agency shall publish notice of the hearing in the
+42 bulletin referred to in ORS 183.360 at least 14 days before the hearing. The agency shall consider
+43 fully any written or oral submission.
+44 (B) Post the notice on the agency’s website and on the Oregon transparency website at
+45 least 21 days before the hearing.
+[4]
+HB 4073
+1 (C) Publish notice of the hearing in the bulletin referred to in ORS 183.360 at least 14 days
+2 before the hearing. An agency that fails to provide the 14-day notice required under this
+3 subparagraph shall reschedule the hearing and provide proper notice.
+4 (b) If an agency is required to conduct an oral hearing under paragraph (a) of this subsection,
+5 and the rule for which the hearing is to be conducted applies only to a limited geographical area
+6 within this state, or affects only a limited geographical area within this state, the hearing shall be
+7 conducted within the geographical area at the place most convenient for the majority of the resi-
+8 dents within the geographical area. At least 14 days before a hearing conducted under this para-
+9 graph, the agency shall publish notice of the hearing in the bulletin referred to in ORS 183.360 and
+10 in a newspaper of general circulation published within the geographical area that is affected by the
+11 rule or to which the rule applies. If a newspaper of general circulation is not published within the
+12 geographical area that is affected by the rule or to which the rule applies, the publication shall be
+13 made in the newspaper of general circulation published closest to the geographical area.
+14 (c) Notwithstanding paragraph (a) of this subsection, the Department of Corrections and the
+15 State Board of Parole and Post-Prison Supervision may adopt rules limiting participation by adults
+16 in custody in the proposed adoption, amendment or repeal of any rule to written submissions.
+17 (d) If requested by at least five persons before the earliest date that the rule could [become ef-
+18 fective] be adopted, amended or repealed after the agency gives notice pursuant to subsection (1)
+19 of this section, the agency shall provide a statement that identifies the objective of the rule and a
+20 statement of how the agency will subsequently determine whether the rule is in fact accomplishing
+21 that objective.
+22 (e) An agency that receives data or views concerning proposed rules from interested persons
+23 shall maintain a record of the data or views submitted. The record shall contain:
+24 (A) All written materials submitted to an agency in response to a notice of intent to adopt,
+25 amend or repeal a rule.
+26 (B) A recording or summary of oral submissions received at hearings held for the purpose of
+27 receiving those submissions.
+28 (C) Any public comment received in response to the request made under subsection (2)(b)(H) of
+29 this section and the agency’s response to that comment.
+30 (D) Any statements provided by the agency under paragraph (d) of this subsection.
+31 (4) Upon request of an interested person received before the earliest date that the rule could
+32 [become effective] be adopted, amended or repealed after the giving of notice pursuant to sub-
+33 section (1) of this section, the agency shall postpone the date of its intended action no less than 21
+34 nor more than 90 days in order to allow the requesting person an opportunity to submit data, views
+35 or arguments concerning the proposed action. Nothing in this subsection shall preclude an agency
+36 from adopting a temporary rule pursuant to subsection (5) of this section.
+37 (5) Notwithstanding subsections (1) to (4) of this section, an agency may adopt, amend or sus-
+38 pend a rule without prior notice or hearing or upon any abbreviated notice and hearing that it finds
+39 practicable, if the agency prepares:
+40 (a) A statement of its findings that its failure to act promptly will result in serious prejudice to
+41 the public interest or the interest of the parties concerned and the specific reasons for its findings
+42 of prejudice;
+43 (b) A citation of the statutory or other legal authority relied upon and bearing upon the
+44 promulgation of the rule;
+45 (c) A statement of the need for the rule and a statement of how the rule is intended to meet the
+[5]
+HB 4073
+1 need;
+2 (d) A list of the principal documents, reports or studies, if any, prepared by or relied upon by
+3 the agency in considering the need for and in preparing the rule, and a statement of the location
+4 at which those documents are available for public inspection; and
+5 (e) For an agency specified in ORS 183.530, a housing cost impact statement as defined in ORS
+6 183.534.
+7 (6)(a) A rule adopted, amended or suspended under subsection (5) of this section is temporary
+8 and may be effective for a period of not longer than 180 days. The adoption of a rule under this
+9 subsection does not preclude the subsequent adoption of an identical rule under subsections (1) to
+10 (4) of this section.
+11 (b) A rule temporarily suspended shall regain effectiveness upon expiration of the temporary
+12 period of suspension unless the rule is repealed under subsections (1) to (4) of this section.
+13 (7) Notwithstanding subsections (1) to (4) of this section, an agency may amend a rule without
+14 prior notice or hearing if the amendment is solely for the purpose of:
+15 (a) Changing the name of an agency by reason of a name change prescribed by law;
+16 (b) Changing the name of a program, office or division within an agency as long as the change
+17 in name does not have a substantive effect on the functions of the program, office or division;
+18 (c) Correcting spelling;
+19 (d) Correcting grammatical mistakes in a manner that does not alter the scope, application or
+20 meaning of the rule;
+21 (e) Correcting statutory or rule references;
+22 (f) Correcting addresses or telephone numbers referred to in the rules; or
+23 (g) Changing a term or phrase in order to conform with a change prescribed by law.
+24 (8)(a) Any person may request in writing that an agency send to the person copies of the
+25 agency’s notices of intended action issued under subsection (1) of this section. The person must
+26 provide an address where the person elects to receive notices. The address provided may be a postal
+27 mailing address or, if the agency provides notice by electronic mail, may be an electronic mailing
+28 address.
+29 (b) A request under this subsection must indicate that the person requests one of the following:
+30 (A) The person may request that the agency mail paper copies of the proposed rule and other
+31 information required by subsection (2) of this section to the postal mailing address.
+32 (B) If the agency posts notices of intended action on a website, the person may request that the
+33 agency mail the information required by subsection (2)(a) of this section to the postal mailing ad-
+34 dress with a reference to the website where electronic copies of the proposed rule and other infor-
+35 mation required by subsection (2) of this section are posted.
+36 (C) The person may request that the agency electronically mail the information required by
+37 subsection (2)(a) of this section to the electronic mailing address, and either provide electronic
+38 copies of the proposed rule and other information required by subsection (2) of this section or pro-
+39 vide a reference to a website where electronic copies of the proposed rule and other information
+40 required by subsection (2) of this section are posted.
+41 (c) Upon receipt of any request under this subsection, the agency shall acknowledge the request,
+42 establish a mailing list and maintain a record of all mailings made pursuant to the request. Agen-
+43 cies may establish procedures for establishing the mailing lists and keeping the mailing lists current.
+44 Agencies by rule may establish fees necessary to defray the costs of mailings and maintenance of
+45 the lists.
+[6]
+HB 4073
+1 (d) Members of the Legislative Assembly who receive notices under subsection (15) of this sec-
+2 tion may request that an agency furnish paper copies of the notices.
+3 (9) This section does not apply to rules establishing an effective date for a previously effective
+4 rule or establishing a period during which a provision of a previously effective rule will apply.
+5 (10) This section does not apply to ORS 279.835 to 279.855, 279A.140 to 279A.161, 279A.250 to
+6 279A.290, 279A.990, 279B.050 to 279B.085, 279B.200 to 279B.240, 279B.270, 279B.275, 279B.280,
+7 279C.360, 279C.365, 279C.370, 279C.375, 279C.380, 279C.385, 279C.500 to 279C.530, 279C.540, 279C.545,
+8 279C.550 to 279C.570, 279C.580, 279C.585, 279C.590, 279C.600 to 279C.625, 279C.650 to 279C.670 and
+9 279C.800 to 279C.870 relating to public contracts and purchasing.
+10 (11)(a) Except as provided in paragraph (c) of this subsection, a rule is not valid unless adopted
+11 in substantial compliance with the provisions of this section in effect on the date that the notice
+12 required under subsection (1) of this section is delivered to the Secretary of State for the purpose
+13 of publication in the bulletin referred to in ORS 183.360.
+14 (b) In addition to all other requirements with which rule adoptions must comply, a rule other
+15 than a rule amended for a purpose described in subsection (7) of this section is not valid if the rule
+16 has not been submitted to the Legislative Counsel in the manner required by ORS 183.355 and
+17 183.715.
+18 (c) A rule is not subject to judicial review or other challenge by reason of failing to comply with
+19 subsection (2)(a)(A) of this section.
+20 (12)(a) Notwithstanding the provisions of subsection (11) of this section, but subject to paragraph
+21 (b) of this subsection, an agency may correct its failure to substantially comply with the require-
+22 ments of subsections (2) and (5) of this section in adoption of a rule by an amended filing, as long
+23 as the noncompliance did not substantially prejudice the interests of persons to be affected by the
+24 rule.
+25 (b) An agency may use an amended filing to correct a failure to include a fiscal impact state-
+26 ment in a notice of intended action, as required by subsection (2)(b)(E) of this section, or to correct
+27 an inaccurate fiscal impact statement, only if the agency developed the fiscal impact statement with
+28 the assistance of an advisory committee or fiscal impact advisory committee appointed under ORS
+29 183.333.
+30 (13) Unless otherwise provided by statute, the adoption, amendment or repeal of a rule by an
+31 agency need not be based upon or supported by an evidentiary record.
+32 (14) When an agency has established a deadline for comment on a proposed rule under the pro-
+33 visions of subsection (3)(a) of this section, the agency may not extend that deadline for another
+34 agency or person unless the extension applies equally to all interested agencies and persons. An
+35 agency shall not consider any submission made by another agency after the final deadline has
+36 passed.
+37 (15) The notices required under subsections (1) and (3) of this section must be given by the
+38 agency to the following persons:
+39 (a) If the proposed adoption, amendment or repeal results from legislation that was passed
+40 within two years before notice is given under subsection (1) of this section, notice shall be given to
+41 the legislator who introduced the bill that subsequently was enacted into law, and to the chair or
+42 cochairs of all committees that reported the bill out, except for those committees whose sole action
+43 on the bill was referral to another committee.
+44 (b) If the proposed adoption, amendment or repeal does not result from legislation that was
+45 passed within two years before notice is given under subsection (1) of this section, notice shall be
+[7]
+HB 4073
+1 given to the chair or cochairs of any interim or session committee with authority over the subject
+2 matter of the rule.
+3 (c) If notice cannot be given under paragraph (a) or (b) of this subsection, notice shall be given
+4 to the Speaker of the House of Representatives and to the President of the Senate who are in office
+5 on the date the notice is given.
+6 (16)(a) Upon the request of a member of the Legislative Assembly or of a person who would be
+7 affected by a proposed adoption, amendment or repeal, the committees receiving notice under sub-
+8 section (15) of this section shall review the proposed adoption, amendment or repeal for compliance
+9 with the legislation from which the proposed adoption, amendment or repeal results.
+10 (b) The committees shall submit their comments on the proposed adoption, amendment or repeal
+11 to the agency proposing the adoption, amendment or repeal.
+12 (17) If a proposed adoption, amendment or repeal increases the administrative costs of
+13 a division or department budget by 0.5 percent or more or increases positions needed for
+14 program operations or enforcement, the agency shall submit a report in the manner de-
+15 scribed in ORS 192.245 to the Joint Committee on Ways and Means and the Joint Legislative
+16 Audit Committee.
+17 SECTION 3. ORS 183.355 is amended to read:
+18 183.355. (1) The Secretary of State shall by rule prescribe requirements for the manner and form
+19 for filing rules adopted, amended or repealed by agencies. The Secretary of State may refuse to ac-
+20 cept for filing any rules that do not comply with the requirements.
+21 (2)(a) Each agency shall file with the office of the Secretary of State each rule adopted,
+22 amended or repealed by the agency.
+23 (b) The filing of a permanent rule must include a summary of public comments received
+24 by the agency about the rule and the agency’s response to common public comments.
+25 [(b)] (c) Unless otherwise provided by rule adopted by the Secretary of State, an agency adopt-
+26 ing a rule incorporating published standards by reference is not required to file a copy of those
+27 standards with the Secretary of State if:
+28 (A) The standards adopted are unusually voluminous and costly to reproduce; and
+29 (B) The rule filed with the Secretary of State identifies the location of the standards so incor-
+30 porated and the conditions of their availability to the public.
+31 (3) Each rule is effective [upon] 30 days after the date of filing as required by subsection (2)
+32 of this section, except that:
+33 (a) If a later effective date is required by statute or specified in the rule, the later date is the
+34 effective date.
+35 (b) A temporary rule becomes effective upon filing with the Secretary of State, or at a desig-
+36 nated later date, [only] if the statement required by ORS 183.335 (5) is filed with the rule. The
+37 agency shall take appropriate measures to make temporary rules known to the persons who may be
+38 affected by them.
+39 [(4) When a rule is amended or repealed by an agency, the agency shall file the amendment or
+40 notice of repeal with the Secretary of State.]
+41 [(5)] (4) A certified copy of each executive order issued, prescribed or promulgated by the Gov-
+42 ernor shall be filed in the office of the Secretary of State.
+43 [(6)] (5) A rule is not valid or effective against any person or party until the rule [is filed] be-
+44 comes effective in accordance with this section. However, if an agency, in disposing of a contested
+45 case, announces in its decision the adoption of a general policy applicable to the case and subse-
+[8]
+HB 4073
+1 quent cases of like nature the agency may rely upon the decision in disposition of later cases.
+2 [(7)] (6) The Secretary of State shall, upon request, supply copies of rules, or orders or desig-
+3 nated parts of rules or orders, in the format requested, making and collecting therefor fees pre-
+4 scribed by ORS 177.130. All receipts from the sale of copies shall be deposited in the State Treasury
+5 to the credit of the Secretary of State Miscellaneous Receipts Account established under ORS
+6 279A.290.
+7 [(8)] (7) The Secretary of State shall establish and collect fees from agencies filing rules under
+8 this section. The fees shall be established in amounts calculated to be necessary to generate reven-
+9 ues adequate to pay costs incurred by the Secretary of State in performing the following duties that
+10 are not paid for by subscriber fees or other fees prescribed by law:
+11 (a) Publication of the compilation referred to in ORS 183.360 (1);
+12 (b) Electronic publication of the bulletin referred to in ORS 183.360 (3); and
+13 (c) Electronic publication of rules and other information relating to rules under ORS 183.365.
+14 [(9)] (8) All fees collected under subsection [(8)] (7) of this section shall be deposited in the State
+15 Treasury to the credit of the Secretary of State Miscellaneous Receipts Account established under
+16 ORS 279A.290.
+17 [(10)] (9) No later than 10 days after an agency files an adopted, amended or repealed rule with
+18 the Secretary of State, other than a rule amended for a purpose described in ORS 183.335 (7), the
+19 Secretary of State shall:
+20 (a) Electronically transmit the rule to the Legislative Counsel in accordance with ORS 183.715;
+21 and
+22 (b) Provide to the agency that filed the rule a written confirmation that the rule was transmitted
+23 to the Legislative Counsel.
+24 SECTION 4. ORS 183.482 is amended to read:
+25 183.482. (1) Jurisdiction for judicial review of contested cases is conferred upon the Court of
+26 Appeals. Proceedings for review shall be instituted by filing a petition in the Court of Appeals. The
+27 petition shall be filed within 60 days only following the date the order upon which the petition is
+28 based is served unless otherwise provided by statute. If a petition for rehearing has been filed, then
+29 the petition for review shall be filed within 60 days only following the date the order denying the
+30 petition for rehearing is served. If the agency does not otherwise act, a petition for rehearing or
+31 reconsideration shall be deemed denied the 60th day following the date the petition was filed, and
+32 in such cases, petition for judicial review shall be filed within 60 days only following such date. Date
+33 of service shall be the date on which the agency delivered or mailed its order in accordance with
+34 ORS 183.470.
+35 (2) The petition shall state the nature of the order the petitioner desires reviewed, and shall
+36 state whether the petitioner was a party to the administrative proceeding, was denied status as a
+37 party or is seeking judicial review as a person adversely affected or aggrieved by the agency order.
+38 In the latter case, the petitioner shall, by supporting affidavit, state the facts showing how the
+39 petitioner is adversely affected or aggrieved by the agency order. Before deciding the issues raised
+40 by the petition for review, the Court of Appeals shall decide, from facts set forth in the affidavit,
+41 whether or not the petitioner is entitled to petition as an adversely affected or an aggrieved person.
+42 Copies of the petition shall be served by registered or certified mail upon the agency, and all other
+43 parties of record in the agency proceeding.
+44 (3)(a) The filing of the petition shall not stay enforcement of the agency order, but the agency
+45 may do so upon a showing of:
+[9]
+HB 4073
+1 (A) Irreparable injury to the petitioner; and
+2 (B) A colorable claim of error in the order.
+3 (b) When a petitioner makes the showing required by paragraph (a) of this subsection, the
+4 agency shall grant the stay unless the agency determines that substantial public harm will result if
+5 the order is stayed. If the agency denies the stay, the denial shall be in writing and shall specifically
+6 state the substantial public harm that would result from the granting of the stay.
+7 (c) When the agency grants a stay, the agency may impose such reasonable conditions as the
+8 giving of a bond, irrevocable letter of credit or other undertaking and that the petitioner file all
+9 documents necessary to bring the matter to issue before the Court of Appeals within specified rea-
+10 sonable periods of time.
+11 (d) Agency denial of a motion for stay is subject to review by the Court of Appeals under such
+12 rules as the court may establish.
+13 (4) Within 30 days after service of the petition, or within such further time as the court may
+14 allow, the agency shall transmit to the reviewing court the original or a certified copy of the entire
+15 record of the proceeding under review, but, by stipulation of all parties to the review proceeding,
+16 the record may be shortened. Any party unreasonably refusing to stipulate to limit the record may
+17 be taxed by the court for the additional costs. The court may require or permit subsequent cor-
+18 rections or additions to the record when deemed desirable. Except as specifically provided in this
+19 subsection, the cost of the record shall not be taxed to the petitioner or any intervening party.
+20 However, the court may tax such costs and the cost of agency transcription of record to a party
+21 filing a frivolous petition for review.
+22 (5) If, on review of a contested case, before the date set for hearing, application is made to the
+23 court for leave to present additional evidence, and it is shown to the satisfaction of the court that
+24 the additional evidence is material and that there were good and substantial reasons for failure to
+25 present it in the proceeding before the agency, the court may order that the additional evidence be
+26 taken before the agency upon such conditions as the court deems proper. The agency may modify
+27 its findings and order by reason of the additional evidence and shall, within a time to be fixed by
+28 the court, file with the reviewing court, to become a part of the record, the additional evidence,
+29 together with any modifications or new findings or orders, or its certificate that the agency elects
+30 to stand on its original findings and order, as the case may be.
+31 (6) At any time subsequent to the filing of the petition for review and prior to the date set for
+32 hearing the agency may withdraw its order for purposes of reconsideration. If an agency withdraws
+33 an order for purposes of reconsideration, the agency shall, within such time as the court may allow,
+34 affirm, modify or reverse its order. If the petitioner is dissatisfied with the agency action after
+35 withdrawal for purposes of reconsideration, the petitioner may refile the petition for review and the
+36 review shall proceed upon the revised order. An amended petition for review shall not be required
+37 if the agency, on reconsideration, affirms the order or modifies the order with only minor changes.
+38 If an agency withdraws an order for purposes of reconsideration and modifies or reverses the order
+39 in favor of the petitioner, the court shall allow the petitioner costs, but not attorney fees, to be paid
+40 from funds available to the agency.
+41 (7) Review of a contested case shall be confined to the record, and the court shall not substitute
+42 its judgment for that of the agency as to any issue of fact or agency discretion. In the case of dis-
+43 puted allegations of irregularities in procedure before the agency not shown in the record which, if
+44 proved, would warrant reversal or remand, the Court of Appeals may refer the allegations to a
+45 master appointed by the court to take evidence and make findings of fact upon them. The court shall
+[10]
+HB 4073
+1 remand the order for further agency action if the court finds that either the fairness of the pro-
+2 ceedings or the correctness of the action may have been impaired by a material error in procedure
+3 or a failure to follow prescribed procedure, including a failure by the presiding officer to comply
+4 with the requirements of ORS 183.417 (8).
+5 (8)(a) The court may affirm, reverse or remand the order. If the court finds that the agency has
+6 erroneously interpreted a provision of law and that a correct interpretation compels a particular
+7 action, the court shall:
+8 (A) Set aside or modify the order; or
+9 (B) Remand the case to the agency for further action under a correct interpretation of the pro-
+10 vision of law.
+11 (b) The court shall remand the order to the agency if the court finds the agency’s exercise of
+12 discretion to be:
+13 (A) Outside the range of discretion delegated to the agency by law;
+14 (B) Inconsistent with an agency rule, an officially stated agency position, or a prior agency
+15 practice, if the inconsistency is not explained by the agency; or
+16 (C) Otherwise in violation of a constitutional or statutory provision.
+17 (c) The court shall set aside or remand the order if the court finds that the order is not sup-
+18 ported by substantial evidence in the record. Substantial evidence exists to support a finding of fact
+19 when the record, viewed as a whole, would permit a reasonable person to make that finding.
+20 (d) The court shall set aside or remand the order if the court finds that the agency action
+21 or the findings or conclusions supporting the order were arbitrary or capricious.
+22 SECTION 5. ORS 183.484 is amended to read:
+23 183.484. (1) Jurisdiction for judicial review of orders other than contested cases is conferred
+24 upon the Circuit Court for Marion County and upon the circuit court for the county in which the
+25 petitioner resides or has a principal business office. Proceedings for review under this section shall
+26 be instituted by filing a petition in the Circuit Court for Marion County or the circuit court for the
+27 county in which the petitioner resides or has a principal business office.
+28 (2) Petitions for review shall be filed within 60 days only following the date the order is served,
+29 or if a petition for reconsideration or rehearing has been filed, then within 60 days only following
+30 the date the order denying such petition is served. If the agency does not otherwise act, a petition
+31 for rehearing or reconsideration shall be deemed denied the 60th day following the date the petition
+32 was filed, and in such case petition for judicial review shall be filed within 60 days only following
+33 such date. Date of service shall be the date on which the agency delivered or mailed its order in
+34 accordance with ORS 183.470.
+35 (3) The petition shall state the nature of the petitioner’s interest, the facts showing how the
+36 petitioner is adversely affected or aggrieved by the agency order and the ground or grounds upon
+37 which the petitioner contends the order should be reversed or remanded. The review shall proceed
+38 and be conducted by the court without a jury.
+39 (4) At any time subsequent to the filing of the petition for review and prior to the date set for
+40 hearing, the agency may withdraw its order for purposes of reconsideration. If an agency withdraws
+41 an order for purposes of reconsideration, it shall, within such time as the court may allow, affirm,
+42 modify or reverse its order. If the petitioner is dissatisfied with the agency action after withdrawal
+43 for purposes of reconsideration, the petitioner may refile the petition for review and the review shall
+44 proceed upon the revised order. An amended petition for review shall not be required if the agency,
+45 on reconsideration, affirms the order or modifies the order with only minor changes. If an agency
+[11]
+HB 4073
+1 withdraws an order for purposes of reconsideration and modifies or reverses the order in favor of
+2 the petitioner, the court shall allow the petitioner costs, but not attorney fees, to be paid from funds
+3 available to the agency.
+4 (5)(a) The court may affirm, reverse or remand the order. If the court finds that the agency has
+5 erroneously interpreted a provision of law and that a correct interpretation compels a particular
+6 action, it shall:
+7 (A) Set aside or modify the order; or
+8 (B) Remand the case to the agency for further action under a correct interpretation of the pro-
+9 vision of law.
+10 (b) The court shall remand the order to the agency if [it] the court finds the agency’s exercise
+11 of discretion to be:
+12 (A) Outside the range of discretion delegated to the agency by law;
+13 (B) Inconsistent with an agency rule, an officially stated agency position, or a prior agency
+14 practice, if the inconsistency is not explained by the agency; or
+15 (C) Otherwise in violation of a constitutional or statutory provision.
+16 (c) The court shall set aside or remand the order if [it] the court finds that the order is not
+17 supported by substantial evidence in the record. Substantial evidence exists to support a finding of
+18 fact when the record, viewed as a whole, would permit a reasonable person to make that finding.
+19 (d) The court shall set aside or remand the order if the court finds that the agency action
+20 or the findings or conclusions supporting the order were arbitrary or capricious.
+21 (6) In the case of reversal the court shall make special findings of fact based upon the evidence
+22 in the record and conclusions of law indicating clearly all aspects in which the agency’s order is
+23 erroneous.
+24 SECTION 6. ORS 196.115 is amended to read:
+25 196.115. (1) For purposes of judicial review, decisions of the Columbia River Gorge Commission
+26 shall be subject to review solely as provided in this section, except as otherwise provided by the
+27 Columbia River Gorge National Scenic Area Act, P.L. 99-663.
+28 (2)(a) A final action or order by the commission in a review or appeal of any action of the
+29 commission pursuant to section 10(c) or 15(b)(4) of the Columbia River Gorge National Scenic Area
+30 Act, or a final action or order by the commission in a review or appeal of any action of a county
+31 pursuant to section 15(a)(2) or 15(b)(4) of the Columbia River Gorge National Scenic Area Act, shall
+32 be reviewed by the Court of Appeals on a petition for judicial review filed and served as provided
+33 in subsections (3) and (4) of this section and ORS 183.482.
+34 (b) On a petition for judicial review under paragraph (a) of this subsection the Court of Appeals
+35 also shall review the action of the county that is the subject of the commission’s order, if requested
+36 in the petition.
+37 (c) The Court of Appeals shall issue a final order on review under this subsection within the
+38 time limits provided by ORS 197.855.
+39 (d) In lieu of judicial review under paragraphs (a) and (b) of this subsection, a county action
+40 may be appealed to the Land Use Board of Appeals under ORS 197.805 to 197.855. A notice of intent
+41 to appeal the county’s action shall be filed not later than 21 days after the commission’s order on
+42 the county action becomes final.
+43 (e) Notwithstanding ORS 197.835, the scope of review in an appeal pursuant to paragraph (d)
+44 of this subsection shall not include any issue relating to interpretation or implementation of the
+45 Columbia River Gorge National Scenic Area Act, P.L. 99-663, and any issue related to such inter-
+[12]
+HB 4073
+1 pretation or implementation shall be waived by the filing of an appeal under paragraph (d) of this
+2 subsection.
+3 (f) After county land use ordinances are approved pursuant to sections 7(b) and 8(h) to (k) of the
+4 Columbia River Gorge National Scenic Area Act, P.L. 99-663, the Land Use Board of Appeals shall
+5 not review land use decisions within the general management area or special management area for
+6 compliance with the statewide planning goals. The limitation of this paragraph shall not apply if the
+7 Land Conservation and Development Commission decertifies the management plan pursuant to ORS
+8 196.107.
+9 (3)(a) If a petition for judicial review of a commission order is filed pursuant to subsection (2)(a)
+10 of this section, the procedures to be followed by the parties, the commission and the court, and the
+11 court’s review, shall be in accordance with ORS 183.480, 183.482 (1) to (7), 183.485, 183.486, 183.490
+12 and 183.497, except as this section or the Columbia River Gorge National Scenic Area Act, P.L.
+13 99-663, otherwise provides.
+14 (b) Notwithstanding any provision of ORS 183.482:
+15 (A) The commission shall transmit the original record or the certified copy of the entire record
+16 within 21 days after service of a petition for judicial review is served on the commission; and
+17 (B) The parties shall file briefs with the court within the times allowed by rules of the court.
+18 (c) The court may affirm, reverse or remand the order. If the court finds that the agency has
+19 erroneously interpreted a provision of law and that a correct interpretation compels a particular
+20 action, the court shall:
+21 (A) Set aside or modify the order; or
+22 (B) Remand the case to the agency for further action under a correct interpretation of the pro-
+23 vision of law.
+24 (d) The court shall remand the order to the agency if the court finds the agency’s exercise of
+25 discretion to be:
+26 (A) Outside the range of discretion delegated to the agency by law;
+27 (B) Inconsistent with an agency rule, an officially stated agency position or a prior agency
+28 practice, unless the inconsistency is explained by the agency; or
+29 (C) Otherwise in violation of a constitutional or statutory provision.
+30 (e) The court shall set aside or remand the order if the court finds that the order is not sup-
+31 ported by substantial evidence in the whole record.
+32 (f) The court shall set aside or remand the order if the court finds that the agency action
+33 or the findings or conclusions supporting the order were arbitrary or capricious.
+34 [(f)] (g) Notwithstanding any other provision of this section, in any case where review of a
+35 county action as well as a commission order is sought pursuant to subsection (2)(a) and (b) of this
+36 section, the court shall accept any findings of fact by the commission which the court finds to be
+37 supported by substantial evidence in the whole record, and such findings by the commission shall
+38 prevail over any findings by the county concerning the same or substantially the same facts.
+39 (4)(a) Except as otherwise provided by this section or the Columbia River Gorge National Scenic
+40 Area Act, P.L. 99-663, if review of a county action is sought pursuant to subsection (2)(b) of this
+41 section, the procedures to be followed by the parties, the county and the court, and the court’s re-
+42 view, shall be in accordance with those provisions governing review of county land use decisions
+43 by the Land Use Board of Appeals set forth in ORS 197.830 (2) to (8), (10), (15) and (16) and 197.835
+44 (2) to (10), (12) and (13). As used in this section, “board” as used in the enumerated provisions shall
+45 mean “court” and the term “notice of intent to appeal” in ORS 197.830 (10) shall refer to the petition
+[13]
+HB 4073
+1 described in subsection (2) of this section.
+2 (b) In addition to the other requirements of service under this section, the petitioner shall serve
+3 the petition upon the persons and bodies described in ORS 197.830 (9), as a prerequisite to judicial
+4 review of the county action.
+5 (c) In accordance with subsection (3)(b)(B) of this section, a party to a review of both a com-
+6 mission order and a county action shall file only one brief with the court, which shall address both
+7 the commission order and the county action.
+8 (d) Review of a decision under ORS 197.830 to 197.845 shall be confined to the record. Subject
+9 to subsection [(3)(f)] (3)(g) of this section, the court shall be bound by any finding of fact of the
+10 county for which there is substantial evidence in the whole record. The court may appoint a master
+11 and follow the procedures of ORS 183.482 (7) in connection with matters that the board may take
+12 evidence for under ORS 197.835 (2).
+13 (5) Approval of county land use ordinances by the commission pursuant to section 7 of the
+14 Columbia River Gorge National Scenic Area Act, P.L. 99-663, may be reviewed by the Court of Ap-
+15 peals as provided in ORS 183.482.
+16 (6) Notwithstanding ORS 183.484, any proceeding filed in circuit court by or against the com-
+17 mission shall be filed with the circuit court for the county in which the commission has a principal
+18 business office or in which the land involved in the proceeding is located.
+19 SECTION 7. ORS 279B.415 is amended to read:
+20 279B.415. (1) As used in this section, “bidder” includes a person who submits a proposal to a
+21 public contracting agency pursuant to a request for proposals.
+22 (2) A decision by a state contracting agency on a protest of a contract award is reviewable by
+23 the Circuit Court for Marion County or the circuit court for the county in which the principal of-
+24 fices of the state contracting agency are located. A decision by a local contracting agency on a
+25 protest of a contract award is reviewable by the circuit court for the county in which the principal
+26 offices of the local contracting agency are located.
+27 (3) To obtain review, a complainant must commence an action before the contract that is the
+28 subject of the protest is approved by the Attorney General, if required by ORS 291.047, and executed
+29 by the contracting agency. In the complaint, the complainant shall state the nature of the
+30 complainant’s interest, the facts showing how the complainant is adversely affected or aggrieved by
+31 the contracting agency’s decision and the basis upon which the decision should be reversed or re-
+32 manded. The complainant shall join as parties all bidders that would be in line for an award of the
+33 contract ahead of the complainant. If injunctive relief is sought, the court may require the person
+34 seeking a stay to post a bond in an amount sufficient to protect the contracting agency and the
+35 public from costs associated with delay in execution of the contract.
+36 (4) When judicial review is sought, the contracting agency may not proceed with contract exe-
+37 cution unless the contracting agency determines that there is a compelling governmental interest
+38 in proceeding or that the goods and services are urgently needed. If the contracting agency makes
+39 such a determination, the contracting agency shall set forth the reasons for the determination in
+40 writing and immediately provide them to the complainant. Thereafter, upon motion from the
+41 complainant, the court may nonetheless stay the performance of the contract if the court finds that
+42 the contracting agency’s determination of the existence of a compelling governmental interest in
+43 proceeding with contract execution, or the contracting agency’s determination that the goods or
+44 services were urgently needed, was not supported by substantial evidence or constituted a manifest
+45 abuse of discretion. In granting a stay, the court may require the person seeking the stay to post
+[14]
+HB 4073
+1 a bond in an amount sufficient to protect the contracting agency and the public from costs associ-
+2 ated with delay in contract performance.
+3 (5) The court shall review the matter without a jury and shall consider only those grounds the
+4 complainant raised in the protest to the contracting agency.
+5 (6)(a) The court shall remand the matter to the contracting agency for a further decision if:
+6 [(a)] (A) Substantial evidence does not exist to support the contracting agency’s decision. Sub-
+7 stantial evidence exists to support a finding of fact when the record, viewed as a whole, would
+8 permit a reasonable person to make that finding;
+9 [(b)] (B) The contracting agency’s decision was outside the range of discretion delegated to the
+10 contracting agency by law;
+11 [(c)] (C) The decision was inconsistent with a contracting agency rule, an officially stated con-
+12 tracting agency position or an officially stated prior contracting agency practice, if the inconsist-
+13 ency is not explained by the contracting agency; or
+14 [(d)] (D) The decision was in violation of a constitutional or statutory provision.
+15 (b) The court shall set aside or remand the matter to the contracting agency if the court
+16 finds that the department action or the findings or conclusions supporting the matter were
+17 arbitrary or capricious.
+18 (7)(a) In addition to remanding the decision to the contracting agency, the court may order such
+19 ancillary relief, such as the cost of bid preparation, as the court finds necessary to redress the ef-
+20 fects of official action wrongfully taken or withheld. Ancillary relief does not include the award of
+21 a contract to the complainant or the award of lost profits or other damages.
+22 (b) If a contract has not been executed and the court rules in favor of the complainant, the court
+23 shall remand the matter to the contracting agency for a determination whether to continue with the
+24 procurement process in light of the court’s decision.
+25 (c) If a contract has been executed, in addition to the relief provided for in paragraph (a) of this
+26 subsection, the court shall include in its order a determination whether the party that signed the
+27 contract with the contracting agency is entitled to reimbursement under the conditions of, and cal-
+28 culated in the same manner as provided in, ORS 279C.470. Notwithstanding that ORS 279C.470 oth-
+29 erwise applies only to public improvement contracts, under this paragraph the court shall apply ORS
+30 279C.470 to both public improvement contracts and other public contracts of contracting agencies.
+31 (d) The court may award costs and attorney fees to the prevailing party.
+32 SECTION 8. ORS 813.450 is amended to read:
+33 813.450. (1) The petition to the circuit court appealing an order of the Department of Trans-
+34 portation after a hearing under ORS 813.410 shall state the nature of the petitioner’s interest and
+35 the ground or grounds upon which the petitioner contends the order should be reversed or re-
+36 manded.
+37 (2) The court shall conduct the review without a jury. Review shall be limited to the record of
+38 the department’s hearing.
+39 (3) Any party to the proceedings before the circuit court may appeal from the judgment of the
+40 court to the Court of Appeals.
+41 (4) Upon review in the circuit court and Court of Appeals, the court may affirm, reverse or re-
+42 mand the order as follows:
+43 (a) If the court finds that the department has erroneously interpreted a provision of law and that
+44 a correct interpretation compels a particular action, it shall:
+45 (A) Set aside or modify the order; or
+[15]
+HB 4073
+1 (B) Remand the case to the department for further action under a correct interpretation of the
+2 provision of law.
+3 (b) The court shall remand the order to the department if it finds the department’s exercise of
+4 discretion to be any of the following:
+5 (A) Outside the range of discretion delegated to the agency by law.
+6 (B) Inconsistent with a department rule, an officially stated department position, or a prior de-
+7 partment practice, if the inconsistency is not explained by the department.
+8 (C) Otherwise in violation of a constitutional or statutory provision.
+9 (c) The court shall set aside or remand the order if it finds that the order is not supported by
+10 substantial evidence in the record.
+11 (d) The court shall set aside or remand the order if the court finds that the department
+12 action or the findings or conclusions supporting the order were arbitrary or capricious.
+13 (5) Upon review, the court shall affirm the department’s order unless the court finds a ground
+14 for setting aside, modifying or remanding to the department under a specified provision of this sec-
+15 tion.
+16 (6) In any review under this section, the court shall also review de novo determinations made
+17 by an agency that are subject to ORS 183.650 (4).
+18 SECTION 9. Section 10 of this 2026 Act is added to and made a part of ORS chapter 183.
+19 SECTION 10. The Oregon Department of Administrative Services, the Department of
+20 Justice and the Office of Small Business Assistance shall collaborate to publish a guide to
+21 administrative rules designed for the general public.
+22 SECTION 11. ORS 183.336 is repealed.
+23 SECTION 12. The amendments to ORS 183.333, 183.335 and 183.355 by sections 1 to 3 of
+24 this 2026 Act and the repeal of ORS 183.336 by section 11 of this 2026 Act apply to rules for
+25 which an agency gives notice of intended action under ORS 183.335 on or after the effective
+26 date of this 2026 Act.
+27 SECTION 13. The amendments to ORS 183.482, 183.484, 196.115, 279B.415 and 813.450 by
+28 sections 4 to 8 of this 2026 Act apply to orders served on or after the effective date of this
+29 2026 Act.
+30
+[16]
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T.( t a l c n p a O 1 1 1[] t d o r o i t a a r.B i c f p r b t a t s a a a c a d o o n o i c f p r b t a t m o o p v t A l 1 d b a a g n o i.T t a w I t a r a r f a o a a f a p r t a d n r a r t a a a c f a p b t a o f a a o] ( T m o a a c a u t [] s)s r t i o p a c l t b a b t r[] a:M[]]
+[DELETED: B4 u t r T a c m a i r] ( A a t a a a c u t [] s w)s A t f c s F l s b a c o t L A t c o t t s t l a t t t l w i o a m] ( I a a a a a c f c o a r u )s ( o t] ( A a s c a a c r p u []( o t s i p t s o f i r b O5(] u [] t s a 1 o m p ( o a a f i a c t p r o w t ( i g I t a d t t s d n v u O 1 ( b a l 2 d T a s i a r] ( A a m a t S B R A C e i 1 a t a c o f i a c f p o t][])(] ( I a a i r b l t a a a c o a f i]
+[DELETED: B4 c u t s t a m n a a o e o o o t a t s a a m o t a c o f i a i t p t m r t i O 1 a l 2 d p t t [] d A l 2 d b t [] d;a[] t t p s i s A c o n m t 1 w t r i t s m o t A o s a u s s t s m a A c o t s o o l a r u a b u t A s o t n f t r [] i i a a d d  o t p t a i a t s w t r a a d A n f a i p t r a a s o t l o t e i o s a u o l g a t p]
+[DELETED: B4 p s t s o f i m a i d o f a F a a s i O 1 t s o f i [] m a W p n o a i a u s ( o t s t.T a c t t r b s t m t b d a u a n [] b a a o r a t g o n p t e ( o t s A a h a h u a r m u t sns G n o t h a l 2 d b t h t t p w h r t h t p w h r n p t s ( o t t a t t p i s ( o t s T a s p n o t h i t r t i O 1 a l]
+[DELETED: B4 t h A a t f t p t 1 n r u t t r f w t h i t b c a w t g a a t p m c f t m o t w t g a A l 1 d b a h c u t p N p ( o t s t D o C a t A a t r d o v c p r f i p A w m s t a a i r t a n o i t a A r o s o o s r a h h f t p o U r o a i p r b t e d t t r c] b a a o r a t g o n p t s e a c t ( t ( o t s a a m a a o s A c o t s o o l a r u a b u t]
+[DELETED: B4 A l o t p d r o n f a i p t r a a s o t l A r a a o s u s ( o t s i t m b e f a p o n l t 1 d T a o a r u t i r u s ( t A r t s s r e u e o t t d n a t s a o A p m r i w t a a s t t p c o t n o i a i u s ( o t s T p m a o i t a p n b e c o t p r a o m t i r b s ( o t s t t p m a T p m r t t a e m t i r b ( o t s t t e m a a e p e a r t a w w e c o t p r a o i.A m e f n t d t c o m a m oel]
+[DELETED: B4 T s d n a t O 2 t 2 2 t 2 2 t 2 2 t 2 2 t 2 2 2 2 s c w t p o t s i e o t d t t n u s ( o t I a t a o r w w r a m c a r n b s t t L C i t m r b O 1 a o t s a a m c i f t s c w t r a l t n c a f t i a f i s a o a a c U o p b s t a a o r o a r b a o s ( o t s t a m n e t d f a o p u t e a e t a i a a p A s n c a s m b a a a t f d h T n r u s ( a ( o t s m b g b t I t p a a o r r f l t w p t t c o I t p a a o r d n r f l t w n s b]
+[DELETED: B4 t c r n u s I a p a a d o d b b 0 p o m o i p n f o o e t a s s a r i t m d E a s f w t o o t S o S e r a] a r i p s b r i n r t f a c o t T r f[] s ( A t r b e u f w t S o S o a a d l d [] i t s r b O 1 ( i f w t r T W a r i a o r b a a t a s f t a o] A][])i a i i d t a o a g p a t t c a s]
+[DELETED: B4]( T S o S s u r s c o r o o o d p o r o o i t f r m a c t f p t c o t S o S M R A e u O]][])(] S o S o t a r a f ( J f j r o c c i c u t C o o f t d t o u w t p i p f r s b f f r i s I t a d n o a a p f r o s b d d t i o i a wS1 T p s s t n o t o t p d r a s p t t a p w d s a  t l c t p s b s a s t f s h t t p f r t C o A s d f f s f]
+[DELETED: B4 W a p m t s r b p ( o t s t W t a g a s t a m i s r c a t o a b i l o c o o u a t t p f a W 3 d a s o t p o w s f t a t c m o t p u r b b s o a p t b t c f t a c T c m r o p s c t t r w d d E a s p i t t c o t r s n b t t t p o a i p t c m t s c a t c o a t o r t a p s c a t c d p T a m m f a o b r o t c f w t r c t b a p o t r t a e m o r i o I t p i d w t a a a w w r o r t C o A m r t a t ]
+[DELETED: B4 t o f f a a i t c f t e t f o t p a f t f p p i a f b t p o t c i a p o l a t a c i c a p t a i t c f t a e o I w a a r a o s a p o a p a s a o r t o i t c f t t o i n s ( J f j r o o o t c c i c c i w t.P i a p.I d D o s s b t d o w t a d o T p s s t n o t p i t f s h t i a a o a b o m t o w o m c I a a]
+[DELETED: B4 a o f p o r a m o i a p o l a t a c i c a p[] I w a a r a o s a p o a p a T c s s a o r t o i [] t f t t o i n t r a c o l i c a a i w t a o i b s t r s a p i t s e a o p b t A f a o o b t c i a r o a o a a o t o a f a T C o A s i a f o o r u t s w t I l o j r u p ( a ( o t s a c a a t c a N O 1 t s o r i a a p t p ( t s s n i a i r t i o i o t S A A P 9 a a i r t s i]
+[DELETED: B4 o i s b w b 1 e a t s o t C R G N S A A P T c m a r o r t o I t c f t t i a p o l a t a c i c a p T c s r t o t t a i I w a a r a o s a p o a p a T c s s a o r t o i t c f t t o] ( N a o p o t s i a c w r o  o f b t c w t c f t b b s e i t w r a s f b t c s A P 9 i r o a c a i s p t s ( o t s b i a w t p g r o c l u d]
+[DELETED: B4 I a w s ( o t s a p t a r o b a c s [] ( o t s t c s b b b a f o f o t 1 ( i c w m t t b m t A o c l u o b t c p t s 7 o t N O 1 a p f i c c b o a t c ( A u i t s “ i a p w s a p t  o o t s c a a l A d b a l c a o  T o r a c m c a a b t c t i t t c a I t c t c s s t n o t d s b r o r c m r t p a s t p a b i a a s t p t c a a t u t c a d t t i a c g i.I a d t c a s s f t r f t d i a i p t t t c T u m f t c a d o t e o a c g i i w c e o t c a d t t g o c m r t p s t s t p]
+[DELETED: B4] ( S e e t s a f o f w t r v a a w w]] a p o a o s p c a p i t i] c s i i i o a d w t p t s t ( T p t t c c a a o o t D o T t n o t p i a g o g u w t p c t o s b r o r]
+[DELETED: B4 U r t c I a r u t s t.S 1.T O D o A S t D o a t O o S B A.O.T 1.T a t O 1 1 1 2 a6A]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4073
+Sponsored by Representative SCHARF; Senator DRAZAN (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes some laws about agency actions. (Flesch Readability Score: 61.2).
+Modifies provisions relating to administrative law.
+Relocates provisions relating to portions of the fiscal impact statement for administrative rules
+regarding businesses and small businesses.
+1 A BILL FOR AN ACT
+2 Relating to administrative law; creating new provisions; amending ORS 183.333, 183.335, 183.355,
+3 183.482, 183.484, 196.115, 279B.415 and 813.450; and repealing ORS 183.336.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 183.333 is amended to read:
+6 183.333. [(1)(a)] (1) The Legislative Assembly finds and declares that it is the policy of this state
+7 that whenever possible the public be involved in the development of public policy by agencies and
+8 in the drafting of rules. The Legislative Assembly encourages agencies to seek public input to the
+9 maximum extent possible before giving notice of intent to adopt a rule. Before an agency gives
+10 notice of intent to adopt a permanent rule that will result in new requirements, changes to
+11 compliance obligations or new or increased costs for persons regulated by the agency, the
+12 agency shall appoint an advisory committee as described in this section. Before an agency
+13 gives notice of intent to adopt a rule that does not result in new requirements, changes to
+14 compliance obligations or new or increased costs for persons regulated by the agency, the
+15 agency may appoint an advisory committee or use any other means of obtaining public views that
+16 will assist the agency in drafting the rule.
+17 (2) At least 14 days before an agency gives notice of intent to adopt a permanent rule
+18 that will result in new requirements, changes to compliance obligations or new or increased
+19 costs for persons regulated by the agency, the agency shall post a public request for interest
+20 in a advisory committee for rule development. The agency shall send the notice to the list
+21 of interested parties developed under subsection (10) of this section and shall post the notice
+22 on the agency’s website. If the agency receives a request for appointment of an advisory
+23 committee from a person regulated by the agency or from an association of persons regu-
+24 lated by the agency during the 14-day period, the agency shall appoint an advisory committee.
+25 If the agency does not receive a request to appoint an advisory committee from a person
+26 regulated by the agency or from an association of persons regulated by the agency during
+27 the 14-day period, the agency may proceed with the rulemaking process without appointing
+28 an advisory committee.
+29 [(b)] (a) The membership of an advisory committee appointed under this [subsection] section
+30 must represent the interests of persons and communities likely to be affected by the rule[.], and
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 135
+
+HB 4073
+1 must include representatives of regulated entities of the agency and the program within the
+2 agency undertaking the rulemaking. The advisory committee may also include represen-
+3 tatives from unregulated entities but the number of representatives of unregulated entities
+4 may not exceed the number of representatives of regulated entities.
+5 [(c)] (b) An agency that appoints an advisory committee under this [subsection] section with
+6 regard to adoption of rules implementing legislation enacted by the Legislative Assembly shall invite
+7 to participate as a nonvoting member of the committee:
+8 (A) For legislation sponsored by a member of the Legislative Assembly, the first chief sponsor
+9 of the legislation, or another sponsor of the legislation as designated by the first chief sponsor.
+10 (B) For legislation sponsored by a committee of the Legislative Assembly, the chair of the
+11 committee that sponsored the legislation at the time the legislation was introduced, or another
+12 member of the committee as designated by the chair.
+13 [(2) Any agency in its discretion may develop a list of interested parties and inform those parties
+14 of any issue that may be the subject of rulemaking and invite the parties to make comments on the is-
+15 sue.]
+16 (3) An advisory committee appointed under this section may meet in person or virtually,
+17 but meetings of the advisory committee must be open to the public and the advisory com-
+18 mittee process must include an opportunity for public comment.
+19 [(3)] (4) If an agency appoints an advisory committee for consideration of a rule under [sub-
+20 section (1) of] this section, the agency shall seek the committee’s recommendations on whether the
+21 rule will have a fiscal impact, what the extent of that impact will be and whether the rule will have
+22 a significant adverse impact on small businesses. If the committee indicates that the rule will have
+23 a significant adverse impact on small businesses, the agency shall seek the committee’s recommen-
+24 dations on compliance with ORS 183.540.
+25 [(4)] (5) An agency shall consider an advisory committee’s recommendations provided under
+26 subsection [(3)] (4) of this section in preparing the statement of fiscal impact required by ORS
+27 183.335 (2)(b)(E).
+28 [(5)] (6) If an agency does not appoint an advisory committee for consideration of a permanent
+29 rule under [subsection (1) of] this section and 10 or more persons likely to be affected by the rule
+30 object to the agency’s statement of fiscal impact as required by ORS 183.335 (2)(b)(E) or an associ-
+31 ation with at least 10 members likely to be affected by the rule objects to the statement, the agency
+32 shall appoint a fiscal impact advisory committee to provide recommendations on whether the rule
+33 will have a fiscal impact and what the extent of that impact will be. The membership of the fiscal
+34 impact advisory committee must represent the interests of persons and communities likely to be af-
+35 fected by the rule. An objection under this subsection must be made not later than 14 days after the
+36 notice required by ORS 183.335 (1) is given. If the agency determines that the statement does not
+37 adequately reflect the rule’s fiscal impact, the agency shall extend the period for submission of data
+38 or views under ORS 183.335 (3)(a) by at least 20 days. The agency shall include any recommen-
+39 dations from the committee in the record maintained by the agency for the rule.
+40 [(6)] (7) An agency may appoint the Small Business Rules Advisory Committee established in
+41 ORS 183.407 as the advisory committee or fiscal impact advisory committee for purposes of this
+42 section.
+43 [(7)] (8) Subsection [(5)] (6) of this section does not apply to any rule adopted by an agency to
+44 comply with a judgment or a settlement of a judicial proceeding.
+45 [(8)] (9) If an agency is required by law to appoint an advisory committee or a fiscal impact
+[2]
+
+HB 4073
+1 advisory committee under this section, the agency may not appoint an officer, employee or other
+2 agent of the agency to serve as a member of the advisory committee or fiscal impact advisory
+3 committee.
+4 (10) Any agency in its discretion may develop a list of interested parties and inform those
+5 parties of any issue that may be the subject of rulemaking and invite the parties to make
+6 comments on the issue.
+7 SECTION 2. ORS 183.335 is amended to read:
+8 183.335. (1) Prior to the adoption, amendment or repeal of any rule, the agency shall give notice
+9 of its intended action:
+10 (a) In the manner established by rule adopted by the agency under ORS 183.341 (4), which pro-
+11 vides a reasonable opportunity for interested persons to be notified of the agency’s proposed action;
+12 (b) In the bulletin referred to in ORS 183.360 at least 21 days prior to the [effective] date the
+13 rule is filed with the Secretary of State as provided in ORS 183.355;
+14 (c) At least 28 days before the [effective] date the rule is filed with the Secretary of State
+15 as provided in ORS 183.355, to persons who have requested notice pursuant to subsection (8) of this
+16 section; and
+17 (d) Delivered only by electronic mail, at least 49 days before the [effective] date the rule is filed
+18 with the Secretary of State as provided in ORS 183.355, to the persons specified in subsection
+19 (15) of this section.
+20 (2)(a) The notice required by subsection (1) of this section must include:
+21 (A) A caption of not more than 15 words that reasonably identifies the subject matter of the
+22 agency’s intended action. The agency shall include the caption on each separate notice, statement,
+23 certificate or other similar document related to the intended action.
+24 (B) An objective, simple and understandable statement summarizing the subject matter and
+25 purpose of the intended action in sufficient detail to inform a person that the person’s interests may
+26 be affected, and the time, place and manner in which interested persons may present their views on
+27 the intended action.
+28 (b) The agency shall include with the notice of intended action given under subsection (1) of this
+29 section:
+30 (A) A citation of the statutory or other legal authority relied upon and bearing upon the
+31 promulgation of the rule;
+32 (B) A citation of the statute or other law the rule is intended to implement;
+33 (C) A statement of the need for the rule [and a], including, if applicable, a detailed de-
+34 scription of the problem the agency is attempting to solve with the rule and a detailed
+35 statement of how the rule is intended to meet the need or solve the problem;
+36 (D) A list of the principal documents, reports or studies, if any, prepared by or relied upon by
+37 the agency in considering the need for and in preparing the rule, and a statement of the location
+38 at which those documents are available for public inspection. The list may be abbreviated if neces-
+39 sary, and if so abbreviated there shall be identified the location of a complete list;
+40 (E)(i) A statement of fiscal impact identifying state agencies, units of local government and the
+41 public that may be economically affected by the adoption, amendment or repeal of the rule and an
+42 estimate of that economic impact on state agencies, units of local government and the public. In
+43 considering the economic effect of the proposed action on the public, the agency shall utilize avail-
+44 able information to project any significant economic effect of that action on businesses [which shall
+45 include a cost of compliance effect on small businesses affected.] and small businesses, including:
+[3]
+
+HB 4073
+1 (I) An estimate of the number of businesses and small businesses subject to the proposed
+2 rule and identification of the types of businesses and industries subject to the proposed rule;
+3 (II) A description of the projected reporting, recordkeeping and other administrative ac-
+4 tivities required for compliance with the proposed rule, including costs of professional ser-
+5 vices;
+6 (III) An identification of equipment, supplies, labor and increased administration required
+7 for compliance with the proposed rule;
+8 (IV) A summary of possible opportunity costs associated with compliance with the pro-
+9 posed rule, which may be achieved by publishing comments on opportunity costs that were
+10 provided to the agency in the fiscal impact statement process; and
+11 (V) A description of the manner in which the agency proposing the rule involved small
+12 businesses in the development of the rule; and
+13 (ii) If an agency determines that there is no fiscal impact on businesses and small busi-
+14 nesses, the statement of fiscal impact must also include documentation of feedback about
+15 costs from representatives of businesses and small businesses; and
+16 (iii) For an agency specified in ORS 183.530, the statement of fiscal impact [shall] must also
+17 include a housing cost impact statement as described in ORS 183.534;
+18 (F) A statement identifying how adoption of the rule will affect racial equity in this state;
+19 (G) If an advisory committee is not appointed under the provisions of ORS 183.333, an explana-
+20 tion as to why no advisory committee was used to assist the agency in drafting the rule; and
+21 (H) A description of alternative options the agency considered in developing the rule and
+22 a request for public comment on whether other options should be considered for achieving the rule’s
+23 substantive goals while reducing the negative economic impact of the rule on business.
+24 (c) The Secretary of State may omit the information submitted under paragraph (b) of this sub-
+25 section from publication in the bulletin referred to in ORS 183.360.
+26 (d) When providing notice of an intended action under subsection (1)(c) of this section, the
+27 agency shall provide a copy of the rule that the agency proposes to adopt, amend or repeal, or an
+28 explanation of how the person may acquire a copy of the rule. The copy of an amended rule shall
+29 show all changes to the rule by striking through material to be deleted and underlining all new
+30 material, or by any other method that clearly shows all new and deleted material.
+31 (3)(a) When an agency proposes to adopt, amend or repeal a rule, it shall give interested persons
+32 reasonable opportunity to submit data or views. The agency shall consider fully any written or
+33 oral submission. Opportunity for oral hearing shall be granted upon request received from 10 per-
+34 sons or from an association having not less than 10 members before the earliest date that the rule
+35 could [become effective] be adopted, amended or repealed after the giving of notice pursuant to
+36 subsection (1) of this section. An agency holding a hearing upon a request made under this sub-
+37 section shall:
+38 (A) Give notice of the hearing at least 21 days before the hearing to the person who has re-
+39 quested the hearing, to persons who have requested notice pursuant to subsection (8) of this
+40 section, to the list of interested parties developed under ORS 183.333 (10) and to the persons
+41 specified in subsection (15) of this section. The agency shall publish notice of the hearing in the
+42 bulletin referred to in ORS 183.360 at least 14 days before the hearing. The agency shall consider
+43 fully any written or oral submission.
+44 (B) Post the notice on the agency’s website and on the Oregon transparency website at
+45 least 21 days before the hearing.
+[4]
+
+HB 4073
+1 (C) Publish notice of the hearing in the bulletin referred to in ORS 183.360 at least 14 days
+2 before the hearing. An agency that fails to provide the 14-day notice required under this
+3 subparagraph shall reschedule the hearing and provide proper notice.
+4 (b) If an agency is required to conduct an oral hearing under paragraph (a) of this subsection,
+5 and the rule for which the hearing is to be conducted applies only to a limited geographical area
+6 within this state, or affects only a limited geographical area within this state, the hearing shall be
+7 conducted within the geographical area at the place most convenient for the majority of the resi-
+8 dents within the geographical area. At least 14 days before a hearing conducted under this para-
+9 graph, the agency shall publish notice of the hearing in the bulletin referred to in ORS 183.360 and
+10 in a newspaper of general circulation published within the geographical area that is affected by the
+11 rule or to which the rule applies. If a newspaper of general circulation is not published within the
+12 geographical area that is affected by the rule or to which the rule applies, the publication shall be
+13 made in the newspaper of general circulation published closest to the geographical area.
+14 (c) Notwithstanding paragraph (a) of this subsection, the Department of Corrections and the
+15 State Board of Parole and Post-Prison Supervision may adopt rules limiting participation by adults
+16 in custody in the proposed adoption, amendment or repeal of any rule to written submissions.
+17 (d) If requested by at least five persons before the earliest date that the rule could [become ef-
+18 fective] be adopted, amended or repealed after the agency gives notice pursuant to subsection (1)
+19 of this section, the agency shall provide a statement that identifies the objective of the rule and a
+20 statement of how the agency will subsequently determine whether the rule is in fact accomplishing
+21 that objective.
+22 (e) An agency that receives data or views concerning proposed rules from interested persons
+23 shall maintain a record of the data or views submitted. The record shall contain:
+24 (A) All written materials submitted to an agency in response to a notice of intent to adopt,
+25 amend or repeal a rule.
+26 (B) A recording or summary of oral submissions received at hearings held for the purpose of
+27 receiving those submissions.
+28 (C) Any public comment received in response to the request made under subsection (2)(b)(H) of
+29 this section and the agency’s response to that comment.
+30 (D) Any statements provided by the agency under paragraph (d) of this subsection.
+31 (4) Upon request of an interested person received before the earliest date that the rule could
+32 [become effective] be adopted, amended or repealed after the giving of notice pursuant to sub-
+33 section (1) of this section, the agency shall postpone the date of its intended action no less than 21
+34 nor more than 90 days in order to allow the requesting person an opportunity to submit data, views
+35 or arguments concerning the proposed action. Nothing in this subsection shall preclude an agency
+36 from adopting a temporary rule pursuant to subsection (5) of this section.
+37 (5) Notwithstanding subsections (1) to (4) of this section, an agency may adopt, amend or sus-
+38 pend a rule without prior notice or hearing or upon any abbreviated notice and hearing that it finds
+39 practicable, if the agency prepares:
+40 (a) A statement of its findings that its failure to act promptly will result in serious prejudice to
+41 the public interest or the interest of the parties concerned and the specific reasons for its findings
+42 of prejudice;
+43 (b) A citation of the statutory or other legal authority relied upon and bearing upon the
+44 promulgation of the rule;
+45 (c) A statement of the need for the rule and a statement of how the rule is intended to meet the
+[5]
+
+HB 4073
+1 need;
+2 (d) A list of the principal documents, reports or studies, if any, prepared by or relied upon by
+3 the agency in considering the need for and in preparing the rule, and a statement of the location
+4 at which those documents are available for public inspection; and
+5 (e) For an agency specified in ORS 183.530, a housing cost impact statement as defined in ORS
+6 183.534.
+7 (6)(a) A rule adopted, amended or suspended under subsection (5) of this section is temporary
+8 and may be effective for a period of not longer than 180 days. The adoption of a rule under this
+9 subsection does not preclude the subsequent adoption of an identical rule under subsections (1) to
+10 (4) of this section.
+11 (b) A rule temporarily suspended shall regain effectiveness upon expiration of the temporary
+12 period of suspension unless the rule is repealed under subsections (1) to (4) of this section.
+13 (7) Notwithstanding subsections (1) to (4) of this section, an agency may amend a rule without
+14 prior notice or hearing if the amendment is solely for the purpose of:
+15 (a) Changing the name of an agency by reason of a name change prescribed by law;
+16 (b) Changing the name of a program, office or division within an agency as long as the change
+17 in name does not have a substantive effect on the functions of the program, office or division;
+18 (c) Correcting spelling;
+19 (d) Correcting grammatical mistakes in a manner that does not alter the scope, application or
+20 meaning of the rule;
+21 (e) Correcting statutory or rule references;
+22 (f) Correcting addresses or telephone numbers referred to in the rules; or
+23 (g) Changing a term or phrase in order to conform with a change prescribed by law.
+24 (8)(a) Any person may request in writing that an agency send to the person copies of the
+25 agency’s notices of intended action issued under subsection (1) of this section. The person must
+26 provide an address where the person elects to receive notices. The address provided may be a postal
+27 mailing address or, if the agency provides notice by electronic mail, may be an electronic mailing
+28 address.
+29 (b) A request under this subsection must indicate that the person requests one of the following:
+30 (A) The person may request that the agency mail paper copies of the proposed rule and other
+31 information required by subsection (2) of this section to the postal mailing address.
+32 (B) If the agency posts notices of intended action on a website, the person may request that the
+33 agency mail the information required by subsection (2)(a) of this section to the postal mailing ad-
+34 dress with a reference to the website where electronic copies of the proposed rule and other infor-
+35 mation required by subsection (2) of this section are posted.
+36 (C) The person may request that the agency electronically mail the information required by
+37 subsection (2)(a) of this section to the electronic mailing address, and either provide electronic
+38 copies of the proposed rule and other information required by subsection (2) of this section or pro-
+39 vide a reference to a website where electronic copies of the proposed rule and other information
+40 required by subsection (2) of this section are posted.
+41 (c) Upon receipt of any request under this subsection, the agency shall acknowledge the request,
+42 establish a mailing list and maintain a record of all mailings made pursuant to the request. Agen-
+43 cies may establish procedures for establishing the mailing lists and keeping the mailing lists current.
+44 Agencies by rule may establish fees necessary to defray the costs of mailings and maintenance of
+45 the lists.
+[6]
+
+HB 4073
+1 (d) Members of the Legislative Assembly who receive notices under subsection (15) of this sec-
+2 tion may request that an agency furnish paper copies of the notices.
+3 (9) This section does not apply to rules establishing an effective date for a previously effective
+4 rule or establishing a period during which a provision of a previously effective rule will apply.
+5 (10) This section does not apply to ORS 279.835 to 279.855, 279A.140 to 279A.161, 279A.250 to
+6 279A.290, 279A.990, 279B.050 to 279B.085, 279B.200 to 279B.240, 279B.270, 279B.275, 279B.280,
+7 279C.360, 279C.365, 279C.370, 279C.375, 279C.380, 279C.385, 279C.500 to 279C.530, 279C.540, 279C.545,
+8 279C.550 to 279C.570, 279C.580, 279C.585, 279C.590, 279C.600 to 279C.625, 279C.650 to 279C.670 and
+9 279C.800 to 279C.870 relating to public contracts and purchasing.
+10 (11)(a) Except as provided in paragraph (c) of this subsection, a rule is not valid unless adopted
+11 in substantial compliance with the provisions of this section in effect on the date that the notice
+12 required under subsection (1) of this section is delivered to the Secretary of State for the purpose
+13 of publication in the bulletin referred to in ORS 183.360.
+14 (b) In addition to all other requirements with which rule adoptions must comply, a rule other
+15 than a rule amended for a purpose described in subsection (7) of this section is not valid if the rule
+16 has not been submitted to the Legislative Counsel in the manner required by ORS 183.355 and
+17 183.715.
+18 (c) A rule is not subject to judicial review or other challenge by reason of failing to comply with
+19 subsection (2)(a)(A) of this section.
+20 (12)(a) Notwithstanding the provisions of subsection (11) of this section, but subject to paragraph
+21 (b) of this subsection, an agency may correct its failure to substantially comply with the require-
+22 ments of subsections (2) and (5) of this section in adoption of a rule by an amended filing, as long
+23 as the noncompliance did not substantially prejudice the interests of persons to be affected by the
+24 rule.
+25 (b) An agency may use an amended filing to correct a failure to include a fiscal impact state-
+26 ment in a notice of intended action, as required by subsection (2)(b)(E) of this section, or to correct
+27 an inaccurate fiscal impact statement, only if the agency developed the fiscal impact statement with
+28 the assistance of an advisory committee or fiscal impact advisory committee appointed under ORS
+29 183.333.
+30 (13) Unless otherwise provided by statute, the adoption, amendment or repeal of a rule by an
+31 agency need not be based upon or supported by an evidentiary record.
+32 (14) When an agency has established a deadline for comment on a proposed rule under the pro-
+33 visions of subsection (3)(a) of this section, the agency may not extend that deadline for another
+34 agency or person unless the extension applies equally to all interested agencies and persons. An
+35 agency shall not consider any submission made by another agency after the final deadline has
+36 passed.
+37 (15) The notices required under subsections (1) and (3) of this section must be given by the
+38 agency to the following persons:
+39 (a) If the proposed adoption, amendment or repeal results from legislation that was passed
+40 within two years before notice is given under subsection (1) of this section, notice shall be given to
+41 the legislator who introduced the bill that subsequently was enacted into law, and to the chair or
+42 cochairs of all committees that reported the bill out, except for those committees whose sole action
+43 on the bill was referral to another committee.
+44 (b) If the proposed adoption, amendment or repeal does not result from legislation that was
+45 passed within two years before notice is given under subsection (1) of this section, notice shall be
+[7]
+
+HB 4073
+1 given to the chair or cochairs of any interim or session committee with authority over the subject
+2 matter of the rule.
+3 (c) If notice cannot be given under paragraph (a) or (b) of this subsection, notice shall be given
+4 to the Speaker of the House of Representatives and to the President of the Senate who are in office
+5 on the date the notice is given.
+6 (16)(a) Upon the request of a member of the Legislative Assembly or of a person who would be
+7 affected by a proposed adoption, amendment or repeal, the committees receiving notice under sub-
+8 section (15) of this section shall review the proposed adoption, amendment or repeal for compliance
+9 with the legislation from which the proposed adoption, amendment or repeal results.
+10 (b) The committees shall submit their comments on the proposed adoption, amendment or repeal
+11 to the agency proposing the adoption, amendment or repeal.
+12 (17) If a proposed adoption, amendment or repeal increases the administrative costs of
+13 a division or department budget by 0.5 percent or more or increases positions needed for
+14 program operations or enforcement, the agency shall submit a report in the manner de-
+15 scribed in ORS 192.245 to the Joint Committee on Ways and Means and the Joint Legislative
+16 Audit Committee.
+17 SECTION 3. ORS 183.355 is amended to read:
+18 183.355. (1) The Secretary of State shall by rule prescribe requirements for the manner and form
+19 for filing rules adopted, amended or repealed by agencies. The Secretary of State may refuse to ac-
+20 cept for filing any rules that do not comply with the requirements.
+21 (2)(a) Each agency shall file with the office of the Secretary of State each rule adopted,
+22 amended or repealed by the agency.
+23 (b) The filing of a permanent rule must include a summary of public comments received
+24 by the agency about the rule and the agency’s response to common public comments.
+25 [(b)] (c) Unless otherwise provided by rule adopted by the Secretary of State, an agency adopt-
+26 ing a rule incorporating published standards by reference is not required to file a copy of those
+27 standards with the Secretary of State if:
+28 (A) The standards adopted are unusually voluminous and costly to reproduce; and
+29 (B) The rule filed with the Secretary of State identifies the location of the standards so incor-
+30 porated and the conditions of their availability to the public.
+31 (3) Each rule is effective [upon] 30 days after the date of filing as required by subsection (2)
+32 of this section, except that:
+33 (a) If a later effective date is required by statute or specified in the rule, the later date is the
+34 effective date.
+35 (b) A temporary rule becomes effective upon filing with the Secretary of State, or at a desig-
+36 nated later date, [only] if the statement required by ORS 183.335 (5) is filed with the rule. The
+37 agency shall take appropriate measures to make temporary rules known to the persons who may be
+38 affected by them.
+39 [(4) When a rule is amended or repealed by an agency, the agency shall file the amendment or
+40 notice of repeal with the Secretary of State.]
+41 [(5)] (4) A certified copy of each executive order issued, prescribed or promulgated by the Gov-
+42 ernor shall be filed in the office of the Secretary of State.
+43 [(6)] (5) A rule is not valid or effective against any person or party until the rule [is filed] be-
+44 comes effective in accordance with this section. However, if an agency, in disposing of a contested
+45 case, announces in its decision the adoption of a general policy applicable to the case and subse-
+[8]
+
+HB 4073
+1 quent cases of like nature the agency may rely upon the decision in disposition of later cases.
+2 [(7)] (6) The Secretary of State shall, upon request, supply copies of rules, or orders or desig-
+3 nated parts of rules or orders, in the format requested, making and collecting therefor fees pre-
+4 scribed by ORS 177.130. All receipts from the sale of copies shall be deposited in the State Treasury
+5 to the credit of the Secretary of State Miscellaneous Receipts Account established under ORS
+6 279A.290.
+7 [(8)] (7) The Secretary of State shall establish and collect fees from agencies filing rules under
+8 this section. The fees shall be established in amounts calculated to be necessary to generate reven-
+9 ues adequate to pay costs incurred by the Secretary of State in performing the following duties that
+10 are not paid for by subscriber fees or other fees prescribed by law:
+11 (a) Publication of the compilation referred to in ORS 183.360 (1);
+12 (b) Electronic publication of the bulletin referred to in ORS 183.360 (3); and
+13 (c) Electronic publication of rules and other information relating to rules under ORS 183.365.
+14 [(9)] (8) All fees collected under subsection [(8)] (7) of this section shall be deposited in the State
+15 Treasury to the credit of the Secretary of State Miscellaneous Receipts Account established under
+16 ORS 279A.290.
+17 [(10)] (9) No later than 10 days after an agency files an adopted, amended or repealed rule with
+18 the Secretary of State, other than a rule amended for a purpose described in ORS 183.335 (7), the
+19 Secretary of State shall:
+20 (a) Electronically transmit the rule to the Legislative Counsel in accordance with ORS 183.715;
+21 and
+22 (b) Provide to the agency that filed the rule a written confirmation that the rule was transmitted
+23 to the Legislative Counsel.
+24 SECTION 4. ORS 183.482 is amended to read:
+25 183.482. (1) Jurisdiction for judicial review of contested cases is conferred upon the Court of
+26 Appeals. Proceedings for review shall be instituted by filing a petition in the Court of Appeals. The
+27 petition shall be filed within 60 days only following the date the order upon which the petition is
+28 based is served unless otherwise provided by statute. If a petition for rehearing has been filed, then
+29 the petition for review shall be filed within 60 days only following the date the order denying the
+30 petition for rehearing is served. If the agency does not otherwise act, a petition for rehearing or
+31 reconsideration shall be deemed denied the 60th day following the date the petition was filed, and
+32 in such cases, petition for judicial review shall be filed within 60 days only following such date. Date
+33 of service shall be the date on which the agency delivered or mailed its order in accordance with
+34 ORS 183.470.
+35 (2) The petition shall state the nature of the order the petitioner desires reviewed, and shall
+36 state whether the petitioner was a party to the administrative proceeding, was denied status as a
+37 party or is seeking judicial review as a person adversely affected or aggrieved by the agency order.
+38 In the latter case, the petitioner shall, by supporting affidavit, state the facts showing how the
+39 petitioner is adversely affected or aggrieved by the agency order. Before deciding the issues raised
+40 by the petition for review, the Court of Appeals shall decide, from facts set forth in the affidavit,
+41 whether or not the petitioner is entitled to petition as an adversely affected or an aggrieved person.
+42 Copies of the petition shall be served by registered or certified mail upon the agency, and all other
+43 parties of record in the agency proceeding.
+44 (3)(a) The filing of the petition shall not stay enforcement of the agency order, but the agency
+45 may do so upon a showing of:
+[9]
+
+HB 4073
+1 (A) Irreparable injury to the petitioner; and
+2 (B) A colorable claim of error in the order.
+3 (b) When a petitioner makes the showing required by paragraph (a) of this subsection, the
+4 agency shall grant the stay unless the agency determines that substantial public harm will result if
+5 the order is stayed. If the agency denies the stay, the denial shall be in writing and shall specifically
+6 state the substantial public harm that would result from the granting of the stay.
+7 (c) When the agency grants a stay, the agency may impose such reasonable conditions as the
+8 giving of a bond, irrevocable letter of credit or other undertaking and that the petitioner file all
+9 documents necessary to bring the matter to issue before the Court of Appeals within specified rea-
+10 sonable periods of time.
+11 (d) Agency denial of a motion for stay is subject to review by the Court of Appeals under such
+12 rules as the court may establish.
+13 (4) Within 30 days after service of the petition, or within such further time as the court may
+14 allow, the agency shall transmit to the reviewing court the original or a certified copy of the entire
+15 record of the proceeding under review, but, by stipulation of all parties to the review proceeding,
+16 the record may be shortened. Any party unreasonably refusing to stipulate to limit the record may
+17 be taxed by the court for the additional costs. The court may require or permit subsequent cor-
+18 rections or additions to the record when deemed desirable. Except as specifically provided in this
+19 subsection, the cost of the record shall not be taxed to the petitioner or any intervening party.
+20 However, the court may tax such costs and the cost of agency transcription of record to a party
+21 filing a frivolous petition for review.
+22 (5) If, on review of a contested case, before the date set for hearing, application is made to the
+23 court for leave to present additional evidence, and it is shown to the satisfaction of the court that
+24 the additional evidence is material and that there were good and substantial reasons for failure to
+25 present it in the proceeding before the agency, the court may order that the additional evidence be
+26 taken before the agency upon such conditions as the court deems proper. The agency may modify
+27 its findings and order by reason of the additional evidence and shall, within a time to be fixed by
+28 the court, file with the reviewing court, to become a part of the record, the additional evidence,
+29 together with any modifications or new findings or orders, or its certificate that the agency elects
+30 to stand on its original findings and order, as the case may be.
+31 (6) At any time subsequent to the filing of the petition for review and prior to the date set for
+32 hearing the agency may withdraw its order for purposes of reconsideration. If an agency withdraws
+33 an order for purposes of reconsideration, the agency shall, within such time as the court may allow,
+34 affirm, modify or reverse its order. If the petitioner is dissatisfied with the agency action after
+35 withdrawal for purposes of reconsideration, the petitioner may refile the petition for review and the
+36 review shall proceed upon the revised order. An amended petition for review shall not be required
+37 if the agency, on reconsideration, affirms the order or modifies the order with only minor changes.
+38 If an agency withdraws an order for purposes of reconsideration and modifies or reverses the order
+39 in favor of the petitioner, the court shall allow the petitioner costs, but not attorney fees, to be paid
+40 from funds available to the agency.
+41 (7) Review of a contested case shall be confined to the record, and the court shall not substitute
+42 its judgment for that of the agency as to any issue of fact or agency discretion. In the case of dis-
+43 puted allegations of irregularities in procedure before the agency not shown in the record which, if
+44 proved, would warrant reversal or remand, the Court of Appeals may refer the allegations to a
+45 master appointed by the court to take evidence and make findings of fact upon them. The court shall
+[10]
+
+HB 4073
+1 remand the order for further agency action if the court finds that either the fairness of the pro-
+2 ceedings or the correctness of the action may have been impaired by a material error in procedure
+3 or a failure to follow prescribed procedure, including a failure by the presiding officer to comply
+4 with the requirements of ORS 183.417 (8).
+5 (8)(a) The court may affirm, reverse or remand the order. If the court finds that the agency has
+6 erroneously interpreted a provision of law and that a correct interpretation compels a particular
+7 action, the court shall:
+8 (A) Set aside or modify the order; or
+9 (B) Remand the case to the agency for further action under a correct interpretation of the pro-
+10 vision of law.
+11 (b) The court shall remand the order to the agency if the court finds the agency’s exercise of
+12 discretion to be:
+13 (A) Outside the range of discretion delegated to the agency by law;
+14 (B) Inconsistent with an agency rule, an officially stated agency position, or a prior agency
+15 practice, if the inconsistency is not explained by the agency; or
+16 (C) Otherwise in violation of a constitutional or statutory provision.
+17 (c) The court shall set aside or remand the order if the court finds that the order is not sup-
+18 ported by substantial evidence in the record. Substantial evidence exists to support a finding of fact
+19 when the record, viewed as a whole, would permit a reasonable person to make that finding.
+20 (d) The court shall set aside or remand the order if the court finds that the agency action
+21 or the findings or conclusions supporting the order were arbitrary or capricious.
+22 SECTION 5. ORS 183.484 is amended to read:
+23 183.484. (1) Jurisdiction for judicial review of orders other than contested cases is conferred
+24 upon the Circuit Court for Marion County and upon the circuit court for the county in which the
+25 petitioner resides or has a principal business office. Proceedings for review under this section shall
+26 be instituted by filing a petition in the Circuit Court for Marion County or the circuit court for the
+27 county in which the petitioner resides or has a principal business office.
+28 (2) Petitions for review shall be filed within 60 days only following the date the order is served,
+29 or if a petition for reconsideration or rehearing has been filed, then within 60 days only following
+30 the date the order denying such petition is served. If the agency does not otherwise act, a petition
+31 for rehearing or reconsideration shall be deemed denied the 60th day following the date the petition
+32 was filed, and in such case petition for judicial review shall be filed within 60 days only following
+33 such date. Date of service shall be the date on which the agency delivered or mailed its order in
+34 accordance with ORS 183.470.
+35 (3) The petition shall state the nature of the petitioner’s interest, the facts showing how the
+36 petitioner is adversely affected or aggrieved by the agency order and the ground or grounds upon
+37 which the petitioner contends the order should be reversed or remanded. The review shall proceed
+38 and be conducted by the court without a jury.
+39 (4) At any time subsequent to the filing of the petition for review and prior to the date set for
+40 hearing, the agency may withdraw its order for purposes of reconsideration. If an agency withdraws
+41 an order for purposes of reconsideration, it shall, within such time as the court may allow, affirm,
+42 modify or reverse its order. If the petitioner is dissatisfied with the agency action after withdrawal
+43 for purposes of reconsideration, the petitioner may refile the petition for review and the review shall
+44 proceed upon the revised order. An amended petition for review shall not be required if the agency,
+45 on reconsideration, affirms the order or modifies the order with only minor changes. If an agency
+[11]
+
+HB 4073
+1 withdraws an order for purposes of reconsideration and modifies or reverses the order in favor of
+2 the petitioner, the court shall allow the petitioner costs, but not attorney fees, to be paid from funds
+3 available to the agency.
+4 (5)(a) The court may affirm, reverse or remand the order. If the court finds that the agency has
+5 erroneously interpreted a provision of law and that a correct interpretation compels a particular
+6 action, it shall:
+7 (A) Set aside or modify the order; or
+8 (B) Remand the case to the agency for further action under a correct interpretation of the pro-
+9 vision of law.
+10 (b) The court shall remand the order to the agency if [it] the court finds the agency’s exercise
+11 of discretion to be:
+12 (A) Outside the range of discretion delegated to the agency by law;
+13 (B) Inconsistent with an agency rule, an officially stated agency position, or a prior agency
+14 practice, if the inconsistency is not explained by the agency; or
+15 (C) Otherwise in violation of a constitutional or statutory provision.
+16 (c) The court shall set aside or remand the order if [it] the court finds that the order is not
+17 supported by substantial evidence in the record. Substantial evidence exists to support a finding of
+18 fact when the record, viewed as a whole, would permit a reasonable person to make that finding.
+19 (d) The court shall set aside or remand the order if the court finds that the agency action
+20 or the findings or conclusions supporting the order were arbitrary or capricious.
+21 (6) In the case of reversal the court shall make special findings of fact based upon the evidence
+22 in the record and conclusions of law indicating clearly all aspects in which the agency’s order is
+23 erroneous.
+24 SECTION 6. ORS 196.115 is amended to read:
+25 196.115. (1) For purposes of judicial review, decisions of the Columbia River Gorge Commission
+26 shall be subject to review solely as provided in this section, except as otherwise provided by the
+27 Columbia River Gorge National Scenic Area Act, P.L. 99-663.
+28 (2)(a) A final action or order by the commission in a review or appeal of any action of the
+29 commission pursuant to section 10(c) or 15(b)(4) of the Columbia River Gorge National Scenic Area
+30 Act, or a final action or order by the commission in a review or appeal of any action of a county
+31 pursuant to section 15(a)(2) or 15(b)(4) of the Columbia River Gorge National Scenic Area Act, shall
+32 be reviewed by the Court of Appeals on a petition for judicial review filed and served as provided
+33 in subsections (3) and (4) of this section and ORS 183.482.
+34 (b) On a petition for judicial review under paragraph (a) of this subsection the Court of Appeals
+35 also shall review the action of the county that is the subject of the commission’s order, if requested
+36 in the petition.
+37 (c) The Court of Appeals shall issue a final order on review under this subsection within the
+38 time limits provided by ORS 197.855.
+39 (d) In lieu of judicial review under paragraphs (a) and (b) of this subsection, a county action
+40 may be appealed to the Land Use Board of Appeals under ORS 197.805 to 197.855. A notice of intent
+41 to appeal the county’s action shall be filed not later than 21 days after the commission’s order on
+42 the county action becomes final.
+43 (e) Notwithstanding ORS 197.835, the scope of review in an appeal pursuant to paragraph (d)
+44 of this subsection shall not include any issue relating to interpretation or implementation of the
+45 Columbia River Gorge National Scenic Area Act, P.L. 99-663, and any issue related to such inter-
+[12]
+
+HB 4073
+1 pretation or implementation shall be waived by the filing of an appeal under paragraph (d) of this
+2 subsection.
+3 (f) After county land use ordinances are approved pursuant to sections 7(b) and 8(h) to (k) of the
+4 Columbia River Gorge National Scenic Area Act, P.L. 99-663, the Land Use Board of Appeals shall
+5 not review land use decisions within the general management area or special management area for
+6 compliance with the statewide planning goals. The limitation of this paragraph shall not apply if the
+7 Land Conservation and Development Commission decertifies the management plan pursuant to ORS
+8 196.107.
+9 (3)(a) If a petition for judicial review of a commission order is filed pursuant to subsection (2)(a)
+10 of this section, the procedures to be followed by the parties, the commission and the court, and the
+11 court’s review, shall be in accordance with ORS 183.480, 183.482 (1) to (7), 183.485, 183.486, 183.490
+12 and 183.497, except as this section or the Columbia River Gorge National Scenic Area Act, P.L.
+13 99-663, otherwise provides.
+14 (b) Notwithstanding any provision of ORS 183.482:
+15 (A) The commission shall transmit the original record or the certified copy of the entire record
+16 within 21 days after service of a petition for judicial review is served on the commission; and
+17 (B) The parties shall file briefs with the court within the times allowed by rules of the court.
+18 (c) The court may affirm, reverse or remand the order. If the court finds that the agency has
+19 erroneously interpreted a provision of law and that a correct interpretation compels a particular
+20 action, the court shall:
+21 (A) Set aside or modify the order; or
+22 (B) Remand the case to the agency for further action under a correct interpretation of the pro-
+23 vision of law.
+24 (d) The court shall remand the order to the agency if the court finds the agency’s exercise of
+25 discretion to be:
+26 (A) Outside the range of discretion delegated to the agency by law;
+27 (B) Inconsistent with an agency rule, an officially stated agency position or a prior agency
+28 practice, unless the inconsistency is explained by the agency; or
+29 (C) Otherwise in violation of a constitutional or statutory provision.
+30 (e) The court shall set aside or remand the order if the court finds that the order is not sup-
+31 ported by substantial evidence in the whole record.
+32 (f) The court shall set aside or remand the order if the court finds that the agency action
+33 or the findings or conclusions supporting the order were arbitrary or capricious.
+34 [(f)] (g) Notwithstanding any other provision of this section, in any case where review of a
+35 county action as well as a commission order is sought pursuant to subsection (2)(a) and (b) of this
+36 section, the court shall accept any findings of fact by the commission which the court finds to be
+37 supported by substantial evidence in the whole record, and such findings by the commission shall
+38 prevail over any findings by the county concerning the same or substantially the same facts.
+39 (4)(a) Except as otherwise provided by this section or the Columbia River Gorge National Scenic
+40 Area Act, P.L. 99-663, if review of a county action is sought pursuant to subsection (2)(b) of this
+41 section, the procedures to be followed by the parties, the county and the court, and the court’s re-
+42 view, shall be in accordance with those provisions governing review of county land use decisions
+43 by the Land Use Board of Appeals set forth in ORS 197.830 (2) to (8), (10), (15) and (16) and 197.835
+44 (2) to (10), (12) and (13). As used in this section, “board” as used in the enumerated provisions shall
+45 mean “court” and the term “notice of intent to appeal” in ORS 197.830 (10) shall refer to the petition
+[13]
+
+HB 4073
+1 described in subsection (2) of this section.
+2 (b) In addition to the other requirements of service under this section, the petitioner shall serve
+3 the petition upon the persons and bodies described in ORS 197.830 (9), as a prerequisite to judicial
+4 review of the county action.
+5 (c) In accordance with subsection (3)(b)(B) of this section, a party to a review of both a com-
+6 mission order and a county action shall file only one brief with the court, which shall address both
+7 the commission order and the county action.
+8 (d) Review of a decision under ORS 197.830 to 197.845 shall be confined to the record. Subject
+9 to subsection [(3)(f)] (3)(g) of this section, the court shall be bound by any finding of fact of the
+10 county for which there is substantial evidence in the whole record. The court may appoint a master
+11 and follow the procedures of ORS 183.482 (7) in connection with matters that the board may take
+12 evidence for under ORS 197.835 (2).
+13 (5) Approval of county land use ordinances by the commission pursuant to section 7 of the
+14 Columbia River Gorge National Scenic Area Act, P.L. 99-663, may be reviewed by the Court of Ap-
+15 peals as provided in ORS 183.482.
+16 (6) Notwithstanding ORS 183.484, any proceeding filed in circuit court by or against the com-
+17 mission shall be filed with the circuit court for the county in which the commission has a principal
+18 business office or in which the land involved in the proceeding is located.
+19 SECTION 7. ORS 279B.415 is amended to read:
+20 279B.415. (1) As used in this section, “bidder” includes a person who submits a proposal to a
+21 public contracting agency pursuant to a request for proposals.
+22 (2) A decision by a state contracting agency on a protest of a contract award is reviewable by
+23 the Circuit Court for Marion County or the circuit court for the county in which the principal of-
+24 fices of the state contracting agency are located. A decision by a local contracting agency on a
+25 protest of a contract award is reviewable by the circuit court for the county in which the principal
+26 offices of the local contracting agency are located.
+27 (3) To obtain review, a complainant must commence an action before the contract that is the
+28 subject of the protest is approved by the Attorney General, if required by ORS 291.047, and executed
+29 by the contracting agency. In the complaint, the complainant shall state the nature of the
+30 complainant’s interest, the facts showing how the complainant is adversely affected or aggrieved by
+31 the contracting agency’s decision and the basis upon which the decision should be reversed or re-
+32 manded. The complainant shall join as parties all bidders that would be in line for an award of the
+33 contract ahead of the complainant. If injunctive relief is sought, the court may require the person
+34 seeking a stay to post a bond in an amount sufficient to protect the contracting agency and the
+35 public from costs associated with delay in execution of the contract.
+36 (4) When judicial review is sought, the contracting agency may not proceed with contract exe-
+37 cution unless the contracting agency determines that there is a compelling governmental interest
+38 in proceeding or that the goods and services are urgently needed. If the contracting agency makes
+39 such a determination, the contracting agency shall set forth the reasons for the determination in
+40 writing and immediately provide them to the complainant. Thereafter, upon motion from the
+41 complainant, the court may nonetheless stay the performance of the contract if the court finds that
+42 the contracting agency’s determination of the existence of a compelling governmental interest in
+43 proceeding with contract execution, or the contracting agency’s determination that the goods or
+44 services were urgently needed, was not supported by substantial evidence or constituted a manifest
+45 abuse of discretion. In granting a stay, the court may require the person seeking the stay to post
+[14]
+
+HB 4073
+1 a bond in an amount sufficient to protect the contracting agency and the public from costs associ-
+2 ated with delay in contract performance.
+3 (5) The court shall review the matter without a jury and shall consider only those grounds the
+4 complainant raised in the protest to the contracting agency.
+5 (6)(a) The court shall remand the matter to the contracting agency for a further decision if:
+6 [(a)] (A) Substantial evidence does not exist to support the contracting agency’s decision. Sub-
+7 stantial evidence exists to support a finding of fact when the record, viewed as a whole, would
+8 permit a reasonable person to make that finding;
+9 [(b)] (B) The contracting agency’s decision was outside the range of discretion delegated to the
+10 contracting agency by law;
+11 [(c)] (C) The decision was inconsistent with a contracting agency rule, an officially stated con-
+12 tracting agency position or an officially stated prior contracting agency practice, if the inconsist-
+13 ency is not explained by the contracting agency; or
+14 [(d)] (D) The decision was in violation of a constitutional or statutory provision.
+15 (b) The court shall set aside or remand the matter to the contracting agency if the court
+16 finds that the department action or the findings or conclusions supporting the matter were
+17 arbitrary or capricious.
+18 (7)(a) In addition to remanding the decision to the contracting agency, the court may order such
+19 ancillary relief, such as the cost of bid preparation, as the court finds necessary to redress the ef-
+20 fects of official action wrongfully taken or withheld. Ancillary relief does not include the award of
+21 a contract to the complainant or the award of lost profits or other damages.
+22 (b) If a contract has not been executed and the court rules in favor of the complainant, the court
+23 shall remand the matter to the contracting agency for a determination whether to continue with the
+24 procurement process in light of the court’s decision.
+25 (c) If a contract has been executed, in addition to the relief provided for in paragraph (a) of this
+26 subsection, the court shall include in its order a determination whether the party that signed the
+27 contract with the contracting agency is entitled to reimbursement under the conditions of, and cal-
+28 culated in the same manner as provided in, ORS 279C.470. Notwithstanding that ORS 279C.470 oth-
+29 erwise applies only to public improvement contracts, under this paragraph the court shall apply ORS
+30 279C.470 to both public improvement contracts and other public contracts of contracting agencies.
+31 (d) The court may award costs and attorney fees to the prevailing party.
+32 SECTION 8. ORS 813.450 is amended to read:
+33 813.450. (1) The petition to the circuit court appealing an order of the Department of Trans-
+34 portation after a hearing under ORS 813.410 shall state the nature of the petitioner’s interest and
+35 the ground or grounds upon which the petitioner contends the order should be reversed or re-
+36 manded.
+37 (2) The court shall conduct the review without a jury. Review shall be limited to the record of
+38 the department’s hearing.
+39 (3) Any party to the proceedings before the circuit court may appeal from the judgment of the
+40 court to the Court of Appeals.
+41 (4) Upon review in the circuit court and Court of Appeals, the court may affirm, reverse or re-
+42 mand the order as follows:
+43 (a) If the court finds that the department has erroneously interpreted a provision of law and that
+44 a correct interpretation compels a particular action, it shall:
+45 (A) Set aside or modify the order; or
+[15]
+
+HB 4073
+1 (B) Remand the case to the department for further action under a correct interpretation of the
+2 provision of law.
+3 (b) The court shall remand the order to the department if it finds the department’s exercise of
+4 discretion to be any of the following:
+5 (A) Outside the range of discretion delegated to the agency by law.
+6 (B) Inconsistent with a department rule, an officially stated department position, or a prior de-
+7 partment practice, if the inconsistency is not explained by the department.
+8 (C) Otherwise in violation of a constitutional or statutory provision.
+9 (c) The court shall set aside or remand the order if it finds that the order is not supported by
+10 substantial evidence in the record.
+11 (d) The court shall set aside or remand the order if the court finds that the department
+12 action or the findings or conclusions supporting the order were arbitrary or capricious.
+13 (5) Upon review, the court shall affirm the department’s order unless the court finds a ground
+14 for setting aside, modifying or remanding to the department under a specified provision of this sec-
+15 tion.
+16 (6) In any review under this section, the court shall also review de novo determinations made
+17 by an agency that are subject to ORS 183.650 (4).
+18 SECTION 9. Section 10 of this 2026 Act is added to and made a part of ORS chapter 183.
+19 SECTION 10. The Oregon Department of Administrative Services, the Department of
+20 Justice and the Office of Small Business Assistance shall collaborate to publish a guide to
+21 administrative rules designed for the general public.
+22 SECTION 11. ORS 183.336 is repealed.
+23 SECTION 12. The amendments to ORS 183.333, 183.335 and 183.355 by sections 1 to 3 of
+24 this 2026 Act and the repeal of ORS 183.336 by section 11 of this 2026 Act apply to rules for
+25 which an agency gives notice of intended action under ORS 183.335 on or after the effective
+26 date of this 2026 Act.
+27 SECTION 13. The amendments to ORS 183.482, 183.484, 196.115, 279B.415 and 813.450 by
+28 sections 4 to 8 of this 2026 Act apply to orders served on or after the effective date of this
+29 2026 Act.
+30
+[16]
+
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T.( t a l c n p a O 1 1 1[] t d o r o i t a a r.B i c f p r b t a t s a a a c a d o o n o i c f p r b t a t m o o p v t A l 1 d b a a g n o i.T t a w I t a r a r f a o a a f a p r t a d n r a r t a a a c f a p b t a o f a a o] ( T m o a a c a u t [] s)s r t i o p a c l t b a b t r[] a:M[]]
+[DELETED: B4 u t r T a c m a i r] ( A a t a a a c u t [] s w)s A t f c s F l s b a c o t L A t c o t t s t l a t t t l w i o a m] ( I a a a a a c f c o a r u )s ( o t] ( A a s c a a c r p u []( o t s i p t s o f i r b O5(] u [] t s a 1 o m p ( o a a f i a c t p r o w t ( i g I t a d t t s d n v u O 1 ( b a l 2 d T a s i a r] ( A a m a t S B R A C e i 1 a t a c o f i a c f p o t][])(] ( I a a i r b l t a a a c o a f i]
+[DELETED: B4 c u t s t a m n a a o e o o o t a t s a a m o t a c o f i a i t p t m r t i O 1 a l 2 d p t t [] d A l 2 d b t [] d;a[] t t p s i s A c o n m t 1 w t r i t s m o t A o s a u s s t s m a A c o t s o o l a r u a b u t A s o t n f t r [] i i a a d d  o t p t a i a t s w t r a a d A n f a i p t r a a s o t l o t e i o s a u o l g a t p]
+[DELETED: B4 p s t s o f i m a i d o f a F a a s i O 1 t s o f i [] m a W p n o a i a u s ( o t s t.T a c t t r b s t m t b d a u a n [] b a a o r a t g o n p t e ( o t s A a h a h u a r m u t sns G n o t h a l 2 d b t h t t p w h r t h t p w h r n p t s ( o t t a t t p i s ( o t s T a s p n o t h i t r t i O 1 a l]
+[DELETED: B4 t h A a t f t p t 1 n r u t t r f w t h i t b c a w t g a a t p m c f t m o t w t g a A l 1 d b a h c u t p N p ( o t s t D o C a t A a t r d o v c p r f i p A w m s t a a i r t a n o i t a A r o s o o s r a h h f t p o U r o a i p r b t e d t t r c] b a a o r a t g o n p t s e a c t ( t ( o t s a a m a a o s A c o t s o o l a r u a b u t]
+[DELETED: B4 A l o t p d r o n f a i p t r a a s o t l A r a a o s u s ( o t s i t m b e f a p o n l t 1 d T a o a r u t i r u s ( t A r t s s r e u e o t t d n a t s a o A p m r i w t a a s t t p c o t n o i a i u s ( o t s T p m a o i t a p n b e c o t p r a o m t i r b s ( o t s t t p m a T p m r t t a e m t i r b ( o t s t t e m a a e p e a r t a w w e c o t p r a o i.A m e f n t d t c o m a m oel]
+[DELETED: B4 T s d n a t O 2 t 2 2 t 2 2 t 2 2 t 2 2 t 2 2 2 2 s c w t p o t s i e o t d t t n u s ( o t I a t a o r w w r a m c a r n b s t t L C i t m r b O 1 a o t s a a m c i f t s c w t r a l t n c a f t i a f i s a o a a c U o p b s t a a o r o a r b a o s ( o t s t a m n e t d f a o p u t e a e t a i a a p A s n c a s m b a a a t f d h T n r u s ( a ( o t s m b g b t I t p a a o r r f l t w p t t c o I t p a a o r d n r f l t w n s b]
+[DELETED: B4 t c r n u s I a p a a d o d b b 0 p o m o i p n f o o e t a s s a r i t m d E a s f w t o o t S o S e r a] a r i p s b r i n r t f a c o t T r f[] s ( A t r b e u f w t S o S o a a d l d [] i t s r b O 1 ( i f w t r T W a r i a o r b a a t a s f t a o] A][])i a i i d t a o a g p a t t c a s]
+[DELETED: B4]( T S o S s u r s c o r o o o d p o r o o i t f r m a c t f p t c o t S o S M R A e u O]][])(] S o S o t a r a f ( J f j r o c c i c u t C o o f t d t o u w t p i p f r s b f f r i s I t a d n o a a p f r o s b d d t i o i a wS1 T p s s t n o t o t p d r a s p t t a p w d s a  t l c t p s b s a s t f s h t t p f r t C o A s d f f s f]
+[DELETED: B4 W a p m t s r b p ( o t s t W t a g a s t a m i s r c a t o a b i l o c o o u a t t p f a W 3 d a s o t p o w s f t a t c m o t p u r b b s o a p t b t c f t a c T c m r o p s c t t r w d d E a s p i t t c o t r s n b t t t p o a i p t c m t s c a t c o a t o r t a p s c a t c d p T a m m f a o b r o t c f w t r c t b a p o t r t a e m o r i o I t p i d w t a a a w w r o r t C o A m r t a t ]
+[DELETED: B4 t o f f a a i t c f t e t f o t p a f t f p p i a f b t p o t c i a p o l a t a c i c a p t a i t c f t a e o I w a a r a o s a p o a p a s a o r t o i t c f t t o i n s ( J f j r o o o t c c i c c i w t.P i a p.I d D o s s b t d o w t a d o T p s s t n o t p i t f s h t i a a o a b o m t o w o m c I a a]
+[DELETED: B4 a o f p o r a m o i a p o l a t a c i c a p[] I w a a r a o s a p o a p a T c s s a o r t o i [] t f t t o i n t r a c o l i c a a i w t a o i b s t r s a p i t s e a o p b t A f a o o b t c i a r o a o a a o t o a f a T C o A s i a f o o r u t s w t I l o j r u p ( a ( o t s a c a a t c a N O 1 t s o r i a a p t p ( t s s n i a i r t i o i o t S A A P 9 a a i r t s i]
+[DELETED: B4 o i s b w b 1 e a t s o t C R G N S A A P T c m a r o r t o I t c f t t i a p o l a t a c i c a p T c s r t o t t a i I w a a r a o s a p o a p a T c s s a o r t o i t c f t t o] ( N a o p o t s i a c w r o  o f b t c w t c f t b b s e i t w r a s f b t c s A P 9 i r o a c a i s p t s ( o t s b i a w t p g r o c l u d]
+[DELETED: B4 I a w s ( o t s a p t a r o b a c s [] ( o t s t c s b b b a f o f o t 1 ( i c w m t t b m t A o c l u o b t c p t s 7 o t N O 1 a p f i c c b o a t c ( A u i t s “ i a p w s a p t  o o t s c a a l A d b a l c a o  T o r a c m c a a b t c t i t t c a I t c t c s s t n o t d s b r o r c m r t p a s t p a b i a a s t p t c a a t u t c a d t t i a c g i.I a d t c a s s f t r f t d i a i p t t t c T u m f t c a d o t e o a c g i i w c e o t c a d t t g o c m r t p s t s t p]
+[DELETED: B4] ( S e e t s a f o f w t r v a a w w]] a p o a o s p c a p i t i] c s i i i o a d w t p t s t ( T p t t c c a a o o t D o T t n o t p i a g o g u w t p c t o s b r o r]
+[DELETED: B4 U r t c I a r u t s t.S 1.T O D o A S t D o a t O o S B A.O.T 1.T a t O 1 1 1 2 a6A]

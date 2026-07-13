@@ -1,0 +1,485 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4136
+Sponsored by Representative HARTMAN, Senators GOLDEN, NERON MISSLIN; Representatives GAMBA, HELM,
+LIVELY, WISE, Senators FREDERICK, GELSER BLOUIN, MANNING JR, PATTERSON, PHAM K,
+PROZANSKI, SOLLMAN (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act ends the tax deduction for mortgage interest paid for a taxpayer’s second home.
+(Flesch Readability Score: 61.8).
+Disallows, for purposes of personal income taxation, a mortgage interest deduction for a resi-
+dence other than the taxpayer’s principal residence, unless the taxpayer sells the residence or ac-
+tively markets the residence for sale.
+Establishes the Oregon Homeownership Opportunity Account. Transfers an amount equal to the
+estimated increase in revenue attributable to restrictions on the deduction of mortgage interest to
+the account, for the purpose of making down payment assistance payments.
+Applies to tax years beginning on or after January 1, 2026.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to tax treatment of mortgage interest; creating new provisions; amending ORS 316.695; and
+3 prescribing an effective date.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 316.695 is amended to read:
+6 316.695. (1) In addition to the modifications to federal taxable income contained in this chapter,
+7 there shall be added to or subtracted from federal taxable income:
+8 (a) If, in computing federal income tax for a tax year, the taxpayer deducted itemized deductions,
+9 as defined in section 63(d) of the Internal Revenue Code, the taxpayer shall add the amount of
+10 itemized deductions deducted (the itemized deductions less an amount, if any, by which the itemized
+11 deductions are reduced under section 68 of the Internal Revenue Code).
+12 (b) If, in computing federal income tax for a tax year, the taxpayer deducted the standard de-
+13 duction, as defined in section 63(c) of the Internal Revenue Code, the taxpayer shall add the amount
+14 of the standard deduction deducted.
+15 (c)(A) From federal taxable income there shall be subtracted the larger of (i) the taxpayer’s
+16 itemized deductions or (ii) a standard deduction. Except as provided in subsection (8) of this section,
+17 for purposes of this subparagraph, “standard deduction” means the sum of the basic standard de-
+18 duction and the additional standard deduction.
+19 (B) For purposes of subparagraph (A) of this paragraph, the basic standard deduction is:
+20 (i) $3,280, in the case of joint return filers or a surviving spouse;
+21 (ii) $1,640, in the case of an individual who is not a married individual and is not a surviving
+22 spouse;
+23 (iii) $1,640, in the case of a married individual who files a separate return; or
+24 (iv) $2,640, in the case of a head of household.
+25 (C)(i) For purposes of subparagraph (A) of this paragraph for tax years beginning on or after
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 276
+HB 4136
+1 January 1, 2003, the Department of Revenue shall annually recompute the basic standard deduction
+2 for each category of return filer listed under subparagraph (B) of this paragraph. The basic standard
+3 deduction shall be computed by dividing the monthly averaged U.S. City Average Consumer Price
+4 Index for the 12 consecutive months ending August 31 of the prior calendar year by the average
+5 U.S. City Average Consumer Price Index for the second quarter of 2002, then multiplying that quo-
+6 tient by the amount listed under subparagraph (B) of this paragraph for each category of return
+7 filer.
+8 (ii) If any change in the maximum household income determined under this subparagraph is not
+9 a multiple of $5, the increase shall be rounded to the next lower multiple of $5.
+10 (iii) As used in this subparagraph, “U.S. City Average Consumer Price Index” means the U.S.
+11 City Average Consumer Price Index for All Urban Consumers (All Items) as published by the Bureau
+12 of Labor Statistics of the United States Department of Labor.
+13 (D) For purposes of subparagraph (A) of this paragraph, the additional standard deduction is the
+14 sum of each additional amount to which the taxpayer is entitled under subsection (7) of this section.
+15 (E) As used in subparagraph (B) of this paragraph, “surviving spouse” and “head of household”
+16 have the meanings given those terms in section 2 of the Internal Revenue Code.
+17 (F) In the case of the following, the standard deduction referred to in subparagraph (A) of this
+18 paragraph shall be zero:
+19 (i) One of the spouses in a marriage filing a separate return where the other spouse has claimed
+20 itemized deductions under subparagraph (A) of this paragraph;
+21 (ii) A nonresident noncitizen;
+22 (iii) An individual making a return for a period of less than 12 months on account of a change
+23 in the individual’s annual accounting period;
+24 (iv) An estate or trust;
+25 (v) A common trust fund; or
+26 (vi) A partnership.
+27 (d) For the purposes of paragraph (c)(A) of this subsection, the taxpayer’s itemized deductions
+28 are the amount of the taxpayer’s itemized deductions as defined in section 63(d) of the Internal Re-
+29 venue Code (reduced, if applicable, as described under section 68 of the Internal Revenue Code)
+30 minus:
+31 (A) The deduction for Oregon income tax (reduced, if applicable, by the proportion that the re-
+32 duction in federal itemized deductions resulting from section 68 of the Internal Revenue Code bears
+33 to the amount of federal itemized deductions as defined for purposes of section 68 of the Internal
+34 Revenue Code)[.]; and
+35 (B) Any portion of the deduction for qualified residence interest paid or accrued on
+36 indebtedness with respect to a qualified residence other than the taxpayer’s principal resi-
+37 dence.
+38 (e) Notwithstanding paragraph (d)(B) of this subsection, a deduction for qualified resi-
+39 dence interest paid or accrued on indebtedness with respect to a qualified residence other
+40 than the taxpayer’s principal residence is included in the taxpayer’s itemized deduction if:
+41 (A) The qualified residence that is not the taxpayer’s current principal residence was the
+42 taxpayer’s principal residence during the tax year or during the period three months prior
+43 to the start of the tax year; and
+44 (B) The taxpayer sold a qualified residence during the tax year or was actively marketing
+45 a qualified residence at the close of the tax year.
+[2]
+HB 4136
+1 (2)(a) There shall be subtracted from federal taxable income any portion of the distribution of
+2 a pension, profit-sharing, stock bonus or other retirement plan, representing that portion of contri-
+3 butions which were taxed by the State of Oregon but not taxed by the federal government under
+4 laws in effect for tax years beginning prior to January 1, 1969, or for any subsequent year in which
+5 the amount that was contributed to the plan under the Internal Revenue Code was greater than the
+6 amount allowed under this chapter.
+7 (b) Interest or other earnings on any excess contributions of a pension, profit-sharing, stock
+8 bonus or other retirement plan not permitted to be deducted under paragraph (a) of this subsection
+9 may not be added to federal taxable income in the year earned by the plan and may not be sub-
+10 tracted from federal taxable income in the year received by the taxpayer.
+11 (3)(a) Except as provided in subsection (4) of this section, there shall be added to federal taxable
+12 income the amount of any federal income taxes in excess of the amount provided in paragraphs (b)
+13 to (d) of this subsection, accrued by the taxpayer during the tax year as described in ORS 316.685,
+14 less the amount of any refund of federal taxes previously accrued for which a tax benefit was re-
+15 ceived.
+16 (b) The limits applicable to this subsection are:
+17 (A) $5,500, if the federal adjusted gross income of the taxpayer for the tax year is less than
+18 $125,000, or, if reported on a joint return, less than $250,000.
+19 (B) $4,400, if the federal adjusted gross income of the taxpayer for the tax year is $125,000 or
+20 more and less than $130,000, or, if reported on a joint return, $250,000 or more and less than
+21 $260,000.
+22 (C) $3,300, if the federal adjusted gross income of the taxpayer for the tax year is $130,000 or
+23 more and less than $135,000, or, if reported on a joint return, $260,000 or more and less than
+24 $270,000.
+25 (D) $2,200, if the federal adjusted gross income of the taxpayer for the tax year is $135,000 or
+26 more and less than $140,000, or, if reported on a joint return, $270,000 or more and less than
+27 $280,000.
+28 (E) $1,100, if the federal adjusted gross income of the taxpayer for the tax year is $140,000 or
+29 more and less than $145,000, or, if reported on a joint return, $280,000 or more and less than
+30 $290,000.
+31 (c) If the federal adjusted gross income of the taxpayer is $145,000 or more for the tax year, or,
+32 if reported on a joint return, $290,000 or more, the limit is zero and the taxpayer is not allowed a
+33 subtraction for federal income taxes under ORS 316.680 (1) for the tax year.
+34 (d) In the case of spouses in a marriage filing separate tax returns, the amount added shall be
+35 in the amount of any federal income taxes in excess of 50 percent of the amount provided for indi-
+36 vidual taxpayers under paragraphs (a) to (c) of this subsection, less the amount of any refund of
+37 federal taxes previously accrued for which a tax benefit was received.
+38 (e) For purposes of this subsection, the limits applicable to a joint return shall apply to a head
+39 of household or a surviving spouse, as defined in section 2(a) and (b) of the Internal Revenue Code.
+40 (f)(A) For a calendar year beginning on or after January 1, 2008, the Department of Revenue
+41 shall make a cost-of-living adjustment to the federal income tax threshold amounts described in
+42 paragraphs (b) and (d) of this subsection.
+43 (B) The cost-of-living adjustment for a calendar year is the percentage by which the monthly
+44 averaged U.S. City Average Consumer Price Index for the 12 consecutive months ending August 31
+45 of the prior calendar year exceeds the monthly averaged index for the period beginning September
+[3]
+HB 4136
+1 1, 2005, and ending August 31, 2006.
+2 (C) As used in this paragraph, “U.S. City Average Consumer Price Index” means the U.S. City
+3 Average Consumer Price Index for All Urban Consumers (All Items) as published by the Bureau of
+4 Labor Statistics of the United States Department of Labor.
+5 (D) If any adjustment determined under subparagraph (B) of this paragraph is not a multiple of
+6 $50, the adjustment shall be rounded to the next lower multiple of $50.
+7 (E) The adjustment shall apply to all tax years beginning in the calendar year for which the
+8 adjustment is made.
+9 (4)(a) In addition to the adjustments required by ORS 316.130, a full-year nonresident individual
+10 shall add to taxable income a proportion of any accrued federal income taxes as computed under
+11 ORS 316.685 in excess of the amount provided in subsection (3) of this section in the proportion
+12 provided in ORS 316.117.
+13 (b) In the case of spouses in a marriage filing separate tax returns, the amount added under this
+14 subsection shall be computed in a manner consistent with the computation of the amount to be
+15 added in the case of spouses in a marriage filing separate returns under subsection (3) of this sec-
+16 tion. The method of computation shall be determined by the Department of Revenue by rule.
+17 (5) Subsections (3)(d) and (4)(b) of this section shall not apply to married individuals living apart
+18 as defined in section 7703(b) of the Internal Revenue Code.
+19 (6)(a) For tax years beginning on or after January 1, 1981, and prior to January 1, 1983, income
+20 or loss taken into account in determining federal taxable income by a shareholder of an S corpo-
+21 ration pursuant to sections 1373 to 1375 of the Internal Revenue Code shall be adjusted for purposes
+22 of determining Oregon taxable income, to the extent that as income or loss of the S corporation,
+23 they were required to be adjusted under the provisions of ORS chapter 317.
+24 (b) For tax years beginning on or after January 1, 1983, items of income, loss or deduction taken
+25 into account in determining federal taxable income by a shareholder of an S corporation pursuant
+26 to sections 1366 to 1368 of the Internal Revenue Code shall be adjusted for purposes of determining
+27 Oregon taxable income, to the extent that as items of income, loss or deduction of the shareholder
+28 the items are required to be adjusted under the provisions of this chapter.
+29 (c) The tax years referred to in paragraphs (a) and (b) of this subsection are those of the S
+30 corporation.
+31 (d) As used in paragraph (a) of this subsection, an S corporation refers to an electing small
+32 business corporation.
+33 (7)(a) The taxpayer shall be entitled to an additional amount, as referred to in subsection
+34 (1)(c)(A) and (D) of this section, of $1,000:
+35 (A) For the taxpayer if the taxpayer has attained age 65 before the close of the taxpayer’s tax
+36 year; and
+37 (B) For the spouse of the taxpayer if the spouse has attained age 65 before the close of the tax
+38 year and an additional exemption is allowable to the taxpayer for such spouse for federal income
+39 tax purposes under section 151(b) of the Internal Revenue Code.
+40 (b) The taxpayer shall be entitled to an additional amount, as referred to in subsection (1)(c)(A)
+41 and (D) of this section, of $1,000:
+42 (A) For the taxpayer if the taxpayer is blind at the close of the tax year; and
+43 (B) For the spouse of the taxpayer if the spouse is blind as of the close of the tax year and an
+44 additional exemption is allowable to the taxpayer for such spouse for federal income tax purposes
+45 under section 151(b) of the Internal Revenue Code. For purposes of this subparagraph, if the spouse
+[4]
+HB 4136
+1 dies during the tax year, the determination of whether such spouse is blind shall be made imme-
+2 diately prior to death.
+3 (c) In the case of an individual who is not married and is not a surviving spouse, paragraphs (a)
+4 and (b) of this subsection shall be applied by substituting “$1,200” for “$1,000.”
+5 (d) For purposes of this subsection, an individual is blind only if the individual’s central visual
+6 acuity does not exceed 20/200 in the better eye with correcting lenses, or if the individual’s visual
+7 acuity is greater than 20/200 but is accompanied by a limitation in the fields of vision such that the
+8 widest diameter of the visual field subtends an angle no greater than 20 degrees.
+9 (8) In the case of an individual with respect to whom a deduction under section 151 of the
+10 Internal Revenue Code is allowable for federal income tax purposes to another taxpayer for a tax
+11 year beginning in the calendar year in which the individual’s tax year begins, the basic standard
+12 deduction (referred to in subsection (1)(c)(B) of this section) applicable to such individual for such
+13 individual’s tax year shall equal the lesser of:
+14 (a) The amount allowed to the individual under section 63(c)(5) of the Internal Revenue Code for
+15 federal income tax purposes for the tax year for which the deduction is being claimed; or
+16 (b) The amount determined under subsection (1)(c)(B) of this section.
+17 SECTION 2. On or before May 1 of each year, beginning with May 1, 2028, the Department
+18 of Revenue shall:
+19 (1) For tax years beginning on or after January 1 of the year preceding the immediately
+20 preceding year and ending before January 1 of the preceding year, estimate the increase, if
+21 any, in the amount of personal income tax revenue received by the department that is at-
+22 tributable to the amendments to ORS 316.695 by section 1 of this 2026 Act; and
+23 (2) Transfer an amount equal to the estimate required under subsection (1) of this sec-
+24 tion to the Oregon Housing Fund created under ORS 458.620, to be credited to the Oregon
+25 Homeownership Opportunity Account established in section 4 of this 2026 Act.
+26 SECTION 3. Section 4 of this 2026 Act is added to and made a part of ORS chapter 458.
+27 SECTION 4. The Oregon Homeownership Opportunity Account is established in the State
+28 Treasury, separate and distinct from the General Fund. Moneys in the Oregon
+29 Homeownership Opportunity Account are continuously appropriated to the Housing and
+30 Community Services Department to be used solely for the purpose of making down payment
+31 assistance payments that are administered through home ownership programs or nonprofit
+32 organizations.
+33 SECTION 5. The amendments to ORS 316.695 by section 1 of this 2026 Act apply to tax
+34 years beginning on or after January 1, 2026.
+35 SECTION 6. This 2026 Act takes effect on the 91st day after the date on which the 2026
+36 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+37
+[5]
+[DELETED:  B 4 W S F G B M J P P K c b t L A I i a e b s o t e f o t.T:6 f p o p i t a m i d f a r u t t s t r o a.T i i d i s 6 o t I R C t t s a t a o I i c f i t f a t y t t F f t i t s b s t l o ( t t p o t s “ d m t s o t b s d i n a m i a i n a s F p o s ( o t p f t y b o o a:M[]]
+[DELETED: B4 b c b d t m a U C A C P f t 1 c m e A 3 o t p c y b t a b t a l u s ( o t p f e c o r A u i t s “ C A C P I m t U p o p ( o t s t t i d C ( i a a d u s 6 o t I R C t a o f i d a d f p o s 6 o t I[] A p o t d f q r i p o a o t t t p r N p ( o t s a d f q r p o a o i w r t a q r o p]
+[DELETED: B4 s f f t i a p o t d o w w t b t S o O b n t b t f g u I o o e o a e c o a p p s n b a t f t i i t y e b t p a m n b s t a o a r o f t p a f w a t $ i t f a g i o t t f t t y i l t $ i t f a g i a l t $ o i r o a j r $ o m a l t $ i t f a g i a l t $ o i r o a j r $ o m a l t $ i t f a a l t $ o i r o a j r $ o m a l t $ i t f a g i a l t $ o i r o a j r $ o m a l t t u p ( t ( o t s l t a o a r o F a c y b o o a J 1 2 t D o R m a c a t t f i t t a d i T c a f a c y i t p b w t m]
+[DELETED: B4 T a s a t a t y b i t c y f w t a t t i a p o a a f i t a c u 3 i e o t a p i s ( o t s i t p s b c i a m c w t c o t a t b l t i a i d f t i b a s o a S c d O t i t t e t a i o l o t S c a i d f t T t y r t i p ( a ( o t s a t o t  A u i p ( o t s a S c r t a e ssc T t s b e t a a a a r t i s a a a e i a t t t f s s f f i e i a t t t f s]
+[DELETED: B4 d t t y t d o w s s i b s b m i I t c o a i w r t w a d u s 1 o t t p t a t f a t b i t c y i w t i t y b t b s a t s i f s.O i t a t t O H F.S.T s a d f t G F M i t O O A a c a t t H a.T.T]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4136
+Sponsored by Representative HARTMAN, Senators GOLDEN, NERON MISSLIN; Representatives GAMBA, HELM,
+LIVELY, WISE, Senators FREDERICK, GELSER BLOUIN, MANNING JR, PATTERSON, PHAM K,
+PROZANSKI, SOLLMAN (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act ends the tax deduction for mortgage interest paid for a taxpayer’s second home.
+(Flesch Readability Score: 61.8).
+Disallows, for purposes of personal income taxation, a mortgage interest deduction for a resi-
+dence other than the taxpayer’s principal residence, unless the taxpayer sells the residence or ac-
+tively markets the residence for sale.
+Establishes the Oregon Homeownership Opportunity Account. Transfers an amount equal to the
+estimated increase in revenue attributable to restrictions on the deduction of mortgage interest to
+the account, for the purpose of making down payment assistance payments.
+Applies to tax years beginning on or after January 1, 2026.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to tax treatment of mortgage interest; creating new provisions; amending ORS 316.695; and
+3 prescribing an effective date.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 316.695 is amended to read:
+6 316.695. (1) In addition to the modifications to federal taxable income contained in this chapter,
+7 there shall be added to or subtracted from federal taxable income:
+8 (a) If, in computing federal income tax for a tax year, the taxpayer deducted itemized deductions,
+9 as defined in section 63(d) of the Internal Revenue Code, the taxpayer shall add the amount of
+10 itemized deductions deducted (the itemized deductions less an amount, if any, by which the itemized
+11 deductions are reduced under section 68 of the Internal Revenue Code).
+12 (b) If, in computing federal income tax for a tax year, the taxpayer deducted the standard de-
+13 duction, as defined in section 63(c) of the Internal Revenue Code, the taxpayer shall add the amount
+14 of the standard deduction deducted.
+15 (c)(A) From federal taxable income there shall be subtracted the larger of (i) the taxpayer’s
+16 itemized deductions or (ii) a standard deduction. Except as provided in subsection (8) of this section,
+17 for purposes of this subparagraph, “standard deduction” means the sum of the basic standard de-
+18 duction and the additional standard deduction.
+19 (B) For purposes of subparagraph (A) of this paragraph, the basic standard deduction is:
+20 (i) $3,280, in the case of joint return filers or a surviving spouse;
+21 (ii) $1,640, in the case of an individual who is not a married individual and is not a surviving
+22 spouse;
+23 (iii) $1,640, in the case of a married individual who files a separate return; or
+24 (iv) $2,640, in the case of a head of household.
+25 (C)(i) For purposes of subparagraph (A) of this paragraph for tax years beginning on or after
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 276
+
+HB 4136
+1 January 1, 2003, the Department of Revenue shall annually recompute the basic standard deduction
+2 for each category of return filer listed under subparagraph (B) of this paragraph. The basic standard
+3 deduction shall be computed by dividing the monthly averaged U.S. City Average Consumer Price
+4 Index for the 12 consecutive months ending August 31 of the prior calendar year by the average
+5 U.S. City Average Consumer Price Index for the second quarter of 2002, then multiplying that quo-
+6 tient by the amount listed under subparagraph (B) of this paragraph for each category of return
+7 filer.
+8 (ii) If any change in the maximum household income determined under this subparagraph is not
+9 a multiple of $5, the increase shall be rounded to the next lower multiple of $5.
+10 (iii) As used in this subparagraph, “U.S. City Average Consumer Price Index” means the U.S.
+11 City Average Consumer Price Index for All Urban Consumers (All Items) as published by the Bureau
+12 of Labor Statistics of the United States Department of Labor.
+13 (D) For purposes of subparagraph (A) of this paragraph, the additional standard deduction is the
+14 sum of each additional amount to which the taxpayer is entitled under subsection (7) of this section.
+15 (E) As used in subparagraph (B) of this paragraph, “surviving spouse” and “head of household”
+16 have the meanings given those terms in section 2 of the Internal Revenue Code.
+17 (F) In the case of the following, the standard deduction referred to in subparagraph (A) of this
+18 paragraph shall be zero:
+19 (i) One of the spouses in a marriage filing a separate return where the other spouse has claimed
+20 itemized deductions under subparagraph (A) of this paragraph;
+21 (ii) A nonresident noncitizen;
+22 (iii) An individual making a return for a period of less than 12 months on account of a change
+23 in the individual’s annual accounting period;
+24 (iv) An estate or trust;
+25 (v) A common trust fund; or
+26 (vi) A partnership.
+27 (d) For the purposes of paragraph (c)(A) of this subsection, the taxpayer’s itemized deductions
+28 are the amount of the taxpayer’s itemized deductions as defined in section 63(d) of the Internal Re-
+29 venue Code (reduced, if applicable, as described under section 68 of the Internal Revenue Code)
+30 minus:
+31 (A) The deduction for Oregon income tax (reduced, if applicable, by the proportion that the re-
+32 duction in federal itemized deductions resulting from section 68 of the Internal Revenue Code bears
+33 to the amount of federal itemized deductions as defined for purposes of section 68 of the Internal
+34 Revenue Code)[.]; and
+35 (B) Any portion of the deduction for qualified residence interest paid or accrued on
+36 indebtedness with respect to a qualified residence other than the taxpayer’s principal resi-
+37 dence.
+38 (e) Notwithstanding paragraph (d)(B) of this subsection, a deduction for qualified resi-
+39 dence interest paid or accrued on indebtedness with respect to a qualified residence other
+40 than the taxpayer’s principal residence is included in the taxpayer’s itemized deduction if:
+41 (A) The qualified residence that is not the taxpayer’s current principal residence was the
+42 taxpayer’s principal residence during the tax year or during the period three months prior
+43 to the start of the tax year; and
+44 (B) The taxpayer sold a qualified residence during the tax year or was actively marketing
+45 a qualified residence at the close of the tax year.
+[2]
+
+HB 4136
+1 (2)(a) There shall be subtracted from federal taxable income any portion of the distribution of
+2 a pension, profit-sharing, stock bonus or other retirement plan, representing that portion of contri-
+3 butions which were taxed by the State of Oregon but not taxed by the federal government under
+4 laws in effect for tax years beginning prior to January 1, 1969, or for any subsequent year in which
+5 the amount that was contributed to the plan under the Internal Revenue Code was greater than the
+6 amount allowed under this chapter.
+7 (b) Interest or other earnings on any excess contributions of a pension, profit-sharing, stock
+8 bonus or other retirement plan not permitted to be deducted under paragraph (a) of this subsection
+9 may not be added to federal taxable income in the year earned by the plan and may not be sub-
+10 tracted from federal taxable income in the year received by the taxpayer.
+11 (3)(a) Except as provided in subsection (4) of this section, there shall be added to federal taxable
+12 income the amount of any federal income taxes in excess of the amount provided in paragraphs (b)
+13 to (d) of this subsection, accrued by the taxpayer during the tax year as described in ORS 316.685,
+14 less the amount of any refund of federal taxes previously accrued for which a tax benefit was re-
+15 ceived.
+16 (b) The limits applicable to this subsection are:
+17 (A) $5,500, if the federal adjusted gross income of the taxpayer for the tax year is less than
+18 $125,000, or, if reported on a joint return, less than $250,000.
+19 (B) $4,400, if the federal adjusted gross income of the taxpayer for the tax year is $125,000 or
+20 more and less than $130,000, or, if reported on a joint return, $250,000 or more and less than
+21 $260,000.
+22 (C) $3,300, if the federal adjusted gross income of the taxpayer for the tax year is $130,000 or
+23 more and less than $135,000, or, if reported on a joint return, $260,000 or more and less than
+24 $270,000.
+25 (D) $2,200, if the federal adjusted gross income of the taxpayer for the tax year is $135,000 or
+26 more and less than $140,000, or, if reported on a joint return, $270,000 or more and less than
+27 $280,000.
+28 (E) $1,100, if the federal adjusted gross income of the taxpayer for the tax year is $140,000 or
+29 more and less than $145,000, or, if reported on a joint return, $280,000 or more and less than
+30 $290,000.
+31 (c) If the federal adjusted gross income of the taxpayer is $145,000 or more for the tax year, or,
+32 if reported on a joint return, $290,000 or more, the limit is zero and the taxpayer is not allowed a
+33 subtraction for federal income taxes under ORS 316.680 (1) for the tax year.
+34 (d) In the case of spouses in a marriage filing separate tax returns, the amount added shall be
+35 in the amount of any federal income taxes in excess of 50 percent of the amount provided for indi-
+36 vidual taxpayers under paragraphs (a) to (c) of this subsection, less the amount of any refund of
+37 federal taxes previously accrued for which a tax benefit was received.
+38 (e) For purposes of this subsection, the limits applicable to a joint return shall apply to a head
+39 of household or a surviving spouse, as defined in section 2(a) and (b) of the Internal Revenue Code.
+40 (f)(A) For a calendar year beginning on or after January 1, 2008, the Department of Revenue
+41 shall make a cost-of-living adjustment to the federal income tax threshold amounts described in
+42 paragraphs (b) and (d) of this subsection.
+43 (B) The cost-of-living adjustment for a calendar year is the percentage by which the monthly
+44 averaged U.S. City Average Consumer Price Index for the 12 consecutive months ending August 31
+45 of the prior calendar year exceeds the monthly averaged index for the period beginning September
+[3]
+
+HB 4136
+1 1, 2005, and ending August 31, 2006.
+2 (C) As used in this paragraph, “U.S. City Average Consumer Price Index” means the U.S. City
+3 Average Consumer Price Index for All Urban Consumers (All Items) as published by the Bureau of
+4 Labor Statistics of the United States Department of Labor.
+5 (D) If any adjustment determined under subparagraph (B) of this paragraph is not a multiple of
+6 $50, the adjustment shall be rounded to the next lower multiple of $50.
+7 (E) The adjustment shall apply to all tax years beginning in the calendar year for which the
+8 adjustment is made.
+9 (4)(a) In addition to the adjustments required by ORS 316.130, a full-year nonresident individual
+10 shall add to taxable income a proportion of any accrued federal income taxes as computed under
+11 ORS 316.685 in excess of the amount provided in subsection (3) of this section in the proportion
+12 provided in ORS 316.117.
+13 (b) In the case of spouses in a marriage filing separate tax returns, the amount added under this
+14 subsection shall be computed in a manner consistent with the computation of the amount to be
+15 added in the case of spouses in a marriage filing separate returns under subsection (3) of this sec-
+16 tion. The method of computation shall be determined by the Department of Revenue by rule.
+17 (5) Subsections (3)(d) and (4)(b) of this section shall not apply to married individuals living apart
+18 as defined in section 7703(b) of the Internal Revenue Code.
+19 (6)(a) For tax years beginning on or after January 1, 1981, and prior to January 1, 1983, income
+20 or loss taken into account in determining federal taxable income by a shareholder of an S corpo-
+21 ration pursuant to sections 1373 to 1375 of the Internal Revenue Code shall be adjusted for purposes
+22 of determining Oregon taxable income, to the extent that as income or loss of the S corporation,
+23 they were required to be adjusted under the provisions of ORS chapter 317.
+24 (b) For tax years beginning on or after January 1, 1983, items of income, loss or deduction taken
+25 into account in determining federal taxable income by a shareholder of an S corporation pursuant
+26 to sections 1366 to 1368 of the Internal Revenue Code shall be adjusted for purposes of determining
+27 Oregon taxable income, to the extent that as items of income, loss or deduction of the shareholder
+28 the items are required to be adjusted under the provisions of this chapter.
+29 (c) The tax years referred to in paragraphs (a) and (b) of this subsection are those of the S
+30 corporation.
+31 (d) As used in paragraph (a) of this subsection, an S corporation refers to an electing small
+32 business corporation.
+33 (7)(a) The taxpayer shall be entitled to an additional amount, as referred to in subsection
+34 (1)(c)(A) and (D) of this section, of $1,000:
+35 (A) For the taxpayer if the taxpayer has attained age 65 before the close of the taxpayer’s tax
+36 year; and
+37 (B) For the spouse of the taxpayer if the spouse has attained age 65 before the close of the tax
+38 year and an additional exemption is allowable to the taxpayer for such spouse for federal income
+39 tax purposes under section 151(b) of the Internal Revenue Code.
+40 (b) The taxpayer shall be entitled to an additional amount, as referred to in subsection (1)(c)(A)
+41 and (D) of this section, of $1,000:
+42 (A) For the taxpayer if the taxpayer is blind at the close of the tax year; and
+43 (B) For the spouse of the taxpayer if the spouse is blind as of the close of the tax year and an
+44 additional exemption is allowable to the taxpayer for such spouse for federal income tax purposes
+45 under section 151(b) of the Internal Revenue Code. For purposes of this subparagraph, if the spouse
+[4]
+
+HB 4136
+1 dies during the tax year, the determination of whether such spouse is blind shall be made imme-
+2 diately prior to death.
+3 (c) In the case of an individual who is not married and is not a surviving spouse, paragraphs (a)
+4 and (b) of this subsection shall be applied by substituting “$1,200” for “$1,000.”
+5 (d) For purposes of this subsection, an individual is blind only if the individual’s central visual
+6 acuity does not exceed 20/200 in the better eye with correcting lenses, or if the individual’s visual
+7 acuity is greater than 20/200 but is accompanied by a limitation in the fields of vision such that the
+8 widest diameter of the visual field subtends an angle no greater than 20 degrees.
+9 (8) In the case of an individual with respect to whom a deduction under section 151 of the
+10 Internal Revenue Code is allowable for federal income tax purposes to another taxpayer for a tax
+11 year beginning in the calendar year in which the individual’s tax year begins, the basic standard
+12 deduction (referred to in subsection (1)(c)(B) of this section) applicable to such individual for such
+13 individual’s tax year shall equal the lesser of:
+14 (a) The amount allowed to the individual under section 63(c)(5) of the Internal Revenue Code for
+15 federal income tax purposes for the tax year for which the deduction is being claimed; or
+16 (b) The amount determined under subsection (1)(c)(B) of this section.
+17 SECTION 2. On or before May 1 of each year, beginning with May 1, 2028, the Department
+18 of Revenue shall:
+19 (1) For tax years beginning on or after January 1 of the year preceding the immediately
+20 preceding year and ending before January 1 of the preceding year, estimate the increase, if
+21 any, in the amount of personal income tax revenue received by the department that is at-
+22 tributable to the amendments to ORS 316.695 by section 1 of this 2026 Act; and
+23 (2) Transfer an amount equal to the estimate required under subsection (1) of this sec-
+24 tion to the Oregon Housing Fund created under ORS 458.620, to be credited to the Oregon
+25 Homeownership Opportunity Account established in section 4 of this 2026 Act.
+26 SECTION 3. Section 4 of this 2026 Act is added to and made a part of ORS chapter 458.
+27 SECTION 4. The Oregon Homeownership Opportunity Account is established in the State
+28 Treasury, separate and distinct from the General Fund. Moneys in the Oregon
+29 Homeownership Opportunity Account are continuously appropriated to the Housing and
+30 Community Services Department to be used solely for the purpose of making down payment
+31 assistance payments that are administered through home ownership programs or nonprofit
+32 organizations.
+33 SECTION 5. The amendments to ORS 316.695 by section 1 of this 2026 Act apply to tax
+34 years beginning on or after January 1, 2026.
+35 SECTION 6. This 2026 Act takes effect on the 91st day after the date on which the 2026
+36 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+37
+[5]
+
+[DELETED:  B 4 W S F G B M J P P K c b t L A I i a e b s o t e f o t.T:6 f p o p i t a m i d f a r u t t s t r o a.T i i d i s 6 o t I R C t t s a t a o I i c f i t f a t y t t F f t i t s b s t l o ( t t p o t s “ d m t s o t b s d i n a m i a i n a s F p o s ( o t p f t y b o o a:M[]]
+[DELETED: B4 b c b d t m a U C A C P f t 1 c m e A 3 o t p c y b t a b t a l u s ( o t p f e c o r A u i t s “ C A C P I m t U p o p ( o t s t t i d C ( i a a d u s 6 o t I R C t a o f i d a d f p o s 6 o t I[] A p o t d f q r i p o a o t t t p r N p ( o t s a d f q r p o a o i w r t a q r o p]
+[DELETED: B4 s f f t i a p o t d o w w t b t S o O b n t b t f g u I o o e o a e c o a p p s n b a t f t i i t y e b t p a m n b s t a o a r o f t p a f w a t $ i t f a g i o t t f t t y i l t $ i t f a g i a l t $ o i r o a j r $ o m a l t $ i t f a g i a l t $ o i r o a j r $ o m a l t $ i t f a a l t $ o i r o a j r $ o m a l t $ i t f a g i a l t $ o i r o a j r $ o m a l t t u p ( t ( o t s l t a o a r o F a c y b o o a J 1 2 t D o R m a c a t t f i t t a d i T c a f a c y i t p b w t m]
+[DELETED: B4 T a s a t a t y b i t c y f w t a t t i a p o a a f i t a c u 3 i e o t a p i s ( o t s i t p s b c i a m c w t c o t a t b l t i a i d f t i b a s o a S c d O t i t t e t a i o l o t S c a i d f t T t y r t i p ( a ( o t s a t o t  A u i p ( o t s a S c r t a e ssc T t s b e t a a a a r t i s a a a e i a t t t f s s f f i e i a t t t f s]
+[DELETED: B4 d t t y t d o w s s i b s b m i I t c o a i w r t w a d u s 1 o t t p t a t f a t b i t c y i w t i t y b t b s a t s i f s.O i t a t t O H F.S.T s a d f t G F M i t O O A a c a t t H a.T.T]

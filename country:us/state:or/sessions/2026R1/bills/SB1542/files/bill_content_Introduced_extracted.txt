@@ -1,0 +1,754 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+Senate Bill 1542
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Transportation)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Directs OTC to create a 10-year CIP. The CIP must include a way to score and rank
+projects before they are added to the STIP. The Act tells ODOT to report on how the roads are
+faring. The OTC must add more information to its website. (Flesch Readability Score: 86.9).
+Directs the Oregon Transportation Commission to create a 10-year capital investment plan.
+Provides that the plan must include a scoring methodology to prioritize and rank projects that are
+included in the Statewide Transportation Improvement Program. Specifies requirements for the
+scoring methodology.
+Adds criteria to the list the commission must consider before adding a project to the Statewide
+Transportation Improvement Program.
+Requires the Department of Transportation to produce a condition report on the highways.
+Specifies additional information the commission must include on its website.
+1 A BILL FOR AN ACT
+2 Relating to transportation; creating new provisions; and amending ORS 184.617, 184.621, 184.657,
+3 184.659 and 184.661.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 184.617 is amended to read:
+6 184.617. (1) The Oregon Transportation Commission shall:
+7 (a) Establish the policies for the operation of the Department of Transportation in a manner
+8 consistent with the policies and purposes of ORS 184.610 to 184.665.
+9 (b) Develop and maintain state transportation policies, including but not limited to policies re-
+10 lated to the management, construction and maintenance of highways and other transportation sys-
+11 tems in Oregon, including but not limited to aviation, ports and rail.
+12 (c) Develop and maintain a comprehensive, 20-year long-range plan for a safe, multimodal
+13 transportation system for the state which encompasses economic efficiency, orderly economic de-
+14 velopment and environmental quality. The comprehensive, long-range plan:
+15 (A) Must include, but not be limited to, aviation, highways, mass transit, ports, rails and
+16 waterways; and
+17 (B) Must be used by all agencies and officers to guide and coordinate transportation activities
+18 and to ensure transportation planning utilizes the potential of all existing and developing modes of
+19 transportation.
+20 (d) In coordination with the State Marine Board, the Oregon Business Development Department,
+21 the State Aviation Board, cities, counties, mass transit districts organized under ORS 267.010 to
+22 267.394 and transportation districts organized under ORS 267.510 to 267.650, develop plans for each
+23 mode of transportation and multimodal plans for the movement of people and freight. Subject to
+24 paragraph (c) of this subsection, the plans must include a list of projects needed to maintain and
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 268
+SB 1542
+1 develop the transportation infrastructure of this state for at least 20 years in the future.
+2 (e) For the plans developed under paragraph (d) of this subsection, include a list of projects for
+3 at least 20 years into the future that are capable of being accomplished using the resources rea-
+4 sonably expected to be available. As the plans are developed by the commission, the Director of
+5 Transportation shall prepare and submit implementation programs to the commission for approval.
+6 Work approved by the commission to carry out the plans shall be assigned to the appropriate unit
+7 of the Department of Transportation or other appropriate public body, as defined in ORS 174.109.
+8 (f) Initiate studies, as it deems necessary, to guide the director concerning the transportation
+9 needs of Oregon.
+10 (g) Prescribe the administrative practices followed by the director in the performance of any
+11 duty imposed on the director by law.
+12 (h) Seek to enter into intergovernmental agreements with local governments and local service
+13 districts, as those terms are defined in ORS 174.116, to encourage cooperation between the depart-
+14 ment and local governments and local service districts to maximize the efficiency of transportation
+15 systems in Oregon.
+16 (i) Review and approve the department’s:
+17 (A) Proposed transportation projects, as described in the Statewide Transportation Improvement
+18 Program, and any significant transportation project modifications, as determined by the commission;
+19 (B) Proposed budget form prior to the department submitting the form to the Oregon Department
+20 of Administrative Services under ORS 291.208;
+21 (C) Anticipated capital construction requirements;
+22 (D) Construction priorities; and
+23 (E) Selection, vacation or abandonment of state highways.
+24 (j) Adopt a statewide transportation strategy on greenhouse gas emissions to aid in achieving
+25 the greenhouse gas emissions reduction goals set forth in ORS 468A.205. The commission shall focus
+26 on reducing greenhouse gas emissions resulting from transportation. In developing the strategy, the
+27 commission shall consider state and federal programs, policies and incentives related to reducing
+28 greenhouse gas emissions. The commission shall consult and cooperate with metropolitan planning
+29 organizations, other state agencies, local governments and stakeholders and shall actively solicit
+30 public review and comment in the development of the strategy.
+31 (k) Perform any other duty vested in it by law.
+32 (L) Develop and maintain a comprehensive, 10-year capital investment plan as described
+33 in section 3 of this 2026 Act. The plan must include a scoring methodology to rank projects
+34 that are included in the Statewide Transportation Improvement Program.
+35 (2) The commission has general power to take any action necessary to coordinate and administer
+36 programs relating to highways, motor carriers, motor vehicles, public transit, rail, transportation
+37 safety and such other programs related to transportation.
+38 (3) The commission may require the director to furnish whatever reports, statistics, information
+39 or assistance the commission may request in order to study the department or transportation-related
+40 issues.
+41 SECTION 2. ORS 184.621 is amended to read:
+42 184.621. The Oregon Transportation Commission shall work with stakeholders to review and
+43 update the criteria used to select projects within the Statewide Transportation Improvement Pro-
+44 gram. When revising the project selection criteria the commission shall consider whether the
+45 project:
+[2]
+SB 1542
+1 [(1) Improves the state highway system or major access routes to the state highway system on the
+2 local road system to relieve congestion by expanding capacity, enhancing operations or otherwise im-
+3 proving travel times within high-congestion corridors.]
+4 (1) Improves the state highway system or major access routes to the state highway sys-
+5 tem on the local road system to improve travel time reliability and the efficient movement
+6 of people and goods in high-congestion corridors, primarily through operational improve-
+7 ments, demand management, multimodal options and, where necessary, strategic capacity
+8 additions.
+9 [(2) Enhances the safety of the traveling public by decreasing traffic crash rates, promoting the ef-
+10 ficient movement of people and goods and preserving the public investment in the transportation
+11 system.]
+12 (2) Enhances the safety of all users of the transportation system by decreasing fatalities
+13 and serious injuries and preserving the public investment in the transportation system.
+14 (3) Supports improvements necessary for Oregon’s economic growth and competitiveness, acces-
+15 sibility to industries and economic development.
+16 (4) Provides the greatest benefit in relation to project costs as analyzed under ORS 184.659.
+17 (5) Fosters livable communities by demonstrating that the investment does not undermine
+18 sustainable urban development.
+19 (6) Enhances the value of transportation projects through designs and development that reflect
+20 environmental stewardship and community sensitivity.
+21 (7) Is consistent with the state’s greenhouse gas emissions reduction goals and reduces Oregon’s
+22 dependence on foreign oil.
+23 (8) To the extent practicable, ensures that the state’s transportation infrastructure is resilient
+24 in the event of a natural disaster.
+25 (9) Is located near operations conducted for mining aggregate or processing aggregate as de-
+26 scribed in ORS 215.213 (2)(d) or 215.283 (2)(b).
+27 (10) Preserves and extends the life and utility of prior investments in the highway sys-
+28 tem.
+29 (11) Reduces transportation barriers that significantly impact the daily lives and inde-
+30 pendence of vulnerable populations, including populations of individuals who are elderly, have
+31 a disability or are economically disadvantaged.
+32 (12) Limits impacts to agricultural lands and forest lands by ensuring that projects are
+33 planned and selected in a manner consistent with the statewide land use planning goals
+34 adopted by the Land Conservation and Development Commission pursuant to ORS 197.225.
+35 SECTION 3. (1) For purposes of this section:
+36 (a) Region one consists of Clackamas, Hood River, Multnomah and Washington Counties.
+37 (b) Region two consists of Benton, Clatsop, Columbia, Lane, Lincoln, Linn, Marion, Polk,
+38 Tillamook and Yamhill Counties.
+39 (c) Region three consists of Coos, Curry, Douglas, Jackson and Josephine Counties.
+40 (d) Region four consists of Crook, Deschutes, Gilliam, Jefferson, Klamath, Lake,
+41 Sherman, Wasco and Wheeler Counties.
+42 (e) Region five consists of Baker, Grant, Harney, Malheur, Morrow, Umatilla, Union and
+43 Wallowa Counties.
+44 (2) The Oregon Transportation Commission shall develop a 10-year capital investment
+45 plan. The plan must:
+[3]
+SB 1542
+1 (a) Include target goals consistent with ORS 184.621, including, at a minimum, goals
+2 concerning state of good repair, safety, mobility, accessibility, sustainability, climate and
+3 consideration of providing equitable access to the transportation system;
+4 (b) Identify anticipated revenues and other resources reasonably expected to be available
+5 during the 10-year period the plan covers and describe the assumptions used;
+6 (c) Describe the planned distribution of anticipated resources among the target goals
+7 identified in paragraph (a) of this subsection; and
+8 (d) Include the project scoring methodology, weights and decision matrix adopted under
+9 this section.
+10 (3) For the purpose of prioritizing projects selected for inclusion in the Statewide
+11 Transportation Improvement Program under ORS 184.621, as part of the capital investment
+12 plan the commission shall devise and adopt rule for a scoring methodology to rank projects
+13 in order of priority within each region. The commission shall include in the rules:
+14 (a) A general prohibition on prioritizing projects that expand highway capacity by adding
+15 lane miles to the state highway system in a region ahead of preservation and safety projects
+16 for the state highway system in that region when state-owned pavements or bridges in that
+17 region are below the state of good repair level for the condition targets adopted under ORS
+18 184.657;
+19 (b) The bases upon which exceptions to the general prohibition required by paragraph (a)
+20 of this subsection are authorized;
+21 (c) Weights for each of the factors listed in ORS 184.621 that reflect the target goals
+22 adopted by the commission as part of the capital investment plan, including goals concerning
+23 state of good repair, safety, mobility, accessibility, sustainability, climate and consideration
+24 of providing equitable access to the transportation system;
+25 (d) A process for modifying the weights based on the target goals, unique needs and
+26 qualities of each region, in consultation with the regions and, where applicable, metropolitan
+27 planning organizations;
+28 (e) A requirement to assign the highest weight for safety projects and preservation
+29 projects;
+30 (f) A process for reevaluating the level of priority for a project when the cost of a project
+31 reaches or exceeds $15 million;
+32 (g) A process for assessing the project’s consistency with the statewide transportation
+33 strategy on greenhouse gas emissions adopted under ORS 184.617 (1)(j) and the greenhouse
+34 gas emissions reduction goals set forth in ORS 468A.205, including projected changes in
+35 greenhouse gas emissions and vehicle miles traveled relative to a no-build alternative; and
+36 (h) A requirement that highway capacity expansion projects be evaluated for their impact
+37 on safety and on greenhouse gas emissions and vehicle miles traveled. A capacity expansion
+38 project may not be prioritized for funding unless the Department of Transportation demon-
+39 strates that the capacity expansion project, as compared to a no-build alternative:
+40 (A) Does not increase projected fatalities or serious injuries for all users of the trans-
+41 portation system and does not increase projected net greenhouse gas emissions or projected
+42 vehicle miles traveled; or
+43 (B) Does not increase greenhouse gas emissions or vehicle miles traveled on a net basis
+44 even if the evaluation required by this paragraph identifies a projected increase in
+45 greenhouse gas emissions or vehicle miles traveled relative to a no-build alternative, as long
+[4]
+SB 1542
+1 as the department includes mitigation measures that are supported by the cost-benefit
+2 analysis conducted under ORS 184.659 and are implemented no later than the date on which
+3 the facility is first open to the general public.
+4 (4) The commission shall work with stakeholders, including local area commissions, to
+5 review and update the criteria used to score and rank projects.
+6 (5)(a) Based on the rules adopted under subsection (3) of this section, the Oregon
+7 Transportation Commission shall develop a decision matrix and create a priority list of
+8 projects in each region.
+9 (b) The decision matrix and all data inputs, modeling assumptions and methodologies
+10 used to calculate project scores must be publicly available on the website described in ORS
+11 184.661 at least 30 days before the date the commission includes the project in the Statewide
+12 Transportation Improvement Program.
+13 (6) If the priorities for a region remain below target goals devised by the commission for
+14 two consecutive Statewide Transportation Improvement Program cycles, the commission
+15 shall, in consultation with the regions and metropolitan planning organizations, review and
+16 adjust as necessary the project scoring weights and the distribution of capital funding among
+17 target goals in the next Statewide Transportation Improvement Program cycle to better
+18 align investments with achieving those target goals and shall describe any adjustments and
+19 the reasons for them in a report posted on the website described in ORS 184.661.
+20 (7) At a minimum, each region’s priority list must be reevaluated:
+21 (a) Each time the Statewide Transportation Improvement Program is updated and new
+22 projects are added to or removed from the program; and
+23 (b) When an increase in the costs of a project currently included in the program causes
+24 the project to reach or exceed a cost of $15 million.
+25 (8) This section does not apply to:
+26 (a) Emergency work procured under ORS 279B.080 when an emergency exists as defined
+27 in ORS 279A.010; or
+28 (b) Repairs undertaken under ORS 366.445.
+29 SECTION 4. ORS 184.657 is amended to read:
+30 184.657. (1) The Oregon Transportation Commission shall develop a set of uniform standards, in
+31 coordination with counties and cities, for the consistent description and reporting of the condition
+32 of the transportation infrastructure owned by the state, counties and cities. The infrastructure de-
+33 scribed must include pavement and bridges.
+34 (2) By February 1 of each odd-numbered year, the Department of Transportation and every
+35 city and county shall submit a report covering the condition of its transportation infrastructure.
+36 (3) The commission shall periodically review the condition of the transportation infrastructure
+37 owned by the state and the reports submitted under this section. The commission shall post the re-
+38 ports and the commission’s review of the reports on the website described in ORS 184.661.
+39 (4) The commission shall by rule define “state of good repair” for pavement and bridges
+40 consistent with federal performance measures and the department’s transportation asset
+41 management plan and shall adopt statewide condition targets for pavement and bridges based
+42 on the commission’s definition of “state of good repair.”
+43 [(4)] (5) Notwithstanding ORS 366.762 to 366.768 or 366.785 to 366.820, any city or county failing
+44 to file a report under this section may not receive any payments from the State Highway Fund until
+45 the report is filed.
+[5]
+SB 1542
+1 [(5)] (6) Not later than June 1 of each odd-numbered year, the commission shall submit a report
+2 about the state of the transportation infrastructure of Oregon, including the transportation
+3 infrastructure of cities and counties, to:
+4 (a) The Legislative Assembly in the manner provided by ORS 192.245; and
+5 (b) The Joint Committee on Transportation established under ORS 171.858.
+6 SECTION 5. ORS 184.661 is amended to read:
+7 184.661. (1) The Oregon Transportation Commission, through the Department of Transportation,
+8 shall develop a website.
+9 (2) The website must include:
+10 (a) A list of all transportation projects in the Statewide Transportation Improvement Program
+11 and for each project the website must include:
+12 (A) A description of the project and the project benefits;
+13 (B) The estimated cost and estimated completion date;
+14 (C) The project’s rank on the priority list developed under section 3 of this 2026 Act, the
+15 project’s overall score and the project’s score for each factor used in the scoring methodol-
+16 ogy;
+17 [(C)] (D) Updated information about the projects as they proceed, including the actual amount
+18 spent to date on the project; and
+19 [(D)] (E) After a project is completed, updated information, including the amount a project is
+20 under or over the original estimated cost and whether a project was completed by the original es-
+21 timated completion date.
+22 (b) Information on the reports required under ORS 366.774 and 366.790 for all cities with a
+23 population of 5,000 or greater and all counties in the state, including the amount of transportation
+24 funds collected by each county and city and the source of the funds and the amount of money spent
+25 on transportation projects by type of expenditure as listed in ORS 366.774 (2) and 366.790 (2). This
+26 information shall be displayed for the most current six-year period.
+27 (c) Information on the condition of Oregon’s transportation infrastructure, as required under
+28 ORS 184.657.
+29 (d) Information about the results the audits performed pursuant to ORS 184.639.
+30 (e) Links to all available county and city transportation project websites.
+31 (f) Links to websites about transportation projects receiving moneys from the Connect Oregon
+32 Fund.
+33 (g) Information about the decision matrix developed under section 3 of this 2026 Act and
+34 any changes to the target goals for each region.
+35 (h) The analysis completed by the commission after it approves a project for which the
+36 cost-benefit analysis under ORS 184.659 shows that expected costs exceed expected benefits.
+37 (i) Information about the capital investment plan, including all required components as
+38 described in section 3 of this 2026 Act and a narrative summary of:
+39 (A) Progress made toward the target goals adopted in the capital investment plan, in-
+40 cluding goals concerning state of good repair, safety, mobility, accessibility, sustainability,
+41 climate and providing equitable access to the transportation system;
+42 (B) A comparison of planned versus actual project costs, schedules and scope for projects
+43 included in the Statewide Transportation Improvement Program;
+44 (C) An evaluation of whether projects included in the Statewide Transportation Im-
+45 provement Program overall are achieving the outcomes reflected in the project scoring and
+[6]
+SB 1542
+1 prioritization adopted under section 3 of this 2026 Act;
+2 (D) Identification of material deviations from the capital investment plan, project priority
+3 lists, or target goals, and an explanation of the reasons for those deviations; and
+4 (E) Any recommended changes to policies, target goals, scoring weights or investment
+5 strategies to improve performance in future programming cycles.
+6 SECTION 6. ORS 184.659 is amended to read:
+7 184.659. (1) As used in this section, “transportation project” means a project:
+8 (a) That is a highway modernization transportation project or capacity building transportation
+9 project proposed for construction in the Statewide Transportation Improvement Program; and
+10 (b) That is estimated to cost at least $15 million.
+11 (2) As a part of the project scoping phase, the Department of Transportation shall prepare a
+12 written analysis of the costs and benefits of a transportation project. The analysis must state:
+13 (a) The scope of the project;
+14 (b) The period of analysis;
+15 (c) The discount rate used in the analysis;
+16 (d) The estimated costs to the department to undertake the project, including any costs for de-
+17 sign, purchasing highway right-of-way and construction;
+18 (e) The future costs to the department to preserve and maintain the project, discounted to
+19 present value;
+20 (f) Any other costs to the department;
+21 (g) The costs to highway users that are associated with the project, including loss of safety,
+22 delays in the time of travel and additional expenses for operating vehicles;
+23 (h) The costs of any environmental impacts, including vehicle emissions and noise over the life
+24 of the project; [and]
+25 (i) The opportunity costs of undertaking the project; and
+26 [(i)] (j) The value of the benefits of the project, including the value of any:
+27 (A) Savings in the time of travel, including immediately after the date of project completion
+28 and long-term savings in the time of travel 10 and 30 years after the date of project com-
+29 pletion;
+30 (B) Improvements to safety;
+31 (C) Savings in the cost of operating vehicles; and
+32 (D) Other social, economic or environmental benefits of the project.
+33 (3) The analysis required by this section:
+34 (a) Must include a discussion of increases in costs that would result from delays in the per-
+35 formance of routine maintenance scheduled by the department;
+36 (b) May include a discussion of:
+37 (A) The costs of the project for any other persons and governmental agencies; and
+38 (B) Any costs or benefits which may result from the use of alternative design, construction or
+39 financing practices; and
+40 (c) Must be prepared in a format that allows for the comparison of proposed transportation
+41 projects.
+42 (4) The analysis required by this section must be made available to the [commission] Oregon
+43 Transportation Commission and made publicly available on the website described in ORS
+44 184.661 [the public] when the agenda is posted for the meeting at which the proposal will be sub-
+45 mitted to the commission for its approval.
+[7]
+SB 1542
+1 (5) This section does not apply to transportation projects listed in ORS 367.095 or 383.150 or
+2 section 71d or 71f, chapter 750, Oregon Laws 2017.
+3 (6) When approving a transportation project, the commission shall consider the results
+4 of the analysis and make a finding as to whether the project’s expected benefits equal or
+5 exceed its expected costs. If the commission approves a project for which the analysis shows
+6 that expected costs exceed expected benefits, the commission shall adopt a written explana-
+7 tion of the reasons for proceeding and publish the explanation on its website under ORS
+8 184.661.
+9 (7) Notwithstanding any other provision of law:
+10 (a) The commission may not approve or include in the Statewide Transportation Im-
+11 provement Program a transportation project unless the commission has completed and made
+12 publicly available the cost-benefit analysis described in subsection (2) of this section at least
+13 30 days before the meeting at which the commission approves or includes the project in the
+14 Statewide Transportation Improvement Program.
+15 (b) If a transportation project is approved in violation of paragraph (a) of this subsection,
+16 the department may not obligate state moneys, or proceed to final design, right of way ac-
+17 quisition or construction, for the project until the commission complies with this section.
+18 SECTION 7. (1) Section 3 of this 2026 Act and amendments to ORS 184.621, 184.657 and
+19 184.661 by sections 2, 4 and 5 of this 2026 Act apply to projects included in the Statewide
+20 Transportation Improvement Program on or after the effective date of this 2026 Act.
+21 (2) A project included in an adopted Statewide Transportation Improvement Program
+22 before the effective date of this 2026 Act is subject to the requirements in section 3 of this
+23 2026 Act only if, after the effective date of this 2026 Act, the commission approves an in-
+24 crease in the project’s estimated costs that causes the project to reach or exceed a cost of
+25 $15 million.
+26
+[8]
+[DELETED:  B 1 i n a n o o t p o t P ( t r c b t L A I i a e b s o t e f o t.T D O t c a 1 C T C m i a w t s a r b t a a t t S T A t O t r o h t r a t O T C t c a 1 c i p i t S T I P.S r f tgm t t c n p a a O 1 1 1 E t p f t o o t D o T i a m D a o h a o t s D a m a c 2 l p f a s m s f t s w e e e o e d M i b n b l t a h m t p r a;a S A B c c m t d o u O 2 t o t a m p f t m o p a f S t ( o t s t p m i a l o p n t m a:M[]]
+[DELETED: B1 l 2 y i t f t a c o b a u t r r e t b a A t p a d b t c t D o p t t c f a I s a i d n t g t d c t t P t a p f b t d i t p o a i i a w l g a l s A a s t s o g g e t a i a s c s a f p p a i r t r g e T c s o s a l g a s a s a s r t h m c m v p t r t T O T C s w w s t r a t c u t s p w t S T I P.W r t p s c t c s c w t]
+[DELETED: B1 c b e c e o o o i p a g i h c p t o i d m m o a w n s c m o p adgsadpgtepcitintet F l c b d t t i d n u t t s t i i r I l n o c f m a o p a a d R t b t s i t d l a i a s i a m c w t s l u p g.( R f c o C D G J K L T O T C s d a 1 c i]
+[DELETED: B1 I t g c w O 1 i a a m g s o g r s m a s c a D t p d o a r a t t g F t p o p p s f i i t S W f e o t f l i O 1 t r t t g A p f m t w b o t t g u n a A r t a t h w f s p a p A p f a t p c w e r g s f i O 4 i p c i f a u o t t i t e r b t p i a p i i]
+[DELETED: B1 t d i m m t a s b t c T c s w w s i l a c t B o t r a u s ( o t s t O C s d a d m a c a p l o T d m a a d i m a a m c S T I P c t c g i t n S T I P c t b i u a n w c c T i d B F 1 o t c o t t i w f p m a t d t a]]
+[DELETED: B1] t s o t t i o O i t t A l o a t p i t S] U i] ( A a p i c u i i t a a p i I o t r r u O 3 a 3 f a c w .T I o t c o O t i a r uS1 L t w a t P m t t t g a i t c i p i g c s o g r s m a s A e o w p i i t S T I]
+[DELETED: B1 A r c t p t g s w o i T i a h A a p o t p s p t D o T s p  T f c t t d t p a m t p d ttv T c t h u t a a w t p i l o s[] a t d o p c M i a d o i i c t w r f d i t p a d c o M b p i a f t a f t c o p t T a r b t s m b m a t t [] O C a m p a o t w d i O [] w t a i p f t m a w t p w b s p]
+[DELETED: B1 T s d n a t t p l i O 3 o o t a a m a f a t w t p e b e o o t r f p a p t e o i w u O T c m n a o i i t S T I.( b s 2 4 a 5 o t 2 A a t p i i t S A p i i a a S T I P A o i a t e d o t 2 A t c a a i5m]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1542
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Transportation)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Directs OTC to create a 10-year CIP. The CIP must include a way to score and rank
+projects before they are added to the STIP. The Act tells ODOT to report on how the roads are
+faring. The OTC must add more information to its website. (Flesch Readability Score: 86.9).
+Directs the Oregon Transportation Commission to create a 10-year capital investment plan.
+Provides that the plan must include a scoring methodology to prioritize and rank projects that are
+included in the Statewide Transportation Improvement Program. Specifies requirements for the
+scoring methodology.
+Adds criteria to the list the commission must consider before adding a project to the Statewide
+Transportation Improvement Program.
+Requires the Department of Transportation to produce a condition report on the highways.
+Specifies additional information the commission must include on its website.
+1 A BILL FOR AN ACT
+2 Relating to transportation; creating new provisions; and amending ORS 184.617, 184.621, 184.657,
+3 184.659 and 184.661.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 184.617 is amended to read:
+6 184.617. (1) The Oregon Transportation Commission shall:
+7 (a) Establish the policies for the operation of the Department of Transportation in a manner
+8 consistent with the policies and purposes of ORS 184.610 to 184.665.
+9 (b) Develop and maintain state transportation policies, including but not limited to policies re-
+10 lated to the management, construction and maintenance of highways and other transportation sys-
+11 tems in Oregon, including but not limited to aviation, ports and rail.
+12 (c) Develop and maintain a comprehensive, 20-year long-range plan for a safe, multimodal
+13 transportation system for the state which encompasses economic efficiency, orderly economic de-
+14 velopment and environmental quality. The comprehensive, long-range plan:
+15 (A) Must include, but not be limited to, aviation, highways, mass transit, ports, rails and
+16 waterways; and
+17 (B) Must be used by all agencies and officers to guide and coordinate transportation activities
+18 and to ensure transportation planning utilizes the potential of all existing and developing modes of
+19 transportation.
+20 (d) In coordination with the State Marine Board, the Oregon Business Development Department,
+21 the State Aviation Board, cities, counties, mass transit districts organized under ORS 267.010 to
+22 267.394 and transportation districts organized under ORS 267.510 to 267.650, develop plans for each
+23 mode of transportation and multimodal plans for the movement of people and freight. Subject to
+24 paragraph (c) of this subsection, the plans must include a list of projects needed to maintain and
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 268
+
+SB 1542
+1 develop the transportation infrastructure of this state for at least 20 years in the future.
+2 (e) For the plans developed under paragraph (d) of this subsection, include a list of projects for
+3 at least 20 years into the future that are capable of being accomplished using the resources rea-
+4 sonably expected to be available. As the plans are developed by the commission, the Director of
+5 Transportation shall prepare and submit implementation programs to the commission for approval.
+6 Work approved by the commission to carry out the plans shall be assigned to the appropriate unit
+7 of the Department of Transportation or other appropriate public body, as defined in ORS 174.109.
+8 (f) Initiate studies, as it deems necessary, to guide the director concerning the transportation
+9 needs of Oregon.
+10 (g) Prescribe the administrative practices followed by the director in the performance of any
+11 duty imposed on the director by law.
+12 (h) Seek to enter into intergovernmental agreements with local governments and local service
+13 districts, as those terms are defined in ORS 174.116, to encourage cooperation between the depart-
+14 ment and local governments and local service districts to maximize the efficiency of transportation
+15 systems in Oregon.
+16 (i) Review and approve the department’s:
+17 (A) Proposed transportation projects, as described in the Statewide Transportation Improvement
+18 Program, and any significant transportation project modifications, as determined by the commission;
+19 (B) Proposed budget form prior to the department submitting the form to the Oregon Department
+20 of Administrative Services under ORS 291.208;
+21 (C) Anticipated capital construction requirements;
+22 (D) Construction priorities; and
+23 (E) Selection, vacation or abandonment of state highways.
+24 (j) Adopt a statewide transportation strategy on greenhouse gas emissions to aid in achieving
+25 the greenhouse gas emissions reduction goals set forth in ORS 468A.205. The commission shall focus
+26 on reducing greenhouse gas emissions resulting from transportation. In developing the strategy, the
+27 commission shall consider state and federal programs, policies and incentives related to reducing
+28 greenhouse gas emissions. The commission shall consult and cooperate with metropolitan planning
+29 organizations, other state agencies, local governments and stakeholders and shall actively solicit
+30 public review and comment in the development of the strategy.
+31 (k) Perform any other duty vested in it by law.
+32 (L) Develop and maintain a comprehensive, 10-year capital investment plan as described
+33 in section 3 of this 2026 Act. The plan must include a scoring methodology to rank projects
+34 that are included in the Statewide Transportation Improvement Program.
+35 (2) The commission has general power to take any action necessary to coordinate and administer
+36 programs relating to highways, motor carriers, motor vehicles, public transit, rail, transportation
+37 safety and such other programs related to transportation.
+38 (3) The commission may require the director to furnish whatever reports, statistics, information
+39 or assistance the commission may request in order to study the department or transportation-related
+40 issues.
+41 SECTION 2. ORS 184.621 is amended to read:
+42 184.621. The Oregon Transportation Commission shall work with stakeholders to review and
+43 update the criteria used to select projects within the Statewide Transportation Improvement Pro-
+44 gram. When revising the project selection criteria the commission shall consider whether the
+45 project:
+[2]
+
+SB 1542
+1 [(1) Improves the state highway system or major access routes to the state highway system on the
+2 local road system to relieve congestion by expanding capacity, enhancing operations or otherwise im-
+3 proving travel times within high-congestion corridors.]
+4 (1) Improves the state highway system or major access routes to the state highway sys-
+5 tem on the local road system to improve travel time reliability and the efficient movement
+6 of people and goods in high-congestion corridors, primarily through operational improve-
+7 ments, demand management, multimodal options and, where necessary, strategic capacity
+8 additions.
+9 [(2) Enhances the safety of the traveling public by decreasing traffic crash rates, promoting the ef-
+10 ficient movement of people and goods and preserving the public investment in the transportation
+11 system.]
+12 (2) Enhances the safety of all users of the transportation system by decreasing fatalities
+13 and serious injuries and preserving the public investment in the transportation system.
+14 (3) Supports improvements necessary for Oregon’s economic growth and competitiveness, acces-
+15 sibility to industries and economic development.
+16 (4) Provides the greatest benefit in relation to project costs as analyzed under ORS 184.659.
+17 (5) Fosters livable communities by demonstrating that the investment does not undermine
+18 sustainable urban development.
+19 (6) Enhances the value of transportation projects through designs and development that reflect
+20 environmental stewardship and community sensitivity.
+21 (7) Is consistent with the state’s greenhouse gas emissions reduction goals and reduces Oregon’s
+22 dependence on foreign oil.
+23 (8) To the extent practicable, ensures that the state’s transportation infrastructure is resilient
+24 in the event of a natural disaster.
+25 (9) Is located near operations conducted for mining aggregate or processing aggregate as de-
+26 scribed in ORS 215.213 (2)(d) or 215.283 (2)(b).
+27 (10) Preserves and extends the life and utility of prior investments in the highway sys-
+28 tem.
+29 (11) Reduces transportation barriers that significantly impact the daily lives and inde-
+30 pendence of vulnerable populations, including populations of individuals who are elderly, have
+31 a disability or are economically disadvantaged.
+32 (12) Limits impacts to agricultural lands and forest lands by ensuring that projects are
+33 planned and selected in a manner consistent with the statewide land use planning goals
+34 adopted by the Land Conservation and Development Commission pursuant to ORS 197.225.
+35 SECTION 3. (1) For purposes of this section:
+36 (a) Region one consists of Clackamas, Hood River, Multnomah and Washington Counties.
+37 (b) Region two consists of Benton, Clatsop, Columbia, Lane, Lincoln, Linn, Marion, Polk,
+38 Tillamook and Yamhill Counties.
+39 (c) Region three consists of Coos, Curry, Douglas, Jackson and Josephine Counties.
+40 (d) Region four consists of Crook, Deschutes, Gilliam, Jefferson, Klamath, Lake,
+41 Sherman, Wasco and Wheeler Counties.
+42 (e) Region five consists of Baker, Grant, Harney, Malheur, Morrow, Umatilla, Union and
+43 Wallowa Counties.
+44 (2) The Oregon Transportation Commission shall develop a 10-year capital investment
+45 plan. The plan must:
+[3]
+
+SB 1542
+1 (a) Include target goals consistent with ORS 184.621, including, at a minimum, goals
+2 concerning state of good repair, safety, mobility, accessibility, sustainability, climate and
+3 consideration of providing equitable access to the transportation system;
+4 (b) Identify anticipated revenues and other resources reasonably expected to be available
+5 during the 10-year period the plan covers and describe the assumptions used;
+6 (c) Describe the planned distribution of anticipated resources among the target goals
+7 identified in paragraph (a) of this subsection; and
+8 (d) Include the project scoring methodology, weights and decision matrix adopted under
+9 this section.
+10 (3) For the purpose of prioritizing projects selected for inclusion in the Statewide
+11 Transportation Improvement Program under ORS 184.621, as part of the capital investment
+12 plan the commission shall devise and adopt rule for a scoring methodology to rank projects
+13 in order of priority within each region. The commission shall include in the rules:
+14 (a) A general prohibition on prioritizing projects that expand highway capacity by adding
+15 lane miles to the state highway system in a region ahead of preservation and safety projects
+16 for the state highway system in that region when state-owned pavements or bridges in that
+17 region are below the state of good repair level for the condition targets adopted under ORS
+18 184.657;
+19 (b) The bases upon which exceptions to the general prohibition required by paragraph (a)
+20 of this subsection are authorized;
+21 (c) Weights for each of the factors listed in ORS 184.621 that reflect the target goals
+22 adopted by the commission as part of the capital investment plan, including goals concerning
+23 state of good repair, safety, mobility, accessibility, sustainability, climate and consideration
+24 of providing equitable access to the transportation system;
+25 (d) A process for modifying the weights based on the target goals, unique needs and
+26 qualities of each region, in consultation with the regions and, where applicable, metropolitan
+27 planning organizations;
+28 (e) A requirement to assign the highest weight for safety projects and preservation
+29 projects;
+30 (f) A process for reevaluating the level of priority for a project when the cost of a project
+31 reaches or exceeds $15 million;
+32 (g) A process for assessing the project’s consistency with the statewide transportation
+33 strategy on greenhouse gas emissions adopted under ORS 184.617 (1)(j) and the greenhouse
+34 gas emissions reduction goals set forth in ORS 468A.205, including projected changes in
+35 greenhouse gas emissions and vehicle miles traveled relative to a no-build alternative; and
+36 (h) A requirement that highway capacity expansion projects be evaluated for their impact
+37 on safety and on greenhouse gas emissions and vehicle miles traveled. A capacity expansion
+38 project may not be prioritized for funding unless the Department of Transportation demon-
+39 strates that the capacity expansion project, as compared to a no-build alternative:
+40 (A) Does not increase projected fatalities or serious injuries for all users of the trans-
+41 portation system and does not increase projected net greenhouse gas emissions or projected
+42 vehicle miles traveled; or
+43 (B) Does not increase greenhouse gas emissions or vehicle miles traveled on a net basis
+44 even if the evaluation required by this paragraph identifies a projected increase in
+45 greenhouse gas emissions or vehicle miles traveled relative to a no-build alternative, as long
+[4]
+
+SB 1542
+1 as the department includes mitigation measures that are supported by the cost-benefit
+2 analysis conducted under ORS 184.659 and are implemented no later than the date on which
+3 the facility is first open to the general public.
+4 (4) The commission shall work with stakeholders, including local area commissions, to
+5 review and update the criteria used to score and rank projects.
+6 (5)(a) Based on the rules adopted under subsection (3) of this section, the Oregon
+7 Transportation Commission shall develop a decision matrix and create a priority list of
+8 projects in each region.
+9 (b) The decision matrix and all data inputs, modeling assumptions and methodologies
+10 used to calculate project scores must be publicly available on the website described in ORS
+11 184.661 at least 30 days before the date the commission includes the project in the Statewide
+12 Transportation Improvement Program.
+13 (6) If the priorities for a region remain below target goals devised by the commission for
+14 two consecutive Statewide Transportation Improvement Program cycles, the commission
+15 shall, in consultation with the regions and metropolitan planning organizations, review and
+16 adjust as necessary the project scoring weights and the distribution of capital funding among
+17 target goals in the next Statewide Transportation Improvement Program cycle to better
+18 align investments with achieving those target goals and shall describe any adjustments and
+19 the reasons for them in a report posted on the website described in ORS 184.661.
+20 (7) At a minimum, each region’s priority list must be reevaluated:
+21 (a) Each time the Statewide Transportation Improvement Program is updated and new
+22 projects are added to or removed from the program; and
+23 (b) When an increase in the costs of a project currently included in the program causes
+24 the project to reach or exceed a cost of $15 million.
+25 (8) This section does not apply to:
+26 (a) Emergency work procured under ORS 279B.080 when an emergency exists as defined
+27 in ORS 279A.010; or
+28 (b) Repairs undertaken under ORS 366.445.
+29 SECTION 4. ORS 184.657 is amended to read:
+30 184.657. (1) The Oregon Transportation Commission shall develop a set of uniform standards, in
+31 coordination with counties and cities, for the consistent description and reporting of the condition
+32 of the transportation infrastructure owned by the state, counties and cities. The infrastructure de-
+33 scribed must include pavement and bridges.
+34 (2) By February 1 of each odd-numbered year, the Department of Transportation and every
+35 city and county shall submit a report covering the condition of its transportation infrastructure.
+36 (3) The commission shall periodically review the condition of the transportation infrastructure
+37 owned by the state and the reports submitted under this section. The commission shall post the re-
+38 ports and the commission’s review of the reports on the website described in ORS 184.661.
+39 (4) The commission shall by rule define “state of good repair” for pavement and bridges
+40 consistent with federal performance measures and the department’s transportation asset
+41 management plan and shall adopt statewide condition targets for pavement and bridges based
+42 on the commission’s definition of “state of good repair.”
+43 [(4)] (5) Notwithstanding ORS 366.762 to 366.768 or 366.785 to 366.820, any city or county failing
+44 to file a report under this section may not receive any payments from the State Highway Fund until
+45 the report is filed.
+[5]
+
+SB 1542
+1 [(5)] (6) Not later than June 1 of each odd-numbered year, the commission shall submit a report
+2 about the state of the transportation infrastructure of Oregon, including the transportation
+3 infrastructure of cities and counties, to:
+4 (a) The Legislative Assembly in the manner provided by ORS 192.245; and
+5 (b) The Joint Committee on Transportation established under ORS 171.858.
+6 SECTION 5. ORS 184.661 is amended to read:
+7 184.661. (1) The Oregon Transportation Commission, through the Department of Transportation,
+8 shall develop a website.
+9 (2) The website must include:
+10 (a) A list of all transportation projects in the Statewide Transportation Improvement Program
+11 and for each project the website must include:
+12 (A) A description of the project and the project benefits;
+13 (B) The estimated cost and estimated completion date;
+14 (C) The project’s rank on the priority list developed under section 3 of this 2026 Act, the
+15 project’s overall score and the project’s score for each factor used in the scoring methodol-
+16 ogy;
+17 [(C)] (D) Updated information about the projects as they proceed, including the actual amount
+18 spent to date on the project; and
+19 [(D)] (E) After a project is completed, updated information, including the amount a project is
+20 under or over the original estimated cost and whether a project was completed by the original es-
+21 timated completion date.
+22 (b) Information on the reports required under ORS 366.774 and 366.790 for all cities with a
+23 population of 5,000 or greater and all counties in the state, including the amount of transportation
+24 funds collected by each county and city and the source of the funds and the amount of money spent
+25 on transportation projects by type of expenditure as listed in ORS 366.774 (2) and 366.790 (2). This
+26 information shall be displayed for the most current six-year period.
+27 (c) Information on the condition of Oregon’s transportation infrastructure, as required under
+28 ORS 184.657.
+29 (d) Information about the results the audits performed pursuant to ORS 184.639.
+30 (e) Links to all available county and city transportation project websites.
+31 (f) Links to websites about transportation projects receiving moneys from the Connect Oregon
+32 Fund.
+33 (g) Information about the decision matrix developed under section 3 of this 2026 Act and
+34 any changes to the target goals for each region.
+35 (h) The analysis completed by the commission after it approves a project for which the
+36 cost-benefit analysis under ORS 184.659 shows that expected costs exceed expected benefits.
+37 (i) Information about the capital investment plan, including all required components as
+38 described in section 3 of this 2026 Act and a narrative summary of:
+39 (A) Progress made toward the target goals adopted in the capital investment plan, in-
+40 cluding goals concerning state of good repair, safety, mobility, accessibility, sustainability,
+41 climate and providing equitable access to the transportation system;
+42 (B) A comparison of planned versus actual project costs, schedules and scope for projects
+43 included in the Statewide Transportation Improvement Program;
+44 (C) An evaluation of whether projects included in the Statewide Transportation Im-
+45 provement Program overall are achieving the outcomes reflected in the project scoring and
+[6]
+
+SB 1542
+1 prioritization adopted under section 3 of this 2026 Act;
+2 (D) Identification of material deviations from the capital investment plan, project priority
+3 lists, or target goals, and an explanation of the reasons for those deviations; and
+4 (E) Any recommended changes to policies, target goals, scoring weights or investment
+5 strategies to improve performance in future programming cycles.
+6 SECTION 6. ORS 184.659 is amended to read:
+7 184.659. (1) As used in this section, “transportation project” means a project:
+8 (a) That is a highway modernization transportation project or capacity building transportation
+9 project proposed for construction in the Statewide Transportation Improvement Program; and
+10 (b) That is estimated to cost at least $15 million.
+11 (2) As a part of the project scoping phase, the Department of Transportation shall prepare a
+12 written analysis of the costs and benefits of a transportation project. The analysis must state:
+13 (a) The scope of the project;
+14 (b) The period of analysis;
+15 (c) The discount rate used in the analysis;
+16 (d) The estimated costs to the department to undertake the project, including any costs for de-
+17 sign, purchasing highway right-of-way and construction;
+18 (e) The future costs to the department to preserve and maintain the project, discounted to
+19 present value;
+20 (f) Any other costs to the department;
+21 (g) The costs to highway users that are associated with the project, including loss of safety,
+22 delays in the time of travel and additional expenses for operating vehicles;
+23 (h) The costs of any environmental impacts, including vehicle emissions and noise over the life
+24 of the project; [and]
+25 (i) The opportunity costs of undertaking the project; and
+26 [(i)] (j) The value of the benefits of the project, including the value of any:
+27 (A) Savings in the time of travel, including immediately after the date of project completion
+28 and long-term savings in the time of travel 10 and 30 years after the date of project com-
+29 pletion;
+30 (B) Improvements to safety;
+31 (C) Savings in the cost of operating vehicles; and
+32 (D) Other social, economic or environmental benefits of the project.
+33 (3) The analysis required by this section:
+34 (a) Must include a discussion of increases in costs that would result from delays in the per-
+35 formance of routine maintenance scheduled by the department;
+36 (b) May include a discussion of:
+37 (A) The costs of the project for any other persons and governmental agencies; and
+38 (B) Any costs or benefits which may result from the use of alternative design, construction or
+39 financing practices; and
+40 (c) Must be prepared in a format that allows for the comparison of proposed transportation
+41 projects.
+42 (4) The analysis required by this section must be made available to the [commission] Oregon
+43 Transportation Commission and made publicly available on the website described in ORS
+44 184.661 [the public] when the agenda is posted for the meeting at which the proposal will be sub-
+45 mitted to the commission for its approval.
+[7]
+
+SB 1542
+1 (5) This section does not apply to transportation projects listed in ORS 367.095 or 383.150 or
+2 section 71d or 71f, chapter 750, Oregon Laws 2017.
+3 (6) When approving a transportation project, the commission shall consider the results
+4 of the analysis and make a finding as to whether the project’s expected benefits equal or
+5 exceed its expected costs. If the commission approves a project for which the analysis shows
+6 that expected costs exceed expected benefits, the commission shall adopt a written explana-
+7 tion of the reasons for proceeding and publish the explanation on its website under ORS
+8 184.661.
+9 (7) Notwithstanding any other provision of law:
+10 (a) The commission may not approve or include in the Statewide Transportation Im-
+11 provement Program a transportation project unless the commission has completed and made
+12 publicly available the cost-benefit analysis described in subsection (2) of this section at least
+13 30 days before the meeting at which the commission approves or includes the project in the
+14 Statewide Transportation Improvement Program.
+15 (b) If a transportation project is approved in violation of paragraph (a) of this subsection,
+16 the department may not obligate state moneys, or proceed to final design, right of way ac-
+17 quisition or construction, for the project until the commission complies with this section.
+18 SECTION 7. (1) Section 3 of this 2026 Act and amendments to ORS 184.621, 184.657 and
+19 184.661 by sections 2, 4 and 5 of this 2026 Act apply to projects included in the Statewide
+20 Transportation Improvement Program on or after the effective date of this 2026 Act.
+21 (2) A project included in an adopted Statewide Transportation Improvement Program
+22 before the effective date of this 2026 Act is subject to the requirements in section 3 of this
+23 2026 Act only if, after the effective date of this 2026 Act, the commission approves an in-
+24 crease in the project’s estimated costs that causes the project to reach or exceed a cost of
+25 $15 million.
+26
+[8]
+
+[DELETED:  B 1 i n a n o o t p o t P ( t r c b t L A I i a e b s o t e f o t.T D O t c a 1 C T C m i a w t s a r b t a a t t S T A t O t r o h t r a t O T C t c a 1 c i p i t S T I P.S r f tgm t t c n p a a O 1 1 1 E t p f t o o t D o T i a m D a o h a o t s D a m a c 2 l p f a s m s f t s w e e e o e d M i b n b l t a h m t p r a;a S A B c c m t d o u O 2 t o t a m p f t m o p a f S t ( o t s t p m i a l o p n t m a:M[]]
+[DELETED: B1 l 2 y i t f t a c o b a u t r r e t b a A t p a d b t c t D o p t t c f a I s a i d n t g t d c t t P t a p f b t d i t p o a i i a w l g a l s A a s t s o g g e t a i a s c s a f p p a i r t r g e T c s o s a l g a s a s a s r t h m c m v p t r t T O T C s w w s t r a t c u t s p w t S T I P.W r t p s c t c s c w t]
+[DELETED: B1 c b e c e o o o i p a g i h c p t o i d m m o a w n s c m o p adgsadpgtepcitintet F l c b d t t i d n u t t s t i i r I l n o c f m a o p a a d R t b t s i t d l a i a s i a m c w t s l u p g.( R f c o C D G J K L T O T C s d a 1 c i]
+[DELETED: B1 I t g c w O 1 i a a m g s o g r s m a s c a D t p d o a r a t t g F t p o p p s f i i t S W f e o t f l i O 1 t r t t g A p f m t w b o t t g u n a A r t a t h w f s p a p A p f a t p c w e r g s f i O 4 i p c i f a u o t t i t e r b t p i a p i i]
+[DELETED: B1 t d i m m t a s b t c T c s w w s i l a c t B o t r a u s ( o t s t O C s d a d m a c a p l o T d m a a d i m a a m c S T I P c t c g i t n S T I P c t b i u a n w c c T i d B F 1 o t c o t t i w f p m a t d t a]]
+[DELETED: B1] t s o t t i o O i t t A l o a t p i t S] U i] ( A a p i c u i i t a a p i I o t r r u O 3 a 3 f a c w .T I o t c o O t i a r uS1 L t w a t P m t t t g a i t c i p i g c s o g r s m a s A e o w p i i t S T I]
+[DELETED: B1 A r c t p t g s w o i T i a h A a p o t p s p t D o T s p  T f c t t d t p a m t p d ttv T c t h u t a a w t p i l o s[] a t d o p c M i a d o i i c t w r f d i t p a d c o M b p i a f t a f t c o p t T a r b t s m b m a t t [] O C a m p a o t w d i O [] w t a i p f t m a w t p w b s p]
+[DELETED: B1 T s d n a t t p l i O 3 o o t a a m a f a t w t p e b e o o t r f p a p t e o i w u O T c m n a o i i t S T I.( b s 2 4 a 5 o t 2 A a t p i i t S A p i i a a S T I P A o i a t e d o t 2 A t c a a i5m]

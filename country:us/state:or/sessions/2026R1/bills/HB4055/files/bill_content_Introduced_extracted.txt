@@ -1,0 +1,275 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+House Bill 4055
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of Joint Legislative Committee
+on Information Management and Technology for Representative Nancy Nathanson)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells a local public body to give a report to the state when there is an information se-
+curity incident. Prescribes what must be in the report. (Flesch Readability Score: 63.4).
+Requires a local government, local service district or special government body to notify and
+submit a report to the State Chief Information Officer within 48 hours of an information security
+incident or ransomware incident. Prescribes the information that a public body is required to report.
+Directs the State Chief Information Officer to establish a reporting system that allows a public
+body to submit a notification or report in a timely, secure and confidential manner. Directs the State
+Chief Information Officer to create a webpage to provide instructions on how to provide notification
+and submit a report.
+Requires the State Chief Information Officer to provide an annual report to the Governor and
+the Joint Legislative Committee on Information Management and Technology on the information
+security incidents and ransomware incidents reported for the preceding year.
+Exempts information security incident or ransomware incident reports from disclosure under
+public records laws and allows for the sharing of information under certain circumstances.
+Becomes operative July 1, 2026.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to information security; and declaring an emergency.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. (1) As used in this section:
+5 (a) “Information security incident” means a substantial incident that leads to one or
+6 more of the following impacts:
+7 (A) Substantial loss of confidentiality, integrity or availability of a public body’s infor-
+8 mation system.
+9 (B) Compromise in the safety and resilience of a public body’s operational systems and
+10 processes.
+11 (C) Disruption of a public body’s ability to engage in business, carry on operations or
+12 deliver services.
+13 (D) Unauthorized access to a public body’s information system or nonpublic information,
+14 when the impact is caused by a compromise of a third-party information service or data
+15 hosting provider.
+16 (b) “Information system” means a system of computers and related hardware, software,
+17 storage media and networks and any other means by which a public body collects, uses or
+18 manages the public body’s information resources.
+19 (c) “Public body” means:
+20 (A) A local government, as defined in ORS 174.116.
+21 (B) A local service district, as defined in ORS 174.116.
+22 (C) A special government body, as defined in ORS 174.117.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 301
+HB 4055
+1 (d) “Ransomware incident” means an information security incident in which a person
+2 introduces software to gain unauthorized access to or encrypt, modify or render unavailable
+3 a public body’s data for the purposes of demanding or compelling the public body to pay a
+4 ransom.
+5 (2)(a) A public body shall, within 48 hours of discovering an information security incident
+6 or ransomware incident:
+7 (A) Notify the State Chief Information Officer of the information security incident or
+8 ransomware incident; and
+9 (B) Submit a report to the State Chief Information Officer that describes the actions the
+10 public body has taken or must reasonably take to prevent, mitigate or recover from damage
+11 to, unauthorized access to, unauthorized modifications or deletions of or other impairments
+12 of the integrity of the public body’s information system.
+13 (b) The State Chief Information Officer shall prescribe the format in which a report must
+14 be submitted under this section.
+15 (3) The State Chief Information Officer shall establish an information security incident
+16 notification and reporting system that a public body shall use to provide notification or
+17 submit a report, as required under this section, in a timely, secure and confidential manner.
+18 The system must allow the State Chief Information Officer to:
+19 (a) Securely accept from public bodies information security incident or ransomware in-
+20 cident notifications and reports;
+21 (b) Track and identify trends in information security incidents and ransomware incidents
+22 that are reported through the system; and
+23 (c) Provide reports on the types of incidents, threat indicators, defensive measures and
+24 entities that are reported through the system.
+25 (4)(a) An information security incident or ransomware incident report that is submitted
+26 under this section is exempt from public disclosure under ORS 192.311 to 192.478 and must
+27 be treated as confidential.
+28 (b) The State Chief Information Officer may share information concerning an informa-
+29 tion security incident or ransomware incident report with:
+30 (A) The Oregon Cybersecurity Center of Excellence established under ORS 276A.555, if
+31 the information helps the center carry out the center’s purpose as described under ORS
+32 276A.555;
+33 (B) Federal, state or local law enforcement authorities; and
+34 (C) Any other entity as the State Chief Information Officer determines is appropriate.
+35 (c) The State Chief Information Officer may anonymize and share information related to
+36 threat indicators and defensive measures to assist in preventing information security inci-
+37 dents or ransomware incidents.
+38 (5) The State Chief Information Officer shall maintain a webpage that provides in-
+39 structions on how a public body may provide notification and submit a report as described
+40 under subsection (2) of this section. The instructions must describe, at a minimum:
+41 (a) The types of information security incidents and ransomware incidents that a public
+42 body is required to report; and
+43 (b) Any information a public body should provide when notifying the State Chief Infor-
+44 mation Officer of an information security incident or ransomware incident.
+45 (6)(a) The State Chief Information Officer shall submit to the Governor and submit to,
+[2]
+HB 4055
+1 and present in an appropriate hearing or other proceeding before, the Joint Legislative
+2 Committee on Information Management and Technology an annual report concerning any
+3 notifications and reports the State Chief Information Officer receives from public bodies
+4 under this section. The annual report must include, at a minimum, for the preceding year:
+5 (A) Information on the number of notifications the State Chief Information Officer re-
+6 ceived;
+7 (B) A description of the types of information security incidents or ransomware incidents
+8 that were reported; and
+9 (C) The type of public bodies that submitted notifications.
+10 (b) The annual report described in paragraph (a) of this subsection may not include in-
+11 formation security information or other materials that are exempt from disclosure under
+12 ORS 192.311 to 192.478.
+13 SECTION 2. (1) Section 1 of this 2026 Act becomes operative on July 1, 2026.
+14 (2) The State Chief Information Officer may adopt rules and take any other action before
+15 the operative date specified in subsection (1) of this section that is necessary to enable the
+16 State Chief Information Officer to undertake and exercise, on and after the operative date
+17 specified in subsection (1) of this section, all of the duties, functions and powers conferred
+18 on the State Chief Information Officer by section 1 of this 2026 Act.
+19 (3) No later than 90 days after the effective date of this 2026 Act, the State Chief Infor-
+20 mation Officer shall:
+21 (a) Establish the information security incident notification and reporting system de-
+22 scribed under section 1 (3) of this 2026 Act; and
+23 (b) Create and maintain the webpage described under section 1 (5) of this 2026 Act.
+24 SECTION 3. This 2026 Act being necessary for the immediate preservation of the public
+25 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+26 on its passage.
+27
+[3]
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T a l g l s d o s g b t n a a r t t S C I O w 4 h o a i s a r t t G a J L C o I M a T o t i i s i o r i r f d u.( “ s i m a s i t l t o o S l o c i o a o a p b ins C D o a p b a t e i b c o o ors t i i c b a c o a t i s o dgp m a:M[]]
+[DELETED: B4 “ i m a i s i i w a p p b d f t p N t S C I O o t i s i o T S a r s t a p b s u t p n o S T S C I O T O C C o E e u O 2 i i h t c c o t c p a d u O i p i s i T S C I O s m a w t p i d T n t S C I T S]
+[DELETED: B4 p i a a h o o p b t J L o I M a T a a r c a a r t S C I O r f p b I o t n o s i o o m t a e f d u.( d E t i s i n a r s d.T h a s a e i]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4055
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of Joint Legislative Committee
+on Information Management and Technology for Representative Nancy Nathanson)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells a local public body to give a report to the state when there is an information se-
+curity incident. Prescribes what must be in the report. (Flesch Readability Score: 63.4).
+Requires a local government, local service district or special government body to notify and
+submit a report to the State Chief Information Officer within 48 hours of an information security
+incident or ransomware incident. Prescribes the information that a public body is required to report.
+Directs the State Chief Information Officer to establish a reporting system that allows a public
+body to submit a notification or report in a timely, secure and confidential manner. Directs the State
+Chief Information Officer to create a webpage to provide instructions on how to provide notification
+and submit a report.
+Requires the State Chief Information Officer to provide an annual report to the Governor and
+the Joint Legislative Committee on Information Management and Technology on the information
+security incidents and ransomware incidents reported for the preceding year.
+Exempts information security incident or ransomware incident reports from disclosure under
+public records laws and allows for the sharing of information under certain circumstances.
+Becomes operative July 1, 2026.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to information security; and declaring an emergency.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. (1) As used in this section:
+5 (a) “Information security incident” means a substantial incident that leads to one or
+6 more of the following impacts:
+7 (A) Substantial loss of confidentiality, integrity or availability of a public body’s infor-
+8 mation system.
+9 (B) Compromise in the safety and resilience of a public body’s operational systems and
+10 processes.
+11 (C) Disruption of a public body’s ability to engage in business, carry on operations or
+12 deliver services.
+13 (D) Unauthorized access to a public body’s information system or nonpublic information,
+14 when the impact is caused by a compromise of a third-party information service or data
+15 hosting provider.
+16 (b) “Information system” means a system of computers and related hardware, software,
+17 storage media and networks and any other means by which a public body collects, uses or
+18 manages the public body’s information resources.
+19 (c) “Public body” means:
+20 (A) A local government, as defined in ORS 174.116.
+21 (B) A local service district, as defined in ORS 174.116.
+22 (C) A special government body, as defined in ORS 174.117.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 301
+
+HB 4055
+1 (d) “Ransomware incident” means an information security incident in which a person
+2 introduces software to gain unauthorized access to or encrypt, modify or render unavailable
+3 a public body’s data for the purposes of demanding or compelling the public body to pay a
+4 ransom.
+5 (2)(a) A public body shall, within 48 hours of discovering an information security incident
+6 or ransomware incident:
+7 (A) Notify the State Chief Information Officer of the information security incident or
+8 ransomware incident; and
+9 (B) Submit a report to the State Chief Information Officer that describes the actions the
+10 public body has taken or must reasonably take to prevent, mitigate or recover from damage
+11 to, unauthorized access to, unauthorized modifications or deletions of or other impairments
+12 of the integrity of the public body’s information system.
+13 (b) The State Chief Information Officer shall prescribe the format in which a report must
+14 be submitted under this section.
+15 (3) The State Chief Information Officer shall establish an information security incident
+16 notification and reporting system that a public body shall use to provide notification or
+17 submit a report, as required under this section, in a timely, secure and confidential manner.
+18 The system must allow the State Chief Information Officer to:
+19 (a) Securely accept from public bodies information security incident or ransomware in-
+20 cident notifications and reports;
+21 (b) Track and identify trends in information security incidents and ransomware incidents
+22 that are reported through the system; and
+23 (c) Provide reports on the types of incidents, threat indicators, defensive measures and
+24 entities that are reported through the system.
+25 (4)(a) An information security incident or ransomware incident report that is submitted
+26 under this section is exempt from public disclosure under ORS 192.311 to 192.478 and must
+27 be treated as confidential.
+28 (b) The State Chief Information Officer may share information concerning an informa-
+29 tion security incident or ransomware incident report with:
+30 (A) The Oregon Cybersecurity Center of Excellence established under ORS 276A.555, if
+31 the information helps the center carry out the center’s purpose as described under ORS
+32 276A.555;
+33 (B) Federal, state or local law enforcement authorities; and
+34 (C) Any other entity as the State Chief Information Officer determines is appropriate.
+35 (c) The State Chief Information Officer may anonymize and share information related to
+36 threat indicators and defensive measures to assist in preventing information security inci-
+37 dents or ransomware incidents.
+38 (5) The State Chief Information Officer shall maintain a webpage that provides in-
+39 structions on how a public body may provide notification and submit a report as described
+40 under subsection (2) of this section. The instructions must describe, at a minimum:
+41 (a) The types of information security incidents and ransomware incidents that a public
+42 body is required to report; and
+43 (b) Any information a public body should provide when notifying the State Chief Infor-
+44 mation Officer of an information security incident or ransomware incident.
+45 (6)(a) The State Chief Information Officer shall submit to the Governor and submit to,
+[2]
+
+HB 4055
+1 and present in an appropriate hearing or other proceeding before, the Joint Legislative
+2 Committee on Information Management and Technology an annual report concerning any
+3 notifications and reports the State Chief Information Officer receives from public bodies
+4 under this section. The annual report must include, at a minimum, for the preceding year:
+5 (A) Information on the number of notifications the State Chief Information Officer re-
+6 ceived;
+7 (B) A description of the types of information security incidents or ransomware incidents
+8 that were reported; and
+9 (C) The type of public bodies that submitted notifications.
+10 (b) The annual report described in paragraph (a) of this subsection may not include in-
+11 formation security information or other materials that are exempt from disclosure under
+12 ORS 192.311 to 192.478.
+13 SECTION 2. (1) Section 1 of this 2026 Act becomes operative on July 1, 2026.
+14 (2) The State Chief Information Officer may adopt rules and take any other action before
+15 the operative date specified in subsection (1) of this section that is necessary to enable the
+16 State Chief Information Officer to undertake and exercise, on and after the operative date
+17 specified in subsection (1) of this section, all of the duties, functions and powers conferred
+18 on the State Chief Information Officer by section 1 of this 2026 Act.
+19 (3) No later than 90 days after the effective date of this 2026 Act, the State Chief Infor-
+20 mation Officer shall:
+21 (a) Establish the information security incident notification and reporting system de-
+22 scribed under section 1 (3) of this 2026 Act; and
+23 (b) Create and maintain the webpage described under section 1 (5) of this 2026 Act.
+24 SECTION 3. This 2026 Act being necessary for the immediate preservation of the public
+25 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+26 on its passage.
+27
+[3]
+
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t.T a l g l s d o s g b t n a a r t t S C I O w 4 h o a i s a r t t G a J L C o I M a T o t i i s i o r i r f d u.( “ s i m a s i t l t o o S l o c i o a o a p b ins C D o a p b a t e i b c o o ors t i i c b a c o a t i s o dgp m a:M[]]
+[DELETED: B4 “ i m a i s i i w a p p b d f t p N t S C I O o t i s i o T S a r s t a p b s u t p n o S T S C I O T O C C o E e u O 2 i i h t c c o t c p a d u O i p i s i T S C I O s m a w t p i d T n t S C I T S]
+[DELETED: B4 p i a a h o o p b t J L o I M a T a a r c a a r t S C I O r f p b I o t n o s i o o m t a e f d u.( d E t i s i n a r s d.T h a s a e i]

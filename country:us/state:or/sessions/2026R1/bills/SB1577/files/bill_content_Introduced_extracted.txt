@@ -1,0 +1,534 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+Senate Bill 1577
+Sponsored by Senator NASH, Representatives OWENS, SKARLATOS; Senators DRAZAN, PROZANSKI, SMITH DB,
+WEBER, Representatives HELFRICH, JAVADI, LEVY B, PHAM H, RIEKE SMITH, SMITH G, WRIGHT,
+YUNKER (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that foods made with plant-based, insect-based or lab-grown proteins are
+misbranded if their labels imply that they are made of meat or eggs. (Flesch Readability Score: 66.5).
+Provides that a manufactured-protein food product that bears a label suggesting that the food
+product is made from meat is misbranded unless the food product label contains text disclosing that
+the food product is not made from meat.
+Provides that a fabricated-egg food product that bears a label suggesting that the food product
+is made from eggs is misbranded unless the food product label contains text disclosing that the food
+product is not made from eggs.
+1 A BILL FOR AN ACT
+2 Relating to the labeling of alternative protein food products; creating new provisions; and amending
+3 ORS 616.205 and 616.250.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 616.205 is amended to read:
+6 616.205. As used in ORS 616.205 to 616.385, unless the context clearly indicates a different
+7 meaning:
+8 (1) “Advertisement” includes all representations disseminated in any manner or by any means,
+9 other than by labeling, for the purpose of inducing, or which are likely to induce, directly or indi-
+10 rectly, the purchase of the food.
+11 (2) “Color” includes black, white and intermediate grays.
+12 (3)(a) “Color additive” means a material that:
+13 (A) Is a dye, pigment, or other substance made by a process of synthesis or similar artifice, or
+14 extracted, isolated, or otherwise derived, with or without intermediate or final change of identity,
+15 from a vegetable, animal, mineral, or other source; or
+16 (B) When added or applied to a food or to the human body or any part thereof, is capable, alone
+17 or through reaction with other substance, of imparting color thereto.
+18 (b) “Color additive” does not include any material that has been exempted under the federal
+19 Act.
+20 (c) Notwithstanding paragraph (a) of this subsection, “color additive” does not include any pes-
+21 ticide chemical, soil or plant nutrient, or other agricultural chemical solely because of its effect in
+22 aiding, retarding or otherwise affecting, directly or indirectly, the growth or other natural physio-
+23 logical process of produce of the soil and thereby affecting its color, whether before or after harvest.
+24 (4) “Consumer commodity” means any food as defined by ORS 616.205 to 616.215, 616.225 to
+25 616.256, 616.286, 616.295, 616.310, 616.315, 616.325, 616.330, 616.341, 616.350 to 616.366, 616.790 and
+26 616.992 or by the federal Act.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 138
+SB 1577
+1 (5) “Contaminated with filth” means the condition of any food not securely protected from dust,
+2 dirt and, as far as may be necessary by all reasonable means, from all foreign or injurious sub-
+3 stances.
+4 (6) “Cultivated-protein food product” means a food product that has one or more sensory
+5 attributes that resemble a type of tissue originating from a meat animal but that, in lieu of
+6 being derived from processing meat, is derived from a process for manufacturing cells
+7 through which one or more stem cells are initially isolated from livestock, are grown in vitro
+8 and may be manipulated as part of a manufacturing operation.
+9 [(6)] (7) “Dietary ingredient” means one or more of the following or a concentrate, constituent,
+10 extract or metabolite of one or more of the following:
+11 (a) An amino acid;
+12 (b) An herb or other botanical;
+13 (c) A mineral;
+14 (d) A dietary substance intended to supplement the human diet by increasing total dietary in-
+15 take; or
+16 (e) A vitamin.
+17 [(7)] (8) “Dietary supplement” means an article, not including any tobacco product, that:
+18 (a) Is subject to dietary supplement labeling requirements under 21 C.F.R. 101.36;
+19 (b) Is intended to supplement conventional food in the diet of humans and contains a dietary
+20 ingredient; and
+21 (c)(A) Is intended for ingestion in tablet, capsule, powder, softgel, gelcap or liquid form; or
+22 (B) Is not represented to be a conventional food or to be for use as the sole item of a meal or
+23 diet.
+24 [(8)] (9) “Director” means the Director of Agriculture.
+25 [(9)] (10) “Federal Act” means the Federal Food, Drug and Cosmetic Act, 21 U.S.C. 301 et seq.,
+26 52 Stat. 1040 et seq.
+27 (11) “Egg product” has the meaning given that term in ORS 632.705.
+28 (12) “Eggs” has the meaning given that term in ORS 632.705.
+29 (13) “Fabricated-egg food product” means a food product that has one or more sensory
+30 attributes that resemble an egg product but that, in lieu of being derived from eggs, is de-
+31 rived from processing plant or other organic material.
+32 [(10)] (14) “Food” means:
+33 (a) Articles used for food or drink, including ice, for human consumption or food for dogs and
+34 cats;
+35 (b) Chewing gum;
+36 (c) Dietary supplements; and
+37 (d) Articles used for components of any such article.
+38 [(11)] (15) “Food additive” means any substance the intended use of which results or may rea-
+39 sonably be expected to result, directly or indirectly, in its becoming a component or otherwise af-
+40 fecting the characteristics of any food, including any substance intended for use in producing,
+41 manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food,
+42 and including any source of radiation intended for any such use, if such substance is not generally
+43 recognized, among experts qualified by scientific training and experience to evaluate its safety, as
+44 having been adequately shown through scientific procedures or experience based on common use in
+45 food to be safe under the conditions of its intended use. “Food additive” does not include:
+[2]
+SB 1577
+1 (a) A pesticide chemical in or on a raw agricultural commodity;
+2 (b) A pesticide chemical to the extent that it is intended for use, or is used in the production,
+3 storage or transportation of any raw agricultural commodity; or
+4 (c) A color additive.
+5 [(12)] (16) “Food establishment” means:
+6 (a) Any room, building, structure or place, used or intended for use, or operated for storing,
+7 preparing, compounding, manufacturing, processing, freezing, packaging, distributing, handling or
+8 displaying food.
+9 (b) The ground upon which such place or business is operated or used and so much ground ad-
+10 jacent thereto as is also used in carrying on the business of the establishment. The State Depart-
+11 ment of Agriculture may prescribe such additional area or places which, although they may not be
+12 contiguous or adjacent to the above area or establishment, may be included therein.
+13 (c) Vehicles, machinery, equipment, utensils, tools, fixtures, implements and all other articles or
+14 items, used in operating or carrying on the business of a food establishment.
+15 (17) “Food product” means a perishable or nonperishable item stored in a container or
+16 package and intended for human consumption.
+17 (18) “Identifying egg term” means a word or phrase used individually or as part of a word
+18 that states, indicates or suggests that a food product is an egg product made in whole or in
+19 part from eggs.
+20 (19) “Identifying meat term” means a word or phrase used individually or as part of a
+21 word that states, indicates or suggests that a food product is a meat product made in whole
+22 or in part from a meat animal.
+23 [(13)] (20) “Immediate container” does not include package liners.
+24 (21) “Insect-protein food product” means a food product that has one or more sensory
+25 attributes that resemble a type of tissue originating from a meat animal but that, in lieu of
+26 being derived from processing meat, is derived from processing insect parts.
+27 [(14)] (22) “Label” means a display of written, printed or graphic matter upon the immediate
+28 container of any article. A requirement made under authority of ORS 616.205 to 616.215, 616.225 to
+29 616.256, 616.286, 616.295, 616.310, 616.315, 616.325, 616.330, 616.341, 616.350 to 616.366, 616.790 and
+30 616.992 that any word, statement or other information appears on a label has not been obeyed unless
+31 such word, statement or other information also appears on the outside container or wrapper, if any
+32 there be, of the retail package of such article or unless such word, statement or information is easily
+33 legible through the outside container or wrapper.
+34 [(15)] (23) “Labeling” means all labels and other written, printed or graphic matters upon an
+35 article or any of its containers or wrappers, or accompanying such article.
+36 (24) “Manufactured-protein food product” means a cultivated-protein food product,
+37 insect-protein food product or plant-protein food product.
+38 (25) “Meat” has the meaning given that term in ORS 619.010.
+39 (26) “Meat animal” has the meaning given that term in ORS 619.010.
+40 (27) “Meat product” has the meaning given that term in ORS 619.010.
+41 [(16)] (28) “Package” means any container or wrapping in which any consumer commodity is
+42 enclosed for use in the delivery or display of that consumer commodity to retail purchasers, but does
+43 not include:
+44 (a) Shipping containers or wrappings used solely for the transportation of any consumer com-
+45 modity in bulk or in quantity to manufacturers, packers or processors, or to wholesale or retail
+[3]
+SB 1577
+1 distributors thereof; or
+2 (b) Shipping containers or outer wrappings used by retailers to ship or deliver any commodity
+3 to retail customers if such containers and wrappings bear no printed matter pertaining to any par-
+4 ticular commodity.
+5 [(17)] (29) “Pesticide chemical” means any substance which, alone, in chemical combination or
+6 in formulation with one or more other substances is a “pesticide” as defined in ORS 634.006.
+7 (30) “Plant-protein food product” means a food product that has one or more sensory
+8 attributes that resemble a type of tissue found in a species of meat animal but that, in lieu
+9 of being derived from processing meat, is derived from processing plant parts.
+10 [(18)] (31) “Principal display panel” means that part of a label that is most likely to be displayed,
+11 presented, shown or examined under normal and customary conditions of display for retail sale.
+12 (32) “Qualifying egg term” means a word, compound word or phrase that clearly discloses
+13 that a food product is not an egg product from eggs, such as “cell-cultivated,”
+14 “cell-cultured,” “egg-free,” “fake,” “grown in a lab,” “imitation,” “insect-based,” “lab-
+15 created,” “lab-grown,” “plant,” “plant-based,” “vegan,” “vegetable,” “vegetarian” or
+16 “veggie.”
+17 (33) “Qualifying meat term” means a word, compound word or phrase that clearly dis-
+18 closes that a food product is not a meat product from a meat animal, such as “cell-
+19 cultivated,” “cell-cultured,” “egg-free,” “fake,” “grown in a lab,” “imitation,”
+20 “insect-based,” “lab-created,” “lab-grown,” “plant,” “plant-based,” “vegan,” “vegetable,”
+21 “vegetarian” or “veggie.”
+22 [(19)] (34) “Raw agricultural commodity” means any food in its raw or natural state, including
+23 all fruits that are washed, colored, or otherwise treated in their unpeeled natural form prior to
+24 marketing.
+25 SECTION 2. ORS 616.250 is amended to read:
+26 616.250. A food shall be deemed to be misbranded:
+27 (1) If its labeling is false or misleading in any particular, or fails to conform to ORS 616.325.
+28 (2) If it is offered for sale under the name of another food.
+29 (3) If it is an imitation of another food, unless its label bears in type of uniform size and prom-
+30 inence the word “imitation” and, immediately thereafter, the name of the food imitated.
+31 (4) If its container is so made, formed or filled as to be misleading.
+32 (5) If in package form:
+33 (a) Unless it bears a label containing:
+34 (A) The name and place of business of the manufacturer, packer or distributor; and
+35 (B) An accurate statement of the net quantity of the contents in terms of weight, measure, vol-
+36 ume or numerical count. The statement shall be separately and accurately stated upon the principal
+37 display panel of the label.
+38 (b) The same reasonable variations allowed in ORS chapter 618 shall be permitted.
+39 (c) Exemptions as to small packages shall be established by rules promulgated by the State De-
+40 partment of Agriculture.
+41 (6) If any word, statement or other information required by or under authority of ORS 616.205
+42 to 616.295 to appear on the label or labeling is not prominently placed thereon with such
+43 conspicuousness, as compared with other words, statements, designs or devices, in the labeling, and
+44 in such terms as to render it likely to be read and understood by the ordinary individual under
+45 customary conditions of purchase and use.
+[4]
+SB 1577
+1 (7) If it purports to be or is represented as a food for which a definition and standard of identity
+2 has been prescribed by rule as provided by ORS 616.230, unless it conforms to such definition and
+3 standard and its label bears the name of the food specified in the definition and standard, and, in
+4 so far as may be required by such rule, the common names of optional ingredients, other than spices,
+5 flavoring and coloring present in such food.
+6 (8) If it purports to be or is represented as a food for which a standard of quality has been
+7 prescribed by rule as provided by ORS 616.230 and its quality falls below the standards such rule
+8 specifies, a statement that it falls below such standard.
+9 (9) If it is a food for which a standard or standards of fill of container have been prescribed by
+10 rule as provided by ORS 616.230, and it falls below the standard of fill of container applicable
+11 thereto, unless its label bears, in such manner and form as such rule specifies, a statement that it
+12 falls below such standard.
+13 (10) If it is not subject to the provisions of subsection (7) of this section, unless its label bears:
+14 (a) The common or usual name of the food, if any there be; and
+15 (b) In case it is fabricated from two or more ingredients, the common or usual name of each such
+16 ingredient.
+17
+18 However, spices, flavorings and colorings, other than those sold as such, may be designated as
+19 spices, flavorings and colorings, without naming them. To the extent that compliance with the re-
+20 quirements of paragraph (b) of this subsection is impractical or results in deception or unfair com-
+21 petition, exemptions shall be established by rule promulgated by the department.
+22 (11) If it purports to be or is represented for special dietary uses, unless its label bears such
+23 information concerning its vitamin, mineral and other dietary properties as the department deter-
+24 mines to be, and by rule prescribed as, necessary in order to fully inform purchasers as to its value
+25 for such uses.
+26 (12) If it bears or contains any artificial flavoring, artificial coloring or chemical preservative,
+27 unless it bears labeling stating that fact. To the extent that compliance with the requirements of this
+28 subsection is impracticable, exemptions shall be established by rule promulgated by the department.
+29 This subsection and subsections (7) and (10) of this section with respect to artificial coloring do not
+30 prohibit the use of harmless coloring matter in butter, cheese or ice cream. The provisions of this
+31 subsection with respect to chemical preservatives do not apply to a pesticide chemical when used
+32 in or on a raw agricultural commodity which is the product of the soil.
+33 (13) If it is a raw agricultural commodity which is the product of the soil, bearing or containing
+34 a pesticide chemical applied after harvest, unless the shipping container of such commodity bears
+35 labeling which declares the presence of such chemical in or on such commodity and the common or
+36 usual name and the function of such chemical. However, no such declaration is required while such
+37 commodity, having been removed from the shipping container, is being held or displayed for sale at
+38 retail out of such container in accordance with the custom of the trade.
+39 (14) If following the labeled directions or instructions on the product in using it as a food in-
+40 gredient will result in the final food being adulterated or misbranded.
+41 (15) If it is a color additive, unless its packaging and labeling are in conformity with the pack-
+42 aging and labeling requirements applicable to such color additive prescribed under the provisions
+43 of the federal Act.
+44 (16) If it has been salvaged, unless it bears labeling or notification stating that fact. For the
+45 purposes of this subsection, “salvaged” means the reconditioning, repacking, relabeling, cleaning or
+[5]
+SB 1577
+1 culling of foods that have been damaged or adulterated as a result of fire, storm, flood, water, smoke,
+2 chemicals, radiation or commercial transit accident.
+3 (17) If it is a fabricated-egg food product that bears labeling that:
+4 (a) Contains an identifying egg term; and
+5 (b) Does not contain a conspicuous and prominent qualifying egg term in close proximity
+6 to the identifying egg term.
+7 (18) If it is a manufactured-protein food product that bears labeling that:
+8 (a) Contains an identifying meat term; and
+9 (b) Does not contain a conspicuous and prominent qualifying meat term in close prox-
+10 imity to the identifying meat term.
+11 SECTION 3. The amendments to ORS 616.205 and 616.250 by sections 1 and 2 of this 2026
+12 Act apply to food products that are sold or offered for sale on or after the effective date of
+13 this 2026 Act.
+14
+[6]
+[DELETED:  B 1 R H J L B P H R S S G W c b t L A I i a e b s o t e f o t.T T A s t f m w p i o l a m f p t b a l s t t f A u i O 6 t 6 u t c c i a d “ i a o d w o w i o f c o i “ a d n i a m t h b e u t f t g o o n p “ c m a f a d b O 6 t 6 6 t 6 6 a:M[]]
+[DELETED: B1 a a f a m b n b a r m f a f o i s d f p m i d f a p f m c] A d s i t s t h d b i t d i;o] I i t s c f i t d o h a c a d;a]]] h c o f f d a] ( “ a m a i i b a c o o a t c o a f i a s i f u i p p p p t p t o h f a e t e i s a]
+[DELETED: B1 A] A r b s o p u o i f u o o f s c m p f p d h ogf a u i c o t b o t e T S D s i a c o w o p u i o a p o ] “ f p m a f p t]( “ m a d o w p o g m u t i 6 6 6] ( “ m a l a o w p o g m u a “ f p m a c f p] ( “ m a c o w i w a c c iti S c o w u s f t t o a c c i b o i q t m p o p o t w o r]
+[DELETED: B1 S c o o w] ( “ c m a “ f p m a f p t h o o m s]( a f p i n a e p f e s as“ “ “ “ i a l “ “ “ “ “ “ “ “ “ o “ m t m a w c w o t a f p i n a m p f a m a s a “ “ “ “ “ i a l “ “ “ “ “ “ “] f t a w c o o t i t u n f p t 6 t a o t l o l i n p p t w s s t a t r i l t b r a u b t o i u]
+[DELETED: B1 b p b n o t f s i t d a s a i I i p t b o i r a a f f w a s o q h b O 6 a i q f b t s s r a p b O 6 a i f b t s o f o c a i s f a c o t t s a s m b d a a c w n t T t e t c w t r I i p t b o i r f s d u u i l b s c i v m a o d p a t d d I i b p o t w r t c p d n a t a p c a a h u t s c o s c b I f t l d o i o t p i u i a a l r a t s c a p u t p b s u i b l o n s t f F t]
+[DELETED: B1 c a c a p q m t i c p.T]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1577
+Sponsored by Senator NASH, Representatives OWENS, SKARLATOS; Senators DRAZAN, PROZANSKI, SMITH DB,
+WEBER, Representatives HELFRICH, JAVADI, LEVY B, PHAM H, RIEKE SMITH, SMITH G, WRIGHT,
+YUNKER (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that foods made with plant-based, insect-based or lab-grown proteins are
+misbranded if their labels imply that they are made of meat or eggs. (Flesch Readability Score: 66.5).
+Provides that a manufactured-protein food product that bears a label suggesting that the food
+product is made from meat is misbranded unless the food product label contains text disclosing that
+the food product is not made from meat.
+Provides that a fabricated-egg food product that bears a label suggesting that the food product
+is made from eggs is misbranded unless the food product label contains text disclosing that the food
+product is not made from eggs.
+1 A BILL FOR AN ACT
+2 Relating to the labeling of alternative protein food products; creating new provisions; and amending
+3 ORS 616.205 and 616.250.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 616.205 is amended to read:
+6 616.205. As used in ORS 616.205 to 616.385, unless the context clearly indicates a different
+7 meaning:
+8 (1) “Advertisement” includes all representations disseminated in any manner or by any means,
+9 other than by labeling, for the purpose of inducing, or which are likely to induce, directly or indi-
+10 rectly, the purchase of the food.
+11 (2) “Color” includes black, white and intermediate grays.
+12 (3)(a) “Color additive” means a material that:
+13 (A) Is a dye, pigment, or other substance made by a process of synthesis or similar artifice, or
+14 extracted, isolated, or otherwise derived, with or without intermediate or final change of identity,
+15 from a vegetable, animal, mineral, or other source; or
+16 (B) When added or applied to a food or to the human body or any part thereof, is capable, alone
+17 or through reaction with other substance, of imparting color thereto.
+18 (b) “Color additive” does not include any material that has been exempted under the federal
+19 Act.
+20 (c) Notwithstanding paragraph (a) of this subsection, “color additive” does not include any pes-
+21 ticide chemical, soil or plant nutrient, or other agricultural chemical solely because of its effect in
+22 aiding, retarding or otherwise affecting, directly or indirectly, the growth or other natural physio-
+23 logical process of produce of the soil and thereby affecting its color, whether before or after harvest.
+24 (4) “Consumer commodity” means any food as defined by ORS 616.205 to 616.215, 616.225 to
+25 616.256, 616.286, 616.295, 616.310, 616.315, 616.325, 616.330, 616.341, 616.350 to 616.366, 616.790 and
+26 616.992 or by the federal Act.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 138
+
+SB 1577
+1 (5) “Contaminated with filth” means the condition of any food not securely protected from dust,
+2 dirt and, as far as may be necessary by all reasonable means, from all foreign or injurious sub-
+3 stances.
+4 (6) “Cultivated-protein food product” means a food product that has one or more sensory
+5 attributes that resemble a type of tissue originating from a meat animal but that, in lieu of
+6 being derived from processing meat, is derived from a process for manufacturing cells
+7 through which one or more stem cells are initially isolated from livestock, are grown in vitro
+8 and may be manipulated as part of a manufacturing operation.
+9 [(6)] (7) “Dietary ingredient” means one or more of the following or a concentrate, constituent,
+10 extract or metabolite of one or more of the following:
+11 (a) An amino acid;
+12 (b) An herb or other botanical;
+13 (c) A mineral;
+14 (d) A dietary substance intended to supplement the human diet by increasing total dietary in-
+15 take; or
+16 (e) A vitamin.
+17 [(7)] (8) “Dietary supplement” means an article, not including any tobacco product, that:
+18 (a) Is subject to dietary supplement labeling requirements under 21 C.F.R. 101.36;
+19 (b) Is intended to supplement conventional food in the diet of humans and contains a dietary
+20 ingredient; and
+21 (c)(A) Is intended for ingestion in tablet, capsule, powder, softgel, gelcap or liquid form; or
+22 (B) Is not represented to be a conventional food or to be for use as the sole item of a meal or
+23 diet.
+24 [(8)] (9) “Director” means the Director of Agriculture.
+25 [(9)] (10) “Federal Act” means the Federal Food, Drug and Cosmetic Act, 21 U.S.C. 301 et seq.,
+26 52 Stat. 1040 et seq.
+27 (11) “Egg product” has the meaning given that term in ORS 632.705.
+28 (12) “Eggs” has the meaning given that term in ORS 632.705.
+29 (13) “Fabricated-egg food product” means a food product that has one or more sensory
+30 attributes that resemble an egg product but that, in lieu of being derived from eggs, is de-
+31 rived from processing plant or other organic material.
+32 [(10)] (14) “Food” means:
+33 (a) Articles used for food or drink, including ice, for human consumption or food for dogs and
+34 cats;
+35 (b) Chewing gum;
+36 (c) Dietary supplements; and
+37 (d) Articles used for components of any such article.
+38 [(11)] (15) “Food additive” means any substance the intended use of which results or may rea-
+39 sonably be expected to result, directly or indirectly, in its becoming a component or otherwise af-
+40 fecting the characteristics of any food, including any substance intended for use in producing,
+41 manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food,
+42 and including any source of radiation intended for any such use, if such substance is not generally
+43 recognized, among experts qualified by scientific training and experience to evaluate its safety, as
+44 having been adequately shown through scientific procedures or experience based on common use in
+45 food to be safe under the conditions of its intended use. “Food additive” does not include:
+[2]
+
+SB 1577
+1 (a) A pesticide chemical in or on a raw agricultural commodity;
+2 (b) A pesticide chemical to the extent that it is intended for use, or is used in the production,
+3 storage or transportation of any raw agricultural commodity; or
+4 (c) A color additive.
+5 [(12)] (16) “Food establishment” means:
+6 (a) Any room, building, structure or place, used or intended for use, or operated for storing,
+7 preparing, compounding, manufacturing, processing, freezing, packaging, distributing, handling or
+8 displaying food.
+9 (b) The ground upon which such place or business is operated or used and so much ground ad-
+10 jacent thereto as is also used in carrying on the business of the establishment. The State Depart-
+11 ment of Agriculture may prescribe such additional area or places which, although they may not be
+12 contiguous or adjacent to the above area or establishment, may be included therein.
+13 (c) Vehicles, machinery, equipment, utensils, tools, fixtures, implements and all other articles or
+14 items, used in operating or carrying on the business of a food establishment.
+15 (17) “Food product” means a perishable or nonperishable item stored in a container or
+16 package and intended for human consumption.
+17 (18) “Identifying egg term” means a word or phrase used individually or as part of a word
+18 that states, indicates or suggests that a food product is an egg product made in whole or in
+19 part from eggs.
+20 (19) “Identifying meat term” means a word or phrase used individually or as part of a
+21 word that states, indicates or suggests that a food product is a meat product made in whole
+22 or in part from a meat animal.
+23 [(13)] (20) “Immediate container” does not include package liners.
+24 (21) “Insect-protein food product” means a food product that has one or more sensory
+25 attributes that resemble a type of tissue originating from a meat animal but that, in lieu of
+26 being derived from processing meat, is derived from processing insect parts.
+27 [(14)] (22) “Label” means a display of written, printed or graphic matter upon the immediate
+28 container of any article. A requirement made under authority of ORS 616.205 to 616.215, 616.225 to
+29 616.256, 616.286, 616.295, 616.310, 616.315, 616.325, 616.330, 616.341, 616.350 to 616.366, 616.790 and
+30 616.992 that any word, statement or other information appears on a label has not been obeyed unless
+31 such word, statement or other information also appears on the outside container or wrapper, if any
+32 there be, of the retail package of such article or unless such word, statement or information is easily
+33 legible through the outside container or wrapper.
+34 [(15)] (23) “Labeling” means all labels and other written, printed or graphic matters upon an
+35 article or any of its containers or wrappers, or accompanying such article.
+36 (24) “Manufactured-protein food product” means a cultivated-protein food product,
+37 insect-protein food product or plant-protein food product.
+38 (25) “Meat” has the meaning given that term in ORS 619.010.
+39 (26) “Meat animal” has the meaning given that term in ORS 619.010.
+40 (27) “Meat product” has the meaning given that term in ORS 619.010.
+41 [(16)] (28) “Package” means any container or wrapping in which any consumer commodity is
+42 enclosed for use in the delivery or display of that consumer commodity to retail purchasers, but does
+43 not include:
+44 (a) Shipping containers or wrappings used solely for the transportation of any consumer com-
+45 modity in bulk or in quantity to manufacturers, packers or processors, or to wholesale or retail
+[3]
+
+SB 1577
+1 distributors thereof; or
+2 (b) Shipping containers or outer wrappings used by retailers to ship or deliver any commodity
+3 to retail customers if such containers and wrappings bear no printed matter pertaining to any par-
+4 ticular commodity.
+5 [(17)] (29) “Pesticide chemical” means any substance which, alone, in chemical combination or
+6 in formulation with one or more other substances is a “pesticide” as defined in ORS 634.006.
+7 (30) “Plant-protein food product” means a food product that has one or more sensory
+8 attributes that resemble a type of tissue found in a species of meat animal but that, in lieu
+9 of being derived from processing meat, is derived from processing plant parts.
+10 [(18)] (31) “Principal display panel” means that part of a label that is most likely to be displayed,
+11 presented, shown or examined under normal and customary conditions of display for retail sale.
+12 (32) “Qualifying egg term” means a word, compound word or phrase that clearly discloses
+13 that a food product is not an egg product from eggs, such as “cell-cultivated,”
+14 “cell-cultured,” “egg-free,” “fake,” “grown in a lab,” “imitation,” “insect-based,” “lab-
+15 created,” “lab-grown,” “plant,” “plant-based,” “vegan,” “vegetable,” “vegetarian” or
+16 “veggie.”
+17 (33) “Qualifying meat term” means a word, compound word or phrase that clearly dis-
+18 closes that a food product is not a meat product from a meat animal, such as “cell-
+19 cultivated,” “cell-cultured,” “egg-free,” “fake,” “grown in a lab,” “imitation,”
+20 “insect-based,” “lab-created,” “lab-grown,” “plant,” “plant-based,” “vegan,” “vegetable,”
+21 “vegetarian” or “veggie.”
+22 [(19)] (34) “Raw agricultural commodity” means any food in its raw or natural state, including
+23 all fruits that are washed, colored, or otherwise treated in their unpeeled natural form prior to
+24 marketing.
+25 SECTION 2. ORS 616.250 is amended to read:
+26 616.250. A food shall be deemed to be misbranded:
+27 (1) If its labeling is false or misleading in any particular, or fails to conform to ORS 616.325.
+28 (2) If it is offered for sale under the name of another food.
+29 (3) If it is an imitation of another food, unless its label bears in type of uniform size and prom-
+30 inence the word “imitation” and, immediately thereafter, the name of the food imitated.
+31 (4) If its container is so made, formed or filled as to be misleading.
+32 (5) If in package form:
+33 (a) Unless it bears a label containing:
+34 (A) The name and place of business of the manufacturer, packer or distributor; and
+35 (B) An accurate statement of the net quantity of the contents in terms of weight, measure, vol-
+36 ume or numerical count. The statement shall be separately and accurately stated upon the principal
+37 display panel of the label.
+38 (b) The same reasonable variations allowed in ORS chapter 618 shall be permitted.
+39 (c) Exemptions as to small packages shall be established by rules promulgated by the State De-
+40 partment of Agriculture.
+41 (6) If any word, statement or other information required by or under authority of ORS 616.205
+42 to 616.295 to appear on the label or labeling is not prominently placed thereon with such
+43 conspicuousness, as compared with other words, statements, designs or devices, in the labeling, and
+44 in such terms as to render it likely to be read and understood by the ordinary individual under
+45 customary conditions of purchase and use.
+[4]
+
+SB 1577
+1 (7) If it purports to be or is represented as a food for which a definition and standard of identity
+2 has been prescribed by rule as provided by ORS 616.230, unless it conforms to such definition and
+3 standard and its label bears the name of the food specified in the definition and standard, and, in
+4 so far as may be required by such rule, the common names of optional ingredients, other than spices,
+5 flavoring and coloring present in such food.
+6 (8) If it purports to be or is represented as a food for which a standard of quality has been
+7 prescribed by rule as provided by ORS 616.230 and its quality falls below the standards such rule
+8 specifies, a statement that it falls below such standard.
+9 (9) If it is a food for which a standard or standards of fill of container have been prescribed by
+10 rule as provided by ORS 616.230, and it falls below the standard of fill of container applicable
+11 thereto, unless its label bears, in such manner and form as such rule specifies, a statement that it
+12 falls below such standard.
+13 (10) If it is not subject to the provisions of subsection (7) of this section, unless its label bears:
+14 (a) The common or usual name of the food, if any there be; and
+15 (b) In case it is fabricated from two or more ingredients, the common or usual name of each such
+16 ingredient.
+17
+18 However, spices, flavorings and colorings, other than those sold as such, may be designated as
+19 spices, flavorings and colorings, without naming them. To the extent that compliance with the re-
+20 quirements of paragraph (b) of this subsection is impractical or results in deception or unfair com-
+21 petition, exemptions shall be established by rule promulgated by the department.
+22 (11) If it purports to be or is represented for special dietary uses, unless its label bears such
+23 information concerning its vitamin, mineral and other dietary properties as the department deter-
+24 mines to be, and by rule prescribed as, necessary in order to fully inform purchasers as to its value
+25 for such uses.
+26 (12) If it bears or contains any artificial flavoring, artificial coloring or chemical preservative,
+27 unless it bears labeling stating that fact. To the extent that compliance with the requirements of this
+28 subsection is impracticable, exemptions shall be established by rule promulgated by the department.
+29 This subsection and subsections (7) and (10) of this section with respect to artificial coloring do not
+30 prohibit the use of harmless coloring matter in butter, cheese or ice cream. The provisions of this
+31 subsection with respect to chemical preservatives do not apply to a pesticide chemical when used
+32 in or on a raw agricultural commodity which is the product of the soil.
+33 (13) If it is a raw agricultural commodity which is the product of the soil, bearing or containing
+34 a pesticide chemical applied after harvest, unless the shipping container of such commodity bears
+35 labeling which declares the presence of such chemical in or on such commodity and the common or
+36 usual name and the function of such chemical. However, no such declaration is required while such
+37 commodity, having been removed from the shipping container, is being held or displayed for sale at
+38 retail out of such container in accordance with the custom of the trade.
+39 (14) If following the labeled directions or instructions on the product in using it as a food in-
+40 gredient will result in the final food being adulterated or misbranded.
+41 (15) If it is a color additive, unless its packaging and labeling are in conformity with the pack-
+42 aging and labeling requirements applicable to such color additive prescribed under the provisions
+43 of the federal Act.
+44 (16) If it has been salvaged, unless it bears labeling or notification stating that fact. For the
+45 purposes of this subsection, “salvaged” means the reconditioning, repacking, relabeling, cleaning or
+[5]
+
+SB 1577
+1 culling of foods that have been damaged or adulterated as a result of fire, storm, flood, water, smoke,
+2 chemicals, radiation or commercial transit accident.
+3 (17) If it is a fabricated-egg food product that bears labeling that:
+4 (a) Contains an identifying egg term; and
+5 (b) Does not contain a conspicuous and prominent qualifying egg term in close proximity
+6 to the identifying egg term.
+7 (18) If it is a manufactured-protein food product that bears labeling that:
+8 (a) Contains an identifying meat term; and
+9 (b) Does not contain a conspicuous and prominent qualifying meat term in close prox-
+10 imity to the identifying meat term.
+11 SECTION 3. The amendments to ORS 616.205 and 616.250 by sections 1 and 2 of this 2026
+12 Act apply to food products that are sold or offered for sale on or after the effective date of
+13 this 2026 Act.
+14
+[6]
+
+[DELETED:  B 1 R H J L B P H R S S G W c b t L A I i a e b s o t e f o t.T T A s t f m w p i o l a m f p t b a l s t t f A u i O 6 t 6 u t c c i a d “ i a o d w o w i o f c o i “ a d n i a m t h b e u t f t g o o n p “ c m a f a d b O 6 t 6 6 t 6 6 a:M[]]
+[DELETED: B1 a a f a m b n b a r m f a f o i s d f p m i d f a p f m c] A d s i t s t h d b i t d i;o] I i t s c f i t d o h a c a d;a]]] h c o f f d a] ( “ a m a i i b a c o o a t c o a f i a s i f u i p p p p t p t o h f a e t e i s a]
+[DELETED: B1 A] A r b s o p u o i f u o o f s c m p f p d h ogf a u i c o t b o t e T S D s i a c o w o p u i o a p o ] “ f p m a f p t]( “ m a d o w p o g m u t i 6 6 6] ( “ m a l a o w p o g m u a “ f p m a c f p] ( “ m a c o w i w a c c iti S c o w u s f t t o a c c i b o i q t m p o p o t w o r]
+[DELETED: B1 S c o o w] ( “ c m a “ f p m a f p t h o o m s]( a f p i n a e p f e s as“ “ “ “ i a l “ “ “ “ “ “ “ “ “ o “ m t m a w c w o t a f p i n a m p f a m a s a “ “ “ “ “ i a l “ “ “ “ “ “ “] f t a w c o o t i t u n f p t 6 t a o t l o l i n p p t w s s t a t r i l t b r a u b t o i u]
+[DELETED: B1 b p b n o t f s i t d a s a i I i p t b o i r a a f f w a s o q h b O 6 a i q f b t s s r a p b O 6 a i f b t s o f o c a i s f a c o t t s a s m b d a a c w n t T t e t c w t r I i p t b o i r f s d u u i l b s c i v m a o d p a t d d I i b p o t w r t c p d n a t a p c a a h u t s c o s c b I f t l d o i o t p i u i a a l r a t s c a p u t p b s u i b l o n s t f F t]
+[DELETED: B1 c a c a p q m t i c p.T]
