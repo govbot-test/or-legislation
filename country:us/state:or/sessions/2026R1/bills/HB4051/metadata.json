@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4051",
+  "title": "Relating to first-time homeownership; declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Creates a program for deferred loans to first-time home buyers in an amount not greater than the lesser of the closing costs on the purchase or one percent of the purchase price. Makes the deferred loans repayable when the home changes ownership, is no longer the homestead of the borrower or, if the home is mobile, is moved out of state. Retires the program after three years. Declares an emergency, effective on passage."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4051"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "E. Werner Reschke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"E. Werner Reschke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christine Drazan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Christine Drazan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anna Scharf",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anna Scharf\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4051/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4051",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

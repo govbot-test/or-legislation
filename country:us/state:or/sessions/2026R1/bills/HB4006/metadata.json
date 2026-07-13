@@ -1,0 +1,56 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4006",
+  "title": "Relating to water rights with points of diversion between river miles 252 and 303 on the Columbia River.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Authorizes holders of certain Columbia River water rights to change the point of diversion or use the water right on land to which the right is not appurtenant, provided certain conditions are met. Exempts certain Columbia River water rights from the application requirements for a change to the use of the water right, provided certain conditions are met. Exempts the irrigation systems of intergovernmental entities, with respect to certain water rights, from the application of certain laws pertaining to irrigation ditches and reservoirs. Authorizes the Mid-Columbia Water Commission to participate in the district water rights mapping process, with respect to certain water rights. Requires the commission to report to the Legislative Assembly on the effects of this Act for a period of 10 years."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4006"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4006/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4006",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

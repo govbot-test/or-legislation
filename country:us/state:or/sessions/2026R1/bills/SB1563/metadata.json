@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "SB1563",
+  "title": "Relating to civil rights; prescribing an effective date.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Allows a person who has been deprived of rights, privileges or immunities secured by the Oregon Constitution or the laws of this state by a person acting under color of law to bring a civil action for economic and noneconomic damages and for injunctive or other equitable relief. Provides for the award of attorney fees and costs to a prevailing plaintiff, or to a prevailing defendant if the court finds that a plaintiff's claim was frivolous, unreasonable or without foundation. Takes effect on the 91st day following adjournment sine die."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-sb1563"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Cedric Hayden",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cedric Hayden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bruce Starr",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bruce Starr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ed Diehl",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ed Diehl\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1563/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1563",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

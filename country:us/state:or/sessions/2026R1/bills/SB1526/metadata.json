@@ -1,0 +1,56 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "SB1526",
+  "title": "Relating to the facilitation of projects.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Requires the State Department of Energy to apply for grant moneys from the State Agency Program Fund to cover the costs and expenses of carrying out pre-startup activities and forming a nonprofit entity. Allows the department to also apply for moneys from other sources. Directs the department to carry out pre-startup activities, including recruiting and convening a founding board, if the department secures sufficient grant moneys. Directs the founding board to form a nonprofit entity for the purpose of financing clean energy and resilience projects. Requires the entity to report annually to the appropriate committees or interim committees of the Legislative Assembly. Directs the Oregon Business Development Department and the State Department of Energy to work with the entity."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-sb1526"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1526/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1526",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:19Z"
+  }
+}

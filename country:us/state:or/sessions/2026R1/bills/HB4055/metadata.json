@@ -1,0 +1,56 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4055",
+  "title": "Relating to information security; declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Requires a local government, local service district or special government body to notify and submit a report to the State Chief Information Officer within 48 hours of an information security incident or ransomware incident. Prescribes the information that a public body is required to report. Directs the State Chief Information Officer to establish a reporting system that allows a public body to submit a notification or report in a timely, secure and confidential manner. Directs the State Chief Information Officer to create a webpage to provide instructions on how to provide notification and submit a report. Requires the State Chief Information Officer to provide an annual report to the Governor and the Joint Legislative Committee on Information Management and Technology on the information security incidents and ransomware incidents reported for the preceding year. Exempts information security incident or ransomware incident reports from disclosure under public records laws and allows for the sharing of information under certain circumstances. Becomes operative July 1, 2026. Declares an emergency, effective on passage."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4055"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4055/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4055",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

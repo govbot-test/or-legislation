@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4145",
+  "title": "Relating to firearms; declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Modifies the firearm permit provisions of Ballot Measure 114 (2022). Specifies where a person may apply for a permit to purchase a firearm and adds an eligibility requirement. Provides that information obtained during the application process and during the criminal background check and maintained within the database of permit holders is exempt from disclosure as a public record. Extends the time, from 30 to 60 days from receipt of the application, by which a permit agent must issue a permit to a qualified applicant or mail reasons for a denial in writing to the applicant. Increases the maximum fee that may be charged for an initial application for and renewal of a permit. Specifies the portion of the fee payable to the Department of State Police for conducting a criminal background check. Establishes alternatives to a firearms training course or class that may be used to satisfy the requirement of proof of completion of a firearm safety course for the permit. Provides that permits are not required for firearm transfers until January 1, 2028. Establishes an exception to the permit requirement for certain active and retired law enforcement officers. Modifies the affirmative defense language for the large capacity magazine provisions of Ballot Measure 114 (2022). Provides that a person may not be prosecuted for prohibited conduct occurring while enforcement of the provisions is enjoined by a court. Provides that gun dealers and manufacturers have 180 days after entry of an appellate judgment reversing or vacating the injunction to take certain actions concerning large capacity magazines. Provides that a challenge to the legality of the Act must be commenced in the Circuit Court for Marion County. Declares an emergency, effective on passage."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4145"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Jason Kropf",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jason Kropf\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dacia Grayber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dacia Grayber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "April Dobson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"April Dobson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Fragala",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Fragala\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Floyd Prozanski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Floyd Prozanski\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4145/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4145",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

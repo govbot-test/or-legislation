@@ -1,0 +1,56 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "SB1540",
+  "title": "Relating to property insurance; prescribing an effective date.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Requires an insurer that uses a catastrophe model or wildfire risk model to provide the Director of the Department of Consumer and Business Services a description of each model, along with related information, and an explanation of how the insurer uses the model in underwriting decisions. Specifies elements that an insurer must include in each model and requires the insurer to give a premium discount or adjustment, or other incentive, to a policy holder that demonstrates having undertaken a property-specific mitigation action or that a community-level mitigation action occurred in proximity to the policy holder's property. Requires an insurer to post on the insurer's website, and provide to an applicant for insurance or a policy holder seeking a renewal, information about premium discounts or adjustments, or other incentives, that are available to applicants or policy holders that undertake a property-specific mitigation action or demonstrate that a community-level mitigation action occurred in proximity to the applicant's or policy holder's property. Permits an applicant or policy holder to appeal an insurer's classification of the applicant's or policy holder's property or to dispute the amount of a premium discount or adjustment or other incentive the insurer provides. Takes effect on the 91st day following adjournment sine die."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-sb1540"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1540/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1540",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

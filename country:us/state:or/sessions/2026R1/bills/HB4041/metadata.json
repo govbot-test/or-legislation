@@ -1,0 +1,56 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4041",
+  "title": "Relating to public safety.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Directs the Department of Justice to study whether legislative changes are needed concerning credit for time served and post-conviction relief petitions based on nonunanimous jury verdicts. Directs the department to submit findings to the interim committees of the Legislative Assembly related to the judiciary no later than September 15, 2027. Sunsets on January 2, 2028. Provides that a person commits the crime of criminal mistreatment in the first degree if the person exposes another person to an unlawful controlled substance in a specified manner. Punishes by a maximum of five years' imprisonment, $125,000 fine, or both. Requires the recording of a presentation of facts to the court by a grand jury for the purpose of receiving further instruction. Removes the requirement that the state consent to the entry of a conditional plea of guilty or no contest. Authorizes the court to enter a judgment of conviction for a Class A violation instead of a misdemeanor in specified circumstances. Increases the dollar amounts in specified property crimes that serve as a minimum value amount of damages or stolen property or as a threshold between offense levels of the crime."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4041"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4041/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4041",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4009",
+  "title": "Relating to transportation; prescribing an effective date.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Digest: The Act would phase in a mandatory per-mile road usage charge for owners and lessees of electric and hybrid cars and delivery vans engaged in e-commerce. The Act would allow a flat annual fee in lieu of the per-mile road usage charge. The Act would have ODOT biennially recommend a rate for the per-mile road usage charge that would raise the money needed to keep up the highways in this state. Phases in a mandatory per-mile road usage charge for registered owners and lessees of electric and hybrid passenger vehicles and delivery vehicles engaged in e-commerce. Allows an annual flat fee in lieu of the mandatory per-mile road usage charge. Requires the Department of Transportation to submit a biennial report to the Legislative Assembly recommending a rate for the per-mile road usage charge that would sustainably raise the revenue necessary to maintain the public highways in this state. Prohibits the Department of Environmental Quality from providing certain zero-emission and electric vehicle rebates for a period of time. Limits the charge ahead rebate to one per household. Takes effect on the 91st day following adjournment sine die."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4009"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4009/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4009",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

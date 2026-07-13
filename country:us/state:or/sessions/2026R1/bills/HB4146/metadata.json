@@ -1,0 +1,65 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4146",
+  "title": "Relating to alcohol; prescribing an effective date; providing for revenue raising that requires approval by a three-fifths majority.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Defines \"craft low-proof spirit distiller\" and \"low-proof spirit beverage.\" Allows the Oregon Liquor and Cannabis Commission to issue a craft low-proof spirit distiller endorsement to certain distillery licensees. Directs the commission to issue a low-proof spirit beverage endorsement to the holder of an off-premises sales license for a premises that is greater than 4,000 square feet. Directs the commission to establish a craft brewery and distillery marketing and economic development grant program to support the craft brewery and distillery industry. Establishes the Craft Brewery and Distillery Marketing and Economic Development Grant Program Fund in the State Treasury. Imposes a tax on low-proof spirit beverages. Takes effect on the 91st day following adjournment sine die."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4146"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Jason Kropf",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jason Kropf\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4146/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4146",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

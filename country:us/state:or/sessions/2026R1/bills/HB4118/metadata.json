@@ -1,0 +1,65 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4118",
+  "title": "Relating to food; declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Requires the Department of Human Services to provide replacement supplemental nutrition assistance benefits if a recipient's benefits are stolen through electronic theft. Requires the Department of Human Services to report to the Legislative Assembly about underutilization of the temporary assistance for needy families program. Requires the Oregon Health Authority to report to the Legislative Assembly about underutilization of the Women, Infants and Children Program. Requires the Hunger Task Force to study food wasted by grocery stores, farms and schools and submit a report to the Legislative Assembly. Sunsets January 2, 2028. Requires the Hunger Task Force to study food deserts and programs that provide food in this state and submit a report to the Legislative Assembly. Sunsets January 2, 2028. Declares an emergency, effective on passage."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4118"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Andrea Valderrama",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Andrea Valderrama\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4118/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4118",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4090",
+  "title": "Relating to county vehicle registration fees; prescribing an effective date.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Authorizes a county with a population of 700,000 or more to, by ordinance, identify zones within the county where the Department of Transportation has estimated that median household income is less than $____ and to reduce or eliminate county registration fees within those zones. Authorizes a county with a population of 700,000 or more to establish a regional allocation plan and allocate county registration fee revenues derived from sub-areas identified in the plan to specific transportation projects within those sub-areas. Requires counties that adopt fee reduction or elimination ordinances or regional allocation plans to annually report to affected cities and to the Legislative Assembly on specified effects of these decisions. Takes effect on the 91st day following adjournment sine die."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4090"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Ricki Ruiz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ricki Ruiz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Gorsek",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chris Gorsek\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4090/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4090",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:19Z"
+  }
+}

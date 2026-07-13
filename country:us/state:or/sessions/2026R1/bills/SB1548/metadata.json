@@ -1,0 +1,56 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "SB1548",
+  "title": "Relating to marijuana; prescribing an effective date.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Requires cannabinoid edibles to be individually packaged and allows up to 10 milligrams of adult use cannabinoid per individual cannabinoid edible. Requires cannabinoid edibles and other cannabinoid products to be packaged in a manner that is tailored judiciously to the specific purpose of protecting minors from the negative health effects of unlawfully using cannabinoids edibles and other cannabinoid products. Allows local governments to establish buffer zones of more than 1,000 feet around adult use cannabis and medical marijuana operations in the interest of public health and safety. Becomes operative January 1, 2027. Requires the Oregon Liquor and Cannabis Commission to adopt rules to require that marijuana items and inhalant delivery systems that contain industrial hemp-derived cannabinoids bear a label, or include an insert, describing certain risks of using marijuana items and inhalant delivery systems that contain industrial hemp-derived cannabinoids. Becomes operative July 1, 2027. Takes effect on the 91st day following adjournment sine die."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-sb1548"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1548/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1548",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:19Z"
+  }
+}

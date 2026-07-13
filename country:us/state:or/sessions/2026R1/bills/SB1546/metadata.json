@@ -1,0 +1,56 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "SB1546",
+  "title": "Relating to artificial intelligence companions.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Requires operators of artificial intelligence companions and artificial intelligence platforms to provide notice to users that the users are interacting with artificial output. Requires the operators to have in place a protocol for detecting suicidal ideation or intent or self-harm ideation or intent and to prevent output that could cause such ideation or intent in users. Specifies minimum contents of the protocol. Requires an operator to make certain statements and disclosures if the operator has reason to believe that a user that interacts with the operator's artificial intelligence companion or artificial intelligence platform is a minor and prohibits the operator from causing the artificial intelligence companion to perform certain actions. Requires an operator to report each year to the Oregon Health Authority concerning incidents in which the operator referred a user to resources to prevent suicidal ideation, suicide or self-harm. Allows a user that suffers ascertainable harm to bring an action for damages and injunctive relief."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-sb1546"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1546/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1546",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

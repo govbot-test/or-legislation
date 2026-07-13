@@ -1,0 +1,56 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4039",
+  "title": "Relating to medical assistance; declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Requires the Oregon Health Authority to develop a transparent and data-driven process for developing capitation rates for coordinated care organizations. Requires the Oregon Health Policy Board to establish a process for public review of and comment on the authority's rate development process. Requires the authority to commission an independent review of the current rate development process and report back to the Legislative Assembly. Requires the authority to prepare a medical assistance cost impact statement before adopting rules other than procedural rules. Prohibits the authority from adopting a new rule, program or contractual requirement that will cost $1 million or more during a biennium. Sunsets on January 2, 2028. Imposes a three-year moratorium on the requirement for a coordinated care organization to spend a portion of the organization's annual net income or reserves on addressing health disparities and the social determinants of health. Declares an emergency, effective on passage."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4039"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4039/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4039",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

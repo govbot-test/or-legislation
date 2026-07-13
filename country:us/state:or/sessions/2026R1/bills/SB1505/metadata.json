@@ -1,0 +1,56 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "SB1505",
+  "title": "Relating to the Home and Community-Based Services Workforce Standards Board.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Establishes the Home and Community-Based Services Workforce Standards Board. Prescribes the duties of the board. Directs the board to establish minimum working standards for the home and community-based services workforce. Requires the board to take certain actions before adopting proposed minimum standards. Directs certain state agencies to conduct a fiscal impact analysis to determine whether a proposed minimum standard will increase the fiscal obligations of the state, including an increase in Medicaid reimbursement rates. Requires the board to report to the Legislative Assembly and to the Governor the increase in funding needed to implement the standard. Provides that a rule establishing a minimum standard may not take effect before the Legislative Assembly has appropriated funding and the board has received approval from the Centers for Medicare and Medicaid Services, if applicable. Permits the Bureau of Labor and Industries to conduct investigations, issue subpoenas, administer oaths, obtain evidence and take testimony to make determinations regarding implementation and compliance with the minimum standards established by the board. Provides remedies for allegations of violations of the minimum standards established by the board. Clarifies that relief may be sought for alleged violations no sooner than 90 days after a rule establishing a minimum standard takes effect. Requires the board to conduct a quadrennial comprehensive review, including a labor market analysis to inform the board's decisions to adopt new minimum standards or revise existing standards. Requires the board to submit a biennial report to the Governor and the Legislative Assembly summarizing the results of the comprehensive review and any actions taken by the board in the prior biennium. Requires the online registry administered by the Department of Human Services to include workers from the home and community-based services workforce. Requires that any public hearing conducted by the board be accessible through electronic or virtual means, if possible. ."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-sb1505"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1505/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1505",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

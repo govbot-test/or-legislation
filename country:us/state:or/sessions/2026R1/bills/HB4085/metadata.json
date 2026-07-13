@@ -1,0 +1,121 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4085",
+  "title": "Relating to autonomous vehicles.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Allows a person to operate an autonomous vehicle with the automated driving system engaged without a grant of driving privileges if certain conditions are met. Requires an automated driving system to be able to achieve a minimal risk condition or issue a request to intervene. Requires an autonomous vehicle to operate in compliance with state vehicle laws and comply with federal safety standards. Provides for exemptions. Allows the Department of Transportation to grant an autonomous vehicle that operates exclusively by an automated driving system and without an onboard driver an exemption to any state equipment requirement. Requires a person operating an autonomous vehicle that is involved in a collision that results in damages to property to perform certain duties. Exempts a person operating an autonomous vehicle from other certain duties of a driver. Prescribes financial responsibility requirements for a person operating an autonomous vehicle. Authorizes a person to operate an autonomous vehicle for the purpose of transporting persons or property for hire if the person provides certain information to the department and provides a first responder interaction plan. Prescribes that authorization does not expire unless suspended or revoked. Exempts autonomous vehicles and on-demand autonomous vehicle networks from provisions related to motor carriers. Prohibits local governments from regulating, imposing a tax or fee on or requiring a license or permit for on-demand autonomous vehicle networks. Prohibits local governments from prohibiting or regulating the operation of autonomous vehicles or on-demand autonomous vehicle networks."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4085"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Susan McLain",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Susan McLain\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shelly Boshart Davis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shelly Boshart Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "April Dobson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"April Dobson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hai Pham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hai Pham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Gorsek",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Gorsek\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Meek",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Meek\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Reynolds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Reynolds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bruce Starr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bruce Starr\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4085/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4085",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

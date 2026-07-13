@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4139",
+  "title": "Relating to cannabis; prescribing an effective date; providing for revenue raising that requires approval by a three-fifths majority.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Defines \"container\" and \"industrial hemp-derived cannabinoid product.\" Changes the definition of \"adult use cannabis item.\" Imposes a retail sales tax on industrial hemp-derived cannabinoid products. Directs the Oregon Liquor and Cannabis Commission to immediately suspend a license to produce marijuana for specified reasons. Directs the commission to inspect a premises licensed by the commission without advance notice for specified reasons and to request that law enforcement accompany the commission to the premises. Requires the State Department of Agriculture to complete a criminal records check on an applicant for an industrial hemp handler license. Requires an applicant for an industrial hemp grower license to provide a land use compatibility statement and information related to land ownership to the department. Directs the department to inspect a premises licensed by the department without advance notice for specified reasons and to request that law enforcement accompany the department to the premises. Takes effect on the 91st day following adjournment sine die."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4139"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Kim Wallan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kim Wallan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pam Marsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pam Marsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Reynolds",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lisa Reynolds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Lewis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rick Lewis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emily McIntire",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily McIntire\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4139/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4139",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4040",
+  "title": "Relating to health care; declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Modifies the requirements for screening a hospital patient for presumptive eligibility for financial assistance. Prohibits the Oregon Health Authority from requiring certain home health agencies to comply with Medicare conditions of participation. Modifies the requirements for how the Department of Human Services must publish Residential Care Quality Measurement Program data. Removes the requirement that an applicant for a residential care facility administrator license hold a bachelor's degree in a health or social service related field. Allows a person residing in a correctional facility to receive prerelease medical assistance benefits under certain circumstances. Prohibits the authority or a coordinated care organization from requiring prior authorization for medical assistance coverage for repairing complex rehabilitation technology if the repair costs $1,500 or less. Modifies the requirements for meetings held by the Health Evidence Review Commission. Modifies the composition of the Medicaid Advisory Committee. Modifies the eligibility requirements for parent providers who are paid to provide attendant care services to their children. Prohibits a coordinated care organization or dental subcontractor from preventing an oral health care provider from informing consumers about their choice of providers. Allows a full-time dentistry student enrolled in an out-of-state dental education program to practice dentistry without a license if the student is supervised by a faculty member of a dental education program accredited by the Commission on Dental Accreditation of the American Dental Association. Requires casualty or health insurance policies to provide coverage for medically necessary anesthesia services, regardless of duration, for any covered procedures. Requires dental insurers to follow certain rules for payment and denial of claims. Requires the Legislative Policy and Research Director to develop and propose to the Legislative Policy and Research Committee an insurance coverage mandate impact statement policy. Directs the committee to perform due diligence in considering the proposal and authorizes the committee to modify the proposal if the committee so determines, and then to adopt the policy. Repeals requirement that enrollees in individual or group policies or certificates of health insurance or members of coordinated care organizations be assigned by insurer or organization to primary care providers under certain circumstances. Specifies exemptions from the requirement that pharmacy services administrative organizations must register with the Department of Consumer and Business Services as third party administrators. Provides that the Governor shall select the chairperson of the Prescription Drug Affordability Board. Allows licensees of the Occupational Therapy Licensing Board and the Oregon Board of Physical Therapy to provide psilocybin services as licensed psilocybin service facilitators while providing occupational therapy or physical therapy services. Authorizes a naturopathic physician to prescribe durable medical equipment and admit a patient to a hospital. Lowers the age at which a naturopathic physician may request a retired license status from 70 years of age to 60 years of age. Includes nurse practitioners and physician associates in the definition of \"attending physician\" for purposes of the treatment of workers' compensable injuries. Declares an emergency, effective on passage."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4040"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4040/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4040",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

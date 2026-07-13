@@ -1,0 +1,56 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4007",
+  "title": "Relating to transportation.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Defines \"powered micromobility device\" for the vehicle code. Consolidates and makes uniform standards for wearing protective headgear for children under 16 years of age when riding or using a bicycle, electric assisted bicycle, motor assisted scooter, powered micromobility device and certain nonmotorized vehicles. Lowers the age requirement to operate a Class 1 electric assisted bicycle. Provides that there is no minimum age requirement to operate a Class 1 or Class 2 electric assisted bicycle if the person is participating in a bicycle safety program. Lowers age requirement to operate motor assisted scooter. Creates offense of improper sale or lease of a vehicle. Punishes by maximum fine of $250. Creates offense of selling an impostor vehicle. Punishes by maximum fine of $250. Directs the Department of Transportation to establish a five-year pilot program that allows vehicles to haul fluid milk products with a loaded weight of not more than 129,000 pounds on routes approved by the department. Directs the department to conduct a study and prepare a report on the results of the pilot program."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4007"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4007/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4007",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:20Z"
+  }
+}

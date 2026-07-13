@@ -1,0 +1,56 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "HB4061",
+  "title": "Relating to a unified trade strategy for Oregon; declaring an emergency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Digest: The Act would have Business Oregon work with other state and local bodies to update the state's unified trade strategy. The Act would have DAS make a procurement reform roadmap by December 15 of this year. The Act would set up a task force to advise on how to retain business and private investment in this state. (Flesch Readability Score: 61.3.) Directs the Oregon Business Development Department to collaborate with the Port of Portland, the Oregon Tourism Commission, the State Department of Agriculture and other stakeholders on updating the unified trade strategy for Oregon. Directs the Oregon Department of Administrative Services to produce a procurement reform roadmap and deliver the roadmap to a committee or interim committee of the Legislative Assembly related to general government no later than December 15, 2026. Establishes the Task Force on Business Retention for the purpose of making recommendations to the Legislative Assembly for improving strategies to retain businesses and private investment in this state. Declares an emergency, effective on passage."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-hb4061"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4061/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4061",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:05:19Z"
+  }
+}
