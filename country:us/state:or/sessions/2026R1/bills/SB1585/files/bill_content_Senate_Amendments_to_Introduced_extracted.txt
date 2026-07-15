@@ -1,0 +1,686 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Senate Amendments to Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SENATE AMENDMENTS TO
+SENATE BILL 1585
+By COMMITTEE ON COMMERCE AND GENERAL GOVERNMENT
+February 17
+1 On page 1 of the printed bill, line 2, after “cities;” insert “creating new provisions; amending
+2 ORS 184.742, 285B.420, 285B.421, 367.082, 367.093, 541.561 and 541.666;”.
+3 Delete lines 4 through 27 and delete page 2 and insert:
+4 “SECTION 1. ORS 184.742 is amended to read:
+5 “184.742. (1) The Oregon Transportation Commission may provide matching grants under this
+6 section for safety improvement projects near schools.
+7 “(2) To qualify for a matching grant an applicant shall:
+8 “(a) Demonstrate that a project fits within the applicable plan developed pursuant to ORS
+9 195.115;
+10 “(b) Provide a cash match [of at least 40 percent of the project’s costs] in an amount determined
+11 under subsection (3) of this section; and
+12 “(c) Provide any other information required by the commission.
+13 “(3)(a) Except as provided in paragraphs (b) and (c) of this subsection, an applicant shall
+14 provide a cash match of at least 40 percent of the project’s total costs.
+15 “(b) Incorporated cities with a population not greater than 20,000 shall provide cash
+16 matches on the following terms, based on population according to the most recent federal
+17 decennial census:
+18 “(A) An incorporated city with a population not greater than 5,000 may be required to
+19 provide a cash match of not greater than:
+20 “(i) Three percent of project costs of $100,000 or less.
+21 “(ii) Five percent of project costs greater than $100,000.
+22 “(B) An incorporated city with a population greater than 5,000 but not greater than 7,500
+23 may be required to provide a cash match of not greater than seven percent of the project’s
+24 costs.
+25 “(C) An incorporated city with a population greater than 7,500 but not greater than 10,000
+26 may be required to provide a cash match of not greater than nine percent of the project’s
+27 costs.
+28 “(D) An incorporated city with a population greater than 10,000 but not greater than
+29 20,000 may be required to provide a cash match of not greater than 12 percent of the
+30 project’s costs.
+31 “(c) [Notwithstanding subsection (2) of this section, by rule,] The commission may reduce the
+32 amount [the] an applicant must provide for a cash match.
+33 “(d) Notwithstanding any other provision of law restricting the use of the grant award
+34 moneys, incorporated cities with a population not greater than 20,000 may use grant moneys
+35 awarded for capital construction or municipal infrastructure for all phases of a funded
+LC 133/SB 1585-2
+1 project in addition to construction, including, but not limited to, engineering, planning and
+2 support.
+3 “(4) The commission shall prioritize the expenditure of funds as authorized under this section
+4 for projects that are located within a two-mile radius of a school that serves students in
+5 prekindergarten, kindergarten or grades 1 through 12, or any combination of those grade levels.
+6 “(5) The matching grants shall be used to reduce barriers and hazards to children walking or
+7 bicycling to and from school, including but not limited to safety improvement projects that:
+8 “(a) Improve sidewalks;
+9 “(b) Reduce vehicle speeds;
+10 “(c) Improve pedestrian and bicycle crossings; or
+11 “(d) Create or improve bicycle lanes.
+12 “(6) The commission may adopt rules specifying the application process and the selection crite-
+13 ria that will be used in awarding matching grants.
+14 “SECTION 2. ORS 367.082 is amended to read:
+15 “367.082. (1) Except as provided in subsection (2) of this section, the Department of Transpor-
+16 tation may provide, from moneys in the Connect Oregon Fund established under ORS 367.080, grants
+17 for transportation projects to public bodies, as defined in ORS 174.109, and to private entities.
+18 “(2) Grants may not be made from the Connect Oregon Fund for transportation projects that
+19 could constitutionally be funded by revenues described in Article IX, section 3a, of the Oregon
+20 Constitution.
+21 “(3) The Department of Transportation shall adopt rules specifying the process by which a
+22 public body or private entity may apply for a grant under this section and prescribing the terms and
+23 conditions of grants.
+24 “(4) Except as provided in subsection (5) of this section, an applicant receiving a grant must
+25 provide the following amounts:
+26 “(a) For public bodies and private entities, other than Class I railroads, 30 percent of the moneys
+27 required for the transportation project.
+28 “(b) For Class I railroads, 50 percent of the moneys required for the transportation project.
+29 “(5)(a) Match amounts for grants for transportation projects awarded to incorporated
+30 cities with a population not greater than 20,000 shall be offered as follows, based on popu-
+31 lation according to the most recent federal decennial census:
+32 “(A) Incorporated cities with a population not greater than 5,000 may be required to
+33 provide match amounts of not greater than:
+34 “(i) Three percent of the moneys required for a transportation project having a project
+35 cost of $100,000 or less.
+36 “(ii) Five percent of the moneys required for a transportation project having a project
+37 cost greater than $100,000.
+38 “(B) Incorporated cities with a population greater than 5,000 but not greater than 7,500
+39 may be required to provide match amounts not greater than seven percent of the moneys
+40 required for the transportation project.
+41 “(C) Incorporated cities with a population greater than 7,500 but not greater than 10,000
+42 may be required to provide match amounts not greater than nine percent of the moneys
+43 required for the transportation project.
+44 “(D) Incorporated cities with a population greater than 10,000 but not greater than 20,000
+45 may be required to provide match amounts not greater than 12 percent of the moneys re-
+SA to SB 1585 Page 2
+1 quired for the transportation project.
+2 “(b) Notwithstanding any other provision of law restricting the use of the grant award
+3 moneys, incorporated cities with a population not greater than 20,000 may use grant moneys
+4 awarded for capital construction or municipal infrastructure for all phases of a funded
+5 project in addition to construction, including, but not limited to, engineering, planning and
+6 support.
+7 “SECTION 3. ORS 367.093 is amended to read:
+8 “367.093. (1) The Department of Transportation shall establish the Multimodal Active Trans-
+9 portation Program. The department may provide, from moneys in the Multimodal Active Transpor-
+10 tation Fund established under ORS 367.091, grants for transportation projects to public bodies and
+11 to private entities.
+12 “(2) The department shall adopt rules specifying the process by which a public body or private
+13 entity may apply for a grant under this section and prescribing the terms and conditions of grants.
+14 “(3) Except as provided in subsection (4) of this section, an applicant receiving a grant must
+15 provide 30 percent of the moneys required for the transportation project.
+16 “(4)(a) Match amounts for grants for transportation projects awarded to incorporated
+17 cities with a population not greater than 20,000 shall be offered as follows, based on popu-
+18 lation according to the most recent federal decennial census:
+19 “(A) Incorporated cities with a population not greater than 5,000 may be required to
+20 provide match amounts of not greater than:
+21 “(i) Three percent of the moneys required for a transportation project having a project
+22 cost of $100,000 or less.
+23 “(ii) Five percent of the moneys required for a transportation project having a project
+24 cost greater than $100,000.
+25 “(B) Incorporated cities with a population greater than 5,000 but not greater than 7,500
+26 may be required to provide match amounts not greater than seven percent of the moneys
+27 required for the transportation project.
+28 “(C) Incorporated cities with a population greater than 7,500 but not greater than 10,000
+29 may be required to provide match amounts not greater than nine percent of the moneys
+30 required for the transportation project.
+31 “(D) Incorporated cities with a population greater than 10,000 but not greater than 20,000
+32 may be required to provide match amounts not greater than 12 percent of the moneys re-
+33 quired for the transportation project.
+34 “(b) Notwithstanding any other provision of law restricting the use of the grant award
+35 moneys, incorporated cities with a population not greater than 20,000 may use grant moneys
+36 awarded for capital construction or municipal infrastructure for all phases of a funded
+37 project in addition to construction, including, but not limited to, engineering, planning and
+38 support.
+39 “[(3)] (5) The Oregon Transportation Commission shall select transportation projects to be
+40 funded with moneys in the Multimodal Active Transportation Fund. Before selecting bicycle and
+41 pedestrian transportation projects, the commission shall solicit recommendations from the advisory
+42 committee created by ORS 366.112.
+43 “SECTION 4. ORS 285B.420 is amended to read:
+44 “285B.420. (1)(a) The Oregon Infrastructure Finance Authority may provide financial assistance
+45 in the form of loans or grants for a levee project to:
+SA to SB 1585 Page 3
+1 “[(a)] (A) Municipalities;
+2 “[(b)] (B) Corporations or companies for drainage or flood control organized under ORS chapter
+3 554; and
+4 “[(c)] (C) For-profit or nonprofit entities and individuals engaged in the ownership, construction,
+5 inspection, accreditation, certification or repair of levees.
+6 “(b) Grants awarded under this section shall be paid from available moneys in the Levee
+7 Project Grant Fund established under ORS 285B.421.
+8 “(2) To qualify for financial assistance under this section, the municipality, corporation, com-
+9 pany, entity or individual must demonstrate, and the authority must find, that the levee project
+10 substantially contributes to the improvement, expansion or repair of the state’s or a municipality’s
+11 infrastructure system and is essential for the use or development of farm, industrial or commercial
+12 land in Oregon.
+13 “(3) Grant awards for planning projects are limited to a maximum of $2 million per ap-
+14 plicant per biennium.
+15 “(4) Except as provided in subsection (5) of this section, a grant may not be awarded
+16 unless the applicant pledges matching funds to the project of at least 20 percent of the
+17 amount of the grant award.
+18 “(5)(a) For projects to protect cities with a population not greater than 5,000, applicants
+19 may be required to provide matching funds of not greater than:
+20 “(A) Three percent of the amount of a grant award of $100,000 or less.
+21 “(B) Five percent of the amount of a grant award greater than $100,000.
+22 “(b) For projects to protect cities with a population greater than 5,000 but not greater
+23 than 7,500, applicants may be required to provide matching funds of not greater than seven
+24 percent of the amount of the grant award.
+25 “(c) For projects to protect cities with a population greater than 7,500 but not greater
+26 than 10,000, applicants may be required to provide matching funds of not greater than nine
+27 percent of the amount of the grant award.
+28 “(d) For projects to protect cities with a population greater than 10,000 but not greater
+29 than 20,000, applicants may be required to provide matching funds of not greater than 12
+30 percent of the amount of the grant award.
+31 “(e) Population shall be determined according to the most recent federal decennial cen-
+32 sus.
+33 “(f) Notwithstanding any other provision of law restricting the use of the grant award
+34 moneys, municipalities with a population not greater than 20,000 may use grant moneys
+35 awarded for capital construction or municipal infrastructure for all phases of a funded
+36 project in addition to construction, including, but not limited to, engineering, planning and
+37 support.
+38 “(6) At least 60 percent of the dollar value of grants awarded under this section for any
+39 biennium shall be used to provide assistance with levee projects to rural or distressed areas
+40 as those terms are defined in ORS 285A.010.
+41 “[(3)] (7) Levee projects that receive financial assistance under this section are subject to the
+42 provisions and requirements of ORS 285B.410 to 285B.482, if applicable.
+43 “SECTION 5. ORS 285B.421 is amended to read:
+44 “285B.421. (1) The Levee Project Grant Fund is established in the State Treasury, separate and
+45 distinct from the General Fund. Interest earned by the Levee Project Grant Fund must be credited
+SA to SB 1585 Page 4
+1 to the fund. The Levee Project Grant Fund consists of moneys deposited in the fund under section
+2 33, chapter 671, Oregon Laws 2019, and may include moneys appropriated, allocated, deposited or
+3 transferred to the fund by the Legislative Assembly or otherwise and interest earned on moneys in
+4 the fund.
+5 “(2) Moneys in the fund are continuously appropriated to the Oregon Business Development
+6 Department for the Oregon Infrastructure Finance Authority to provide grants under ORS 285B.420
+7 for levee projects [as defined in ORS 285B.410].
+8 “[(3) Grants from the fund for planning projects are limited to a maximum of $2 million per ap-
+9 plicant per biennium.]
+10 “[(4) Grants from the fund for construction or capital improvement projects may not exceed an
+11 amount equal to 80 percent of the total cost of the project.]
+12 “[(5) A grant may not be awarded from the fund unless the applicant pledges matching funds to
+13 the project of at least 20 percent of the amount of the grant.]
+14 “[(6) At least 60 percent of the dollar value of grants awarded from the fund in any biennium shall
+15 be used to provide assistance with levee projects to rural or distressed areas as those terms are defined
+16 in ORS 285A.010.]
+17 “SECTION 6. ORS 285B.421 is added to and made a part of ORS 285B.410 to 285B.482.
+18 “SECTION 7. (1) Match requirements for grants for projects described in ORS 390.135
+19 (2)(c) to incorporated cities with a population not greater than 20,000 shall be offered on the
+20 following terms, based on population according to the most recent federal decennial census:
+21 “(a) Incorporated cities with a population not greater than 5,000 may be required to
+22 provide matching funds of not greater than:
+23 “(A) Three percent of a total project cost of $100,000 or less.
+24 “(B) Five percent of a total project cost greater than $100,000.
+25 “(b) Incorporated cities with a population greater than 5,000 but not greater than 7,500
+26 may be required to provide matching funds of not greater than seven percent of the total
+27 project cost.
+28 “(c) Incorporated cities with a population greater than 7,500 but not greater than 10,000
+29 may be required to provide matching funds of not greater than nine percent of the total
+30 project cost.
+31 “(d) Incorporated cities with a population greater than 10,000 but not greater than 20,000
+32 may be required to provide matching funds of not greater than 12 percent of the total project
+33 cost.
+34 “(2) Notwithstanding any other provision of law restricting the use of the grant award
+35 moneys, incorporated cities with a population not greater than 20,000 may use grant moneys
+36 awarded for capital construction or municipal infrastructure for all phases of a funded
+37 project in addition to construction, including, but not limited to, engineering, planning and
+38 support.
+39 “SECTION 8. ORS 541.561 is amended to read:
+40 “541.561. (1) The Water Resources Department shall establish a grant program to pay the qual-
+41 ifying costs of studies performed to evaluate the feasibility of projects related to:
+42 “(a) Water conservation.
+43 “(b) Water reuse.
+44 “(c) Aquifer recharge.
+45 “(d) Aquifer storage and recovery.
+SA to SB 1585 Page 5
+1 “(e) Streamflow protection or restoration.
+2 “(f) Water storage.
+3 “(g) Other activities identified by rule by the Water Resources Commission.
+4 “(2) A grant under this section may be made to:
+5 “(a) A person, as defined in ORS 536.007.
+6 “(b) A public body, as defined in ORS 174.109.
+7 “(c) A federally recognized Indian tribe in Oregon that has members residing on a reservation
+8 or tribal trust lands in Oregon.
+9 “(d) A nonprofit organization.
+10 “(3) In lieu of grants, the department may pay the cost of providing direct services, including
+11 but not limited to technical services, for a study that is eligible for a grant under this section.
+12 “(4) Except as provided in subsection (5) of this section, a grant may be provided only if the
+13 amount of the grant is matched by an in-kind or cash cost match of not less than 25 percent of the
+14 grant amount. The commission may establish a maximum per project amount of grant funding that
+15 a project may receive or may increase the cost match for upcoming project cycles based on the
+16 availability of funds.
+17 “(5) Matching funds for grants or payments for direct services under this section
+18 awarded to incorporated cities with a population not greater than 20,000 shall be offered as
+19 follows, based on population according to the most recent federal decennial census:
+20 “(a) Incorporated cities with a population not greater than 5,000 may be required to
+21 provide matching funds in an amount not greater than:
+22 “(A) Three percent of a grant or the cost of direct services awarded in an amount of
+23 $100,000 or less.
+24 “(B) Five percent of a grant or the cost of direct services awarded in an amount greater
+25 than $100,000.
+26 “(b) Incorporated cities with a population greater than 5,000 but not greater than 7,500
+27 may be required to provide matching funds in an amount not greater than seven percent of
+28 the amount of the grant or the cost of direct services awarded.
+29 “(c) Incorporated cities with a population greater than 7,500 but not greater than 10,000
+30 may be required to provide matching funds in an amount not greater than nine percent of
+31 the amount of the grant or the cost of direct services awarded.
+32 “(d) Incorporated cities with a population greater than 10,000 but not greater than 20,000
+33 may be required to provide matching funds in an amount not greater than 12 percent of the
+34 amount of the grant or the cost of direct services awarded.
+35 “[(5)] (6) Grants and the cost of direct services provided under this section must be paid from
+36 moneys available in the Water Project Feasibility Fund.
+37 “[(6)] (7) In evaluating above ground storage projects for awards of grants or payments for di-
+38 rect services under this section, the department shall give priority to projects that include pro-
+39 visions for using stored water to augment in-stream flows to conserve, maintain and enhance aquatic
+40 life, fish life or other ecological values.
+41 “SECTION 9. ORS 541.666 is amended to read:
+42 “541.666. (1) Applications for a loan or grant from the Water Supply Development Account must:
+43 “(a) Be in a form prescribed by the Water Resources Department.
+44 “(b) Include any information required by the department.
+45 “(c) Be filed with the department.
+SA to SB 1585 Page 6
+1 “(2) The department may require an application to include the following:
+2 “(a) A description of the need, purpose and nature of the project, including what the applicant
+3 intends to complete and how the applicant intends to proceed.
+4 “(b) Sufficient information to allow evaluation of the application based upon the public benefit
+5 scoring and ranking of the project.
+6 “(c) Current contact information for the principal contact, fiscal officer and involved landown-
+7 ers.
+8 “(d) For applications involving physical changes or monitoring on private land, evidence that
+9 landowners are aware of and agree to the proposal and are aware that monitoring information is a
+10 public record.
+11 “(e) The location of the proposed project, using public land survey reference points, latitude and
+12 longitude, county, watershed, river and stream mile, if appropriate.
+13 “(f) An itemized budget for the project, including fiscal and administrative costs.
+14 “(g) A description of funds, services or materials available to the project.
+15 “(h) A project schedule, including beginning and completion dates.
+16 “(i) Any conditions that may affect the completion of the project.
+17 “(j) A completed feasibility analysis if appropriate.
+18 “(k) Suggestions for interim and long-term project performance benchmarks.
+19 “(L) Except as provided in subsection (3) of this section, if the application is for a grant,
+20 demonstrated in-kind and cash cost match of not less than 25 percent of the amount of the grant
+21 sought from the account.
+22 “(m) If the application is for a loan, evidence demonstrating ability to repay the loan and pro-
+23 vide collateral.
+24 “(n) Letters of support for the proposed project.
+25 “(o) If required by the department, a description of consultations with affected Indian tribes re-
+26 garding the project.
+27 “(p) Any other information required by the department.
+28 “(3)(a) A cost match for grants sought by incorporated cities with a population not
+29 greater than 20,000 shall be required as follows, based on population according to the most
+30 recent federal decennial census:
+31 “(A) Incorporated cities with a population not greater than 5,000 may be required to
+32 provide a cost match in an amount not greater than:
+33 “(i) Three percent of the amount of a grant sought for $100,000 or less.
+34 “(ii) Five percent of the amount of a grant sought for more than $100,000.
+35 “(B) Incorporated cities with a population greater than 5,000 but not greater than 7,500
+36 may be required to provide a cost match in an amount not greater than seven percent of the
+37 amount of the grant sought.
+38 “(C) Incorporated cities with a population greater than 7,500 but not greater than 10,000
+39 may be required to provide a cost match in an amount not greater than nine percent of the
+40 amount of the grant sought.
+41 “(D) Incorporated cities with a population greater than 10,000 but not greater than 20,000
+42 may be required to provide a cost match in an amount not greater than 12 percent of the
+43 amount of the grant sought.
+44 “(b) Notwithstanding any other provision of law restricting the use of the grant award
+45 moneys, incorporated cities with a population not greater than 20,000 may use grant moneys
+SA to SB 1585 Page 7
+1 awarded for capital construction or municipal infrastructure for all phases of a funded
+2 project in addition to construction, including, but not limited to, engineering, planning and
+3 support.
+4 “SECTION 10. This 2026 Act takes effect on the 91st day after the date on which the 2026
+5 regular session of the Eighty-third Legislative Assembly adjourns sine die.”.
+6
+SA to SB 1585 Page 8
+[DELETED:  A T p o t p b l 2 a “ i “ n p a ( T O T C m p m g u t D t a p f w t a p d p t O[] I c w a p n g t 2 s p c b o p a t t m r flc A i c w a p n g t 5 A i c w a p g t 1 b n g t m b r t p a c m o n g t 1 p o tsc [] T c m r t s ( o t s b r[] N a o p o f c c o m i f a p o a f]
+[DELETED:  i T c s p t e o f a a u t s p t a l w a t r o a s t s s i T m g s b u t r b a h t c ( E a p i s ( o t s t D G m n b m f t C O F f t p t c b f b r d i A I s 3 o t O T D o T s a r s t p b w  M a f g f t p a t i b o a f b o p I c w a p n g t 5 m b r t F p o t m r f a t p b r t p m a n g b r t p m a n g t n p o t m o t m r5P]
+[DELETED:  N a o p f c c o m i f a p o a f i ( T D o T s e t M A T P T d m M a f g f t p a t i w a p n g t 2 I c w a p n g t 5 m b r t F p o t m r f a t p b r t p m a n g b r t p m a n g t n p o t m o t m r N a o p f c c o m i f a p o a f i[] ( T O T C s s t p t b w m i t M A T F B s b a5P]
+[DELETED: [][][] T q f f a u t s t m c c e o i m d a t a m f t t l p E a p i s ( o t s a g m n b a t a p m f t t p o a l 2 p o t F p t p c w F p t p c w a 2 a m b r t p m f o n g t 1 p o l r t u o t g a m w a p n g t 2 m u g m f c c o m i f a p o a f i[] u t s a s t t5P]
+[DELETED:  c 6 O L 2 a m i m a a d o M i t f a c a t t O B D[] G f t f f c o c i p m n e a f t f u t a p m f t.O 7.( M r f g f p d i O 3 I c w a p n g t 5 m b r t f o n g t s p o t ttc b r t p m f o n g t n p o t ttc N a o p o l f c c o m i f a p o a f i5P]
+[DELETED:  A f r l o g t d m p t c o p d s i)E a p m r o m i t c m f u p c b o t M f f g o p f d s u t s I c w a p n g t 5 m b r t T p o a g o t c o d s a i a a o[] G a t c[] f d s u t s t d s g p t p t i p5P]
+[DELETED:  S i C c i f t F a i p c o m o p l e t E i t a i f a g i a c c m o n l t 2 p o t a o t g a pec A c m f g s b i c w a p n I c w a p n g t 5 m b r t b r t o t g a5P]
+[DELETED:  f c c o m i f a p o a f a.T5P]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+SENATE AMENDMENTS TO
+SENATE BILL 1585
+By COMMITTEE ON COMMERCE AND GENERAL GOVERNMENT
+February 17
+1 On page 1 of the printed bill, line 2, after “cities;” insert “creating new provisions; amending
+2 ORS 184.742, 285B.420, 285B.421, 367.082, 367.093, 541.561 and 541.666;”.
+3 Delete lines 4 through 27 and delete page 2 and insert:
+4 “SECTION 1. ORS 184.742 is amended to read:
+5 “184.742. (1) The Oregon Transportation Commission may provide matching grants under this
+6 section for safety improvement projects near schools.
+7 “(2) To qualify for a matching grant an applicant shall:
+8 “(a) Demonstrate that a project fits within the applicable plan developed pursuant to ORS
+9 195.115;
+10 “(b) Provide a cash match [of at least 40 percent of the project’s costs] in an amount determined
+11 under subsection (3) of this section; and
+12 “(c) Provide any other information required by the commission.
+13 “(3)(a) Except as provided in paragraphs (b) and (c) of this subsection, an applicant shall
+14 provide a cash match of at least 40 percent of the project’s total costs.
+15 “(b) Incorporated cities with a population not greater than 20,000 shall provide cash
+16 matches on the following terms, based on population according to the most recent federal
+17 decennial census:
+18 “(A) An incorporated city with a population not greater than 5,000 may be required to
+19 provide a cash match of not greater than:
+20 “(i) Three percent of project costs of $100,000 or less.
+21 “(ii) Five percent of project costs greater than $100,000.
+22 “(B) An incorporated city with a population greater than 5,000 but not greater than 7,500
+23 may be required to provide a cash match of not greater than seven percent of the project’s
+24 costs.
+25 “(C) An incorporated city with a population greater than 7,500 but not greater than 10,000
+26 may be required to provide a cash match of not greater than nine percent of the project’s
+27 costs.
+28 “(D) An incorporated city with a population greater than 10,000 but not greater than
+29 20,000 may be required to provide a cash match of not greater than 12 percent of the
+30 project’s costs.
+31 “(c) [Notwithstanding subsection (2) of this section, by rule,] The commission may reduce the
+32 amount [the] an applicant must provide for a cash match.
+33 “(d) Notwithstanding any other provision of law restricting the use of the grant award
+34 moneys, incorporated cities with a population not greater than 20,000 may use grant moneys
+35 awarded for capital construction or municipal infrastructure for all phases of a funded
+LC 133/SB 1585-2
+
+1 project in addition to construction, including, but not limited to, engineering, planning and
+2 support.
+3 “(4) The commission shall prioritize the expenditure of funds as authorized under this section
+4 for projects that are located within a two-mile radius of a school that serves students in
+5 prekindergarten, kindergarten or grades 1 through 12, or any combination of those grade levels.
+6 “(5) The matching grants shall be used to reduce barriers and hazards to children walking or
+7 bicycling to and from school, including but not limited to safety improvement projects that:
+8 “(a) Improve sidewalks;
+9 “(b) Reduce vehicle speeds;
+10 “(c) Improve pedestrian and bicycle crossings; or
+11 “(d) Create or improve bicycle lanes.
+12 “(6) The commission may adopt rules specifying the application process and the selection crite-
+13 ria that will be used in awarding matching grants.
+14 “SECTION 2. ORS 367.082 is amended to read:
+15 “367.082. (1) Except as provided in subsection (2) of this section, the Department of Transpor-
+16 tation may provide, from moneys in the Connect Oregon Fund established under ORS 367.080, grants
+17 for transportation projects to public bodies, as defined in ORS 174.109, and to private entities.
+18 “(2) Grants may not be made from the Connect Oregon Fund for transportation projects that
+19 could constitutionally be funded by revenues described in Article IX, section 3a, of the Oregon
+20 Constitution.
+21 “(3) The Department of Transportation shall adopt rules specifying the process by which a
+22 public body or private entity may apply for a grant under this section and prescribing the terms and
+23 conditions of grants.
+24 “(4) Except as provided in subsection (5) of this section, an applicant receiving a grant must
+25 provide the following amounts:
+26 “(a) For public bodies and private entities, other than Class I railroads, 30 percent of the moneys
+27 required for the transportation project.
+28 “(b) For Class I railroads, 50 percent of the moneys required for the transportation project.
+29 “(5)(a) Match amounts for grants for transportation projects awarded to incorporated
+30 cities with a population not greater than 20,000 shall be offered as follows, based on popu-
+31 lation according to the most recent federal decennial census:
+32 “(A) Incorporated cities with a population not greater than 5,000 may be required to
+33 provide match amounts of not greater than:
+34 “(i) Three percent of the moneys required for a transportation project having a project
+35 cost of $100,000 or less.
+36 “(ii) Five percent of the moneys required for a transportation project having a project
+37 cost greater than $100,000.
+38 “(B) Incorporated cities with a population greater than 5,000 but not greater than 7,500
+39 may be required to provide match amounts not greater than seven percent of the moneys
+40 required for the transportation project.
+41 “(C) Incorporated cities with a population greater than 7,500 but not greater than 10,000
+42 may be required to provide match amounts not greater than nine percent of the moneys
+43 required for the transportation project.
+44 “(D) Incorporated cities with a population greater than 10,000 but not greater than 20,000
+45 may be required to provide match amounts not greater than 12 percent of the moneys re-
+SA to SB 1585 Page 2
+
+1 quired for the transportation project.
+2 “(b) Notwithstanding any other provision of law restricting the use of the grant award
+3 moneys, incorporated cities with a population not greater than 20,000 may use grant moneys
+4 awarded for capital construction or municipal infrastructure for all phases of a funded
+5 project in addition to construction, including, but not limited to, engineering, planning and
+6 support.
+7 “SECTION 3. ORS 367.093 is amended to read:
+8 “367.093. (1) The Department of Transportation shall establish the Multimodal Active Trans-
+9 portation Program. The department may provide, from moneys in the Multimodal Active Transpor-
+10 tation Fund established under ORS 367.091, grants for transportation projects to public bodies and
+11 to private entities.
+12 “(2) The department shall adopt rules specifying the process by which a public body or private
+13 entity may apply for a grant under this section and prescribing the terms and conditions of grants.
+14 “(3) Except as provided in subsection (4) of this section, an applicant receiving a grant must
+15 provide 30 percent of the moneys required for the transportation project.
+16 “(4)(a) Match amounts for grants for transportation projects awarded to incorporated
+17 cities with a population not greater than 20,000 shall be offered as follows, based on popu-
+18 lation according to the most recent federal decennial census:
+19 “(A) Incorporated cities with a population not greater than 5,000 may be required to
+20 provide match amounts of not greater than:
+21 “(i) Three percent of the moneys required for a transportation project having a project
+22 cost of $100,000 or less.
+23 “(ii) Five percent of the moneys required for a transportation project having a project
+24 cost greater than $100,000.
+25 “(B) Incorporated cities with a population greater than 5,000 but not greater than 7,500
+26 may be required to provide match amounts not greater than seven percent of the moneys
+27 required for the transportation project.
+28 “(C) Incorporated cities with a population greater than 7,500 but not greater than 10,000
+29 may be required to provide match amounts not greater than nine percent of the moneys
+30 required for the transportation project.
+31 “(D) Incorporated cities with a population greater than 10,000 but not greater than 20,000
+32 may be required to provide match amounts not greater than 12 percent of the moneys re-
+33 quired for the transportation project.
+34 “(b) Notwithstanding any other provision of law restricting the use of the grant award
+35 moneys, incorporated cities with a population not greater than 20,000 may use grant moneys
+36 awarded for capital construction or municipal infrastructure for all phases of a funded
+37 project in addition to construction, including, but not limited to, engineering, planning and
+38 support.
+39 “[(3)] (5) The Oregon Transportation Commission shall select transportation projects to be
+40 funded with moneys in the Multimodal Active Transportation Fund. Before selecting bicycle and
+41 pedestrian transportation projects, the commission shall solicit recommendations from the advisory
+42 committee created by ORS 366.112.
+43 “SECTION 4. ORS 285B.420 is amended to read:
+44 “285B.420. (1)(a) The Oregon Infrastructure Finance Authority may provide financial assistance
+45 in the form of loans or grants for a levee project to:
+SA to SB 1585 Page 3
+
+1 “[(a)] (A) Municipalities;
+2 “[(b)] (B) Corporations or companies for drainage or flood control organized under ORS chapter
+3 554; and
+4 “[(c)] (C) For-profit or nonprofit entities and individuals engaged in the ownership, construction,
+5 inspection, accreditation, certification or repair of levees.
+6 “(b) Grants awarded under this section shall be paid from available moneys in the Levee
+7 Project Grant Fund established under ORS 285B.421.
+8 “(2) To qualify for financial assistance under this section, the municipality, corporation, com-
+9 pany, entity or individual must demonstrate, and the authority must find, that the levee project
+10 substantially contributes to the improvement, expansion or repair of the state’s or a municipality’s
+11 infrastructure system and is essential for the use or development of farm, industrial or commercial
+12 land in Oregon.
+13 “(3) Grant awards for planning projects are limited to a maximum of $2 million per ap-
+14 plicant per biennium.
+15 “(4) Except as provided in subsection (5) of this section, a grant may not be awarded
+16 unless the applicant pledges matching funds to the project of at least 20 percent of the
+17 amount of the grant award.
+18 “(5)(a) For projects to protect cities with a population not greater than 5,000, applicants
+19 may be required to provide matching funds of not greater than:
+20 “(A) Three percent of the amount of a grant award of $100,000 or less.
+21 “(B) Five percent of the amount of a grant award greater than $100,000.
+22 “(b) For projects to protect cities with a population greater than 5,000 but not greater
+23 than 7,500, applicants may be required to provide matching funds of not greater than seven
+24 percent of the amount of the grant award.
+25 “(c) For projects to protect cities with a population greater than 7,500 but not greater
+26 than 10,000, applicants may be required to provide matching funds of not greater than nine
+27 percent of the amount of the grant award.
+28 “(d) For projects to protect cities with a population greater than 10,000 but not greater
+29 than 20,000, applicants may be required to provide matching funds of not greater than 12
+30 percent of the amount of the grant award.
+31 “(e) Population shall be determined according to the most recent federal decennial cen-
+32 sus.
+33 “(f) Notwithstanding any other provision of law restricting the use of the grant award
+34 moneys, municipalities with a population not greater than 20,000 may use grant moneys
+35 awarded for capital construction or municipal infrastructure for all phases of a funded
+36 project in addition to construction, including, but not limited to, engineering, planning and
+37 support.
+38 “(6) At least 60 percent of the dollar value of grants awarded under this section for any
+39 biennium shall be used to provide assistance with levee projects to rural or distressed areas
+40 as those terms are defined in ORS 285A.010.
+41 “[(3)] (7) Levee projects that receive financial assistance under this section are subject to the
+42 provisions and requirements of ORS 285B.410 to 285B.482, if applicable.
+43 “SECTION 5. ORS 285B.421 is amended to read:
+44 “285B.421. (1) The Levee Project Grant Fund is established in the State Treasury, separate and
+45 distinct from the General Fund. Interest earned by the Levee Project Grant Fund must be credited
+SA to SB 1585 Page 4
+
+1 to the fund. The Levee Project Grant Fund consists of moneys deposited in the fund under section
+2 33, chapter 671, Oregon Laws 2019, and may include moneys appropriated, allocated, deposited or
+3 transferred to the fund by the Legislative Assembly or otherwise and interest earned on moneys in
+4 the fund.
+5 “(2) Moneys in the fund are continuously appropriated to the Oregon Business Development
+6 Department for the Oregon Infrastructure Finance Authority to provide grants under ORS 285B.420
+7 for levee projects [as defined in ORS 285B.410].
+8 “[(3) Grants from the fund for planning projects are limited to a maximum of $2 million per ap-
+9 plicant per biennium.]
+10 “[(4) Grants from the fund for construction or capital improvement projects may not exceed an
+11 amount equal to 80 percent of the total cost of the project.]
+12 “[(5) A grant may not be awarded from the fund unless the applicant pledges matching funds to
+13 the project of at least 20 percent of the amount of the grant.]
+14 “[(6) At least 60 percent of the dollar value of grants awarded from the fund in any biennium shall
+15 be used to provide assistance with levee projects to rural or distressed areas as those terms are defined
+16 in ORS 285A.010.]
+17 “SECTION 6. ORS 285B.421 is added to and made a part of ORS 285B.410 to 285B.482.
+18 “SECTION 7. (1) Match requirements for grants for projects described in ORS 390.135
+19 (2)(c) to incorporated cities with a population not greater than 20,000 shall be offered on the
+20 following terms, based on population according to the most recent federal decennial census:
+21 “(a) Incorporated cities with a population not greater than 5,000 may be required to
+22 provide matching funds of not greater than:
+23 “(A) Three percent of a total project cost of $100,000 or less.
+24 “(B) Five percent of a total project cost greater than $100,000.
+25 “(b) Incorporated cities with a population greater than 5,000 but not greater than 7,500
+26 may be required to provide matching funds of not greater than seven percent of the total
+27 project cost.
+28 “(c) Incorporated cities with a population greater than 7,500 but not greater than 10,000
+29 may be required to provide matching funds of not greater than nine percent of the total
+30 project cost.
+31 “(d) Incorporated cities with a population greater than 10,000 but not greater than 20,000
+32 may be required to provide matching funds of not greater than 12 percent of the total project
+33 cost.
+34 “(2) Notwithstanding any other provision of law restricting the use of the grant award
+35 moneys, incorporated cities with a population not greater than 20,000 may use grant moneys
+36 awarded for capital construction or municipal infrastructure for all phases of a funded
+37 project in addition to construction, including, but not limited to, engineering, planning and
+38 support.
+39 “SECTION 8. ORS 541.561 is amended to read:
+40 “541.561. (1) The Water Resources Department shall establish a grant program to pay the qual-
+41 ifying costs of studies performed to evaluate the feasibility of projects related to:
+42 “(a) Water conservation.
+43 “(b) Water reuse.
+44 “(c) Aquifer recharge.
+45 “(d) Aquifer storage and recovery.
+SA to SB 1585 Page 5
+
+1 “(e) Streamflow protection or restoration.
+2 “(f) Water storage.
+3 “(g) Other activities identified by rule by the Water Resources Commission.
+4 “(2) A grant under this section may be made to:
+5 “(a) A person, as defined in ORS 536.007.
+6 “(b) A public body, as defined in ORS 174.109.
+7 “(c) A federally recognized Indian tribe in Oregon that has members residing on a reservation
+8 or tribal trust lands in Oregon.
+9 “(d) A nonprofit organization.
+10 “(3) In lieu of grants, the department may pay the cost of providing direct services, including
+11 but not limited to technical services, for a study that is eligible for a grant under this section.
+12 “(4) Except as provided in subsection (5) of this section, a grant may be provided only if the
+13 amount of the grant is matched by an in-kind or cash cost match of not less than 25 percent of the
+14 grant amount. The commission may establish a maximum per project amount of grant funding that
+15 a project may receive or may increase the cost match for upcoming project cycles based on the
+16 availability of funds.
+17 “(5) Matching funds for grants or payments for direct services under this section
+18 awarded to incorporated cities with a population not greater than 20,000 shall be offered as
+19 follows, based on population according to the most recent federal decennial census:
+20 “(a) Incorporated cities with a population not greater than 5,000 may be required to
+21 provide matching funds in an amount not greater than:
+22 “(A) Three percent of a grant or the cost of direct services awarded in an amount of
+23 $100,000 or less.
+24 “(B) Five percent of a grant or the cost of direct services awarded in an amount greater
+25 than $100,000.
+26 “(b) Incorporated cities with a population greater than 5,000 but not greater than 7,500
+27 may be required to provide matching funds in an amount not greater than seven percent of
+28 the amount of the grant or the cost of direct services awarded.
+29 “(c) Incorporated cities with a population greater than 7,500 but not greater than 10,000
+30 may be required to provide matching funds in an amount not greater than nine percent of
+31 the amount of the grant or the cost of direct services awarded.
+32 “(d) Incorporated cities with a population greater than 10,000 but not greater than 20,000
+33 may be required to provide matching funds in an amount not greater than 12 percent of the
+34 amount of the grant or the cost of direct services awarded.
+35 “[(5)] (6) Grants and the cost of direct services provided under this section must be paid from
+36 moneys available in the Water Project Feasibility Fund.
+37 “[(6)] (7) In evaluating above ground storage projects for awards of grants or payments for di-
+38 rect services under this section, the department shall give priority to projects that include pro-
+39 visions for using stored water to augment in-stream flows to conserve, maintain and enhance aquatic
+40 life, fish life or other ecological values.
+41 “SECTION 9. ORS 541.666 is amended to read:
+42 “541.666. (1) Applications for a loan or grant from the Water Supply Development Account must:
+43 “(a) Be in a form prescribed by the Water Resources Department.
+44 “(b) Include any information required by the department.
+45 “(c) Be filed with the department.
+SA to SB 1585 Page 6
+
+1 “(2) The department may require an application to include the following:
+2 “(a) A description of the need, purpose and nature of the project, including what the applicant
+3 intends to complete and how the applicant intends to proceed.
+4 “(b) Sufficient information to allow evaluation of the application based upon the public benefit
+5 scoring and ranking of the project.
+6 “(c) Current contact information for the principal contact, fiscal officer and involved landown-
+7 ers.
+8 “(d) For applications involving physical changes or monitoring on private land, evidence that
+9 landowners are aware of and agree to the proposal and are aware that monitoring information is a
+10 public record.
+11 “(e) The location of the proposed project, using public land survey reference points, latitude and
+12 longitude, county, watershed, river and stream mile, if appropriate.
+13 “(f) An itemized budget for the project, including fiscal and administrative costs.
+14 “(g) A description of funds, services or materials available to the project.
+15 “(h) A project schedule, including beginning and completion dates.
+16 “(i) Any conditions that may affect the completion of the project.
+17 “(j) A completed feasibility analysis if appropriate.
+18 “(k) Suggestions for interim and long-term project performance benchmarks.
+19 “(L) Except as provided in subsection (3) of this section, if the application is for a grant,
+20 demonstrated in-kind and cash cost match of not less than 25 percent of the amount of the grant
+21 sought from the account.
+22 “(m) If the application is for a loan, evidence demonstrating ability to repay the loan and pro-
+23 vide collateral.
+24 “(n) Letters of support for the proposed project.
+25 “(o) If required by the department, a description of consultations with affected Indian tribes re-
+26 garding the project.
+27 “(p) Any other information required by the department.
+28 “(3)(a) A cost match for grants sought by incorporated cities with a population not
+29 greater than 20,000 shall be required as follows, based on population according to the most
+30 recent federal decennial census:
+31 “(A) Incorporated cities with a population not greater than 5,000 may be required to
+32 provide a cost match in an amount not greater than:
+33 “(i) Three percent of the amount of a grant sought for $100,000 or less.
+34 “(ii) Five percent of the amount of a grant sought for more than $100,000.
+35 “(B) Incorporated cities with a population greater than 5,000 but not greater than 7,500
+36 may be required to provide a cost match in an amount not greater than seven percent of the
+37 amount of the grant sought.
+38 “(C) Incorporated cities with a population greater than 7,500 but not greater than 10,000
+39 may be required to provide a cost match in an amount not greater than nine percent of the
+40 amount of the grant sought.
+41 “(D) Incorporated cities with a population greater than 10,000 but not greater than 20,000
+42 may be required to provide a cost match in an amount not greater than 12 percent of the
+43 amount of the grant sought.
+44 “(b) Notwithstanding any other provision of law restricting the use of the grant award
+45 moneys, incorporated cities with a population not greater than 20,000 may use grant moneys
+SA to SB 1585 Page 7
+
+1 awarded for capital construction or municipal infrastructure for all phases of a funded
+2 project in addition to construction, including, but not limited to, engineering, planning and
+3 support.
+4 “SECTION 10. This 2026 Act takes effect on the 91st day after the date on which the 2026
+5 regular session of the Eighty-third Legislative Assembly adjourns sine die.”.
+6
+SA to SB 1585 Page 8
+
+[DELETED:  A T p o t p b l 2 a “ i “ n p a ( T O T C m p m g u t D t a p f w t a p d p t O[] I c w a p n g t 2 s p c b o p a t t m r flc A i c w a p n g t 5 A i c w a p g t 1 b n g t m b r t p a c m o n g t 1 p o tsc [] T c m r t s ( o t s b r[] N a o p o f c c o m i f a p o a f]
+[DELETED:  i T c s p t e o f a a u t s p t a l w a t r o a s t s s i T m g s b u t r b a h t c ( E a p i s ( o t s t D G m n b m f t C O F f t p t c b f b r d i A I s 3 o t O T D o T s a r s t p b w  M a f g f t p a t i b o a f b o p I c w a p n g t 5 m b r t F p o t m r f a t p b r t p m a n g b r t p m a n g t n p o t m o t m r5P]
+[DELETED:  N a o p f c c o m i f a p o a f i ( T D o T s e t M A T P T d m M a f g f t p a t i w a p n g t 2 I c w a p n g t 5 m b r t F p o t m r f a t p b r t p m a n g b r t p m a n g t n p o t m o t m r N a o p f c c o m i f a p o a f i[] ( T O T C s s t p t b w m i t M A T F B s b a5P]
+[DELETED: [][][] T q f f a u t s t m c c e o i m d a t a m f t t l p E a p i s ( o t s a g m n b a t a p m f t t p o a l 2 p o t F p t p c w F p t p c w a 2 a m b r t p m f o n g t 1 p o l r t u o t g a m w a p n g t 2 m u g m f c c o m i f a p o a f i[] u t s a s t t5P]
+[DELETED:  c 6 O L 2 a m i m a a d o M i t f a c a t t O B D[] G f t f f c o c i p m n e a f t f u t a p m f t.O 7.( M r f g f p d i O 3 I c w a p n g t 5 m b r t f o n g t s p o t ttc b r t p m f o n g t n p o t ttc N a o p o l f c c o m i f a p o a f i5P]
+[DELETED:  A f r l o g t d m p t c o p d s i)E a p m r o m i t c m f u p c b o t M f f g o p f d s u t s I c w a p n g t 5 m b r t T p o a g o t c o d s a i a a o[] G a t c[] f d s u t s t d s g p t p t i p5P]
+[DELETED:  S i C c i f t F a i p c o m o p l e t E i t a i f a g i a c c m o n l t 2 p o t a o t g a pec A c m f g s b i c w a p n I c w a p n g t 5 m b r t b r t o t g a5P]
+[DELETED:  f c c o m i f a p o a f a.T5P]

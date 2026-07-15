@@ -1,0 +1,459 @@
+Title: Requested by SENATE COMMITTEE ON LABOR AND BUSINESS
+Official Title: Requested by SENATE COMMITTEE ON LABOR AND BUSINESS
+Number of Sections: 1
+Source: versions - SLB Amendment -1
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SB 1518-1
+(LC 155)
+2/2/26 (JAS/ps)
+PROPOSED AMENDMENTS TO
+SENATE BILL 1518
+1 In line 2 of the printed bill, before the period insert “; amending ORS
+2 653.020 and 653.547”.
+3 Delete lines 4 through 8 and insert:
+4 “SECTION 1. ORS 653.020 is amended to read:
+5 “653.020. ORS 653.010 to 653.261 do not apply to any of the following em-
+6 ployees:
+7 “(1) An individual employed in agriculture if:
+8 “(a) Such individual is employed as a hand harvest or pruning laborer and
+9 is paid on a piece-rate basis in an operation which has been, and is custom-
+10 arily and generally recognized as having been, paid on a piece-rate basis in
+11 the region of employment and is employed by an employer who did not,
+12 during any calendar quarter during the preceding year, use more than 500
+13 piece-rate-work-days of agricultural labor;
+14 “(b) Such individual is the parent, spouse, child or other member of the
+15 employer’s immediate family;
+16 “(c) Such individual:
+17 “(A) Is employed as a hand harvest or pruning laborer and is paid on a
+18 piece-rate basis in an operation which has been, and is customarily and
+19 generally recognized as having been, paid on a piece-rate basis in the region
+20 of employment;
+21 “(B) Commutes daily from a permanent residence to the farm on which
+1 the individual is so employed; and
+2 “(C) Has been employed in agricultural labor less than 13 weeks during
+3 the preceding calendar year;
+4 “(d) Such individual, other than an individual described in paragraph (c)
+5 of this subsection:
+6 “(A) Is 16 years of age or under and is employed as a hand harvest la-
+7 borer, is paid on a piece-rate basis in an operation which has been, and is
+8 customarily and generally recognized as having been, paid on a piece-rate
+9 basis in the region of employment; and
+10 “(B) Is paid at the same piece-rate as employees over 16 years of age on
+11 the same farm; or
+12 “(e) Such employee is principally engaged in the range production of
+13 livestock and earns a salary and is paid on a salary basis.
+14 “(2) An individual employed in domestic service on a casual basis in or
+15 about a family home.
+16 “(3) An individual engaged in administrative, executive or professional
+17 work who:
+18 “(a) Performs predominantly intellectual, managerial or creative tasks;
+19 “(b) Exercises discretion and independent judgment; and
+20 “(c) Earns a salary and is paid on a salary basis.
+21 “(4) An individual employed by the United States.
+22 “(5) An individual who is employed by an institution whose function is
+23 primary or secondary education, and in which the individual is an enrolled
+24 student.
+25 “(6) An individual engaged in the capacity of an outside salesperson or
+26 taxicab operator.
+27 “(7) An individual domiciled at a place of employment for the purpose of
+28 being available for emergency or occasional duties for time other than that
+29 spent performing these duties, provided that when the individual performs
+30 emergency or occasional duties, the individual must be paid no less than the
+SB 1518-1 2/2/26
+Proposed Amendments to SB 1518 Page 2
+1 wage specified in ORS 653.025.
+2 “(8) An individual paid for specified hours of employment, the only pur-
+3 pose of which is to be available for recall to duty.
+4 “(9) An individual domiciled at multiunit accommodations designed to
+5 provide other people with temporary or permanent lodging, for the purpose
+6 of maintenance, management or assisting in the management of same.
+7 “(10) An individual employed on a seasonal basis at:
+8 “(a) An organized camp operated for profit that generates gross annual
+9 income of less than $500,000; or
+10 “(b) A nonprofit organized camp.
+11 “(11) An individual employed at a nonprofit conference ground or center
+12 operated for educational, charitable or religious purposes.
+13 “(12) An individual who performs services as a volunteer firefighter, as
+14 defined in ORS 652.050.
+15 “(13) An individual who performs child care services in the home of the
+16 individual or in the home of the child.
+17 “(14) An individual employed in domestic service employment in or about
+18 a family home to provide companionship services, as defined in 29 C.F.R.
+19 552.6, as in effect on January 1, 2016, for individuals who, because of age
+20 or infirmity, are unable to care for themselves, unless, and only to the
+21 extent that, the individual is employed, singly or jointly, by a third
+22 party engaged in the business of providing home care or
+23 companionship services.
+24 “(15) An individual who performs service as a caddy at a golf course in
+25 an established program for the training and supervision of caddies under the
+26 direction of a person who is an employee of the golf course.
+27 “(16) An individual who volunteers as a golf course marshal if:
+28 “(a) The services the individual provides are limited to monitoring start-
+29 ing times and speed of play and informing golfers of golf course etiquette;
+30 “(b) The individual is not allowed to provide volunteer golf course mar-
+SB 1518-1 2/2/26
+Proposed Amendments to SB 1518 Page 3
+1 shal services for more than 30 hours in a calendar week; and
+2 “(c) The individual receives no wage other than golf passes for providing
+3 the volunteer golf course marshal services.
+4 “(17) An individual employed as a resident manager by an adult foster
+5 home that is licensed pursuant to ORS 443.705 to 443.825 and who is
+6 domiciled at the adult foster home.
+7 “(18) An individual residing in a mobile home park or manufactured
+8 dwelling park designed to provide other people with temporary or permanent
+9 lodging, for the purpose of maintenance, management or in assisting in the
+10 management of same.
+11 “(19) An individual who volunteers as a campground host and who resides
+12 in a campground owned by a public agency that provides temporary accom-
+13 modations for travelers, whether under public or private management, and
+14 who provides information and emergency assistance.
+15 “(20) An individual who:
+16 “(a) Is registered with the National Ski Patrol or a similar nonprofit ski
+17 patrol organization as a nonprofessional ski patroller and who receives no
+18 wage other than passes authorizing access to and use of a ski area, as de-
+19 fined in ORS 30.970, for performing ski patrol services, including but not
+20 limited to services related to preserving the safety of and providing infor-
+21 mation to skiers or snowboarders; or
+22 “(b) Receives no wage other than passes authorizing access to and use of
+23 a ski area, as defined in ORS 30.970, for performing services directly related
+24 to the organizing or conducting of skiing or snowboarding races or other
+25 similar competitions that are:
+26 “(A) Sponsored and organized by a nonprofit corporation, as defined in
+27 ORS 65.001; and
+28 “(B) Held in a ski area, as defined in ORS 30.970.
+29 “(21) An individual who has entered into a contract to play minor league
+30 baseball for a professional sports organization and who is subject to a col-
+SB 1518-1 2/2/26
+Proposed Amendments to SB 1518 Page 4
+1 lective bargaining agreement, the terms of which provide for the payment
+2 of wages and working conditions.
+3 “SECTION 2. ORS 653.547 is amended to read:
+4 “653.547. (1) As used in this section:
+5 “(a) ‘Domestic service’ means services related to the care of persons in
+6 private homes or the maintenance of private homes or their premises.
+7 “(b)(A) ‘Domestic worker’ means an individual who works in the home of
+8 another person for the purpose of caring for a child, doing housekeeping or
+9 providing other domestic service and who is not compensated with public
+10 funds for the work performed.
+11 “(B) ‘Domestic worker’ does not include:
+12 “(i) A parent or spouse of the employer.
+13 “(ii) A child of the employer who is under 26 years of age.
+14 “(iii) Students who regularly attend elementary or secondary school dur-
+15 ing the day.
+16 “(iv) Children, other than children of the employer, who are under 14
+17 years of age.
+18 “(v) Children under 18 years of age who provide babysitting services and
+19 persons who provide babysitting on a casual basis.
+20 “(vi) Persons who perform casual labor in private homes or the mainte-
+21 nance of private homes or their premises, including but not limited to yard
+22 work, washing windows and shoveling snow.
+23 “(vii) Individuals employed by organizations licensed as required by ORS
+24 443.015 or 443.315.
+25 “(viii) Independent contractors.
+26 “(ix) Individuals performing companionship services [exempt from the
+27 provisions of the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.)],
+28 as defined in 29 C.F.R. 552.6, as in effect on January 1, 2016, unless,
+29 and only to the extent that, the individuals are employed, singly or
+30 jointly, by a third party engaged in the business of providing home
+SB 1518-1 2/2/26
+Proposed Amendments to SB 1518 Page 5
+1 care or companionship services.
+2 “(x) Persons who perform house sitting duties that do not involve do-
+3 mestic service.
+4 “(xi) Persons who provide domestic service in exchange for an in-kind
+5 good or service.
+6 “(c) ‘Employer’ means a person that employs another person in this state.
+7 “(2) A person employing a domestic worker shall:
+8 “(a) Notwithstanding ORS 653.020, pay the domestic worker an overtime
+9 wage at a rate of one and one-half times the worker’s base rate for hours
+10 worked in excess of 40 hours in a workweek, or in excess of 44 hours in a
+11 workweek if the domestic worker lives in the home of the employer.
+12 “(b) Provide the domestic worker at least 24 consecutive hours of rest
+13 each workweek. If the domestic worker agrees to work on the anticipated
+14 day of rest, the employer shall pay the employee the overtime rate specified
+15 in paragraph (a) of this subsection.
+16 “(c) If the domestic worker lives in the home of the employer, provide at
+17 least eight consecutive hours of rest within each 24-hour period and provide
+18 a space with adequate conditions for uninterrupted sleep.
+19 “(d) If the domestic worker lives in the home of the employer, permit the
+20 domestic worker to cook the worker’s own food, subject to reasonable re-
+21 strictions based on the religious or health needs of the home’s residents.
+22 “(e) If the domestic worker worked an average of at least 30 hours per
+23 week during the previous year, provide the domestic worker with at least
+24 three paid personal leave days off.
+25 “(3) Notwithstanding subsection (2)(a) of this section, the Commissioner
+26 of the Bureau of Labor and Industries shall adopt rules for the calculation
+27 of overtime wages for domestic workers during periods of travel and medical
+28 emergencies.
+29 “(4) A person that employs a domestic worker may not:
+30 “(a) Request that the domestic worker allow the employer, on either a
+SB 1518-1 2/2/26
+Proposed Amendments to SB 1518 Page 6
+1 mandatory or voluntary basis, to have possession of the worker’s passport.
+2 “(b) Engage in unwelcome sexual advances, request sexual favors or en-
+3 gage in other verbal or physical conduct of a sexual nature directed toward
+4 a domestic worker when:
+5 “(A) Submission to the conduct is made, either explicitly or implicitly, a
+6 term or condition of the domestic worker’s employment;
+7 “(B) Submission to or rejection of the conduct by the domestic worker is
+8 used as the basis for employment decisions affecting the domestic worker;
+9 or
+10 “(C) The conduct has the purpose or effect of unreasonably interfering
+11 with the domestic worker’s work performance by creating an intimidating,
+12 hostile or offensive work environment.
+13 “(c) Subject a domestic worker to harassment based on gender, race, re-
+14 ligion, disability, sexual orientation, gender identity or national origin if the
+15 harassment has the purpose or effect of unreasonably interfering with the
+16 worker’s work performance by creating an intimidating, hostile or offensive
+17 work environment.
+18 “(d) Retaliate or in any way discriminate against an individual with re-
+19 spect to hire or tenure or any other term or condition of employment because
+20 the individual has inquired about the provisions of this section and ORS
+21 653.549 or has reported a violation to, or filed a complaint with, the Bureau
+22 of Labor and Industries alleging a violation of this section.”.
+23
+SB 1518-1 2/2/26
+Proposed Amendments to SB 1518 Page 7
+[DELETED: B1C16( l 2 o t p b b t p i “ a O f e p o a a g r a h b p o a p b i r o e a i e b a e w d n a c q d t p y u m t 5 S i i t p s c o o m o t I e a a h h o p l a i p o  b i a o w h b a i c a C d f a p r t t f o w]
+[DELETED:  H b e i a l l t 1 w d t a i d i p ( I 1 y o a o u a i e a a h h l i p o a p b i a o w h b a i a g r a h b p o a p I p a t s p a e o 1 y o a o S e i p e i t r p o A i e i d s o a c b i o A i e i a e o pkw A i w i e b a i w f i o s e a i w t i i a e A i e i t c o a o s obo A i d a a f e o o d f t o t t p t d p t w t i p128P]
+[DELETED:  A i p f s h o e t o p A i d a m a d t o p w t o p l f t p A o c o f p t g g a A i e a a n c g o c A i w p s a a v f a A i w p c c s i t h o t f h t p c s a d i 2 C b o a i a u t c f t u a o t t t t i i e s o j b a t e i t b o p h c ops A i w p s a a c a a g c i t i p a l t m s T i i n a t p v g c m128P]
+[DELETED:  A i e a a r m b a a f t i l p t O 4 t 4 a w i A i r i a m h p o m f t p o m m o i a i t a c o b a p a t p t a f t w u p o p m a I r w t o a a n s p a w r n o t p a a t a u o a s a a d i O 3 f p s p s i b n t s r t p t s o a p i t o o c o s o s r o o S a o b a n c a d i f a p s o a w i s t a c128P]
+[DELETED:  b a t t o w p f t p ‘ s m s r t t c o p i p f t p o c f a c d h o d s a w i n c w p S w r a e o s s d C o t c o t e w a u 1 C u 1 P w p c l i p h o t m o p h o t p i b n l t y a r b O I p c s  f t o t F L S A o 1 ( U 2 e s d i 2 C 5 a i e o J 1 2 u o t t e t t i a e s o b a t p e i t b o p h128P]
+[DELETED:  P w p h s d t d n i dcs P w p d s i e f a i N O 6 p t d w a o a a r o o a o t t w b r f h i e o 4 h i a w o i e o 4 h i  P t d w a l 2 c h o r w I t d w a t w o t a o r t e I t w t c t w o f s t r r I t d w w a a o a l 3 h p d t p y p t d w w a l N s ( o t s t C t B o L a I s a r f t c R t t d w a t e o e 128P]
+[DELETED:  E i u s a r s f o e i o v o p t c i m e e o i  S t a t b f e d a t d w T c h t p o e o u i t d w w p b c a i S a d w t h b o g r r h t p o e o u i w t w p b c a i h o o R o i a w d a a i w r i h i a t p o t s a O128P]
+
+
+================================================================================
+
+Raw Text:
+SB 1518-1
+(LC 155)
+2/2/26 (JAS/ps)
+Requested by SENATE COMMITTEE ON LABOR AND BUSINESS
+PROPOSED AMENDMENTS TO
+SENATE BILL 1518
+1 In line 2 of the printed bill, before the period insert “; amending ORS
+2 653.020 and 653.547”.
+3 Delete lines 4 through 8 and insert:
+4 “SECTION 1. ORS 653.020 is amended to read:
+5 “653.020. ORS 653.010 to 653.261 do not apply to any of the following em-
+6 ployees:
+7 “(1) An individual employed in agriculture if:
+8 “(a) Such individual is employed as a hand harvest or pruning laborer and
+9 is paid on a piece-rate basis in an operation which has been, and is custom-
+10 arily and generally recognized as having been, paid on a piece-rate basis in
+11 the region of employment and is employed by an employer who did not,
+12 during any calendar quarter during the preceding year, use more than 500
+13 piece-rate-work-days of agricultural labor;
+14 “(b) Such individual is the parent, spouse, child or other member of the
+15 employer’s immediate family;
+16 “(c) Such individual:
+17 “(A) Is employed as a hand harvest or pruning laborer and is paid on a
+18 piece-rate basis in an operation which has been, and is customarily and
+19 generally recognized as having been, paid on a piece-rate basis in the region
+20 of employment;
+21 “(B) Commutes daily from a permanent residence to the farm on which
+
+1 the individual is so employed; and
+2 “(C) Has been employed in agricultural labor less than 13 weeks during
+3 the preceding calendar year;
+4 “(d) Such individual, other than an individual described in paragraph (c)
+5 of this subsection:
+6 “(A) Is 16 years of age or under and is employed as a hand harvest la-
+7 borer, is paid on a piece-rate basis in an operation which has been, and is
+8 customarily and generally recognized as having been, paid on a piece-rate
+9 basis in the region of employment; and
+10 “(B) Is paid at the same piece-rate as employees over 16 years of age on
+11 the same farm; or
+12 “(e) Such employee is principally engaged in the range production of
+13 livestock and earns a salary and is paid on a salary basis.
+14 “(2) An individual employed in domestic service on a casual basis in or
+15 about a family home.
+16 “(3) An individual engaged in administrative, executive or professional
+17 work who:
+18 “(a) Performs predominantly intellectual, managerial or creative tasks;
+19 “(b) Exercises discretion and independent judgment; and
+20 “(c) Earns a salary and is paid on a salary basis.
+21 “(4) An individual employed by the United States.
+22 “(5) An individual who is employed by an institution whose function is
+23 primary or secondary education, and in which the individual is an enrolled
+24 student.
+25 “(6) An individual engaged in the capacity of an outside salesperson or
+26 taxicab operator.
+27 “(7) An individual domiciled at a place of employment for the purpose of
+28 being available for emergency or occasional duties for time other than that
+29 spent performing these duties, provided that when the individual performs
+30 emergency or occasional duties, the individual must be paid no less than the
+SB 1518-1 2/2/26
+Proposed Amendments to SB 1518 Page 2
+
+1 wage specified in ORS 653.025.
+2 “(8) An individual paid for specified hours of employment, the only pur-
+3 pose of which is to be available for recall to duty.
+4 “(9) An individual domiciled at multiunit accommodations designed to
+5 provide other people with temporary or permanent lodging, for the purpose
+6 of maintenance, management or assisting in the management of same.
+7 “(10) An individual employed on a seasonal basis at:
+8 “(a) An organized camp operated for profit that generates gross annual
+9 income of less than $500,000; or
+10 “(b) A nonprofit organized camp.
+11 “(11) An individual employed at a nonprofit conference ground or center
+12 operated for educational, charitable or religious purposes.
+13 “(12) An individual who performs services as a volunteer firefighter, as
+14 defined in ORS 652.050.
+15 “(13) An individual who performs child care services in the home of the
+16 individual or in the home of the child.
+17 “(14) An individual employed in domestic service employment in or about
+18 a family home to provide companionship services, as defined in 29 C.F.R.
+19 552.6, as in effect on January 1, 2016, for individuals who, because of age
+20 or infirmity, are unable to care for themselves, unless, and only to the
+21 extent that, the individual is employed, singly or jointly, by a third
+22 party engaged in the business of providing home care or
+23 companionship services.
+24 “(15) An individual who performs service as a caddy at a golf course in
+25 an established program for the training and supervision of caddies under the
+26 direction of a person who is an employee of the golf course.
+27 “(16) An individual who volunteers as a golf course marshal if:
+28 “(a) The services the individual provides are limited to monitoring start-
+29 ing times and speed of play and informing golfers of golf course etiquette;
+30 “(b) The individual is not allowed to provide volunteer golf course mar-
+SB 1518-1 2/2/26
+Proposed Amendments to SB 1518 Page 3
+
+1 shal services for more than 30 hours in a calendar week; and
+2 “(c) The individual receives no wage other than golf passes for providing
+3 the volunteer golf course marshal services.
+4 “(17) An individual employed as a resident manager by an adult foster
+5 home that is licensed pursuant to ORS 443.705 to 443.825 and who is
+6 domiciled at the adult foster home.
+7 “(18) An individual residing in a mobile home park or manufactured
+8 dwelling park designed to provide other people with temporary or permanent
+9 lodging, for the purpose of maintenance, management or in assisting in the
+10 management of same.
+11 “(19) An individual who volunteers as a campground host and who resides
+12 in a campground owned by a public agency that provides temporary accom-
+13 modations for travelers, whether under public or private management, and
+14 who provides information and emergency assistance.
+15 “(20) An individual who:
+16 “(a) Is registered with the National Ski Patrol or a similar nonprofit ski
+17 patrol organization as a nonprofessional ski patroller and who receives no
+18 wage other than passes authorizing access to and use of a ski area, as de-
+19 fined in ORS 30.970, for performing ski patrol services, including but not
+20 limited to services related to preserving the safety of and providing infor-
+21 mation to skiers or snowboarders; or
+22 “(b) Receives no wage other than passes authorizing access to and use of
+23 a ski area, as defined in ORS 30.970, for performing services directly related
+24 to the organizing or conducting of skiing or snowboarding races or other
+25 similar competitions that are:
+26 “(A) Sponsored and organized by a nonprofit corporation, as defined in
+27 ORS 65.001; and
+28 “(B) Held in a ski area, as defined in ORS 30.970.
+29 “(21) An individual who has entered into a contract to play minor league
+30 baseball for a professional sports organization and who is subject to a col-
+SB 1518-1 2/2/26
+Proposed Amendments to SB 1518 Page 4
+
+1 lective bargaining agreement, the terms of which provide for the payment
+2 of wages and working conditions.
+3 “SECTION 2. ORS 653.547 is amended to read:
+4 “653.547. (1) As used in this section:
+5 “(a) ‘Domestic service’ means services related to the care of persons in
+6 private homes or the maintenance of private homes or their premises.
+7 “(b)(A) ‘Domestic worker’ means an individual who works in the home of
+8 another person for the purpose of caring for a child, doing housekeeping or
+9 providing other domestic service and who is not compensated with public
+10 funds for the work performed.
+11 “(B) ‘Domestic worker’ does not include:
+12 “(i) A parent or spouse of the employer.
+13 “(ii) A child of the employer who is under 26 years of age.
+14 “(iii) Students who regularly attend elementary or secondary school dur-
+15 ing the day.
+16 “(iv) Children, other than children of the employer, who are under 14
+17 years of age.
+18 “(v) Children under 18 years of age who provide babysitting services and
+19 persons who provide babysitting on a casual basis.
+20 “(vi) Persons who perform casual labor in private homes or the mainte-
+21 nance of private homes or their premises, including but not limited to yard
+22 work, washing windows and shoveling snow.
+23 “(vii) Individuals employed by organizations licensed as required by ORS
+24 443.015 or 443.315.
+25 “(viii) Independent contractors.
+26 “(ix) Individuals performing companionship services [exempt from the
+27 provisions of the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.)],
+28 as defined in 29 C.F.R. 552.6, as in effect on January 1, 2016, unless,
+29 and only to the extent that, the individuals are employed, singly or
+30 jointly, by a third party engaged in the business of providing home
+SB 1518-1 2/2/26
+Proposed Amendments to SB 1518 Page 5
+
+1 care or companionship services.
+2 “(x) Persons who perform house sitting duties that do not involve do-
+3 mestic service.
+4 “(xi) Persons who provide domestic service in exchange for an in-kind
+5 good or service.
+6 “(c) ‘Employer’ means a person that employs another person in this state.
+7 “(2) A person employing a domestic worker shall:
+8 “(a) Notwithstanding ORS 653.020, pay the domestic worker an overtime
+9 wage at a rate of one and one-half times the worker’s base rate for hours
+10 worked in excess of 40 hours in a workweek, or in excess of 44 hours in a
+11 workweek if the domestic worker lives in the home of the employer.
+12 “(b) Provide the domestic worker at least 24 consecutive hours of rest
+13 each workweek. If the domestic worker agrees to work on the anticipated
+14 day of rest, the employer shall pay the employee the overtime rate specified
+15 in paragraph (a) of this subsection.
+16 “(c) If the domestic worker lives in the home of the employer, provide at
+17 least eight consecutive hours of rest within each 24-hour period and provide
+18 a space with adequate conditions for uninterrupted sleep.
+19 “(d) If the domestic worker lives in the home of the employer, permit the
+20 domestic worker to cook the worker’s own food, subject to reasonable re-
+21 strictions based on the religious or health needs of the home’s residents.
+22 “(e) If the domestic worker worked an average of at least 30 hours per
+23 week during the previous year, provide the domestic worker with at least
+24 three paid personal leave days off.
+25 “(3) Notwithstanding subsection (2)(a) of this section, the Commissioner
+26 of the Bureau of Labor and Industries shall adopt rules for the calculation
+27 of overtime wages for domestic workers during periods of travel and medical
+28 emergencies.
+29 “(4) A person that employs a domestic worker may not:
+30 “(a) Request that the domestic worker allow the employer, on either a
+SB 1518-1 2/2/26
+Proposed Amendments to SB 1518 Page 6
+
+1 mandatory or voluntary basis, to have possession of the worker’s passport.
+2 “(b) Engage in unwelcome sexual advances, request sexual favors or en-
+3 gage in other verbal or physical conduct of a sexual nature directed toward
+4 a domestic worker when:
+5 “(A) Submission to the conduct is made, either explicitly or implicitly, a
+6 term or condition of the domestic worker’s employment;
+7 “(B) Submission to or rejection of the conduct by the domestic worker is
+8 used as the basis for employment decisions affecting the domestic worker;
+9 or
+10 “(C) The conduct has the purpose or effect of unreasonably interfering
+11 with the domestic worker’s work performance by creating an intimidating,
+12 hostile or offensive work environment.
+13 “(c) Subject a domestic worker to harassment based on gender, race, re-
+14 ligion, disability, sexual orientation, gender identity or national origin if the
+15 harassment has the purpose or effect of unreasonably interfering with the
+16 worker’s work performance by creating an intimidating, hostile or offensive
+17 work environment.
+18 “(d) Retaliate or in any way discriminate against an individual with re-
+19 spect to hire or tenure or any other term or condition of employment because
+20 the individual has inquired about the provisions of this section and ORS
+21 653.549 or has reported a violation to, or filed a complaint with, the Bureau
+22 of Labor and Industries alleging a violation of this section.”.
+23
+SB 1518-1 2/2/26
+Proposed Amendments to SB 1518 Page 7
+
+[DELETED: B1C16( l 2 o t p b b t p i “ a O f e p o a a g r a h b p o a p b i r o e a i e b a e w d n a c q d t p y u m t 5 S i i t p s c o o m o t I e a a h h o p l a i p o  b i a o w h b a i c a C d f a p r t t f o w]
+[DELETED:  H b e i a l l t 1 w d t a i d i p ( I 1 y o a o u a i e a a h h l i p o a p b i a o w h b a i a g r a h b p o a p I p a t s p a e o 1 y o a o S e i p e i t r p o A i e i d s o a c b i o A i e i a e o pkw A i w i e b a i w f i o s e a i w t i i a e A i e i t c o a o s obo A i d a a f e o o d f t o t t p t d p t w t i p128P]
+[DELETED:  A i p f s h o e t o p A i d a m a d t o p w t o p l f t p A o c o f p t g g a A i e a a n c g o c A i w p s a a v f a A i w p c c s i t h o t f h t p c s a d i 2 C b o a i a u t c f t u a o t t t t i i e s o j b a t e i t b o p h c ops A i w p s a a c a a g c i t i p a l t m s T i i n a t p v g c m128P]
+[DELETED:  A i e a a r m b a a f t i l p t O 4 t 4 a w i A i r i a m h p o m f t p o m m o i a i t a c o b a p a t p t a f t w u p o p m a I r w t o a a n s p a w r n o t p a a t a u o a s a a d i O 3 f p s p s i b n t s r t p t s o a p i t o o c o s o s r o o S a o b a n c a d i f a p s o a w i s t a c128P]
+[DELETED:  b a t t o w p f t p ‘ s m s r t t c o p i p f t p o c f a c d h o d s a w i n c w p S w r a e o s s d C o t c o t e w a u 1 C u 1 P w p c l i p h o t m o p h o t p i b n l t y a r b O I p c s  f t o t F L S A o 1 ( U 2 e s d i 2 C 5 a i e o J 1 2 u o t t e t t i a e s o b a t p e i t b o p h128P]
+[DELETED:  P w p h s d t d n i dcs P w p d s i e f a i N O 6 p t d w a o a a r o o a o t t w b r f h i e o 4 h i a w o i e o 4 h i  P t d w a l 2 c h o r w I t d w a t w o t a o r t e I t w t c t w o f s t r r I t d w w a a o a l 3 h p d t p y p t d w w a l N s ( o t s t C t B o L a I s a r f t c R t t d w a t e o e 128P]
+[DELETED:  E i u s a r s f o e i o v o p t c i m e e o i  S t a t b f e d a t d w T c h t p o e o u i t d w w p b c a i S a d w t h b o g r r h t p o e o u i w t w p b c a i h o o R o i a w d a a i w r i h i a t p o t s a O128P]

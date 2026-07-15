@@ -1,0 +1,847 @@
+Title: HOUSE BILL 4140
+Official Title: HOUSE BILL 4140
+Number of Sections: 1
+Source: versions - HJUD Amendment -1
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+HB 4140-1
+(LC 52)
+2/10/26 (TSB/htl/ps)
+Requested by Representative WALLAN
+PROPOSED AMENDMENTS TO
+1 On page 1 of the printed bill, line 2, delete “161.005,” and after “164.365”
+2 insert “, 165.116”.
+3 On page 2, line 19, delete “3 to 9” and insert “3 and 4”.
+4 In line 35, delete “On a daily basis,” and after “download” insert “and
+5 maintain”.
+6 In line 39, after “was” insert “received and”.
+7 Delete lines 40 through 45 and delete pages 3 through 7.
+8 On page 8, delete lines 1 through 40 and insert:
+9
+10 “CHANGES TO SCRAP METAL LAWS
+11
+12 “SECTION 5. ORS 165.116 is amended to read:
+13 “165.116. As used in ORS 165.116 to 165.124:
+14 “(1) ‘Commercial account’ means an agreement or arrangement between
+15 a commercial seller and a scrap metal business for regularly or periodically
+16 selling, delivering, purchasing or receiving metal property.
+17 “(2) ‘Commercial metal property’ means an item fabricated or containing
+18 parts made of metal or metal alloys that:
+19 “(a) Is used as, used in or used as part of:
+20 “(A) A utility access cover or a cover for a utility meter;
+21 “(B) A pole, fixture or component of a street light or traffic light;
+1 “(C) A sign or marker located, with the permission of a governmental
+2 entity, alongside a street, road or bridge for the purpose of directing or
+3 controlling traffic or providing information to motorists;
+4 “(D) A traffic safety device, including a guardrail for a highway, road or
+5 bridge;
+6 “(E) A vase, plaque, marker, tablet, plate or other sign or ornament af-
+7 fixed to or in proximity to a historic site, grave, statue, monument or similar
+8 property accessible to members of the public;
+9 “(F) An agricultural implement, including an irrigation wheel, sprinkler
+10 head or pipe;
+11 “(G) A forestry implement or structure, including silvicultural equipment,
+12 gates, culverts and servicing and maintenance parts or supplies; or
+13 “(H) A logging operation implement, including mechanical equipment,
+14 rigging equipment and servicing and maintenance parts or supplies;
+15 “(b) Bears the name of, or a serial or model number, logo or other device
+16 used by, a commercial seller to identify the commercial seller’s property in-
+17 cluding, but not limited to, implements or equipment used by railroads,
+18 telecommunications providers and utilities that provide telephone, com-
+19 mercial mobile radio, cable television, electricity, water, natural gas or sim-
+20 ilar services;
+21 “(c) Consists of unused or undamaged material used in building con-
+22 struction or other commercial construction, including:
+23 “(A) Copper or aluminum pipe, tubing or wiring;
+24 “(B) Aluminum gutters, downspouts, siding, decking, bleachers or risers;
+25 or
+26 “(C) Aluminum or stainless steel fence panels made of one-inch tubing 42
+27 inches long, with four-inch gaps; [or]
+28 “(d) Constitutes wire of a gauge typically used by utilities to provide
+29 electrical [or telecommunications] service[.];
+30 “(e) Constitutes telecommunications wire; or
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 2
+1 “(f) Constitutes metallic wire from which insulation has been re-
+2 moved.
+3 “(3) ‘Commercial seller’ means:
+4 “(a) A business entity, as defined in ORS 60.470, business enterprise with
+5 a fixed place of business, nonprofit corporation or governmental entity that
+6 regularly or periodically sells or delivers metal property to a scrap metal
+7 business as part of the entity’s business functions; or
+8 “(b) A person with a court order authorizing the possession and sale of
+9 particular metal property.
+10 “(4) ‘Dismantler’ means the holder of a valid, current dismantler certif-
+11 icate issued under ORS 822.110.
+12 “(5) ‘Electronic funds transfer’ has the meaning given that term in ORS
+13 293.525.
+14 “(6) ‘Fixed place of business’ means a location:
+15 “(a) Where a business enterprise primarily and regularly conducts the
+16 enterprise’s business activity;
+17 “(b) That includes a commercial building; and
+18 “(c) That corresponds to the address shown on any licenses required by
+19 state law or local ordinance for all applicable business activity conducted
+20 at that location.
+21 “(7) ‘Law enforcement agency’ has the meaning given that term in ORS
+22 131.550.
+23 “(8) ‘Metal property’ means commercial metal property, nonferrous metal
+24 property or private metal property.
+25 “(9)(a) ‘Nonferrous metal property’ means an item fabricated or contain-
+26 ing parts made of or in an alloy with copper, brass, aluminum, bronze, lead,
+27 zinc or nickel.
+28 “(b) ‘Nonferrous metal property’ does not include gold, silver or platinum
+29 that is used in the manufacture, repair, sale or resale of jewelry.
+30 “(10) ‘Nonprofit corporation’ means a corporation to which the Secretary
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 3
+1 of State has issued a certificate of existence or a certificate of authorization
+2 under ORS 65.027.
+3 “(11) ‘Private metal property’ means a catalytic converter or a component
+4 of a catalytic converter that has been removed from a vehicle and is offered
+5 for sale as an independent item, whether individually or as part of a bundle,
+6 bale or in other bulk form.
+7 “(12)(a) ‘Scrap metal business’ means a person that:
+8 “(A) Maintains a permanent or fixed place of business at which the per-
+9 son:
+10 “(i) Engages in the business of purchasing or receiving metal property;
+11 “(ii) Alters or prepares metal property the person receives for use in
+12 manufacturing other products; and
+13 “(iii) Owns, leases, rents, maintains or uses a device used in metal recy-
+14 cling, including a hydraulic baler, metal shearer or metal shredder;
+15 “(B) Maintains a permanent or fixed place of business at which the person
+16 engages in the business of purchasing or receiving metal property for the
+17 purpose of aggregation and sale to another scrap metal business;
+18 “(C) Does not necessarily maintain a permanent or fixed place of business
+19 in this state but engages in the business of purchasing or receiving
+20 nonferrous metal property for the purpose of aggregation and sale to another
+21 scrap metal business and holds any licenses required by state law or local
+22 ordinance for conducting all applicable business activity; or
+23 “(D) Engages in the business of purchasing or receiving private metal
+24 property at a fixed place of business and holds any licenses required by state
+25 law or local ordinance for all applicable business activity.
+26 “(b) ‘Scrap metal business’ does not include a governmental entity that
+27 accepts metal property for recycling.
+28 “(13) ‘Stored value device’ means a debit card or other device that draws
+29 funds from an account owned or operated by the user and that allows the
+30 user to obtain something of value from a merchant.
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 4
+1 “(14) ‘Telecommunications provider’ has the meaning given that
+2 term in ORS 184.911.
+3 “(15) ‘Telecommunications wire’ means copper or copper alloy wire,
+4 cable, tubing or related materials that bear evidence of being or are
+5 reasonably likely to be implements or equipment used by a telecom-
+6 munications provider, such as insulation of an industry-standard color
+7 for telecommunications wiring, materials with attached telecommuni-
+8 cations connectors or terminators or materials showing evidence of
+9 recent removal from telecommunications infrastructure.
+10 “[(14)(a)] (16)(a) ‘Transaction’ means a sale, purchase, receipt or trade of,
+11 or a contract, agreement or pledge to sell, purchase, receive or trade, private
+12 metal property or nonferrous metal property that occurs or forms between
+13 an individual and a scrap metal business.
+14 “(b) ‘Transaction’ does not include:
+15 “(A) A transfer of metal property made without consideration; or
+16 “(B) A sale, purchase, receipt or trade of, or a contract, agreement or
+17 pledge to sell, purchase, receive or trade, private metal property or
+18 nonferrous metal property that occurs or forms between:
+19 “(i) A commercial seller or an authorized employee or agent of the com-
+20 mercial seller; and
+21 “(ii) A scrap metal business or an authorized employee or agent of the
+22 scrap metal business.
+23 “SECTION 6. ORS 165.117 is amended to read:
+24 “165.117. (1) Before completing a transaction, a scrap metal business en-
+25 gaged in business in this state shall:
+26 “(a) Create a metal property record for the transaction at the time and
+27 in the location where the transaction occurs. The record must:
+28 “(A) Be accurate and written clearly and legibly in English;
+29 “(B) Be entered onto a standardized printed form or an electronic form
+30 that is securely stored and is capable of ready retrieval and printing; and
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 5
+1 “(C) Contain all of the following information:
+2 “(i) The signature of the individual with whom the scrap metal business
+3 conducts the transaction.
+4 “(ii) The time, date, location and monetary amount or other value of the
+5 transaction.
+6 “(iii) The name of the employee who conducts the transaction on behalf
+7 of the scrap metal business.
+8 “(iv) The name and telephone number of the individual with whom the
+9 scrap metal business conducts the transaction and a street address or, if a
+10 post office box is listed on the government-issued photo identification de-
+11 scribed in sub-subparagraph (vi) of this subparagraph, a post office box, to
+12 which the scrap metal business will mail payment to the individual.
+13 “(v) The make, model year and the license plate number and state of issue
+14 of the motor vehicle or motor vehicles, if any, used to transport the indi-
+15 vidual who conducts the transaction and to transport the nonferrous metal
+16 property or private metal property that is the subject of the transaction.
+17 “(vi) A photocopy of a current, valid driver license or other government-
+18 issued photo identification belonging to the individual with whom the scrap
+19 metal business conducts the transaction.
+20 “(vii) A photograph of, or video surveillance recording depicting, a re-
+21 cognizable facial image of the individual with whom the scrap metal business
+22 conducts the transaction.
+23 “(viii) A general description of the nonferrous metal property that con-
+24 stitutes the predominant part of the transaction and a specific description
+25 of private metal property, if any, included in the transaction. The description
+26 must include any identifiable marks on the property, if readily discernible,
+27 and must specify the weight, quantity or volume of the nonferrous metal
+28 property or private metal property.
+29 “(ix) For private metal property, the vehicle identification number and a
+30 copy of the title or vehicle registration for the vehicle from which the pri-
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 6
+1 vate metal property was removed.
+2 “(b) Require the individual with whom the scrap metal business conducts
+3 a transaction to sign and date a declaration printed in conspicuous type, ei-
+4 ther on the record described in this subsection or on a receipt issued to the
+5 individual with whom the scrap metal business conducts the transaction,
+6 that states:
+7 “ ________________________________________________________________________
+8 I, , AFFIRM UNDER PENALTY OF LAW THAT THE
+9 PROPERTY I AM SELLING IN THIS TRANSACTION IS NOT, TO THE
+10 BEST OF MY KNOWLEDGE, STOLEN PROPERTY.
+11 “ ________________________________________________________________________
+12 “(c) Require the employee of the scrap metal business who conducts the
+13 transaction on behalf of the scrap metal business to witness the individual
+14 sign the declaration, and also to sign and date the declaration in a space
+15 provided for that purpose.
+16 “(d) For one year following the date of the transaction, keep a copy of the
+17 record and the signed and dated declaration described in this subsection. If
+18 the scrap metal business uses a video surveillance recording as part of the
+19 record kept in accordance with this subsection, the scrap metal business need
+20 not keep the video surveillance recording for one year, but shall retain the
+21 video surveillance recording for a minimum of 30 days following the date of
+22 the transaction. The scrap metal business shall at all times keep the copies
+23 at the current place of business for the scrap metal business.
+24 “(2) A scrap metal business engaged in business in this state may not do
+25 any of the following:
+26 “(a) Purchase or receive kegs or similar metallic containers used to store
+27 or dispense alcoholic beverages, except from a person that manufactures the
+28 kegs or containers or from a person licensed by the Oregon Liquor and
+29 Cannabis Commission under ORS 471.155.
+30 “(b) Conduct a transaction with an individual if the individual does not
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 7
+1 at the time of the transaction consent to the creation of the record described
+2 in subsection (1) of this section and produce for inspection a valid driver li-
+3 cense or other valid government-issued photo identification that belongs to
+4 the individual.
+5 “(c) Conduct a transaction with an individual in which the scrap metal
+6 business pays the individual other than by electronic funds transfer, stored
+7 value card or stored value device, or by mailing a nontransferable check,
+8 made payable to the individual, for the amount of the transaction to the
+9 street address or post office box the individual provided under subsection
+10 (1)(a)(C)(iv) of this section. Payment must be made not earlier than three
+11 business days after the date of the transaction. The check, electronic funds
+12 transfer or stored value device must be drawn on or must draw from an ac-
+13 count that the scrap metal business maintains with a financial institution,
+14 as defined in ORS 706.008. A stored value card may be issued by a money
+15 transmission business licensed under ORS 717.200 to 717.320 or exempt from
+16 the licensing requirement under ORS 717.210.
+17 “(d) Purchase metal property from a nonprofit corporation other than by
+18 electronic funds transfer, stored value card or stored value device, or by
+19 mailing a nontransferable check, made payable to the nonprofit corporation,
+20 for the amount of the purchase price to the business address provided under
+21 subsection (4)(a)(B) of this section. Payment must be made not earlier than
+22 three business days after the date of the purchase. The check, electronic
+23 funds transfer or stored value device must be drawn on or must draw from
+24 an account that the scrap metal business maintains with a financial insti-
+25 tution, as defined in ORS 706.008. A stored value card may be issued by a
+26 money transmission business licensed under ORS 717.200 to 717.320 or exempt
+27 from the licensing requirement under ORS 717.210.
+28 “(e) Purchase private metal property from a commercial seller other than
+29 by electronic funds transfer, credit card, debit card, stored value card or
+30 stored value device or by mailing a nontransferable check, made payable to
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 8
+1 the commercial seller, for the amount of the purchase price to the business
+2 address provided under subsection (4)(a)(B) of this section. Except for an
+3 electronic funds transfer, credit card transaction or debit card transaction
+4 which can be immediate, payment must be made not earlier than three busi-
+5 ness days after the date of the purchase. The check, electronic funds trans-
+6 fer, credit card, debit card or stored value device must be drawn on or must
+7 draw from an account that the scrap metal business maintains with a fi-
+8 nancial institution, as defined in ORS 706.008. A stored value card may be
+9 issued by a money transmission business licensed under ORS 717.200 to
+10 717.320 or exempt from the licensing requirement under ORS 717.210.
+11 “(f) Cash or release a check issued in payment for a transaction or for a
+12 purchase described in paragraph (c), (d) or (e) of this subsection other than
+13 as provided in this paragraph or paragraph (c), (d) or (e) of this subsection.
+14 If a check is not delivered to the intended recipient within 10 days of the
+15 date of the transaction or the purchase, the scrap metal business may release
+16 the check directly to the individual or commercial seller with the written
+17 approval of a law enforcement agency having jurisdiction over the scrap
+18 metal business. If a check is returned as undelivered or undeliverable, the
+19 scrap metal business shall:
+20 “(A) Release the check directly to the individual or commercial seller
+21 with the written approval of a law enforcement agency having jurisdiction
+22 over the scrap metal business; or
+23 “(B) Retain the check until the individual or commercial seller to which
+24 the check was mailed provides a valid address in accordance with subsection
+25 (1)(a)(C)(iv) or (4)(a)(B) of this section. If after 30 days following the date
+26 of the transaction or the purchase described in paragraph (c), (d) or (e) of
+27 this subsection the individual or commercial seller fails to provide a valid
+28 address, the scrap metal business may cancel the check and the individual
+29 or commercial seller shall forfeit to the scrap metal business the amount due
+30 as payment.
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 9
+1 “(g) Purchase or receive private metal property, except from:
+2 “(A) A commercial seller; or
+3 “(B) An individual who is the owner of the vehicle from which the private
+4 metal property was removed and who provides the information required un-
+5 der subsection (1)(a)(C) of this section.
+6 “(h) Conduct a transaction with an individual at a time that the
+7 scrap metal business is out of compliance with the requirements de-
+8 scribed in section 4 of this 2026 Act.
+9 “(3) If a scrap metal business obtains the approval of a law enforcement
+10 agency under subsection (2)(f) of this section, the scrap metal business shall
+11 retain the written approval for one year following the date the approval is
+12 received.
+13 “(4) Before purchasing or receiving metal property from a commercial
+14 seller, a scrap metal business shall:
+15 “(a) Create and maintain a commercial account with the commercial
+16 seller. As part of the commercial account, the scrap metal business shall
+17 enter accurately, clearly and legibly in English onto a standardized printed
+18 form, or an electronic form that is securely stored and is capable of ready
+19 retrieval and printing, the following information:
+20 “(A) The full name of the commercial seller;
+21 “(B) The business address and telephone number of the commercial seller;
+22 and
+23 “(C) The full name of each employee, agent or other individual the com-
+24 mercial seller authorizes to receive payment for metal property from the
+25 scrap metal business.
+26 “(b) Create a metal property record as part of the commercial account at
+27 the time and in the location that the scrap metal business purchases or re-
+28 ceives metal property from a commercial seller that contains the following
+29 information:
+30 “(A) The time, date and location at which the scrap metal business pur-
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 10
+1 chased or received the metal property;
+2 “(B) The printed name and signature or electronic signature of the em-
+3 ployee who conducted the purchase or receipt on behalf of the scrap metal
+4 business;
+5 “(C) The printed name and signature or electronic signature of the indi-
+6 vidual or individuals who conducted the purchase or receipt of the metal
+7 property on behalf of the commercial seller and of the individual or indi-
+8 viduals who delivered the metal property on behalf of the commercial seller
+9 to the scrap metal business, if different;
+10 “(D) A photocopy of a valid driver license or other valid government-
+11 issued photo identification belonging to the individual or individuals who
+12 conducted the purchase or receipt of the metal property on behalf of the
+13 commercial seller and of the individual or individuals who delivered the
+14 metal property on behalf of the commercial seller to the scrap metal busi-
+15 ness, if different;
+16 “(E) The monetary amount or other value of the metal property;
+17 “(F) A description of the type of metal property that constitutes the pre-
+18 dominant part of the purchase or receipt;
+19 “(G) For private metal property sold or transferred by a commercial seller
+20 other than a dismantler, the following information for the vehicle from
+21 which the private metal property was removed:
+22 “(i) The make, model year, vehicle identification number and, if available,
+23 the license plate number and issuing state shown on the license plate; and
+24 “(ii) The date that the commercial seller removed the private metal
+25 property; and
+26 “(H) For private metal property sold or transferred by a dismantler, the
+27 stock or yard number or numbers assigned to the private metal property by
+28 the dismantler under ORS 822.137.
+29 “(I) For the following commercial metal property, written doc-
+30 umentation or identification proving that the commercial seller owns
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 11
+1 the commercial metal property or is otherwise authorized to offer the
+2 commercial metal property for sale or transfer on behalf of the owner:
+3 “(i) Commercial metal property described under ORS 165.116 (2)(b),
+4 if the commercial metal property is offered for sale or transfer by a
+5 commercial seller other than the railroad, telecommunications pro-
+6 vider or utility whose name, serial or model number, logo or other
+7 device appears on the commercial property.
+8 “(ii) Commercial metal property described under ORS 165.116 (2)(d),
+9 unless the commercial seller is a utility that provides electrical ser-
+10 vices and the commercial metal property does not bear a device as
+11 described under sub-subparagraph (i) of this subparagraph.
+12 “(iii) Commercial metal property described under ORS 165.116 (2)(e),
+13 unless the commercial seller is a telecommunications provider and the
+14 commercial metal property does not bear a device as described under
+15 sub-subparagraph (i) of this subparagraph.
+16 “(J) For commercial metal property described under ORS 165.116
+17 (2)(f), appropriate documentation proving that the commercial seller
+18 owns or is entitled to offer the metallic wire for purchase or receipt
+19 and that the insulation has been removed by accident or was done by
+20 legitimate means or for a legitimate purpose.
+21 “(c) Require all signatories to the metal property record to declare the
+22 accuracy of the information contained in the record by including on the
+23 metal property record in conspicuous type, ‘I AFFIRM BY MY SIGNATURE
+24 THAT UNDER PENALTY OF LAW THAT THE INFORMATION I PRO-
+25 VIDED AND REFLECTED ON THIS FORM IS TRUE AND ACCURATE.’
+26 “(5) A scrap metal business may require an individual from whom the
+27 business obtains metal property to provide the individual’s thumbprint to the
+28 scrap metal business.
+29 “(6) A scrap metal business shall make all records and accounts required
+30 to be maintained under this section available to any peace officer on demand.
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 12
+1 “(7)(a) Except as otherwise provided in ORS 165.118, violation of this
+2 section is a specific fine violation, and the presumptive fine for the violation
+3 is $1,000.
+4 “(b) Notwithstanding paragraph (a) of this subsection, the presumptive
+5 fine for a violation of a provision of this section is $5,000 if the scrap metal
+6 business has at least three previous convictions for violations of a provision
+7 of this section.
+8
+9 “APPLICABILITY
+10
+11 “SECTION 7. Sections 3 and 4 of this 2026 Act and the amendments
+12 to ORS 164.365, 165.116 and 165.117 by sections 1, 5 and 6 of this 2026
+13 Act apply to conduct occurring on or after the effective date of this
+14 2026 Act.”.
+15 In line 44, delete “13” and insert “8”.
+16
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 13
+[DELETED: B4C56( o t p l 3 d “ a d b a a “ i “ ‘ a m a a o a b m b f r o p ‘ m p m a i f o c]
+[DELETED:  A s o m l w t p o a g a a s r o b f t p o d o o A v p m t p o o s o o a A a i i a i w s A l o i i m e a c s t i t c s p i b n l t i o e u b r p a u t p t c m C o u o u m u i b c A g d s d b o r[ C w o a g t u b u t p [][]s120P]
+[DELETED:  C m w f w i h b r f p o b n c o g e t o p s o d m p t a s m A p w a c o a t p a s o ‘ m t h o a v c d c ‘ f t h t m g t t i O W a b e p a r c t T c t t a s o a l r b l o l o f a a b a c ‘ e a h t m g t t i O ‘ p m c ‘ m p m a i f o c ‘ c120P]
+[DELETED:  M a p o f p o b a w t p A o p m p t p r f u i O l r m o u a d u i m r i t b o p o r m p f t t s b e i t b o p o r m b a h a l r b s l o l E i t b o p o r p m ‘ m b d n i a g e t ‘ v f a a o o o b t u a t a t120P]
+[DELETED:  ‘ p h t m g t t o r m t b e o b o a l t b i o e u b a t c o t o m s e o[] p o n m p t o o f b A s p r o t o o a c a o t s p r o t p m p o A c s o a a e o a o t c A s m b o a a e o a o t ( B c a t a s m b e C a m p r f t t a t t a B e o a s p f o a e f120P]
+[DELETED:  T s o t i w w t s m b a o o v o t T n o t e w c t t o b T n a t n o t i w w t m b c t t a a s a o i  o b i l o t g p i d i s ( o t s a p o b t t m v o m v i a u t t t i w c t t a t t t n m A p o a c v d w t s A p o o v s r d a r A g d o t n m p t c t p p o t t a a s d i a i m o t p i r d m s t w q o v o t n m m p t v i n a  o t t o v r f t v f w t p120P]
+[DELETED:  t t w w t s m b c t tts_ , A U P O L T T I A S I T T I N T T_ R t e o t s m b w c t o b o t s m b t w t i t d a a t s a d t d i a s a t s a d d d i t s I s m b u a v s r a p o t k t v s r f o y b s r t s r t T s m b s a a t k t c A s m b o c o f a p l b t O L a C a t w a i i t i d n120P]
+[DELETED:  o o v g p i t b tei C a t w a i i w t s m t i o t b e f t s c o s v d o b m a n c p t t i f t a o t t t t a o p o b t i p u s o t s P m b m n e t t d a t d o t t T c e f m b d o o m d f a a t t s m b m w a f i d i O 7.A s v c m b i b a m f a n c o t b f t s v c o s v d o b ( o t s P m b m n e t b d a t d o t p T c e t o s v d m b d o o m d f a t t s m b m w a f i a d i O.A s v c m b i b  e f t c c d c s v c o v d o b m a n c m p t120P]
+[DELETED:  c s f t a o t p p t t b p u s ( o t s E f a f t c c t o d c t.T f a a t t s m b m w a f i a d i O 7 A s v c m b b a m t b l u O 7 t t o f  d i p ( ( o ( o t s o t o p ( ( o ( o t s a c i n d t t i r w 1 d o t c d t t i o c s w t w o a l e a h j o t s b I a c i r a u o u t R t c d t t i o c s t w a o a l e a h j R t c u t i o c o ( o t s I a 3 d f t d t t o t p d i p ( ( o ( o s t i o c s f t p a v t s m b m c t c a t isp120P]
+[DELETED:  p w r a w p t i r u C a t w a i a a t t t m b i o o c w t r d I a s m b o t a o a l e t w a f o y f t d t a i B p o r m p f a c C a m a c a w t c A p o t c a t s m b s a c a l i E o a s p o a e f t i s s a i c o r T f n o e e a o o i t c s a t r p f m p f t t a i t l t t s m b p o r m p f a c s t c t f T t d a l a w t s m b p120P]
+[DELETED:  T p n a s o e s o t e w c t p o r o b o t s m T p n a s o e s o t i o i w c t p o r o t m o b o t c s a o t i o i b o t c s A p o a v d l o o v g p i b t t i o i w t p o r o t m p o b o t s a o t i o i w d t p o b o t c s t t s m b m p t c t p t a d t f i f t v f T d t t c s r t p m;a F p m p s o t b a d t y n o n a t t p m p b F t f c m p w d t c s o120P]
+[DELETED:  t c m p i o f s o t b  s o t t r t p o u w n s o m n l o o t c s i a u t p e s a t c m p d n b a d a n b a d a d u F c m p d u O 1 a d p t t c s o i e t o t m w f p o r R a s t t m p r t d t o t i c i t r b i o t U P O L T T I I P A s m b m r a i f w t120P]
+[DELETED:  E a o p i O 1 v o ts$ N p ( o t s t p.S O 1 1 a 1 b s 1 5 a 6 o t a t c o o o a t e d o t6A120P]
+
+
+================================================================================
+
+Raw Text:
+HB 4140-1
+(LC 52)
+2/10/26 (TSB/htl/ps)
+Requested by Representative WALLAN
+PROPOSED AMENDMENTS TO
+HOUSE BILL 4140
+1 On page 1 of the printed bill, line 2, delete “161.005,” and after “164.365”
+2 insert “, 165.116”.
+3 On page 2, line 19, delete “3 to 9” and insert “3 and 4”.
+4 In line 35, delete “On a daily basis,” and after “download” insert “and
+5 maintain”.
+6 In line 39, after “was” insert “received and”.
+7 Delete lines 40 through 45 and delete pages 3 through 7.
+8 On page 8, delete lines 1 through 40 and insert:
+9
+10 “CHANGES TO SCRAP METAL LAWS
+11
+12 “SECTION 5. ORS 165.116 is amended to read:
+13 “165.116. As used in ORS 165.116 to 165.124:
+14 “(1) ‘Commercial account’ means an agreement or arrangement between
+15 a commercial seller and a scrap metal business for regularly or periodically
+16 selling, delivering, purchasing or receiving metal property.
+17 “(2) ‘Commercial metal property’ means an item fabricated or containing
+18 parts made of metal or metal alloys that:
+19 “(a) Is used as, used in or used as part of:
+20 “(A) A utility access cover or a cover for a utility meter;
+21 “(B) A pole, fixture or component of a street light or traffic light;
+
+1 “(C) A sign or marker located, with the permission of a governmental
+2 entity, alongside a street, road or bridge for the purpose of directing or
+3 controlling traffic or providing information to motorists;
+4 “(D) A traffic safety device, including a guardrail for a highway, road or
+5 bridge;
+6 “(E) A vase, plaque, marker, tablet, plate or other sign or ornament af-
+7 fixed to or in proximity to a historic site, grave, statue, monument or similar
+8 property accessible to members of the public;
+9 “(F) An agricultural implement, including an irrigation wheel, sprinkler
+10 head or pipe;
+11 “(G) A forestry implement or structure, including silvicultural equipment,
+12 gates, culverts and servicing and maintenance parts or supplies; or
+13 “(H) A logging operation implement, including mechanical equipment,
+14 rigging equipment and servicing and maintenance parts or supplies;
+15 “(b) Bears the name of, or a serial or model number, logo or other device
+16 used by, a commercial seller to identify the commercial seller’s property in-
+17 cluding, but not limited to, implements or equipment used by railroads,
+18 telecommunications providers and utilities that provide telephone, com-
+19 mercial mobile radio, cable television, electricity, water, natural gas or sim-
+20 ilar services;
+21 “(c) Consists of unused or undamaged material used in building con-
+22 struction or other commercial construction, including:
+23 “(A) Copper or aluminum pipe, tubing or wiring;
+24 “(B) Aluminum gutters, downspouts, siding, decking, bleachers or risers;
+25 or
+26 “(C) Aluminum or stainless steel fence panels made of one-inch tubing 42
+27 inches long, with four-inch gaps; [or]
+28 “(d) Constitutes wire of a gauge typically used by utilities to provide
+29 electrical [or telecommunications] service[.];
+30 “(e) Constitutes telecommunications wire; or
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 2
+
+1 “(f) Constitutes metallic wire from which insulation has been re-
+2 moved.
+3 “(3) ‘Commercial seller’ means:
+4 “(a) A business entity, as defined in ORS 60.470, business enterprise with
+5 a fixed place of business, nonprofit corporation or governmental entity that
+6 regularly or periodically sells or delivers metal property to a scrap metal
+7 business as part of the entity’s business functions; or
+8 “(b) A person with a court order authorizing the possession and sale of
+9 particular metal property.
+10 “(4) ‘Dismantler’ means the holder of a valid, current dismantler certif-
+11 icate issued under ORS 822.110.
+12 “(5) ‘Electronic funds transfer’ has the meaning given that term in ORS
+13 293.525.
+14 “(6) ‘Fixed place of business’ means a location:
+15 “(a) Where a business enterprise primarily and regularly conducts the
+16 enterprise’s business activity;
+17 “(b) That includes a commercial building; and
+18 “(c) That corresponds to the address shown on any licenses required by
+19 state law or local ordinance for all applicable business activity conducted
+20 at that location.
+21 “(7) ‘Law enforcement agency’ has the meaning given that term in ORS
+22 131.550.
+23 “(8) ‘Metal property’ means commercial metal property, nonferrous metal
+24 property or private metal property.
+25 “(9)(a) ‘Nonferrous metal property’ means an item fabricated or contain-
+26 ing parts made of or in an alloy with copper, brass, aluminum, bronze, lead,
+27 zinc or nickel.
+28 “(b) ‘Nonferrous metal property’ does not include gold, silver or platinum
+29 that is used in the manufacture, repair, sale or resale of jewelry.
+30 “(10) ‘Nonprofit corporation’ means a corporation to which the Secretary
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 3
+
+1 of State has issued a certificate of existence or a certificate of authorization
+2 under ORS 65.027.
+3 “(11) ‘Private metal property’ means a catalytic converter or a component
+4 of a catalytic converter that has been removed from a vehicle and is offered
+5 for sale as an independent item, whether individually or as part of a bundle,
+6 bale or in other bulk form.
+7 “(12)(a) ‘Scrap metal business’ means a person that:
+8 “(A) Maintains a permanent or fixed place of business at which the per-
+9 son:
+10 “(i) Engages in the business of purchasing or receiving metal property;
+11 “(ii) Alters or prepares metal property the person receives for use in
+12 manufacturing other products; and
+13 “(iii) Owns, leases, rents, maintains or uses a device used in metal recy-
+14 cling, including a hydraulic baler, metal shearer or metal shredder;
+15 “(B) Maintains a permanent or fixed place of business at which the person
+16 engages in the business of purchasing or receiving metal property for the
+17 purpose of aggregation and sale to another scrap metal business;
+18 “(C) Does not necessarily maintain a permanent or fixed place of business
+19 in this state but engages in the business of purchasing or receiving
+20 nonferrous metal property for the purpose of aggregation and sale to another
+21 scrap metal business and holds any licenses required by state law or local
+22 ordinance for conducting all applicable business activity; or
+23 “(D) Engages in the business of purchasing or receiving private metal
+24 property at a fixed place of business and holds any licenses required by state
+25 law or local ordinance for all applicable business activity.
+26 “(b) ‘Scrap metal business’ does not include a governmental entity that
+27 accepts metal property for recycling.
+28 “(13) ‘Stored value device’ means a debit card or other device that draws
+29 funds from an account owned or operated by the user and that allows the
+30 user to obtain something of value from a merchant.
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 4
+
+1 “(14) ‘Telecommunications provider’ has the meaning given that
+2 term in ORS 184.911.
+3 “(15) ‘Telecommunications wire’ means copper or copper alloy wire,
+4 cable, tubing or related materials that bear evidence of being or are
+5 reasonably likely to be implements or equipment used by a telecom-
+6 munications provider, such as insulation of an industry-standard color
+7 for telecommunications wiring, materials with attached telecommuni-
+8 cations connectors or terminators or materials showing evidence of
+9 recent removal from telecommunications infrastructure.
+10 “[(14)(a)] (16)(a) ‘Transaction’ means a sale, purchase, receipt or trade of,
+11 or a contract, agreement or pledge to sell, purchase, receive or trade, private
+12 metal property or nonferrous metal property that occurs or forms between
+13 an individual and a scrap metal business.
+14 “(b) ‘Transaction’ does not include:
+15 “(A) A transfer of metal property made without consideration; or
+16 “(B) A sale, purchase, receipt or trade of, or a contract, agreement or
+17 pledge to sell, purchase, receive or trade, private metal property or
+18 nonferrous metal property that occurs or forms between:
+19 “(i) A commercial seller or an authorized employee or agent of the com-
+20 mercial seller; and
+21 “(ii) A scrap metal business or an authorized employee or agent of the
+22 scrap metal business.
+23 “SECTION 6. ORS 165.117 is amended to read:
+24 “165.117. (1) Before completing a transaction, a scrap metal business en-
+25 gaged in business in this state shall:
+26 “(a) Create a metal property record for the transaction at the time and
+27 in the location where the transaction occurs. The record must:
+28 “(A) Be accurate and written clearly and legibly in English;
+29 “(B) Be entered onto a standardized printed form or an electronic form
+30 that is securely stored and is capable of ready retrieval and printing; and
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 5
+
+1 “(C) Contain all of the following information:
+2 “(i) The signature of the individual with whom the scrap metal business
+3 conducts the transaction.
+4 “(ii) The time, date, location and monetary amount or other value of the
+5 transaction.
+6 “(iii) The name of the employee who conducts the transaction on behalf
+7 of the scrap metal business.
+8 “(iv) The name and telephone number of the individual with whom the
+9 scrap metal business conducts the transaction and a street address or, if a
+10 post office box is listed on the government-issued photo identification de-
+11 scribed in sub-subparagraph (vi) of this subparagraph, a post office box, to
+12 which the scrap metal business will mail payment to the individual.
+13 “(v) The make, model year and the license plate number and state of issue
+14 of the motor vehicle or motor vehicles, if any, used to transport the indi-
+15 vidual who conducts the transaction and to transport the nonferrous metal
+16 property or private metal property that is the subject of the transaction.
+17 “(vi) A photocopy of a current, valid driver license or other government-
+18 issued photo identification belonging to the individual with whom the scrap
+19 metal business conducts the transaction.
+20 “(vii) A photograph of, or video surveillance recording depicting, a re-
+21 cognizable facial image of the individual with whom the scrap metal business
+22 conducts the transaction.
+23 “(viii) A general description of the nonferrous metal property that con-
+24 stitutes the predominant part of the transaction and a specific description
+25 of private metal property, if any, included in the transaction. The description
+26 must include any identifiable marks on the property, if readily discernible,
+27 and must specify the weight, quantity or volume of the nonferrous metal
+28 property or private metal property.
+29 “(ix) For private metal property, the vehicle identification number and a
+30 copy of the title or vehicle registration for the vehicle from which the pri-
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 6
+
+1 vate metal property was removed.
+2 “(b) Require the individual with whom the scrap metal business conducts
+3 a transaction to sign and date a declaration printed in conspicuous type, ei-
+4 ther on the record described in this subsection or on a receipt issued to the
+5 individual with whom the scrap metal business conducts the transaction,
+6 that states:
+7 “ ________________________________________________________________________
+8 I, , AFFIRM UNDER PENALTY OF LAW THAT THE
+9 PROPERTY I AM SELLING IN THIS TRANSACTION IS NOT, TO THE
+10 BEST OF MY KNOWLEDGE, STOLEN PROPERTY.
+11 “ ________________________________________________________________________
+12 “(c) Require the employee of the scrap metal business who conducts the
+13 transaction on behalf of the scrap metal business to witness the individual
+14 sign the declaration, and also to sign and date the declaration in a space
+15 provided for that purpose.
+16 “(d) For one year following the date of the transaction, keep a copy of the
+17 record and the signed and dated declaration described in this subsection. If
+18 the scrap metal business uses a video surveillance recording as part of the
+19 record kept in accordance with this subsection, the scrap metal business need
+20 not keep the video surveillance recording for one year, but shall retain the
+21 video surveillance recording for a minimum of 30 days following the date of
+22 the transaction. The scrap metal business shall at all times keep the copies
+23 at the current place of business for the scrap metal business.
+24 “(2) A scrap metal business engaged in business in this state may not do
+25 any of the following:
+26 “(a) Purchase or receive kegs or similar metallic containers used to store
+27 or dispense alcoholic beverages, except from a person that manufactures the
+28 kegs or containers or from a person licensed by the Oregon Liquor and
+29 Cannabis Commission under ORS 471.155.
+30 “(b) Conduct a transaction with an individual if the individual does not
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 7
+
+1 at the time of the transaction consent to the creation of the record described
+2 in subsection (1) of this section and produce for inspection a valid driver li-
+3 cense or other valid government-issued photo identification that belongs to
+4 the individual.
+5 “(c) Conduct a transaction with an individual in which the scrap metal
+6 business pays the individual other than by electronic funds transfer, stored
+7 value card or stored value device, or by mailing a nontransferable check,
+8 made payable to the individual, for the amount of the transaction to the
+9 street address or post office box the individual provided under subsection
+10 (1)(a)(C)(iv) of this section. Payment must be made not earlier than three
+11 business days after the date of the transaction. The check, electronic funds
+12 transfer or stored value device must be drawn on or must draw from an ac-
+13 count that the scrap metal business maintains with a financial institution,
+14 as defined in ORS 706.008. A stored value card may be issued by a money
+15 transmission business licensed under ORS 717.200 to 717.320 or exempt from
+16 the licensing requirement under ORS 717.210.
+17 “(d) Purchase metal property from a nonprofit corporation other than by
+18 electronic funds transfer, stored value card or stored value device, or by
+19 mailing a nontransferable check, made payable to the nonprofit corporation,
+20 for the amount of the purchase price to the business address provided under
+21 subsection (4)(a)(B) of this section. Payment must be made not earlier than
+22 three business days after the date of the purchase. The check, electronic
+23 funds transfer or stored value device must be drawn on or must draw from
+24 an account that the scrap metal business maintains with a financial insti-
+25 tution, as defined in ORS 706.008. A stored value card may be issued by a
+26 money transmission business licensed under ORS 717.200 to 717.320 or exempt
+27 from the licensing requirement under ORS 717.210.
+28 “(e) Purchase private metal property from a commercial seller other than
+29 by electronic funds transfer, credit card, debit card, stored value card or
+30 stored value device or by mailing a nontransferable check, made payable to
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 8
+
+1 the commercial seller, for the amount of the purchase price to the business
+2 address provided under subsection (4)(a)(B) of this section. Except for an
+3 electronic funds transfer, credit card transaction or debit card transaction
+4 which can be immediate, payment must be made not earlier than three busi-
+5 ness days after the date of the purchase. The check, electronic funds trans-
+6 fer, credit card, debit card or stored value device must be drawn on or must
+7 draw from an account that the scrap metal business maintains with a fi-
+8 nancial institution, as defined in ORS 706.008. A stored value card may be
+9 issued by a money transmission business licensed under ORS 717.200 to
+10 717.320 or exempt from the licensing requirement under ORS 717.210.
+11 “(f) Cash or release a check issued in payment for a transaction or for a
+12 purchase described in paragraph (c), (d) or (e) of this subsection other than
+13 as provided in this paragraph or paragraph (c), (d) or (e) of this subsection.
+14 If a check is not delivered to the intended recipient within 10 days of the
+15 date of the transaction or the purchase, the scrap metal business may release
+16 the check directly to the individual or commercial seller with the written
+17 approval of a law enforcement agency having jurisdiction over the scrap
+18 metal business. If a check is returned as undelivered or undeliverable, the
+19 scrap metal business shall:
+20 “(A) Release the check directly to the individual or commercial seller
+21 with the written approval of a law enforcement agency having jurisdiction
+22 over the scrap metal business; or
+23 “(B) Retain the check until the individual or commercial seller to which
+24 the check was mailed provides a valid address in accordance with subsection
+25 (1)(a)(C)(iv) or (4)(a)(B) of this section. If after 30 days following the date
+26 of the transaction or the purchase described in paragraph (c), (d) or (e) of
+27 this subsection the individual or commercial seller fails to provide a valid
+28 address, the scrap metal business may cancel the check and the individual
+29 or commercial seller shall forfeit to the scrap metal business the amount due
+30 as payment.
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 9
+
+1 “(g) Purchase or receive private metal property, except from:
+2 “(A) A commercial seller; or
+3 “(B) An individual who is the owner of the vehicle from which the private
+4 metal property was removed and who provides the information required un-
+5 der subsection (1)(a)(C) of this section.
+6 “(h) Conduct a transaction with an individual at a time that the
+7 scrap metal business is out of compliance with the requirements de-
+8 scribed in section 4 of this 2026 Act.
+9 “(3) If a scrap metal business obtains the approval of a law enforcement
+10 agency under subsection (2)(f) of this section, the scrap metal business shall
+11 retain the written approval for one year following the date the approval is
+12 received.
+13 “(4) Before purchasing or receiving metal property from a commercial
+14 seller, a scrap metal business shall:
+15 “(a) Create and maintain a commercial account with the commercial
+16 seller. As part of the commercial account, the scrap metal business shall
+17 enter accurately, clearly and legibly in English onto a standardized printed
+18 form, or an electronic form that is securely stored and is capable of ready
+19 retrieval and printing, the following information:
+20 “(A) The full name of the commercial seller;
+21 “(B) The business address and telephone number of the commercial seller;
+22 and
+23 “(C) The full name of each employee, agent or other individual the com-
+24 mercial seller authorizes to receive payment for metal property from the
+25 scrap metal business.
+26 “(b) Create a metal property record as part of the commercial account at
+27 the time and in the location that the scrap metal business purchases or re-
+28 ceives metal property from a commercial seller that contains the following
+29 information:
+30 “(A) The time, date and location at which the scrap metal business pur-
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 10
+
+1 chased or received the metal property;
+2 “(B) The printed name and signature or electronic signature of the em-
+3 ployee who conducted the purchase or receipt on behalf of the scrap metal
+4 business;
+5 “(C) The printed name and signature or electronic signature of the indi-
+6 vidual or individuals who conducted the purchase or receipt of the metal
+7 property on behalf of the commercial seller and of the individual or indi-
+8 viduals who delivered the metal property on behalf of the commercial seller
+9 to the scrap metal business, if different;
+10 “(D) A photocopy of a valid driver license or other valid government-
+11 issued photo identification belonging to the individual or individuals who
+12 conducted the purchase or receipt of the metal property on behalf of the
+13 commercial seller and of the individual or individuals who delivered the
+14 metal property on behalf of the commercial seller to the scrap metal busi-
+15 ness, if different;
+16 “(E) The monetary amount or other value of the metal property;
+17 “(F) A description of the type of metal property that constitutes the pre-
+18 dominant part of the purchase or receipt;
+19 “(G) For private metal property sold or transferred by a commercial seller
+20 other than a dismantler, the following information for the vehicle from
+21 which the private metal property was removed:
+22 “(i) The make, model year, vehicle identification number and, if available,
+23 the license plate number and issuing state shown on the license plate; and
+24 “(ii) The date that the commercial seller removed the private metal
+25 property; and
+26 “(H) For private metal property sold or transferred by a dismantler, the
+27 stock or yard number or numbers assigned to the private metal property by
+28 the dismantler under ORS 822.137.
+29 “(I) For the following commercial metal property, written doc-
+30 umentation or identification proving that the commercial seller owns
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 11
+
+1 the commercial metal property or is otherwise authorized to offer the
+2 commercial metal property for sale or transfer on behalf of the owner:
+3 “(i) Commercial metal property described under ORS 165.116 (2)(b),
+4 if the commercial metal property is offered for sale or transfer by a
+5 commercial seller other than the railroad, telecommunications pro-
+6 vider or utility whose name, serial or model number, logo or other
+7 device appears on the commercial property.
+8 “(ii) Commercial metal property described under ORS 165.116 (2)(d),
+9 unless the commercial seller is a utility that provides electrical ser-
+10 vices and the commercial metal property does not bear a device as
+11 described under sub-subparagraph (i) of this subparagraph.
+12 “(iii) Commercial metal property described under ORS 165.116 (2)(e),
+13 unless the commercial seller is a telecommunications provider and the
+14 commercial metal property does not bear a device as described under
+15 sub-subparagraph (i) of this subparagraph.
+16 “(J) For commercial metal property described under ORS 165.116
+17 (2)(f), appropriate documentation proving that the commercial seller
+18 owns or is entitled to offer the metallic wire for purchase or receipt
+19 and that the insulation has been removed by accident or was done by
+20 legitimate means or for a legitimate purpose.
+21 “(c) Require all signatories to the metal property record to declare the
+22 accuracy of the information contained in the record by including on the
+23 metal property record in conspicuous type, ‘I AFFIRM BY MY SIGNATURE
+24 THAT UNDER PENALTY OF LAW THAT THE INFORMATION I PRO-
+25 VIDED AND REFLECTED ON THIS FORM IS TRUE AND ACCURATE.’
+26 “(5) A scrap metal business may require an individual from whom the
+27 business obtains metal property to provide the individual’s thumbprint to the
+28 scrap metal business.
+29 “(6) A scrap metal business shall make all records and accounts required
+30 to be maintained under this section available to any peace officer on demand.
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 12
+
+1 “(7)(a) Except as otherwise provided in ORS 165.118, violation of this
+2 section is a specific fine violation, and the presumptive fine for the violation
+3 is $1,000.
+4 “(b) Notwithstanding paragraph (a) of this subsection, the presumptive
+5 fine for a violation of a provision of this section is $5,000 if the scrap metal
+6 business has at least three previous convictions for violations of a provision
+7 of this section.
+8
+9 “APPLICABILITY
+10
+11 “SECTION 7. Sections 3 and 4 of this 2026 Act and the amendments
+12 to ORS 164.365, 165.116 and 165.117 by sections 1, 5 and 6 of this 2026
+13 Act apply to conduct occurring on or after the effective date of this
+14 2026 Act.”.
+15 In line 44, delete “13” and insert “8”.
+16
+HB 4140-1 2/10/26
+Proposed Amendments to HB 4140 Page 13
+
+[DELETED: B4C56( o t p l 3 d “ a d b a a “ i “ ‘ a m a a o a b m b f r o p ‘ m p m a i f o c]
+[DELETED:  A s o m l w t p o a g a a s r o b f t p o d o o A v p m t p o o s o o a A a i i a i w s A l o i i m e a c s t i t c s p i b n l t i o e u b r p a u t p t c m C o u o u m u i b c A g d s d b o r[ C w o a g t u b u t p [][]s120P]
+[DELETED:  C m w f w i h b r f p o b n c o g e t o p s o d m p t a s m A p w a c o a t p a s o ‘ m t h o a v c d c ‘ f t h t m g t t i O W a b e p a r c t T c t t a s o a l r b l o l o f a a b a c ‘ e a h t m g t t i O ‘ p m c ‘ m p m a i f o c ‘ c120P]
+[DELETED:  M a p o f p o b a w t p A o p m p t p r f u i O l r m o u a d u i m r i t b o p o r m p f t t s b e i t b o p o r m b a h a l r b s l o l E i t b o p o r p m ‘ m b d n i a g e t ‘ v f a a o o o b t u a t a t120P]
+[DELETED:  ‘ p h t m g t t o r m t b e o b o a l t b i o e u b a t c o t o m s e o[] p o n m p t o o f b A s p r o t o o a c a o t s p r o t p m p o A c s o a a e o a o t c A s m b o a a e o a o t ( B c a t a s m b e C a m p r f t t a t t a B e o a s p f o a e f120P]
+[DELETED:  T s o t i w w t s m b a o o v o t T n o t e w c t t o b T n a t n o t i w w t m b c t t a a s a o i  o b i l o t g p i d i s ( o t s a p o b t t m v o m v i a u t t t i w c t t a t t t n m A p o a c v d w t s A p o o v s r d a r A g d o t n m p t c t p p o t t a a s d i a i m o t p i r d m s t w q o v o t n m m p t v i n a  o t t o v r f t v f w t p120P]
+[DELETED:  t t w w t s m b c t tts_ , A U P O L T T I A S I T T I N T T_ R t e o t s m b w c t o b o t s m b t w t i t d a a t s a d t d i a s a t s a d d d i t s I s m b u a v s r a p o t k t v s r f o y b s r t s r t T s m b s a a t k t c A s m b o c o f a p l b t O L a C a t w a i i t i d n120P]
+[DELETED:  o o v g p i t b tei C a t w a i i w t s m t i o t b e f t s c o s v d o b m a n c p t t i f t a o t t t t a o p o b t i p u s o t s P m b m n e t t d a t d o t t T c e f m b d o o m d f a a t t s m b m w a f i d i O 7.A s v c m b i b a m f a n c o t b f t s v c o s v d o b ( o t s P m b m n e t b d a t d o t p T c e t o s v d m b d o o m d f a t t s m b m w a f i a d i O.A s v c m b i b  e f t c c d c s v c o v d o b m a n c m p t120P]
+[DELETED:  c s f t a o t p p t t b p u s ( o t s E f a f t c c t o d c t.T f a a t t s m b m w a f i a d i O 7 A s v c m b b a m t b l u O 7 t t o f  d i p ( ( o ( o t s o t o p ( ( o ( o t s a c i n d t t i r w 1 d o t c d t t i o c s w t w o a l e a h j o t s b I a c i r a u o u t R t c d t t i o c s t w a o a l e a h j R t c u t i o c o ( o t s I a 3 d f t d t t o t p d i p ( ( o ( o s t i o c s f t p a v t s m b m c t c a t isp120P]
+[DELETED:  p w r a w p t i r u C a t w a i a a t t t m b i o o c w t r d I a s m b o t a o a l e t w a f o y f t d t a i B p o r m p f a c C a m a c a w t c A p o t c a t s m b s a c a l i E o a s p o a e f t i s s a i c o r T f n o e e a o o i t c s a t r p f m p f t t a i t l t t s m b p o r m p f a c s t c t f T t d a l a w t s m b p120P]
+[DELETED:  T p n a s o e s o t e w c t p o r o b o t s m T p n a s o e s o t i o i w c t p o r o t m o b o t c s a o t i o i b o t c s A p o a v d l o o v g p i b t t i o i w t p o r o t m p o b o t s a o t i o i w d t p o b o t c s t t s m b m p t c t p t a d t f i f t v f T d t t c s r t p m;a F p m p s o t b a d t y n o n a t t p m p b F t f c m p w d t c s o120P]
+[DELETED:  t c m p i o f s o t b  s o t t r t p o u w n s o m n l o o t c s i a u t p e s a t c m p d n b a d a n b a d a d u F c m p d u O 1 a d p t t c s o i e t o t m w f p o r R a s t t m p r t d t o t i c i t r b i o t U P O L T T I I P A s m b m r a i f w t120P]
+[DELETED:  E a o p i O 1 v o ts$ N p ( o t s t p.S O 1 1 a 1 b s 1 5 a 6 o t a t c o o o a t e d o t6A120P]

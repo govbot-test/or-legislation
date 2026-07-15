@@ -1,0 +1,96 @@
+Title: HOUSE BILL 4045
+Official Title: HOUSE BILL 4045
+Number of Sections: 1
+Source: versions - HJUD Amendment -2
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HB 4045-2
+(LC 62)
+2/5/26 (JLM/ps)
+Requested by Representative MANNIX
+PROPOSED AMENDMENTS TO
+1 On page 1 of the printed bill, line 10, after “platform” delete the rest of
+2 the line and insert a semicolon.
+3 After line 18, insert:
+4 “(c) ‘Social media platform’ has the meaning given that term in 42 U.S.C.
+5 1862w.”.
+6 Delete lines 24 through 29.
+7 On page 2, delete lines 1 through 8 and insert:
+8 “(3) A person making application for a search warrant described in sub-
+9 section (2) of this section shall specify in the application that the warrant
+10 is subject to the requirements of this section.
+11 “(4) When a search warrant described in subsection (2) of this section is
+12 requested, the applicant shall include in the proposed warrant:
+13 “(a) In both the title and body of the warrant, the words ‘Immediate Re-
+14 sponse Required’;
+15 “(b) A statement that the warrant is subject to this section; and
+16 “(c) A statement that the communications provider must produce the
+17 documents, records or other information specified in the warrant to the ap-
+18 plicant:
+19 “(A) Within 72 hours of proper service of the warrant, if the communi-
+20 cations provider is a social media platform; or
+21 “(B) Within five business days of proper service of the warrant, for all
+1 other communications providers.
+2 “(5) Notwithstanding ORS 136.583 (3), a communications provider doing
+3 business in this state shall respond to a search warrant described in sub-
+4 section (2) of this section:
+5 “(a) Within 72 hours of proper service of the warrant, if the communi-
+6 cations provider is a social media platform; or
+7 “(b) Within five business days of proper service of the warrant, for all
+8 other communications providers.”.
+9
+HB 4045-2 2/5/26
+Proposed Amendments to HB 4045 Page 2
+[DELETED: B4C66( p 1 o t p b l 1 a “ d t r o A p m a f a s w d i s ( o t s s s i t a t t w a s w d i s ( o t s i I b t t a b o t w t w ‘ R A s t t c p m p t r o o i s i t w t t a W 7 h o p s o t w i t c W f b d o p s o t w f a]
+[DELETED:  N O 1 ( a c p d i t s s r t a s w d i s W 7 h o p s o t w i t c W f b d o p s o t w f a225P]
+
+
+================================================================================
+
+Raw Text:
+HB 4045-2
+(LC 62)
+2/5/26 (JLM/ps)
+Requested by Representative MANNIX
+PROPOSED AMENDMENTS TO
+HOUSE BILL 4045
+1 On page 1 of the printed bill, line 10, after “platform” delete the rest of
+2 the line and insert a semicolon.
+3 After line 18, insert:
+4 “(c) ‘Social media platform’ has the meaning given that term in 42 U.S.C.
+5 1862w.”.
+6 Delete lines 24 through 29.
+7 On page 2, delete lines 1 through 8 and insert:
+8 “(3) A person making application for a search warrant described in sub-
+9 section (2) of this section shall specify in the application that the warrant
+10 is subject to the requirements of this section.
+11 “(4) When a search warrant described in subsection (2) of this section is
+12 requested, the applicant shall include in the proposed warrant:
+13 “(a) In both the title and body of the warrant, the words ‘Immediate Re-
+14 sponse Required’;
+15 “(b) A statement that the warrant is subject to this section; and
+16 “(c) A statement that the communications provider must produce the
+17 documents, records or other information specified in the warrant to the ap-
+18 plicant:
+19 “(A) Within 72 hours of proper service of the warrant, if the communi-
+20 cations provider is a social media platform; or
+21 “(B) Within five business days of proper service of the warrant, for all
+
+1 other communications providers.
+2 “(5) Notwithstanding ORS 136.583 (3), a communications provider doing
+3 business in this state shall respond to a search warrant described in sub-
+4 section (2) of this section:
+5 “(a) Within 72 hours of proper service of the warrant, if the communi-
+6 cations provider is a social media platform; or
+7 “(b) Within five business days of proper service of the warrant, for all
+8 other communications providers.”.
+9
+HB 4045-2 2/5/26
+Proposed Amendments to HB 4045 Page 2
+
+[DELETED: B4C66( p 1 o t p b l 1 a “ d t r o A p m a f a s w d i s ( o t s s s i t a t t w a s w d i s ( o t s i I b t t a b o t w t w ‘ R A s t t c p m p t r o o i s i t w t t a W 7 h o p s o t w i t c W f b d o p s o t w f a]
+[DELETED:  N O 1 ( a c p d i t s s r t a s w d i s W 7 h o p s o t w i t c W f b d o p s o t w f a225P]

@@ -1,0 +1,1007 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - A-Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+A-Engrossed
+Senate Bill 1510
+Ordered by the Senate February 19
+Including Senate Amendments dated February 19
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Finance and Revenue)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act makes technical fixes and slight policy updates to some tax statutes. (Flesch
+Readability Score: 63.4).
+Updates the terminology used to describe certain income earned by multinational corporations
+to reflect a change in the term used in federal law. Aligns sunset dates for earned income tax credit
+provisions with the underlying sunset date for the credit.
+Expands the tax credit for certified film production development contributions to allow the use
+of contributions for the production of commercials. Applies to fiscal years beginning on or after July
+1, 2026.
+[Provides an exception from the annual filing requirement for the property tax exemption for
+property burdened by an affordable housing covenant used for owner-occupied housing. Applies to
+property tax years beginning on or after July 1, 2027.]
+Extends the sunset for the property tax exemption for cargo containers.
+Repeals the requirement that revenue from a tribal tax on the distribution of motor ve-
+hicle fuel that is exempt from the gas taxes under Oregon law is subject to the highway-use
+restrictions under the Oregon Constitution.
+Extends the applicability of the pass-through business alternative income tax and tax
+credit through the 2027 tax year. Allows overpayments to be credited as estimated payments
+for the next tax year.
+Requires the State Board of Tax Practitioners to register as enrolled agents individuals
+who are authorized by the Internal Revenue Service to represent taxpayers as enrolled
+agents.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to taxation; creating new provisions; amending ORS 284.368, 314.698, 317.267, 319.245,
+3 673.605, 673.610, 673.615, 673.625, 673.637 and 673.685 and section 2, chapter 783, Oregon Laws
+4 1979, section 32a, chapter 579, Oregon Laws 2019, section 50, chapter 525, Oregon Laws 2021,
+5 sections 3, 10 and 12, chapter 589, Oregon Laws 2021, and section 16, chapter 82, Oregon Laws
+6 2022; and prescribing an effective date.
+7 Be It Enacted by the People of the State of Oregon:
+8 SECTION 1. ORS 314.698 is amended to read:
+9 314.698. For purposes of ORS 317.267, amounts of [global intangible low-taxed] net controlled
+10 foreign corporation tested income described in section 951A of the Internal Revenue Code and
+11 included in gross income shall be treated in the same manner as a dividend.
+12 SECTION 2. ORS 317.267 is amended to read:
+13 317.267. (1) To derive Oregon taxable income, there shall be added to federal taxable income:
+14 (a) Amounts received as dividends from corporations deducted for federal purposes pursuant to
+15 section 243 or 245 of the Internal Revenue Code, except section 245(c) of the Internal Revenue Code;
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 254
+A-Eng. SB 1510
+1 (b) Amounts deducted for income repatriated, deemed or otherwise, under section 965 of the
+2 Internal Revenue Code;
+3 (c) Amounts deducted as [global intangible low-taxed] net controlled foreign corporation
+4 tested income pursuant to section 250 of the Internal Revenue Code;
+5 (d) Amounts paid as dividends by a public utility or telecommunications utility and deducted for
+6 federal purposes pursuant to section 247 of the Internal Revenue Code; or
+7 (e) Dividends eliminated under Treasury Regulations adopted under section 1502 of the Internal
+8 Revenue Code that are paid by members of an affiliated group that are eliminated from a consol-
+9 idated federal return pursuant to ORS 317.715 (2).
+10 (2) To derive Oregon taxable income, after the modification prescribed under subsection (1) of
+11 this section, there shall be subtracted from federal taxable income an amount equal to 70 percent
+12 of dividends (determined without regard to section 78 of the Internal Revenue Code) received or
+13 deemed received from corporations if such dividends are included in federal taxable income. How-
+14 ever:
+15 (a) In the case of any dividend on debt-financed portfolio stock as described in section 246A of
+16 the Internal Revenue Code, the subtraction allowed under this subsection shall be reduced under the
+17 same conditions and in same amount as the dividends received deduction otherwise allowable for
+18 federal income tax purposes is reduced under section 246A of the Internal Revenue Code.
+19 (b) In the case of any dividend received from a 20 percent owned corporation, as defined in
+20 section 243(c) of the Internal Revenue Code, or [global intangible low-taxed] net controlled foreign
+21 corporation tested income included in gross income pursuant to section 951A of the Internal Re-
+22 venue Code, this subsection shall be applied by substituting “80 percent” for “70 percent.”
+23 (c) A dividend that is not treated as a dividend under section 243(d) of the Internal Revenue
+24 Code may not be treated as a dividend for purposes of this subsection.
+25 (d) If a dividends received deduction is not allowed for federal tax purposes because of section
+26 246(a) or (c) of the Internal Revenue Code, a subtraction may not be made under this subsection for
+27 received dividends that are described in section 246(a) or (c) of the Internal Revenue Code.
+28 (e) In the case of any dividend received from an alien, domestic or foreign insurer, as defined
+29 in ORS 731.082, that would be included in the taxpayer’s consolidated Oregon return but for the
+30 application of ORS 317.710 (5) or (7), this subsection shall be applied by substituting “100 percent”
+31 for “70 percent.”
+32 (f) A subtraction under this subsection is not allowed for any amount of foreign-source dividend
+33 income, as described in section 245A of the Internal Revenue Code, that is included in gross income.
+34 (3) There shall be excluded from the sales factor of any apportionment formula employed to at-
+35 tribute income to this state any amount subtracted from federal taxable income under subsection (2)
+36 of this section or deducted under section 245A of the Internal Revenue Code. The amount of any
+37 dividend or of any [global intangible low-taxed] net controlled foreign corporation tested income
+38 that is apportionable shall be determined as provided by the apportionment formula applicable to the
+39 taxpayer, as provided in ORS 314.280 and 314.605 to 314.675, but may not include any amount sub-
+40 tracted under subsection (2) of this section.
+41 SECTION 3. Section 32a, chapter 579, Oregon Laws 2019, is amended to read:
+42 Sec. 32a. The amendments to ORS 315.266 by section 31, chapter 579, Oregon Laws 2019, [of
+43 this 2019 Act] apply to tax years beginning on or after January 1, 2020[, and before January 1,
+44 2026].
+45 SECTION 4. Section 50, chapter 525, Oregon Laws 2021, is amended to read:
+[2]
+A-Eng. SB 1510
+1 Sec. 50. The amendments to ORS 315.266 by section 49, chapter 525, Oregon Laws 2021, [of
+2 this 2021 Act] apply to tax years beginning on or after January 1, 2022[, and before January 1,
+3 2026].
+4 SECTION 5. ORS 284.368 is amended to read:
+5 284.368. (1) As used in this section:
+6 (a) “Actual Oregon expenses” means the costs paid in Oregon for principal photography, pro-
+7 duction or postproduction in Oregon of a film, or for media production services, including but not
+8 limited to the purchase or rental cost of equipment, food, lodging, real property and permits and
+9 payments made for salaries, wages and benefits for work in Oregon.
+10 (b) “Film” means a television movie or one or more episodes of a single television series, [or]
+11 a movie produced for release to theaters, video or the Internet or a commercial. “Film” does not
+12 include the production of [a commercial or] one or more segments of a newscast or sporting event.
+13 (c) “Filmmaker” means a person who owns a television or film production company.
+14 (d) “Local filmmaker” means a person who owns a television or film production company that
+15 has its principal place of business in this state.
+16 (e) “Local media production project” means, if made or performed by a local media production
+17 services company, a single interactive video game or a portion thereof, a commercial or
+18 postproduction services for a single film.
+19 (f) “Local media production services company” means a media production services company that
+20 has its principal place of business in this state.
+21 (g) “Media production services” includes postproduction services and interactive video game
+22 development. “Media production services” does not include the production of [a commercial or] one
+23 or more segments of a newscast or sporting event.
+24 (h) “Media production services company” means a person who is engaged in media production
+25 services.
+26 (i) “Portland metropolitan zone” means the area within a 30-mile radius of the center of the
+27 Burnside Bridge in Portland.
+28 (j) “Resident of this state” has the meaning given that term in ORS 316.027.
+29 (2)(a) The Oregon Business Development Department may reimburse a filmmaker or local media
+30 production services company for a portion of the actual Oregon expenses incurred by the filmmaker
+31 or local media production services company.
+32 (b) Maximum reimbursement for a single film or a single local media production project shall
+33 be the total of:
+34 (A) 20 percent of payments made for employee salaries, wages and benefits for work done in
+35 Oregon; and
+36 (B) 25 percent of all other actual Oregon expenses.
+37 (c) Notwithstanding paragraph (b) of this subsection, maximum reimbursement for a single film
+38 may not exceed 50 percent of total moneys received by the Oregon Production Investment Fund
+39 during the biennium in which the actual Oregon expenses are incurred.
+40 (d) To qualify for reimbursement under this subsection, total actual Oregon expenses for a film
+41 or a local media production project must equal or exceed $1 million.
+42 (3)(a) The department may reimburse a local filmmaker or local media production services
+43 company for all or a portion of the actual Oregon expenses, up to $1 million, incurred by the local
+44 filmmaker or local media production services company.
+45 (b) To qualify for reimbursement under this subsection:
+[3]
+A-Eng. SB 1510
+1 (A) Total actual Oregon expenses paid for the film or media production services must be at least
+2 $75,000;
+3 (B) The local filmmaker or local media production services company must have spent 80 percent
+4 of the film’s payroll on employees who are residents of this state; and
+5 (C) The local filmmaker or local media production services company may have employed or
+6 contracted with a certified public accountant licensed by the Oregon Board of Accountancy for the
+7 provision of payroll services.
+8 (4) In combination with the reimbursements allowed under subsections (2) and (3) of this section,
+9 the department may make an additional payment to a filmmaker for one of the following:
+10 (a) A travel and living expenses rebate of $200 per employee per day, for any day that a film is
+11 shot in Oregon but entirely outside the Portland metropolitan zone, not to exceed $10,000 per day
+12 or $50,000 per film; or
+13 (b) An increase of 10 percent of the amount otherwise allowable under subsections (2) and (3)
+14 of this section, if for at least six days and at least one day more than half of its total shoot days in
+15 Oregon the film is shot entirely outside the Portland metropolitan zone.
+16 (5) Reimbursement under this section shall be made from moneys credited to or deposited in the
+17 Oregon Production Investment Fund during the biennium in which the actual Oregon expenses were
+18 paid or any prior biennium. A reimbursement may not be made to the extent funds are not available
+19 in the fund to make the reimbursement.
+20 (6)(a) Total actual Oregon expenses supporting a claim for reimbursement under this section
+21 must be verified by the Oregon Film and Video Office. The filmmaker or local media production
+22 services company must submit to the office proof of the actual Oregon expenses. The proof must
+23 include any documentation that may be required by the office in its discretion to verify the actual
+24 Oregon expenses.
+25 (b) The office may charge the filmmaker or local media production services company for costs
+26 reasonably incurred to verify the actual Oregon expenses, including but not limited to the cost for
+27 a review or audit of the supporting documentation by an accountant or auditor. The office may re-
+28 quire the department to deduct the costs incurred by the office in performing its review or audit
+29 from any reimbursement made to the filmmaker or local media production services company under
+30 this section.
+31 (c) The office may adopt rules that establish a procedure for the submission and verification of
+32 actual Oregon expenses.
+33 SECTION 6. The amendments to ORS 284.368 by section 5 of this 2026 Act apply to fiscal
+34 years beginning on or after July 1, 2026.
+35 SECTION 7. Section 2, chapter 783, Oregon Laws 1979, as amended by section 1, chapter 583,
+36 Oregon Laws 1987, section 7, chapter 748, Oregon Laws 1995, section 1, chapter 218, Oregon Laws
+37 2003, section 1, chapter 548, 2009, section 1, chapter 213, Oregon Laws 2013, and section 3, chapter
+38 578, Oregon Laws 2019, is amended to read:
+39 Sec. 2. Cargo containers, as defined in ORS 307.835, are exempt from taxation for property tax
+40 years beginning on or after July 1, 1974, and before July 1, [2026] 2032.
+41 SECTION 8. ORS 319.245 is amended to read:
+42 319.245. (1) As used in this section:
+43 (a) “Indian tribe” means a federally recognized Indian tribe in Oregon.
+44 (b) “Tribal entity” means an entity wholly owned by an Indian tribe.
+45 (c) “Tribal member entity” means an entity wholly owned and operated by an enrolled member
+[4]
+A-Eng. SB 1510
+1 of an Indian tribe.
+2 (2) The first sale, use or distribution of motor vehicle fuel in this state is exempt from the li-
+3 cense tax imposed under ORS 319.020 (1)(b) if:
+4 (a) The motor vehicle fuel is purchased by an Indian tribe, tribal entity or tribal member entity
+5 directly or from a dealer that purchased the motor vehicle fuel in a transaction that would other-
+6 wise be subject to the tax; and
+7 (b) The motor vehicle fuel is delivered to a service station that is owned by an Indian tribe,
+8 tribal entity or tribal member entity and operated on the respective Indian tribe’s reservation or
+9 trust land.
+10 (3) In order to be eligible for the exemption under subsection (2) of this section, the Indian tribe
+11 must:
+12 (a) Impose a tax on the distribution of the motor vehicle fuel at the same rate as the license tax
+13 imposed under ORS 319.020 (1)(b); and
+14 [(b) Expend the revenue from the tax imposed pursuant to paragraph (a) of this subsection solely
+15 for uses that are consistent with the requirements of Article IX, section 3a, of the Oregon Constitution;
+16 and]
+17 [(c)] (b) Certify annually to the Department of Transportation that the Indian tribe is in com-
+18 pliance with this subsection.
+19 (4) A dealer described in subsection (2)(a) of this section shall report to the department such
+20 sales of motor vehicle fuel to Indian tribes, tribal entities and tribal member entities.
+21 (5) The department shall adopt rules prescribing the processes, forms and information that the
+22 forms must include for the certification required under subsection [(3)(c)] (3)(b) of this section and
+23 the reports required under subsection (4) of this section.
+24 SECTION 9. Section 3, chapter 589, Oregon Laws 2021, as amended by section 3, chapter 82,
+25 Oregon Laws 2022, is amended to read:
+26 Sec. 3. (1) A pass-through entity may elect to be liable for and pay a pass-through business al-
+27 ternative income tax if all members of the pass-through entity are:
+28 (a) Individuals subject to the personal income tax imposed under ORS chapter 316; or
+29 (b) Entities that are pass-through entities owned entirely by individuals subject to the personal
+30 income tax imposed under ORS chapter 316.
+31 (2) The election to pay the pass-through business alternative income tax is available if consent
+32 is given by all members of the electing pass-through entity who are members at the time the election
+33 is filed or is made by any officer, manager or member of the electing pass-through entity who is
+34 authorized, under law or the entity’s organizational documents, to make the election and who re-
+35 presents to having such authorization under penalties of perjury. The election shall be made annu-
+36 ally on or before the due date, including extensions, of the pass-through entity’s return, in the form
+37 and manner prescribed by the Department of Revenue. The election may not be made retroactively.
+38 The members of a pass-through entity may revoke an election under this section for a tax year only
+39 on or before the due date of the pass-through entity’s return for that tax year, and only if the re-
+40 vocation is agreed to by all members who are members at the time of the revocation.
+41 (3)(a) In determining the sum of distributive proceeds and computing the tax under this section,
+42 a member of a pass-through entity shall add back any amount of Oregon tax imposed under [this
+43 chapter] ORS chapter 314 and deducted by the pass-through entity at the entity level for federal
+44 income tax purposes under section 164 of the Internal Revenue Code.
+45 (b) Any amount that is added back under this subsection and that meets the conditions for the
+[5]
+A-Eng. SB 1510
+1 use of elective rates under ORS 316.043 may be treated as qualifying income under ORS 316.043, in
+2 a proportion determined by the department by rule.
+3 (4) Each pass-through entity that makes an election for a tax year pursuant to this section shall
+4 annually report to each of its members, for the tax year, the member’s share of distributive proceeds
+5 and share of tax paid under this section and eligible for the credit allowed under section 8, chapter
+6 589, Oregon Laws 2021.
+7 (5) The tax imposed on a pass-through entity pursuant to this section shall be determined with
+8 respect to the sum of each member’s share of distributive proceeds attributable to the pass-through
+9 entity for the tax year.
+10 (6) The rate of the tax imposed by and computed under this section is:
+11 (a) Nine percent of the first $250,000, or fraction thereof, of the sum of distributive proceeds;
+12 and
+13 (b) Nine and nine-tenths percent of any amount of distributive proceeds in excess of $250,000.
+14 (7) The amount of pass-through business alternative income tax due from a pass-through entity
+15 in a tax year shall be exclusive of any amount of tax due and paid by the pass-through entity under
+16 [this chapter] ORS chapter 314, except as otherwise provided in sections 2 to 6, chapter 589, Oregon
+17 Laws 2021.
+18 (8) Pass-through entities that have made an election under this section shall file an entity tax
+19 return. The return shall be accompanied by payment and shall be due on the date applicable to re-
+20 turns due under ORS chapter 316, as provided in ORS 314.385.
+21 (9) If a pass-through entity has made an overpayment of tax under this section, the
+22 pass-through entity may elect to have that overpayment credited against an installment of
+23 estimated tax for the subsequent tax year. The department shall administer this subsection
+24 in a manner consistent with the treatment of overpayment of income tax under ORS 316.583.
+25 SECTION 10. Section 10, chapter 589, Oregon Laws 2021, as amended by section 1, chapter 399,
+26 Oregon Laws 2023, is amended to read:
+27 Sec. 10. (1) Sections 3 and 8, chapter 589, Oregon Laws 2021, apply to tax years beginning on
+28 or after January 1, 2022, and before January 1, [2026] 2028.
+29 (2) The amendments to section 3, chapter 589, Oregon Laws 2021, by section 9 of this 2026
+30 Act apply to overpayments made before January 31, 2028.
+31 SECTION 11. Section 12, chapter 589, Oregon Laws 2021, as amended by section 2, chapter 399,
+32 Oregon Laws 2023, is amended to read:
+33 Sec. 12. The repeal of sections 3 and 8, chapter 589, Oregon Laws 2021, by section 11, chapter
+34 589, Oregon Laws 2021, applies to any tax year that begins on or after January 1, 2022, and before
+35 January 1, [2026] 2028, and to which section 164(b)(6) of the Internal Revenue Code is not applicable.
+36 SECTION 12. Section 16, chapter 82, Oregon Laws 2022, as amended by section 5, chapter 52,
+37 Oregon Laws 2024, is amended to read:
+38 Sec. 16. (1) The amendments to ORS 284.368 by section 1, chapter 82, Oregon Laws 2022, apply
+39 to fiscal years beginning on or after July 1, 2022.
+40 (2) The amendments to sections 3 and 5, chapter 589, Oregon Laws 2021, by sections 3 and 4,
+41 chapter 82, Oregon Laws 2022, apply to tax years beginning on or after January 1, 2022, [and before
+42 January 1, 2026,] and to estimated payments due on and after June 15, 2022.
+43 (3) The amendments to section 2, chapter 527, Oregon Laws 2021, by section 8, chapter 82,
+44 Oregon Laws 2022, apply to applications for precertification under section 4, chapter 527, Oregon
+45 Laws 2021, and applications for exemption under section 5, chapter 527, Oregon Laws 2021, without
+[6]
+A-Eng. SB 1510
+1 precertification, filed on or after June 3, 2022.
+2 (4) [Section 10, chapter 82, Oregon Laws 2022,] ORS 317A.123 applies to tax years beginning on
+3 or after January 1, 2022, and before January 1, 2026.
+4 (5) [Sections 13 and 15, chapter 82, Oregon Laws 2022,] ORS 316.031 and 317.346 apply to tax
+5 years beginning on or after January 1, 2023, and before January 1, 2029, and to any tax year to
+6 which a net operating loss arising in those tax years is carried back.
+7 SECTION 13. ORS 673.605 is amended to read:
+8 673.605. As used in ORS 673.605 to 673.740 unless the context requires otherwise:
+9 (1) “Board” means the State Board of Tax Practitioners created by ORS 673.725.
+10 (2) “Enrolled agent” means an individual authorized by and in good standing with the
+11 United States Department of the Treasury to represent taxpayers before the Internal Re-
+12 venue Service under 31 C.F.R. part 10.
+13 [(2)(a)] (3)(a) “Facilitator” means a person that individually or in conjunction or cooperation
+14 with another person processes, receives or accepts for delivery an application for a refund antic-
+15 ipation loan or a check in payment of refund anticipation loan proceeds or in any other manner
+16 materially facilitates the making of a refund anticipation loan.
+17 (b) “Facilitator” does not mean a financial institution as defined in ORS 706.008, a person who
+18 has been issued a license under ORS chapter 725, an affiliate that is a servicer for a financial in-
+19 stitution or for a person issued a license under ORS chapter 725, a person issued a license as a
+20 certified public accountant or public accountant by the Oregon Board of Accountancy, or any person
+21 that acts solely as an intermediary and does not deal with a taxpayer in the making of a refund
+22 anticipation loan.
+23 [(3)] (4) “Lender” means a person that makes a refund anticipation loan with the person’s own
+24 funds or a line of credit or other funding from a financial institution as defined in ORS 706.008, but
+25 does not include a financial institution as defined in ORS 706.008.
+26 [(4)] (5) “Refund anticipation loan” means a loan that the lender arranges to be repaid directly
+27 from the proceeds of the taxpayer’s federal or state personal income tax refund.
+28 [(5)(a)] (6)(a) “Refund anticipation loan fee” means the charges, fees or other consideration
+29 charged or imposed by the lender or facilitator for the making of a refund anticipation loan.
+30 (b) “Refund anticipation loan fee” does not mean any charge, fee or other consideration usually
+31 charged or imposed by the facilitator in the ordinary course of business for nonloan services, in-
+32 cluding fees for tax return preparation and fees for electronic filing of tax returns.
+33 [(6)] (7) “Registered tax aide” means any person who is registered under ORS 673.605 to 673.740
+34 as a registered tax aide.
+35 [(7)] (8) “Tax consultant” means a person who is licensed under ORS 673.605 to 673.740 to pre-
+36 pare or advise or assist in the preparation of personal income tax returns for another and for val-
+37 uable consideration.
+38 [(8)] (9) “Taxpayer” means an individual who files a federal or Oregon personal income tax re-
+39 turn.
+40 [(9)] (10) “Tax preparer” means any person who is licensed under ORS 673.605 to 673.740 as a
+41 tax preparer.
+42 SECTION 14. ORS 673.610 is amended to read:
+43 673.610. ORS 673.605 to 673.740 do not apply to:
+44 (1) Any full- or part-time employee hired to fill a permanent position, who in connection with
+45 the duties as an employee has the incidental duty of preparing income tax returns for the business
+[7]
+A-Eng. SB 1510
+1 of the employer only.
+2 (2) Any attorney at law rendering services in the performance of the duties of an attorney at
+3 law.
+4 (3) While acting as such, any fiduciary, or the regular employees thereof, acting on behalf of the
+5 fiduciary estate, the testator, trustor, grantor, or beneficiaries thereof.
+6 (4) A certified public accountant who holds an active license issued by any state, a public ac-
+7 countant holding a valid license issued under ORS 673.100 or a public accounting firm registered in
+8 any state.
+9 (5) Any employee of a certified public accountant, public accountant or registered public ac-
+10 counting firm described in subsection (4) of this section.
+11 (6) Any person employed by a local, state or federal governmental agency but only in perform-
+12 ance of official duties.
+13 (7) An enrolled agent.
+14 (8) Any employee of an enrolled agent, while acting within the scope of that employment
+15 and under the supervision of the enrolled agent.
+16 SECTION 15. ORS 673.615 is amended to read:
+17 673.615. Except as otherwise provided in ORS 673.605 to 673.740:
+18 (1) A person may not prepare or advise or assist in the preparation of personal income tax re-
+19 turns for another and for valuable consideration or represent that the person is so engaged unless
+20 the person is licensed as a tax consultant under ORS 673.605 to 673.740.
+21 (2) A tax preparer may prepare or advise or assist in the preparation of tax returns only under
+22 the supervision of a tax consultant, or a person described in ORS 673.610 [(2) or (4)] (2), (4) or (7),
+23 and subject to such conditions and limitations as the State Board of Tax Practitioners by rule may
+24 impose.
+25 (3) A registered tax aide may assist a tax consultant in the preparation of tax returns only un-
+26 der the supervision of a tax consultant and subject to such conditions and limitations as the board
+27 by rule may impose.
+28 (4) A person may not be a facilitator of a refund anticipation loan without first being issued a
+29 license as a tax consultant or tax preparer under ORS 673.640.
+30 (5) A tax consultant may employ and supervise no more than two registered tax aides at the
+31 same time under the conditions and limitations prescribed by the board by rule.
+32 SECTION 16. ORS 673.625 is amended to read:
+33 673.625. (1) Every applicant for a license as a tax consultant and every applicant for licensing
+34 as a tax preparer must:
+35 (a) Be 18 years of age or older;
+36 (b) Possess a high school diploma or a modified diploma or have passed an equivalency exam-
+37 ination;
+38 (c) Present evidence satisfactory to the State Board of Tax Practitioners that the applicant has
+39 successfully completed at least 80 hours in basic personal income tax law, theory and practice at a
+40 school training session or educational institution approved by the board; and
+41 (d) Possess a preparer tax identification number issued by the Internal Revenue Service.
+42 (2) In addition to the requirements of subsection (1) of this section, every applicant for licensing
+43 as a tax preparer must pass to the satisfaction of the board an examination. The examination must
+44 be constructed in a manner that in the judgment of the board measures the applicant’s knowledge
+45 of Oregon and federal personal income tax law, theory and practice.
+[8]
+A-Eng. SB 1510
+1 (3) In addition to the requirements of subsection (1) of this section, every applicant for licensing
+2 as a tax consultant must:
+3 (a) Present evidence satisfactory to the board of active employment, as described in ORS 673.615
+4 (2), as a tax preparer or employment in this or another state in a capacity that is, in the judgment
+5 of the board equivalent to that of a tax preparer or tax consultant, for not less than a cumulative
+6 total of 1,100 hours during at least two of the last five years. The board shall consider certification
+7 by a tax consultant or person described in ORS 673.610 [(2) or (4)] (2), (4) or (7) that the applicant
+8 was employed as a tax preparer under supervision for the period indicated in the certificate to be
+9 satisfactory evidence of the applicant’s employment as a tax preparer for the period indicated. If
+10 an applicant has worked less than a cumulative total of 1,100 hours in at least two of the last five
+11 years, the board may consider the number of hours employed, the number of years employed, the
+12 number of tax returns prepared and whether the work involved contributed directly to the profes-
+13 sional competence of the individual in determining if a tax preparer or tax consultant has met the
+14 work experience requirement.
+15 (b) Pass to the satisfaction of the board an examination that is constructed in a manner that in
+16 the judgment of the board measures the applicant’s knowledge of Oregon and federal personal in-
+17 come tax law, theory and practice. The examination for a tax consultant’s license must be of a more
+18 exacting nature and require higher standards of knowledge of personal income tax law, theory and
+19 practice than the examination for a tax preparer’s license.
+20 (4) If, in the judgment of the board, an applicant has, in combination, the education and experi-
+21 ence to qualify for a tax consultant’s or preparer’s license, but does not meet or cannot present
+22 evidence of strict compliance with the requirements of subsection (1)(c) or subsection (3)(a) of this
+23 section, the board may allow some of the applicant’s education or experience to substitute one for
+24 the other. However, this subsection does not allow a waiver of, or substitution for, any qualifications
+25 needed for a tax consultant’s or preparer’s license other than those described in subsection (1)(c)
+26 or subsection (3)(a) of this section.
+27 SECTION 17. ORS 673.637 is amended to read:
+28 673.637. (1) The State Board of Tax Practitioners may issue a license to an applicant for a li-
+29 cense as a tax consultant or as a tax preparer who:
+30 (a) Presents evidence satisfactory to the board that the applicant is licensed as a tax consultant
+31 or preparer in a state that has requirements for licensing substantially similar to the requirements
+32 for licensing in this state; and
+33 (b) Has passed to the satisfaction of the board an examination covering Oregon personal income
+34 tax law, theory and practice, the provisions of ORS 673.605 to 673.740 and the code of professional
+35 conduct prescribed by the board.
+36 [(2) Notwithstanding ORS 673.625 (1) and (3), but as otherwise provided in ORS 673.605 to
+37 673.740, the board shall license as a tax consultant any person who is, on the date of the application
+38 for a tax consultant’s license, enrolled to practice before the Internal Revenue Service pursuant to 31
+39 C.F.R. part 10 if the person has passed to the satisfaction of the board an examination covering Oregon
+40 personal income tax law, theory and practice, the provisions of ORS 673.605 to 673.740 and the code
+41 of professional conduct prescribed by the board.]
+42 [(3)] (2) Except as otherwise provided in this section, an examination is not required for licens-
+43 ing under this section.
+44 [(4)] (3) Any person desiring to be licensed under this section shall make written application to
+45 the board and shall pay to the board at the time required by the board the examination and license
+[9]
+A-Eng. SB 1510
+1 fees provided by rule of the board.
+2 (4) The board shall register as an enrolled agent any individual who:
+3 (a) Is an enrolled agent;
+4 (b) Applies for registration in the manner provided by the board by rule; and
+5 (c) Pays the registration fee established under ORS 673.685.
+6 (5) The board may not require an enrolled agent registered under this section to pass any
+7 examination administered or required by the board, or to complete continuing education
+8 under ORS 673.655, as a condition of initial registration or renewal.
+9 (6) An enrolled agent who is not licensed as a tax consultant or tax preparer under ORS
+10 673.640 may not prepare, advise or assist in the preparation of personal income tax returns
+11 for another and for valuable consideration in this state unless the enrolled agent is regis-
+12 tered with the board under this section.
+13 (7) The board may refuse to issue or renew, or may suspend or revoke, a registration as
+14 an enrolled agent under this section on any grounds described in ORS 673.700 that apply to
+15 tax consultants if the board determines the grounds are reasonably applicable to the conduct
+16 of an enrolled agent.
+17 (8) A registered enrolled agent has the authority to represent taxpayers before the De-
+18 partment of Revenue to the same extent as a licensed Oregon tax consultant.
+19 SECTION 18. ORS 673.685 is amended to read:
+20 673.685. (1) The State Board of Tax Practitioners shall adopt by rule fees for:
+21 (a) Application for examination for a tax consultant’s license.
+22 (b) Application for examination for a tax preparer’s license.
+23 (c) Issuance or renewal of a tax consultant’s license.
+24 (d) Issuance or renewal of a tax preparer’s license.
+25 (e) Issuance or renewal of a registered tax aide’s certificate.
+26 (f) Issuance or renewal of a tax consultant’s inactive license.
+27 (g) Issuance or renewal of a tax preparer’s inactive license.
+28 (h) Reactivation of a tax consultant’s inactive license or reactivation of a tax preparer’s inactive
+29 license.
+30 (i) Restoration of lapsed license.
+31 (j) Issuance or replacement of a duplicate license or certificate.
+32 (k) Registration or registration renewal for a sole proprietorship, partnership, corporation or
+33 other legal entity.
+34 (L) Issuance or renewal of a combined tax consultant’s or tax preparer’s license and registration
+35 for a sole proprietorship, partnership, corporation or other legal entity. Eligibility for a combined
+36 license shall be determined under rules adopted by the board.
+37 (m) Annual registration of a branch office of a sole proprietorship, partnership, corporation or
+38 other legal entity.
+39 (n) Issuance or renewal of a registration for an enrolled agent as described in ORS
+40 673.637.
+41 (2) The fees established by the State Board of Tax Practitioners under this section are subject
+42 to the prior approval of the Oregon Department of Administrative Services. The fees may not exceed
+43 the cost of administering the regulatory program of the State Board of Tax Practitioners pertaining
+44 to the purposes for which the fees are established, as authorized by the Legislative Assembly within
+45 the board’s budget, as that budget may be modified by the Emergency Board.
+[10]
+A-Eng. SB 1510
+1 SECTION 19. This 2026 Act takes effect on the 91st day after the date on which the 2026
+2 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+3
+[11]
+[DELETED:  B 1 i n a n o o t p o t P ( t r c b t L A I i a e b s o t e f o t T A m t f a s p u t s t s ( t,2 a e f t a f r f t p t e f b b a a h c u f o h A t t a o t p b a i t a t.A a a b t I R S t r t a e t t c n p a O 2 3 3 3 7 O L s 3 c 5 O L 2 s 5 F p o O 3 a o [] n c i l c t i d i s 9 o t I R C a:M[]]
+[DELETED:  A d f i r d o o u s 9 o t A d a [] n c f c i l C t a p b m o a a g t a e f a c i a t m p u s ( o s t s b s f f t i a d ( w r t s 7 o t I R C r o r f c i s d a i i f t c a i s a a t d r d o a f I t c o a d r f a 2 p o c a d i[] t s 9 o t I R A d t i n t a a d u s 2 o t I R I t c o a d r f a a d O 7 t w b i i t t c O r b f t t s o d u s 2 o t I R C T a o a[] 2 At, a b J 1 a t t y b o o a J 1 2]
+[DELETED:  t O 3 b s 4  2 At, a b J 1 a t t y b o o a J 1 2 “ O e m t c p i O f p p p o f m p s i b n t t p o r c o e f l r p a p a t m o o o m e o a s t s [[] w o a t o f p c t c a s i v g o a p t a c o “ p s i p s a i v g[] “ p s c m “ m z m t a w a 3 r o t c o t M r f a s f o a s l m p p s p o p m f e s w a b f w d i;a n e 5 p o t m r b t O P I F T d m r a l f o l m p s]
+[DELETED:  T l f o l m p s c m h e o A i o 1 p o t a o a T a O e s a c f r u t s b v b t O F a V O T f o l m p c m s t t o p o t a O e T p m p s c f c t d t d t c i b t o i p i r o a uss.T[]]
+[DELETED:  T f s u o d o m v f i t s i e i a t t w o T m v f i d t a s s t i o b a I t e o t m e a o o t r I t r otl E t] a t t D o T t t I t i i c A d d i s ( o t s s r t t d s t t[] 3 c 5 O L 2 a a b s 3 c 8 f o i m b a o m o m o t e p e w i u l o t e o d t m t e a w r.T o b t d d o t m o a p e s a b a a o O t i u  O c 3 a d b t p e a t e l f f]
+[DELETED:  N p o t f $ o f t o t s o d p]s2 s s f a e t I a p e h m a o o t u t s t.([][] T a t s 3 a 5 c 5 O L 2 T a t s 2 c 5 O L 2 b s 8 c 8 L 2 a t a f p u s 4 c 5 O]
+[DELETED: [][] a t b o o a J 1 2 a b J 1 2 a t a t y t “ a m a i a b a i g s w t S D o t T t r t b t I R] ( “ m a p t i o i c o c a p p r o a f d a a f a r a l o a c i p o r a l p o i a o m b i a l u O c 7 a o f a p i a l u O c 7 a p i a l a  a s a a i a d n d w a t i t m o a rnl]]] ( “ a l f m t c f o o c o i b t f i t o c o b f n s i]]]] “ A f o p e h t f a p p w i c w]
+[DELETED:  l r s i t p o t d o a a a A c p a w h a a A e o a c p a p a o r p a[] A t c m e a s n m t t r t a a t s d o a m d o h p a e e m t a k]
+[DELETED: [] e a a a e a a t p f t p i.I t b m c t n o h e t n o y e t o t r p a w t w j o t b m t a k o O a f p i t q f a t c o p l b d n m o c p ( o t t f a t c o p l o t t d i s ( ( T S B o T P m i a l t a N O 6 ( a ( b a o p i O 6 t i t l t a]]]
+[DELETED:  a o r b t b o t c c e a a f v c i t s u t e R o r r f a s p p c o a s p p c o o l e E f a c A r o I o r o a r f a e a a d i O]
+[DELETED: .T]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+A-Engrossed
+Senate Bill 1510
+Ordered by the Senate February 19
+Including Senate Amendments dated February 19
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Finance and Revenue)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act makes technical fixes and slight policy updates to some tax statutes. (Flesch
+Readability Score: 63.4).
+Updates the terminology used to describe certain income earned by multinational corporations
+to reflect a change in the term used in federal law. Aligns sunset dates for earned income tax credit
+provisions with the underlying sunset date for the credit.
+Expands the tax credit for certified film production development contributions to allow the use
+of contributions for the production of commercials. Applies to fiscal years beginning on or after July
+1, 2026.
+[Provides an exception from the annual filing requirement for the property tax exemption for
+property burdened by an affordable housing covenant used for owner-occupied housing. Applies to
+property tax years beginning on or after July 1, 2027.]
+Extends the sunset for the property tax exemption for cargo containers.
+Repeals the requirement that revenue from a tribal tax on the distribution of motor ve-
+hicle fuel that is exempt from the gas taxes under Oregon law is subject to the highway-use
+restrictions under the Oregon Constitution.
+Extends the applicability of the pass-through business alternative income tax and tax
+credit through the 2027 tax year. Allows overpayments to be credited as estimated payments
+for the next tax year.
+Requires the State Board of Tax Practitioners to register as enrolled agents individuals
+who are authorized by the Internal Revenue Service to represent taxpayers as enrolled
+agents.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to taxation; creating new provisions; amending ORS 284.368, 314.698, 317.267, 319.245,
+3 673.605, 673.610, 673.615, 673.625, 673.637 and 673.685 and section 2, chapter 783, Oregon Laws
+4 1979, section 32a, chapter 579, Oregon Laws 2019, section 50, chapter 525, Oregon Laws 2021,
+5 sections 3, 10 and 12, chapter 589, Oregon Laws 2021, and section 16, chapter 82, Oregon Laws
+6 2022; and prescribing an effective date.
+7 Be It Enacted by the People of the State of Oregon:
+8 SECTION 1. ORS 314.698 is amended to read:
+9 314.698. For purposes of ORS 317.267, amounts of [global intangible low-taxed] net controlled
+10 foreign corporation tested income described in section 951A of the Internal Revenue Code and
+11 included in gross income shall be treated in the same manner as a dividend.
+12 SECTION 2. ORS 317.267 is amended to read:
+13 317.267. (1) To derive Oregon taxable income, there shall be added to federal taxable income:
+14 (a) Amounts received as dividends from corporations deducted for federal purposes pursuant to
+15 section 243 or 245 of the Internal Revenue Code, except section 245(c) of the Internal Revenue Code;
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 254
+
+A-Eng. SB 1510
+1 (b) Amounts deducted for income repatriated, deemed or otherwise, under section 965 of the
+2 Internal Revenue Code;
+3 (c) Amounts deducted as [global intangible low-taxed] net controlled foreign corporation
+4 tested income pursuant to section 250 of the Internal Revenue Code;
+5 (d) Amounts paid as dividends by a public utility or telecommunications utility and deducted for
+6 federal purposes pursuant to section 247 of the Internal Revenue Code; or
+7 (e) Dividends eliminated under Treasury Regulations adopted under section 1502 of the Internal
+8 Revenue Code that are paid by members of an affiliated group that are eliminated from a consol-
+9 idated federal return pursuant to ORS 317.715 (2).
+10 (2) To derive Oregon taxable income, after the modification prescribed under subsection (1) of
+11 this section, there shall be subtracted from federal taxable income an amount equal to 70 percent
+12 of dividends (determined without regard to section 78 of the Internal Revenue Code) received or
+13 deemed received from corporations if such dividends are included in federal taxable income. How-
+14 ever:
+15 (a) In the case of any dividend on debt-financed portfolio stock as described in section 246A of
+16 the Internal Revenue Code, the subtraction allowed under this subsection shall be reduced under the
+17 same conditions and in same amount as the dividends received deduction otherwise allowable for
+18 federal income tax purposes is reduced under section 246A of the Internal Revenue Code.
+19 (b) In the case of any dividend received from a 20 percent owned corporation, as defined in
+20 section 243(c) of the Internal Revenue Code, or [global intangible low-taxed] net controlled foreign
+21 corporation tested income included in gross income pursuant to section 951A of the Internal Re-
+22 venue Code, this subsection shall be applied by substituting “80 percent” for “70 percent.”
+23 (c) A dividend that is not treated as a dividend under section 243(d) of the Internal Revenue
+24 Code may not be treated as a dividend for purposes of this subsection.
+25 (d) If a dividends received deduction is not allowed for federal tax purposes because of section
+26 246(a) or (c) of the Internal Revenue Code, a subtraction may not be made under this subsection for
+27 received dividends that are described in section 246(a) or (c) of the Internal Revenue Code.
+28 (e) In the case of any dividend received from an alien, domestic or foreign insurer, as defined
+29 in ORS 731.082, that would be included in the taxpayer’s consolidated Oregon return but for the
+30 application of ORS 317.710 (5) or (7), this subsection shall be applied by substituting “100 percent”
+31 for “70 percent.”
+32 (f) A subtraction under this subsection is not allowed for any amount of foreign-source dividend
+33 income, as described in section 245A of the Internal Revenue Code, that is included in gross income.
+34 (3) There shall be excluded from the sales factor of any apportionment formula employed to at-
+35 tribute income to this state any amount subtracted from federal taxable income under subsection (2)
+36 of this section or deducted under section 245A of the Internal Revenue Code. The amount of any
+37 dividend or of any [global intangible low-taxed] net controlled foreign corporation tested income
+38 that is apportionable shall be determined as provided by the apportionment formula applicable to the
+39 taxpayer, as provided in ORS 314.280 and 314.605 to 314.675, but may not include any amount sub-
+40 tracted under subsection (2) of this section.
+41 SECTION 3. Section 32a, chapter 579, Oregon Laws 2019, is amended to read:
+42 Sec. 32a. The amendments to ORS 315.266 by section 31, chapter 579, Oregon Laws 2019, [of
+43 this 2019 Act] apply to tax years beginning on or after January 1, 2020[, and before January 1,
+44 2026].
+45 SECTION 4. Section 50, chapter 525, Oregon Laws 2021, is amended to read:
+[2]
+
+A-Eng. SB 1510
+1 Sec. 50. The amendments to ORS 315.266 by section 49, chapter 525, Oregon Laws 2021, [of
+2 this 2021 Act] apply to tax years beginning on or after January 1, 2022[, and before January 1,
+3 2026].
+4 SECTION 5. ORS 284.368 is amended to read:
+5 284.368. (1) As used in this section:
+6 (a) “Actual Oregon expenses” means the costs paid in Oregon for principal photography, pro-
+7 duction or postproduction in Oregon of a film, or for media production services, including but not
+8 limited to the purchase or rental cost of equipment, food, lodging, real property and permits and
+9 payments made for salaries, wages and benefits for work in Oregon.
+10 (b) “Film” means a television movie or one or more episodes of a single television series, [or]
+11 a movie produced for release to theaters, video or the Internet or a commercial. “Film” does not
+12 include the production of [a commercial or] one or more segments of a newscast or sporting event.
+13 (c) “Filmmaker” means a person who owns a television or film production company.
+14 (d) “Local filmmaker” means a person who owns a television or film production company that
+15 has its principal place of business in this state.
+16 (e) “Local media production project” means, if made or performed by a local media production
+17 services company, a single interactive video game or a portion thereof, a commercial or
+18 postproduction services for a single film.
+19 (f) “Local media production services company” means a media production services company that
+20 has its principal place of business in this state.
+21 (g) “Media production services” includes postproduction services and interactive video game
+22 development. “Media production services” does not include the production of [a commercial or] one
+23 or more segments of a newscast or sporting event.
+24 (h) “Media production services company” means a person who is engaged in media production
+25 services.
+26 (i) “Portland metropolitan zone” means the area within a 30-mile radius of the center of the
+27 Burnside Bridge in Portland.
+28 (j) “Resident of this state” has the meaning given that term in ORS 316.027.
+29 (2)(a) The Oregon Business Development Department may reimburse a filmmaker or local media
+30 production services company for a portion of the actual Oregon expenses incurred by the filmmaker
+31 or local media production services company.
+32 (b) Maximum reimbursement for a single film or a single local media production project shall
+33 be the total of:
+34 (A) 20 percent of payments made for employee salaries, wages and benefits for work done in
+35 Oregon; and
+36 (B) 25 percent of all other actual Oregon expenses.
+37 (c) Notwithstanding paragraph (b) of this subsection, maximum reimbursement for a single film
+38 may not exceed 50 percent of total moneys received by the Oregon Production Investment Fund
+39 during the biennium in which the actual Oregon expenses are incurred.
+40 (d) To qualify for reimbursement under this subsection, total actual Oregon expenses for a film
+41 or a local media production project must equal or exceed $1 million.
+42 (3)(a) The department may reimburse a local filmmaker or local media production services
+43 company for all or a portion of the actual Oregon expenses, up to $1 million, incurred by the local
+44 filmmaker or local media production services company.
+45 (b) To qualify for reimbursement under this subsection:
+[3]
+
+A-Eng. SB 1510
+1 (A) Total actual Oregon expenses paid for the film or media production services must be at least
+2 $75,000;
+3 (B) The local filmmaker or local media production services company must have spent 80 percent
+4 of the film’s payroll on employees who are residents of this state; and
+5 (C) The local filmmaker or local media production services company may have employed or
+6 contracted with a certified public accountant licensed by the Oregon Board of Accountancy for the
+7 provision of payroll services.
+8 (4) In combination with the reimbursements allowed under subsections (2) and (3) of this section,
+9 the department may make an additional payment to a filmmaker for one of the following:
+10 (a) A travel and living expenses rebate of $200 per employee per day, for any day that a film is
+11 shot in Oregon but entirely outside the Portland metropolitan zone, not to exceed $10,000 per day
+12 or $50,000 per film; or
+13 (b) An increase of 10 percent of the amount otherwise allowable under subsections (2) and (3)
+14 of this section, if for at least six days and at least one day more than half of its total shoot days in
+15 Oregon the film is shot entirely outside the Portland metropolitan zone.
+16 (5) Reimbursement under this section shall be made from moneys credited to or deposited in the
+17 Oregon Production Investment Fund during the biennium in which the actual Oregon expenses were
+18 paid or any prior biennium. A reimbursement may not be made to the extent funds are not available
+19 in the fund to make the reimbursement.
+20 (6)(a) Total actual Oregon expenses supporting a claim for reimbursement under this section
+21 must be verified by the Oregon Film and Video Office. The filmmaker or local media production
+22 services company must submit to the office proof of the actual Oregon expenses. The proof must
+23 include any documentation that may be required by the office in its discretion to verify the actual
+24 Oregon expenses.
+25 (b) The office may charge the filmmaker or local media production services company for costs
+26 reasonably incurred to verify the actual Oregon expenses, including but not limited to the cost for
+27 a review or audit of the supporting documentation by an accountant or auditor. The office may re-
+28 quire the department to deduct the costs incurred by the office in performing its review or audit
+29 from any reimbursement made to the filmmaker or local media production services company under
+30 this section.
+31 (c) The office may adopt rules that establish a procedure for the submission and verification of
+32 actual Oregon expenses.
+33 SECTION 6. The amendments to ORS 284.368 by section 5 of this 2026 Act apply to fiscal
+34 years beginning on or after July 1, 2026.
+35 SECTION 7. Section 2, chapter 783, Oregon Laws 1979, as amended by section 1, chapter 583,
+36 Oregon Laws 1987, section 7, chapter 748, Oregon Laws 1995, section 1, chapter 218, Oregon Laws
+37 2003, section 1, chapter 548, 2009, section 1, chapter 213, Oregon Laws 2013, and section 3, chapter
+38 578, Oregon Laws 2019, is amended to read:
+39 Sec. 2. Cargo containers, as defined in ORS 307.835, are exempt from taxation for property tax
+40 years beginning on or after July 1, 1974, and before July 1, [2026] 2032.
+41 SECTION 8. ORS 319.245 is amended to read:
+42 319.245. (1) As used in this section:
+43 (a) “Indian tribe” means a federally recognized Indian tribe in Oregon.
+44 (b) “Tribal entity” means an entity wholly owned by an Indian tribe.
+45 (c) “Tribal member entity” means an entity wholly owned and operated by an enrolled member
+[4]
+
+A-Eng. SB 1510
+1 of an Indian tribe.
+2 (2) The first sale, use or distribution of motor vehicle fuel in this state is exempt from the li-
+3 cense tax imposed under ORS 319.020 (1)(b) if:
+4 (a) The motor vehicle fuel is purchased by an Indian tribe, tribal entity or tribal member entity
+5 directly or from a dealer that purchased the motor vehicle fuel in a transaction that would other-
+6 wise be subject to the tax; and
+7 (b) The motor vehicle fuel is delivered to a service station that is owned by an Indian tribe,
+8 tribal entity or tribal member entity and operated on the respective Indian tribe’s reservation or
+9 trust land.
+10 (3) In order to be eligible for the exemption under subsection (2) of this section, the Indian tribe
+11 must:
+12 (a) Impose a tax on the distribution of the motor vehicle fuel at the same rate as the license tax
+13 imposed under ORS 319.020 (1)(b); and
+14 [(b) Expend the revenue from the tax imposed pursuant to paragraph (a) of this subsection solely
+15 for uses that are consistent with the requirements of Article IX, section 3a, of the Oregon Constitution;
+16 and]
+17 [(c)] (b) Certify annually to the Department of Transportation that the Indian tribe is in com-
+18 pliance with this subsection.
+19 (4) A dealer described in subsection (2)(a) of this section shall report to the department such
+20 sales of motor vehicle fuel to Indian tribes, tribal entities and tribal member entities.
+21 (5) The department shall adopt rules prescribing the processes, forms and information that the
+22 forms must include for the certification required under subsection [(3)(c)] (3)(b) of this section and
+23 the reports required under subsection (4) of this section.
+24 SECTION 9. Section 3, chapter 589, Oregon Laws 2021, as amended by section 3, chapter 82,
+25 Oregon Laws 2022, is amended to read:
+26 Sec. 3. (1) A pass-through entity may elect to be liable for and pay a pass-through business al-
+27 ternative income tax if all members of the pass-through entity are:
+28 (a) Individuals subject to the personal income tax imposed under ORS chapter 316; or
+29 (b) Entities that are pass-through entities owned entirely by individuals subject to the personal
+30 income tax imposed under ORS chapter 316.
+31 (2) The election to pay the pass-through business alternative income tax is available if consent
+32 is given by all members of the electing pass-through entity who are members at the time the election
+33 is filed or is made by any officer, manager or member of the electing pass-through entity who is
+34 authorized, under law or the entity’s organizational documents, to make the election and who re-
+35 presents to having such authorization under penalties of perjury. The election shall be made annu-
+36 ally on or before the due date, including extensions, of the pass-through entity’s return, in the form
+37 and manner prescribed by the Department of Revenue. The election may not be made retroactively.
+38 The members of a pass-through entity may revoke an election under this section for a tax year only
+39 on or before the due date of the pass-through entity’s return for that tax year, and only if the re-
+40 vocation is agreed to by all members who are members at the time of the revocation.
+41 (3)(a) In determining the sum of distributive proceeds and computing the tax under this section,
+42 a member of a pass-through entity shall add back any amount of Oregon tax imposed under [this
+43 chapter] ORS chapter 314 and deducted by the pass-through entity at the entity level for federal
+44 income tax purposes under section 164 of the Internal Revenue Code.
+45 (b) Any amount that is added back under this subsection and that meets the conditions for the
+[5]
+
+A-Eng. SB 1510
+1 use of elective rates under ORS 316.043 may be treated as qualifying income under ORS 316.043, in
+2 a proportion determined by the department by rule.
+3 (4) Each pass-through entity that makes an election for a tax year pursuant to this section shall
+4 annually report to each of its members, for the tax year, the member’s share of distributive proceeds
+5 and share of tax paid under this section and eligible for the credit allowed under section 8, chapter
+6 589, Oregon Laws 2021.
+7 (5) The tax imposed on a pass-through entity pursuant to this section shall be determined with
+8 respect to the sum of each member’s share of distributive proceeds attributable to the pass-through
+9 entity for the tax year.
+10 (6) The rate of the tax imposed by and computed under this section is:
+11 (a) Nine percent of the first $250,000, or fraction thereof, of the sum of distributive proceeds;
+12 and
+13 (b) Nine and nine-tenths percent of any amount of distributive proceeds in excess of $250,000.
+14 (7) The amount of pass-through business alternative income tax due from a pass-through entity
+15 in a tax year shall be exclusive of any amount of tax due and paid by the pass-through entity under
+16 [this chapter] ORS chapter 314, except as otherwise provided in sections 2 to 6, chapter 589, Oregon
+17 Laws 2021.
+18 (8) Pass-through entities that have made an election under this section shall file an entity tax
+19 return. The return shall be accompanied by payment and shall be due on the date applicable to re-
+20 turns due under ORS chapter 316, as provided in ORS 314.385.
+21 (9) If a pass-through entity has made an overpayment of tax under this section, the
+22 pass-through entity may elect to have that overpayment credited against an installment of
+23 estimated tax for the subsequent tax year. The department shall administer this subsection
+24 in a manner consistent with the treatment of overpayment of income tax under ORS 316.583.
+25 SECTION 10. Section 10, chapter 589, Oregon Laws 2021, as amended by section 1, chapter 399,
+26 Oregon Laws 2023, is amended to read:
+27 Sec. 10. (1) Sections 3 and 8, chapter 589, Oregon Laws 2021, apply to tax years beginning on
+28 or after January 1, 2022, and before January 1, [2026] 2028.
+29 (2) The amendments to section 3, chapter 589, Oregon Laws 2021, by section 9 of this 2026
+30 Act apply to overpayments made before January 31, 2028.
+31 SECTION 11. Section 12, chapter 589, Oregon Laws 2021, as amended by section 2, chapter 399,
+32 Oregon Laws 2023, is amended to read:
+33 Sec. 12. The repeal of sections 3 and 8, chapter 589, Oregon Laws 2021, by section 11, chapter
+34 589, Oregon Laws 2021, applies to any tax year that begins on or after January 1, 2022, and before
+35 January 1, [2026] 2028, and to which section 164(b)(6) of the Internal Revenue Code is not applicable.
+36 SECTION 12. Section 16, chapter 82, Oregon Laws 2022, as amended by section 5, chapter 52,
+37 Oregon Laws 2024, is amended to read:
+38 Sec. 16. (1) The amendments to ORS 284.368 by section 1, chapter 82, Oregon Laws 2022, apply
+39 to fiscal years beginning on or after July 1, 2022.
+40 (2) The amendments to sections 3 and 5, chapter 589, Oregon Laws 2021, by sections 3 and 4,
+41 chapter 82, Oregon Laws 2022, apply to tax years beginning on or after January 1, 2022, [and before
+42 January 1, 2026,] and to estimated payments due on and after June 15, 2022.
+43 (3) The amendments to section 2, chapter 527, Oregon Laws 2021, by section 8, chapter 82,
+44 Oregon Laws 2022, apply to applications for precertification under section 4, chapter 527, Oregon
+45 Laws 2021, and applications for exemption under section 5, chapter 527, Oregon Laws 2021, without
+[6]
+
+A-Eng. SB 1510
+1 precertification, filed on or after June 3, 2022.
+2 (4) [Section 10, chapter 82, Oregon Laws 2022,] ORS 317A.123 applies to tax years beginning on
+3 or after January 1, 2022, and before January 1, 2026.
+4 (5) [Sections 13 and 15, chapter 82, Oregon Laws 2022,] ORS 316.031 and 317.346 apply to tax
+5 years beginning on or after January 1, 2023, and before January 1, 2029, and to any tax year to
+6 which a net operating loss arising in those tax years is carried back.
+7 SECTION 13. ORS 673.605 is amended to read:
+8 673.605. As used in ORS 673.605 to 673.740 unless the context requires otherwise:
+9 (1) “Board” means the State Board of Tax Practitioners created by ORS 673.725.
+10 (2) “Enrolled agent” means an individual authorized by and in good standing with the
+11 United States Department of the Treasury to represent taxpayers before the Internal Re-
+12 venue Service under 31 C.F.R. part 10.
+13 [(2)(a)] (3)(a) “Facilitator” means a person that individually or in conjunction or cooperation
+14 with another person processes, receives or accepts for delivery an application for a refund antic-
+15 ipation loan or a check in payment of refund anticipation loan proceeds or in any other manner
+16 materially facilitates the making of a refund anticipation loan.
+17 (b) “Facilitator” does not mean a financial institution as defined in ORS 706.008, a person who
+18 has been issued a license under ORS chapter 725, an affiliate that is a servicer for a financial in-
+19 stitution or for a person issued a license under ORS chapter 725, a person issued a license as a
+20 certified public accountant or public accountant by the Oregon Board of Accountancy, or any person
+21 that acts solely as an intermediary and does not deal with a taxpayer in the making of a refund
+22 anticipation loan.
+23 [(3)] (4) “Lender” means a person that makes a refund anticipation loan with the person’s own
+24 funds or a line of credit or other funding from a financial institution as defined in ORS 706.008, but
+25 does not include a financial institution as defined in ORS 706.008.
+26 [(4)] (5) “Refund anticipation loan” means a loan that the lender arranges to be repaid directly
+27 from the proceeds of the taxpayer’s federal or state personal income tax refund.
+28 [(5)(a)] (6)(a) “Refund anticipation loan fee” means the charges, fees or other consideration
+29 charged or imposed by the lender or facilitator for the making of a refund anticipation loan.
+30 (b) “Refund anticipation loan fee” does not mean any charge, fee or other consideration usually
+31 charged or imposed by the facilitator in the ordinary course of business for nonloan services, in-
+32 cluding fees for tax return preparation and fees for electronic filing of tax returns.
+33 [(6)] (7) “Registered tax aide” means any person who is registered under ORS 673.605 to 673.740
+34 as a registered tax aide.
+35 [(7)] (8) “Tax consultant” means a person who is licensed under ORS 673.605 to 673.740 to pre-
+36 pare or advise or assist in the preparation of personal income tax returns for another and for val-
+37 uable consideration.
+38 [(8)] (9) “Taxpayer” means an individual who files a federal or Oregon personal income tax re-
+39 turn.
+40 [(9)] (10) “Tax preparer” means any person who is licensed under ORS 673.605 to 673.740 as a
+41 tax preparer.
+42 SECTION 14. ORS 673.610 is amended to read:
+43 673.610. ORS 673.605 to 673.740 do not apply to:
+44 (1) Any full- or part-time employee hired to fill a permanent position, who in connection with
+45 the duties as an employee has the incidental duty of preparing income tax returns for the business
+[7]
+
+A-Eng. SB 1510
+1 of the employer only.
+2 (2) Any attorney at law rendering services in the performance of the duties of an attorney at
+3 law.
+4 (3) While acting as such, any fiduciary, or the regular employees thereof, acting on behalf of the
+5 fiduciary estate, the testator, trustor, grantor, or beneficiaries thereof.
+6 (4) A certified public accountant who holds an active license issued by any state, a public ac-
+7 countant holding a valid license issued under ORS 673.100 or a public accounting firm registered in
+8 any state.
+9 (5) Any employee of a certified public accountant, public accountant or registered public ac-
+10 counting firm described in subsection (4) of this section.
+11 (6) Any person employed by a local, state or federal governmental agency but only in perform-
+12 ance of official duties.
+13 (7) An enrolled agent.
+14 (8) Any employee of an enrolled agent, while acting within the scope of that employment
+15 and under the supervision of the enrolled agent.
+16 SECTION 15. ORS 673.615 is amended to read:
+17 673.615. Except as otherwise provided in ORS 673.605 to 673.740:
+18 (1) A person may not prepare or advise or assist in the preparation of personal income tax re-
+19 turns for another and for valuable consideration or represent that the person is so engaged unless
+20 the person is licensed as a tax consultant under ORS 673.605 to 673.740.
+21 (2) A tax preparer may prepare or advise or assist in the preparation of tax returns only under
+22 the supervision of a tax consultant, or a person described in ORS 673.610 [(2) or (4)] (2), (4) or (7),
+23 and subject to such conditions and limitations as the State Board of Tax Practitioners by rule may
+24 impose.
+25 (3) A registered tax aide may assist a tax consultant in the preparation of tax returns only un-
+26 der the supervision of a tax consultant and subject to such conditions and limitations as the board
+27 by rule may impose.
+28 (4) A person may not be a facilitator of a refund anticipation loan without first being issued a
+29 license as a tax consultant or tax preparer under ORS 673.640.
+30 (5) A tax consultant may employ and supervise no more than two registered tax aides at the
+31 same time under the conditions and limitations prescribed by the board by rule.
+32 SECTION 16. ORS 673.625 is amended to read:
+33 673.625. (1) Every applicant for a license as a tax consultant and every applicant for licensing
+34 as a tax preparer must:
+35 (a) Be 18 years of age or older;
+36 (b) Possess a high school diploma or a modified diploma or have passed an equivalency exam-
+37 ination;
+38 (c) Present evidence satisfactory to the State Board of Tax Practitioners that the applicant has
+39 successfully completed at least 80 hours in basic personal income tax law, theory and practice at a
+40 school training session or educational institution approved by the board; and
+41 (d) Possess a preparer tax identification number issued by the Internal Revenue Service.
+42 (2) In addition to the requirements of subsection (1) of this section, every applicant for licensing
+43 as a tax preparer must pass to the satisfaction of the board an examination. The examination must
+44 be constructed in a manner that in the judgment of the board measures the applicant’s knowledge
+45 of Oregon and federal personal income tax law, theory and practice.
+[8]
+
+A-Eng. SB 1510
+1 (3) In addition to the requirements of subsection (1) of this section, every applicant for licensing
+2 as a tax consultant must:
+3 (a) Present evidence satisfactory to the board of active employment, as described in ORS 673.615
+4 (2), as a tax preparer or employment in this or another state in a capacity that is, in the judgment
+5 of the board equivalent to that of a tax preparer or tax consultant, for not less than a cumulative
+6 total of 1,100 hours during at least two of the last five years. The board shall consider certification
+7 by a tax consultant or person described in ORS 673.610 [(2) or (4)] (2), (4) or (7) that the applicant
+8 was employed as a tax preparer under supervision for the period indicated in the certificate to be
+9 satisfactory evidence of the applicant’s employment as a tax preparer for the period indicated. If
+10 an applicant has worked less than a cumulative total of 1,100 hours in at least two of the last five
+11 years, the board may consider the number of hours employed, the number of years employed, the
+12 number of tax returns prepared and whether the work involved contributed directly to the profes-
+13 sional competence of the individual in determining if a tax preparer or tax consultant has met the
+14 work experience requirement.
+15 (b) Pass to the satisfaction of the board an examination that is constructed in a manner that in
+16 the judgment of the board measures the applicant’s knowledge of Oregon and federal personal in-
+17 come tax law, theory and practice. The examination for a tax consultant’s license must be of a more
+18 exacting nature and require higher standards of knowledge of personal income tax law, theory and
+19 practice than the examination for a tax preparer’s license.
+20 (4) If, in the judgment of the board, an applicant has, in combination, the education and experi-
+21 ence to qualify for a tax consultant’s or preparer’s license, but does not meet or cannot present
+22 evidence of strict compliance with the requirements of subsection (1)(c) or subsection (3)(a) of this
+23 section, the board may allow some of the applicant’s education or experience to substitute one for
+24 the other. However, this subsection does not allow a waiver of, or substitution for, any qualifications
+25 needed for a tax consultant’s or preparer’s license other than those described in subsection (1)(c)
+26 or subsection (3)(a) of this section.
+27 SECTION 17. ORS 673.637 is amended to read:
+28 673.637. (1) The State Board of Tax Practitioners may issue a license to an applicant for a li-
+29 cense as a tax consultant or as a tax preparer who:
+30 (a) Presents evidence satisfactory to the board that the applicant is licensed as a tax consultant
+31 or preparer in a state that has requirements for licensing substantially similar to the requirements
+32 for licensing in this state; and
+33 (b) Has passed to the satisfaction of the board an examination covering Oregon personal income
+34 tax law, theory and practice, the provisions of ORS 673.605 to 673.740 and the code of professional
+35 conduct prescribed by the board.
+36 [(2) Notwithstanding ORS 673.625 (1) and (3), but as otherwise provided in ORS 673.605 to
+37 673.740, the board shall license as a tax consultant any person who is, on the date of the application
+38 for a tax consultant’s license, enrolled to practice before the Internal Revenue Service pursuant to 31
+39 C.F.R. part 10 if the person has passed to the satisfaction of the board an examination covering Oregon
+40 personal income tax law, theory and practice, the provisions of ORS 673.605 to 673.740 and the code
+41 of professional conduct prescribed by the board.]
+42 [(3)] (2) Except as otherwise provided in this section, an examination is not required for licens-
+43 ing under this section.
+44 [(4)] (3) Any person desiring to be licensed under this section shall make written application to
+45 the board and shall pay to the board at the time required by the board the examination and license
+[9]
+
+A-Eng. SB 1510
+1 fees provided by rule of the board.
+2 (4) The board shall register as an enrolled agent any individual who:
+3 (a) Is an enrolled agent;
+4 (b) Applies for registration in the manner provided by the board by rule; and
+5 (c) Pays the registration fee established under ORS 673.685.
+6 (5) The board may not require an enrolled agent registered under this section to pass any
+7 examination administered or required by the board, or to complete continuing education
+8 under ORS 673.655, as a condition of initial registration or renewal.
+9 (6) An enrolled agent who is not licensed as a tax consultant or tax preparer under ORS
+10 673.640 may not prepare, advise or assist in the preparation of personal income tax returns
+11 for another and for valuable consideration in this state unless the enrolled agent is regis-
+12 tered with the board under this section.
+13 (7) The board may refuse to issue or renew, or may suspend or revoke, a registration as
+14 an enrolled agent under this section on any grounds described in ORS 673.700 that apply to
+15 tax consultants if the board determines the grounds are reasonably applicable to the conduct
+16 of an enrolled agent.
+17 (8) A registered enrolled agent has the authority to represent taxpayers before the De-
+18 partment of Revenue to the same extent as a licensed Oregon tax consultant.
+19 SECTION 18. ORS 673.685 is amended to read:
+20 673.685. (1) The State Board of Tax Practitioners shall adopt by rule fees for:
+21 (a) Application for examination for a tax consultant’s license.
+22 (b) Application for examination for a tax preparer’s license.
+23 (c) Issuance or renewal of a tax consultant’s license.
+24 (d) Issuance or renewal of a tax preparer’s license.
+25 (e) Issuance or renewal of a registered tax aide’s certificate.
+26 (f) Issuance or renewal of a tax consultant’s inactive license.
+27 (g) Issuance or renewal of a tax preparer’s inactive license.
+28 (h) Reactivation of a tax consultant’s inactive license or reactivation of a tax preparer’s inactive
+29 license.
+30 (i) Restoration of lapsed license.
+31 (j) Issuance or replacement of a duplicate license or certificate.
+32 (k) Registration or registration renewal for a sole proprietorship, partnership, corporation or
+33 other legal entity.
+34 (L) Issuance or renewal of a combined tax consultant’s or tax preparer’s license and registration
+35 for a sole proprietorship, partnership, corporation or other legal entity. Eligibility for a combined
+36 license shall be determined under rules adopted by the board.
+37 (m) Annual registration of a branch office of a sole proprietorship, partnership, corporation or
+38 other legal entity.
+39 (n) Issuance or renewal of a registration for an enrolled agent as described in ORS
+40 673.637.
+41 (2) The fees established by the State Board of Tax Practitioners under this section are subject
+42 to the prior approval of the Oregon Department of Administrative Services. The fees may not exceed
+43 the cost of administering the regulatory program of the State Board of Tax Practitioners pertaining
+44 to the purposes for which the fees are established, as authorized by the Legislative Assembly within
+45 the board’s budget, as that budget may be modified by the Emergency Board.
+[10]
+
+A-Eng. SB 1510
+1 SECTION 19. This 2026 Act takes effect on the 91st day after the date on which the 2026
+2 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+3
+[11]
+
+[DELETED:  B 1 i n a n o o t p o t P ( t r c b t L A I i a e b s o t e f o t T A m t f a s p u t s t s ( t,2 a e f t a f r f t p t e f b b a a h c u f o h A t t a o t p b a i t a t.A a a b t I R S t r t a e t t c n p a O 2 3 3 3 7 O L s 3 c 5 O L 2 s 5 F p o O 3 a o [] n c i l c t i d i s 9 o t I R C a:M[]]
+[DELETED:  A d f i r d o o u s 9 o t A d a [] n c f c i l C t a p b m o a a g t a e f a c i a t m p u s ( o s t s b s f f t i a d ( w r t s 7 o t I R C r o r f c i s d a i i f t c a i s a a t d r d o a f I t c o a d r f a 2 p o c a d i[] t s 9 o t I R A d t i n t a a d u s 2 o t I R I t c o a d r f a a d O 7 t w b i i t t c O r b f t t s o d u s 2 o t I R C T a o a[] 2 At, a b J 1 a t t y b o o a J 1 2]
+[DELETED:  t O 3 b s 4  2 At, a b J 1 a t t y b o o a J 1 2 “ O e m t c p i O f p p p o f m p s i b n t t p o r c o e f l r p a p a t m o o o m e o a s t s [[] w o a t o f p c t c a s i v g o a p t a c o “ p s i p s a i v g[] “ p s c m “ m z m t a w a 3 r o t c o t M r f a s f o a s l m p p s p o p m f e s w a b f w d i;a n e 5 p o t m r b t O P I F T d m r a l f o l m p s]
+[DELETED:  T l f o l m p s c m h e o A i o 1 p o t a o a T a O e s a c f r u t s b v b t O F a V O T f o l m p c m s t t o p o t a O e T p m p s c f c t d t d t c i b t o i p i r o a uss.T[]]
+[DELETED:  T f s u o d o m v f i t s i e i a t t w o T m v f i d t a s s t i o b a I t e o t m e a o o t r I t r otl E t] a t t D o T t t I t i i c A d d i s ( o t s s r t t d s t t[] 3 c 5 O L 2 a a b s 3 c 8 f o i m b a o m o m o t e p e w i u l o t e o d t m t e a w r.T o b t d d o t m o a p e s a b a a o O t i u  O c 3 a d b t p e a t e l f f]
+[DELETED:  N p o t f $ o f t o t s o d p]s2 s s f a e t I a p e h m a o o t u t s t.([][] T a t s 3 a 5 c 5 O L 2 T a t s 2 c 5 O L 2 b s 8 c 8 L 2 a t a f p u s 4 c 5 O]
+[DELETED: [][] a t b o o a J 1 2 a b J 1 2 a t a t y t “ a m a i a b a i g s w t S D o t T t r t b t I R] ( “ m a p t i o i c o c a p p r o a f d a a f a r a l o a c i p o r a l p o i a o m b i a l u O c 7 a o f a p i a l u O c 7 a p i a l a  a s a a i a d n d w a t i t m o a rnl]]] ( “ a l f m t c f o o c o i b t f i t o c o b f n s i]]]] “ A f o p e h t f a p p w i c w]
+[DELETED:  l r s i t p o t d o a a a A c p a w h a a A e o a c p a p a o r p a[] A t c m e a s n m t t r t a a t s d o a m d o h p a e e m t a k]
+[DELETED: [] e a a a e a a t p f t p i.I t b m c t n o h e t n o y e t o t r p a w t w j o t b m t a k o O a f p i t q f a t c o p l b d n m o c p ( o t t f a t c o p l o t t d i s ( ( T S B o T P m i a l t a N O 6 ( a ( b a o p i O 6 t i t l t a]]]
+[DELETED:  a o r b t b o t c c e a a f v c i t s u t e R o r r f a s p p c o a s p p c o o l e E f a c A r o I o r o a r f a e a a d i O]
+[DELETED: .T]

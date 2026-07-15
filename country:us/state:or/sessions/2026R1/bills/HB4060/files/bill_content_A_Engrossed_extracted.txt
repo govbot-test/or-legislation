@@ -1,0 +1,536 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - A-Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+(Including Amendments to Resolve Conflicts)
+A-Engrossed
+House Bill 4060
+Ordered by the Senate February 27
+Including Senate Amendments dated February 27
+Sponsored by Representative HELFRICH, Senator ANDERSON; Representatives LEVY B, LEVY E, OWENS,
+RESCHKE, Senator STARR (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: This Act says that sales of fluorescent lamps to buyers with large buildings are
+not banned until 2030. The Act says that some care facilities do not have to submit plans to
+replace lamps that are banned until 2030. (Flesch Readability Score: 61.2).
+[Digest: This Act says that sales of fluorescent lamps to buyers with large buildings are not
+banned until 2030. (Flesch Readability Score: 61.6).]
+Exempts sales to purchasers with facilities totaling more than one million square feet from a
+prohibition on sales of certain fluorescent lamps until January 1, 2030.
+Exempts residential care facilities and long term care facilities from the requirement to
+submit for review plans to replace light fixtures designed to use prohibited fluorescent lamps.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to fluorescent lamps; creating new provisions; amending ORS 459.485 and 459.488; repealing
+3 section 3, chapter 195, Oregon Laws 2025, and section 23, chapter , Oregon Laws 2026
+4 (Enrolled House Bill 4066); and declaring an emergency.
+5 Be It Enacted by the People of the State of Oregon:
+6 SECTION 1. ORS 459.485 is amended to read:
+7 459.485. (1) As used in this section and ORS 459.488, “compact fluorescent lamp” and “linear
+8 fluorescent lamp” have the meanings given those terms in the California Health and Safety Code,
+9 Division 104, Part 3, chapter 16, section 109020, as in effect on September 24, 2023.
+10 [(2) On or after January 1, 2024, a person may not sell, offer to sell or distribute in or into this
+11 state a screw- or bayonet-base type compact fluorescent lamp as a new manufactured product.]
+12 [(3) On or after January 1, 2025, a person may not sell, offer to sell or distribute in or into this
+13 state a pin-base type compact fluorescent lamp or a linear fluorescent lamp as a new manufactured
+14 product.]
+15 (2) A person may not sell, offer to sell or distribute in or into this state, as a new man-
+16 ufactured product, a linear fluorescent lamp or a pin-, screw- or bayonet-base type compact
+17 fluorescent lamp.
+18 SECTION 2. Section 3, chapter 195, Oregon Laws 2025, is repealed.
+19 SECTION 2a. Notwithstanding section 21, chapter , Oregon Laws 2026 (Enrolled
+20 House Bill 4066) (amending section 3, chapter 195, Oregon Laws 2025), if House Bill 4066 be-
+21 comes law, section 3, chapter 195, Oregon Laws 2025, is repealed by section 2 of this 2026 Act.
+22 SECTION 3. ORS 459.488, as amended by section 2, chapter 195, Oregon Laws 2025, is amended
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 76
+A-Eng. HB 4060
+1 to read:
+2 459.488. ORS 459.485 does not apply to:
+3 (1) A lamp used for image capture and projection, including photocopying, printing, directly or
+4 in preprocessing, lithography, film and video projection and holography.
+5 (2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+6 (a) A lamp with high ultraviolet content that has ultraviolet power greater than two milliwatts
+7 per kilolumen.
+8 (b) A lamp for germicidal use, such as the destruction of DNA (deoxyribonucleic acid), that
+9 emits a peak radiation of approximately 253.7 nanometers.
+10 (c) A lamp used for disinfection or fly trapping from which either:
+11 (A) The radiation power emitted between 250 and 315 nanometers represents at least five per-
+12 cent of the total radiation power emitted between 250 and 800 nanometers; or
+13 (B) The radiation power emitted between 315 and 400 nanometers represents at least 20 percent
+14 of the total radiation power emitted between 250 and 800 nanometers.
+15 (d) A lamp used for the generation of ozone where the primary purpose is to emit radiation at
+16 approximately 185.1 nanometers.
+17 (e) A lamp used for coral zooxanthellae symbiosis from which the radiation power emitted be-
+18 tween 400 and 480 nanometers represents at least 40 percent of the total radiation power emitted
+19 between 250 and 800 nanometers.
+20 (f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet lamps
+21 and intended for irradiation of any part of the living human body by ultraviolet radiation, with
+22 wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+23 (3) A lamp used in a medical device or otherwise used for medical or veterinary diagnosis or
+24 treatment.
+25 (4) A lamp used in pharmaceutical product manufacturing or quality control.
+26 (5) A lamp used for spectroscopy and photometric applications, including ultraviolet-visible
+27 spectroscopy, molecular spectroscopy, atomic absorption spectroscopy, nondispersive infrared
+28 (NDIR), Fourier transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measure-
+29 ment, process monitoring or environmental monitoring.
+30 (6) A lamp used by academic or research institutions exclusively for conducting research
+31 projects or experiments.
+32 (7) A compact fluorescent lamp used to replace a lamp in a motor vehicle manufactured on or
+33 before January 1, 2020.
+34 (8) A lamp purchased by a school district, as defined in ORS 332.002, for use in school
+35 buildings.
+36 (9) A lamp purchased by the owner or operator of one or more facilities located in this
+37 state that together comprise more than one million square feet for use in the purchaser’s
+38 facility. For purposes of this subsection, the square footage of buildings owned or operated
+39 by the purchaser’s parent company or subsidiary, or by an entity that is similarly related to
+40 the purchaser, may be used to determine the total square footage of buildings owned or op-
+41 erated by the purchaser.
+42 SECTION 3a. If House Bill 4066 becomes law, section 3 of this 2026 Act (amending ORS
+43 459.488) is repealed and ORS 459.488, as amended by section 2, chapter 195, Oregon Laws 2025,
+44 and section 22, chapter , Oregon Laws 2026 (Enrolled House Bill 4066), is amended to
+45 read:
+[2]
+A-Eng. HB 4060
+1 459.488. ORS 459.485 does not apply to:
+2 (1) A lamp used for image capture and projection, including photocopying, printing, directly or
+3 in preprocessing, lithography, film and video projection and holography.
+4 (2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+5 (a) A lamp with high ultraviolet content that has ultraviolet power greater than two milliwatts
+6 per kilolumen.
+7 (b) A lamp for germicidal use, such as the destruction of DNA (deoxyribonucleic acid), that
+8 emits a peak radiation of approximately 253.7 nanometers.
+9 (c) A lamp used for disinfection or fly trapping from which either:
+10 (A) The radiation power emitted between 250 and 315 nanometers represents at least five per-
+11 cent of the total radiation power emitted between 250 and 800 nanometers; or
+12 (B) The radiation power emitted between 315 and 400 nanometers represents at least 20 percent
+13 of the total radiation power emitted between 250 and 800 nanometers.
+14 (d) A lamp used for the generation of ozone where the primary purpose is to emit radiation at
+15 approximately 185.1 nanometers.
+16 (e) A lamp used for coral zooxanthellae symbiosis from which the radiation power emitted be-
+17 tween 400 and 480 nanometers represents at least 40 percent of the total radiation power emitted
+18 between 250 and 800 nanometers.
+19 (f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet lamps
+20 and intended for irradiation of any part of the living human body by ultraviolet radiation, with
+21 wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+22 (3) A lamp used in a medical device or otherwise used for medical or veterinary diagnosis or
+23 treatment.
+24 (4) A lamp used in pharmaceutical product manufacturing or quality control.
+25 (5) A lamp used for spectroscopy and photometric applications, including ultraviolet-visible
+26 spectroscopy, molecular spectroscopy, atomic absorption spectroscopy, nondispersive infrared
+27 (NDIR), Fourier transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measure-
+28 ment, process monitoring or environmental monitoring.
+29 (6) A lamp used by academic or research institutions exclusively for conducting research
+30 projects or experiments.
+31 (7) A compact fluorescent lamp used to replace a lamp in a motor vehicle manufactured on or
+32 before January 1, 2020.
+33 (8) A lamp purchased by a school district, as defined in ORS 332.002, or an education service
+34 district, as defined in ORS 334.003, for use in buildings used to provide educational services to stu-
+35 dents.
+36 (9) A lamp purchased by the owner or operator of one or more facilities located in this
+37 state that together comprise more than one million square feet for use in the purchaser’s
+38 facility. For purposes of this subsection, the square footage of buildings owned or operated
+39 by the purchaser’s parent company or subsidiary, or by an entity that is similarly related to
+40 the purchaser, may be used to determine the total square footage of buildings owned or op-
+41 erated by the purchaser.
+42 SECTION 4. ORS 459.488, as amended by section 2, chapter 195, Oregon Laws 2025, and section
+43 3 of this 2026 Act, is amended to read:
+44 459.488. ORS 459.485 does not apply to:
+45 (1) A lamp used for image capture and projection, including photocopying, printing, directly or
+[3]
+A-Eng. HB 4060
+1 in preprocessing, lithography, film and video projection and holography.
+2 (2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+3 (a) A lamp with high ultraviolet content that has ultraviolet power greater than two milliwatts
+4 per kilolumen.
+5 (b) A lamp for germicidal use, such as the destruction of DNA (deoxyribonucleic acid), that
+6 emits a peak radiation of approximately 253.7 nanometers.
+7 (c) A lamp used for disinfection or fly trapping from which either:
+8 (A) The radiation power emitted between 250 and 315 nanometers represents at least five per-
+9 cent of the total radiation power emitted between 250 and 800 nanometers; or
+10 (B) The radiation power emitted between 315 and 400 nanometers represents at least 20 percent
+11 of the total radiation power emitted between 250 and 800 nanometers.
+12 (d) A lamp used for the generation of ozone where the primary purpose is to emit radiation at
+13 approximately 185.1 nanometers.
+14 (e) A lamp used for coral zooxanthellae symbiosis from which the radiation power emitted be-
+15 tween 400 and 480 nanometers represents at least 40 percent of the total radiation power emitted
+16 between 250 and 800 nanometers.
+17 (f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet lamps
+18 and intended for irradiation of any part of the living human body by ultraviolet radiation, with
+19 wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+20 (3) A lamp used in a medical device or otherwise used for medical or veterinary diagnosis or
+21 treatment.
+22 (4) A lamp used in pharmaceutical product manufacturing or quality control.
+23 (5) A lamp used for spectroscopy and photometric applications, including ultraviolet-visible
+24 spectroscopy, molecular spectroscopy, atomic absorption spectroscopy, nondispersive infrared
+25 (NDIR), Fourier transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measure-
+26 ment, process monitoring or environmental monitoring.
+27 (6) A lamp used by academic or research institutions exclusively for conducting research
+28 projects or experiments.
+29 (7) A compact fluorescent lamp used to replace a lamp in a motor vehicle manufactured on or
+30 before January 1, 2020.
+31 [(8) A lamp purchased by a school district, as defined in ORS 332.002, for use in school
+32 buildings.]
+33 [(9) A lamp purchased by the owner or operator of one or more facilities located in this state that
+34 together comprise more than one million square feet for use in the purchaser’s facility. For purposes
+35 of this subsection, the square footage of buildings owned or operated by the purchaser’s parent com-
+36 pany or subsidiary, or by an entity that is similarly related to the purchaser, may be used to determine
+37 the total square footage of buildings owned or operated by the purchaser.]
+38 SECTION 4a. If House Bill 4066 becomes law, section 4 of this 2026 Act (amending ORS
+39 459.488) is repealed and ORS 459.488, as amended by section 2, chapter 195, Oregon Laws 2025,
+40 section 22, chapter , Oregon Laws 2026 (Enrolled House Bill 4066), and section 3a of
+41 this 2026 Act, is amended to read:
+42 459.488. ORS 459.485 does not apply to:
+43 (1) A lamp used for image capture and projection, including photocopying, printing, directly or
+44 in preprocessing, lithography, film and video projection and holography.
+45 (2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+[4]
+A-Eng. HB 4060
+1 (a) A lamp with high ultraviolet content that has ultraviolet power greater than two milliwatts
+2 per kilolumen.
+3 (b) A lamp for germicidal use, such as the destruction of DNA (deoxyribonucleic acid), that
+4 emits a peak radiation of approximately 253.7 nanometers.
+5 (c) A lamp used for disinfection or fly trapping from which either:
+6 (A) The radiation power emitted between 250 and 315 nanometers represents at least five per-
+7 cent of the total radiation power emitted between 250 and 800 nanometers; or
+8 (B) The radiation power emitted between 315 and 400 nanometers represents at least 20 percent
+9 of the total radiation power emitted between 250 and 800 nanometers.
+10 (d) A lamp used for the generation of ozone where the primary purpose is to emit radiation at
+11 approximately 185.1 nanometers.
+12 (e) A lamp used for coral zooxanthellae symbiosis from which the radiation power emitted be-
+13 tween 400 and 480 nanometers represents at least 40 percent of the total radiation power emitted
+14 between 250 and 800 nanometers.
+15 (f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet lamps
+16 and intended for irradiation of any part of the living human body by ultraviolet radiation, with
+17 wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+18 (3) A lamp used in a medical device or otherwise used for medical or veterinary diagnosis or
+19 treatment.
+20 (4) A lamp used in pharmaceutical product manufacturing or quality control.
+21 (5) A lamp used for spectroscopy and photometric applications, including ultraviolet-visible
+22 spectroscopy, molecular spectroscopy, atomic absorption spectroscopy, nondispersive infrared
+23 (NDIR), Fourier transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measure-
+24 ment, process monitoring or environmental monitoring.
+25 (6) A lamp used by academic or research institutions exclusively for conducting research
+26 projects or experiments.
+27 (7) A compact fluorescent lamp used to replace a lamp in a motor vehicle manufactured on or
+28 before January 1, 2020.
+29 [(8) A lamp purchased by a school district, as defined in ORS 332.002, or an education service
+30 district, as defined in ORS 334.003, for use in buildings used to provide educational services to stu-
+31 dents.]
+32 [(9) A lamp purchased by the owner or operator of one or more facilities located in this state that
+33 together comprise more than one million square feet for use in the purchaser’s facility. For purposes
+34 of this subsection, the square footage of buildings owned or operated by the purchaser’s parent com-
+35 pany or subsidiary, or by an entity that is similarly related to the purchaser, may be used to determine
+36 the total square footage of buildings owned or operated by the purchaser.]
+37 SECTION 4b. If House Bill 4066 becomes law, section 23, chapter , Oregon Laws
+38 2026 (Enrolled House Bill 4066) (amending ORS 459.488), is repealed.
+39 SECTION 5. The amendments to ORS 459.488 by section 4 of this 2026 Act become oper-
+40 ative on January 1, 2030.
+41 SECTION 5a. If House Bill 4066 becomes law, section 5 of this 2026 Act is amended to read:
+42 Sec. 5. The amendments to ORS 459.488 by section [4] 4a of this 2026 Act become operative on
+43 January [1] 2, 2030.
+44 SECTION 6. (1) As used in this section:
+45 (a) “Long term care facility” has the meaning given that term in ORS 442.015.
+[5]
+A-Eng. HB 4060
+1 (b) “Residential care facility” has the meaning given that term in ORS 443.400.
+2 (2) Notwithstanding ORS 441.060 and any rules adopted pursuant to ORS 441.060, a long
+3 term care facility or a residential care facility is not required to submit for review plans and
+4 specifications for alterations to an existing facility if the alterations consist solely of alter-
+5 ations required to replace light fixtures designed to use fluorescent lamps that are subject
+6 to the prohibition described in ORS 459.485 with an alternative style of light fixture.
+7 (3) Nothing in this section relieves a long term care facility or a residential care facility
+8 from the obligation to comply with rules adopted under ORS 441.060 when the replacement
+9 of light fixtures is combined with any other unrelated alteration or addition to a facility or
+10 the construction of a new facility.
+11 SECTION 7. Section 6 of this 2026 Act is repealed on January 2, 2030.
+12 SECTION 8. This 2026 Act being necessary for the immediate preservation of the public
+13 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+14 on its passage.
+15
+[6]
+[DELETED:  B 4 b R H S A R L B L E O c b t L A I i a e b s o t e f o t T A s t T A s t s o f l t b w l b a n s t p w f t m t o m s f f  , ( A u i t s a O 4 “ f l a “ l h t m g t t i t C H a S C O o a J 1 2 a p t s o d i o i t a p t c f l o a l f l a a n m.S.N c , O L 2 (:M[]]
+[DELETED: or A l f g u s a t d o D ( a t T r p e b 2 A l u f c z s f w t r a l 4 p o t t r p e i f i o a p o t l h b b u r w A l u i a m d o o u f m o v d o A l u f s a p a i u m s a a s n i A l u b a o r i e f c r A c f a s d a d i O 3 f u i s u i t p.I ,]
+[DELETED:  A l f g u s a t d o D ( a t n r a l f p f c z s f w t r p e b 4 a 4 n r a l 4 p o i f i o a p o t l h b b u r w A l u i a m d o o u f m o v d o A l u f s a p a i u m s a a s n i A l u b a o r i e f c r m o o A l p b a s d a d i O 3 o a e u i t p]
+[DELETED:  A l f g u s a t d o D ( a t n r a l f p A l u f c z s f w t r a l 4 p o t t r p e i f i o a p o t l h b b u r w A l u i a m d o o u f m o v d o A l u f s a p a i u m s a a s n i A l u b a o r i e f c r A c f A l pdbyasld,asddinO 3 f u i s o m s f f u i t p f F p t s t s f o b o o o b t p p.I ,]
+[DELETED:  A l f g u s a t d o D ( a t T r p e b 2 f c z s f w t r p e b 4 a 4 n r a l 4 p o i f i o a p o t l h b b u r w A l u i a m d o o u f m o v d o A l u f s a p a i u m s a a s n i A l u b a o r i e f c r m o o A l p b a s d a d i O 3 o a e s a d i O 3 f u i b u t p e s t s o m s f f u i t p f F p t s t s f o b o o o b t p p.I ,.T[][].(]
+[DELETED: .S.T a t 2 A t e]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+(Including Amendments to Resolve Conflicts)
+A-Engrossed
+House Bill 4060
+Ordered by the Senate February 27
+Including Senate Amendments dated February 27
+Sponsored by Representative HELFRICH, Senator ANDERSON; Representatives LEVY B, LEVY E, OWENS,
+RESCHKE, Senator STARR (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: This Act says that sales of fluorescent lamps to buyers with large buildings are
+not banned until 2030. The Act says that some care facilities do not have to submit plans to
+replace lamps that are banned until 2030. (Flesch Readability Score: 61.2).
+[Digest: This Act says that sales of fluorescent lamps to buyers with large buildings are not
+banned until 2030. (Flesch Readability Score: 61.6).]
+Exempts sales to purchasers with facilities totaling more than one million square feet from a
+prohibition on sales of certain fluorescent lamps until January 1, 2030.
+Exempts residential care facilities and long term care facilities from the requirement to
+submit for review plans to replace light fixtures designed to use prohibited fluorescent lamps.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to fluorescent lamps; creating new provisions; amending ORS 459.485 and 459.488; repealing
+3 section 3, chapter 195, Oregon Laws 2025, and section 23, chapter , Oregon Laws 2026
+4 (Enrolled House Bill 4066); and declaring an emergency.
+5 Be It Enacted by the People of the State of Oregon:
+6 SECTION 1. ORS 459.485 is amended to read:
+7 459.485. (1) As used in this section and ORS 459.488, “compact fluorescent lamp” and “linear
+8 fluorescent lamp” have the meanings given those terms in the California Health and Safety Code,
+9 Division 104, Part 3, chapter 16, section 109020, as in effect on September 24, 2023.
+10 [(2) On or after January 1, 2024, a person may not sell, offer to sell or distribute in or into this
+11 state a screw- or bayonet-base type compact fluorescent lamp as a new manufactured product.]
+12 [(3) On or after January 1, 2025, a person may not sell, offer to sell or distribute in or into this
+13 state a pin-base type compact fluorescent lamp or a linear fluorescent lamp as a new manufactured
+14 product.]
+15 (2) A person may not sell, offer to sell or distribute in or into this state, as a new man-
+16 ufactured product, a linear fluorescent lamp or a pin-, screw- or bayonet-base type compact
+17 fluorescent lamp.
+18 SECTION 2. Section 3, chapter 195, Oregon Laws 2025, is repealed.
+19 SECTION 2a. Notwithstanding section 21, chapter , Oregon Laws 2026 (Enrolled
+20 House Bill 4066) (amending section 3, chapter 195, Oregon Laws 2025), if House Bill 4066 be-
+21 comes law, section 3, chapter 195, Oregon Laws 2025, is repealed by section 2 of this 2026 Act.
+22 SECTION 3. ORS 459.488, as amended by section 2, chapter 195, Oregon Laws 2025, is amended
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 76
+
+A-Eng. HB 4060
+1 to read:
+2 459.488. ORS 459.485 does not apply to:
+3 (1) A lamp used for image capture and projection, including photocopying, printing, directly or
+4 in preprocessing, lithography, film and video projection and holography.
+5 (2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+6 (a) A lamp with high ultraviolet content that has ultraviolet power greater than two milliwatts
+7 per kilolumen.
+8 (b) A lamp for germicidal use, such as the destruction of DNA (deoxyribonucleic acid), that
+9 emits a peak radiation of approximately 253.7 nanometers.
+10 (c) A lamp used for disinfection or fly trapping from which either:
+11 (A) The radiation power emitted between 250 and 315 nanometers represents at least five per-
+12 cent of the total radiation power emitted between 250 and 800 nanometers; or
+13 (B) The radiation power emitted between 315 and 400 nanometers represents at least 20 percent
+14 of the total radiation power emitted between 250 and 800 nanometers.
+15 (d) A lamp used for the generation of ozone where the primary purpose is to emit radiation at
+16 approximately 185.1 nanometers.
+17 (e) A lamp used for coral zooxanthellae symbiosis from which the radiation power emitted be-
+18 tween 400 and 480 nanometers represents at least 40 percent of the total radiation power emitted
+19 between 250 and 800 nanometers.
+20 (f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet lamps
+21 and intended for irradiation of any part of the living human body by ultraviolet radiation, with
+22 wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+23 (3) A lamp used in a medical device or otherwise used for medical or veterinary diagnosis or
+24 treatment.
+25 (4) A lamp used in pharmaceutical product manufacturing or quality control.
+26 (5) A lamp used for spectroscopy and photometric applications, including ultraviolet-visible
+27 spectroscopy, molecular spectroscopy, atomic absorption spectroscopy, nondispersive infrared
+28 (NDIR), Fourier transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measure-
+29 ment, process monitoring or environmental monitoring.
+30 (6) A lamp used by academic or research institutions exclusively for conducting research
+31 projects or experiments.
+32 (7) A compact fluorescent lamp used to replace a lamp in a motor vehicle manufactured on or
+33 before January 1, 2020.
+34 (8) A lamp purchased by a school district, as defined in ORS 332.002, for use in school
+35 buildings.
+36 (9) A lamp purchased by the owner or operator of one or more facilities located in this
+37 state that together comprise more than one million square feet for use in the purchaser’s
+38 facility. For purposes of this subsection, the square footage of buildings owned or operated
+39 by the purchaser’s parent company or subsidiary, or by an entity that is similarly related to
+40 the purchaser, may be used to determine the total square footage of buildings owned or op-
+41 erated by the purchaser.
+42 SECTION 3a. If House Bill 4066 becomes law, section 3 of this 2026 Act (amending ORS
+43 459.488) is repealed and ORS 459.488, as amended by section 2, chapter 195, Oregon Laws 2025,
+44 and section 22, chapter , Oregon Laws 2026 (Enrolled House Bill 4066), is amended to
+45 read:
+[2]
+
+A-Eng. HB 4060
+1 459.488. ORS 459.485 does not apply to:
+2 (1) A lamp used for image capture and projection, including photocopying, printing, directly or
+3 in preprocessing, lithography, film and video projection and holography.
+4 (2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+5 (a) A lamp with high ultraviolet content that has ultraviolet power greater than two milliwatts
+6 per kilolumen.
+7 (b) A lamp for germicidal use, such as the destruction of DNA (deoxyribonucleic acid), that
+8 emits a peak radiation of approximately 253.7 nanometers.
+9 (c) A lamp used for disinfection or fly trapping from which either:
+10 (A) The radiation power emitted between 250 and 315 nanometers represents at least five per-
+11 cent of the total radiation power emitted between 250 and 800 nanometers; or
+12 (B) The radiation power emitted between 315 and 400 nanometers represents at least 20 percent
+13 of the total radiation power emitted between 250 and 800 nanometers.
+14 (d) A lamp used for the generation of ozone where the primary purpose is to emit radiation at
+15 approximately 185.1 nanometers.
+16 (e) A lamp used for coral zooxanthellae symbiosis from which the radiation power emitted be-
+17 tween 400 and 480 nanometers represents at least 40 percent of the total radiation power emitted
+18 between 250 and 800 nanometers.
+19 (f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet lamps
+20 and intended for irradiation of any part of the living human body by ultraviolet radiation, with
+21 wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+22 (3) A lamp used in a medical device or otherwise used for medical or veterinary diagnosis or
+23 treatment.
+24 (4) A lamp used in pharmaceutical product manufacturing or quality control.
+25 (5) A lamp used for spectroscopy and photometric applications, including ultraviolet-visible
+26 spectroscopy, molecular spectroscopy, atomic absorption spectroscopy, nondispersive infrared
+27 (NDIR), Fourier transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measure-
+28 ment, process monitoring or environmental monitoring.
+29 (6) A lamp used by academic or research institutions exclusively for conducting research
+30 projects or experiments.
+31 (7) A compact fluorescent lamp used to replace a lamp in a motor vehicle manufactured on or
+32 before January 1, 2020.
+33 (8) A lamp purchased by a school district, as defined in ORS 332.002, or an education service
+34 district, as defined in ORS 334.003, for use in buildings used to provide educational services to stu-
+35 dents.
+36 (9) A lamp purchased by the owner or operator of one or more facilities located in this
+37 state that together comprise more than one million square feet for use in the purchaser’s
+38 facility. For purposes of this subsection, the square footage of buildings owned or operated
+39 by the purchaser’s parent company or subsidiary, or by an entity that is similarly related to
+40 the purchaser, may be used to determine the total square footage of buildings owned or op-
+41 erated by the purchaser.
+42 SECTION 4. ORS 459.488, as amended by section 2, chapter 195, Oregon Laws 2025, and section
+43 3 of this 2026 Act, is amended to read:
+44 459.488. ORS 459.485 does not apply to:
+45 (1) A lamp used for image capture and projection, including photocopying, printing, directly or
+[3]
+
+A-Eng. HB 4060
+1 in preprocessing, lithography, film and video projection and holography.
+2 (2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+3 (a) A lamp with high ultraviolet content that has ultraviolet power greater than two milliwatts
+4 per kilolumen.
+5 (b) A lamp for germicidal use, such as the destruction of DNA (deoxyribonucleic acid), that
+6 emits a peak radiation of approximately 253.7 nanometers.
+7 (c) A lamp used for disinfection or fly trapping from which either:
+8 (A) The radiation power emitted between 250 and 315 nanometers represents at least five per-
+9 cent of the total radiation power emitted between 250 and 800 nanometers; or
+10 (B) The radiation power emitted between 315 and 400 nanometers represents at least 20 percent
+11 of the total radiation power emitted between 250 and 800 nanometers.
+12 (d) A lamp used for the generation of ozone where the primary purpose is to emit radiation at
+13 approximately 185.1 nanometers.
+14 (e) A lamp used for coral zooxanthellae symbiosis from which the radiation power emitted be-
+15 tween 400 and 480 nanometers represents at least 40 percent of the total radiation power emitted
+16 between 250 and 800 nanometers.
+17 (f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet lamps
+18 and intended for irradiation of any part of the living human body by ultraviolet radiation, with
+19 wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+20 (3) A lamp used in a medical device or otherwise used for medical or veterinary diagnosis or
+21 treatment.
+22 (4) A lamp used in pharmaceutical product manufacturing or quality control.
+23 (5) A lamp used for spectroscopy and photometric applications, including ultraviolet-visible
+24 spectroscopy, molecular spectroscopy, atomic absorption spectroscopy, nondispersive infrared
+25 (NDIR), Fourier transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measure-
+26 ment, process monitoring or environmental monitoring.
+27 (6) A lamp used by academic or research institutions exclusively for conducting research
+28 projects or experiments.
+29 (7) A compact fluorescent lamp used to replace a lamp in a motor vehicle manufactured on or
+30 before January 1, 2020.
+31 [(8) A lamp purchased by a school district, as defined in ORS 332.002, for use in school
+32 buildings.]
+33 [(9) A lamp purchased by the owner or operator of one or more facilities located in this state that
+34 together comprise more than one million square feet for use in the purchaser’s facility. For purposes
+35 of this subsection, the square footage of buildings owned or operated by the purchaser’s parent com-
+36 pany or subsidiary, or by an entity that is similarly related to the purchaser, may be used to determine
+37 the total square footage of buildings owned or operated by the purchaser.]
+38 SECTION 4a. If House Bill 4066 becomes law, section 4 of this 2026 Act (amending ORS
+39 459.488) is repealed and ORS 459.488, as amended by section 2, chapter 195, Oregon Laws 2025,
+40 section 22, chapter , Oregon Laws 2026 (Enrolled House Bill 4066), and section 3a of
+41 this 2026 Act, is amended to read:
+42 459.488. ORS 459.485 does not apply to:
+43 (1) A lamp used for image capture and projection, including photocopying, printing, directly or
+44 in preprocessing, lithography, film and video projection and holography.
+45 (2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+[4]
+
+A-Eng. HB 4060
+1 (a) A lamp with high ultraviolet content that has ultraviolet power greater than two milliwatts
+2 per kilolumen.
+3 (b) A lamp for germicidal use, such as the destruction of DNA (deoxyribonucleic acid), that
+4 emits a peak radiation of approximately 253.7 nanometers.
+5 (c) A lamp used for disinfection or fly trapping from which either:
+6 (A) The radiation power emitted between 250 and 315 nanometers represents at least five per-
+7 cent of the total radiation power emitted between 250 and 800 nanometers; or
+8 (B) The radiation power emitted between 315 and 400 nanometers represents at least 20 percent
+9 of the total radiation power emitted between 250 and 800 nanometers.
+10 (d) A lamp used for the generation of ozone where the primary purpose is to emit radiation at
+11 approximately 185.1 nanometers.
+12 (e) A lamp used for coral zooxanthellae symbiosis from which the radiation power emitted be-
+13 tween 400 and 480 nanometers represents at least 40 percent of the total radiation power emitted
+14 between 250 and 800 nanometers.
+15 (f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet lamps
+16 and intended for irradiation of any part of the living human body by ultraviolet radiation, with
+17 wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+18 (3) A lamp used in a medical device or otherwise used for medical or veterinary diagnosis or
+19 treatment.
+20 (4) A lamp used in pharmaceutical product manufacturing or quality control.
+21 (5) A lamp used for spectroscopy and photometric applications, including ultraviolet-visible
+22 spectroscopy, molecular spectroscopy, atomic absorption spectroscopy, nondispersive infrared
+23 (NDIR), Fourier transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measure-
+24 ment, process monitoring or environmental monitoring.
+25 (6) A lamp used by academic or research institutions exclusively for conducting research
+26 projects or experiments.
+27 (7) A compact fluorescent lamp used to replace a lamp in a motor vehicle manufactured on or
+28 before January 1, 2020.
+29 [(8) A lamp purchased by a school district, as defined in ORS 332.002, or an education service
+30 district, as defined in ORS 334.003, for use in buildings used to provide educational services to stu-
+31 dents.]
+32 [(9) A lamp purchased by the owner or operator of one or more facilities located in this state that
+33 together comprise more than one million square feet for use in the purchaser’s facility. For purposes
+34 of this subsection, the square footage of buildings owned or operated by the purchaser’s parent com-
+35 pany or subsidiary, or by an entity that is similarly related to the purchaser, may be used to determine
+36 the total square footage of buildings owned or operated by the purchaser.]
+37 SECTION 4b. If House Bill 4066 becomes law, section 23, chapter , Oregon Laws
+38 2026 (Enrolled House Bill 4066) (amending ORS 459.488), is repealed.
+39 SECTION 5. The amendments to ORS 459.488 by section 4 of this 2026 Act become oper-
+40 ative on January 1, 2030.
+41 SECTION 5a. If House Bill 4066 becomes law, section 5 of this 2026 Act is amended to read:
+42 Sec. 5. The amendments to ORS 459.488 by section [4] 4a of this 2026 Act become operative on
+43 January [1] 2, 2030.
+44 SECTION 6. (1) As used in this section:
+45 (a) “Long term care facility” has the meaning given that term in ORS 442.015.
+[5]
+
+A-Eng. HB 4060
+1 (b) “Residential care facility” has the meaning given that term in ORS 443.400.
+2 (2) Notwithstanding ORS 441.060 and any rules adopted pursuant to ORS 441.060, a long
+3 term care facility or a residential care facility is not required to submit for review plans and
+4 specifications for alterations to an existing facility if the alterations consist solely of alter-
+5 ations required to replace light fixtures designed to use fluorescent lamps that are subject
+6 to the prohibition described in ORS 459.485 with an alternative style of light fixture.
+7 (3) Nothing in this section relieves a long term care facility or a residential care facility
+8 from the obligation to comply with rules adopted under ORS 441.060 when the replacement
+9 of light fixtures is combined with any other unrelated alteration or addition to a facility or
+10 the construction of a new facility.
+11 SECTION 7. Section 6 of this 2026 Act is repealed on January 2, 2030.
+12 SECTION 8. This 2026 Act being necessary for the immediate preservation of the public
+13 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+14 on its passage.
+15
+[6]
+
+[DELETED:  B 4 b R H S A R L B L E O c b t L A I i a e b s o t e f o t T A s t T A s t s o f l t b w l b a n s t p w f t m t o m s f f  , ( A u i t s a O 4 “ f l a “ l h t m g t t i t C H a S C O o a J 1 2 a p t s o d i o i t a p t c f l o a l f l a a n m.S.N c , O L 2 (:M[]]
+[DELETED: or A l f g u s a t d o D ( a t T r p e b 2 A l u f c z s f w t r a l 4 p o t t r p e i f i o a p o t l h b b u r w A l u i a m d o o u f m o v d o A l u f s a p a i u m s a a s n i A l u b a o r i e f c r A c f a s d a d i O 3 f u i s u i t p.I ,]
+[DELETED:  A l f g u s a t d o D ( a t n r a l f p f c z s f w t r p e b 4 a 4 n r a l 4 p o i f i o a p o t l h b b u r w A l u i a m d o o u f m o v d o A l u f s a p a i u m s a a s n i A l u b a o r i e f c r m o o A l p b a s d a d i O 3 o a e u i t p]
+[DELETED:  A l f g u s a t d o D ( a t n r a l f p A l u f c z s f w t r a l 4 p o t t r p e i f i o a p o t l h b b u r w A l u i a m d o o u f m o v d o A l u f s a p a i u m s a a s n i A l u b a o r i e f c r A c f A l pdbyasld,asddinO 3 f u i s o m s f f u i t p f F p t s t s f o b o o o b t p p.I ,]
+[DELETED:  A l f g u s a t d o D ( a t T r p e b 2 f c z s f w t r p e b 4 a 4 n r a l 4 p o i f i o a p o t l h b b u r w A l u i a m d o o u f m o v d o A l u f s a p a i u m s a a s n i A l u b a o r i e f c r m o o A l p b a s d a d i O 3 o a e s a d i O 3 f u i b u t p e s t s o m s f f u i t p f F p t s t s f o b o o o b t p p.I ,.T[][].(]
+[DELETED: .S.T a t 2 A t e]

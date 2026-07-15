@@ -1,0 +1,506 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - House Minority Amendments to Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+HOUSE MINORITY REPORT
+AMENDMENTS TO
+HOUSE BILL 4098
+By Nonconcurring Members of COMMITTEE ON COMMERCE AND CONSUMER
+PROTECTION
+February 16
+1 On page 1 of the printed bill, line 3, delete “, 646.608”.
+2 Delete lines 5 through 24 and delete pages 2 through 9 and insert:
+3 “SECTION 1. ORS 646.605 is amended to read:
+4 “646.605. As used in ORS 336.184 and 646.605 to 646.652:
+5 “(1) ‘Appropriate court’ means the circuit court of a county:
+6 “(a) [Where one or more of the defendants reside] In which a defendant resides;
+7 “(b) [Where one or more of the defendants maintain] In which a defendant maintains a principal
+8 place of business;
+9 “(c) [Where one or more of the defendants are] In which a defendant is alleged to have com-
+10 mitted an act prohibited by ORS 336.184 and 646.605 to 646.652; or
+11 “(d) With [the] a defendant’s consent, [where] in which the prosecuting attorney maintains an
+12 office.
+13 “(2) ‘Documentary material’ means the original or a copy of any book, record, report, memo-
+14 randum, paper, communication, tabulation, map, chart, photograph, mechanical transcription, or
+15 other tangible document or recording, wherever situated.
+16 “(3) ‘Examination’ of documentary material [includes inspection, study] means inspecting,
+17 studying or copying [of] any documentary material[,] and taking testimony under oath or acknowl-
+18 edgment [regarding any documentary material or copy thereof] about the documentary material
+19 or a copy of the documentary material.
+20 “(4) ‘Person’ means a natural [persons, corporations, trusts, partnerships,] person, a corporation,
+21 a trust, a partnership, an incorporated or unincorporated [associations] association and any other
+22 legal entity except [bodies or officers] a body or officer that is acting under the statutory authority
+23 of this state or the United States.
+24 “(5) ‘Prosecuting attorney’ means the Attorney General or the district attorney of any county
+25 in which a violation of ORS 336.184 and 646.605 to 646.652 is alleged to have occurred.
+26 “(6)(a) ‘Real estate, goods or services’ means those that are or may be obtained primarily for
+27 personal, family or household purposes, or that are or may be obtained for any purposes as a result
+28 of a telephone solicitation, and includes loans and extensions of credit, and franchises,
+29 distributorships and other similar business opportunities[, but does not include insurance].
+30 “(b) Notwithstanding paragraph (a) of this subsection:
+31 “(A) ‘Real estate’ does not cover conduct covered by ORS chapter 90.
+32 “(B) ‘Loans and extensions of credit’ does not include transactions involving a pawnbroker, as
+33 defined in ORS 726.010, that is required to be licensed under ORS chapter 726.
+34 “(7) ‘Telephone solicitation’ means a solicitation [where] in which a person, in the course of the
+LC 87/HB 4098-MR3
+1 person’s business, vocation or occupation, uses a telephone or an automatic dialing-announcing de-
+2 vice to initiate telephonic contact with a potential customer and the person is not one of the fol-
+3 lowing:
+4 “(a) [A person who is] A broker-dealer or salesperson licensed under ORS 59.175, or a mortgage
+5 banker or mortgage broker licensed under ORS 86A.106, [when] if the solicitation is for a security
+6 qualified for sale [pursuant to] under ORS 59.055.
+7 “(b) A real estate licensee or a person who is otherwise authorized to engage in professional
+8 real estate activity [pursuant to] under ORS chapter 696, [when] if the solicitation involves profes-
+9 sional real estate activity.
+10 “(c) A person licensed or exempt from licensure as a builder [pursuant to] under ORS chapter
+11 701, [when] if the solicitation involves [the construction, alteration, repair, improvement or demolition
+12 of] constructing, altering, repairing, improving or demolishing a structure.
+13 “[(d) A person licensed or otherwise authorized to sell insurance as an insurance producer pursu-
+14 ant to ORS chapter 744, when the solicitation involves insurance.]
+15 “[(e)] (d) A person [soliciting] that solicits the sale of a newspaper of general circulation, a
+16 magazine or membership in a book or record club who complies with ORS 646.611, [when] if the
+17 solicitation involves newspapers, magazines or membership in a book or record club.
+18 “[(f)] (e) A person [soliciting] that solicits, without the intent to complete, and who does not
+19 complete [the] a sales presentation during the telephone solicitation and [who] that only completes
+20 the sales presentation at a later face-to-face meeting between the [solicitor] person and the pro-
+21 spective purchaser.
+22 “[(g)] (f) A supervised financial institution or parent, subsidiary or affiliate [thereof] of a
+23 supervised financial institution. As used in this paragraph, ‘supervised financial institution’ means
+24 any financial institution or trust company, as those terms are defined in ORS 706.008, or any per-
+25 sonal property broker, consumer finance lender, commercial finance lender or insurer that is subject
+26 to regulation by an official or agency of this state or of the United States.
+27 “[(h)] (g) A person [who] that is authorized to conduct prearrangement or preconstruction fu-
+28 neral or cemetery sales, [pursuant to] under ORS chapter 692, [when] if the solicitation involves
+29 prearrangement or preconstruction funeral or cemetery plans.
+30 “[(i)] (h) A person [who] that solicits the services [provided by] that a cable television system
+31 licensed or franchised [pursuant to] under state, local or federal law provides, [when] if the solic-
+32 itation involves cable television services.
+33 “[(j)] (i) A person or affiliate of a person [whose] the business [is regulated by] of which the
+34 Public Utility Commission [of Oregon] regulates.
+35 “[(k)] (j) A person who sells farm products, as defined [by] in ORS 576.006, if the [solicitation
+36 neither intends to nor actually results] person does not intend to complete a sale and the solic-
+37 itation does not actually result in a sale that costs the purchaser in excess of $100.
+38 “[(L)] (k) An issuer or subsidiary of an issuer that has a class of securities that is subject to
+39 section 12 of the Securities Exchange Act of 1934 and that is either registered or exempt from reg-
+40 istration under paragraph (A), (B), (C), (E), (F), (G) or (H) or subsection (g) of that section.
+41 “[(m)] (L) A person [soliciting exclusively] that solicits only the sale of telephone answering
+42 services [to be provided by] that the person or [that] the person’s employer [when] will provide, if
+43 the solicitation involves answering services.
+44 “[(n)] (m) A telecommunications utility with access lines of 15,000 or less or a cooperative
+45 telephone association, [when] if the solicitation involves regulated goods or services.
+HMRA to HB 4098 Page 2
+1 “(8) ‘Trade’ and ‘commerce’ mean advertising, offering or distributing, whether by sale, rental
+2 or otherwise, any real estate, goods or services, and include any trade or commerce that directly
+3 or indirectly [affecting] affects the people of this state.
+4 “(9) ‘Unconscionable tactics’ include, but are not limited to, actions by which a person:
+5 “(a) Knowingly takes advantage of a customer’s physical infirmity, ignorance, illiteracy or ina-
+6 bility to understand the language of the agreement;
+7 “(b) Knowingly permits a customer to enter into a transaction from which the customer will
+8 derive no material benefit;
+9 “(c) Permits a customer to enter into a transaction [with knowledge that there is no reasonable
+10 probability of payment of the attendant financial obligation in full by the customer when due] knowing
+11 that the customer does not have a reasonable probability of paying the attendant financial
+12 obligations in full when due; or
+13 “(d) Knowingly takes advantage of a customer who is a disabled veteran, a disabled
+14 servicemember or a servicemember in active service, or the spouse of a disabled veteran, disabled
+15 servicemember or servicemember in active service. For purposes of this paragraph:
+16 “(A) ‘Disabled veteran’ has the meaning given that term in ORS 408.225.
+17 “(B) ‘Disabled servicemember’ means a servicemember, as defined in 50 U.S.C. 3911 as in effect
+18 on [January 1, 2010] the effective date of this 2026 Act, who may be entitled to disability com-
+19 pensation under laws administered by the United States Department of Veterans Affairs.
+20 “(C) ‘Servicemember in active service’ means:
+21 “(i) A servicemember called into active service under Title 10 or Title 32 of the United States
+22 Code as in effect on [January 1, 2010] the effective date of this 2026 Act; or
+23 “(ii) A servicemember on state active duty, as defined in the Oregon Code of Military Justice.
+24 “(10) A willful violation occurs when the person committing the violation knew or should have
+25 known that the conduct of the person was a violation.
+26 “[(11) A loan is made ‘in close connection with the sale of a manufactured dwelling’ if:]
+27 “[(a) The lender directly or indirectly controls, is controlled by or is under common control with
+28 the seller, unless the relationship is remote and is not a factor in the transaction;]
+29 “[(b) The lender gives a commission, rebate or credit in any form to a seller who refers the bor-
+30 rower to the lender, other than payment of the proceeds of the loan jointly to the seller and the bor-
+31 rower;]
+32 “[(c) The lender is related to the seller by blood or marriage;]
+33 “[(d) The seller directly and materially assists the borrower in obtaining the loan;]
+34 “[(e) The seller prepares documents that are given to the lender and used in connection with the
+35 loan; or]
+36 “[(f) The lender supplies documents to the seller used by the borrower in obtaining the loan.]
+37 “SECTION 2. ORS 646.612 is amended to read:
+38 “646.612. ORS 646.607 and 646.608 do not apply to:
+39 “(1) Conduct [in compliance] that complies with the orders, [or] rules [of,] or a statute [admin-
+40 istered by] a federal, state or local governmental agency administers.
+41 “(2) Acts [done by the] that a publisher, owner, agent or employee of a newspaper, periodical,
+42 telephone directory or radio or television station [in the publication or dissemination of] does in
+43 publishing or disseminating an advertisement, [when] if the publisher, owner, agent or employee
+44 did not [have knowledge of] know the false, misleading or deceptive character of the advertisement.
+45 “SECTION 3. ORS 646.636 is amended to read:
+HMRA to HB 4098 Page 3
+1 “646.636. [The] A court may make [such] additional orders or judgments [as may be] that the
+2 court deems necessary to restore to any person in interest any moneys or property, real or per-
+3 sonal, of which the person was deprived by means of any practice declared to be unlawful in ORS
+4 646.607 or 646.608, [or as may be necessary] to ensure cessation of unlawful trade practices and to
+5 provide any other equitable relief that the court deems appropriate.
+6 “SECTION 4. ORS 646.638 is amended to read:
+7 “646.638. (1) Except as provided in subsections (8) and (9) of this section, a person that suffers
+8 an ascertainable loss of money or property, real or personal, as a result of another person’s willful
+9 use or employment of a method, act or practice declared unlawful under ORS 646.608, may bring an
+10 individual action in an appropriate court to recover actual damages or statutory damages of $200,
+11 whichever is greater, and to obtain appropriate equitable relief. The court or the jury may award
+12 punitive damages and the court may provide any equitable relief the court considers necessary or
+13 proper.
+14 “(2) A person that brings an action under subsection (1) of this section shall mail a copy of the
+15 complaint or other initial pleading to the Attorney General at the time the action commences and,
+16 upon entry of any judgment in the action, shall mail a copy of the judgment to the Attorney General.
+17 Failure to mail a copy of the complaint is not a jurisdictional defect, but a court may not enter
+18 judgment for the plaintiff until proof of mailing is filed with the court. Proof of mailing may be by
+19 affidavit or by return receipt of mailing.
+20 “(3) The court may award reasonable attorney fees and costs at trial and on appeal to a pre-
+21 vailing plaintiff in an action under this section. The court may award reasonable attorney fees and
+22 costs at trial and on appeal to a prevailing defendant only if the court finds that an objectively
+23 reasonable basis for bringing the action or asserting the ground for appeal did not exist.
+24 “(4) The court may not award attorney fees to a prevailing defendant under the provisions of
+25 subsection (3) of this section if the action under this section is maintained as a class action pursuant
+26 to ORCP 32.
+27 “(5) Any permanent injunction or final judgment or order the court makes under ORS 646.632
+28 or 646.636 is prima facie evidence in an action brought under this section that the respondent used
+29 or employed a method, act or practice declared unlawful under ORS 646.608, but an assurance of
+30 voluntary compliance, whether or not approved by the court, is not evidence of the violation.
+31 “(6) Actions brought under this section must be commenced within one year after the discovery
+32 of the unlawful method, act or practice. Notwithstanding this limitation, if a prosecuting attorney
+33 filed a complaint to prevent, restrain or punish a violation of ORS 646.608, the complaint tolls the
+34 statute of limitations with respect to every private right of action under this section that is based
+35 in whole or in part on any matter set forth in the prosecuting attorney’s complaint for the period
+36 of time in which the proceeding that the prosecuting attorney initiated is pending.
+37 “(7) Notwithstanding subsection (6) of this section, in any action that a seller or lessor brings
+38 against a purchaser or lessee of real estate, goods or services, the purchaser or lessee may assert
+39 any counterclaim that the purchaser or lessee has arising out of a violation of ORS 336.184 and
+40 646.605 to 646.652.
+41 “(8) A class action may be maintained under this section. In any class action under this section:
+42 “(a) Statutory damages under subsection (1) of this section may be recovered on behalf of class
+43 members only if the plaintiffs in the action establish that the members have sustained an
+44 ascertainable loss of money or property as a result of a reckless or knowing use or employment by
+45 the defendant of a method, act or practice declared unlawful by ORS 646.608;
+HMRA to HB 4098 Page 4
+1 “(b) The trier of fact may award punitive damages; and
+2 “(c) The court may award appropriate equitable relief.
+3 “(9) This section does not apply to:
+4 “(a) Any method, act or practice described in ORS 646.608 (1)(aa). Actions for violation of laws
+5 relating to odometers are provided under ORS 815.410 and 815.415.
+6 “(b) A violation of ORS 86.726 (1)(a) or (2), 86.729 (4) or 86.732 (1) or (2).
+7 “SECTION 5. ORS 646.648 is amended to read:
+8 “646.648. (1) As used in this section:
+9 “(a) ‘Buyer’ means a person who buys or agrees to buy a manufactured dwelling from a manu-
+10 factured dwelling dealer.
+11 “(b) ‘Cash sale price’ means the price for which a manufactured dwelling dealer would sell to
+12 a buyer, and the buyer would buy from a dealer, a manufactured dwelling that is covered by a
+13 purchase agreement, if the sale were a sale for cash instead of a retail installment sale.
+14 “(c) ‘Manufactured dwelling’ has the meaning given that term in ORS 446.003.
+15 “(d) ‘Manufactured dwelling dealer’ means a person licensed under ORS 446.691 or 446.696 or a
+16 temporary manufactured structure dealer licensee under ORS 446.701.
+17 “(e) ‘Retail installment sale’ has the meaning given that term in ORS 83.510.
+18 “(2) A manufactured dwelling dealer engages in an unlawful practice when, in a sale of a man-
+19 ufactured dwelling, the dealer does any of the following:
+20 “(a) Misrepresents to a buyer that, as a condition of financing, the buyer must purchase:
+21 “(A) Credit life insurance;
+22 “(B) Credit disability insurance;
+23 “(C) Credit unemployment insurance;
+24 “(D) Credit property insurance;
+25 “(E) Health insurance;
+26 “(F) Life insurance; or
+27 “(G) An extended warranty.
+28 “(b) In close connection with the sale, misrepresents to a lender:
+29 “(A) The cash sale price;
+30 “(B) The amount of the buyer’s down payment; or
+31 “(C) The buyer’s credit or employment history.
+32 “(3) For purposes of subsection (2)(b) of this section, a loan is made in close connection
+33 with the sale of a manufactured dwelling if:
+34 “(a) The lender directly or indirectly controls, is controlled by or is under common con-
+35 trol with the seller, unless the relationship is remote and is not a factor in the transaction;
+36 “(b) The lender gives a commission, rebate or credit in any form to a seller who refers
+37 the borrower to the lender, other than paying the proceeds of the loan jointly to the seller
+38 and the borrower;
+39 “(c) The lender is related to the seller by blood or marriage;
+40 “(d) The seller directly and materially assists the borrower in obtaining the loan;
+41 “(e) The seller prepares documents that are given to the lender and used in connection
+42 with the loan; or
+43 “(f) The lender supplies documents to the seller that the borrower uses in obtaining the
+44 loan.
+45 “SECTION 6. The amendments to ORS 646.605, 646.612, 646.636, 646.638 and 646.648 by
+HMRA to HB 4098 Page 5
+1 sections 1 to 5 of this 2026 Act apply to acts that occur on or after the effective date of this
+2 2026 Act.”.
+3
+/s/ Virgle Osborne
+4 Representative
+5
+/s/ Kim Wallan
+6 Representative
+7
+8
+HMRA to HB 4098 Page 6
+[DELETED:  T[][] [] a t h c o o m o t d a W [] d c [] t p a m aew ‘ m m t o o a c o a b r r m p c t m c p m t o ‘ o d m [] m i i s[][]f [] a t d m a d m o c t[][][] a m t A G o t d a o a c ‘ e g o s m t t a o m b o p f a t s a i l a e o c a f[] ‘ a e o[]]
+[DELETED:  t i t c w a p c a t p i n o o[][][] A r e l o a p w i o a t e i p[][]ow[] O c[]nt A[] ( A p [] t s t s o a n o g c )s o m i a b o r c w c w O 6 [] i t[] A p [] w t i t c a w d n)s[][]ew s p a a l f m b t [] p a t pep[] ( A s f i o p s o a [] o )t t a d i O 7 o a p[] A p [] t i a t c p o)w o c s [] u O c 6 [] i t s i tow[][][])wop[][] t sow[] ( A p o a o a p [] b [] t)wei r b[][] A p w s f p a d [] i t )bys[] o s o a i t h a c o s t i s t[] ( A p [] t s o t s o t a)s e[][][]yttw[] ( A t u w a l o 1 o l o a c[]8P]
+[DELETED:  ‘ a ‘ m a o o d w b s r s a i a t o c t d[] K p a c t e i a t f w t c w f K t a o a c w i a d v a d s o a d v d [] w m b e t d c[][ T l d o i c i c c i a f t a s w r t b t t l o t p o t p o t l j t[[ g t t l a u i c w t;o[[][][]eoro,a[] o e o a n p d o r o t s [] d i t p o d o [] t p o a o e[]8P]
+[DELETED: [] A c m m [] a o o j []esha m b n t r t a p i i a m o p r o p o[] a i a a a e r t c c n o t m a c o t c i n a j d b a c m n e c m a r a f a c a t a o a t a p a t a o a t a p d o i t c f t a o T c m n a a f t a p d u t p o o f j o o t c m u O 6 e a m a o p d u u O 6 b a a o u m a o p N t l i a p a a w o i p o a a s o l b a p o c t t p o l h a o o a v o O 3 a o i t p i t a e t t m h s a8P]
+[DELETED:  m t p f w a m d d w s t b a t b w b f a d a m d t i c b  6.T a t O 6 6 6 6 a 6 b8P]
+[DELETED: 8P]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+HOUSE MINORITY REPORT
+AMENDMENTS TO
+HOUSE BILL 4098
+By Nonconcurring Members of COMMITTEE ON COMMERCE AND CONSUMER
+PROTECTION
+February 16
+1 On page 1 of the printed bill, line 3, delete “, 646.608”.
+2 Delete lines 5 through 24 and delete pages 2 through 9 and insert:
+3 “SECTION 1. ORS 646.605 is amended to read:
+4 “646.605. As used in ORS 336.184 and 646.605 to 646.652:
+5 “(1) ‘Appropriate court’ means the circuit court of a county:
+6 “(a) [Where one or more of the defendants reside] In which a defendant resides;
+7 “(b) [Where one or more of the defendants maintain] In which a defendant maintains a principal
+8 place of business;
+9 “(c) [Where one or more of the defendants are] In which a defendant is alleged to have com-
+10 mitted an act prohibited by ORS 336.184 and 646.605 to 646.652; or
+11 “(d) With [the] a defendant’s consent, [where] in which the prosecuting attorney maintains an
+12 office.
+13 “(2) ‘Documentary material’ means the original or a copy of any book, record, report, memo-
+14 randum, paper, communication, tabulation, map, chart, photograph, mechanical transcription, or
+15 other tangible document or recording, wherever situated.
+16 “(3) ‘Examination’ of documentary material [includes inspection, study] means inspecting,
+17 studying or copying [of] any documentary material[,] and taking testimony under oath or acknowl-
+18 edgment [regarding any documentary material or copy thereof] about the documentary material
+19 or a copy of the documentary material.
+20 “(4) ‘Person’ means a natural [persons, corporations, trusts, partnerships,] person, a corporation,
+21 a trust, a partnership, an incorporated or unincorporated [associations] association and any other
+22 legal entity except [bodies or officers] a body or officer that is acting under the statutory authority
+23 of this state or the United States.
+24 “(5) ‘Prosecuting attorney’ means the Attorney General or the district attorney of any county
+25 in which a violation of ORS 336.184 and 646.605 to 646.652 is alleged to have occurred.
+26 “(6)(a) ‘Real estate, goods or services’ means those that are or may be obtained primarily for
+27 personal, family or household purposes, or that are or may be obtained for any purposes as a result
+28 of a telephone solicitation, and includes loans and extensions of credit, and franchises,
+29 distributorships and other similar business opportunities[, but does not include insurance].
+30 “(b) Notwithstanding paragraph (a) of this subsection:
+31 “(A) ‘Real estate’ does not cover conduct covered by ORS chapter 90.
+32 “(B) ‘Loans and extensions of credit’ does not include transactions involving a pawnbroker, as
+33 defined in ORS 726.010, that is required to be licensed under ORS chapter 726.
+34 “(7) ‘Telephone solicitation’ means a solicitation [where] in which a person, in the course of the
+LC 87/HB 4098-MR3
+
+1 person’s business, vocation or occupation, uses a telephone or an automatic dialing-announcing de-
+2 vice to initiate telephonic contact with a potential customer and the person is not one of the fol-
+3 lowing:
+4 “(a) [A person who is] A broker-dealer or salesperson licensed under ORS 59.175, or a mortgage
+5 banker or mortgage broker licensed under ORS 86A.106, [when] if the solicitation is for a security
+6 qualified for sale [pursuant to] under ORS 59.055.
+7 “(b) A real estate licensee or a person who is otherwise authorized to engage in professional
+8 real estate activity [pursuant to] under ORS chapter 696, [when] if the solicitation involves profes-
+9 sional real estate activity.
+10 “(c) A person licensed or exempt from licensure as a builder [pursuant to] under ORS chapter
+11 701, [when] if the solicitation involves [the construction, alteration, repair, improvement or demolition
+12 of] constructing, altering, repairing, improving or demolishing a structure.
+13 “[(d) A person licensed or otherwise authorized to sell insurance as an insurance producer pursu-
+14 ant to ORS chapter 744, when the solicitation involves insurance.]
+15 “[(e)] (d) A person [soliciting] that solicits the sale of a newspaper of general circulation, a
+16 magazine or membership in a book or record club who complies with ORS 646.611, [when] if the
+17 solicitation involves newspapers, magazines or membership in a book or record club.
+18 “[(f)] (e) A person [soliciting] that solicits, without the intent to complete, and who does not
+19 complete [the] a sales presentation during the telephone solicitation and [who] that only completes
+20 the sales presentation at a later face-to-face meeting between the [solicitor] person and the pro-
+21 spective purchaser.
+22 “[(g)] (f) A supervised financial institution or parent, subsidiary or affiliate [thereof] of a
+23 supervised financial institution. As used in this paragraph, ‘supervised financial institution’ means
+24 any financial institution or trust company, as those terms are defined in ORS 706.008, or any per-
+25 sonal property broker, consumer finance lender, commercial finance lender or insurer that is subject
+26 to regulation by an official or agency of this state or of the United States.
+27 “[(h)] (g) A person [who] that is authorized to conduct prearrangement or preconstruction fu-
+28 neral or cemetery sales, [pursuant to] under ORS chapter 692, [when] if the solicitation involves
+29 prearrangement or preconstruction funeral or cemetery plans.
+30 “[(i)] (h) A person [who] that solicits the services [provided by] that a cable television system
+31 licensed or franchised [pursuant to] under state, local or federal law provides, [when] if the solic-
+32 itation involves cable television services.
+33 “[(j)] (i) A person or affiliate of a person [whose] the business [is regulated by] of which the
+34 Public Utility Commission [of Oregon] regulates.
+35 “[(k)] (j) A person who sells farm products, as defined [by] in ORS 576.006, if the [solicitation
+36 neither intends to nor actually results] person does not intend to complete a sale and the solic-
+37 itation does not actually result in a sale that costs the purchaser in excess of $100.
+38 “[(L)] (k) An issuer or subsidiary of an issuer that has a class of securities that is subject to
+39 section 12 of the Securities Exchange Act of 1934 and that is either registered or exempt from reg-
+40 istration under paragraph (A), (B), (C), (E), (F), (G) or (H) or subsection (g) of that section.
+41 “[(m)] (L) A person [soliciting exclusively] that solicits only the sale of telephone answering
+42 services [to be provided by] that the person or [that] the person’s employer [when] will provide, if
+43 the solicitation involves answering services.
+44 “[(n)] (m) A telecommunications utility with access lines of 15,000 or less or a cooperative
+45 telephone association, [when] if the solicitation involves regulated goods or services.
+HMRA to HB 4098 Page 2
+
+1 “(8) ‘Trade’ and ‘commerce’ mean advertising, offering or distributing, whether by sale, rental
+2 or otherwise, any real estate, goods or services, and include any trade or commerce that directly
+3 or indirectly [affecting] affects the people of this state.
+4 “(9) ‘Unconscionable tactics’ include, but are not limited to, actions by which a person:
+5 “(a) Knowingly takes advantage of a customer’s physical infirmity, ignorance, illiteracy or ina-
+6 bility to understand the language of the agreement;
+7 “(b) Knowingly permits a customer to enter into a transaction from which the customer will
+8 derive no material benefit;
+9 “(c) Permits a customer to enter into a transaction [with knowledge that there is no reasonable
+10 probability of payment of the attendant financial obligation in full by the customer when due] knowing
+11 that the customer does not have a reasonable probability of paying the attendant financial
+12 obligations in full when due; or
+13 “(d) Knowingly takes advantage of a customer who is a disabled veteran, a disabled
+14 servicemember or a servicemember in active service, or the spouse of a disabled veteran, disabled
+15 servicemember or servicemember in active service. For purposes of this paragraph:
+16 “(A) ‘Disabled veteran’ has the meaning given that term in ORS 408.225.
+17 “(B) ‘Disabled servicemember’ means a servicemember, as defined in 50 U.S.C. 3911 as in effect
+18 on [January 1, 2010] the effective date of this 2026 Act, who may be entitled to disability com-
+19 pensation under laws administered by the United States Department of Veterans Affairs.
+20 “(C) ‘Servicemember in active service’ means:
+21 “(i) A servicemember called into active service under Title 10 or Title 32 of the United States
+22 Code as in effect on [January 1, 2010] the effective date of this 2026 Act; or
+23 “(ii) A servicemember on state active duty, as defined in the Oregon Code of Military Justice.
+24 “(10) A willful violation occurs when the person committing the violation knew or should have
+25 known that the conduct of the person was a violation.
+26 “[(11) A loan is made ‘in close connection with the sale of a manufactured dwelling’ if:]
+27 “[(a) The lender directly or indirectly controls, is controlled by or is under common control with
+28 the seller, unless the relationship is remote and is not a factor in the transaction;]
+29 “[(b) The lender gives a commission, rebate or credit in any form to a seller who refers the bor-
+30 rower to the lender, other than payment of the proceeds of the loan jointly to the seller and the bor-
+31 rower;]
+32 “[(c) The lender is related to the seller by blood or marriage;]
+33 “[(d) The seller directly and materially assists the borrower in obtaining the loan;]
+34 “[(e) The seller prepares documents that are given to the lender and used in connection with the
+35 loan; or]
+36 “[(f) The lender supplies documents to the seller used by the borrower in obtaining the loan.]
+37 “SECTION 2. ORS 646.612 is amended to read:
+38 “646.612. ORS 646.607 and 646.608 do not apply to:
+39 “(1) Conduct [in compliance] that complies with the orders, [or] rules [of,] or a statute [admin-
+40 istered by] a federal, state or local governmental agency administers.
+41 “(2) Acts [done by the] that a publisher, owner, agent or employee of a newspaper, periodical,
+42 telephone directory or radio or television station [in the publication or dissemination of] does in
+43 publishing or disseminating an advertisement, [when] if the publisher, owner, agent or employee
+44 did not [have knowledge of] know the false, misleading or deceptive character of the advertisement.
+45 “SECTION 3. ORS 646.636 is amended to read:
+HMRA to HB 4098 Page 3
+
+1 “646.636. [The] A court may make [such] additional orders or judgments [as may be] that the
+2 court deems necessary to restore to any person in interest any moneys or property, real or per-
+3 sonal, of which the person was deprived by means of any practice declared to be unlawful in ORS
+4 646.607 or 646.608, [or as may be necessary] to ensure cessation of unlawful trade practices and to
+5 provide any other equitable relief that the court deems appropriate.
+6 “SECTION 4. ORS 646.638 is amended to read:
+7 “646.638. (1) Except as provided in subsections (8) and (9) of this section, a person that suffers
+8 an ascertainable loss of money or property, real or personal, as a result of another person’s willful
+9 use or employment of a method, act or practice declared unlawful under ORS 646.608, may bring an
+10 individual action in an appropriate court to recover actual damages or statutory damages of $200,
+11 whichever is greater, and to obtain appropriate equitable relief. The court or the jury may award
+12 punitive damages and the court may provide any equitable relief the court considers necessary or
+13 proper.
+14 “(2) A person that brings an action under subsection (1) of this section shall mail a copy of the
+15 complaint or other initial pleading to the Attorney General at the time the action commences and,
+16 upon entry of any judgment in the action, shall mail a copy of the judgment to the Attorney General.
+17 Failure to mail a copy of the complaint is not a jurisdictional defect, but a court may not enter
+18 judgment for the plaintiff until proof of mailing is filed with the court. Proof of mailing may be by
+19 affidavit or by return receipt of mailing.
+20 “(3) The court may award reasonable attorney fees and costs at trial and on appeal to a pre-
+21 vailing plaintiff in an action under this section. The court may award reasonable attorney fees and
+22 costs at trial and on appeal to a prevailing defendant only if the court finds that an objectively
+23 reasonable basis for bringing the action or asserting the ground for appeal did not exist.
+24 “(4) The court may not award attorney fees to a prevailing defendant under the provisions of
+25 subsection (3) of this section if the action under this section is maintained as a class action pursuant
+26 to ORCP 32.
+27 “(5) Any permanent injunction or final judgment or order the court makes under ORS 646.632
+28 or 646.636 is prima facie evidence in an action brought under this section that the respondent used
+29 or employed a method, act or practice declared unlawful under ORS 646.608, but an assurance of
+30 voluntary compliance, whether or not approved by the court, is not evidence of the violation.
+31 “(6) Actions brought under this section must be commenced within one year after the discovery
+32 of the unlawful method, act or practice. Notwithstanding this limitation, if a prosecuting attorney
+33 filed a complaint to prevent, restrain or punish a violation of ORS 646.608, the complaint tolls the
+34 statute of limitations with respect to every private right of action under this section that is based
+35 in whole or in part on any matter set forth in the prosecuting attorney’s complaint for the period
+36 of time in which the proceeding that the prosecuting attorney initiated is pending.
+37 “(7) Notwithstanding subsection (6) of this section, in any action that a seller or lessor brings
+38 against a purchaser or lessee of real estate, goods or services, the purchaser or lessee may assert
+39 any counterclaim that the purchaser or lessee has arising out of a violation of ORS 336.184 and
+40 646.605 to 646.652.
+41 “(8) A class action may be maintained under this section. In any class action under this section:
+42 “(a) Statutory damages under subsection (1) of this section may be recovered on behalf of class
+43 members only if the plaintiffs in the action establish that the members have sustained an
+44 ascertainable loss of money or property as a result of a reckless or knowing use or employment by
+45 the defendant of a method, act or practice declared unlawful by ORS 646.608;
+HMRA to HB 4098 Page 4
+
+1 “(b) The trier of fact may award punitive damages; and
+2 “(c) The court may award appropriate equitable relief.
+3 “(9) This section does not apply to:
+4 “(a) Any method, act or practice described in ORS 646.608 (1)(aa). Actions for violation of laws
+5 relating to odometers are provided under ORS 815.410 and 815.415.
+6 “(b) A violation of ORS 86.726 (1)(a) or (2), 86.729 (4) or 86.732 (1) or (2).
+7 “SECTION 5. ORS 646.648 is amended to read:
+8 “646.648. (1) As used in this section:
+9 “(a) ‘Buyer’ means a person who buys or agrees to buy a manufactured dwelling from a manu-
+10 factured dwelling dealer.
+11 “(b) ‘Cash sale price’ means the price for which a manufactured dwelling dealer would sell to
+12 a buyer, and the buyer would buy from a dealer, a manufactured dwelling that is covered by a
+13 purchase agreement, if the sale were a sale for cash instead of a retail installment sale.
+14 “(c) ‘Manufactured dwelling’ has the meaning given that term in ORS 446.003.
+15 “(d) ‘Manufactured dwelling dealer’ means a person licensed under ORS 446.691 or 446.696 or a
+16 temporary manufactured structure dealer licensee under ORS 446.701.
+17 “(e) ‘Retail installment sale’ has the meaning given that term in ORS 83.510.
+18 “(2) A manufactured dwelling dealer engages in an unlawful practice when, in a sale of a man-
+19 ufactured dwelling, the dealer does any of the following:
+20 “(a) Misrepresents to a buyer that, as a condition of financing, the buyer must purchase:
+21 “(A) Credit life insurance;
+22 “(B) Credit disability insurance;
+23 “(C) Credit unemployment insurance;
+24 “(D) Credit property insurance;
+25 “(E) Health insurance;
+26 “(F) Life insurance; or
+27 “(G) An extended warranty.
+28 “(b) In close connection with the sale, misrepresents to a lender:
+29 “(A) The cash sale price;
+30 “(B) The amount of the buyer’s down payment; or
+31 “(C) The buyer’s credit or employment history.
+32 “(3) For purposes of subsection (2)(b) of this section, a loan is made in close connection
+33 with the sale of a manufactured dwelling if:
+34 “(a) The lender directly or indirectly controls, is controlled by or is under common con-
+35 trol with the seller, unless the relationship is remote and is not a factor in the transaction;
+36 “(b) The lender gives a commission, rebate or credit in any form to a seller who refers
+37 the borrower to the lender, other than paying the proceeds of the loan jointly to the seller
+38 and the borrower;
+39 “(c) The lender is related to the seller by blood or marriage;
+40 “(d) The seller directly and materially assists the borrower in obtaining the loan;
+41 “(e) The seller prepares documents that are given to the lender and used in connection
+42 with the loan; or
+43 “(f) The lender supplies documents to the seller that the borrower uses in obtaining the
+44 loan.
+45 “SECTION 6. The amendments to ORS 646.605, 646.612, 646.636, 646.638 and 646.648 by
+HMRA to HB 4098 Page 5
+
+1 sections 1 to 5 of this 2026 Act apply to acts that occur on or after the effective date of this
+2 2026 Act.”.
+3
+/s/ Virgle Osborne
+4 Representative
+5
+/s/ Kim Wallan
+6 Representative
+7
+8
+HMRA to HB 4098 Page 6
+
+[DELETED:  T[][] [] a t h c o o m o t d a W [] d c [] t p a m aew ‘ m m t o o a c o a b r r m p c t m c p m t o ‘ o d m [] m i i s[][]f [] a t d m a d m o c t[][][] a m t A G o t d a o a c ‘ e g o s m t t a o m b o p f a t s a i l a e o c a f[] ‘ a e o[]]
+[DELETED:  t i t c w a p c a t p i n o o[][][] A r e l o a p w i o a t e i p[][]ow[] O c[]nt A[] ( A p [] t s t s o a n o g c )s o m i a b o r c w c w O 6 [] i t[] A p [] w t i t c a w d n)s[][]ew s p a a l f m b t [] p a t pep[] ( A s f i o p s o a [] o )t t a d i O 7 o a p[] A p [] t i a t c p o)w o c s [] u O c 6 [] i t s i tow[][][])wop[][] t sow[] ( A p o a o a p [] b [] t)wei r b[][] A p w s f p a d [] i t )bys[] o s o a i t h a c o s t i s t[] ( A p [] t s o t s o t a)s e[][][]yttw[] ( A t u w a l o 1 o l o a c[]8P]
+[DELETED:  ‘ a ‘ m a o o d w b s r s a i a t o c t d[] K p a c t e i a t f w t c w f K t a o a c w i a d v a d s o a d v d [] w m b e t d c[][ T l d o i c i c c i a f t a s w r t b t t l o t p o t p o t l j t[[ g t t l a u i c w t;o[[][][]eoro,a[] o e o a n p d o r o t s [] d i t p o d o [] t p o a o e[]8P]
+[DELETED: [] A c m m [] a o o j []esha m b n t r t a p i i a m o p r o p o[] a i a a a e r t c c n o t m a c o t c i n a j d b a c m n e c m a r a f a c a t a o a t a p a t a o a t a p d o i t c f t a o T c m n a a f t a p d u t p o o f j o o t c m u O 6 e a m a o p d u u O 6 b a a o u m a o p N t l i a p a a w o i p o a a s o l b a p o c t t p o l h a o o a v o O 3 a o i t p i t a e t t m h s a8P]
+[DELETED:  m t p f w a m d d w s t b a t b w b f a d a m d t i c b  6.T a t O 6 6 6 6 a 6 b8P]
+[DELETED: 8P]

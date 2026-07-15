@@ -1,0 +1,65 @@
+Title: HOUSE BILL 4137
+Official Title: HOUSE BILL 4137
+Number of Sections: 1
+Source: versions - HJUD Amendment -2
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB 4137-2
+(LC 251)
+2/9/26 (HE/ps)
+Requested by Representative CATE
+PROPOSED AMENDMENTS TO
+1 On page 2 of the printed bill, delete lines 26 through 40 and insert:
+2 “(8)(a) A defendant who has been issued a violation citation for a traffic
+3 violation and who has already transferred the defendant’s interest in the
+4 motor vehicle described in the citation is not required to make a first ap-
+5 pearance if, within 30 days of the issuance of the citation, the defendant in-
+6 stead notifies the court with jurisdiction, through a certificate of innocence
+7 or in the manner provided by the court, of the transfer when the defendant
+8 submits to the court a statement swearing or affirming that:
+9 “(A) The citation is issued for the parking, abandoning or operation of
+10 the motor vehicle by another person;
+11 “(B) The defendant transferred interest in the vehicle to another person
+12 before the citation was issued;
+13 “(C) The defendant submitted the notice of transfer of interest to the
+14 Department of Transportation as required under ORS 803.112; and
+15 “(D) Pursuant to ORS 803.117 the defendant is exempt from liability.
+16 “(b) Upon determining that the person is exempt from liability in ac-
+17 cordance with ORS 803.117, the court shall dismiss the citation.”.
+18
+[DELETED: B4C26( A d w h b i a w h a t t d i i t v d i t c i n r t m a f a n t c w i t m p b t c o t t w t d T c i i f t p a o o o T d t i i t v t a p T d s t n o t o i t t U d t t p i e f l i a]
+
+
+================================================================================
+
+Raw Text:
+HB 4137-2
+(LC 251)
+2/9/26 (HE/ps)
+Requested by Representative CATE
+PROPOSED AMENDMENTS TO
+HOUSE BILL 4137
+1 On page 2 of the printed bill, delete lines 26 through 40 and insert:
+2 “(8)(a) A defendant who has been issued a violation citation for a traffic
+3 violation and who has already transferred the defendant’s interest in the
+4 motor vehicle described in the citation is not required to make a first ap-
+5 pearance if, within 30 days of the issuance of the citation, the defendant in-
+6 stead notifies the court with jurisdiction, through a certificate of innocence
+7 or in the manner provided by the court, of the transfer when the defendant
+8 submits to the court a statement swearing or affirming that:
+9 “(A) The citation is issued for the parking, abandoning or operation of
+10 the motor vehicle by another person;
+11 “(B) The defendant transferred interest in the vehicle to another person
+12 before the citation was issued;
+13 “(C) The defendant submitted the notice of transfer of interest to the
+14 Department of Transportation as required under ORS 803.112; and
+15 “(D) Pursuant to ORS 803.117 the defendant is exempt from liability.
+16 “(b) Upon determining that the person is exempt from liability in ac-
+17 cordance with ORS 803.117, the court shall dismiss the citation.”.
+18
+
+[DELETED: B4C26( A d w h b i a w h a t t d i i t v d i t c i n r t m a f a n t c w i t m p b t c o t t w t d T c i i f t p a o o o T d t i i t v t a p T d s t n o t o i t t U d t t p i e f l i a]

@@ -1,0 +1,2851 @@
+Title: SENATE BILL 5701
+Official Title: SENATE BILL 5701
+Number of Sections: 1
+Source: versions - JWM Amendment -2
+Media Type: application/pdf
+Strikethrough Detection: 43 sections found
+
+================================================================================
+
+Section 1:
+SB 5701-2
+(LC 321)
+2/23/26 (DFY/ps)
+Requested by JOINT COMMITTEE ON WAYS AND MEANS
+PROPOSED AMENDMENTS TO
+1 On page 1 of the printed bill, line 2, after the semicolon delete the rest
+2 of the line and delete lines 3 and 4 and insert “creating new provisions;
+3 amending section 15, chapter 746, Oregon Laws 2007, section 1, chapter 596,
+4 Oregon Laws 2023, section 44, chapter 599, Oregon Laws 2023, sections 1, 2,
+5 3 and 12, chapter 630, Oregon Laws 2025, and sections 3, 7, 11 and 20, chapter
+6 633, Oregon Laws 2025; repealing section 37, chapter 633, Oregon Laws 2025;
+7 and declaring an emergency.”.
+8 Delete lines 6 through 30 and delete page 2 and insert:
+9 “SECTION 1. Section 1, chapter 630, Oregon Laws 2025, is amended to
+10 read:
+11 “Sec. 1. The amounts authorized, as provided by ORS 286A.035, for issu-
+12 ance of general obligation bonds of the state during the 2025-2027 biennium
+13 are as follows:
+14
+15 GENERAL OBLIGATION BONDS
+16 General Fund Obligations
+17 (1) Higher Education Coordinating
+18 Commission (Art. XI-G):
+19 (a) Clackamas Community College,
+20 Center for Excellence for
+21 Farming, Horticulture and
+1 Wildland Fire.................................. $ 8,085,000
+2 (b) Klamath Community College,
+3 Cosmetology ADA
+4 Remediation..................................... $ 4,045,000
+5 (c) Mt. Hood Community College,
+6 Classroom and Lab
+7 Renovations..................................... $ 8,085,000
+8 (d) Clatsop Community College,
+9 Maritime Science Building........... $ 7,985,000
+10 (e) Southwestern Oregon
+11 Community College, [Student]
+12 [ Uplift and Collaboration]
+13 [ Create Expanded Support]
+14 [ Success.............................................. $ 8,085,000]
+15 Welding and Manufacturing
+16 Trades Center......................... $ 5,070,000
+17 (f) Portland State University,
+18 Portland Center for the
+19 Performing Arts Academic
+20 [Building........................................... $ 85,660,000]
+21 Building................................... $ 50,455,000
+22 (g) University of Oregon, Child
+23 Behavioral Health Building......... $ 17,920,000
+24 (h) Southern Oregon University,
+25 Creative Industries/Student
+26 Success.............................................. $ 2,485,000
+27 (i) Western Oregon University,
+28 Data Center..................................... $ 715,000
+29 (j) Oregon State University,
+30 Cascades Student Health
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 2
+1 and Recreation Center............ $ 32,330,000
+2 (2) Oregon Business Development
+3 Department (Art. XI-M)................ $ 100,910,000
+4 (3) Oregon Business Development
+5 Department (Art. XI-N)................. $ 50,580,000
+6 (4) Department of Education
+7 (Art. XI-P)........................................ $ 50,455,000
+8 (5) Oregon Department of
+9 Administrative
+10 Services (Art. XI-Q):
+11 (a) Housing and Community
+12 Services Department:
+13 (A) Local Innovation and Fast
+14 Track (LIFT) Affordable
+15 [Rental Housing Program............. $ 468,220,000]
+16 Rental Housing Program........ $ 543,820,000
+17 (B) Local Innovation and Fast
+18 Track (LIFT) Homeownership
+19 Program............................................ $ 100,910,000
+20 (C) Permanent Supportive
+21 Housing Program............................ $ 80,760,000
+22 (D) Housing Opportunity
+23 Longevity and Durability
+24 (HOLD) Fund Preservation
+25 Program.................................. $ 25,290,000
+26 (b) Department of Corrections:
+27 (A) Capital Improvement and
+28 Renewal............................................ $ 50,455,000
+29 (B) Computerized Maintenance
+30 Management System...................... $ 2,285,000
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 3
+1 (C) Institution Staff Deployment
+2 System Replacement (ISDS)......... $ 625,000
+3 (D) Wireless Communication
+4 System............................................... $ 13,040,000
+5 (c) State Forestry Department:
+6 (A) Klamath Fire Cache
+7 Warehouse Replacement............... $ 1,723,800
+8 (B) Santiam Facility Replacement,
+9 Phase I.............................................. $ 1,115,400
+10 (C) State Forester, Office
+11 Building Restoration...................... $ 520,200
+12 (D) Toledo Facility Replacement,
+13 Phase III........................................... $ 2,542,388
+14 (E) Veneta Campus Remodel.............. $ 4,404,427
+15 (d) State Department of
+16 Fish and Wildlife:
+17 (A) Capital Improvements,
+18 Hatchery Facilities........................ $ 20,180,000
+19 (B) North Willamette Watershed
+20 District Office................................. $ 5,320,000
+21 (e) Oregon Health Authority,
+22 Oregon State Hospital
+23 Capital Improvements
+24 and Equipment................................ $ 7,545,000
+25 (f) Judicial Department,
+26 Morrow County Courthouse........ $ 2,535,000
+27 (g) Oregon Military Department:
+28 (A) Medford Field Maintenance
+29 Shop................................................... $ 6,680,000
+30 (B) Klamath Falls Readiness
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 4
+1 Center............................................... $ 2,035,000
+2 (C) Linn County Readiness
+3 Center............................................... $ 7,080,000
+4 (h) Department of State Police:
+5 (A) Area Command Center
+6 Property Acquisition..................... $ 3,540,000
+7 (B) Springfield Patrol Area
+8 Command Office.............................. $ 7,360,000
+9 (i) Oregon Youth Authority:
+10 (A) Capital Improvements,
+11 All Facilities.................................... $ 5,070,000
+12 (B) CCTV and Access Control
+13 Improvement, Phase IV................. $ 5,630,000
+14 (C) JJIS IT System
+15 Modernization................................. $ 12,295,000
+16 (D) MacLaren Infirmary and
+17 Pharmacy Renovation and
+18 Expansion......................................... $ 2,735,000
+19 (E) Camp Riverbend Dorm
+20 Renovation....................................... $ 8,960,000
+21 (F) MacLaren West Cottages
+22 Renovations..................................... $ 4,045,000
+23 (G) Oak Creek Youth Correctional
+24 Facility.............................................. $ 4,045,000
+25 (H) Tillamook Dorm Renovation........ $ 12,015,000
+26 (I) Tillamook Medical and Dental
+27 Renovations..................................... $ 825,000
+28 (j) Department of Public Safety
+29 Standards and Training:
+30 (A) Learning Management
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 5
+1 System............................................... $ 3,510,000
+2 (B) Deferred Maintenance................... $ 3,280,000
+3 (k) Department of Environmental
+4 Quality, Laboratory and
+5 Monitoring Equipment.................. $ 1,350,000
+6 (L) Higher Education Coordinating
+7 Commission:
+8 (A) Public Universities Capital
+9 Improvement and Renewal........... $ 120,930,000
+10 (B) University of Oregon, Child
+11 Behavioral Health Building......... $ 35,855,000
+12 (C) Southern Oregon University,
+13 Creative Industries/Student
+14 Success.............................................. $ 38,470,000
+15 (D) Western Oregon University,
+16 Data Center..................................... $ 12,555,000
+17 (E) Portland State University,
+18 Portland Center for the
+19 Performing Arts Academic
+20 Building................................... $ 35,350,000
+21 (F) Western Oregon University,
+22 Heritage Hall Roof
+23 Replacement........................... $ 3,140,000
+24 (G) Oregon State University,
+25 Cascades Student Health
+26 and Recreation Center............ $ 10,125,000
+27 (m) State Department of
+28 Agriculture, Project
+29 OneODA........................................... $ 6,185,000
+30 (n) Oregon Public Defense
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 6
+1 Commission, Financial Case
+2 Management System...................... $ 13,915,000
+3 (o) Department of Justice,
+4 Legal Tools Replacement
+5 System 3.0........................................ $ 13,455,000
+6 (p) Department of Revenue,
+7 Electronic Valuation
+8 Information System........................ $ 2,035,000
+9 (q) Oregon Department of Emergency
+10 Management, Resiliency Grant
+11 Fund established under
+12 ORS 401.552..................................... $ 10,140,000
+13 (r) Oregon Business Development
+14 Department, Coos Bay Channel
+15 Modification..................................... $ 100,815,000
+16 (s) State Parks and Recreation
+17 Department, Park
+18 Acquisition.............................. $ 2,135,000
+19 (6) Department of
+20 Transportation (Art. XI,
+21 section 7), Interstate 5
+22 Bridge Replacement Project........ $ 251,825,000
+23 Dedicated Fund Obligations
+24 (7) Department of Veterans’
+25 Affairs (Art. XI-A).......................... $ 116,000,000
+26 (8) Higher Education Coordinating
+27 Commission (Art. XI-F(1)):
+28 (a) Portland State University,
+29 Portland Center for the
+30 Performing Arts Parking
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 7
+1 Structure and Auxiliary
+2 Spaces.............................................. $ 53,010,000
+3 (b) Portland State University,
+4 [Student Housing............................ $ 85,660,000]
+5 Student Housing..................... $ 100,815,000
+6 (9) Department of Environmental
+7 Quality (Art. XI-H)......................... $ 20,080,000
+8 (10) Housing and Community
+9 Services Department
+10 (Art. XI-I(2))..................................... $ 50,000,000
+11 (11) Oregon Department of
+12 Administrative Services
+13 (Art. XI-Q):
+14 (a) Oregon Department of
+15 Administrative Services,
+16 Labor and Industries Building
+17 Renovation and Seismic
+18 Upgrade............................................ $ 126,080,000
+19 (b) State Forestry Department:
+20 (A) Klamath Fire Cache Warehouse
+21 Replacement.................................... $ 3,346,200
+22 (B) Santiam Facility Replacement,
+23 Phase I.............................................. $ 3,954,600
+24 (C) State Forester, Office
+25 Building Restoration...................... $ 1,009,800
+26 (D) Toledo Facility Replacement,
+27 Phase III........................................... $ 3,532,612
+28 (E) Veneta Campus Remodel.............. $ 6,430,573
+29 (c) Department of Veterans’
+30 Affairs:
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 8
+1 (A) Department of Veterans’
+2 Affairs Salem HVAC
+3 Controls Replacement,
+4 Phase II............................................ $ 1,585,000
+5 (B) Department of Veterans’
+6 Affairs Salem Roof
+7 Replacement.................................... $ 1,230,000
+8 (d) Oregon Liquor and Cannabis
+9 Commission:
+10 (A) Liquor Warehouse Management
+11 Management IT System................ $ 8,090,000
+12 (B) Liquor Warehouse Conveyor
+13 System............................................... $ 10,125,000
+14 (C) Liquor Warehouse Land
+15 and Building.................................... $ 46,330,000
+16 Total General Obligation
+17 [Bonds............................................... $2,340,290,000]
+18 Bonds...................................... $2,501,195,000
+19 “SECTION 2. Section 2, chapter 630, Oregon Laws 2025, is amended to
+20 read:
+21 “Sec. 2. The amounts authorized, as provided by ORS 286A.035, for issu-
+22 ance of revenue bonds of the state during the 2025-2027 biennium are as fol-
+23 lows:
+24
+25 REVENUE BONDS
+26 Direct Revenue Bonds
+27 Housing and Community
+28 Services Department................... $ 500,000,000
+29 Department of Transportation,
+30 Highway User Tax....................... $ 850,000,000
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 9
+1 Department of Transportation,
+2 Grant Anticipation Revenue
+3 Vehicle............................................ $ 345,000,000
+4 Oregon Business Development
+5 Department.................................... $ 30,000,000
+6 Oregon Department of
+7 Administrative Services,
+8 [Lottery Revenue Bonds.............. $ 494,515,200]
+9 Lottery Revenue Bonds........ $ 579,120,200
+10 Total Direct Revenue
+11 [Bonds............................................. $ 2,219,515,200]
+12 Bonds.................................... $ 2,304,120,200
+13 Pass-Through Revenue Bonds
+14 Oregon Business Development
+15 Department, Industrial
+16 Development Bonds..................... $ 600,000,000
+17 Oregon Business Development
+18 Department, Beginning and
+19 Expanding Farmer Loan
+20 Program.......................................... $ 2,000,000
+21 Oregon Facilities Authority...... $ 1,000,000,000
+22 Housing and Community
+23 Services Department................... $ 1,300,000,000
+24 Total Pass-Through Revenue
+25 Bonds.............................................. $ 2,902,000,000
+26 [Total Revenue Bonds.................. $ 5,121,515,200]
+27 Total Revenue Bonds............ $ 5,206,120,200
+28 “SECTION 3. Section 3, chapter 630, Oregon Laws 2025, is amended to
+29 read:
+30 “Sec. 3. The amount authorized, as provided by ORS 286A.035, for issu-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 10
+1 ance of certificates of participation and other financing agreements of the
+2 state during the 2025-2027 biennium for the Oregon Department of Adminis-
+3 trative Services is [$13,037,910] $33,037,910.
+4 “SECTION 4. (1) In addition to and not in lieu of any authorization
+5 to issue general obligation bonds under ORS 286A.035, for the biennium
+6 ending June 30, 2027, at the request of the Oregon Department of Ad-
+7 ministrative Services, the State Treasurer may issue Article XI-Q
+8 bonds under ORS 286A.816 to 286A.826 in an amount that produces up
+9 to $200,000,000 of net proceeds for the purposes described in subsection
+10 (2) of this section, plus an amount estimated by the State Treasurer
+11 to pay bond-related costs but not to exceed $1,400,000, subject to sub-
+12 section (3) of this section.
+13 “(2) Net proceeds of bonds issued under this section must be trans-
+14 ferred to the Oregon Department of Administrative Services for de-
+15 posit in the Oregon Arena Fund established in section 3, chapter ___,
+16 Oregon Laws 2026 (Enrolled Senate Bill 1501) to support capital im-
+17 provements to the Moda Center and surrounding plaza areas.
+18 “(3) The State Treasurer may issue bonds under this section only
+19 if:
+20 “(a) The prerequisite conditions for issuance of debt instruments
+21 set forth in section 5, chapter ___, Oregon Laws 2026 (Enrolled Senate
+22 Bill 1501) are met; and
+23 “(b) The aggregate amount of net proceeds from bonds and certif-
+24 icates of participation issued or anticipated to be issued under this
+25 section and section 5 of this 2026 Act does not exceed $200,000,000 of
+26 net proceeds.
+27 “SECTION 5. (1) In addition to and not in lieu of any authorization
+28 to issue certificates of participation and other financing agreements
+29 of the state, at the request of the Oregon Department of Administra-
+30 tive Services, the State Treasurer is authorized to issue certificates
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 11
+1 of participation in an amount that produces up to $200,000,000 of net
+2 proceeds in the biennium ending June 30, 2027, for the purposes de-
+3 scribed in subsection (2) of this section, plus an amount estimated by
+4 the State Treasurer to pay costs of issuance but not to exceed
+5 $1,400,000, subject to subsection (3) of this section.
+6 “(2) Net proceeds of certificates of participation issued under this
+7 section must be transferred to the Oregon Department of Adminis-
+8 trative Services for deposit in the Oregon Arena Fund established in
+9 section 3, chapter ___, Oregon Laws 2026 (Enrolled Senate Bill 1501) to
+10 support capital improvements to the Moda Center and surrounding
+11 plaza areas.
+12 “(3) The department may issue certificates of participation under
+13 this section only if:
+14 “(a) The prerequisite conditions for issuance of debt instruments
+15 set forth in section 5, chapter ___, Oregon Laws 2026 (Enrolled Senate
+16 Bill 1501) are met; and
+17 “(b) The aggregate amount of net proceeds from bonds and certif-
+18 icates of participation issued or anticipated to be issued under this
+19 section and section 4 of this 2026 Act does not exceed $200,000,000 of
+20 net proceeds.
+21 “SECTION 6. (1) In addition to and not in lieu of any authorization
+22 to issue general obligation bonds under ORS 286A.035, for the biennium
+23 beginning July 1, 2027, at the request of the Oregon Department of
+24 Administrative Services, the State Treasurer may issue Article XI-Q
+25 bonds under ORS 286A.816 to 286A.826 in an amount that produces up
+26 to $165,000,000 of net proceeds for the purposes described in subsection
+27 (2) of this section, plus an amount estimated by the State Treasurer
+28 to pay bond-related costs but not to exceed $1,200,000, subject to sub-
+29 section (3) of this section.
+30 “(2) Net proceeds of bonds issued under this section must be trans-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 12
+1 ferred to the Oregon Department of Administrative Services for de-
+2 posit in the Oregon Arena Fund established by section 3, chapter ___,
+3 Oregon Laws 2026 (Enrolled Senate Bill 1501) to support capital im-
+4 provements to the Moda Center and surrounding plaza areas.
+5 “(3) The State Treasurer may issue bonds under this section only
+6 if:
+7 “(a) The prerequisite conditions for issuance of debt instruments
+8 set forth in section 5, chapter ___, Oregon Laws 2026 (Enrolled Senate
+9 Bill 1501) are met; and
+10 “(b) The aggregate amount of net proceeds from bonds and certif-
+11 icates of participation issued or anticipated to be issued under this
+12 section and section 7 of this 2026 Act does not exceed $165,000,000 of
+13 net proceeds.
+14 “SECTION 7. (1) In addition to and not in lieu of any authorization
+15 to issue certificates of participation and other financing agreements
+16 of the state, at the request of the Oregon Department of Administra-
+17 tive Services, the State Treasurer is authorized to issue certificates
+18 of participation in an amount that produces up to $165,000,000 of net
+19 proceeds in the biennium beginning July 1, 2027, for the purposes de-
+20 scribed in subsection (2) of this section, plus an amount estimated by
+21 the State Treasurer to pay costs of issuance but not to exceed
+22 $1,200,000, subject to subsection (3) of this section.
+23 “(2) Net proceeds of certificates of participation issued under this
+24 section must be transferred to the Oregon Department of Adminis-
+25 trative Services for deposit in the Oregon Arena Fund established by
+26 section 3, chapter ___, Oregon Laws 2026 (Enrolled Senate Bill 1501) to
+27 support capital improvements to the Moda Center and surrounding
+28 plaza areas.
+29 “(3) The department may issue certificates of participation under
+30 this section only if:
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 13
+1 “(a) The prerequisite conditions for issuance of debt instruments
+2 set forth in section 5, chapter ___, Oregon Laws 2026 (Enrolled Senate
+3 Bill 1501) are met; and
+4 “(b) The aggregate amount of net proceeds from bonds and certif-
+5 icates of participation issued or anticipated to be issued under this
+6 section and section 6 of this 2026 Act does not exceed $165,000,000 of
+7 net proceeds.
+8 “SECTION 8. Section 1, chapter 596, Oregon Laws 2023, as amended by
+9 section 1, chapter 104, Oregon Laws 2024, and section 1, chapter 9, Oregon
+10 Laws 2025, is amended to read:
+11 “Sec. 1. The amounts authorized, as provided by ORS 286A.035, for issu-
+12 ance of general obligation bonds of the state during the 2023-2025 biennium
+13 are as follows:
+14
+15 GENERAL OBLIGATION BONDS
+16 General Fund Obligations
+17 (1) Higher Education Coordinating
+18 Commission (Art. XI-G):
+19 (a) Chemeketa Community
+20 College, Building 7 Remodel........ $ 8,110,000
+21 (b) Klamath Community College,
+22 Childcare Resource Learning
+23 Center............................................... $ 4,050,000
+24 (c) Rogue Community College,
+25 Transportation Technology
+26 Centers.............................................. $ 7,105,000
+27 (d) Central Oregon Community
+28 College, Renovation and
+29 Expansion of CTE Facilities
+30 at Redmond Campus...................... $ 4,050,000
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 14
+1 (e) Clatsop Community College,
+2 Maritime Science Building........... $ 8,010,000
+3 (f) Oregon Coast Community
+4 College, Center for Trades
+5 Education......................................... $ 8,110,000
+6 (g) Columbia Gorge Community
+7 College, Campus Renovations
+8 for Student Safety and
+9 Success.............................................. $ 5,595,000
+10 (h) Lane Community College,
+11 Science, Mathematics and
+12 Engineering Building
+13 Renovation....................................... $ 8,110,000
+14 (i) Portland Community College,
+15 Rock Creek Campus Building 2
+16 [Complex - Phase I......................... $ 8,110,000]
+17 Renovation and Building
+18 Construction Technology
+19 Building........................................... $ 8,110,000
+20 (j) Southwestern Oregon
+21 Community College,
+22 Student Uplift and
+23 Collaboration Create Expanded
+24 Support and Success...................... $ 8,110,000
+25 (k) Umpqua Community College,
+26 Welcome Center and Medical
+27 Careers Training Hub................... $ 8,110,000
+28 (L) University of Oregon,
+29 Friendly Hall Renovation............. $ 7,650,000
+30 (m) Oregon State University,
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 15
+1 Collaborative Innovation
+2 Complex............................................ $ 72,680,000
+3 (n) Portland State University,
+4 Vernier Science Center and
+5 Gateway Art and Design
+6 Project Completions....................... $ 4,330,000
+7 (2) Department of Environmental
+8 Quality (Art. XI-H)......................... $ 10,333,333
+9 (3) Oregon Business Development
+10 Department (Art. XI-M)................ $ 100,885,000
+11 (4) Oregon Business Development
+12 Department (Art. XI-N)................. $ 50,570,000
+13 (5) Department of Education
+14 (Art. XI-P)........................................ $ 100,885,000
+15 (6) Oregon Department of
+16 Administrative
+17 Services (Art. XI-Q):
+18 (a) Oregon Military Department:
+19 (A) Salem Owen Summers Building
+20 Service Life Extension.................. $ 2,955,000
+21 (B) Salem Owen Summers Building
+22 Seismic Strengthening and
+23 Life Safety Improvements............. $ 5,595,000
+24 (b) Department of State Police:
+25 (A) Central Point Office
+26 Expansion......................................... $ 26,845,000
+27 (B) Springfield Forensic Lab and
+28 Medical Examiner’s Office........... $ 21,545,000
+29 (C) Springfield Patrol Area
+30 Command Office.............................. $ 7,385,000
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 16
+1 (c) Department of Corrections:
+2 (A) Camera System............................... $ 8,615,000
+3 (B) Capital Improvement and
+4 Renewal............................................ $ 50,570,000
+5 (C) Wireless Communication
+6 System............................................... $ 13,070,000
+7 (d) Oregon Youth Authority:
+8 (A) Camp Riverbend Dorm
+9 Renovation....................................... $ 9,005,000
+10 (B) Capital Improvements -
+11 All Facilities.................................... $ 11,795,000
+12 (C) Control Room Renovations.......... $ 330,000
+13 (D) JJIS IT System
+14 Modernization................................. $ 7,850,000
+15 (E) MacLaren West Cottages
+16 Renovations..................................... $ 11,425,000
+17 (F) Rogue Valley Facility
+18 Improvements.................................. $ 1,509,910
+19 (G) Tillamook Dorm Renovation........ $ 12,070,000
+20 (H) Tillamook Medical and
+21 Dental Renovations........................ $ 830,000
+22 (I) Oak Creek Youth
+23 Correctional Facility..................... $ 4,050,000
+24 (e) Department of Education,
+25 Oregon School for the Deaf
+26 Capital Improvements................... $ 3,550,000
+27 (f) State Forestry Department:
+28 (A) Capital Improvements................... $ 2,461,687
+29 (B) Toledo Facility Replacement,
+30 Phase II............................................ $ 1,134,135
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 17
+1 (C) Multi-Mission Aircraft.................. $ 4,720,020
+2 (D) [Salem] Airport Hangar................ $ 791,520
+3 (g) State Department of Fish
+4 and Wildlife, Capital
+5 Improvement and Renewal........... $ 2,540,000
+6 (h) Housing and Community
+7 Services Department, Local
+8 Innovation and Fast Track
+9 (LIFT)/Permanent Supportive
+10 Housing Programs.......................... $ 604,280,000
+11 (i) Higher Education
+12 Coordinating Commission:
+13 (A) Public Universities Capital
+14 Improvement and Renewal........... $ 100,885,000
+15 (B) FAMIS System Replacement,
+16 Phase II............................................ $ 5,095,000
+17 (C) University of Oregon,
+18 Friendly Hall Renovation............. $ 65,840,000
+19 (D) Portland State University,
+20 Vernier Science Center and
+21 Gateway Art and Design
+22 Project Completions....................... $ 53,175,000
+23 (E) Oregon Institute of
+24 Technology, Geothermal
+25 System Emergency
+26 Renovation....................................... $ 18,160,000
+27 (F) Southern Oregon University,
+28 Central Hall Capital
+29 Improvements (Phase II)............... $ 6,100,000
+30 (j) Oregon Health Authority:
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 18
+1 (A) Junction City Single
+2 Unit Remodel.................................. $ 5,095,000
+3 (B) PLC System Replacement............. $ 3,045,000
+4 (k) Department of Revenue,
+5 Electronic Valuation
+6 Information System........................ $ 14,265,000
+7 (L) Legislative Administration
+8 Committee, Capitol
+9 Accessibility, Maintenance
+10 and Safety Phase III...................... $ 216,920,000
+11 (m) Judicial Department:
+12 (A) Benton County Courthouse.......... $ 15,925,000
+13 (B) Clackamas County
+14 Courthouse....................................... $ 45,535,000
+15 (C) Morrow County Courthouse........ $ 12,745,000
+16 (D) Curry County Courthouse............ $ 10,760,000
+17 (n) Oregon Department of
+18 Emergency Management,
+19 Resiliency Grant Fund
+20 established under
+21 ORS 401.552..................................... $ 5,095,000
+22 (7) Department of
+23 Transportation (Art. XI,
+24 section 7), Interstate 5
+25 Bridge Replacement Project........ $ 251,825,000
+26 Dedicated Fund Obligations
+27 (8) Department of Veterans’
+28 Affairs (Art. XI-A).......................... $ 109,023,670
+29 (9) Higher Education Coordinating
+30 Commission (Art. XI-F(1)):
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 19
+1 (a) Portland State University,
+2 Smith Memorial Union.................. $ 8,315,000
+3 (b) Portland State University,
+4 Vernier Science Center and
+5 Gateway Art and Design
+6 Project Completions....................... $ 18,205,000
+7 (10) Department of Environmental
+8 Quality (Art. XI-H)......................... $ 20,000,000
+9 (11) Housing and Community
+10 Services Department
+11 (Art. XI-I(2))..................................... $ 50,000,000
+12 (12) Oregon Department of
+13 Administrative Services
+14 (Art. XI-Q):
+15 (a) Yellow Parking Lot Paving......... $ 4,050,000
+16 (b) State Forestry Department:
+17 (A) Capital Improvements................... $ 2,418,313
+18 (B) Toledo Facility Replacement,
+19 Phase II............................................ $ 1,575,865
+20 (C) Multi-Mission Aircraft.................. $ 7,444,980
+21 (D) [Salem] Airport Hangar................ $ 1,248,480
+22 (c) Department of Justice,
+23 Legal Tools Replacement
+24 System 3.0........................................ $ 21,520,000
+25 (d) Oregon Liquor and Cannabis
+26 Commission:
+27 (A) Liquor Warehouse Conveyor
+28 System............................................... $ 24,305,000
+29 (B) Liquor Warehouse Land
+30 and Building.................................... $ 46,395,000
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 20
+1 (C) Liquor Warehouse
+2 Management IT System................ $ 16,695,000
+3 Total General Obligation
+4 Bonds................................................. $2,401,386,913
+5 “SECTION 9. Section 44, chapter 599, Oregon Laws 2023, as amended by
+6 section 5, chapter 104, Oregon Laws 2024, is amended to read:
+7 “Sec. 44. (1) For the biennium beginning July 1, 2023, at the request of
+8 the Oregon Department of Administrative Services, after the department
+9 consults with the Oregon Business Development Department, the State
+10 Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to
+11 286A.585 in an amount that produces $20 million in net proceeds for the
+12 purposes described in subsection (2) of this section, plus an additional
+13 amount estimated by the State Treasurer to be necessary to pay bond-related
+14 costs.
+15 “(2) Net proceeds of lottery bonds issued under this section must be
+16 transferred to the Oregon Business Development Department for deposit in
+17 the [Coos Bay Channel Fund established by section 15, chapter 746, Oregon
+18 Laws 2007, for distribution to the Oregon International Port of Coos Bay to
+19 deepen and widen the Coos Bay Federal Navigation Channel and for the de-
+20 sign, engineering, permitting and land acquisition efforts related to the Pacific
+21 Coast Intermodal Port project] OBDD Economic Development Distrib-
+22 utions Fund established under section 28, chapter 748, Oregon Laws
+23 2017, for distribution to the Urban Flood Safety and Water Quality
+24 District for levee system improvements along the Columbia River from
+25 Sauvie Island to the Sandy River in Troutdale.
+26 “(3) The Legislative Assembly finds that the use of lottery bond proceeds
+27 will create jobs, further economic development, finance public education or
+28 restore and protect parks, beaches, watersheds and native fish and wildlife,
+29 and is authorized based on the [finding that port facilities and related
+30 infrastructure are an integral part of the commercial and industrial
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 21
+1 infrastructure of this state, and promote economic development.] following
+2 findings:
+3 “(a) Levees are an integral part of the commercial and industrial
+4 infrastructure of this state; and
+5 “(b) The inspection, accreditation, certification and repair of levees
+6 will promote economic development within this state.
+7 “SECTION 10. Section 7, chapter 633, Oregon Laws 2025, is amended to
+8 read:
+9 “Sec. 7. (1) For the biennium beginning July 1, 2025, at the request of the
+10 Oregon Department of Administrative Services, after the department consults
+11 with the Oregon Business Development Department, the State Treasurer is
+12 authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in
+13 an amount that produces $20 million in net proceeds for the purposes de-
+14 scribed in subsection (2) of this section, plus an additional amount estimated
+15 by the State Treasurer to be necessary to pay bond-related costs.
+16 “(2) Net proceeds of lottery bonds issued under this section must be
+17 transferred to the department for deposit in the [OBDD Economic Develop-
+18 ment Distributions Fund established under section 28, chapter 748, Oregon
+19 Laws 2017, for distribution to the Urban Flood Safety and Water Quality
+20 District for levee system improvements along the Columbia River from Sauvie
+21 Island to the Sandy River in Troutdale] Coos Bay Channel Fund estab-
+22 lished by section 15, chapter 746, Oregon Laws 2007, for distribution to
+23 the Oregon International Port of Coos Bay to deepen and widen the
+24 Coos Bay Federal Navigation Channel and for the design, engineering,
+25 permitting and land acquisition efforts related to the Pacific Coast
+26 Intermodal Port project.
+27 “(3) The Legislative Assembly finds that the use of lottery bond proceeds
+28 will create jobs, further economic development, finance public education or
+29 restore and protect parks, beaches, watersheds and native fish and wildlife,
+30 and is authorized based on the [following findings:]
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 22
+1 “[(a) Levees are an integral part of the commercial and industrial
+2 infrastructure of this state; and]
+3 “[(b) The inspection, accreditation, certification and repair of levees will
+4 promote economic development within this state.] finding that port facilities
+5 and related infrastructure are an integral part of the commercial and
+6 industrial infrastructure of this state, and promote economic develop-
+7 ment.
+8 “SECTION 11. Section 15, chapter 746, Oregon Laws 2007, as amended
+9 by section 46, chapter 599, Oregon Laws 2023, is amended to read:
+10 “Sec. 15. (1) The Coos Bay Channel Fund is established separate and
+11 distinct from the General Fund. Interest earned by the Coos Bay Channel
+12 Fund shall be credited to the fund. The moneys in the Coos Bay Channel
+13 Fund are continuously appropriated to the Oregon Business Development
+14 Department for the purpose described in subsection (2) of this section. The
+15 fund shall consist of moneys transferred to the fund under section 13, chapter
+16 746, Oregon Laws 2007, and [sections 44 and 45 of this 2023 Act] section 7,
+17 chapter 633, Oregon Laws 2025, and interest earnings on moneys in the
+18 fund.
+19 “(2) Moneys in the fund are available to the department for distribution
+20 to the primary sponsor to pay the nonfederal cost share, or the nonprivate
+21 cost share, of expenses of the project up to the amounts specified in section
+22 13, chapter 746, Oregon Laws 2007, and [sections 44 and 45 of this 2023 Act]
+23 section 7, chapter 633, Oregon Laws 2025, and to pay bond-related costs.
+24 “SECTION 12. Section 3, chapter 633, Oregon Laws 2025, is amended to
+25 read:
+26 “Sec. 3. (1) For the biennium beginning July 1, 2025, at the request of the
+27 Oregon Department of Administrative Services, after the department consults
+28 with the Oregon Business Development Department, the State Treasurer is
+29 authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in
+30 an amount that produces $10 million in net proceeds for the purposes de-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 23
+1 scribed in subsection (2) of this section, plus an additional amount estimated
+2 by the State Treasurer to be necessary to pay bond-related costs.
+3 “(2) Net proceeds of lottery bonds issued under this section must be
+4 transferred to the Oregon Business Development Department for deposit [in
+5 the Brownfields Redevelopment Fund established in ORS 285A.188 for the
+6 purposes described in ORS 285A.185 and 285A.188.] as follows:
+7 “(a) $5,000,000 to the Brownfields Redevelopment Fund established
+8 in ORS 285A.188, for the purposes described in ORS 285A.185 and
+9 285A.188; and
+10 “(b) $5,000,000 to the Oregon Brownfield Properties Revitalization
+11 Fund established in ORS 285A.198, for the purposes described in ORS
+12 285A.193 to 285A.198.
+13 “(3) The Legislative Assembly finds that the use of lottery bond proceeds
+14 will create jobs, further economic development, finance public education or
+15 restore and protect parks, beaches, watersheds and native fish and wildlife,
+16 and is authorized based on the following findings:
+17 “(a) Redevelopment of industrial-zoned brownfields improves the economy
+18 by returning the assessed value of the properties to the real market value
+19 for property taxation purposes; and
+20 “(b) The projects made possible through increased funding to evaluate,
+21 clean up and redevelop brownfields properties create jobs [and], further
+22 economic development and support housing and community redevelop-
+23 ment.
+24 “SECTION 13. Section 11, chapter 633, Oregon Laws 2025, is amended to
+25 read:
+26 “Sec. 11. (1) For the biennium beginning July 1, 2025, at the request of
+27 the Oregon Department of Administrative Services, after the department
+28 consults with the Oregon Business Development Department, the State
+29 Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to
+30 286A.585 in an amount that produces [$10 million] $20 million in net pro-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 24
+1 ceeds for the purposes described in subsection (2) of this section, plus an
+2 additional amount estimated by the State Treasurer to be necessary to pay
+3 bond-related costs.
+4 “(2) Net proceeds of lottery bonds issued under this section must be
+5 transferred to the Oregon Business Development Department for deposit in
+6 the Industrial Site Loan Fund established under [section 12, chapter 566,
+7 Oregon Laws 2025 (Enrolled House Bill 2411)] ORS 285B.046, for projects
+8 related to industrial lands readiness activities.
+9 “(3) The Legislative Assembly finds that the use of lottery bond proceeds
+10 will create jobs, further economic development, finance public education or
+11 restore and protect parks, beaches, watersheds and native fish and wildlife,
+12 and is authorized based on the finding that industrial development that
+13 provides new traded sector jobs reinforces the economies of local and re-
+14 gional communities and contributes to Oregon’s economic recovery.
+15 “SECTION 14. Section 20, chapter 633, Oregon Laws 2025, is amended to
+16 read:
+17 “Sec. 20. (1) For the biennium beginning July 1, 2025, at the request of
+18 the Oregon Department of Administrative Services, after the department
+19 consults with the Oregon Business Development Department, the State
+20 Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to
+21 286A.585 in an amount that produces [$6 million] $11 million in net proceeds
+22 for the purposes described in subsection (2) of this section, plus an additional
+23 amount estimated by the State Treasurer to be necessary to pay bond-related
+24 costs.
+25 “(2) Net proceeds of lottery bonds issued under this section must be
+26 transferred to the department for deposit in the OBDD Economic Develop-
+27 ment Distributions Fund established under section 28, chapter 748, Oregon
+28 Laws 2017, for distribution to the City of Eugene [to construct a wastewater
+29 collection system to prepare industrial land for development] for wastewater
+30 infrastructure expansion and improvements.
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 25
+1 “(3) The Legislative Assembly finds that the use of lottery bond proceeds
+2 will create jobs, further economic development, finance public education or
+3 restore and protect parks, beaches, watersheds and native fish and wildlife,
+4 and is authorized based on the finding that wastewater [treatment systems
+5 are] infrastructure is an integral part of the commercial and industrial
+6 infrastructure of this state, and improving wastewater [treatment]
+7 infrastructure will promote economic development and watershed health.
+8 “SECTION 15. Section 37, chapter 633, Oregon Laws 2025, is re-
+9 pealed.
+10 “SECTION 16. (1) For the biennium ending June 30, 2027, at the re-
+11 quest of the Oregon Department of Administrative Services, after the
+12 department consults with the Our Home, Inclusive Community
+13 Collaborative, the State Treasurer is authorized to issue lottery bonds
+14 pursuant to ORS 286A.560 to 286A.585 in an amount that produces
+15 $1,400,000 in net proceeds for the purposes described in subsection (2)
+16 of this section, plus an additional amount estimated by the State
+17 Treasurer to be necessary to pay bond-related costs.
+18 “(2) Net proceeds of lottery bonds issued under this section must
+19 be transferred to the department for deposit in the ODAS Economic
+20 Development Distributions Fund established under ORS 461.553, for
+21 distribution to Our Home, Inclusive Community Collaborative for
+22 construction of Cathedral Park Cohousing affordable housing.
+23 “(3) The Legislative Assembly finds that the use of lottery bond
+24 proceeds will create jobs, further economic development, finance pub-
+25 lic education or restore and protect parks, beaches, watersheds and
+26 native fish and wildlife, and is authorized based on the following
+27 findings:
+28 “(a) Having housing for at-risk populations is essential to Oregon’s
+29 healthy economic growth; and
+30 “(b) A severe shortage of affordable housing exists in Oregon, and
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 26
+1 market indicators demonstrate a growing gap between the supply of
+2 and the demand for affordable housing.
+3 “SECTION 17. (1) For the biennium ending June 30, 2027, at the re-
+4 quest of the Oregon Department of Administrative Services, after the
+5 department consults with the Regional Rural Revitalization (R3)
+6 Strategies Consortium, the State Treasurer is authorized to issue lot-
+7 tery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that
+8 produces $3,000,000 in net proceeds for the purposes described in sub-
+9 section (2) of this section, plus an additional amount estimated by the
+10 State Treasurer to be necessary to pay bond-related costs.
+11 “(2) Net proceeds of lottery bonds issued under this section must
+12 be transferred to the department for deposit in the ODAS Economic
+13 Development Distributions Fund established under ORS 461.553, for
+14 distribution to the Regional Rural Revitalization (R3) Strategies Con-
+15 sortium for site improvements and construction of modular workforce
+16 housing units.
+17 “(3) The Legislative Assembly finds that the use of lottery bond
+18 proceeds will create jobs, further economic development, finance pub-
+19 lic education or restore and protect parks, beaches, watersheds and
+20 native fish and wildlife, and is authorized based on the following
+21 findings:
+22 “(a) Having affordable workforce housing is essential to Oregon’s
+23 healthy economic growth; and
+24 “(b) A severe shortage of affordable housing exists in Oregon, and
+25 market indicators demonstrate a growing gap between the supply of
+26 and the demand for affordable housing.
+27 “SECTION 18. (1) For the biennium ending June 30, 2027, at the re-
+28 quest of the Oregon Department of Administrative Services, after the
+29 department consults with Evergreen Community Partners, the State
+30 Treasurer is authorized to issue lottery bonds pursuant to ORS
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 27
+1 286A.560 to 286A.585 in an amount that produces $2,500,000 in net pro-
+2 ceeds for the purposes described in subsection (2) of this section, plus
+3 an additional amount estimated by the State Treasurer to be necessary
+4 to pay bond-related costs.
+5 “(2) Net proceeds of lottery bonds issued under this section must
+6 be transferred to the department for deposit in the ODAS Economic
+7 Development Distributions Fund established under ORS 461.553, for
+8 distribution to Evergreen Community Partners for Whale Watch af-
+9 fordable housing design, permitting and construction.
+10 “(3) The Legislative Assembly finds that the use of lottery bond
+11 proceeds will create jobs, further economic development, finance pub-
+12 lic education or restore and protect parks, beaches, watersheds and
+13 native fish and wildlife, and is authorized based on the following
+14 findings:
+15 “(a) Having affordable workforce housing is essential to Oregon’s
+16 healthy economic growth; and
+17 “(b) A severe shortage of affordable housing exists in Oregon, and
+18 market indicators demonstrate a growing gap between the supply of
+19 and the demand for affordable housing.
+20 “SECTION 19. (1) For the biennium ending June 30, 2027, at the re-
+21 quest of the Oregon Department of Administrative Services, after the
+22 department consults with the Native American Youth and Family
+23 Center, the State Treasurer is authorized to issue lottery bonds pur-
+24 suant to ORS 286A.560 to 286A.585 in an amount that produces
+25 $4,000,000 in net proceeds for the purposes described in subsection (2)
+26 of this section, plus an additional amount estimated by the State
+27 Treasurer to be necessary to pay bond-related costs.
+28 “(2) Net proceeds of lottery bonds issued under this section must
+29 be transferred to the department for deposit in the ODAS Economic
+30 Development Distributions Fund established under ORS 461.553, for
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 28
+1 distribution to the Native American Youth and Family Center for fa-
+2 cility capital improvements.
+3 “(3) The Legislative Assembly finds that the use of lottery bond
+4 proceeds will create jobs, further economic development, finance pub-
+5 lic education or restore and protect parks, beaches, watersheds and
+6 native fish and wildlife, and is authorized based on the finding that
+7 community centers enhance the economic viability of the region, cre-
+8 ate jobs and improve the quality of life for the community.
+9 “SECTION 20. (1) For the biennium ending June 30, 2027, at the re-
+10 quest of the Oregon Department of Administrative Services, after the
+11 department consults with the Central Oregon Coast Fire and Rescue
+12 District, the State Treasurer is authorized to issue lottery bonds pur-
+13 suant to ORS 286A.560 to 286A.585 in an amount that produces
+14 $1,100,000 in net proceeds for the purposes described in subsection (2)
+15 of this section, plus an additional amount estimated by the State
+16 Treasurer to be necessary to pay bond-related costs.
+17 “(2) Net proceeds of lottery bonds issued under this section must
+18 be transferred to the department for deposit in the ODAS Economic
+19 Development Distributions Fund established under ORS 461.553, for
+20 distribution to the Central Oregon Coast Fire and Rescue District for
+21 fire station acquisition and capital improvements.
+22 “(3) The Legislative Assembly finds that the use of lottery bond
+23 proceeds will create jobs, further economic development, finance pub-
+24 lic education or restore and protect parks, beaches, watersheds and
+25 native fish and wildlife, and is authorized based on the finding that fire
+26 stations are necessary components of a climate that facilitates and
+27 encourages economic development.
+28 “SECTION 21. (1) For the biennium ending June 30, 2027, at the re-
+29 quest of the Oregon Department of Administrative Services, after the
+30 department consults with Consejo Hispano, the State Treasurer is au-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 29
+1 thorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585
+2 in an amount that produces $1,750,000 in net proceeds for the purposes
+3 described in subsection (2) of this section, plus an additional amount
+4 estimated by the State Treasurer to be necessary to pay bond-related
+5 costs.
+6 “(2) Net proceeds of lottery bonds issued under this section must
+7 be transferred to the department for deposit in the ODAS Economic
+8 Development Distributions Fund established under ORS 461.553, for
+9 distribution to Consejo Hispano for Casa Mariposa to create spaces
+10 that support community resiliency, emergency preparedness and small
+11 business incubation.
+12 “(3) The Legislative Assembly finds that the use of lottery bond
+13 proceeds will create jobs, further economic development, finance pub-
+14 lic education or restore and protect parks, beaches, watersheds and
+15 native fish and wildlife, and is authorized based on the following
+16 findings:
+17 “(a) Community centers enhance the economic viability of the re-
+18 gion, create jobs and improve the quality of life for the community;
+19 and
+20 “(b) Workforce and small business development will lead to en-
+21 hanced economic development.
+22 “SECTION 22. (1) For the biennium ending June 30, 2027, at the re-
+23 quest of the Oregon Department of Administrative Services, after the
+24 department consults with Williams & Russell CDC, the State Treasurer
+25 is authorized to issue lottery bonds pursuant to ORS 286A.560 to
+26 286A.585 in an amount that produces $11,500,000 in net proceeds for the
+27 purposes described in subsection (2) of this section, plus an additional
+28 amount estimated by the State Treasurer to be necessary to pay
+29 bond-related costs.
+30 “(2) Net proceeds of lottery bonds issued under this section must
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 30
+1 be transferred to the department for deposit in the ODAS Economic
+2 Development Distributions Fund established under ORS 461.553, for
+3 distribution to Williams & Russell CDC for a business hub.
+4 “(3) The Legislative Assembly finds that the use of lottery bond
+5 proceeds will create jobs, further economic development, finance pub-
+6 lic education or restore and protect parks, beaches, watersheds and
+7 native fish and wildlife, and is authorized based on the finding that
+8 workforce and small business development will lead to enhanced eco-
+9 nomic development.
+10 “SECTION 23. (1) For the biennium ending June 30, 2027, at the re-
+11 quest of the Oregon Department of Administrative Services, after the
+12 department consults with Clackamas County, the State Treasurer is
+13 authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585
+14 in an amount that produces $5,000,000 in net proceeds for the purposes
+15 described in subsection (2) of this section, plus an additional amount
+16 estimated by the State Treasurer to be necessary to pay bond-related
+17 costs.
+18 “(2) Net proceeds of lottery bonds issued under this section must
+19 be transferred to the department for deposit in the ODAS Economic
+20 Development Distributions Fund established under ORS 461.553, for
+21 distribution to Clackamas County for construction of a substance use
+22 disorder treatment facility.
+23 “(3) The Legislative Assembly finds that the use of lottery bond
+24 proceeds will create jobs, further economic development, finance pub-
+25 lic education or restore and protect parks, beaches, watersheds and
+26 native fish and wildlife, and is authorized based on the finding that
+27 individuals increase their potential for self-sufficiency and economic
+28 productivity and use fewer public resources when they have access to
+29 addiction treatment programs and services.
+30 “SECTION 24. (1) For the biennium ending June 30, 2027, at the re-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 31
+1 quest of the Oregon Department of Administrative Services, after the
+2 department consults with the City of McMinnville, the State Treasurer
+3 is authorized to issue lottery bonds pursuant to ORS 286A.560 to
+4 286A.585 in an amount that produces $1,500,000 in net proceeds for the
+5 purposes described in subsection (2) of this section, plus an additional
+6 amount estimated by the State Treasurer to be necessary to pay
+7 bond-related costs.
+8 “(2) Net proceeds of lottery bonds issued under this section must
+9 be transferred to the department for deposit in the ODAS Economic
+10 Development Distributions Fund established under ORS 461.553, for
+11 distribution to the City of McMinnville for Alpine Avenue street im-
+12 provements.
+13 “(3) The Legislative Assembly finds that the use of lottery bond
+14 proceeds will create jobs, further economic development, finance pub-
+15 lic education or restore and protect parks, beaches, watersheds and
+16 native fish and wildlife, and is authorized based on the finding that a
+17 safe, efficient and reliable transportation infrastructure supports the
+18 long-term economic development and livability of this state.
+19 “SECTION 25. (1) For the biennium ending June 30, 2027, at the re-
+20 quest of the Oregon Department of Administrative Services, after the
+21 department consults with the City of Salem, the State Treasurer is
+22 authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585
+23 in an amount that produces $1,350,000 in net proceeds for the purposes
+24 described in subsection (2) of this section, plus an additional amount
+25 estimated by the State Treasurer to be necessary to pay bond-related
+26 costs.
+27 “(2) Net proceeds of lottery bonds issued under this section must
+28 be transferred to the department for deposit in the ODAS Economic
+29 Development Distributions Fund established under ORS 461.553, for
+30 distribution to the City of Salem for McNary Field site improvements
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 32
+1 and terminal expansion.
+2 “(3) The Legislative Assembly finds that the use of lottery bond
+3 proceeds will create jobs, further economic development, finance pub-
+4 lic education or restore and protect parks, beaches, watersheds and
+5 native fish and wildlife, and is authorized based on the finding that
+6 emergency preparedness protects public infrastructure and maintains
+7 a climate that facilitates and encourages economic development.
+8 “SECTION 26. (1) For the biennium ending June 30, 2027, at the re-
+9 quest of the Oregon Department of Administrative Services, after the
+10 department consults with the Oregon Business Development Depart-
+11 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+12 ant to ORS 286A.560 to 286A.585 in an amount that produces $3,000,000
+13 in net proceeds for the purposes described in subsection (2) of this
+14 section, plus an additional amount estimated by the State Treasurer
+15 to be necessary to pay bond-related costs.
+16 “(2) Net proceeds of lottery bonds issued under this section must
+17 be transferred to the department for deposit in the OBDD Economic
+18 Development Distributions Fund established under section 28, chapter
+19 748, Oregon Laws 2017, for distribution to the City of Vale for water
+20 system improvements.
+21 “(3) The Legislative Assembly finds that the use of lottery bond
+22 proceeds will create jobs, further economic development, finance pub-
+23 lic education or restore and protect parks, beaches, watersheds and
+24 native fish and wildlife, and is authorized based on the finding that
+25 water systems are an integral part of the commercial and industrial
+26 infrastructure of this state, and improving water supply will promote
+27 economic development and watershed health.
+28 “SECTION 27. (1) For the biennium ending June 30, 2027, at the re-
+29 quest of the Oregon Department of Administrative Services, after the
+30 department consults with the Oregon Business Development Depart-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 33
+1 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+2 ant to ORS 286A.560 to 286A.585 in an amount that produces $1,500,000
+3 in net proceeds for the purposes described in subsection (2) of this
+4 section, plus an additional amount estimated by the State Treasurer
+5 to be necessary to pay bond-related costs.
+6 “(2) Net proceeds of lottery bonds issued under this section must
+7 be transferred to the department for deposit in the OBDD Economic
+8 Development Distributions Fund established under section 28, chapter
+9 748, Oregon Laws 2017, for distribution to the City of Gold Hill for
+10 water system improvements.
+11 “(3) The Legislative Assembly finds that the use of lottery bond
+12 proceeds will create jobs, further economic development, finance pub-
+13 lic education or restore and protect parks, beaches, watersheds and
+14 native fish and wildlife, and is authorized based on the finding that
+15 water systems are an integral part of the commercial and industrial
+16 infrastructure of this state, and improving water supply will promote
+17 economic development and watershed health.
+18 “SECTION 28. (1) For the biennium ending June 30, 2027, at the re-
+19 quest of the Oregon Department of Administrative Services, after the
+20 department consults with the Oregon Business Development Depart-
+21 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+22 ant to ORS 286A.560 to 286A.585 in an amount that produces $4,000,000
+23 in net proceeds for the purposes described in subsection (2) of this
+24 section, plus an additional amount estimated by the State Treasurer
+25 to be necessary to pay bond-related costs.
+26 “(2) Net proceeds of lottery bonds issued under this section must
+27 be transferred to the department for deposit in the OBDD Economic
+28 Development Distributions Fund established under section 28, chapter
+29 748, Oregon Laws 2017, for distribution to the City of Warrenton for a
+30 new wastewater treatment plant.
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 34
+1 “(3) The Legislative Assembly finds that the use of lottery bond
+2 proceeds will create jobs, further economic development, finance pub-
+3 lic education or restore and protect parks, beaches, watersheds and
+4 native fish and wildlife, and is authorized based on the finding that
+5 wastewater treatment plants are an integral part of the commercial
+6 and industrial infrastructure of this state, and improving wastewater
+7 treatment will promote economic development and watershed health.
+8 “SECTION 29. (1) For the biennium ending June 30, 2027, at the re-
+9 quest of the Oregon Department of Administrative Services, after the
+10 department consults with the Oregon Business Development Depart-
+11 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+12 ant to ORS 286A.560 to 286A.585 in an amount that produces $2,650,000
+13 in net proceeds for the purposes described in subsection (2) of this
+14 section, plus an additional amount estimated by the State Treasurer
+15 to be necessary to pay bond-related costs.
+16 “(2) Net proceeds of lottery bonds issued under this section must
+17 be transferred to the department for deposit in the OBDD Economic
+18 Development Distributions Fund established under section 28, chapter
+19 748, Oregon Laws 2017, for distribution to the City of Philomath for
+20 sewer infrastructure improvements.
+21 “(3) The Legislative Assembly finds that the use of lottery bond
+22 proceeds will create jobs, further economic development, finance pub-
+23 lic education or restore and protect parks, beaches, watersheds and
+24 native fish and wildlife, and is authorized based on the finding that
+25 sewer infrastructure is an integral part of the commercial and indus-
+26 trial infrastructure of this state, and improvements will promote eco-
+27 nomic development and watershed health.
+28 “SECTION 30. (1) For the biennium ending June 30, 2027, at the re-
+29 quest of the Oregon Department of Administrative Services, after the
+30 department consults with the Oregon Business Development Depart-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 35
+1 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+2 ant to ORS 286A.560 to 286A.585 in an amount that produces $2,400,000
+3 in net proceeds for the purposes described in subsection (2) of this
+4 section, plus an additional amount estimated by the State Treasurer
+5 to be necessary to pay bond-related costs.
+6 “(2) Net proceeds of lottery bonds issued under this section must
+7 be transferred to the department for deposit in the OBDD Economic
+8 Development Distributions Fund established under section 28, chapter
+9 748, Oregon Laws 2017, for distribution to the Terrebonne Sanitary
+10 District for construction of a wastewater collection system.
+11 “(3) The Legislative Assembly finds that the use of lottery bond
+12 proceeds will create jobs, further economic development, finance pub-
+13 lic education or restore and protect parks, beaches, watersheds and
+14 native fish and wildlife, and is authorized based on the finding that
+15 wastewater collection systems are an integral part of the commercial
+16 and industrial infrastructure of this state, and improving wastewater
+17 infrastructure will promote economic development and watershed
+18 health.
+19 “SECTION 31. (1) For the biennium ending June 30, 2027, at the re-
+20 quest of the Oregon Department of Administrative Services, after the
+21 department consults with the Oregon Business Development Depart-
+22 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+23 ant to ORS 286A.560 to 286A.585 in an amount that produces $1,800,000
+24 in net proceeds for the purposes described in subsection (2) of this
+25 section, plus an additional amount estimated by the State Treasurer
+26 to be necessary to pay bond-related costs.
+27 “(2) Net proceeds of lottery bonds issued under this section must
+28 be transferred to the department for deposit in the OBDD Economic
+29 Development Distributions Fund established under section 28, chapter
+30 748, Oregon Laws 2017, for distribution to the City of Carlton for water
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 36
+1 system improvements.
+2 “(3) The Legislative Assembly finds that the use of lottery bond
+3 proceeds will create jobs, further economic development, finance pub-
+4 lic education or restore and protect parks, beaches, watersheds and
+5 native fish and wildlife, and is authorized based on the finding that
+6 water systems are an integral part of the commercial and industrial
+7 infrastructure of this state, and improving water supply will promote
+8 economic development and watershed health.
+9 “SECTION 32. (1) For the biennium ending June 30, 2027, at the re-
+10 quest of the Oregon Department of Administrative Services, after the
+11 department consults with the Oregon Business Development Depart-
+12 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+13 ant to ORS 286A.560 to 286A.585 in an amount that produces $2,000,000
+14 in net proceeds for the purposes described in subsection (2) of this
+15 section, plus an additional amount estimated by the State Treasurer
+16 to be necessary to pay bond-related costs.
+17 “(2) Net proceeds of lottery bonds issued under this section must
+18 be transferred to the department for deposit in the OBDD Economic
+19 Development Distributions Fund established under section 28, chapter
+20 748, Oregon Laws 2017, for distribution to the City of Lebanon for
+21 wastewater infrastructure improvements.
+22 “(3) The Legislative Assembly finds that the use of lottery bond
+23 proceeds will create jobs, further economic development, finance pub-
+24 lic education or restore and protect parks, beaches, watersheds and
+25 native fish and wildlife, and is authorized based on the finding that
+26 wastewater infrastructure is an integral part of the commercial and
+27 industrial infrastructure of this state, and improving wastewater
+28 infrastructure will promote economic development and watershed
+29 health.
+30 “SECTION 33. (1) For the biennium ending June 30, 2027, at the re-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 37
+1 quest of the Oregon Department of Administrative Services, after the
+2 department consults with the Oregon Business Development Depart-
+3 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+4 ant to ORS 286A.560 to 286A.585 in an amount that produces $2,614,150
+5 in net proceeds for the purposes described in subsection (2) of this
+6 section, plus an additional amount estimated by the State Treasurer
+7 to be necessary to pay bond-related costs.
+8 “(2) Net proceeds of lottery bonds issued under this section must
+9 be transferred to the department for deposit in the OBDD Economic
+10 Development Distributions Fund established under section 28, chapter
+11 748, Oregon Laws 2017, for distribution to the City of St. Paul for main
+12 water line repairs.
+13 “(3) The Legislative Assembly finds that the use of lottery bond
+14 proceeds will create jobs, further economic development, finance pub-
+15 lic education or restore and protect parks, beaches, watersheds and
+16 native fish and wildlife, and is authorized based on the finding that
+17 water systems are an integral part of the commercial and industrial
+18 infrastructure of this state, and improving water supply will promote
+19 economic development and watershed health.
+20 “SECTION 34. (1) For the biennium ending June 30, 2027, at the re-
+21 quest of the Oregon Department of Administrative Services, after the
+22 department consults with the Oregon Business Development Depart-
+23 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+24 ant to ORS 286A.560 to 286A.585 in an amount that produces $1,400,000
+25 in net proceeds for the purposes described in subsection (2) of this
+26 section, plus an additional amount estimated by the State Treasurer
+27 to be necessary to pay bond-related costs.
+28 “(2) Net proceeds of lottery bonds issued under this section must
+29 be transferred to the department for deposit in the OBDD Economic
+30 Development Distributions Fund established under section 28, chapter
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 38
+1 748, Oregon Laws 2017, for distribution to the City of Lafayette for
+2 wastewater infrastructure improvements.
+3 “(3) The Legislative Assembly finds that the use of lottery bond
+4 proceeds will create jobs, further economic development, finance pub-
+5 lic education or restore and protect parks, beaches, watersheds and
+6 native fish and wildlife, and is authorized based on the finding that
+7 wastewater infrastructure is an integral part of the commercial and
+8 industrial infrastructure of this state, and improving wastewater
+9 infrastructure will promote economic development and watershed
+10 health.
+11 “SECTION 35. (1) For the biennium ending June 30, 2027, at the re-
+12 quest of the Oregon Department of Administrative Services, after the
+13 department consults with the Oregon Business Development Depart-
+14 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+15 ant to ORS 286A.560 to 286A.585 in an amount that produces $4,274,549
+16 in net proceeds for the purposes described in subsection (2) of this
+17 section, plus an additional amount estimated by the State Treasurer
+18 to be necessary to pay bond-related costs.
+19 “(2) Net proceeds of lottery bonds issued under this section must
+20 be transferred to the department for deposit in the OBDD Economic
+21 Development Distributions Fund established under section 28, chapter
+22 748, Oregon Laws 2017, for distribution to the City of Chiloquin for a
+23 new wastewater treatment plant.
+24 “(3) The Legislative Assembly finds that the use of lottery bond
+25 proceeds will create jobs, further economic development, finance pub-
+26 lic education or restore and protect parks, beaches, watersheds and
+27 native fish and wildlife, and is authorized based on the finding that
+28 wastewater treatment plants are an integral part of the commercial
+29 and industrial infrastructure of this state, and improving wastewater
+30 treatment will promote economic development and watershed health.
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 39
+1 “SECTION 36. (1) For the biennium ending June 30, 2027, at the re-
+2 quest of the Oregon Department of Administrative Services, after the
+3 department consults with the Oregon Business Development Depart-
+4 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+5 ant to ORS 286A.560 to 286A.585 in an amount that produces $5,000,000
+6 in net proceeds for the purposes described in subsection (2) of this
+7 section, plus an additional amount estimated by the State Treasurer
+8 to be necessary to pay bond-related costs.
+9 “(2) Net proceeds of lottery bonds issued under this section must
+10 be transferred to the department for deposit in the OBDD Economic
+11 Development Distributions Fund established under section 28, chapter
+12 748, Oregon Laws 2017, for distribution to the City of Silverton for a
+13 new wastewater treatment plant.
+14 “(3) The Legislative Assembly finds that the use of lottery bond
+15 proceeds will create jobs, further economic development, finance pub-
+16 lic education or restore and protect parks, beaches, watersheds and
+17 native fish and wildlife, and is authorized based on the finding that
+18 wastewater treatment plants are an integral part of the commercial
+19 and industrial infrastructure of this state, and improving wastewater
+20 treatment will promote economic development and watershed health.
+21 “SECTION 37. (1) For the biennium ending June 30, 2027, at the re-
+22 quest of the Oregon Department of Administrative Services, after the
+23 department consults with the Oregon Business Development Depart-
+24 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+25 ant to ORS 286A.560 to 286A.585 in an amount that produces $2,000,000
+26 in net proceeds for the purposes described in subsection (2) of this
+27 section, plus an additional amount estimated by the State Treasurer
+28 to be necessary to pay bond-related costs.
+29 “(2) Net proceeds of lottery bonds issued under this section must
+30 be transferred to the department for deposit in the OBDD Economic
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 40
+1 Development Distributions Fund established under section 28, chapter
+2 748, Oregon Laws 2017, for distribution to the City of Grants Pass for
+3 wastewater infrastructure improvements.
+4 “(3) The Legislative Assembly finds that the use of lottery bond
+5 proceeds will create jobs, further economic development, finance pub-
+6 lic education or restore and protect parks, beaches, watersheds and
+7 native fish and wildlife, and is authorized based on the finding that
+8 wastewater infrastructure is an integral part of the commercial and
+9 industrial infrastructure of this state, and improving wastewater
+10 infrastructure will promote economic development and watershed
+11 health.
+12 “SECTION 38. Section 12, chapter 630, Oregon Laws 2025, is amended to
+13 read:
+14 “Sec. 12. (1) A public university that is carrying out a qualified project
+15 shall require each contractor in a contract with an estimated cost of $200,000
+16 or greater to:
+17 “(a) Employ apprentices to perform 15 percent of the work hours that
+18 workers in apprenticeable occupations perform under the contract, in a
+19 manner consistent with the apprentices’ respective apprenticeship training
+20 programs;
+21 “(b) Establish and execute a plan for outreach, recruitment and retention
+22 of women, minority individuals and veterans to perform work under the
+23 contract, with the aspirational target of having at least 15 percent of total
+24 work hours performed by individuals in one or more of those groups;
+25 “(c) Provide health insurance and retirement benefits to workers em-
+26 ployed by the contractor; and
+27 “(d) Require any subcontractor engaged by the contractor to abide by the
+28 requirements set forth in paragraphs (a), (b) and (c) of this subsection, if the
+29 work to be performed under the subcontract has an estimated cost of $200,000
+30 or greater.
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 41
+1 “(2) On or before February 1 of each year, each public university that is
+2 carrying out a qualified project shall report to the Joint Committee on Ways
+3 and Means or Joint Interim Committee on Ways and Means, as part of the
+4 report required under ORS 350.379, on:
+5 “(a) The amount of work performed on qualified projects by apprentices;
+6 “(b) The amount of work performed on qualified projects by women, mi-
+7 nority individuals and veterans; and
+8 “(c) The types and costs of health insurance and retirement benefits pro-
+9 vided to workers by contractors and subcontractors.
+10 “(3) The requirements of this section are in addition to, and not in lieu
+11 of, the requirements imposed under ORS 350.379.
+12 “(4) As used in this section:
+13 “(a) ‘Apprentice’ has the meaning given that term in ORS 660.010.
+14 “(b) ‘Apprenticeable occupation’ has the meaning given that term in ORS
+15 660.010.
+16 “(c) ‘Apprenticeship training program’ means the total system of appren-
+17 ticeship that a particular local joint committee, as defined in ORS 660.010,
+18 operates, including the local joint committee’s registered standards and all
+19 other terms and conditions for qualifying, recruiting, selecting, employing
+20 and training apprentices in an apprenticeable occupation.
+21 “(d) ‘Minority individual’ has the meaning given that term in ORS
+22 200.005.
+23 “(e) ‘Qualified project’ means the following capital construction projects:
+24 “(A) The Portland State University Portland Center for the Performing
+25 Arts Academic Building referenced in section 1 (1)(f) [of this 2025 Act],
+26 chapter 630, Oregon Laws 2025;
+27 “(B) The University of Oregon Child Behavioral Health Building project
+28 referenced in section 1 (1)(g) [of this 2025 Act], chapter 630, Oregon Laws
+29 2025;
+30 “(C) The Southern Oregon University Creative Industries/Student Success
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 42
+1 project referenced in section 1 (1)(h) [of this 2025 Act], chapter 630, Oregon
+2 Laws 2025; [and]
+3 “(D) The Western Oregon University Data Center project referenced in
+4 section 1 (1)(i) [of this 2025 Act], chapter 630, Oregon Laws 2025[.]; and
+5 “(E) The Oregon State University, Cascades Student Health and
+6 Recreation Center project referenced in section 1 (1)(j), chapter 630,
+7 Oregon Laws 2025, as amended by section 1 of this 2026 Act.
+8 “(f) ‘Veteran’ has the meaning given that term in ORS 408.225.
+9 “(g) ‘Woman’ has the meaning given that term in ORS 200.005.
+10 “SECTION 39. This 2026 Act being necessary for the immediate
+11 preservation of the public peace, health and safety, an emergency is
+12 declared to exist, and this 2026 Act takes effect on its passage.”.
+13
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 43
+[DELETED: 5G6G7()H8C9()C0C1FB5C36( p 1 o t p b l 2 a t s d t r t l a d l 3 a 4 a i “ n p s 1 c 7 O L 2 s 1 c 1 S 1 c 6 O L 2 i a t 1 T a a a p b O 2 f i o g o b o t s d t 2 b]
+[DELETED: WdF.$8()KCR.$4()MCR.$8()CM.$70()S1C[2[3[4[5W6T.$57()P8P9P0[1B.$52()U3B.$14()S5C6S.$27()W8D.$79()O0C.$8.$8221P]
+[DELETED: a.$3()OD.$1()OD.$5()D()..$5()OA0S1()H2S3()L4T5[6R.$57()L8T9P.$10()P1H.$82()H3L4(5P.$26()D7()C8R.$59()C0M.$2.$4221P]
+[DELETED: ()IS.$6()WS.$1()S()KW.$1()SP.$10()S1B.$52()T3P.$24()V.$45()S6F7()C8H.$29()N0D.$51()O2O3C4a.$75()J6M.$27()O8()M9S.$60()K221P]
+[DELETED: C.$2()LC.$7()D()APn..$3()SC.$7()O0()C1A.$52()C3I.$54()J5M.$16()M7P8E.$29()C0R.$81()M2R.$43()O4F.$45()T.$16()T7R.$88()D9S0()L221P]
+[DELETED: S.$3()DdM.$3()DQM.$1()HC()PI.$10()U1B.$32()S3C4S.$35()W6D.$17()P8P9P0B.$31()W2H3Rt..$34()O5C6a.$17()S8A9OA..$60()O221P]
+[DELETED: CM.$1()DLS.$1()DEI.$2()O0M1F2O.$13()O4D5M.$16()S7D8A.$29()D0T1s2B.$23D4()D5A.$16()H7C8()P9P0P221P]
+[DELETED: SS.$5()P[Sg..$1()DQ.$2()HS0(.$51()O2A3(4()O5A6L7R8U.$19()S0()K1Rt..$32()S3P.$34()S5B.$16()T7P.$38()V.$69()D0Ag..$8221P]
+[DELETED: ()DACP.$1()DARt..$1()OC0()L1M.$82()L3S.$14()L5a.$46T7[8B.$5REB6D7H8S.$59D0H.$8.$ 2 S 2 c 6 O L 2 i a t 2 T a a a p b O 2 f i o r221P]
+[DELETED: DGV.$3OD.$3OA[Ls..$50T1[2Bs. $ 23P4O5D6D.$67O8D9E0P.$21Oy..$12H3S.$14T5Bs..$26[7T.$5s..$4.$.$ 3 S 3 c 6 O L 2 i a t 3 T a a a p b O 2 f i221P]
+[DELETED:  o c o p a o f a o t o A[].( S t S T m i A X o t s p a a e b t S T p b c b n t e $ s t s t t O D o A S f d i t O A F e i s 3 L 2 ( S B 1 t s c i T S T m i b u t s o T p c f i o d i T a a o n p f b a c o p i o a t b i u t a s 5 o t 2 A d n e $ otp.( i c o p a o f a o A S t S T i a t i c221P]
+[DELETED:  p i a a t p u t $ o n i t b e J 3 2 f t p d S T t p c o i b n t e N p o c o p i u t m b t t t O D o A S f d i t O A F e i c i t t M C a saa T d m i c o p u T p c f i o d i T a a o n p f b a c o p i o a t b i u t a s 4 o t 2 A d n e $ otp.( J 1 2 a t r o t O D o S t S T m i A X o t s p a a e b t S T p b c b n t e $ s t s221P]
+[DELETED:  t t O D o A S f d i t L 2 ( S B 1 t s c i T S T m i b u t s o T p c f i o d i T a a o n p f b a c o p i o a t b i u t a s 7 o t 2 A d n e $ otp.( i c o p a o f a o A S t S T i a t i c p i a a t p u t $ o n i t b b J 1 2 f t p d S T t p c o i b n t e N p o c o p i u t m b t t t O D o A S f d i t O A F e b c i t t M C a saa T d m i c o p u221P]
+[DELETED: 5G6G7()H8C9()C0C.$81()K2C3C.$44()R5T6C.$77()C8C9E0a.$4 T p c f i o d i T a a o n p f b a c o p i o a t b i u t a s 6 o t 2 A d n e $ otp 8 S 1 c 5 O L 2 a 1 c 1 O L 2 a s 1 c 9 O 1 T a a a p b O 2 f i o g o b o t s d t 2 b221P]
+[DELETED: ()CM.$8()OCE.$8()CCfS.$50()L1S2E3R.$84()P5R6[7R8C9B.$80()S1C2S3C4S.$85()U6W7C.$88()U9F.$70()O.$8221P]
+[DELETED: CeIC.$7()PVGP.$4()DQ.$1()O0D.$11()O2D.$53()D4()..$15()O6A7S8()O9()S0S.$21()S2S3L.$54()D5()C6E.$27()S8M.$29()S0C.$7221P]
+[DELETED: ()D()C.$8()CR.$5()WS.$1()O()CR.$90()C1A.$12()C.$33()J4M.$75()M6R.$17()R8I.$19()T.$10()T1D.$82()O3C.$44()D5O6Cs..$37()S8()Cs..$29()T0P.$1221P]
+[DELETED: ()MnA.$4()[].$7()SaI.$2()HSI(0H.$61()H2C3()P4I.$15()F6P.$57()U8F.$69()P0V1G2P.$53()O4T5S6R.$17()S8C9I.$60()O221P]
+[DELETED: ()JUl..$5()P.$3()DEI.$1()LCA0a.$21()J2()B.$13()C4C.$45()M.$16()C.$17()O8E9R0e1O.$52()D3T4s5B.$26D7()D8A.$19()H0C221P]
+[DELETED: ()PS.$8()PVGP.$1()DQ.$2()H0S1(.$52()O3A4(5()Y.$46()S7()Cs..$28()T9P.$10()M.$71()[].$12()D3L4S.$25()O6C7()L8S.$29()L0a.$4221P]
+[DELETED: ()LrWM.$1TB.$ 4 ( F t b b J 1 2 a t r o O D o A S a t d w t O B D D t S i a t i l b p t O 2 t i a a t p $ m i n p f t d i s ( o t s p a a N p o l b i u t s m b t t O B D D f d i  B C F e b s 1 c 7 O 2 f d t t O I P o C B t a w t C B F N C a f t d I P p O E D D F e u s 2 c 7 O L f d t t U F S a W Q c j f e d f p e o a p p b w a n f a w i a b o t  t p f a r a a i p o t c a i221P]
+[DELETED:  o t s a p e d f L a a i p o t c a i 1 S 7 t O B D D t S T i t i l b p t O 2 t 2 i a t p $ m i n p f t p d N p o l b i u t s m b t t d f d i t  E D D F e u s 2 c 7 O 2 f d t t U F S a W Q f l s i a t C t t S R i T C B C F e O I P o C B t d a w t a l a e r t t P C c j f e d f p e o a p p b w a n f a w[221P]
+[DELETED:  L a a i p o t c a i T i a c a r o l w 1 S 1 c 7 O L 2 a a 1 ( T C B C F i e s a f t G F I e b t C B C s b c t t f T m i t C B C a c a t t O B D f t p d i s ( o t s T O L 2 a [] 4 a 4 o t 2 A 6 O L 2 a i e o m i t M i t f a a t t d f d t p s t p t n c s o t n s o e[ 1 S 3 t O B D D t S T i t i l b p t O 2 t 2 i a t p $ m i n p f t p d221P]
+[DELETED:  N p o l b i u t s m b t t O B D D f d  B R F e i O 2 f t $ t t B R F e O 2 f t p d i O 2 a;a $ t t O B P R e i O 2 f t p d i O c j f e d f p e o a p p b w a n f a w r t a v o t p t t r m v T p m p t i f t e u a r b p c j [] f d a s h a c r 1 ( F t b b J 1 2 a t r o O D o A S a t d w t O B D D t S i a t i l b p t O 2 t i a a t p [] $ m i n p m221P]
+[DELETED:  f t p d i s ( o t s p a a e b t S T t b n t pdc N p o l b i u t s m b t t O B D D f d i I S L F e u  1 c 5 L 2 ( H B 2 O 2 f p c j f e d f p e o a p p b w a n f a w i a b o t f t i d t n t s j r t e o l a r 2 ( F t b b J 1 2 a t r o O D o A S a t d w t O B D D t S i a t i l b p t O 2 t[] N p o l b i u t s m b t t d f d i t O E D D F e u s 2 c 7 O f d t t C o E  c a w s t p i l221P]
+[DELETED:  c j f e d f p e o a p p b w a n f a w i a b o t f t w  s i i a i p o t c a i o t s a i w [ 1.S 3 c 6 O L 2 i r.( c w t O H I C t O 2 t 2 i a a t p i n p f t p d i s ( t s p a a a e b t S N p o l b i u t s m t t t d f d i t O E D F e u O 4 f t O H I C C f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f A s s o a h e i O a221P]
+[DELETED:  i d a g g b t s o.( c w t R R R ( C b p t O 2 t 2 i a a t $ i n p f t p d i s N p o l b i u t s m t t t d f d i t O E D F e u O 4 f t t R R R ( S C T L A f t t u o l b e o r a p p b w a f a w a i a b o t f H a w h i e t O A s s o a h e i O a i d a g g b t s o.( c w E C P t S i a t i l b p t O221P]
+[DELETED:  N p o l b i u t s m t t t d f d i t O E D F e u O 4 f t E C P f W W a T L A f t t u o l b e o r a p p b w a f a w a i a b o t f H a w h i e t O A s s o a h e i O a i d a g g b t s o.( c w t N A Y a F t S T i a t i l b p t O 2 t 2 i a a t p i n p f t p d i s ( t s p a a a e b t S N p o l b i u t s m t t t d f d i t O E D F e u O 4 f221P]
+[DELETED:  t t N A Y a F C f f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t.( c w t C O C F a R t S t O 2 t 2 i a a t p i n p f t p d i s ( t s p a a a e b t S N p o l b i u t s m t t t d f d i t O E D F e u O 4 f F a R D f T L A f t t u o l b e o r a p p b w a a n c o a c t f a.(221P]
+[DELETED:  t i l b p t O 2 t 2 i s ( o t s p a a a b t S T t b n t N p o l b i u t s m t t t d f d i t O E D F e u O 4 f t C H f C M t c ssi T L A f t t u o l b e o r a p p b w a f a w a i a b o t f C c e t e v o t r c j a i t q o l f t c W a s b d w l t e.( a t i l b p t O 2 t e b t S T t b n t pdc N p o l b i u t s m221P]
+[DELETED:  t t t d f d i t O E D F e u O 4 f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t s b d w l t e ecd.( c w C C t S T i i s ( o t s p a a a S T t b n t p b N p o l b i u t s m t t t d f d i t O E D F e u O 4 f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t i t p f s a e.(221P]
+[DELETED:  a t i l b p t O 2 t e b t S T t b n t pdc N p o l b i u t s m t t t d f d i t O E D F e u O 4 f t t C o M f A A s i T L A f t t u o l b e o r a p p b w a e a r t i s t.( c w t C o S t S T i i s ( o t s p a a a S T t b n t p b N p o l b i u t s m t t t d f d i t O E D F e u O 4 f221P]
+[DELETED:  T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t p p p i a m.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t C o V f wmi T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t s a a i p o t c a i i w s w p.( c w t O B D D221P]
+[DELETED:  t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t C o G H f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t s a a i p o t c a i i w s w p.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E221P]
+[DELETED:  T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t t p a a i p o t c i i o t s a i w.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t C o P f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t i i.( c w t O B D D221P]
+[DELETED:  t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t T S T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t c s a a i i o t s a i w w p e d a w.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E221P]
+[DELETED: mi T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t s a a i p o t c a i o t s a i.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t C o L f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t i i a i p o t c a i o t s a i w w p e d a w.(221P]
+[DELETED:  c w t O B D D i a t i l b p n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t s a a i p o t c a i i w s w p.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E221P]
+[DELETED:  O L 2 f d t t C o L f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t i i a i p o t c a i o t s a i w w p e d a w.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t C o C f  T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t t p a a i p o t c i i o t s a i w221P]
+[DELETED: .( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t C o S f  T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t t p a a i p o t c i i o t s a i w.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E221P]
+[DELETED:  t t C o G P f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t i i a i p o t c a i o t s a i w w p e d a w 1 ( A p u t i c o a q p E a t p 1 p o t w h t i a o p u t c i  c w t a r a t w m i a v t p w u t w t a t o h a l 1 p o t P h i a r b t w erg221P]
+[DELETED:  o e y e p u t i M o J I C o W a M a p o t T a o w p o q p b w m T t a c o h T r o t s a i a t a n i l ‘ t p m t t s o a t a p l j c a d i O 6 i t l j c r s a a t a c f q r s e ‘ i h t m g t t i O T P S U P C f t P A B r i s 1 ( [] t 2 A T U o O C B H B p i s 1 ( [] t 2 A221P]
+[DELETED: [][ T W O U D C p r i[][]t T O S U C S H a C p r i s 1 ( c 6 3.T 2 A b n f t i o t p p h a s a e i221P]
+
+
+================================================================================
+
+Raw Text:
+SB 5701-2
+(LC 321)
+2/23/26 (DFY/ps)
+Requested by JOINT COMMITTEE ON WAYS AND MEANS
+PROPOSED AMENDMENTS TO
+SENATE BILL 5701
+1 On page 1 of the printed bill, line 2, after the semicolon delete the rest
+2 of the line and delete lines 3 and 4 and insert “creating new provisions;
+3 amending section 15, chapter 746, Oregon Laws 2007, section 1, chapter 596,
+4 Oregon Laws 2023, section 44, chapter 599, Oregon Laws 2023, sections 1, 2,
+5 3 and 12, chapter 630, Oregon Laws 2025, and sections 3, 7, 11 and 20, chapter
+6 633, Oregon Laws 2025; repealing section 37, chapter 633, Oregon Laws 2025;
+7 and declaring an emergency.”.
+8 Delete lines 6 through 30 and delete page 2 and insert:
+9 “SECTION 1. Section 1, chapter 630, Oregon Laws 2025, is amended to
+10 read:
+11 “Sec. 1. The amounts authorized, as provided by ORS 286A.035, for issu-
+12 ance of general obligation bonds of the state during the 2025-2027 biennium
+13 are as follows:
+14
+15 GENERAL OBLIGATION BONDS
+16 General Fund Obligations
+17 (1) Higher Education Coordinating
+18 Commission (Art. XI-G):
+19 (a) Clackamas Community College,
+20 Center for Excellence for
+21 Farming, Horticulture and
+
+1 Wildland Fire.................................. $ 8,085,000
+2 (b) Klamath Community College,
+3 Cosmetology ADA
+4 Remediation..................................... $ 4,045,000
+5 (c) Mt. Hood Community College,
+6 Classroom and Lab
+7 Renovations..................................... $ 8,085,000
+8 (d) Clatsop Community College,
+9 Maritime Science Building........... $ 7,985,000
+10 (e) Southwestern Oregon
+11 Community College, [Student]
+12 [ Uplift and Collaboration]
+13 [ Create Expanded Support]
+14 [ Success.............................................. $ 8,085,000]
+15 Welding and Manufacturing
+16 Trades Center......................... $ 5,070,000
+17 (f) Portland State University,
+18 Portland Center for the
+19 Performing Arts Academic
+20 [Building........................................... $ 85,660,000]
+21 Building................................... $ 50,455,000
+22 (g) University of Oregon, Child
+23 Behavioral Health Building......... $ 17,920,000
+24 (h) Southern Oregon University,
+25 Creative Industries/Student
+26 Success.............................................. $ 2,485,000
+27 (i) Western Oregon University,
+28 Data Center..................................... $ 715,000
+29 (j) Oregon State University,
+30 Cascades Student Health
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 2
+
+1 and Recreation Center............ $ 32,330,000
+2 (2) Oregon Business Development
+3 Department (Art. XI-M)................ $ 100,910,000
+4 (3) Oregon Business Development
+5 Department (Art. XI-N)................. $ 50,580,000
+6 (4) Department of Education
+7 (Art. XI-P)........................................ $ 50,455,000
+8 (5) Oregon Department of
+9 Administrative
+10 Services (Art. XI-Q):
+11 (a) Housing and Community
+12 Services Department:
+13 (A) Local Innovation and Fast
+14 Track (LIFT) Affordable
+15 [Rental Housing Program............. $ 468,220,000]
+16 Rental Housing Program........ $ 543,820,000
+17 (B) Local Innovation and Fast
+18 Track (LIFT) Homeownership
+19 Program............................................ $ 100,910,000
+20 (C) Permanent Supportive
+21 Housing Program............................ $ 80,760,000
+22 (D) Housing Opportunity
+23 Longevity and Durability
+24 (HOLD) Fund Preservation
+25 Program.................................. $ 25,290,000
+26 (b) Department of Corrections:
+27 (A) Capital Improvement and
+28 Renewal............................................ $ 50,455,000
+29 (B) Computerized Maintenance
+30 Management System...................... $ 2,285,000
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 3
+
+1 (C) Institution Staff Deployment
+2 System Replacement (ISDS)......... $ 625,000
+3 (D) Wireless Communication
+4 System............................................... $ 13,040,000
+5 (c) State Forestry Department:
+6 (A) Klamath Fire Cache
+7 Warehouse Replacement............... $ 1,723,800
+8 (B) Santiam Facility Replacement,
+9 Phase I.............................................. $ 1,115,400
+10 (C) State Forester, Office
+11 Building Restoration...................... $ 520,200
+12 (D) Toledo Facility Replacement,
+13 Phase III........................................... $ 2,542,388
+14 (E) Veneta Campus Remodel.............. $ 4,404,427
+15 (d) State Department of
+16 Fish and Wildlife:
+17 (A) Capital Improvements,
+18 Hatchery Facilities........................ $ 20,180,000
+19 (B) North Willamette Watershed
+20 District Office................................. $ 5,320,000
+21 (e) Oregon Health Authority,
+22 Oregon State Hospital
+23 Capital Improvements
+24 and Equipment................................ $ 7,545,000
+25 (f) Judicial Department,
+26 Morrow County Courthouse........ $ 2,535,000
+27 (g) Oregon Military Department:
+28 (A) Medford Field Maintenance
+29 Shop................................................... $ 6,680,000
+30 (B) Klamath Falls Readiness
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 4
+
+1 Center............................................... $ 2,035,000
+2 (C) Linn County Readiness
+3 Center............................................... $ 7,080,000
+4 (h) Department of State Police:
+5 (A) Area Command Center
+6 Property Acquisition..................... $ 3,540,000
+7 (B) Springfield Patrol Area
+8 Command Office.............................. $ 7,360,000
+9 (i) Oregon Youth Authority:
+10 (A) Capital Improvements,
+11 All Facilities.................................... $ 5,070,000
+12 (B) CCTV and Access Control
+13 Improvement, Phase IV................. $ 5,630,000
+14 (C) JJIS IT System
+15 Modernization................................. $ 12,295,000
+16 (D) MacLaren Infirmary and
+17 Pharmacy Renovation and
+18 Expansion......................................... $ 2,735,000
+19 (E) Camp Riverbend Dorm
+20 Renovation....................................... $ 8,960,000
+21 (F) MacLaren West Cottages
+22 Renovations..................................... $ 4,045,000
+23 (G) Oak Creek Youth Correctional
+24 Facility.............................................. $ 4,045,000
+25 (H) Tillamook Dorm Renovation........ $ 12,015,000
+26 (I) Tillamook Medical and Dental
+27 Renovations..................................... $ 825,000
+28 (j) Department of Public Safety
+29 Standards and Training:
+30 (A) Learning Management
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 5
+
+1 System............................................... $ 3,510,000
+2 (B) Deferred Maintenance................... $ 3,280,000
+3 (k) Department of Environmental
+4 Quality, Laboratory and
+5 Monitoring Equipment.................. $ 1,350,000
+6 (L) Higher Education Coordinating
+7 Commission:
+8 (A) Public Universities Capital
+9 Improvement and Renewal........... $ 120,930,000
+10 (B) University of Oregon, Child
+11 Behavioral Health Building......... $ 35,855,000
+12 (C) Southern Oregon University,
+13 Creative Industries/Student
+14 Success.............................................. $ 38,470,000
+15 (D) Western Oregon University,
+16 Data Center..................................... $ 12,555,000
+17 (E) Portland State University,
+18 Portland Center for the
+19 Performing Arts Academic
+20 Building................................... $ 35,350,000
+21 (F) Western Oregon University,
+22 Heritage Hall Roof
+23 Replacement........................... $ 3,140,000
+24 (G) Oregon State University,
+25 Cascades Student Health
+26 and Recreation Center............ $ 10,125,000
+27 (m) State Department of
+28 Agriculture, Project
+29 OneODA........................................... $ 6,185,000
+30 (n) Oregon Public Defense
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 6
+
+1 Commission, Financial Case
+2 Management System...................... $ 13,915,000
+3 (o) Department of Justice,
+4 Legal Tools Replacement
+5 System 3.0........................................ $ 13,455,000
+6 (p) Department of Revenue,
+7 Electronic Valuation
+8 Information System........................ $ 2,035,000
+9 (q) Oregon Department of Emergency
+10 Management, Resiliency Grant
+11 Fund established under
+12 ORS 401.552..................................... $ 10,140,000
+13 (r) Oregon Business Development
+14 Department, Coos Bay Channel
+15 Modification..................................... $ 100,815,000
+16 (s) State Parks and Recreation
+17 Department, Park
+18 Acquisition.............................. $ 2,135,000
+19 (6) Department of
+20 Transportation (Art. XI,
+21 section 7), Interstate 5
+22 Bridge Replacement Project........ $ 251,825,000
+23 Dedicated Fund Obligations
+24 (7) Department of Veterans’
+25 Affairs (Art. XI-A).......................... $ 116,000,000
+26 (8) Higher Education Coordinating
+27 Commission (Art. XI-F(1)):
+28 (a) Portland State University,
+29 Portland Center for the
+30 Performing Arts Parking
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 7
+
+1 Structure and Auxiliary
+2 Spaces.............................................. $ 53,010,000
+3 (b) Portland State University,
+4 [Student Housing............................ $ 85,660,000]
+5 Student Housing..................... $ 100,815,000
+6 (9) Department of Environmental
+7 Quality (Art. XI-H)......................... $ 20,080,000
+8 (10) Housing and Community
+9 Services Department
+10 (Art. XI-I(2))..................................... $ 50,000,000
+11 (11) Oregon Department of
+12 Administrative Services
+13 (Art. XI-Q):
+14 (a) Oregon Department of
+15 Administrative Services,
+16 Labor and Industries Building
+17 Renovation and Seismic
+18 Upgrade............................................ $ 126,080,000
+19 (b) State Forestry Department:
+20 (A) Klamath Fire Cache Warehouse
+21 Replacement.................................... $ 3,346,200
+22 (B) Santiam Facility Replacement,
+23 Phase I.............................................. $ 3,954,600
+24 (C) State Forester, Office
+25 Building Restoration...................... $ 1,009,800
+26 (D) Toledo Facility Replacement,
+27 Phase III........................................... $ 3,532,612
+28 (E) Veneta Campus Remodel.............. $ 6,430,573
+29 (c) Department of Veterans’
+30 Affairs:
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 8
+
+1 (A) Department of Veterans’
+2 Affairs Salem HVAC
+3 Controls Replacement,
+4 Phase II............................................ $ 1,585,000
+5 (B) Department of Veterans’
+6 Affairs Salem Roof
+7 Replacement.................................... $ 1,230,000
+8 (d) Oregon Liquor and Cannabis
+9 Commission:
+10 (A) Liquor Warehouse Management
+11 Management IT System................ $ 8,090,000
+12 (B) Liquor Warehouse Conveyor
+13 System............................................... $ 10,125,000
+14 (C) Liquor Warehouse Land
+15 and Building.................................... $ 46,330,000
+16 Total General Obligation
+17 [Bonds............................................... $2,340,290,000]
+18 Bonds...................................... $2,501,195,000
+19 “SECTION 2. Section 2, chapter 630, Oregon Laws 2025, is amended to
+20 read:
+21 “Sec. 2. The amounts authorized, as provided by ORS 286A.035, for issu-
+22 ance of revenue bonds of the state during the 2025-2027 biennium are as fol-
+23 lows:
+24
+25 REVENUE BONDS
+26 Direct Revenue Bonds
+27 Housing and Community
+28 Services Department................... $ 500,000,000
+29 Department of Transportation,
+30 Highway User Tax....................... $ 850,000,000
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 9
+
+1 Department of Transportation,
+2 Grant Anticipation Revenue
+3 Vehicle............................................ $ 345,000,000
+4 Oregon Business Development
+5 Department.................................... $ 30,000,000
+6 Oregon Department of
+7 Administrative Services,
+8 [Lottery Revenue Bonds.............. $ 494,515,200]
+9 Lottery Revenue Bonds........ $ 579,120,200
+10 Total Direct Revenue
+11 [Bonds............................................. $ 2,219,515,200]
+12 Bonds.................................... $ 2,304,120,200
+13 Pass-Through Revenue Bonds
+14 Oregon Business Development
+15 Department, Industrial
+16 Development Bonds..................... $ 600,000,000
+17 Oregon Business Development
+18 Department, Beginning and
+19 Expanding Farmer Loan
+20 Program.......................................... $ 2,000,000
+21 Oregon Facilities Authority...... $ 1,000,000,000
+22 Housing and Community
+23 Services Department................... $ 1,300,000,000
+24 Total Pass-Through Revenue
+25 Bonds.............................................. $ 2,902,000,000
+26 [Total Revenue Bonds.................. $ 5,121,515,200]
+27 Total Revenue Bonds............ $ 5,206,120,200
+28 “SECTION 3. Section 3, chapter 630, Oregon Laws 2025, is amended to
+29 read:
+30 “Sec. 3. The amount authorized, as provided by ORS 286A.035, for issu-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 10
+
+1 ance of certificates of participation and other financing agreements of the
+2 state during the 2025-2027 biennium for the Oregon Department of Adminis-
+3 trative Services is [$13,037,910] $33,037,910.
+4 “SECTION 4. (1) In addition to and not in lieu of any authorization
+5 to issue general obligation bonds under ORS 286A.035, for the biennium
+6 ending June 30, 2027, at the request of the Oregon Department of Ad-
+7 ministrative Services, the State Treasurer may issue Article XI-Q
+8 bonds under ORS 286A.816 to 286A.826 in an amount that produces up
+9 to $200,000,000 of net proceeds for the purposes described in subsection
+10 (2) of this section, plus an amount estimated by the State Treasurer
+11 to pay bond-related costs but not to exceed $1,400,000, subject to sub-
+12 section (3) of this section.
+13 “(2) Net proceeds of bonds issued under this section must be trans-
+14 ferred to the Oregon Department of Administrative Services for de-
+15 posit in the Oregon Arena Fund established in section 3, chapter ___,
+16 Oregon Laws 2026 (Enrolled Senate Bill 1501) to support capital im-
+17 provements to the Moda Center and surrounding plaza areas.
+18 “(3) The State Treasurer may issue bonds under this section only
+19 if:
+20 “(a) The prerequisite conditions for issuance of debt instruments
+21 set forth in section 5, chapter ___, Oregon Laws 2026 (Enrolled Senate
+22 Bill 1501) are met; and
+23 “(b) The aggregate amount of net proceeds from bonds and certif-
+24 icates of participation issued or anticipated to be issued under this
+25 section and section 5 of this 2026 Act does not exceed $200,000,000 of
+26 net proceeds.
+27 “SECTION 5. (1) In addition to and not in lieu of any authorization
+28 to issue certificates of participation and other financing agreements
+29 of the state, at the request of the Oregon Department of Administra-
+30 tive Services, the State Treasurer is authorized to issue certificates
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 11
+
+1 of participation in an amount that produces up to $200,000,000 of net
+2 proceeds in the biennium ending June 30, 2027, for the purposes de-
+3 scribed in subsection (2) of this section, plus an amount estimated by
+4 the State Treasurer to pay costs of issuance but not to exceed
+5 $1,400,000, subject to subsection (3) of this section.
+6 “(2) Net proceeds of certificates of participation issued under this
+7 section must be transferred to the Oregon Department of Adminis-
+8 trative Services for deposit in the Oregon Arena Fund established in
+9 section 3, chapter ___, Oregon Laws 2026 (Enrolled Senate Bill 1501) to
+10 support capital improvements to the Moda Center and surrounding
+11 plaza areas.
+12 “(3) The department may issue certificates of participation under
+13 this section only if:
+14 “(a) The prerequisite conditions for issuance of debt instruments
+15 set forth in section 5, chapter ___, Oregon Laws 2026 (Enrolled Senate
+16 Bill 1501) are met; and
+17 “(b) The aggregate amount of net proceeds from bonds and certif-
+18 icates of participation issued or anticipated to be issued under this
+19 section and section 4 of this 2026 Act does not exceed $200,000,000 of
+20 net proceeds.
+21 “SECTION 6. (1) In addition to and not in lieu of any authorization
+22 to issue general obligation bonds under ORS 286A.035, for the biennium
+23 beginning July 1, 2027, at the request of the Oregon Department of
+24 Administrative Services, the State Treasurer may issue Article XI-Q
+25 bonds under ORS 286A.816 to 286A.826 in an amount that produces up
+26 to $165,000,000 of net proceeds for the purposes described in subsection
+27 (2) of this section, plus an amount estimated by the State Treasurer
+28 to pay bond-related costs but not to exceed $1,200,000, subject to sub-
+29 section (3) of this section.
+30 “(2) Net proceeds of bonds issued under this section must be trans-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 12
+
+1 ferred to the Oregon Department of Administrative Services for de-
+2 posit in the Oregon Arena Fund established by section 3, chapter ___,
+3 Oregon Laws 2026 (Enrolled Senate Bill 1501) to support capital im-
+4 provements to the Moda Center and surrounding plaza areas.
+5 “(3) The State Treasurer may issue bonds under this section only
+6 if:
+7 “(a) The prerequisite conditions for issuance of debt instruments
+8 set forth in section 5, chapter ___, Oregon Laws 2026 (Enrolled Senate
+9 Bill 1501) are met; and
+10 “(b) The aggregate amount of net proceeds from bonds and certif-
+11 icates of participation issued or anticipated to be issued under this
+12 section and section 7 of this 2026 Act does not exceed $165,000,000 of
+13 net proceeds.
+14 “SECTION 7. (1) In addition to and not in lieu of any authorization
+15 to issue certificates of participation and other financing agreements
+16 of the state, at the request of the Oregon Department of Administra-
+17 tive Services, the State Treasurer is authorized to issue certificates
+18 of participation in an amount that produces up to $165,000,000 of net
+19 proceeds in the biennium beginning July 1, 2027, for the purposes de-
+20 scribed in subsection (2) of this section, plus an amount estimated by
+21 the State Treasurer to pay costs of issuance but not to exceed
+22 $1,200,000, subject to subsection (3) of this section.
+23 “(2) Net proceeds of certificates of participation issued under this
+24 section must be transferred to the Oregon Department of Adminis-
+25 trative Services for deposit in the Oregon Arena Fund established by
+26 section 3, chapter ___, Oregon Laws 2026 (Enrolled Senate Bill 1501) to
+27 support capital improvements to the Moda Center and surrounding
+28 plaza areas.
+29 “(3) The department may issue certificates of participation under
+30 this section only if:
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 13
+
+1 “(a) The prerequisite conditions for issuance of debt instruments
+2 set forth in section 5, chapter ___, Oregon Laws 2026 (Enrolled Senate
+3 Bill 1501) are met; and
+4 “(b) The aggregate amount of net proceeds from bonds and certif-
+5 icates of participation issued or anticipated to be issued under this
+6 section and section 6 of this 2026 Act does not exceed $165,000,000 of
+7 net proceeds.
+8 “SECTION 8. Section 1, chapter 596, Oregon Laws 2023, as amended by
+9 section 1, chapter 104, Oregon Laws 2024, and section 1, chapter 9, Oregon
+10 Laws 2025, is amended to read:
+11 “Sec. 1. The amounts authorized, as provided by ORS 286A.035, for issu-
+12 ance of general obligation bonds of the state during the 2023-2025 biennium
+13 are as follows:
+14
+15 GENERAL OBLIGATION BONDS
+16 General Fund Obligations
+17 (1) Higher Education Coordinating
+18 Commission (Art. XI-G):
+19 (a) Chemeketa Community
+20 College, Building 7 Remodel........ $ 8,110,000
+21 (b) Klamath Community College,
+22 Childcare Resource Learning
+23 Center............................................... $ 4,050,000
+24 (c) Rogue Community College,
+25 Transportation Technology
+26 Centers.............................................. $ 7,105,000
+27 (d) Central Oregon Community
+28 College, Renovation and
+29 Expansion of CTE Facilities
+30 at Redmond Campus...................... $ 4,050,000
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 14
+
+1 (e) Clatsop Community College,
+2 Maritime Science Building........... $ 8,010,000
+3 (f) Oregon Coast Community
+4 College, Center for Trades
+5 Education......................................... $ 8,110,000
+6 (g) Columbia Gorge Community
+7 College, Campus Renovations
+8 for Student Safety and
+9 Success.............................................. $ 5,595,000
+10 (h) Lane Community College,
+11 Science, Mathematics and
+12 Engineering Building
+13 Renovation....................................... $ 8,110,000
+14 (i) Portland Community College,
+15 Rock Creek Campus Building 2
+16 [Complex - Phase I......................... $ 8,110,000]
+17 Renovation and Building
+18 Construction Technology
+19 Building........................................... $ 8,110,000
+20 (j) Southwestern Oregon
+21 Community College,
+22 Student Uplift and
+23 Collaboration Create Expanded
+24 Support and Success...................... $ 8,110,000
+25 (k) Umpqua Community College,
+26 Welcome Center and Medical
+27 Careers Training Hub................... $ 8,110,000
+28 (L) University of Oregon,
+29 Friendly Hall Renovation............. $ 7,650,000
+30 (m) Oregon State University,
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 15
+
+1 Collaborative Innovation
+2 Complex............................................ $ 72,680,000
+3 (n) Portland State University,
+4 Vernier Science Center and
+5 Gateway Art and Design
+6 Project Completions....................... $ 4,330,000
+7 (2) Department of Environmental
+8 Quality (Art. XI-H)......................... $ 10,333,333
+9 (3) Oregon Business Development
+10 Department (Art. XI-M)................ $ 100,885,000
+11 (4) Oregon Business Development
+12 Department (Art. XI-N)................. $ 50,570,000
+13 (5) Department of Education
+14 (Art. XI-P)........................................ $ 100,885,000
+15 (6) Oregon Department of
+16 Administrative
+17 Services (Art. XI-Q):
+18 (a) Oregon Military Department:
+19 (A) Salem Owen Summers Building
+20 Service Life Extension.................. $ 2,955,000
+21 (B) Salem Owen Summers Building
+22 Seismic Strengthening and
+23 Life Safety Improvements............. $ 5,595,000
+24 (b) Department of State Police:
+25 (A) Central Point Office
+26 Expansion......................................... $ 26,845,000
+27 (B) Springfield Forensic Lab and
+28 Medical Examiner’s Office........... $ 21,545,000
+29 (C) Springfield Patrol Area
+30 Command Office.............................. $ 7,385,000
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 16
+
+1 (c) Department of Corrections:
+2 (A) Camera System............................... $ 8,615,000
+3 (B) Capital Improvement and
+4 Renewal............................................ $ 50,570,000
+5 (C) Wireless Communication
+6 System............................................... $ 13,070,000
+7 (d) Oregon Youth Authority:
+8 (A) Camp Riverbend Dorm
+9 Renovation....................................... $ 9,005,000
+10 (B) Capital Improvements -
+11 All Facilities.................................... $ 11,795,000
+12 (C) Control Room Renovations.......... $ 330,000
+13 (D) JJIS IT System
+14 Modernization................................. $ 7,850,000
+15 (E) MacLaren West Cottages
+16 Renovations..................................... $ 11,425,000
+17 (F) Rogue Valley Facility
+18 Improvements.................................. $ 1,509,910
+19 (G) Tillamook Dorm Renovation........ $ 12,070,000
+20 (H) Tillamook Medical and
+21 Dental Renovations........................ $ 830,000
+22 (I) Oak Creek Youth
+23 Correctional Facility..................... $ 4,050,000
+24 (e) Department of Education,
+25 Oregon School for the Deaf
+26 Capital Improvements................... $ 3,550,000
+27 (f) State Forestry Department:
+28 (A) Capital Improvements................... $ 2,461,687
+29 (B) Toledo Facility Replacement,
+30 Phase II............................................ $ 1,134,135
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 17
+
+1 (C) Multi-Mission Aircraft.................. $ 4,720,020
+2 (D) [Salem] Airport Hangar................ $ 791,520
+3 (g) State Department of Fish
+4 and Wildlife, Capital
+5 Improvement and Renewal........... $ 2,540,000
+6 (h) Housing and Community
+7 Services Department, Local
+8 Innovation and Fast Track
+9 (LIFT)/Permanent Supportive
+10 Housing Programs.......................... $ 604,280,000
+11 (i) Higher Education
+12 Coordinating Commission:
+13 (A) Public Universities Capital
+14 Improvement and Renewal........... $ 100,885,000
+15 (B) FAMIS System Replacement,
+16 Phase II............................................ $ 5,095,000
+17 (C) University of Oregon,
+18 Friendly Hall Renovation............. $ 65,840,000
+19 (D) Portland State University,
+20 Vernier Science Center and
+21 Gateway Art and Design
+22 Project Completions....................... $ 53,175,000
+23 (E) Oregon Institute of
+24 Technology, Geothermal
+25 System Emergency
+26 Renovation....................................... $ 18,160,000
+27 (F) Southern Oregon University,
+28 Central Hall Capital
+29 Improvements (Phase II)............... $ 6,100,000
+30 (j) Oregon Health Authority:
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 18
+
+1 (A) Junction City Single
+2 Unit Remodel.................................. $ 5,095,000
+3 (B) PLC System Replacement............. $ 3,045,000
+4 (k) Department of Revenue,
+5 Electronic Valuation
+6 Information System........................ $ 14,265,000
+7 (L) Legislative Administration
+8 Committee, Capitol
+9 Accessibility, Maintenance
+10 and Safety Phase III...................... $ 216,920,000
+11 (m) Judicial Department:
+12 (A) Benton County Courthouse.......... $ 15,925,000
+13 (B) Clackamas County
+14 Courthouse....................................... $ 45,535,000
+15 (C) Morrow County Courthouse........ $ 12,745,000
+16 (D) Curry County Courthouse............ $ 10,760,000
+17 (n) Oregon Department of
+18 Emergency Management,
+19 Resiliency Grant Fund
+20 established under
+21 ORS 401.552..................................... $ 5,095,000
+22 (7) Department of
+23 Transportation (Art. XI,
+24 section 7), Interstate 5
+25 Bridge Replacement Project........ $ 251,825,000
+26 Dedicated Fund Obligations
+27 (8) Department of Veterans’
+28 Affairs (Art. XI-A).......................... $ 109,023,670
+29 (9) Higher Education Coordinating
+30 Commission (Art. XI-F(1)):
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 19
+
+1 (a) Portland State University,
+2 Smith Memorial Union.................. $ 8,315,000
+3 (b) Portland State University,
+4 Vernier Science Center and
+5 Gateway Art and Design
+6 Project Completions....................... $ 18,205,000
+7 (10) Department of Environmental
+8 Quality (Art. XI-H)......................... $ 20,000,000
+9 (11) Housing and Community
+10 Services Department
+11 (Art. XI-I(2))..................................... $ 50,000,000
+12 (12) Oregon Department of
+13 Administrative Services
+14 (Art. XI-Q):
+15 (a) Yellow Parking Lot Paving......... $ 4,050,000
+16 (b) State Forestry Department:
+17 (A) Capital Improvements................... $ 2,418,313
+18 (B) Toledo Facility Replacement,
+19 Phase II............................................ $ 1,575,865
+20 (C) Multi-Mission Aircraft.................. $ 7,444,980
+21 (D) [Salem] Airport Hangar................ $ 1,248,480
+22 (c) Department of Justice,
+23 Legal Tools Replacement
+24 System 3.0........................................ $ 21,520,000
+25 (d) Oregon Liquor and Cannabis
+26 Commission:
+27 (A) Liquor Warehouse Conveyor
+28 System............................................... $ 24,305,000
+29 (B) Liquor Warehouse Land
+30 and Building.................................... $ 46,395,000
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 20
+
+1 (C) Liquor Warehouse
+2 Management IT System................ $ 16,695,000
+3 Total General Obligation
+4 Bonds................................................. $2,401,386,913
+5 “SECTION 9. Section 44, chapter 599, Oregon Laws 2023, as amended by
+6 section 5, chapter 104, Oregon Laws 2024, is amended to read:
+7 “Sec. 44. (1) For the biennium beginning July 1, 2023, at the request of
+8 the Oregon Department of Administrative Services, after the department
+9 consults with the Oregon Business Development Department, the State
+10 Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to
+11 286A.585 in an amount that produces $20 million in net proceeds for the
+12 purposes described in subsection (2) of this section, plus an additional
+13 amount estimated by the State Treasurer to be necessary to pay bond-related
+14 costs.
+15 “(2) Net proceeds of lottery bonds issued under this section must be
+16 transferred to the Oregon Business Development Department for deposit in
+17 the [Coos Bay Channel Fund established by section 15, chapter 746, Oregon
+18 Laws 2007, for distribution to the Oregon International Port of Coos Bay to
+19 deepen and widen the Coos Bay Federal Navigation Channel and for the de-
+20 sign, engineering, permitting and land acquisition efforts related to the Pacific
+21 Coast Intermodal Port project] OBDD Economic Development Distrib-
+22 utions Fund established under section 28, chapter 748, Oregon Laws
+23 2017, for distribution to the Urban Flood Safety and Water Quality
+24 District for levee system improvements along the Columbia River from
+25 Sauvie Island to the Sandy River in Troutdale.
+26 “(3) The Legislative Assembly finds that the use of lottery bond proceeds
+27 will create jobs, further economic development, finance public education or
+28 restore and protect parks, beaches, watersheds and native fish and wildlife,
+29 and is authorized based on the [finding that port facilities and related
+30 infrastructure are an integral part of the commercial and industrial
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 21
+
+1 infrastructure of this state, and promote economic development.] following
+2 findings:
+3 “(a) Levees are an integral part of the commercial and industrial
+4 infrastructure of this state; and
+5 “(b) The inspection, accreditation, certification and repair of levees
+6 will promote economic development within this state.
+7 “SECTION 10. Section 7, chapter 633, Oregon Laws 2025, is amended to
+8 read:
+9 “Sec. 7. (1) For the biennium beginning July 1, 2025, at the request of the
+10 Oregon Department of Administrative Services, after the department consults
+11 with the Oregon Business Development Department, the State Treasurer is
+12 authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in
+13 an amount that produces $20 million in net proceeds for the purposes de-
+14 scribed in subsection (2) of this section, plus an additional amount estimated
+15 by the State Treasurer to be necessary to pay bond-related costs.
+16 “(2) Net proceeds of lottery bonds issued under this section must be
+17 transferred to the department for deposit in the [OBDD Economic Develop-
+18 ment Distributions Fund established under section 28, chapter 748, Oregon
+19 Laws 2017, for distribution to the Urban Flood Safety and Water Quality
+20 District for levee system improvements along the Columbia River from Sauvie
+21 Island to the Sandy River in Troutdale] Coos Bay Channel Fund estab-
+22 lished by section 15, chapter 746, Oregon Laws 2007, for distribution to
+23 the Oregon International Port of Coos Bay to deepen and widen the
+24 Coos Bay Federal Navigation Channel and for the design, engineering,
+25 permitting and land acquisition efforts related to the Pacific Coast
+26 Intermodal Port project.
+27 “(3) The Legislative Assembly finds that the use of lottery bond proceeds
+28 will create jobs, further economic development, finance public education or
+29 restore and protect parks, beaches, watersheds and native fish and wildlife,
+30 and is authorized based on the [following findings:]
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 22
+
+1 “[(a) Levees are an integral part of the commercial and industrial
+2 infrastructure of this state; and]
+3 “[(b) The inspection, accreditation, certification and repair of levees will
+4 promote economic development within this state.] finding that port facilities
+5 and related infrastructure are an integral part of the commercial and
+6 industrial infrastructure of this state, and promote economic develop-
+7 ment.
+8 “SECTION 11. Section 15, chapter 746, Oregon Laws 2007, as amended
+9 by section 46, chapter 599, Oregon Laws 2023, is amended to read:
+10 “Sec. 15. (1) The Coos Bay Channel Fund is established separate and
+11 distinct from the General Fund. Interest earned by the Coos Bay Channel
+12 Fund shall be credited to the fund. The moneys in the Coos Bay Channel
+13 Fund are continuously appropriated to the Oregon Business Development
+14 Department for the purpose described in subsection (2) of this section. The
+15 fund shall consist of moneys transferred to the fund under section 13, chapter
+16 746, Oregon Laws 2007, and [sections 44 and 45 of this 2023 Act] section 7,
+17 chapter 633, Oregon Laws 2025, and interest earnings on moneys in the
+18 fund.
+19 “(2) Moneys in the fund are available to the department for distribution
+20 to the primary sponsor to pay the nonfederal cost share, or the nonprivate
+21 cost share, of expenses of the project up to the amounts specified in section
+22 13, chapter 746, Oregon Laws 2007, and [sections 44 and 45 of this 2023 Act]
+23 section 7, chapter 633, Oregon Laws 2025, and to pay bond-related costs.
+24 “SECTION 12. Section 3, chapter 633, Oregon Laws 2025, is amended to
+25 read:
+26 “Sec. 3. (1) For the biennium beginning July 1, 2025, at the request of the
+27 Oregon Department of Administrative Services, after the department consults
+28 with the Oregon Business Development Department, the State Treasurer is
+29 authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in
+30 an amount that produces $10 million in net proceeds for the purposes de-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 23
+
+1 scribed in subsection (2) of this section, plus an additional amount estimated
+2 by the State Treasurer to be necessary to pay bond-related costs.
+3 “(2) Net proceeds of lottery bonds issued under this section must be
+4 transferred to the Oregon Business Development Department for deposit [in
+5 the Brownfields Redevelopment Fund established in ORS 285A.188 for the
+6 purposes described in ORS 285A.185 and 285A.188.] as follows:
+7 “(a) $5,000,000 to the Brownfields Redevelopment Fund established
+8 in ORS 285A.188, for the purposes described in ORS 285A.185 and
+9 285A.188; and
+10 “(b) $5,000,000 to the Oregon Brownfield Properties Revitalization
+11 Fund established in ORS 285A.198, for the purposes described in ORS
+12 285A.193 to 285A.198.
+13 “(3) The Legislative Assembly finds that the use of lottery bond proceeds
+14 will create jobs, further economic development, finance public education or
+15 restore and protect parks, beaches, watersheds and native fish and wildlife,
+16 and is authorized based on the following findings:
+17 “(a) Redevelopment of industrial-zoned brownfields improves the economy
+18 by returning the assessed value of the properties to the real market value
+19 for property taxation purposes; and
+20 “(b) The projects made possible through increased funding to evaluate,
+21 clean up and redevelop brownfields properties create jobs [and], further
+22 economic development and support housing and community redevelop-
+23 ment.
+24 “SECTION 13. Section 11, chapter 633, Oregon Laws 2025, is amended to
+25 read:
+26 “Sec. 11. (1) For the biennium beginning July 1, 2025, at the request of
+27 the Oregon Department of Administrative Services, after the department
+28 consults with the Oregon Business Development Department, the State
+29 Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to
+30 286A.585 in an amount that produces [$10 million] $20 million in net pro-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 24
+
+1 ceeds for the purposes described in subsection (2) of this section, plus an
+2 additional amount estimated by the State Treasurer to be necessary to pay
+3 bond-related costs.
+4 “(2) Net proceeds of lottery bonds issued under this section must be
+5 transferred to the Oregon Business Development Department for deposit in
+6 the Industrial Site Loan Fund established under [section 12, chapter 566,
+7 Oregon Laws 2025 (Enrolled House Bill 2411)] ORS 285B.046, for projects
+8 related to industrial lands readiness activities.
+9 “(3) The Legislative Assembly finds that the use of lottery bond proceeds
+10 will create jobs, further economic development, finance public education or
+11 restore and protect parks, beaches, watersheds and native fish and wildlife,
+12 and is authorized based on the finding that industrial development that
+13 provides new traded sector jobs reinforces the economies of local and re-
+14 gional communities and contributes to Oregon’s economic recovery.
+15 “SECTION 14. Section 20, chapter 633, Oregon Laws 2025, is amended to
+16 read:
+17 “Sec. 20. (1) For the biennium beginning July 1, 2025, at the request of
+18 the Oregon Department of Administrative Services, after the department
+19 consults with the Oregon Business Development Department, the State
+20 Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to
+21 286A.585 in an amount that produces [$6 million] $11 million in net proceeds
+22 for the purposes described in subsection (2) of this section, plus an additional
+23 amount estimated by the State Treasurer to be necessary to pay bond-related
+24 costs.
+25 “(2) Net proceeds of lottery bonds issued under this section must be
+26 transferred to the department for deposit in the OBDD Economic Develop-
+27 ment Distributions Fund established under section 28, chapter 748, Oregon
+28 Laws 2017, for distribution to the City of Eugene [to construct a wastewater
+29 collection system to prepare industrial land for development] for wastewater
+30 infrastructure expansion and improvements.
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 25
+
+1 “(3) The Legislative Assembly finds that the use of lottery bond proceeds
+2 will create jobs, further economic development, finance public education or
+3 restore and protect parks, beaches, watersheds and native fish and wildlife,
+4 and is authorized based on the finding that wastewater [treatment systems
+5 are] infrastructure is an integral part of the commercial and industrial
+6 infrastructure of this state, and improving wastewater [treatment]
+7 infrastructure will promote economic development and watershed health.
+8 “SECTION 15. Section 37, chapter 633, Oregon Laws 2025, is re-
+9 pealed.
+10 “SECTION 16. (1) For the biennium ending June 30, 2027, at the re-
+11 quest of the Oregon Department of Administrative Services, after the
+12 department consults with the Our Home, Inclusive Community
+13 Collaborative, the State Treasurer is authorized to issue lottery bonds
+14 pursuant to ORS 286A.560 to 286A.585 in an amount that produces
+15 $1,400,000 in net proceeds for the purposes described in subsection (2)
+16 of this section, plus an additional amount estimated by the State
+17 Treasurer to be necessary to pay bond-related costs.
+18 “(2) Net proceeds of lottery bonds issued under this section must
+19 be transferred to the department for deposit in the ODAS Economic
+20 Development Distributions Fund established under ORS 461.553, for
+21 distribution to Our Home, Inclusive Community Collaborative for
+22 construction of Cathedral Park Cohousing affordable housing.
+23 “(3) The Legislative Assembly finds that the use of lottery bond
+24 proceeds will create jobs, further economic development, finance pub-
+25 lic education or restore and protect parks, beaches, watersheds and
+26 native fish and wildlife, and is authorized based on the following
+27 findings:
+28 “(a) Having housing for at-risk populations is essential to Oregon’s
+29 healthy economic growth; and
+30 “(b) A severe shortage of affordable housing exists in Oregon, and
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 26
+
+1 market indicators demonstrate a growing gap between the supply of
+2 and the demand for affordable housing.
+3 “SECTION 17. (1) For the biennium ending June 30, 2027, at the re-
+4 quest of the Oregon Department of Administrative Services, after the
+5 department consults with the Regional Rural Revitalization (R3)
+6 Strategies Consortium, the State Treasurer is authorized to issue lot-
+7 tery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that
+8 produces $3,000,000 in net proceeds for the purposes described in sub-
+9 section (2) of this section, plus an additional amount estimated by the
+10 State Treasurer to be necessary to pay bond-related costs.
+11 “(2) Net proceeds of lottery bonds issued under this section must
+12 be transferred to the department for deposit in the ODAS Economic
+13 Development Distributions Fund established under ORS 461.553, for
+14 distribution to the Regional Rural Revitalization (R3) Strategies Con-
+15 sortium for site improvements and construction of modular workforce
+16 housing units.
+17 “(3) The Legislative Assembly finds that the use of lottery bond
+18 proceeds will create jobs, further economic development, finance pub-
+19 lic education or restore and protect parks, beaches, watersheds and
+20 native fish and wildlife, and is authorized based on the following
+21 findings:
+22 “(a) Having affordable workforce housing is essential to Oregon’s
+23 healthy economic growth; and
+24 “(b) A severe shortage of affordable housing exists in Oregon, and
+25 market indicators demonstrate a growing gap between the supply of
+26 and the demand for affordable housing.
+27 “SECTION 18. (1) For the biennium ending June 30, 2027, at the re-
+28 quest of the Oregon Department of Administrative Services, after the
+29 department consults with Evergreen Community Partners, the State
+30 Treasurer is authorized to issue lottery bonds pursuant to ORS
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 27
+
+1 286A.560 to 286A.585 in an amount that produces $2,500,000 in net pro-
+2 ceeds for the purposes described in subsection (2) of this section, plus
+3 an additional amount estimated by the State Treasurer to be necessary
+4 to pay bond-related costs.
+5 “(2) Net proceeds of lottery bonds issued under this section must
+6 be transferred to the department for deposit in the ODAS Economic
+7 Development Distributions Fund established under ORS 461.553, for
+8 distribution to Evergreen Community Partners for Whale Watch af-
+9 fordable housing design, permitting and construction.
+10 “(3) The Legislative Assembly finds that the use of lottery bond
+11 proceeds will create jobs, further economic development, finance pub-
+12 lic education or restore and protect parks, beaches, watersheds and
+13 native fish and wildlife, and is authorized based on the following
+14 findings:
+15 “(a) Having affordable workforce housing is essential to Oregon’s
+16 healthy economic growth; and
+17 “(b) A severe shortage of affordable housing exists in Oregon, and
+18 market indicators demonstrate a growing gap between the supply of
+19 and the demand for affordable housing.
+20 “SECTION 19. (1) For the biennium ending June 30, 2027, at the re-
+21 quest of the Oregon Department of Administrative Services, after the
+22 department consults with the Native American Youth and Family
+23 Center, the State Treasurer is authorized to issue lottery bonds pur-
+24 suant to ORS 286A.560 to 286A.585 in an amount that produces
+25 $4,000,000 in net proceeds for the purposes described in subsection (2)
+26 of this section, plus an additional amount estimated by the State
+27 Treasurer to be necessary to pay bond-related costs.
+28 “(2) Net proceeds of lottery bonds issued under this section must
+29 be transferred to the department for deposit in the ODAS Economic
+30 Development Distributions Fund established under ORS 461.553, for
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 28
+
+1 distribution to the Native American Youth and Family Center for fa-
+2 cility capital improvements.
+3 “(3) The Legislative Assembly finds that the use of lottery bond
+4 proceeds will create jobs, further economic development, finance pub-
+5 lic education or restore and protect parks, beaches, watersheds and
+6 native fish and wildlife, and is authorized based on the finding that
+7 community centers enhance the economic viability of the region, cre-
+8 ate jobs and improve the quality of life for the community.
+9 “SECTION 20. (1) For the biennium ending June 30, 2027, at the re-
+10 quest of the Oregon Department of Administrative Services, after the
+11 department consults with the Central Oregon Coast Fire and Rescue
+12 District, the State Treasurer is authorized to issue lottery bonds pur-
+13 suant to ORS 286A.560 to 286A.585 in an amount that produces
+14 $1,100,000 in net proceeds for the purposes described in subsection (2)
+15 of this section, plus an additional amount estimated by the State
+16 Treasurer to be necessary to pay bond-related costs.
+17 “(2) Net proceeds of lottery bonds issued under this section must
+18 be transferred to the department for deposit in the ODAS Economic
+19 Development Distributions Fund established under ORS 461.553, for
+20 distribution to the Central Oregon Coast Fire and Rescue District for
+21 fire station acquisition and capital improvements.
+22 “(3) The Legislative Assembly finds that the use of lottery bond
+23 proceeds will create jobs, further economic development, finance pub-
+24 lic education or restore and protect parks, beaches, watersheds and
+25 native fish and wildlife, and is authorized based on the finding that fire
+26 stations are necessary components of a climate that facilitates and
+27 encourages economic development.
+28 “SECTION 21. (1) For the biennium ending June 30, 2027, at the re-
+29 quest of the Oregon Department of Administrative Services, after the
+30 department consults with Consejo Hispano, the State Treasurer is au-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 29
+
+1 thorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585
+2 in an amount that produces $1,750,000 in net proceeds for the purposes
+3 described in subsection (2) of this section, plus an additional amount
+4 estimated by the State Treasurer to be necessary to pay bond-related
+5 costs.
+6 “(2) Net proceeds of lottery bonds issued under this section must
+7 be transferred to the department for deposit in the ODAS Economic
+8 Development Distributions Fund established under ORS 461.553, for
+9 distribution to Consejo Hispano for Casa Mariposa to create spaces
+10 that support community resiliency, emergency preparedness and small
+11 business incubation.
+12 “(3) The Legislative Assembly finds that the use of lottery bond
+13 proceeds will create jobs, further economic development, finance pub-
+14 lic education or restore and protect parks, beaches, watersheds and
+15 native fish and wildlife, and is authorized based on the following
+16 findings:
+17 “(a) Community centers enhance the economic viability of the re-
+18 gion, create jobs and improve the quality of life for the community;
+19 and
+20 “(b) Workforce and small business development will lead to en-
+21 hanced economic development.
+22 “SECTION 22. (1) For the biennium ending June 30, 2027, at the re-
+23 quest of the Oregon Department of Administrative Services, after the
+24 department consults with Williams & Russell CDC, the State Treasurer
+25 is authorized to issue lottery bonds pursuant to ORS 286A.560 to
+26 286A.585 in an amount that produces $11,500,000 in net proceeds for the
+27 purposes described in subsection (2) of this section, plus an additional
+28 amount estimated by the State Treasurer to be necessary to pay
+29 bond-related costs.
+30 “(2) Net proceeds of lottery bonds issued under this section must
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 30
+
+1 be transferred to the department for deposit in the ODAS Economic
+2 Development Distributions Fund established under ORS 461.553, for
+3 distribution to Williams & Russell CDC for a business hub.
+4 “(3) The Legislative Assembly finds that the use of lottery bond
+5 proceeds will create jobs, further economic development, finance pub-
+6 lic education or restore and protect parks, beaches, watersheds and
+7 native fish and wildlife, and is authorized based on the finding that
+8 workforce and small business development will lead to enhanced eco-
+9 nomic development.
+10 “SECTION 23. (1) For the biennium ending June 30, 2027, at the re-
+11 quest of the Oregon Department of Administrative Services, after the
+12 department consults with Clackamas County, the State Treasurer is
+13 authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585
+14 in an amount that produces $5,000,000 in net proceeds for the purposes
+15 described in subsection (2) of this section, plus an additional amount
+16 estimated by the State Treasurer to be necessary to pay bond-related
+17 costs.
+18 “(2) Net proceeds of lottery bonds issued under this section must
+19 be transferred to the department for deposit in the ODAS Economic
+20 Development Distributions Fund established under ORS 461.553, for
+21 distribution to Clackamas County for construction of a substance use
+22 disorder treatment facility.
+23 “(3) The Legislative Assembly finds that the use of lottery bond
+24 proceeds will create jobs, further economic development, finance pub-
+25 lic education or restore and protect parks, beaches, watersheds and
+26 native fish and wildlife, and is authorized based on the finding that
+27 individuals increase their potential for self-sufficiency and economic
+28 productivity and use fewer public resources when they have access to
+29 addiction treatment programs and services.
+30 “SECTION 24. (1) For the biennium ending June 30, 2027, at the re-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 31
+
+1 quest of the Oregon Department of Administrative Services, after the
+2 department consults with the City of McMinnville, the State Treasurer
+3 is authorized to issue lottery bonds pursuant to ORS 286A.560 to
+4 286A.585 in an amount that produces $1,500,000 in net proceeds for the
+5 purposes described in subsection (2) of this section, plus an additional
+6 amount estimated by the State Treasurer to be necessary to pay
+7 bond-related costs.
+8 “(2) Net proceeds of lottery bonds issued under this section must
+9 be transferred to the department for deposit in the ODAS Economic
+10 Development Distributions Fund established under ORS 461.553, for
+11 distribution to the City of McMinnville for Alpine Avenue street im-
+12 provements.
+13 “(3) The Legislative Assembly finds that the use of lottery bond
+14 proceeds will create jobs, further economic development, finance pub-
+15 lic education or restore and protect parks, beaches, watersheds and
+16 native fish and wildlife, and is authorized based on the finding that a
+17 safe, efficient and reliable transportation infrastructure supports the
+18 long-term economic development and livability of this state.
+19 “SECTION 25. (1) For the biennium ending June 30, 2027, at the re-
+20 quest of the Oregon Department of Administrative Services, after the
+21 department consults with the City of Salem, the State Treasurer is
+22 authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585
+23 in an amount that produces $1,350,000 in net proceeds for the purposes
+24 described in subsection (2) of this section, plus an additional amount
+25 estimated by the State Treasurer to be necessary to pay bond-related
+26 costs.
+27 “(2) Net proceeds of lottery bonds issued under this section must
+28 be transferred to the department for deposit in the ODAS Economic
+29 Development Distributions Fund established under ORS 461.553, for
+30 distribution to the City of Salem for McNary Field site improvements
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 32
+
+1 and terminal expansion.
+2 “(3) The Legislative Assembly finds that the use of lottery bond
+3 proceeds will create jobs, further economic development, finance pub-
+4 lic education or restore and protect parks, beaches, watersheds and
+5 native fish and wildlife, and is authorized based on the finding that
+6 emergency preparedness protects public infrastructure and maintains
+7 a climate that facilitates and encourages economic development.
+8 “SECTION 26. (1) For the biennium ending June 30, 2027, at the re-
+9 quest of the Oregon Department of Administrative Services, after the
+10 department consults with the Oregon Business Development Depart-
+11 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+12 ant to ORS 286A.560 to 286A.585 in an amount that produces $3,000,000
+13 in net proceeds for the purposes described in subsection (2) of this
+14 section, plus an additional amount estimated by the State Treasurer
+15 to be necessary to pay bond-related costs.
+16 “(2) Net proceeds of lottery bonds issued under this section must
+17 be transferred to the department for deposit in the OBDD Economic
+18 Development Distributions Fund established under section 28, chapter
+19 748, Oregon Laws 2017, for distribution to the City of Vale for water
+20 system improvements.
+21 “(3) The Legislative Assembly finds that the use of lottery bond
+22 proceeds will create jobs, further economic development, finance pub-
+23 lic education or restore and protect parks, beaches, watersheds and
+24 native fish and wildlife, and is authorized based on the finding that
+25 water systems are an integral part of the commercial and industrial
+26 infrastructure of this state, and improving water supply will promote
+27 economic development and watershed health.
+28 “SECTION 27. (1) For the biennium ending June 30, 2027, at the re-
+29 quest of the Oregon Department of Administrative Services, after the
+30 department consults with the Oregon Business Development Depart-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 33
+
+1 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+2 ant to ORS 286A.560 to 286A.585 in an amount that produces $1,500,000
+3 in net proceeds for the purposes described in subsection (2) of this
+4 section, plus an additional amount estimated by the State Treasurer
+5 to be necessary to pay bond-related costs.
+6 “(2) Net proceeds of lottery bonds issued under this section must
+7 be transferred to the department for deposit in the OBDD Economic
+8 Development Distributions Fund established under section 28, chapter
+9 748, Oregon Laws 2017, for distribution to the City of Gold Hill for
+10 water system improvements.
+11 “(3) The Legislative Assembly finds that the use of lottery bond
+12 proceeds will create jobs, further economic development, finance pub-
+13 lic education or restore and protect parks, beaches, watersheds and
+14 native fish and wildlife, and is authorized based on the finding that
+15 water systems are an integral part of the commercial and industrial
+16 infrastructure of this state, and improving water supply will promote
+17 economic development and watershed health.
+18 “SECTION 28. (1) For the biennium ending June 30, 2027, at the re-
+19 quest of the Oregon Department of Administrative Services, after the
+20 department consults with the Oregon Business Development Depart-
+21 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+22 ant to ORS 286A.560 to 286A.585 in an amount that produces $4,000,000
+23 in net proceeds for the purposes described in subsection (2) of this
+24 section, plus an additional amount estimated by the State Treasurer
+25 to be necessary to pay bond-related costs.
+26 “(2) Net proceeds of lottery bonds issued under this section must
+27 be transferred to the department for deposit in the OBDD Economic
+28 Development Distributions Fund established under section 28, chapter
+29 748, Oregon Laws 2017, for distribution to the City of Warrenton for a
+30 new wastewater treatment plant.
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 34
+
+1 “(3) The Legislative Assembly finds that the use of lottery bond
+2 proceeds will create jobs, further economic development, finance pub-
+3 lic education or restore and protect parks, beaches, watersheds and
+4 native fish and wildlife, and is authorized based on the finding that
+5 wastewater treatment plants are an integral part of the commercial
+6 and industrial infrastructure of this state, and improving wastewater
+7 treatment will promote economic development and watershed health.
+8 “SECTION 29. (1) For the biennium ending June 30, 2027, at the re-
+9 quest of the Oregon Department of Administrative Services, after the
+10 department consults with the Oregon Business Development Depart-
+11 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+12 ant to ORS 286A.560 to 286A.585 in an amount that produces $2,650,000
+13 in net proceeds for the purposes described in subsection (2) of this
+14 section, plus an additional amount estimated by the State Treasurer
+15 to be necessary to pay bond-related costs.
+16 “(2) Net proceeds of lottery bonds issued under this section must
+17 be transferred to the department for deposit in the OBDD Economic
+18 Development Distributions Fund established under section 28, chapter
+19 748, Oregon Laws 2017, for distribution to the City of Philomath for
+20 sewer infrastructure improvements.
+21 “(3) The Legislative Assembly finds that the use of lottery bond
+22 proceeds will create jobs, further economic development, finance pub-
+23 lic education or restore and protect parks, beaches, watersheds and
+24 native fish and wildlife, and is authorized based on the finding that
+25 sewer infrastructure is an integral part of the commercial and indus-
+26 trial infrastructure of this state, and improvements will promote eco-
+27 nomic development and watershed health.
+28 “SECTION 30. (1) For the biennium ending June 30, 2027, at the re-
+29 quest of the Oregon Department of Administrative Services, after the
+30 department consults with the Oregon Business Development Depart-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 35
+
+1 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+2 ant to ORS 286A.560 to 286A.585 in an amount that produces $2,400,000
+3 in net proceeds for the purposes described in subsection (2) of this
+4 section, plus an additional amount estimated by the State Treasurer
+5 to be necessary to pay bond-related costs.
+6 “(2) Net proceeds of lottery bonds issued under this section must
+7 be transferred to the department for deposit in the OBDD Economic
+8 Development Distributions Fund established under section 28, chapter
+9 748, Oregon Laws 2017, for distribution to the Terrebonne Sanitary
+10 District for construction of a wastewater collection system.
+11 “(3) The Legislative Assembly finds that the use of lottery bond
+12 proceeds will create jobs, further economic development, finance pub-
+13 lic education or restore and protect parks, beaches, watersheds and
+14 native fish and wildlife, and is authorized based on the finding that
+15 wastewater collection systems are an integral part of the commercial
+16 and industrial infrastructure of this state, and improving wastewater
+17 infrastructure will promote economic development and watershed
+18 health.
+19 “SECTION 31. (1) For the biennium ending June 30, 2027, at the re-
+20 quest of the Oregon Department of Administrative Services, after the
+21 department consults with the Oregon Business Development Depart-
+22 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+23 ant to ORS 286A.560 to 286A.585 in an amount that produces $1,800,000
+24 in net proceeds for the purposes described in subsection (2) of this
+25 section, plus an additional amount estimated by the State Treasurer
+26 to be necessary to pay bond-related costs.
+27 “(2) Net proceeds of lottery bonds issued under this section must
+28 be transferred to the department for deposit in the OBDD Economic
+29 Development Distributions Fund established under section 28, chapter
+30 748, Oregon Laws 2017, for distribution to the City of Carlton for water
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 36
+
+1 system improvements.
+2 “(3) The Legislative Assembly finds that the use of lottery bond
+3 proceeds will create jobs, further economic development, finance pub-
+4 lic education or restore and protect parks, beaches, watersheds and
+5 native fish and wildlife, and is authorized based on the finding that
+6 water systems are an integral part of the commercial and industrial
+7 infrastructure of this state, and improving water supply will promote
+8 economic development and watershed health.
+9 “SECTION 32. (1) For the biennium ending June 30, 2027, at the re-
+10 quest of the Oregon Department of Administrative Services, after the
+11 department consults with the Oregon Business Development Depart-
+12 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+13 ant to ORS 286A.560 to 286A.585 in an amount that produces $2,000,000
+14 in net proceeds for the purposes described in subsection (2) of this
+15 section, plus an additional amount estimated by the State Treasurer
+16 to be necessary to pay bond-related costs.
+17 “(2) Net proceeds of lottery bonds issued under this section must
+18 be transferred to the department for deposit in the OBDD Economic
+19 Development Distributions Fund established under section 28, chapter
+20 748, Oregon Laws 2017, for distribution to the City of Lebanon for
+21 wastewater infrastructure improvements.
+22 “(3) The Legislative Assembly finds that the use of lottery bond
+23 proceeds will create jobs, further economic development, finance pub-
+24 lic education or restore and protect parks, beaches, watersheds and
+25 native fish and wildlife, and is authorized based on the finding that
+26 wastewater infrastructure is an integral part of the commercial and
+27 industrial infrastructure of this state, and improving wastewater
+28 infrastructure will promote economic development and watershed
+29 health.
+30 “SECTION 33. (1) For the biennium ending June 30, 2027, at the re-
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 37
+
+1 quest of the Oregon Department of Administrative Services, after the
+2 department consults with the Oregon Business Development Depart-
+3 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+4 ant to ORS 286A.560 to 286A.585 in an amount that produces $2,614,150
+5 in net proceeds for the purposes described in subsection (2) of this
+6 section, plus an additional amount estimated by the State Treasurer
+7 to be necessary to pay bond-related costs.
+8 “(2) Net proceeds of lottery bonds issued under this section must
+9 be transferred to the department for deposit in the OBDD Economic
+10 Development Distributions Fund established under section 28, chapter
+11 748, Oregon Laws 2017, for distribution to the City of St. Paul for main
+12 water line repairs.
+13 “(3) The Legislative Assembly finds that the use of lottery bond
+14 proceeds will create jobs, further economic development, finance pub-
+15 lic education or restore and protect parks, beaches, watersheds and
+16 native fish and wildlife, and is authorized based on the finding that
+17 water systems are an integral part of the commercial and industrial
+18 infrastructure of this state, and improving water supply will promote
+19 economic development and watershed health.
+20 “SECTION 34. (1) For the biennium ending June 30, 2027, at the re-
+21 quest of the Oregon Department of Administrative Services, after the
+22 department consults with the Oregon Business Development Depart-
+23 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+24 ant to ORS 286A.560 to 286A.585 in an amount that produces $1,400,000
+25 in net proceeds for the purposes described in subsection (2) of this
+26 section, plus an additional amount estimated by the State Treasurer
+27 to be necessary to pay bond-related costs.
+28 “(2) Net proceeds of lottery bonds issued under this section must
+29 be transferred to the department for deposit in the OBDD Economic
+30 Development Distributions Fund established under section 28, chapter
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 38
+
+1 748, Oregon Laws 2017, for distribution to the City of Lafayette for
+2 wastewater infrastructure improvements.
+3 “(3) The Legislative Assembly finds that the use of lottery bond
+4 proceeds will create jobs, further economic development, finance pub-
+5 lic education or restore and protect parks, beaches, watersheds and
+6 native fish and wildlife, and is authorized based on the finding that
+7 wastewater infrastructure is an integral part of the commercial and
+8 industrial infrastructure of this state, and improving wastewater
+9 infrastructure will promote economic development and watershed
+10 health.
+11 “SECTION 35. (1) For the biennium ending June 30, 2027, at the re-
+12 quest of the Oregon Department of Administrative Services, after the
+13 department consults with the Oregon Business Development Depart-
+14 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+15 ant to ORS 286A.560 to 286A.585 in an amount that produces $4,274,549
+16 in net proceeds for the purposes described in subsection (2) of this
+17 section, plus an additional amount estimated by the State Treasurer
+18 to be necessary to pay bond-related costs.
+19 “(2) Net proceeds of lottery bonds issued under this section must
+20 be transferred to the department for deposit in the OBDD Economic
+21 Development Distributions Fund established under section 28, chapter
+22 748, Oregon Laws 2017, for distribution to the City of Chiloquin for a
+23 new wastewater treatment plant.
+24 “(3) The Legislative Assembly finds that the use of lottery bond
+25 proceeds will create jobs, further economic development, finance pub-
+26 lic education or restore and protect parks, beaches, watersheds and
+27 native fish and wildlife, and is authorized based on the finding that
+28 wastewater treatment plants are an integral part of the commercial
+29 and industrial infrastructure of this state, and improving wastewater
+30 treatment will promote economic development and watershed health.
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 39
+
+1 “SECTION 36. (1) For the biennium ending June 30, 2027, at the re-
+2 quest of the Oregon Department of Administrative Services, after the
+3 department consults with the Oregon Business Development Depart-
+4 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+5 ant to ORS 286A.560 to 286A.585 in an amount that produces $5,000,000
+6 in net proceeds for the purposes described in subsection (2) of this
+7 section, plus an additional amount estimated by the State Treasurer
+8 to be necessary to pay bond-related costs.
+9 “(2) Net proceeds of lottery bonds issued under this section must
+10 be transferred to the department for deposit in the OBDD Economic
+11 Development Distributions Fund established under section 28, chapter
+12 748, Oregon Laws 2017, for distribution to the City of Silverton for a
+13 new wastewater treatment plant.
+14 “(3) The Legislative Assembly finds that the use of lottery bond
+15 proceeds will create jobs, further economic development, finance pub-
+16 lic education or restore and protect parks, beaches, watersheds and
+17 native fish and wildlife, and is authorized based on the finding that
+18 wastewater treatment plants are an integral part of the commercial
+19 and industrial infrastructure of this state, and improving wastewater
+20 treatment will promote economic development and watershed health.
+21 “SECTION 37. (1) For the biennium ending June 30, 2027, at the re-
+22 quest of the Oregon Department of Administrative Services, after the
+23 department consults with the Oregon Business Development Depart-
+24 ment, the State Treasurer is authorized to issue lottery bonds pursu-
+25 ant to ORS 286A.560 to 286A.585 in an amount that produces $2,000,000
+26 in net proceeds for the purposes described in subsection (2) of this
+27 section, plus an additional amount estimated by the State Treasurer
+28 to be necessary to pay bond-related costs.
+29 “(2) Net proceeds of lottery bonds issued under this section must
+30 be transferred to the department for deposit in the OBDD Economic
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 40
+
+1 Development Distributions Fund established under section 28, chapter
+2 748, Oregon Laws 2017, for distribution to the City of Grants Pass for
+3 wastewater infrastructure improvements.
+4 “(3) The Legislative Assembly finds that the use of lottery bond
+5 proceeds will create jobs, further economic development, finance pub-
+6 lic education or restore and protect parks, beaches, watersheds and
+7 native fish and wildlife, and is authorized based on the finding that
+8 wastewater infrastructure is an integral part of the commercial and
+9 industrial infrastructure of this state, and improving wastewater
+10 infrastructure will promote economic development and watershed
+11 health.
+12 “SECTION 38. Section 12, chapter 630, Oregon Laws 2025, is amended to
+13 read:
+14 “Sec. 12. (1) A public university that is carrying out a qualified project
+15 shall require each contractor in a contract with an estimated cost of $200,000
+16 or greater to:
+17 “(a) Employ apprentices to perform 15 percent of the work hours that
+18 workers in apprenticeable occupations perform under the contract, in a
+19 manner consistent with the apprentices’ respective apprenticeship training
+20 programs;
+21 “(b) Establish and execute a plan for outreach, recruitment and retention
+22 of women, minority individuals and veterans to perform work under the
+23 contract, with the aspirational target of having at least 15 percent of total
+24 work hours performed by individuals in one or more of those groups;
+25 “(c) Provide health insurance and retirement benefits to workers em-
+26 ployed by the contractor; and
+27 “(d) Require any subcontractor engaged by the contractor to abide by the
+28 requirements set forth in paragraphs (a), (b) and (c) of this subsection, if the
+29 work to be performed under the subcontract has an estimated cost of $200,000
+30 or greater.
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 41
+
+1 “(2) On or before February 1 of each year, each public university that is
+2 carrying out a qualified project shall report to the Joint Committee on Ways
+3 and Means or Joint Interim Committee on Ways and Means, as part of the
+4 report required under ORS 350.379, on:
+5 “(a) The amount of work performed on qualified projects by apprentices;
+6 “(b) The amount of work performed on qualified projects by women, mi-
+7 nority individuals and veterans; and
+8 “(c) The types and costs of health insurance and retirement benefits pro-
+9 vided to workers by contractors and subcontractors.
+10 “(3) The requirements of this section are in addition to, and not in lieu
+11 of, the requirements imposed under ORS 350.379.
+12 “(4) As used in this section:
+13 “(a) ‘Apprentice’ has the meaning given that term in ORS 660.010.
+14 “(b) ‘Apprenticeable occupation’ has the meaning given that term in ORS
+15 660.010.
+16 “(c) ‘Apprenticeship training program’ means the total system of appren-
+17 ticeship that a particular local joint committee, as defined in ORS 660.010,
+18 operates, including the local joint committee’s registered standards and all
+19 other terms and conditions for qualifying, recruiting, selecting, employing
+20 and training apprentices in an apprenticeable occupation.
+21 “(d) ‘Minority individual’ has the meaning given that term in ORS
+22 200.005.
+23 “(e) ‘Qualified project’ means the following capital construction projects:
+24 “(A) The Portland State University Portland Center for the Performing
+25 Arts Academic Building referenced in section 1 (1)(f) [of this 2025 Act],
+26 chapter 630, Oregon Laws 2025;
+27 “(B) The University of Oregon Child Behavioral Health Building project
+28 referenced in section 1 (1)(g) [of this 2025 Act], chapter 630, Oregon Laws
+29 2025;
+30 “(C) The Southern Oregon University Creative Industries/Student Success
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 42
+
+1 project referenced in section 1 (1)(h) [of this 2025 Act], chapter 630, Oregon
+2 Laws 2025; [and]
+3 “(D) The Western Oregon University Data Center project referenced in
+4 section 1 (1)(i) [of this 2025 Act], chapter 630, Oregon Laws 2025[.]; and
+5 “(E) The Oregon State University, Cascades Student Health and
+6 Recreation Center project referenced in section 1 (1)(j), chapter 630,
+7 Oregon Laws 2025, as amended by section 1 of this 2026 Act.
+8 “(f) ‘Veteran’ has the meaning given that term in ORS 408.225.
+9 “(g) ‘Woman’ has the meaning given that term in ORS 200.005.
+10 “SECTION 39. This 2026 Act being necessary for the immediate
+11 preservation of the public peace, health and safety, an emergency is
+12 declared to exist, and this 2026 Act takes effect on its passage.”.
+13
+SB 5701-2 2/23/26
+Proposed Amendments to SB 5701 Page 43
+
+[DELETED: 5G6G7()H8C9()C0C1FB5C36( p 1 o t p b l 2 a t s d t r t l a d l 3 a 4 a i “ n p s 1 c 7 O L 2 s 1 c 1 S 1 c 6 O L 2 i a t 1 T a a a p b O 2 f i o g o b o t s d t 2 b]
+[DELETED: WdF.$8()KCR.$4()MCR.$8()CM.$70()S1C[2[3[4[5W6T.$57()P8P9P0[1B.$52()U3B.$14()S5C6S.$27()W8D.$79()O0C.$8.$8221P]
+[DELETED: a.$3()OD.$1()OD.$5()D()..$5()OA0S1()H2S3()L4T5[6R.$57()L8T9P.$10()P1H.$82()H3L4(5P.$26()D7()C8R.$59()C0M.$2.$4221P]
+[DELETED: ()IS.$6()WS.$1()S()KW.$1()SP.$10()S1B.$52()T3P.$24()V.$45()S6F7()C8H.$29()N0D.$51()O2O3C4a.$75()J6M.$27()O8()M9S.$60()K221P]
+[DELETED: C.$2()LC.$7()D()APn..$3()SC.$7()O0()C1A.$52()C3I.$54()J5M.$16()M7P8E.$29()C0R.$81()M2R.$43()O4F.$45()T.$16()T7R.$88()D9S0()L221P]
+[DELETED: S.$3()DdM.$3()DQM.$1()HC()PI.$10()U1B.$32()S3C4S.$35()W6D.$17()P8P9P0B.$31()W2H3Rt..$34()O5C6a.$17()S8A9OA..$60()O221P]
+[DELETED: CM.$1()DLS.$1()DEI.$2()O0M1F2O.$13()O4D5M.$16()S7D8A.$29()D0T1s2B.$23D4()D5A.$16()H7C8()P9P0P221P]
+[DELETED: SS.$5()P[Sg..$1()DQ.$2()HS0(.$51()O2A3(4()O5A6L7R8U.$19()S0()K1Rt..$32()S3P.$34()S5B.$16()T7P.$38()V.$69()D0Ag..$8221P]
+[DELETED: ()DACP.$1()DARt..$1()OC0()L1M.$82()L3S.$14()L5a.$46T7[8B.$5REB6D7H8S.$59D0H.$8.$ 2 S 2 c 6 O L 2 i a t 2 T a a a p b O 2 f i o r221P]
+[DELETED: DGV.$3OD.$3OA[Ls..$50T1[2Bs. $ 23P4O5D6D.$67O8D9E0P.$21Oy..$12H3S.$14T5Bs..$26[7T.$5s..$4.$.$ 3 S 3 c 6 O L 2 i a t 3 T a a a p b O 2 f i221P]
+[DELETED:  o c o p a o f a o t o A[].( S t S T m i A X o t s p a a e b t S T p b c b n t e $ s t s t t O D o A S f d i t O A F e i s 3 L 2 ( S B 1 t s c i T S T m i b u t s o T p c f i o d i T a a o n p f b a c o p i o a t b i u t a s 5 o t 2 A d n e $ otp.( i c o p a o f a o A S t S T i a t i c221P]
+[DELETED:  p i a a t p u t $ o n i t b e J 3 2 f t p d S T t p c o i b n t e N p o c o p i u t m b t t t O D o A S f d i t O A F e i c i t t M C a saa T d m i c o p u T p c f i o d i T a a o n p f b a c o p i o a t b i u t a s 4 o t 2 A d n e $ otp.( J 1 2 a t r o t O D o S t S T m i A X o t s p a a e b t S T p b c b n t e $ s t s221P]
+[DELETED:  t t O D o A S f d i t L 2 ( S B 1 t s c i T S T m i b u t s o T p c f i o d i T a a o n p f b a c o p i o a t b i u t a s 7 o t 2 A d n e $ otp.( i c o p a o f a o A S t S T i a t i c p i a a t p u t $ o n i t b b J 1 2 f t p d S T t p c o i b n t e N p o c o p i u t m b t t t O D o A S f d i t O A F e b c i t t M C a saa T d m i c o p u221P]
+[DELETED: 5G6G7()H8C9()C0C.$81()K2C3C.$44()R5T6C.$77()C8C9E0a.$4 T p c f i o d i T a a o n p f b a c o p i o a t b i u t a s 6 o t 2 A d n e $ otp 8 S 1 c 5 O L 2 a 1 c 1 O L 2 a s 1 c 9 O 1 T a a a p b O 2 f i o g o b o t s d t 2 b221P]
+[DELETED: ()CM.$8()OCE.$8()CCfS.$50()L1S2E3R.$84()P5R6[7R8C9B.$80()S1C2S3C4S.$85()U6W7C.$88()U9F.$70()O.$8221P]
+[DELETED: CeIC.$7()PVGP.$4()DQ.$1()O0D.$11()O2D.$53()D4()..$15()O6A7S8()O9()S0S.$21()S2S3L.$54()D5()C6E.$27()S8M.$29()S0C.$7221P]
+[DELETED: ()D()C.$8()CR.$5()WS.$1()O()CR.$90()C1A.$12()C.$33()J4M.$75()M6R.$17()R8I.$19()T.$10()T1D.$82()O3C.$44()D5O6Cs..$37()S8()Cs..$29()T0P.$1221P]
+[DELETED: ()MnA.$4()[].$7()SaI.$2()HSI(0H.$61()H2C3()P4I.$15()F6P.$57()U8F.$69()P0V1G2P.$53()O4T5S6R.$17()S8C9I.$60()O221P]
+[DELETED: ()JUl..$5()P.$3()DEI.$1()LCA0a.$21()J2()B.$13()C4C.$45()M.$16()C.$17()O8E9R0e1O.$52()D3T4s5B.$26D7()D8A.$19()H0C221P]
+[DELETED: ()PS.$8()PVGP.$1()DQ.$2()H0S1(.$52()O3A4(5()Y.$46()S7()Cs..$28()T9P.$10()M.$71()[].$12()D3L4S.$25()O6C7()L8S.$29()L0a.$4221P]
+[DELETED: ()LrWM.$1TB.$ 4 ( F t b b J 1 2 a t r o O D o A S a t d w t O B D D t S i a t i l b p t O 2 t i a a t p $ m i n p f t d i s ( o t s p a a N p o l b i u t s m b t t O B D D f d i  B C F e b s 1 c 7 O 2 f d t t O I P o C B t a w t C B F N C a f t d I P p O E D D F e u s 2 c 7 O L f d t t U F S a W Q c j f e d f p e o a p p b w a n f a w i a b o t  t p f a r a a i p o t c a i221P]
+[DELETED:  o t s a p e d f L a a i p o t c a i 1 S 7 t O B D D t S T i t i l b p t O 2 t 2 i a t p $ m i n p f t p d N p o l b i u t s m b t t d f d i t  E D D F e u s 2 c 7 O 2 f d t t U F S a W Q f l s i a t C t t S R i T C B C F e O I P o C B t d a w t a l a e r t t P C c j f e d f p e o a p p b w a n f a w[221P]
+[DELETED:  L a a i p o t c a i T i a c a r o l w 1 S 1 c 7 O L 2 a a 1 ( T C B C F i e s a f t G F I e b t C B C s b c t t f T m i t C B C a c a t t O B D f t p d i s ( o t s T O L 2 a [] 4 a 4 o t 2 A 6 O L 2 a i e o m i t M i t f a a t t d f d t p s t p t n c s o t n s o e[ 1 S 3 t O B D D t S T i t i l b p t O 2 t 2 i a t p $ m i n p f t p d221P]
+[DELETED:  N p o l b i u t s m b t t O B D D f d  B R F e i O 2 f t $ t t B R F e O 2 f t p d i O 2 a;a $ t t O B P R e i O 2 f t p d i O c j f e d f p e o a p p b w a n f a w r t a v o t p t t r m v T p m p t i f t e u a r b p c j [] f d a s h a c r 1 ( F t b b J 1 2 a t r o O D o A S a t d w t O B D D t S i a t i l b p t O 2 t i a a t p [] $ m i n p m221P]
+[DELETED:  f t p d i s ( o t s p a a e b t S T t b n t pdc N p o l b i u t s m b t t O B D D f d i I S L F e u  1 c 5 L 2 ( H B 2 O 2 f p c j f e d f p e o a p p b w a n f a w i a b o t f t i d t n t s j r t e o l a r 2 ( F t b b J 1 2 a t r o O D o A S a t d w t O B D D t S i a t i l b p t O 2 t[] N p o l b i u t s m b t t d f d i t O E D D F e u s 2 c 7 O f d t t C o E  c a w s t p i l221P]
+[DELETED:  c j f e d f p e o a p p b w a n f a w i a b o t f t w  s i i a i p o t c a i o t s a i w [ 1.S 3 c 6 O L 2 i r.( c w t O H I C t O 2 t 2 i a a t p i n p f t p d i s ( t s p a a a e b t S N p o l b i u t s m t t t d f d i t O E D F e u O 4 f t O H I C C f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f A s s o a h e i O a221P]
+[DELETED:  i d a g g b t s o.( c w t R R R ( C b p t O 2 t 2 i a a t $ i n p f t p d i s N p o l b i u t s m t t t d f d i t O E D F e u O 4 f t t R R R ( S C T L A f t t u o l b e o r a p p b w a f a w a i a b o t f H a w h i e t O A s s o a h e i O a i d a g g b t s o.( c w E C P t S i a t i l b p t O221P]
+[DELETED:  N p o l b i u t s m t t t d f d i t O E D F e u O 4 f t E C P f W W a T L A f t t u o l b e o r a p p b w a f a w a i a b o t f H a w h i e t O A s s o a h e i O a i d a g g b t s o.( c w t N A Y a F t S T i a t i l b p t O 2 t 2 i a a t p i n p f t p d i s ( t s p a a a e b t S N p o l b i u t s m t t t d f d i t O E D F e u O 4 f221P]
+[DELETED:  t t N A Y a F C f f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t.( c w t C O C F a R t S t O 2 t 2 i a a t p i n p f t p d i s ( t s p a a a e b t S N p o l b i u t s m t t t d f d i t O E D F e u O 4 f F a R D f T L A f t t u o l b e o r a p p b w a a n c o a c t f a.(221P]
+[DELETED:  t i l b p t O 2 t 2 i s ( o t s p a a a b t S T t b n t N p o l b i u t s m t t t d f d i t O E D F e u O 4 f t C H f C M t c ssi T L A f t t u o l b e o r a p p b w a f a w a i a b o t f C c e t e v o t r c j a i t q o l f t c W a s b d w l t e.( a t i l b p t O 2 t e b t S T t b n t pdc N p o l b i u t s m221P]
+[DELETED:  t t t d f d i t O E D F e u O 4 f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t s b d w l t e ecd.( c w C C t S T i i s ( o t s p a a a S T t b n t p b N p o l b i u t s m t t t d f d i t O E D F e u O 4 f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t i t p f s a e.(221P]
+[DELETED:  a t i l b p t O 2 t e b t S T t b n t pdc N p o l b i u t s m t t t d f d i t O E D F e u O 4 f t t C o M f A A s i T L A f t t u o l b e o r a p p b w a e a r t i s t.( c w t C o S t S T i i s ( o t s p a a a S T t b n t p b N p o l b i u t s m t t t d f d i t O E D F e u O 4 f221P]
+[DELETED:  T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t p p p i a m.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t C o V f wmi T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t s a a i p o t c a i i w s w p.( c w t O B D D221P]
+[DELETED:  t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t C o G H f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t s a a i p o t c a i i w s w p.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E221P]
+[DELETED:  T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t t p a a i p o t c i i o t s a i w.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t C o P f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t i i.( c w t O B D D221P]
+[DELETED:  t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t T S T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t c s a a i i o t s a i w w p e d a w.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E221P]
+[DELETED: mi T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t s a a i p o t c a i o t s a i.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t C o L f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t i i a i p o t c a i o t s a i w w p e d a w.(221P]
+[DELETED:  c w t O B D D i a t i l b p n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t s a a i p o t c a i i w s w p.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E221P]
+[DELETED:  O L 2 f d t t C o L f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t i i a i p o t c a i o t s a i w w p e d a w.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t C o C f  T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t t p a a i p o t c i i o t s a i w221P]
+[DELETED: .( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E O L 2 f d t t C o S f  T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t t p a a i p o t c i i o t s a i w.( c w t O B D D t S T i a t i n p f t p d i s ( o t p a a a e b t S T N p o l b i u t s m t t t d f d i t O E221P]
+[DELETED:  t t C o G P f T L A f t t u o l b e o r a p p b w a f a w a i a b o t f t i i a i p o t c a i o t s a i w w p e d a w 1 ( A p u t i c o a q p E a t p 1 p o t w h t i a o p u t c i  c w t a r a t w m i a v t p w u t w t a t o h a l 1 p o t P h i a r b t w erg221P]
+[DELETED:  o e y e p u t i M o J I C o W a M a p o t T a o w p o q p b w m T t a c o h T r o t s a i a t a n i l ‘ t p m t t s o a t a p l j c a d i O 6 i t l j c r s a a t a c f q r s e ‘ i h t m g t t i O T P S U P C f t P A B r i s 1 ( [] t 2 A T U o O C B H B p i s 1 ( [] t 2 A221P]
+[DELETED: [][ T W O U D C p r i[][]t T O S U C S H a C p r i s 1 ( c 6 3.T 2 A b n f t i o t p p h a s a e i221P]

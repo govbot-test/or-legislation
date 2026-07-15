@@ -1,0 +1,67 @@
+Title: HOUSE BILL 4143
+Official Title: HOUSE BILL 4143
+Number of Sections: 1
+Source: versions - HRULES Amendment -1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB 4143-1
+(LC 175)
+2/9/26 (DFY/ps)
+Requested by Representative CHOTZEN
+PROPOSED AMENDMENTS TO
+1 On page 1 of the printed bill, delete lines 11 through 13 and insert:
+2 “(c) ‘Qualified payment’ means moneys that a state agency is obligated
+3 to transfer to the federal government pursuant to contract or federal law,
+4 but excluding:
+5 “(A) Payroll taxes for officers or employees of state agencies;
+6 “(B) Amounts voluntarily withheld from unemployment insurance and
+7 paid family and medical leave insurance benefits for federal income tax
+8 purposes; and
+9 “(C) Any revenues collected or overpaid benefits recovered pursuant to
+10 the Federal Unemployment Tax Act or ORS chapter 657.”.
+11 On page 2, after line 17, insert:
+12 “SECTION 3. (1) Sections 1 and 2 of this 2026 Act are repealed on
+13 January 2, 2037.
+14 “(2) Any moneys remaining in the Federal Moneys Holding Account
+15 established under section 2 of this 2026 Act on the date specified in
+16 subsection (1) of this section shall be transferred to the General Fund
+17 to be used for general governmental purposes.”.
+18 In line 18, delete “3” and insert “4”.
+19
+[DELETED: B4C16( ‘ p m m t a s a i o t t t f g p t c o f lte A v w f u i a f a m l i b f f i t;a A r c o o b r p t 3.( S 1 a 2 o t 2 A a r o u s 2 o t 2 A o t d s i]
+
+
+================================================================================
+
+Raw Text:
+HB 4143-1
+(LC 175)
+2/9/26 (DFY/ps)
+Requested by Representative CHOTZEN
+PROPOSED AMENDMENTS TO
+HOUSE BILL 4143
+1 On page 1 of the printed bill, delete lines 11 through 13 and insert:
+2 “(c) ‘Qualified payment’ means moneys that a state agency is obligated
+3 to transfer to the federal government pursuant to contract or federal law,
+4 but excluding:
+5 “(A) Payroll taxes for officers or employees of state agencies;
+6 “(B) Amounts voluntarily withheld from unemployment insurance and
+7 paid family and medical leave insurance benefits for federal income tax
+8 purposes; and
+9 “(C) Any revenues collected or overpaid benefits recovered pursuant to
+10 the Federal Unemployment Tax Act or ORS chapter 657.”.
+11 On page 2, after line 17, insert:
+12 “SECTION 3. (1) Sections 1 and 2 of this 2026 Act are repealed on
+13 January 2, 2037.
+14 “(2) Any moneys remaining in the Federal Moneys Holding Account
+15 established under section 2 of this 2026 Act on the date specified in
+16 subsection (1) of this section shall be transferred to the General Fund
+17 to be used for general governmental purposes.”.
+18 In line 18, delete “3” and insert “4”.
+19
+
+[DELETED: B4C16( ‘ p m m t a s a i o t t t f g p t c o f lte A v w f u i a f a m l i b f f i t;a A r c o o b r p t 3.( S 1 a 2 o t 2 A a r o u s 2 o t 2 A o t d s i]

@@ -1,0 +1,366 @@
+Title: B-ENGROSSED HOUSE BILL 4084
+Official Title: B-ENGROSSED HOUSE BILL 4084
+Number of Sections: 1
+Source: versions - JWM Amendment -B26
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+HB 4084-B26
+(LC 109)
+3/2/26 (ASD/ps)
+Requested by JOINT COMMITTEE ON WAYS AND MEANS
+PROPOSED AMENDMENTS TO
+1 On page 1 of the printed B-engrossed bill, line 3, after “285C.210” insert
+2 “and section 12, chapter ___, Oregon Laws 2026 (Enrolled Senate Bill
+3 1507)”.
+4 On page 6, line 44, after “(1)” insert “(a)”.
+5 On page 7, after line 3, insert:
+6 “(b) Notwithstanding paragraph (a) of this subsection, the exemption pe-
+7 riod may not be extended under this section for qualified property used in
+8 operating a data center.”.
+9 On page 8, after line 22, insert:
+10 “(d) This subsection does not apply with respect to qualified property of
+11 an authorized business firm used in operating a data center.”.
+12 On page 11, after line 17, insert:
+13 “SECTION 11a. Section 11b of this 2026 Act is added to and made a
+14 part of ORS 285C.050 to 285C.250.
+15 “SECTION 11b. Notwithstanding any other provision of law, an eli-
+16 gible business firm may not be authorized under ORS 285C.140 with
+17 respect to property consisting of a data center project before the date
+18 that is 90 days following the date on which the 2027 regular session of
+19 the Legislative Assembly adjourns sine die.
+20 “SECTION 11c. Section 11b of this 2026 Act is repealed on January
+21 2, 2029.”.
+1 On page 14, delete lines 11 through 19 and insert:
+2 “SECTION 16. If Senate Bill 1507 becomes law, section 12, chapter
+3 , Oregon Laws 2026 (Enrolled Senate Bill 1507), is amended to read:
+4 “Sec. 12. [(1) A credit against taxes that are otherwise due under ORS
+5 chapter 316 or, if the taxpayer is a corporation, under ORS chapter 317 or 318
+6 is allowed to a taxpayer for each new job in Oregon created by the taxpayer
+7 during the tax year.]
+8 “(1) As used in this section:
+9 “(a)(A) ‘Advanced manufacturing’ means activities that:
+10 “(i) Depend on the use and coordination of information, auto-
+11 mation, computation, software, industrial sensors and networking;
+12 “(ii) Make use of newly developed materials and processes enabled
+13 by the physical and biological sciences, including but not limited to
+14 nanotechnology, chemistry and biology;
+15 “(iii) Involve both new ways to manufacture existing products and
+16 the manufacture of new products emerging from new advanced tech-
+17 nologies; or
+18 “(iv) As applied to biotechnology and life sciences activities, are
+19 related research, development, scale-up and enabling technology ac-
+20 tivities integral to the production of biological, medical or biobased
+21 products.
+22 “(B) ‘Advanced manufacturing’ does not include activities that are
+23 primarily:
+24 “(i) Routine assembly, packaging, labeling, sorting, warehousing,
+25 storage or distribution;
+26 “(ii) Basic fabrication, machining or processing that does not in-
+27 corporate advanced technologies or materially transform products or
+28 production processes;
+29 “(iii) Maintenance, repair or refurbishment of machinery, equip-
+30 ment or products; or
+HB 4084-B26 3/2/26
+Proposed Amendments to B-Eng. HB 4084 Page 2
+1 “(iv) Administrative, clerical, sales, marketing or other nonprod-
+2 uction activities.
+3 “(b) ‘Clean technology’ means the manufacture or provision of, or
+4 research or development supporting the manufacture or provision of,
+5 products or services that enable energy to be produced from renewable
+6 sources, that reduce negative environmental impacts or that reduce
+7 energy consumption.
+8 “(c) ‘High technology’ means software, information technology and
+9 semiconductor or related device manufacturing.
+10 “(d) ‘Qualified industry’ means businesses that operate in any of
+11 the following sectors:
+12 “(A) Advanced manufacturing;
+13 “(B) Bioscience and biotechnology;
+14 “(C) Clean technology;
+15 “(D) Food and beverage processing;
+16 “(E) Forestry and wood products;
+17 “(F) High technology; or
+18 “(G) Outdoor gear and apparel.
+19 “(2) A credit against taxes that are otherwise due under ORS
+20 chapter 316 or, if the taxpayer is a corporation, under ORS chapter 317
+21 or 318 is allowed to a taxpayer that is engaged in a qualified industry
+22 as a primary business, for each new job in Oregon created by the
+23 taxpayer during the tax year in a qualified industry.
+24 “[(2)(a)] (3)(a) The credit allowed under this section shall be in the
+25 amount of $1,000 for each net new job created by a taxpayer in the tax year,
+26 but a taxpayer may not be certified for and may not receive a credit for more
+27 than 10 new jobs created per tax year.
+28 “(b) In order to be considered in the determination under this section of
+29 the eligibility and allowable credit amount for any taxpayer, an employment
+30 position must have compensation that is equal to or greater than 150 percent
+HB 4084-B26 3/2/26
+Proposed Amendments to B-Eng. HB 4084 Page 3
+1 of the applicable minimum wage determined under ORS 653.025.
+2 “(c) The number of net new jobs created by the taxpayer in a tax year
+3 shall be determined by comparing the average annual covered employment
+4 of the taxpayer for the 12 months ending on June 30 of the calendar year in
+5 which the taxpayer’s tax year began and for which the credit is sought, with
+6 the 12 months ending on June 30 of the immediately preceding calendar year.
+7 “[(3) Prior to claiming the credit allowed under this section, a taxpayer
+8 seeking to claim the credit is required to receive written certification of eligi-
+9 bility from the Oregon Business Development Department. In order to receive
+10 certification, a taxpayer must attest that the taxpayer has created new jobs
+11 sufficient to be eligible for the amount of credit sought, has met the wage re-
+12 quirements of subsection (2)(b) of this section and is otherwise in compliance
+13 with this section. The certification shall indicate the amount of the credit to
+14 which the taxpayer is entitled for the tax year.]
+15 “(4) Prior to claiming the credit allowed under this section, a tax-
+16 payer seeking to claim the credit is required to receive written certi-
+17 fication of eligibility from the Oregon Business Development
+18 Department. In order to receive certification, a taxpayer must attest
+19 that the taxpayer:
+20 “(a) Is engaged as the taxpayer’s primary business in a qualified
+21 industry;
+22 “(b) Has created new jobs sufficient to be eligible for the amount
+23 of credit sought; and
+24 “(c) Has met the wage requirements of subsection (3)(b) of this
+25 section and is otherwise in compliance with this section.
+26 “(5) The certification shall indicate the amount of the credit to
+27 which the taxpayer is entitled for the tax year.
+28 “[(4)] (6) The credit allowed under this section may not exceed the tax
+29 liability of the taxpayer for the tax year.
+30 “[(5)] (7) Any tax credit otherwise allowable under this section that is
+HB 4084-B26 3/2/26
+Proposed Amendments to B-Eng. HB 4084 Page 4
+1 not used by the taxpayer in a particular tax year may be carried forward and
+2 offset against the taxpayer’s tax liability for the next succeeding tax year.
+3 Any credit remaining unused in the next succeeding tax year may be carried
+4 forward and used in the second succeeding tax year, and likewise any credit
+5 not used in that second succeeding tax year may be carried forward and used
+6 in the third succeeding tax year but may not be carried forward for any other
+7 succeeding tax year.
+8 “[(6)] (8) The Oregon Business Development Department shall provide
+9 information to the Department of Revenue about all taxpayers that are eli-
+10 gible for a tax credit under this section, if required by ORS 315.058.
+11 “[(7)] (9) Information received by the Oregon Business Development De-
+12 partment pursuant to this section may be used only for the purpose of cer-
+13 tification and administration of the credit. The Oregon Business
+14 Development Department may disclose this information to entities other than
+15 the Department of Revenue only if the information is sufficiently aggregated
+16 or anonymized to protect the identity and confidential information of tax-
+17 payers.
+18 “[(8)] (10) The Director of the Oregon Business Development Department
+19 may order the suspension or revocation of a certification issued under this
+20 section, as provided in ORS 315.061.
+21 “[(9) The Oregon Business Development Department shall by rule
+22 establish:]
+23 “[(a) The form and content of and deadlines for applications for the credit
+24 allowed under this section.]
+25 “[(b) Methodology for determining net new jobs created, as provided in
+26 subsection (2) of this section, in the instance of a merger, conversion, reor-
+27 ganization, consolidation or acquisition affecting a taxpayer.]
+28 “(11) The Oregon Business Development Department shall by rule:
+29 “(a) Establish the form and content of and deadlines for applica-
+30 tions for the credit allowed under this section.
+HB 4084-B26 3/2/26
+Proposed Amendments to B-Eng. HB 4084 Page 5
+1 “(b) Establish methodology for determining net new jobs created,
+2 as provided in subsection (3) of this section, in the instance of a
+3 merger, conversion, reorganization, consolidation or acquisition af-
+4 fecting a taxpayer.
+5 “(c) Further define the term ‘qualified industry’ for purposes of this
+6 section.
+7 “SECTION 17. This 2026 Act takes effect on the 91st day after the
+8 date on which the 2026 regular session of the Eighty-third Legislative
+9 Assembly adjourns sine die.”.
+10
+HB 4084-B26 3/2/26
+Proposed Amendments to B-Eng. HB 4084 Page 6
+[DELETED: B4C16( p 1 o t p B b l 3 a “ i s 1 c _ O L 2 ( S B N p ( o t s t e p m n b e u t s f q p u i T s d n a w r t q p o.S.N b f m n b a u O 2 w 1.S 1 o t 2 A]
+[DELETED:  1 I S B 1 b l s 1 c 1  A c a t t a o d u O a t a t f e n j i O c b t t D o t u a c o i a M u o n d m a p e t p a b s i b n l t I b n w t m e m o n p e f n a t;o A a t b a l s a a r d s a e t a i t t p o b m o b a R a p l s w B f m o p t d n i a t o m t p onp M r o r o m e634P]
+[DELETED:  A c s m o o nna ‘ t m t m o p o o o d s t m o p o t r n e i o t ryc ‘ i m b t o i a o A c a t t a o d u O i a p b f e n j i O c b t[] ( T c a u t s s b i t I o t b c i t d u t s o634P]
+[DELETED:  T n o n n j c b t t i a t y b d b c t a a c e P t c t c a u t s a t t c t c i r t r w c o e f t O B D D I o t r a t m a t t t h c n j t b e f t a o c s h m t w r o s ( o t s a i o i c t s.T c s i t a o t c t P t c t c a u t s a t t c t c i r t r w c o e f t O B D I o t r c a t m a I e a t t p b i a q H c n j s t b e f t a H m t w r o s ( o t T c s i t a o t c t[] ( T c a u t s m n e t t[] ( A t c o a u t s t i634P]
+[DELETED:  a t t t l f t n s t y[]( T O B D D s p t t D o R a a t t a e[] ( I r b t O B D D p t t s m b u o f t p o c a a o t c.T O B a t p t i a c i o t[] ( T D o t o t s o r o a c i u t T O B D D s byr a f t c M f d n n j c a p i ( o t s i t i o a m c r E t f a c o a d f a634P]
+[DELETED:  E m f d n n j c p i s ( o t s i t i o  c r c o a a 1.T 2 A t e o t 9 d a t o t E L634P]
+
+
+================================================================================
+
+Raw Text:
+HB 4084-B26
+(LC 109)
+3/2/26 (ASD/ps)
+Requested by JOINT COMMITTEE ON WAYS AND MEANS
+PROPOSED AMENDMENTS TO
+B-ENGROSSED HOUSE BILL 4084
+1 On page 1 of the printed B-engrossed bill, line 3, after “285C.210” insert
+2 “and section 12, chapter ___, Oregon Laws 2026 (Enrolled Senate Bill
+3 1507)”.
+4 On page 6, line 44, after “(1)” insert “(a)”.
+5 On page 7, after line 3, insert:
+6 “(b) Notwithstanding paragraph (a) of this subsection, the exemption pe-
+7 riod may not be extended under this section for qualified property used in
+8 operating a data center.”.
+9 On page 8, after line 22, insert:
+10 “(d) This subsection does not apply with respect to qualified property of
+11 an authorized business firm used in operating a data center.”.
+12 On page 11, after line 17, insert:
+13 “SECTION 11a. Section 11b of this 2026 Act is added to and made a
+14 part of ORS 285C.050 to 285C.250.
+15 “SECTION 11b. Notwithstanding any other provision of law, an eli-
+16 gible business firm may not be authorized under ORS 285C.140 with
+17 respect to property consisting of a data center project before the date
+18 that is 90 days following the date on which the 2027 regular session of
+19 the Legislative Assembly adjourns sine die.
+20 “SECTION 11c. Section 11b of this 2026 Act is repealed on January
+21 2, 2029.”.
+
+1 On page 14, delete lines 11 through 19 and insert:
+2 “SECTION 16. If Senate Bill 1507 becomes law, section 12, chapter
+3 , Oregon Laws 2026 (Enrolled Senate Bill 1507), is amended to read:
+4 “Sec. 12. [(1) A credit against taxes that are otherwise due under ORS
+5 chapter 316 or, if the taxpayer is a corporation, under ORS chapter 317 or 318
+6 is allowed to a taxpayer for each new job in Oregon created by the taxpayer
+7 during the tax year.]
+8 “(1) As used in this section:
+9 “(a)(A) ‘Advanced manufacturing’ means activities that:
+10 “(i) Depend on the use and coordination of information, auto-
+11 mation, computation, software, industrial sensors and networking;
+12 “(ii) Make use of newly developed materials and processes enabled
+13 by the physical and biological sciences, including but not limited to
+14 nanotechnology, chemistry and biology;
+15 “(iii) Involve both new ways to manufacture existing products and
+16 the manufacture of new products emerging from new advanced tech-
+17 nologies; or
+18 “(iv) As applied to biotechnology and life sciences activities, are
+19 related research, development, scale-up and enabling technology ac-
+20 tivities integral to the production of biological, medical or biobased
+21 products.
+22 “(B) ‘Advanced manufacturing’ does not include activities that are
+23 primarily:
+24 “(i) Routine assembly, packaging, labeling, sorting, warehousing,
+25 storage or distribution;
+26 “(ii) Basic fabrication, machining or processing that does not in-
+27 corporate advanced technologies or materially transform products or
+28 production processes;
+29 “(iii) Maintenance, repair or refurbishment of machinery, equip-
+30 ment or products; or
+HB 4084-B26 3/2/26
+Proposed Amendments to B-Eng. HB 4084 Page 2
+
+1 “(iv) Administrative, clerical, sales, marketing or other nonprod-
+2 uction activities.
+3 “(b) ‘Clean technology’ means the manufacture or provision of, or
+4 research or development supporting the manufacture or provision of,
+5 products or services that enable energy to be produced from renewable
+6 sources, that reduce negative environmental impacts or that reduce
+7 energy consumption.
+8 “(c) ‘High technology’ means software, information technology and
+9 semiconductor or related device manufacturing.
+10 “(d) ‘Qualified industry’ means businesses that operate in any of
+11 the following sectors:
+12 “(A) Advanced manufacturing;
+13 “(B) Bioscience and biotechnology;
+14 “(C) Clean technology;
+15 “(D) Food and beverage processing;
+16 “(E) Forestry and wood products;
+17 “(F) High technology; or
+18 “(G) Outdoor gear and apparel.
+19 “(2) A credit against taxes that are otherwise due under ORS
+20 chapter 316 or, if the taxpayer is a corporation, under ORS chapter 317
+21 or 318 is allowed to a taxpayer that is engaged in a qualified industry
+22 as a primary business, for each new job in Oregon created by the
+23 taxpayer during the tax year in a qualified industry.
+24 “[(2)(a)] (3)(a) The credit allowed under this section shall be in the
+25 amount of $1,000 for each net new job created by a taxpayer in the tax year,
+26 but a taxpayer may not be certified for and may not receive a credit for more
+27 than 10 new jobs created per tax year.
+28 “(b) In order to be considered in the determination under this section of
+29 the eligibility and allowable credit amount for any taxpayer, an employment
+30 position must have compensation that is equal to or greater than 150 percent
+HB 4084-B26 3/2/26
+Proposed Amendments to B-Eng. HB 4084 Page 3
+
+1 of the applicable minimum wage determined under ORS 653.025.
+2 “(c) The number of net new jobs created by the taxpayer in a tax year
+3 shall be determined by comparing the average annual covered employment
+4 of the taxpayer for the 12 months ending on June 30 of the calendar year in
+5 which the taxpayer’s tax year began and for which the credit is sought, with
+6 the 12 months ending on June 30 of the immediately preceding calendar year.
+7 “[(3) Prior to claiming the credit allowed under this section, a taxpayer
+8 seeking to claim the credit is required to receive written certification of eligi-
+9 bility from the Oregon Business Development Department. In order to receive
+10 certification, a taxpayer must attest that the taxpayer has created new jobs
+11 sufficient to be eligible for the amount of credit sought, has met the wage re-
+12 quirements of subsection (2)(b) of this section and is otherwise in compliance
+13 with this section. The certification shall indicate the amount of the credit to
+14 which the taxpayer is entitled for the tax year.]
+15 “(4) Prior to claiming the credit allowed under this section, a tax-
+16 payer seeking to claim the credit is required to receive written certi-
+17 fication of eligibility from the Oregon Business Development
+18 Department. In order to receive certification, a taxpayer must attest
+19 that the taxpayer:
+20 “(a) Is engaged as the taxpayer’s primary business in a qualified
+21 industry;
+22 “(b) Has created new jobs sufficient to be eligible for the amount
+23 of credit sought; and
+24 “(c) Has met the wage requirements of subsection (3)(b) of this
+25 section and is otherwise in compliance with this section.
+26 “(5) The certification shall indicate the amount of the credit to
+27 which the taxpayer is entitled for the tax year.
+28 “[(4)] (6) The credit allowed under this section may not exceed the tax
+29 liability of the taxpayer for the tax year.
+30 “[(5)] (7) Any tax credit otherwise allowable under this section that is
+HB 4084-B26 3/2/26
+Proposed Amendments to B-Eng. HB 4084 Page 4
+
+1 not used by the taxpayer in a particular tax year may be carried forward and
+2 offset against the taxpayer’s tax liability for the next succeeding tax year.
+3 Any credit remaining unused in the next succeeding tax year may be carried
+4 forward and used in the second succeeding tax year, and likewise any credit
+5 not used in that second succeeding tax year may be carried forward and used
+6 in the third succeeding tax year but may not be carried forward for any other
+7 succeeding tax year.
+8 “[(6)] (8) The Oregon Business Development Department shall provide
+9 information to the Department of Revenue about all taxpayers that are eli-
+10 gible for a tax credit under this section, if required by ORS 315.058.
+11 “[(7)] (9) Information received by the Oregon Business Development De-
+12 partment pursuant to this section may be used only for the purpose of cer-
+13 tification and administration of the credit. The Oregon Business
+14 Development Department may disclose this information to entities other than
+15 the Department of Revenue only if the information is sufficiently aggregated
+16 or anonymized to protect the identity and confidential information of tax-
+17 payers.
+18 “[(8)] (10) The Director of the Oregon Business Development Department
+19 may order the suspension or revocation of a certification issued under this
+20 section, as provided in ORS 315.061.
+21 “[(9) The Oregon Business Development Department shall by rule
+22 establish:]
+23 “[(a) The form and content of and deadlines for applications for the credit
+24 allowed under this section.]
+25 “[(b) Methodology for determining net new jobs created, as provided in
+26 subsection (2) of this section, in the instance of a merger, conversion, reor-
+27 ganization, consolidation or acquisition affecting a taxpayer.]
+28 “(11) The Oregon Business Development Department shall by rule:
+29 “(a) Establish the form and content of and deadlines for applica-
+30 tions for the credit allowed under this section.
+HB 4084-B26 3/2/26
+Proposed Amendments to B-Eng. HB 4084 Page 5
+
+1 “(b) Establish methodology for determining net new jobs created,
+2 as provided in subsection (3) of this section, in the instance of a
+3 merger, conversion, reorganization, consolidation or acquisition af-
+4 fecting a taxpayer.
+5 “(c) Further define the term ‘qualified industry’ for purposes of this
+6 section.
+7 “SECTION 17. This 2026 Act takes effect on the 91st day after the
+8 date on which the 2026 regular session of the Eighty-third Legislative
+9 Assembly adjourns sine die.”.
+10
+HB 4084-B26 3/2/26
+Proposed Amendments to B-Eng. HB 4084 Page 6
+
+[DELETED: B4C16( p 1 o t p B b l 3 a “ i s 1 c _ O L 2 ( S B N p ( o t s t e p m n b e u t s f q p u i T s d n a w r t q p o.S.N b f m n b a u O 2 w 1.S 1 o t 2 A]
+[DELETED:  1 I S B 1 b l s 1 c 1  A c a t t a o d u O a t a t f e n j i O c b t t D o t u a c o i a M u o n d m a p e t p a b s i b n l t I b n w t m e m o n p e f n a t;o A a t b a l s a a r d s a e t a i t t p o b m o b a R a p l s w B f m o p t d n i a t o m t p onp M r o r o m e634P]
+[DELETED:  A c s m o o nna ‘ t m t m o p o o o d s t m o p o t r n e i o t ryc ‘ i m b t o i a o A c a t t a o d u O i a p b f e n j i O c b t[] ( T c a u t s s b i t I o t b c i t d u t s o634P]
+[DELETED:  T n o n n j c b t t i a t y b d b c t a a c e P t c t c a u t s a t t c t c i r t r w c o e f t O B D D I o t r a t m a t t t h c n j t b e f t a o c s h m t w r o s ( o t s a i o i c t s.T c s i t a o t c t P t c t c a u t s a t t c t c i r t r w c o e f t O B D I o t r c a t m a I e a t t p b i a q H c n j s t b e f t a H m t w r o s ( o t T c s i t a o t c t[] ( T c a u t s m n e t t[] ( A t c o a u t s t i634P]
+[DELETED:  a t t t l f t n s t y[]( T O B D D s p t t D o R a a t t a e[] ( I r b t O B D D p t t s m b u o f t p o c a a o t c.T O B a t p t i a c i o t[] ( T D o t o t s o r o a c i u t T O B D D s byr a f t c M f d n n j c a p i ( o t s i t i o a m c r E t f a c o a d f a634P]
+[DELETED:  E m f d n n j c p i s ( o t s i t i o  c r c o a a 1.T 2 A t e o t 9 d a t o t E L634P]

@@ -1,0 +1,1069 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - A-Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+A-Engrossed
+Senate Bill 1544
+Ordered by the Senate February 19
+Including Senate Amendments dated February 19
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Transportation)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act tells ODOT to report on its progress with current requirements. The
+Act tells ODOT to create a database like WDOT has and create a transportation university
+like other states have. The Act tells the director of ODOT to use the central office for
+project delivery work instead of the regional offices. The Act ends the JCT. The Act changes
+laws about dismantlers. The Act says certain entities may get funds to provide public
+transportation services. (Flesch Readability Score: 60.8).
+[Digest: The Act says that ODOT must study speed bumps. (Flesch Readability Score: 94.3).]
+[Requires the Department of Transportation to study the development of uniform standards for
+speed bump height and markings.]
+[Sunsets January 2, 2028.]
+Directs the Department of Transportation to report on a required audit, progress in im-
+plementing design practices, establishing a transportation university and the creation of a
+database equivalent to one created by the State of Washington.
+Directs the Director of Transportation to centralize project delivery efforts.
+Eliminates the Joint Committee on Transportation.
+Makes changes to laws regulating dismantlers.
+Expands the definition of “qualified entity” for purposes of public transportation funding.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to transportation; creating new provisions; amending ORS 184.649, 184.657, 184.665, 184.752,
+3 366.506, 822.125, 822.140, 824.016 and 824.400 and sections 1 and 3, chapter 323, Oregon Laws
+4 2023, section 5, chapter 428, Oregon Laws 2023, and sections 8 and 14, chapter 1, Oregon Laws
+5 2025 (special session); repealing ORS 171.858 and 171.861; and prescribing an effective date.
+6 Be It Enacted by the People of the State of Oregon:
+7
+8 DEPARTMENT OF TRANSPORTATION
+9
+10 SECTION 1. Not later than December 31, 2027, the Department of Transportation shall
+11 report to the committees or interim committees of the Legislative Assembly related to
+12 transportation on:
+13 (1) The department’s progress in implementing the recommendations resulting from the
+14 audit required under section 1, chapter 1, Oregon Laws 2025 (special session).
+15 (2) The department’s progress in implementing transportation design practices as pro-
+16 vided in ORS 184.748.
+17 (3) The department’s progress in establishing a department of transportation university
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 279
+A-Eng. SB 1544
+1 as required under section 6 of this 2026 Act.
+2 SECTION 2. Section 1 of this 2026 Act is repealed on January 2, 2028.
+3 SECTION 3. (1) The Department of Transportation shall create a database equivalent to
+4 the Washington State Department of Transportation Gray Notebook.
+5 (2) The Department of Transportation shall report each calendar quarter to a committee
+6 or interim committee of the Legislative Assembly related to transportation on the
+7 department’s progress in creating the database.
+8 SECTION 4. Not later than December 27, 2027, the Department of Transportation shall
+9 assess the needs of the department for training on best practices, including but not limited
+10 to best practices for community engagement, project delivery and effective multimodal safety
+11 design.
+12 SECTION 5. Section 4 of this 2026 Act is repealed on January 1, 2028.
+13 SECTION 6. The Department of Transportation shall establish a department of trans-
+14 portation university, based on a survey of other state departments of transportation that
+15 use a department of transportation university system.
+16 SECTION 7. (1) As used in this section:
+17 (a) “Highway” has the meaning given that term in ORS 366.005.
+18 (b) “Transportation project” has the meaning given that term in ORS 367.010.
+19 (2) Notwithstanding ORS 184.633, to maximize efficient transportation project delivery
+20 and minimize redundant efforts, the Director of Transportation shall centralize project de-
+21 livery efforts and focus the efforts and duties of the regional offices of the department on
+22 highway operation and maintenance.
+23
+24 REPEAL OF JOINT COMMITTEE ON TRANSPORTATION
+25
+26 SECTION 8. ORS 171.858 and 171.861 are repealed.
+27 SECTION 9. ORS 184.649 is amended to read:
+28 184.649. The Oregon Transportation Commission shall report on audits of the Department of
+29 Transportation to the Joint Legislative Audit Committee established by ORS 171.580 and to [the
+30 Joint Committee on Transportation established by ORS 171.858] the committees or interim com-
+31 mittees of the Legislative Assembly related to transportation, at least once each biennium.
+32 SECTION 10. ORS 184.657 is amended to read:
+33 184.657. (1) The Oregon Transportation Commission shall develop a set of uniform standards, in
+34 coordination with counties and cities, for the consistent description and reporting of the condition
+35 of the transportation infrastructure owned by the state, counties and cities. The infrastructure de-
+36 scribed must include pavement and bridges.
+37 (2) By February 1 of each odd-numbered year, every city and county shall submit a report cov-
+38 ering the condition of its transportation infrastructure.
+39 (3) The commission shall periodically review the condition of the transportation infrastructure
+40 owned by the state and the reports submitted under this section. The commission shall post the re-
+41 ports and the commission’s review of the reports on the website described in ORS 184.661.
+42 (4) Notwithstanding ORS 366.762 to 366.768 or 366.785 to 366.820, any city or county failing to
+43 file a report under this section may not receive any payments from the State Highway Fund until
+44 the report is filed.
+45 (5) Not later than June 1 of each odd-numbered year, the commission shall submit a report about
+[2]
+A-Eng. SB 1544
+1 the state of the transportation infrastructure of Oregon, including the transportation infrastructure
+2 of cities and counties, to:
+3 (a) The Legislative Assembly in the manner provided by ORS 192.245; and
+4 [(b) The Joint Committee on Transportation established under ORS 171.858.]
+5 (b) The committees or interim committees of the Legislative Assembly related to trans-
+6 portation.
+7 SECTION 11. ORS 184.665, as amended by section 5, chapter 1, Oregon Laws 2025 (special
+8 session), is amended to read:
+9 184.665. (1) As used in this section:
+10 (a) “Chief engineer” means the person appointed by the Director of Transportation under ORS
+11 184.628.
+12 (b) “Major project” means a transportation project that costs $250 million or more to complete.
+13 (2) The Oregon Transportation Commission shall appoint a Continuous Improvement Advisory
+14 Committee. The members of the committee shall include, but are not limited to, the following:
+15 (a) Members of the commission;
+16 (b) The Director of Transportation;
+17 (c) The chief engineer;
+18 (d) Individuals with demonstrated expertise in planning, executing and delivering major projects;
+19 and
+20 (e) At least one individual with demonstrated knowledge and experience in the application and
+21 implementation of the National Environmental Policy Act.
+22 (3) The committee shall:
+23 (a) Advise the commission on ways to maximize the efficiency of the Department of Transpor-
+24 tation to allow increased investment in the transportation system over the short, medium and long
+25 term.
+26 (b) Develop key performance measures, based on desired outcomes, for each division of the de-
+27 partment. The committee shall submit key performance measures to the commission for its approval.
+28 The committee shall report quarterly to the commission and to the [Joint Committee on Transporta-
+29 tion] committees or interim committees of the Legislative Assembly related to transportation
+30 on the status of key performance measures and what steps are being taken by the department to
+31 achieve the goals of the key performance measures.
+32 (4) The Continuous Improvement Advisory Committee shall report quarterly to the commission
+33 and to the [Joint Committee on Transportation] committees or interim committees of the Legis-
+34 lative Assembly related to transportation. The reports must include recommendations on ways
+35 the commission and the department may execute their duties more efficiently.
+36 (5) The Continuous Improvement Advisory Committee shall meet at least once a month, at times
+37 and places fixed by the chairperson of the committee or a majority of members of the committee.
+38 (6) The department shall provide office space and personnel to assist the committee as requested
+39 by the chairperson, within the limits of available funds.
+40 (7) Members of the committee are entitled to compensation and expenses as provided under ORS
+41 292.495.
+42 SECTION 12. Section 1, chapter 323, Oregon Laws 2023, is amended to read:
+43 Sec. 1. (1) The Jurisdictional Transfer Advisory Committee is established within the Department
+44 of Transportation.
+45 (2) The committee consists of 11 members appointed by the Governor. The members of the
+[3]
+A-Eng. SB 1544
+1 committee shall include:
+2 (a) Two members who are transportation engineers;
+3 (b) Two members who represent cities and who have experience working on transportation
+4 projects;
+5 (c) One member who represents a county and who has experience working on transportation
+6 projects;
+7 (d) One member who represents a regional government and who has experience working on
+8 transportation projects;
+9 (e) One member who represents road users;
+10 (f) One member who represents law enforcement;
+11 (g) One member who represents transit users;
+12 (h) One member who represents the advisory committee on bicycle traffic established in ORS
+13 366.112; and
+14 (i) One member who represents the Transportation Safety Committee established in ORS 802.300.
+15 (3) The Governor shall appoint members to the Jurisdictional Transfer Advisory Committee so
+16 that there is at least one member of the committee from each congressional district in this state.
+17 (4) The Jurisdictional Transfer Advisory Committee shall, from the jurisdictional transfer appli-
+18 cations submitted under section 3 of this 2023 Act:
+19 (a) Review the applications; and
+20 (b) Develop a list of three jurisdictional transfers to recommend for funding.
+21 (5) The committee shall actively solicit reviews and comments from the Oregon Transportation
+22 Commission in the development of the list described in subsection (4)(b) of this section. The com-
+23 mittee shall also shall take into consideration the following:
+24 (a) The difference between the applicant’s and the department’s standards of maintenance;
+25 (b) The amount of deferred maintenance;
+26 (c) A description of how the highway is used in the community;
+27 (d) The climate impact of a transfer and subsequent upgrades the applicant could provide;
+28 (e) The potential positive impacts on historically underserved groups;
+29 (f) The increase in multimodal transportation options provided by a transfer;
+30 (g) A description of the safety issues that exist; and
+31 (h) A transfer readiness assessment that may include:
+32 (A) The interest of the community;
+33 (B) Funding capacity of the applicant for the transfer and maintenance in the future; and
+34 (C) The existing condition of the highway and its current state of maintenance.
+35 (6) No later than September 15 of each even-numbered year, the Jurisdictional Transfer Advisory
+36 Committee shall submit a report to the [Joint Committee on Transportation] committees or interim
+37 committees of the Legislative Assembly related to transportation, in the manner provided in
+38 ORS 192.245, that includes the list of jurisdictional transfers recommended for funding under sub-
+39 section (4)(b) of this section.
+40 (7) The term of office of each member of the Jurisdictional Transfer Advisory Committee is four
+41 years, but a member serves at the pleasure of the Governor. Before the expiration of the term of a
+42 member, the Governor shall appoint a successor whose term begins on January 1 next following. A
+43 member is eligible for reappointment. However, a member of the committee may not serve more than
+44 two terms. If there is a vacancy for any cause, the Governor shall make an appointment to become
+45 immediately effective for the unexpired term. When a vacancy occurs in an appointment made from
+[4]
+A-Eng. SB 1544
+1 a congressional district, the successor shall be appointed from the congressional district for which
+2 the vacancy exists.
+3 (8) A majority of the members of the committee constitutes a quorum for the transaction of
+4 business.
+5 (9) Official action by the committee requires the approval of a majority of the members of the
+6 committee.
+7 (10) The committee shall elect one of its members to serve as chairperson.
+8 (11) The committee shall meet at times and places specified by the call of the chairperson or
+9 of a majority of the members of the committee, provided that the committee meets at least four times
+10 a year.
+11 (12) The committee may adopt rules necessary for the operation of the committee.
+12 (13) The Department of Transportation shall provide assistance and space for meetings as re-
+13 quested by the chair of the committee.
+14 (14) Qualified members, as defined in ORS 292.495, of the advisory committee are entitled to
+15 compensation for actual and necessary travel or other expenses incurred in the performance of their
+16 official duties as specified for qualified members of boards or commissions in ORS 292.495 (4).
+17 SECTION 13. Section 3, chapter 323, Oregon Laws 2023, is amended to read:
+18 Sec. 3. (1) The Department of Transportation shall adopt rules specifying the process by which
+19 a city or county may apply for inclusion on the list of jurisdictional transfers recommended for
+20 funding and submitted to the [Joint Committee on Transportation] committees or interim com-
+21 mittees of the Legislative Assembly related to transportation under section 1 [of this 2023
+22 Act], chapter 323, Oregon Laws 2023.
+23 (2) An application under this section must be on a form prescribed by the department and must
+24 include the following:
+25 (a) The name of the city or county;
+26 (b) A description of the portion of the highway to be transferred;
+27 (c) A desired timeline for the transfer;
+28 (d) The scope of the transfer;
+29 (e) A description of which body assumes liability during and after the transfer;
+30 (f) The cost to update the segment of highway transferred to a state of good repair; and
+31 (g) Any other information necessary or helpful to the Jurisdictional Transfer Advisory Commit-
+32 tee established in section 1 [of this 2023 Act], chapter 323, Oregon Laws 2023, in making its rec-
+33 ommendations to the [Joint Committee on Transportation] committees or interim committees of
+34 the Legislative Assembly related to transportation.
+35 (3) A jurisdictional transfer applicant must submit:
+36 (a) Plans to provide at least 20 percent of the moneys required for the jurisdictional transfer;
+37 and
+38 (b) A community vision plan that describes the applicant’s plan for managing and improving the
+39 highway.
+40 SECTION 14. ORS 366.506, as amended by section 11, chapter 1, Oregon Laws 2025 (special
+41 session), is amended to read:
+42 366.506. (1) Once every two years, the Oregon Department of Administrative Services shall
+43 conduct a highway cost allocation study. The purpose of the study is to determine:
+44 (a) The proportionate share that the users of each class of vehicle should pay for the costs of
+45 maintenance, operation and improvement of the highways, roads and streets in the state; and
+[5]
+A-Eng. SB 1544
+1 (b) Whether the users of each class are paying that share.
+2 (2) Each study must include:
+3 (a) An examination of the most recent study period for which actual data are available for the
+4 purpose of determining the accuracy of the most recently published study results; and
+5 (b) An examination of the prospective study period based on projected data for the purpose de-
+6 scribed in subsection (1) of this section that incorporates the results of the examination described
+7 in paragraph (a) of this subsection.
+8 (3) The department may use any study design the department determines will best accomplish
+9 the purposes stated in subsection (1) of this section. In designing the study, the department may
+10 make decisions that include, but are not limited to, the methodology to be used for the study, what
+11 constitutes a class of vehicle for purposes of collection of data under subsections (1) to (5) of this
+12 section and the nature and scope of costs that will be included in the study.
+13 (4) The department may appoint a study review team to participate in the study required by
+14 subsection (1) of this section. The team may perform any functions assigned by the department, in-
+15 cluding, but not limited to, consulting on the design of the study.
+16 (5) A report on the results of the study shall be submitted to the legislative revenue committees
+17 and the [Joint Committee on Transportation] committees or interim committees of the Legisla-
+18 tive Assembly related to transportation by January 31 of each odd-numbered year.
+19 (6) The Legislative Assembly shall use the report described in subsection (5) of this section to
+20 determine whether adjustments to revenue sources described in Article IX, section 3a (3), of the
+21 Oregon Constitution, are needed in order to carry out the purposes of Article IX, section 3a (3), of
+22 the Oregon Constitution. If such adjustments are needed, the Legislative Assembly shall enact
+23 whatever measures are necessary to make the adjustments.
+24 SECTION 15. ORS 366.506, as amended by sections 11 and 12, chapter 1, Oregon Laws 2025
+25 (special session), is amended to read:
+26 366.506. (1) Once every two years, the Oregon Department of Administrative Services shall
+27 conduct a highway cost allocation study. The purpose of the study is to determine:
+28 (a) The proportionate share that the users of each class of vehicle should pay for the costs of
+29 maintenance, operation and improvement of the highways, roads and streets in the state; and
+30 (b) Whether the users of each class are paying that share.
+31 (2) Each study must include:
+32 (a) An examination of the most recent study period for which actual data are available for the
+33 purpose of determining the accuracy of the most recently published study results; and
+34 (b) An examination of the prospective study period based on projected data for the purpose de-
+35 scribed in subsection (1) of this section that incorporates the results of the examination described
+36 in paragraph (a) of this subsection.
+37 (3) The department may use any study design the department determines will best accomplish
+38 the purposes stated in subsection (1) of this section. In designing the study, the department may
+39 make decisions that include, but are not limited to, the methodology to be used for the study, what
+40 constitutes a class of vehicle for purposes of collection of data under subsections (1) to (5) of this
+41 section and the nature and scope of costs that will be included in the study.
+42 (4) The department may appoint a study review team to participate in the study required by
+43 subsection (1) of this section. The team may perform any functions assigned by the department, in-
+44 cluding, but not limited to, consulting on the design of the study.
+45 (5) A report on the results of the study shall be submitted to the legislative revenue committees
+[6]
+A-Eng. SB 1544
+1 and the [Joint Committee on Transportation] committees or interim committees of the Legisla-
+2 tive Assembly related to transportation by January 31 of each odd-numbered year.
+3 (6) The Legislative Assembly shall use the report described in subsection (5) of this section to
+4 determine whether adjustments to revenue sources described in Article IX, section 3a (3), of the
+5 Oregon Constitution, are needed in order to carry out the purposes of Article IX, section 3a (3), of
+6 the Oregon Constitution. If such adjustments are needed, the Legislative Assembly shall enact
+7 whatever measures are necessary to make the adjustments.
+8 (7)(a) This subsection applies if:
+9 (A) The highway cost allocation report indicates that the equity ratio for the heavy vehicle class
+10 or the light vehicle class is at least 1.05; and
+11 (B) The Legislative Assembly has not complied with subsection (6) of this section within 120
+12 days following the date on which the [Joint Committee on Transportation] committees or interim
+13 committees of the Legislative Assembly related to transportation received the report submitted
+14 under subsection (5) of this section.
+15 (b)(A) On or after September 1 of each odd-numbered year, the department shall adopt rules that
+16 lower the fee rates per mile set forth in ORS 825.476 or the fuel tax rates set forth in ORS 319.020
+17 (1)(b) and 319.530 (1) as necessary so that whichever class has an equity ratio of 1.05 or greater will
+18 have an equity ratio of 1.045.
+19 (B) Adjustments to the fuel tax rates shall be rounded to the nearest 0.1 cents per gallon.
+20 (8) The department shall repeal any rule adopted pursuant to subsection (7) of this section if the
+21 department determines that, after the rule was adopted, the Legislative Assembly adjusted revenue
+22 sources to carry out the purposes of Article IX, section 3a (3), of the Oregon Constitution.
+23 SECTION 16. Section 5, chapter 428, Oregon Laws 2023, is amended to read:
+24 Sec. 5. No later than September 15 of each calendar year, the Department of Transportation
+25 shall submit to the [Joint Committee on Transportation] committees or interim committees of the
+26 Legislative Assembly related to transportation, in the manner prescribed by ORS 192.245, an
+27 annual report about the progress made with respect to adopting rules to carry out the amendments
+28 to ORS 803.092 and 803.206 by sections 1 and 3 [of this 2023 Act], chapter 428, Oregon Laws
+29 2023.
+30 SECTION 17. ORS 824.016 is amended to read:
+31 824.016. (1) The State Rail Rehabilitation Fund is established as an account in the General Fund
+32 of the State Treasury. All moneys in the account are appropriated continuously to the Department
+33 of Transportation for expenditures for any or all of the following:
+34 (a) Acquisition of a railroad line.
+35 (b) Rehabilitation or improvement of rail properties.
+36 (c) Planning for rail services.
+37 (d) Any other methods of reducing the costs of lost rail service in this state.
+38 (e) Rail projects, including:
+39 (A) Capacity improvements, such as:
+40 (i) New or lengthened sidings;
+41 (ii) Industrial spur rehabilitation; and
+42 (iii) Industrial spur construction;
+43 (B) Capital investments that improve safety; and
+44 (C) Capital investments that reduce greenhouse gases.
+45 (f) Providing state matching funds to leverage federal discretionary grant funding for rail
+[7]
+A-Eng. SB 1544
+1 projects.
+2 (2) The program developed by the Department of Transportation under this section to provide
+3 funds shall include:
+4 (a) Development of a methodology for prioritizing funding that takes into consideration an
+5 applicant’s ability to use funding sources to leverage federal discretionary grant funding for rail
+6 projects.
+7 (b) A requirement that rail projects selected are projects that are consistent with the goals of
+8 the Oregon State Rail Plan.
+9 (3) The Department of Transportation shall provide funds under this section only with the ap-
+10 proval of the Oregon Transportation Commission.
+11 (4) The department may use moneys in the fund to pay the department’s administrative costs
+12 associated with the fund and with carrying out the provisions of this section.
+13 (5) Not later than December 31 of each even-numbered year, the department shall report, in the
+14 manner provided in ORS 192.245, to the [Joint Committee on Transportation] committees or interim
+15 committees of the Legislative Assembly related to transportation regarding the expenditures
+16 of moneys in the fund and the status of rail projects that have received moneys from the fund.
+17 SECTION 18. ORS 824.400 is amended to read:
+18 824.400. (1) The Department of Transportation shall develop and implement a passenger rail plan
+19 for the purposes of increasing ridership on passenger trains and increasing ticket revenue. The
+20 passenger rail plan must include, but is not limited to, the following:
+21 (a) A marketing strategy.
+22 (b) Strategies for boosting ridership.
+23 (c) Strategies for boosting tourism through the use of passenger rail.
+24 (d) Strategies for boosting capacity.
+25 (e) Strategies for upgrading and improving railroad track and related infrastructure.
+26 (f) Information about federal rail infrastructure grant applications submitted, denied and ap-
+27 proved, provided in summary form.
+28 (2) The department may coordinate with other state agencies to develop the plan.
+29 (3) The department shall submit a quarterly report on the performance of passenger rail to the
+30 [Joint Committee on Transportation] committees or interim committees of the Legislative As-
+31 sembly related to transportation in the manner provided in ORS 192.245. The report must include
+32 a summary of the number of passengers utilizing passenger rail and on-time performance for the
+33 previous quarter.
+34 SECTION 19. Section 8, chapter 1, Oregon Laws 2025 (special session), is amended to read:
+35 Sec. 8. (1) As used in this section, “highway improvement project” means a state highway
+36 project for which the Department of Transportation may use federal transportation funds.
+37 (2) If a city or county proposes to expand the scope of a highway improvement project, but does
+38 not provide funding, the city or county shall submit the proposed change to the Oregon Transpor-
+39 tation Commission. If the commission approves the proposed change, the commission shall submit a
+40 report to the [Joint Committee on Transportation] committees or interim committees of the
+41 Legislative Assembly related to transportation that informs the committee about the proposed
+42 change and cost associated with the expanded scope. After reviewing the report, the committee may
+43 submit recommendations for appropriations that may be made in the future to cover the costs of the
+44 expanded scope of the highway improvement project.
+45 (3) This section applies to highway improvement projects when a city or county is not covering
+[8]
+A-Eng. SB 1544
+1 the costs of the expanded scope and:
+2 (a) The project costs less than $25 million and the changes in scope the city or county is re-
+3 questing increase the project costs by 10 percent or more; or
+4 (b) The project costs $25 million or more and the changes in scope the city or county is re-
+5 questing increase the project costs by five percent or more.
+6 SECTION 20. Section 14, chapter 1, Oregon Laws 2025 (special session), is amended to read:
+7 Sec. 14. (1) In consultation with the study review team described in ORS 366.506, the Oregon
+8 Department of Administrative Services shall undertake a review of the methodology for the highway
+9 cost allocation study required under ORS 366.506.
+10 (2) The department shall examine all aspects of the methodology for the highway cost allocation
+11 study, including but not limited to the following:
+12 (a) The revenues and expenditures included in the highway cost allocation study;
+13 (b) How costs are allocated across different classes of vehicles;
+14 (c) What constitutes a class of vehicle;
+15 (d) The data used in the highway cost allocation study;
+16 (e) The level of granularity to which cost responsibility is calculated for potential rate changes;
+17 and
+18 (f) Whether equity should be analyzed based on an estimate of the future biennium’s revenue and
+19 expenditures or a retrospective analysis of past actual revenue and expenditures.
+20 (3) The department may provide recommendations for updating the methodology for the study,
+21 including any changes in statute needed to improve the outcome of the study and ensure fairness
+22 and proportionate revenue and costs for each class of vehicle.
+23 (4) The department shall submit a report in the manner provided by ORS 192.245, and may in-
+24 clude recommendations for legislation, to the [Joint Committee on Transportation] committees or
+25 interim committees of the Legislative Assembly related to transportation no later than June
+26 30, 2026.
+27
+28 DISMANTLERS
+29
+30 SECTION 21. ORS 822.140 is amended to read:
+31 822.140. (1) To meet the requirement for local government approval of a dismantler certificate
+32 under ORS 822.110 or a supplemental certificate under ORS 822.125, an applicant must comply with
+33 any regulations established by a city or county under this section and must obtain the approval of
+34 the governing body of the:
+35 (a) City, if the business is or will be carried on within an incorporated city of less than 100,000
+36 population.
+37 (b) County, if the business is or will be carried on outside of any incorporated city.
+38 (2) A city or county governing body shall grant approval of a dismantler certificate [or
+39 renewal] or a supplemental certificate when requested under this section if the governing body:
+40 (a) Approves the applicant as being suitable to establish, maintain or operate a motor vehicle
+41 dismantling business;
+42 (b) Determines that the location or proposed location meets the requirements for location under
+43 ORS 822.110;
+44 (c) Determines that the location does not violate any prohibition under ORS 822.135; and
+45 (d) Approves the location and determines that the location complies with any regulations
+[9]
+A-Eng. SB 1544
+1 adopted by a city or county under this section.
+2 (3) The governing body of a city or county may regulate the expansion of premises or the es-
+3 tablishment of premises at a new location under a dismantler certificate. An applicant must comply
+4 with the regulations before the Department of Transportation may issue a supplemental dismantler
+5 certificate. In adopting regulations under this subsection, a governing body:
+6 (a) Shall consider the extent of development of surrounding property as a residential area;
+7 (b) Shall consider the proximity of churches, schools, hospitals, public buildings or other places
+8 of public gathering;
+9 (c) Shall consider the sufficiency in number of other motor vehicle dismantling businesses in the
+10 vicinity;
+11 (d) Shall consider the health, safety and general welfare of the public;
+12 (e) May establish zones in which motor vehicle dismantling businesses are permissible and other
+13 zones where they are prohibited; and
+14 (f) May prescribe limitations on the dimensions of the premises on which motor vehicle dis-
+15 mantling businesses are conducted.
+16 (4) Regulations of a city governing body that are adopted under this section apply to motor ve-
+17 hicle dismantling businesses located outside of and within six miles of the boundaries of the city
+18 unless the county governing body in which the area is located has adopted regulations under this
+19 section that are applicable in the area.
+20 (5) Before granting approval for a supplemental dismantler certificate, the governing body of a
+21 city or county shall notify all property owners that are or that will be adjacent to the motor vehicle
+22 dismantling business once the business moves, expands or opens an additional place of business.
+23 SECTION 22. ORS 822.125 is amended to read:
+24 822.125. (1) The holder of a current, valid dismantler certificate issued under ORS 822.110 is not
+25 subject to the prohibitions and penalties under ORS 822.100 as long as the holder’s motor vehicle
+26 dismantling business is conducted in the location approved under the certificate.
+27 (2) The holder of a dismantler certificate may expand the dimensions or move a place of business
+28 approved under the dismantler certificate or open an additional place of business under the certif-
+29 icate upon issuance of a supplemental dismantler certificate by the Department of Transportation.
+30 The following apply to supplemental certificates issued under this subsection:
+31 (a) The department shall grant a supplemental certificate upon request of an applicant under
+32 this subsection if the applicant obtains local government permission for the supplemental certificate
+33 under ORS 822.140.
+34 [(b) Upon application for renewal of the supplemental certificate, the department may waive the
+35 requirement that an applicant for renewal under this subsection obtain local government approval un-
+36 der ORS 822.140 of the suitability of the applicant to establish, maintain or operate a motor vehicle
+37 dismantling business.]
+38 [(c)] (b) A fee shall be charged for a supplemental dismantler certificate under ORS 822.700.
+39 (3) A dismantler certificate is valid for a two-year period and may be renewed as provided by
+40 the department. The department shall only renew the certificate of any certificate holder who does
+41 all of the following:
+42 (a) Pays the required fee for renewal under ORS 822.700.
+43 (b) Completes the application described in ORS 822.115.
+44 [(c) Obtains local government approval under ORS 822.140. The department may waive the re-
+45 quirement that an applicant for renewal obtain local government approval under ORS 822.140 of the
+[10]
+A-Eng. SB 1544
+1 suitability of the applicant to establish, maintain or operate a motor vehicle dismantling business.]
+2 [(d)] (c) Maintains a current bond that meets the requirements under ORS 822.120.
+3 (4) The department may provide the holder of a dismantler certificate with identification cards
+4 in the names of the owners of the business or in the names of authorized employees of the business.
+5 (5) The department may adopt suitable rules for the issuance and renewal of dismantler certif-
+6 icates and identification cards.
+7
+8 PUBLIC TRANSPORTATION PROVIDERS
+9
+10 SECTION 23. ORS 184.752 is amended to read:
+11 184.752. As used in ORS 184.752 to 184.766:
+12 (1) “Public transportation service provider” includes a qualified entity and a city, county, special
+13 district, intergovernmental entity or any other political subdivision or municipal or public corpo-
+14 ration that provides public transportation services and is not otherwise described in subsection (2)
+15 of this section.
+16 (2) “Qualified entity” means the following:
+17 (a)(A) Counties in which no part of a mass transit district or transportation district exists; or
+18 (B) Intergovernmental entities who are providing public transportation services on behalf
+19 of a county;
+20 (b) Mass transit districts organized under ORS 267.010 to 267.394;
+21 (c) Transportation districts organized under ORS 267.510 to 267.650; and
+22 (d)(A) Federally recognized Indian tribes; or
+23 (B) Intergovernmental entities who are providing public transportation services on behalf
+24 of a tribe.
+25
+26 CAPTIONS
+27
+28 SECTION 24. The unit captions used in this 2026 Act are provided only for the conven-
+29 ience of the reader and do not become part of the statutory law of this state or express any
+30 legislative intent in the enactment of this 2026 Act.
+31
+32 EFFECTIVE DATE
+33
+34 SECTION 25. This 2026 Act takes effect on the 91st day after the date on which the 2026
+35 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+36
+[11]
+[DELETED:  B 1 i n a n o o t p o t P ( t r c b t L A I i a e b s o t e f o t T A t O t r o i p w c r T o s h T A t t d o O t u t c o f a d T A s c e m g f t p p.( t D o T t s t d o u s f p e a t u a t c o  8 8 8 a 8 a s 1 a 3 c 3 O L.N o T s t t c o i c o t L A r tno T d p i i t d p a p:M[]]
+[DELETED: .S.( i c o t L A r t t o t 4.N l.S 6.T D o T s e a d o t u b o a s o o s d o t t.( N O 1 t m e t p d p d e a f t.O T O T C s r o a o t D o t t J L A C e b O 1 a t  C o T e b O 1 i c w c c T i d t c o t t i a r u t s m n r]
+[DELETED:  1 O 1 a a b s 5 c 1 O L 2 ( T O T C s a a C I A o w t m t e o t D o T t s o k p m a w s a b t b t d t T C[] A r t t T r m i r o wfT T c c o 1 m a b t G T m o t]
+[DELETED:  T m w r c a w h e w o t O m w r a c a w h e w o t O m w r a r g a w h e w onp O m w r t a c o b t e i O;a T G s a m i t d o t l d i s ( o t s T c[] o i t m p i 1 t i t l o j t r f f u s]
+[DELETED:  A m o t m o t c c a q f t t o O a b t T c s m a t a p s b t c o t c oy T D o T s p a a s f m a r Q m a d i O 2 o t a c a e t c o c m a f i o t l o j t r f a s t t []c o i c C o T o t L A r t t u s 1  t 2[] t t [] c o C o T P t p a l 2 p o t m r f t 1 O 3 a a b s 1 c 1 O L 2 ( ( O e t y t O D o A S s p f t c o]
+[DELETED:  i s ( o t s t i T d m u a s d t d d w b a p s i s ( o t s I d t s t d m a c o v f p o T d m a a s r t t p i t s r b t [] c C o T t s t w a t r s d i A I s 3 ( o t O C I s a a n t L A s e O 3 a a b s 1 a 1 c 1 O L 2 ( O e t y t O D o A S s p f t c o i s ( o t s t i T d m u a s d t d d w b a p s i s ( o t s I d t s t d m a c o v f p o T d m a a s r t t p i t s r b]
+[DELETED: [] c T T L A w a t r s d i A I s 3 ( o t O C I s a a n t L A s e T L A h n c w s ( o t s w 1[] c C o T 5 N l t S 1 o e c y t D o T[] A r t t i t m p b O 1 a O 8 a 8 b s 1 a 3 [] c 4 O L t 2 A P s m f t l f d g f f r]
+[DELETED:  b t D o T u t s t p D o a m f p f t t i c a a t u f s t l f d g f f r A r p f u t s o w t a T d m u m i t f t p t d a c[] r t e t p o i r o p t a i t r T I a f r i g a s d a a] c o i c o t L A T s o t n o p u p r a o p f tsq 8 ( A u i t s “ i p m a s h p f t c o c t t [] c o i c o t C o T t i t c a t p]
+[DELETED:  T p c l t $ m a t c i s t c o c i r T p c $ m o m a t c i s t c o c i r ( I c w t s r t d i p r f u t m f t s a c i s n t i t o o t s a e f r f l t t []c o C o T J,2 ( T m t r f l g)A c o c g b s g a o a d c  a b s t e m o o a m vgb A t l a d t t l c w a r]
+[DELETED:  o a c o c m r t e o p o t e M p l o t d o t p o w m v d d b l o o a w s m o t b o t c t c g b i w t a i t t p a p u O 8 a l a t h u t c u i o a s d c b T d s g a s c u r o a a u U a f r o t s c t d m w t O 8 o t s o t a t e m o o a m vgb] a t p a m b r a p b O l g a u O 8 T d m w t r t a a f r o l g a u]
+[DELETED: ] T i e o a o p s o m o p c.T.T]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+A-Engrossed
+Senate Bill 1544
+Ordered by the Senate February 19
+Including Senate Amendments dated February 19
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Transportation)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act tells ODOT to report on its progress with current requirements. The
+Act tells ODOT to create a database like WDOT has and create a transportation university
+like other states have. The Act tells the director of ODOT to use the central office for
+project delivery work instead of the regional offices. The Act ends the JCT. The Act changes
+laws about dismantlers. The Act says certain entities may get funds to provide public
+transportation services. (Flesch Readability Score: 60.8).
+[Digest: The Act says that ODOT must study speed bumps. (Flesch Readability Score: 94.3).]
+[Requires the Department of Transportation to study the development of uniform standards for
+speed bump height and markings.]
+[Sunsets January 2, 2028.]
+Directs the Department of Transportation to report on a required audit, progress in im-
+plementing design practices, establishing a transportation university and the creation of a
+database equivalent to one created by the State of Washington.
+Directs the Director of Transportation to centralize project delivery efforts.
+Eliminates the Joint Committee on Transportation.
+Makes changes to laws regulating dismantlers.
+Expands the definition of “qualified entity” for purposes of public transportation funding.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to transportation; creating new provisions; amending ORS 184.649, 184.657, 184.665, 184.752,
+3 366.506, 822.125, 822.140, 824.016 and 824.400 and sections 1 and 3, chapter 323, Oregon Laws
+4 2023, section 5, chapter 428, Oregon Laws 2023, and sections 8 and 14, chapter 1, Oregon Laws
+5 2025 (special session); repealing ORS 171.858 and 171.861; and prescribing an effective date.
+6 Be It Enacted by the People of the State of Oregon:
+7
+8 DEPARTMENT OF TRANSPORTATION
+9
+10 SECTION 1. Not later than December 31, 2027, the Department of Transportation shall
+11 report to the committees or interim committees of the Legislative Assembly related to
+12 transportation on:
+13 (1) The department’s progress in implementing the recommendations resulting from the
+14 audit required under section 1, chapter 1, Oregon Laws 2025 (special session).
+15 (2) The department’s progress in implementing transportation design practices as pro-
+16 vided in ORS 184.748.
+17 (3) The department’s progress in establishing a department of transportation university
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 279
+
+A-Eng. SB 1544
+1 as required under section 6 of this 2026 Act.
+2 SECTION 2. Section 1 of this 2026 Act is repealed on January 2, 2028.
+3 SECTION 3. (1) The Department of Transportation shall create a database equivalent to
+4 the Washington State Department of Transportation Gray Notebook.
+5 (2) The Department of Transportation shall report each calendar quarter to a committee
+6 or interim committee of the Legislative Assembly related to transportation on the
+7 department’s progress in creating the database.
+8 SECTION 4. Not later than December 27, 2027, the Department of Transportation shall
+9 assess the needs of the department for training on best practices, including but not limited
+10 to best practices for community engagement, project delivery and effective multimodal safety
+11 design.
+12 SECTION 5. Section 4 of this 2026 Act is repealed on January 1, 2028.
+13 SECTION 6. The Department of Transportation shall establish a department of trans-
+14 portation university, based on a survey of other state departments of transportation that
+15 use a department of transportation university system.
+16 SECTION 7. (1) As used in this section:
+17 (a) “Highway” has the meaning given that term in ORS 366.005.
+18 (b) “Transportation project” has the meaning given that term in ORS 367.010.
+19 (2) Notwithstanding ORS 184.633, to maximize efficient transportation project delivery
+20 and minimize redundant efforts, the Director of Transportation shall centralize project de-
+21 livery efforts and focus the efforts and duties of the regional offices of the department on
+22 highway operation and maintenance.
+23
+24 REPEAL OF JOINT COMMITTEE ON TRANSPORTATION
+25
+26 SECTION 8. ORS 171.858 and 171.861 are repealed.
+27 SECTION 9. ORS 184.649 is amended to read:
+28 184.649. The Oregon Transportation Commission shall report on audits of the Department of
+29 Transportation to the Joint Legislative Audit Committee established by ORS 171.580 and to [the
+30 Joint Committee on Transportation established by ORS 171.858] the committees or interim com-
+31 mittees of the Legislative Assembly related to transportation, at least once each biennium.
+32 SECTION 10. ORS 184.657 is amended to read:
+33 184.657. (1) The Oregon Transportation Commission shall develop a set of uniform standards, in
+34 coordination with counties and cities, for the consistent description and reporting of the condition
+35 of the transportation infrastructure owned by the state, counties and cities. The infrastructure de-
+36 scribed must include pavement and bridges.
+37 (2) By February 1 of each odd-numbered year, every city and county shall submit a report cov-
+38 ering the condition of its transportation infrastructure.
+39 (3) The commission shall periodically review the condition of the transportation infrastructure
+40 owned by the state and the reports submitted under this section. The commission shall post the re-
+41 ports and the commission’s review of the reports on the website described in ORS 184.661.
+42 (4) Notwithstanding ORS 366.762 to 366.768 or 366.785 to 366.820, any city or county failing to
+43 file a report under this section may not receive any payments from the State Highway Fund until
+44 the report is filed.
+45 (5) Not later than June 1 of each odd-numbered year, the commission shall submit a report about
+[2]
+
+A-Eng. SB 1544
+1 the state of the transportation infrastructure of Oregon, including the transportation infrastructure
+2 of cities and counties, to:
+3 (a) The Legislative Assembly in the manner provided by ORS 192.245; and
+4 [(b) The Joint Committee on Transportation established under ORS 171.858.]
+5 (b) The committees or interim committees of the Legislative Assembly related to trans-
+6 portation.
+7 SECTION 11. ORS 184.665, as amended by section 5, chapter 1, Oregon Laws 2025 (special
+8 session), is amended to read:
+9 184.665. (1) As used in this section:
+10 (a) “Chief engineer” means the person appointed by the Director of Transportation under ORS
+11 184.628.
+12 (b) “Major project” means a transportation project that costs $250 million or more to complete.
+13 (2) The Oregon Transportation Commission shall appoint a Continuous Improvement Advisory
+14 Committee. The members of the committee shall include, but are not limited to, the following:
+15 (a) Members of the commission;
+16 (b) The Director of Transportation;
+17 (c) The chief engineer;
+18 (d) Individuals with demonstrated expertise in planning, executing and delivering major projects;
+19 and
+20 (e) At least one individual with demonstrated knowledge and experience in the application and
+21 implementation of the National Environmental Policy Act.
+22 (3) The committee shall:
+23 (a) Advise the commission on ways to maximize the efficiency of the Department of Transpor-
+24 tation to allow increased investment in the transportation system over the short, medium and long
+25 term.
+26 (b) Develop key performance measures, based on desired outcomes, for each division of the de-
+27 partment. The committee shall submit key performance measures to the commission for its approval.
+28 The committee shall report quarterly to the commission and to the [Joint Committee on Transporta-
+29 tion] committees or interim committees of the Legislative Assembly related to transportation
+30 on the status of key performance measures and what steps are being taken by the department to
+31 achieve the goals of the key performance measures.
+32 (4) The Continuous Improvement Advisory Committee shall report quarterly to the commission
+33 and to the [Joint Committee on Transportation] committees or interim committees of the Legis-
+34 lative Assembly related to transportation. The reports must include recommendations on ways
+35 the commission and the department may execute their duties more efficiently.
+36 (5) The Continuous Improvement Advisory Committee shall meet at least once a month, at times
+37 and places fixed by the chairperson of the committee or a majority of members of the committee.
+38 (6) The department shall provide office space and personnel to assist the committee as requested
+39 by the chairperson, within the limits of available funds.
+40 (7) Members of the committee are entitled to compensation and expenses as provided under ORS
+41 292.495.
+42 SECTION 12. Section 1, chapter 323, Oregon Laws 2023, is amended to read:
+43 Sec. 1. (1) The Jurisdictional Transfer Advisory Committee is established within the Department
+44 of Transportation.
+45 (2) The committee consists of 11 members appointed by the Governor. The members of the
+[3]
+
+A-Eng. SB 1544
+1 committee shall include:
+2 (a) Two members who are transportation engineers;
+3 (b) Two members who represent cities and who have experience working on transportation
+4 projects;
+5 (c) One member who represents a county and who has experience working on transportation
+6 projects;
+7 (d) One member who represents a regional government and who has experience working on
+8 transportation projects;
+9 (e) One member who represents road users;
+10 (f) One member who represents law enforcement;
+11 (g) One member who represents transit users;
+12 (h) One member who represents the advisory committee on bicycle traffic established in ORS
+13 366.112; and
+14 (i) One member who represents the Transportation Safety Committee established in ORS 802.300.
+15 (3) The Governor shall appoint members to the Jurisdictional Transfer Advisory Committee so
+16 that there is at least one member of the committee from each congressional district in this state.
+17 (4) The Jurisdictional Transfer Advisory Committee shall, from the jurisdictional transfer appli-
+18 cations submitted under section 3 of this 2023 Act:
+19 (a) Review the applications; and
+20 (b) Develop a list of three jurisdictional transfers to recommend for funding.
+21 (5) The committee shall actively solicit reviews and comments from the Oregon Transportation
+22 Commission in the development of the list described in subsection (4)(b) of this section. The com-
+23 mittee shall also shall take into consideration the following:
+24 (a) The difference between the applicant’s and the department’s standards of maintenance;
+25 (b) The amount of deferred maintenance;
+26 (c) A description of how the highway is used in the community;
+27 (d) The climate impact of a transfer and subsequent upgrades the applicant could provide;
+28 (e) The potential positive impacts on historically underserved groups;
+29 (f) The increase in multimodal transportation options provided by a transfer;
+30 (g) A description of the safety issues that exist; and
+31 (h) A transfer readiness assessment that may include:
+32 (A) The interest of the community;
+33 (B) Funding capacity of the applicant for the transfer and maintenance in the future; and
+34 (C) The existing condition of the highway and its current state of maintenance.
+35 (6) No later than September 15 of each even-numbered year, the Jurisdictional Transfer Advisory
+36 Committee shall submit a report to the [Joint Committee on Transportation] committees or interim
+37 committees of the Legislative Assembly related to transportation, in the manner provided in
+38 ORS 192.245, that includes the list of jurisdictional transfers recommended for funding under sub-
+39 section (4)(b) of this section.
+40 (7) The term of office of each member of the Jurisdictional Transfer Advisory Committee is four
+41 years, but a member serves at the pleasure of the Governor. Before the expiration of the term of a
+42 member, the Governor shall appoint a successor whose term begins on January 1 next following. A
+43 member is eligible for reappointment. However, a member of the committee may not serve more than
+44 two terms. If there is a vacancy for any cause, the Governor shall make an appointment to become
+45 immediately effective for the unexpired term. When a vacancy occurs in an appointment made from
+[4]
+
+A-Eng. SB 1544
+1 a congressional district, the successor shall be appointed from the congressional district for which
+2 the vacancy exists.
+3 (8) A majority of the members of the committee constitutes a quorum for the transaction of
+4 business.
+5 (9) Official action by the committee requires the approval of a majority of the members of the
+6 committee.
+7 (10) The committee shall elect one of its members to serve as chairperson.
+8 (11) The committee shall meet at times and places specified by the call of the chairperson or
+9 of a majority of the members of the committee, provided that the committee meets at least four times
+10 a year.
+11 (12) The committee may adopt rules necessary for the operation of the committee.
+12 (13) The Department of Transportation shall provide assistance and space for meetings as re-
+13 quested by the chair of the committee.
+14 (14) Qualified members, as defined in ORS 292.495, of the advisory committee are entitled to
+15 compensation for actual and necessary travel or other expenses incurred in the performance of their
+16 official duties as specified for qualified members of boards or commissions in ORS 292.495 (4).
+17 SECTION 13. Section 3, chapter 323, Oregon Laws 2023, is amended to read:
+18 Sec. 3. (1) The Department of Transportation shall adopt rules specifying the process by which
+19 a city or county may apply for inclusion on the list of jurisdictional transfers recommended for
+20 funding and submitted to the [Joint Committee on Transportation] committees or interim com-
+21 mittees of the Legislative Assembly related to transportation under section 1 [of this 2023
+22 Act], chapter 323, Oregon Laws 2023.
+23 (2) An application under this section must be on a form prescribed by the department and must
+24 include the following:
+25 (a) The name of the city or county;
+26 (b) A description of the portion of the highway to be transferred;
+27 (c) A desired timeline for the transfer;
+28 (d) The scope of the transfer;
+29 (e) A description of which body assumes liability during and after the transfer;
+30 (f) The cost to update the segment of highway transferred to a state of good repair; and
+31 (g) Any other information necessary or helpful to the Jurisdictional Transfer Advisory Commit-
+32 tee established in section 1 [of this 2023 Act], chapter 323, Oregon Laws 2023, in making its rec-
+33 ommendations to the [Joint Committee on Transportation] committees or interim committees of
+34 the Legislative Assembly related to transportation.
+35 (3) A jurisdictional transfer applicant must submit:
+36 (a) Plans to provide at least 20 percent of the moneys required for the jurisdictional transfer;
+37 and
+38 (b) A community vision plan that describes the applicant’s plan for managing and improving the
+39 highway.
+40 SECTION 14. ORS 366.506, as amended by section 11, chapter 1, Oregon Laws 2025 (special
+41 session), is amended to read:
+42 366.506. (1) Once every two years, the Oregon Department of Administrative Services shall
+43 conduct a highway cost allocation study. The purpose of the study is to determine:
+44 (a) The proportionate share that the users of each class of vehicle should pay for the costs of
+45 maintenance, operation and improvement of the highways, roads and streets in the state; and
+[5]
+
+A-Eng. SB 1544
+1 (b) Whether the users of each class are paying that share.
+2 (2) Each study must include:
+3 (a) An examination of the most recent study period for which actual data are available for the
+4 purpose of determining the accuracy of the most recently published study results; and
+5 (b) An examination of the prospective study period based on projected data for the purpose de-
+6 scribed in subsection (1) of this section that incorporates the results of the examination described
+7 in paragraph (a) of this subsection.
+8 (3) The department may use any study design the department determines will best accomplish
+9 the purposes stated in subsection (1) of this section. In designing the study, the department may
+10 make decisions that include, but are not limited to, the methodology to be used for the study, what
+11 constitutes a class of vehicle for purposes of collection of data under subsections (1) to (5) of this
+12 section and the nature and scope of costs that will be included in the study.
+13 (4) The department may appoint a study review team to participate in the study required by
+14 subsection (1) of this section. The team may perform any functions assigned by the department, in-
+15 cluding, but not limited to, consulting on the design of the study.
+16 (5) A report on the results of the study shall be submitted to the legislative revenue committees
+17 and the [Joint Committee on Transportation] committees or interim committees of the Legisla-
+18 tive Assembly related to transportation by January 31 of each odd-numbered year.
+19 (6) The Legislative Assembly shall use the report described in subsection (5) of this section to
+20 determine whether adjustments to revenue sources described in Article IX, section 3a (3), of the
+21 Oregon Constitution, are needed in order to carry out the purposes of Article IX, section 3a (3), of
+22 the Oregon Constitution. If such adjustments are needed, the Legislative Assembly shall enact
+23 whatever measures are necessary to make the adjustments.
+24 SECTION 15. ORS 366.506, as amended by sections 11 and 12, chapter 1, Oregon Laws 2025
+25 (special session), is amended to read:
+26 366.506. (1) Once every two years, the Oregon Department of Administrative Services shall
+27 conduct a highway cost allocation study. The purpose of the study is to determine:
+28 (a) The proportionate share that the users of each class of vehicle should pay for the costs of
+29 maintenance, operation and improvement of the highways, roads and streets in the state; and
+30 (b) Whether the users of each class are paying that share.
+31 (2) Each study must include:
+32 (a) An examination of the most recent study period for which actual data are available for the
+33 purpose of determining the accuracy of the most recently published study results; and
+34 (b) An examination of the prospective study period based on projected data for the purpose de-
+35 scribed in subsection (1) of this section that incorporates the results of the examination described
+36 in paragraph (a) of this subsection.
+37 (3) The department may use any study design the department determines will best accomplish
+38 the purposes stated in subsection (1) of this section. In designing the study, the department may
+39 make decisions that include, but are not limited to, the methodology to be used for the study, what
+40 constitutes a class of vehicle for purposes of collection of data under subsections (1) to (5) of this
+41 section and the nature and scope of costs that will be included in the study.
+42 (4) The department may appoint a study review team to participate in the study required by
+43 subsection (1) of this section. The team may perform any functions assigned by the department, in-
+44 cluding, but not limited to, consulting on the design of the study.
+45 (5) A report on the results of the study shall be submitted to the legislative revenue committees
+[6]
+
+A-Eng. SB 1544
+1 and the [Joint Committee on Transportation] committees or interim committees of the Legisla-
+2 tive Assembly related to transportation by January 31 of each odd-numbered year.
+3 (6) The Legislative Assembly shall use the report described in subsection (5) of this section to
+4 determine whether adjustments to revenue sources described in Article IX, section 3a (3), of the
+5 Oregon Constitution, are needed in order to carry out the purposes of Article IX, section 3a (3), of
+6 the Oregon Constitution. If such adjustments are needed, the Legislative Assembly shall enact
+7 whatever measures are necessary to make the adjustments.
+8 (7)(a) This subsection applies if:
+9 (A) The highway cost allocation report indicates that the equity ratio for the heavy vehicle class
+10 or the light vehicle class is at least 1.05; and
+11 (B) The Legislative Assembly has not complied with subsection (6) of this section within 120
+12 days following the date on which the [Joint Committee on Transportation] committees or interim
+13 committees of the Legislative Assembly related to transportation received the report submitted
+14 under subsection (5) of this section.
+15 (b)(A) On or after September 1 of each odd-numbered year, the department shall adopt rules that
+16 lower the fee rates per mile set forth in ORS 825.476 or the fuel tax rates set forth in ORS 319.020
+17 (1)(b) and 319.530 (1) as necessary so that whichever class has an equity ratio of 1.05 or greater will
+18 have an equity ratio of 1.045.
+19 (B) Adjustments to the fuel tax rates shall be rounded to the nearest 0.1 cents per gallon.
+20 (8) The department shall repeal any rule adopted pursuant to subsection (7) of this section if the
+21 department determines that, after the rule was adopted, the Legislative Assembly adjusted revenue
+22 sources to carry out the purposes of Article IX, section 3a (3), of the Oregon Constitution.
+23 SECTION 16. Section 5, chapter 428, Oregon Laws 2023, is amended to read:
+24 Sec. 5. No later than September 15 of each calendar year, the Department of Transportation
+25 shall submit to the [Joint Committee on Transportation] committees or interim committees of the
+26 Legislative Assembly related to transportation, in the manner prescribed by ORS 192.245, an
+27 annual report about the progress made with respect to adopting rules to carry out the amendments
+28 to ORS 803.092 and 803.206 by sections 1 and 3 [of this 2023 Act], chapter 428, Oregon Laws
+29 2023.
+30 SECTION 17. ORS 824.016 is amended to read:
+31 824.016. (1) The State Rail Rehabilitation Fund is established as an account in the General Fund
+32 of the State Treasury. All moneys in the account are appropriated continuously to the Department
+33 of Transportation for expenditures for any or all of the following:
+34 (a) Acquisition of a railroad line.
+35 (b) Rehabilitation or improvement of rail properties.
+36 (c) Planning for rail services.
+37 (d) Any other methods of reducing the costs of lost rail service in this state.
+38 (e) Rail projects, including:
+39 (A) Capacity improvements, such as:
+40 (i) New or lengthened sidings;
+41 (ii) Industrial spur rehabilitation; and
+42 (iii) Industrial spur construction;
+43 (B) Capital investments that improve safety; and
+44 (C) Capital investments that reduce greenhouse gases.
+45 (f) Providing state matching funds to leverage federal discretionary grant funding for rail
+[7]
+
+A-Eng. SB 1544
+1 projects.
+2 (2) The program developed by the Department of Transportation under this section to provide
+3 funds shall include:
+4 (a) Development of a methodology for prioritizing funding that takes into consideration an
+5 applicant’s ability to use funding sources to leverage federal discretionary grant funding for rail
+6 projects.
+7 (b) A requirement that rail projects selected are projects that are consistent with the goals of
+8 the Oregon State Rail Plan.
+9 (3) The Department of Transportation shall provide funds under this section only with the ap-
+10 proval of the Oregon Transportation Commission.
+11 (4) The department may use moneys in the fund to pay the department’s administrative costs
+12 associated with the fund and with carrying out the provisions of this section.
+13 (5) Not later than December 31 of each even-numbered year, the department shall report, in the
+14 manner provided in ORS 192.245, to the [Joint Committee on Transportation] committees or interim
+15 committees of the Legislative Assembly related to transportation regarding the expenditures
+16 of moneys in the fund and the status of rail projects that have received moneys from the fund.
+17 SECTION 18. ORS 824.400 is amended to read:
+18 824.400. (1) The Department of Transportation shall develop and implement a passenger rail plan
+19 for the purposes of increasing ridership on passenger trains and increasing ticket revenue. The
+20 passenger rail plan must include, but is not limited to, the following:
+21 (a) A marketing strategy.
+22 (b) Strategies for boosting ridership.
+23 (c) Strategies for boosting tourism through the use of passenger rail.
+24 (d) Strategies for boosting capacity.
+25 (e) Strategies for upgrading and improving railroad track and related infrastructure.
+26 (f) Information about federal rail infrastructure grant applications submitted, denied and ap-
+27 proved, provided in summary form.
+28 (2) The department may coordinate with other state agencies to develop the plan.
+29 (3) The department shall submit a quarterly report on the performance of passenger rail to the
+30 [Joint Committee on Transportation] committees or interim committees of the Legislative As-
+31 sembly related to transportation in the manner provided in ORS 192.245. The report must include
+32 a summary of the number of passengers utilizing passenger rail and on-time performance for the
+33 previous quarter.
+34 SECTION 19. Section 8, chapter 1, Oregon Laws 2025 (special session), is amended to read:
+35 Sec. 8. (1) As used in this section, “highway improvement project” means a state highway
+36 project for which the Department of Transportation may use federal transportation funds.
+37 (2) If a city or county proposes to expand the scope of a highway improvement project, but does
+38 not provide funding, the city or county shall submit the proposed change to the Oregon Transpor-
+39 tation Commission. If the commission approves the proposed change, the commission shall submit a
+40 report to the [Joint Committee on Transportation] committees or interim committees of the
+41 Legislative Assembly related to transportation that informs the committee about the proposed
+42 change and cost associated with the expanded scope. After reviewing the report, the committee may
+43 submit recommendations for appropriations that may be made in the future to cover the costs of the
+44 expanded scope of the highway improvement project.
+45 (3) This section applies to highway improvement projects when a city or county is not covering
+[8]
+
+A-Eng. SB 1544
+1 the costs of the expanded scope and:
+2 (a) The project costs less than $25 million and the changes in scope the city or county is re-
+3 questing increase the project costs by 10 percent or more; or
+4 (b) The project costs $25 million or more and the changes in scope the city or county is re-
+5 questing increase the project costs by five percent or more.
+6 SECTION 20. Section 14, chapter 1, Oregon Laws 2025 (special session), is amended to read:
+7 Sec. 14. (1) In consultation with the study review team described in ORS 366.506, the Oregon
+8 Department of Administrative Services shall undertake a review of the methodology for the highway
+9 cost allocation study required under ORS 366.506.
+10 (2) The department shall examine all aspects of the methodology for the highway cost allocation
+11 study, including but not limited to the following:
+12 (a) The revenues and expenditures included in the highway cost allocation study;
+13 (b) How costs are allocated across different classes of vehicles;
+14 (c) What constitutes a class of vehicle;
+15 (d) The data used in the highway cost allocation study;
+16 (e) The level of granularity to which cost responsibility is calculated for potential rate changes;
+17 and
+18 (f) Whether equity should be analyzed based on an estimate of the future biennium’s revenue and
+19 expenditures or a retrospective analysis of past actual revenue and expenditures.
+20 (3) The department may provide recommendations for updating the methodology for the study,
+21 including any changes in statute needed to improve the outcome of the study and ensure fairness
+22 and proportionate revenue and costs for each class of vehicle.
+23 (4) The department shall submit a report in the manner provided by ORS 192.245, and may in-
+24 clude recommendations for legislation, to the [Joint Committee on Transportation] committees or
+25 interim committees of the Legislative Assembly related to transportation no later than June
+26 30, 2026.
+27
+28 DISMANTLERS
+29
+30 SECTION 21. ORS 822.140 is amended to read:
+31 822.140. (1) To meet the requirement for local government approval of a dismantler certificate
+32 under ORS 822.110 or a supplemental certificate under ORS 822.125, an applicant must comply with
+33 any regulations established by a city or county under this section and must obtain the approval of
+34 the governing body of the:
+35 (a) City, if the business is or will be carried on within an incorporated city of less than 100,000
+36 population.
+37 (b) County, if the business is or will be carried on outside of any incorporated city.
+38 (2) A city or county governing body shall grant approval of a dismantler certificate [or
+39 renewal] or a supplemental certificate when requested under this section if the governing body:
+40 (a) Approves the applicant as being suitable to establish, maintain or operate a motor vehicle
+41 dismantling business;
+42 (b) Determines that the location or proposed location meets the requirements for location under
+43 ORS 822.110;
+44 (c) Determines that the location does not violate any prohibition under ORS 822.135; and
+45 (d) Approves the location and determines that the location complies with any regulations
+[9]
+
+A-Eng. SB 1544
+1 adopted by a city or county under this section.
+2 (3) The governing body of a city or county may regulate the expansion of premises or the es-
+3 tablishment of premises at a new location under a dismantler certificate. An applicant must comply
+4 with the regulations before the Department of Transportation may issue a supplemental dismantler
+5 certificate. In adopting regulations under this subsection, a governing body:
+6 (a) Shall consider the extent of development of surrounding property as a residential area;
+7 (b) Shall consider the proximity of churches, schools, hospitals, public buildings or other places
+8 of public gathering;
+9 (c) Shall consider the sufficiency in number of other motor vehicle dismantling businesses in the
+10 vicinity;
+11 (d) Shall consider the health, safety and general welfare of the public;
+12 (e) May establish zones in which motor vehicle dismantling businesses are permissible and other
+13 zones where they are prohibited; and
+14 (f) May prescribe limitations on the dimensions of the premises on which motor vehicle dis-
+15 mantling businesses are conducted.
+16 (4) Regulations of a city governing body that are adopted under this section apply to motor ve-
+17 hicle dismantling businesses located outside of and within six miles of the boundaries of the city
+18 unless the county governing body in which the area is located has adopted regulations under this
+19 section that are applicable in the area.
+20 (5) Before granting approval for a supplemental dismantler certificate, the governing body of a
+21 city or county shall notify all property owners that are or that will be adjacent to the motor vehicle
+22 dismantling business once the business moves, expands or opens an additional place of business.
+23 SECTION 22. ORS 822.125 is amended to read:
+24 822.125. (1) The holder of a current, valid dismantler certificate issued under ORS 822.110 is not
+25 subject to the prohibitions and penalties under ORS 822.100 as long as the holder’s motor vehicle
+26 dismantling business is conducted in the location approved under the certificate.
+27 (2) The holder of a dismantler certificate may expand the dimensions or move a place of business
+28 approved under the dismantler certificate or open an additional place of business under the certif-
+29 icate upon issuance of a supplemental dismantler certificate by the Department of Transportation.
+30 The following apply to supplemental certificates issued under this subsection:
+31 (a) The department shall grant a supplemental certificate upon request of an applicant under
+32 this subsection if the applicant obtains local government permission for the supplemental certificate
+33 under ORS 822.140.
+34 [(b) Upon application for renewal of the supplemental certificate, the department may waive the
+35 requirement that an applicant for renewal under this subsection obtain local government approval un-
+36 der ORS 822.140 of the suitability of the applicant to establish, maintain or operate a motor vehicle
+37 dismantling business.]
+38 [(c)] (b) A fee shall be charged for a supplemental dismantler certificate under ORS 822.700.
+39 (3) A dismantler certificate is valid for a two-year period and may be renewed as provided by
+40 the department. The department shall only renew the certificate of any certificate holder who does
+41 all of the following:
+42 (a) Pays the required fee for renewal under ORS 822.700.
+43 (b) Completes the application described in ORS 822.115.
+44 [(c) Obtains local government approval under ORS 822.140. The department may waive the re-
+45 quirement that an applicant for renewal obtain local government approval under ORS 822.140 of the
+[10]
+
+A-Eng. SB 1544
+1 suitability of the applicant to establish, maintain or operate a motor vehicle dismantling business.]
+2 [(d)] (c) Maintains a current bond that meets the requirements under ORS 822.120.
+3 (4) The department may provide the holder of a dismantler certificate with identification cards
+4 in the names of the owners of the business or in the names of authorized employees of the business.
+5 (5) The department may adopt suitable rules for the issuance and renewal of dismantler certif-
+6 icates and identification cards.
+7
+8 PUBLIC TRANSPORTATION PROVIDERS
+9
+10 SECTION 23. ORS 184.752 is amended to read:
+11 184.752. As used in ORS 184.752 to 184.766:
+12 (1) “Public transportation service provider” includes a qualified entity and a city, county, special
+13 district, intergovernmental entity or any other political subdivision or municipal or public corpo-
+14 ration that provides public transportation services and is not otherwise described in subsection (2)
+15 of this section.
+16 (2) “Qualified entity” means the following:
+17 (a)(A) Counties in which no part of a mass transit district or transportation district exists; or
+18 (B) Intergovernmental entities who are providing public transportation services on behalf
+19 of a county;
+20 (b) Mass transit districts organized under ORS 267.010 to 267.394;
+21 (c) Transportation districts organized under ORS 267.510 to 267.650; and
+22 (d)(A) Federally recognized Indian tribes; or
+23 (B) Intergovernmental entities who are providing public transportation services on behalf
+24 of a tribe.
+25
+26 CAPTIONS
+27
+28 SECTION 24. The unit captions used in this 2026 Act are provided only for the conven-
+29 ience of the reader and do not become part of the statutory law of this state or express any
+30 legislative intent in the enactment of this 2026 Act.
+31
+32 EFFECTIVE DATE
+33
+34 SECTION 25. This 2026 Act takes effect on the 91st day after the date on which the 2026
+35 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+36
+[11]
+
+[DELETED:  B 1 i n a n o o t p o t P ( t r c b t L A I i a e b s o t e f o t T A t O t r o i p w c r T o s h T A t t d o O t u t c o f a d T A s c e m g f t p p.( t D o T t s t d o u s f p e a t u a t c o  8 8 8 a 8 a s 1 a 3 c 3 O L.N o T s t t c o i c o t L A r tno T d p i i t d p a p:M[]]
+[DELETED: .S.( i c o t L A r t t o t 4.N l.S 6.T D o T s e a d o t u b o a s o o s d o t t.( N O 1 t m e t p d p d e a f t.O T O T C s r o a o t D o t t J L A C e b O 1 a t  C o T e b O 1 i c w c c T i d t c o t t i a r u t s m n r]
+[DELETED:  1 O 1 a a b s 5 c 1 O L 2 ( T O T C s a a C I A o w t m t e o t D o T t s o k p m a w s a b t b t d t T C[] A r t t T r m i r o wfT T c c o 1 m a b t G T m o t]
+[DELETED:  T m w r c a w h e w o t O m w r a c a w h e w o t O m w r a r g a w h e w onp O m w r t a c o b t e i O;a T G s a m i t d o t l d i s ( o t s T c[] o i t m p i 1 t i t l o j t r f f u s]
+[DELETED:  A m o t m o t c c a q f t t o O a b t T c s m a t a p s b t c o t c oy T D o T s p a a s f m a r Q m a d i O 2 o t a c a e t c o c m a f i o t l o j t r f a s t t []c o i c C o T o t L A r t t u s 1  t 2[] t t [] c o C o T P t p a l 2 p o t m r f t 1 O 3 a a b s 1 c 1 O L 2 ( ( O e t y t O D o A S s p f t c o]
+[DELETED:  i s ( o t s t i T d m u a s d t d d w b a p s i s ( o t s I d t s t d m a c o v f p o T d m a a s r t t p i t s r b t [] c C o T t s t w a t r s d i A I s 3 ( o t O C I s a a n t L A s e O 3 a a b s 1 a 1 c 1 O L 2 ( O e t y t O D o A S s p f t c o i s ( o t s t i T d m u a s d t d d w b a p s i s ( o t s I d t s t d m a c o v f p o T d m a a s r t t p i t s r b]
+[DELETED: [] c T T L A w a t r s d i A I s 3 ( o t O C I s a a n t L A s e T L A h n c w s ( o t s w 1[] c C o T 5 N l t S 1 o e c y t D o T[] A r t t i t m p b O 1 a O 8 a 8 b s 1 a 3 [] c 4 O L t 2 A P s m f t l f d g f f r]
+[DELETED:  b t D o T u t s t p D o a m f p f t t i c a a t u f s t l f d g f f r A r p f u t s o w t a T d m u m i t f t p t d a c[] r t e t p o i r o p t a i t r T I a f r i g a s d a a] c o i c o t L A T s o t n o p u p r a o p f tsq 8 ( A u i t s “ i p m a s h p f t c o c t t [] c o i c o t C o T t i t c a t p]
+[DELETED:  T p c l t $ m a t c i s t c o c i r T p c $ m o m a t c i s t c o c i r ( I c w t s r t d i p r f u t m f t s a c i s n t i t o o t s a e f r f l t t []c o C o T J,2 ( T m t r f l g)A c o c g b s g a o a d c  a b s t e m o o a m vgb A t l a d t t l c w a r]
+[DELETED:  o a c o c m r t e o p o t e M p l o t d o t p o w m v d d b l o o a w s m o t b o t c t c g b i w t a i t t p a p u O 8 a l a t h u t c u i o a s d c b T d s g a s c u r o a a u U a f r o t s c t d m w t O 8 o t s o t a t e m o o a m vgb] a t p a m b r a p b O l g a u O 8 T d m w t r t a a f r o l g a u]
+[DELETED: ] T i e o a o p s o m o p c.T.T]

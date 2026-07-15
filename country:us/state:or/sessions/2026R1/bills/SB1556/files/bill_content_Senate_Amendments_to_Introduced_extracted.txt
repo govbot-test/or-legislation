@@ -1,0 +1,754 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Senate Amendments to Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SENATE AMENDMENTS TO
+SENATE BILL 1556
+By COMMITTEE ON JUDICIARY
+February 13
+1 On page 1 of the printed bill, line 3, delete “and 305.875” and insert “, 305.875 and 314.840”.
+2 Delete lines 6 through 27 and delete pages 2 through 4 and insert:
+3 “SECTION 1. Section 2 of this 2026 Act is added to and made a part of ORS 305.404 to
+4 305.560.
+5 “SECTION 2. (1) Notwithstanding ORS 8.690, 9.160, 9.320 or 203.145 or ORS chapter 180,
+6 and notwithstanding ORS 9.241 or any rule adopted thereunder unless the rule particularly
+7 refers to the magistrate division of the Oregon Tax Court, in lieu of appearing by an attorney
+8 who is an active licensee of the Oregon State Bar:
+9 “(a) A party to a proceeding in the magistrate division of the Oregon Tax Court may be
+10 represented by a natural person designated by the party and recognized by the court as an
+11 authorized representative under this section.
+12 “(b) A party that is represented under this subsection is bound by all things done by the
+13 authorized representative and may not thereafter claim that any proceeding was legally de-
+14 fective because the party was not represented by an attorney licensed to practice law in
+15 Oregon.
+16 “(c)(A) A taxpayer that is a natural person may designate as the taxpayer’s represen-
+17 tative any other natural person, including but not limited to, a certified public accountant,
+18 a real estate broker or principal real estate broker, an appraiser, a tax preparer or tax
+19 consultant or a family member of the taxpayer.
+20 “(B) A taxpayer that is a legal entity must designate as the taxpayer’s representative in
+21 the magistrate division of the Oregon Tax Court a natural person, including but not limited
+22 to, a certified public accountant, a real estate broker or principal real estate broker, an ap-
+23 praiser, a tax preparer or tax consultant or an owner, partner, shareholder, member, officer
+24 or employee of the legal entity.
+25 “(C) Any other party, including the Department of Revenue or a local government, must
+26 designate as the party’s representative in the magistrate division of the Oregon Tax Court
+27 an officer or authorized employee of the party or of the administrator of the tax at issue
+28 before the tax court.
+29 “(2)(a) A taxpayer shall designate a representative under this section by filing with the
+30 court a written authorization in a form acceptable to the court.
+31 “(b) Any other party shall designate a representative under this section by filing a
+32 pleading, motion or notice with the court naming the representative on behalf of the party.
+33 “(3) The court shall recognize a representative for purposes of this section upon desig-
+34 nation as provided under subsection (2) of this section, or may recognize a representative
+35 when it appears to the satisfaction of the magistrate that a representative has authority to
+LC 245/SB 1556-2
+1 represent the party.
+2 “(4) Upon recognizing a representative of a taxpayer other than an attorney licensed to
+3 practice law in Oregon, the court shall provide written notice of the recognition to all par-
+4 ties, and shall include with the notice a statement of the provisions of subsection (1)(b) of
+5 this section.
+6 “(5) The represented party, or the court on its own motion, may revoke the authority
+7 of an authorized representative to represent a party in a particular case.
+8 “(6) A representative recognized by the court under this section shall also be recognized
+9 by the Department of Revenue as the authorized representative of the party for purposes
+10 of the proceeding in the magistrate division of the Oregon Tax Court.
+11 “SECTION 3. ORS 305.239 is amended to read:
+12 “305.239. (1) Notwithstanding ORS 9.320:
+13 “(a) Any person who is qualified to practice law or public accountancy in this state, any person
+14 who has been granted active enrollment to practice before the Internal Revenue Service and who
+15 is qualified to prepare tax returns in this state or any person who is the authorized employee of a
+16 taxpayer and is regularly employed by the taxpayer in tax matters may represent the taxpayer be-
+17 fore [a tax court magistrate or] the Department of Revenue in any conference or proceeding with
+18 respect to the administration of any tax.
+19 “(b) Any person who is licensed by the State Board of Tax Practitioners or who is exempt from
+20 such licensing requirement as provided for and limited by ORS 673.610 may represent a taxpayer
+21 before [a tax court magistrate or] the department in any conference or proceeding with respect to
+22 the administration of any tax on or measured by net income.
+23 “(c) Any shareholder of an S corporation, as defined in section 1361 of the Internal Revenue
+24 Code, as amended and in effect on December 31, 2023, may represent the corporation in any pro-
+25 ceeding before [a tax court magistrate or] the department in the same manner as if the shareholder
+26 were a partner and the S corporation were a partnership. The S corporation must designate in
+27 writing a tax matters shareholder authorized to represent the S corporation.
+28 “(d) An individual who is licensed as a real estate broker or principal real estate broker under
+29 ORS 696.022 or is a state certified appraiser or state licensed appraiser under ORS 674.310 or is a
+30 registered appraiser under ORS 308.010 may represent a taxpayer before [a tax court magistrate or]
+31 the department in any conference or proceeding with respect to the administration of any ad
+32 valorem property tax.
+33 “(e) A general partner who has been designated by members of a partnership as their tax mat-
+34 ters partner under ORS 305.242 may represent those partners in any conference or proceeding with
+35 respect to the administration of any tax on or measured by net income.
+36 “(f) Any person authorized under rules adopted by the department may represent a taxpayer
+37 before the department in any conference or proceeding with respect to any tax. Rules adopted under
+38 this paragraph, to the extent feasible, shall be consistent with federal law that governs represen-
+39 tation before the Internal Revenue Service, as federal law is amended and in effect on December 31,
+40 2023.
+41 “[(g) Any person authorized under rules adopted by the tax court may represent a taxpayer in a
+42 proceeding before a tax court magistrate.]
+43 “(2) A person may not be recognized as representing a taxpayer pursuant to this section unless
+44 there is first filed with the [magistrate or] department a written authorization, or unless it appears
+45 to the satisfaction of the [magistrate or] department that the representative does in fact have au-
+SA to SB 1556 Page 2
+1 thority to represent the taxpayer. [A person recognized as an authorized representative under rules
+2 or procedures adopted by the tax court shall be considered an authorized representative by the de-
+3 partment.]
+4 “(3) A taxpayer represented by someone other than an attorney is bound by all things done by
+5 the authorized representative, and may not thereafter claim any proceeding was legally defective
+6 because the taxpayer was not represented by an attorney.
+7 “(4) Prior to the holding of a conference or proceeding before the [tax court magistrate or] de-
+8 partment, written notice shall be given by the [magistrate or] department to the taxpayer of the
+9 provisions of subsection (3) of this section.
+10 “SECTION 4. ORS 305.242 is amended to read:
+11 “305.242. (1)(a) When the treatment of partnership items on a partner’s return is consistent with
+12 the treatment of that item on the partnership return and results in a notice of deficiency, the part-
+13 ners may designate a tax matters partner to represent each of them before the Department of Re-
+14 venue in any conference or [before a tax court magistrate] in any proceeding with respect to the
+15 administration of any tax on or measured by net income.
+16 “(b) Notwithstanding paragraph (a) of this subsection, a tax matters partner shall be designated
+17 as provided in ORS 314.733 (2), in the case of a partnership subject to ORS 314.731 to 314.737.
+18 “(2) The designation of a tax matters partner shall be made in writing and filed with the de-
+19 partment [or magistrate] within 30 days after the date of the notice of deficiency. The tax matters
+20 partner must be:
+21 “(a) A general partner in the partnership at some time during the taxable year; or
+22 “(b) A general partner in the partnership at the time the designation is made.
+23 “(3) If a notice explaining the partnership adjustments is mailed by the department to the tax
+24 matters partner with respect to any partnership taxable year, the tax matters partner shall supply
+25 the department [or, if applicable, the magistrate] with the name, address, profits interest and taxpayer
+26 identification number of each person who was a partner in the partnership at any time during the
+27 taxable year, unless that information was provided in the partnership return for that year.
+28 “(4) A timely request for a conference filed with the department [or appeal filed with the tax
+29 court] by the tax matters partner shall be considered as a request [or an appeal] by all of the part-
+30 ners represented by the tax matters partner, and all issues regarding treatment of partnership items
+31 shall be resolved in a single conference.
+32 “(5) A partner who elects to be represented by a tax matters partner, or any partner in a part-
+33 nership subject to ORS 314.731 to 314.737, shall be bound by all things done by the tax matters
+34 partner and may not thereafter claim that any act or proceeding was legally defective because the
+35 partner was not represented by an attorney.
+36 “SECTION 5. ORS 305.875 is amended to read:
+37 “305.875. In any meeting or communication with the Department of Revenue, including but not
+38 limited to audits, conferences, interviews and any other meeting or communication between the
+39 taxpayer and the department, the taxpayer shall have the following rights, unless waived by the
+40 taxpayer:
+41 “(1) The right to an explanation, by an officer or employee of the department before or during
+42 the meeting of:
+43 “(a) The audit, conference or meeting process and the taxpayer’s rights under such process; and
+44 “(b) The collection process and the taxpayer’s rights under such process.
+45 “(2) The right to make an audio recording of any meeting relating to the determination or col-
+SA to SB 1556 Page 3
+1 lection of any tax with the department representative, using the taxpayer’s own equipment, and at
+2 the taxpayer’s own expense.
+3 “(3) If the department makes an audio recording of the meeting, the taxpayer has the right to
+4 advance notice of the recording and a copy of the recording upon request. The taxpayer shall re-
+5 imburse the department the reasonable cost of the copy.
+6 “(4) The right to consult with an attorney, certified public accountant, enrolled agent, or an
+7 other person permitted to represent a taxpayer at any meeting before the department, if the tax-
+8 payer clearly states to the department representative at any time during any meeting, that the tax-
+9 payer wishes to consult with the person. This subsection does not apply to a meeting initiated by
+10 an administrative subpoena.
+11 “(5) The right to be represented by anyone who is permitted to represent the taxpayer before
+12 the department, as provided under ORS 305.239 and [305.245] section 2 of this 2026 Act.
+13 “(6) The right not to be present, if represented, at the meeting unless subpoenaed by the de-
+14 partment pursuant to ORS 305.190, or other laws of this state.
+15 “SECTION 6. ORS 314.840 is amended to read:
+16 “314.840. (1) The Department of Revenue may:
+17 “(a) Furnish any taxpayer, representative authorized to represent the taxpayer under ORS
+18 305.239 or section 2 of this 2026 Act or person designated by the taxpayer under ORS 305.193, upon
+19 request of the taxpayer, representative or designee, with a copy of the taxpayer’s income tax return
+20 filed with the department for any year, or with a copy of any report filed by the taxpayer in con-
+21 nection with the return, or with any other information the department considers necessary.
+22 “(b) Publish lists of taxpayers who are entitled to unclaimed tax refunds.
+23 “(c) Publish statistics so classified as to prevent the identification of income or any particulars
+24 contained in any report or return.
+25 “(d) Disclose a taxpayer’s name, address, telephone number, refund amount, amount due, Social
+26 Security number, employer identification number or other taxpayer identification number to the ex-
+27 tent necessary in connection with collection activities or the processing and mailing of correspond-
+28 ence or of forms for any report or return required in the administration of any local tax under ORS
+29 305.620 or any law imposing a tax upon or measured by net income.
+30 “(2) The department also may disclose and give access to information described in ORS 314.835
+31 to:
+32 “(a) The Governor of the State of Oregon or the authorized representative of the Governor with
+33 respect to an individual who is designated as being under consideration for appointment or reap-
+34 pointment to an office or for employment in the office of the Governor. The information disclosed
+35 shall be confined to whether the individual:
+36 “(A) Has filed returns with respect to the taxes imposed by ORS chapter 316 for those of not
+37 more than the three immediately preceding years for which the individual was required to file an
+38 Oregon individual income tax return.
+39 “(B) Has failed to pay any tax within 30 days from the date of mailing of a deficiency notice or
+40 otherwise respond to a deficiency notice within 30 days of its mailing.
+41 “(C) Has been assessed any penalty under the Oregon personal income tax laws and the nature
+42 of the penalty.
+43 “(D) Has been or is under investigation for possible criminal offenses under the Oregon personal
+44 income tax laws. Information disclosed pursuant to this paragraph shall be used only for the pur-
+45 pose of making the appointment, reappointment or decision to employ or not to employ the individ-
+SA to SB 1556 Page 4
+1 ual in the office of the Governor.
+2 “(b) An officer or employee of the Oregon Department of Administrative Services duly author-
+3 ized or employed to prepare revenue estimates, or a person contracting with the Oregon Department
+4 of Administrative Services to prepare revenue estimates, in the preparation of revenue estimates
+5 required for the Governor’s budget under ORS 291.201 to 291.224, or required for submission to the
+6 Emergency Board or the Joint Interim Committee on Ways and Means, or if the Legislative As-
+7 sembly is in session, to the Joint Committee on Ways and Means, and to the Legislative Revenue
+8 Officer or Legislative Fiscal Officer under ORS 291.342, 291.348 and 291.445. The Department of
+9 Revenue shall disclose and give access to the information described in ORS 314.835 for the purposes
+10 of this paragraph only if:
+11 “(A) The request for information is made in writing, specifies the purposes for which the request
+12 is made and is signed by an authorized representative of the Oregon Department of Administrative
+13 Services. The form for request for information shall be prescribed by the Oregon Department of
+14 Administrative Services and approved by the Director of the Department of Revenue.
+15 “(B) The officer, employee or person receiving the information does not remove from the prem-
+16 ises of the Department of Revenue any materials that would reveal the identity of a personal or
+17 corporate taxpayer.
+18 “(c) The Commissioner of Internal Revenue or authorized representative, for tax administration
+19 and compliance purposes only.
+20 “(d) For tax administration and compliance purposes, the proper officer or authorized represen-
+21 tative of any of the following entities that has or is governed by a provision of law that meets the
+22 requirements of any applicable provision of the Internal Revenue Code as to confidentiality:
+23 “(A) A state;
+24 “(B) A city, county or other political subdivision of a state;
+25 “(C) The District of Columbia; or
+26 “(D) An association established exclusively to provide services to federal, state or local taxing
+27 authorities.
+28 “(e) The Multistate Tax Commission or its authorized representatives, for tax administration and
+29 compliance purposes only. The Multistate Tax Commission may make the information available to
+30 the Commissioner of Internal Revenue or the proper officer or authorized representative of any
+31 governmental entity described in and meeting the qualifications of paragraph (d) of this subsection.
+32 “(f) The Attorney General, assistants and employees in the Department of Justice, or other legal
+33 representative of the State of Oregon, to the extent the department deems disclosure or access
+34 necessary for the performance of the duties of advising or representing the department pursuant to
+35 ORS 180.010 to 180.240 and the tax laws of the state.
+36 “(g) Employees of the State of Oregon, other than of the Department of Revenue or Department
+37 of Justice, to the extent the department deems disclosure or access necessary for such employees
+38 to perform their duties under contracts or agreements between the department and any other de-
+39 partment, agency or subdivision of the State of Oregon, in the department’s administration of the
+40 tax laws.
+41 “(h) Other persons, partnerships, corporations and other legal entities, and their employees, to
+42 the extent the department deems disclosure or access necessary for the performance of such others’
+43 duties under contracts or agreements between the department and such legal entities, in the
+44 department’s administration of the tax laws.
+45 “(i) The Legislative Revenue Officer or authorized representatives upon compliance with ORS
+SA to SB 1556 Page 5
+1 173.850. Such officer or representative shall not remove from the premises of the department any
+2 materials that would reveal the identity of any taxpayer or any other person.
+3 “(j) The Department of Consumer and Business Services, to the extent the department requires
+4 such information to determine whether it is appropriate to adjust those workers’ compensation
+5 benefits the amount of which is based pursuant to ORS chapter 656 on the amount of wages or
+6 earned income received by an individual.
+7 “(k) Any agency of the State of Oregon, or any person, or any officer or employee of such
+8 agency or person to whom disclosure or access is given by state law and not otherwise referred to
+9 in this section, including but not limited to the Secretary of State as Auditor of Public Accounts
+10 under Article VI, section 2, of the Oregon Constitution; the Department of Human Services pursuant
+11 to ORS 412.094; the Division of Child Support of the Department of Justice and district attorney
+12 regarding cases for which they are providing child support services under ORS 25.080; the State
+13 Board of Tax Practitioners, pursuant to ORS 673.710; and the Oregon Board of Accountancy, pur-
+14 suant to ORS 673.415.
+15 “(L) The Director of the Department of Consumer and Business Services to determine that a
+16 person complies with ORS chapter 656 and the Director of the Employment Department to determine
+17 that a person complies with ORS chapters 657 and 657B, the following employer information:
+18 “(A) Identification numbers.
+19 “(B) Names and addresses.
+20 “(C) Inception date as employer.
+21 “(D) Nature of business.
+22 “(E) Entity changes.
+23 “(F) Date of last payroll.
+24 “(m) The Director of the Oregon Health Authority to determine that a person has the ability to
+25 pay for care that includes services provided by the Oregon State Hospital, or the Oregon Health
+26 Authority to collect any unpaid cost of care as provided by ORS chapter 179.
+27 “(n) Employees of the Employment Department:
+28 “(A) To the extent the Department of Revenue deems that the disclosure of or access to infor-
+29 mation on a combined tax report filed under ORS 316.168, an annual report filed under ORS 316.202
+30 or a return filed under ORS 314.360 is necessary for the performance of the department’s duties in
+31 administering and enforcing the tax imposed by ORS chapter 657 and the family and medical leave
+32 insurance program under ORS chapter 657B; or
+33 “(B) To the extent the Department of Revenue deems that the disclosure of or access to the
+34 information is helpful for the performance of the department’s duties in administering and enforcing
+35 the tax imposed by ORS chapter 657 and the family and medical leave insurance program under ORS
+36 chapter 657B and for detecting the occurrence of identity theft or fraud through the examination
+37 of the following taxpayer particulars:
+38 “(i) Individual taxpayer identification number.
+39 “(ii) Name, address and date of birth.
+40 “(iii) Employer name, employer identification number and amount of wages paid.
+41 “(iv) Self-employment income amount and source.
+42 “(v) Other particulars of the return as defined in ORS 314.835, at the discretion of the Director
+43 of the Department of Revenue, on a case-by-case basis.
+44 “(o) The State Fire Marshal to assist the State Fire Marshal in carrying out duties, functions
+45 and powers under ORS 453.307 to 453.414, the employer or agent name, address, telephone number
+SA to SB 1556 Page 6
+1 and standard industrial classification, if available.
+2 “(p) Employees of the Department of State Lands or State Treasurer for the purposes of re-
+3 turning unclaimed property and identifying, locating and publishing lists of taxpayers entitled to
+4 unclaimed refunds under ORS 98.302 to 98.436.
+5 “(q) In addition to the disclosure allowed under ORS 305.225, state or local law enforcement
+6 agencies to assist in the investigation or prosecution of the following criminal activities:
+7 “(A) Mail theft of a check, in which case the information that may be disclosed shall be limited
+8 to the stolen document, the name, address and taxpayer identification number of the payee, the
+9 amount of the check and the date printed on the check.
+10 “(B) The counterfeiting, forging or altering of a check submitted by a taxpayer to the Depart-
+11 ment of Revenue or issued by the Department of Revenue to a taxpayer, in which case the infor-
+12 mation that may be disclosed shall be limited to the counterfeit, forged or altered document, the
+13 name, address and taxpayer identification number of the payee, the amount of the check, the date
+14 printed on the check and the altered name and address.
+15 “(r) The United States Postal Inspection Service or a federal law enforcement agency, including
+16 but not limited to the United States Department of Justice, to assist in the investigation of the fol-
+17 lowing criminal activities:
+18 “(A) Mail theft of a check, in which case the information that may be disclosed shall be limited
+19 to the stolen document, the name, address and taxpayer identification number of the payee, the
+20 amount of the check and the date printed on the check.
+21 “(B) The counterfeiting, forging or altering of a check submitted by a taxpayer to the Depart-
+22 ment of Revenue or issued by the Department of Revenue to a taxpayer, in which case the infor-
+23 mation that may be disclosed shall be limited to the counterfeit, forged or altered document, the
+24 name, address and taxpayer identification number of the payee, the amount of the check, the date
+25 printed on the check and the altered name and address.
+26 “(s) The United States Financial Management Service, for purposes of facilitating the offsets
+27 described in ORS 305.612.
+28 “(t) A municipal corporation of this state for purposes of assisting the municipal corporation in
+29 the administration of a tax of the municipal corporation that is imposed on or measured by income,
+30 wages or net earnings from self-employment. Any disclosure under this paragraph may be made only
+31 pursuant to a written agreement between the Department of Revenue and the municipal corporation
+32 that ensures the confidentiality of the information disclosed.
+33 “(u) A consumer reporting agency, to the extent necessary to carry out the purposes of ORS
+34 314.843.
+35 “(v) The Public Employees Retirement Board, to the extent necessary to carry out the purposes
+36 of ORS 238.372 to 238.384, and to any public employer, to the extent necessary to carry out the
+37 purposes of ORS 237.635 (3) and 237.637 (2).
+38 “(w) The Secretary of State for the purpose of initiating or supporting a recommendation under
+39 ORS 60.032 (3) or 63.032 (3) to administratively dissolve a corporation or limited liability company
+40 that the Director of the Department of Revenue determines has failed to comply with applicable tax
+41 laws of the state.
+42 “(x)(A) A multijurisdictional information sharing organization formed with oversight by the
+43 Internal Revenue Service to combat identity theft and fraud, if the Department of Revenue is a
+44 member of the organization; and
+45 “(B) Tax preparation software vendors that are members of an organization described in sub-
+SA to SB 1556 Page 7
+1 paragraph (A) of this paragraph, if information described in ORS 314.835 is shared for the purpose
+2 of investigating industry leads of potential identity theft or fraud.
+3 “(y) The State Treasurer, for the purpose of providing employer responses, as indicated on an-
+4 nual withholding reports submitted to the Department of Revenue, about whether an employer offers
+5 a qualified retirement savings plan as listed in ORS 178.215.
+6 “(z) The Oregon 529 Savings Board, for the purpose of facilitating the establishment of accounts
+7 by personal income taxpayers under ORS 178.335 within the Oregon 529 Savings Network through
+8 the use of income tax return forms.
+9 “(3)(a) Each officer or employee of the department and each person described or referred to in
+10 subsection (2)(a), (b), (f) to (L), (n) to (q) or (w) of this section to whom disclosure or access to the
+11 tax information is given under subsection (2) of this section or any other provision of state law,
+12 prior to beginning employment or the performance of duties involving such disclosure or access,
+13 shall be advised in writing of the provisions of ORS 314.835 and 314.991, relating to penalties for the
+14 violation of ORS 314.835, and shall as a condition of employment or performance of duties execute
+15 a certificate for the department, in a form prescribed by the department, stating in substance that
+16 the person has read these provisions of law, that the person has had them explained and that the
+17 person is aware of the penalties for the violation of ORS 314.835.
+18 “(b) The disclosure authorized in subsection (2)(r) of this section shall be made only after a
+19 written agreement has been entered into between the Department of Revenue and the person de-
+20 scribed in subsection (2)(r) of this section to whom disclosure or access to the tax information is
+21 given, providing that:
+22 “(A) Any information described in ORS 314.835 that is received by the person pursuant to sub-
+23 section (2)(r) of this section is confidential information that may not be disclosed, except to the ex-
+24 tent necessary to investigate or prosecute the criminal activities described in subsection (2)(r) of
+25 this section;
+26 “(B) The information shall be protected as confidential under applicable federal and state laws;
+27 and
+28 “(C) The United States Postal Inspection Service or the federal law enforcement agency shall
+29 give notice to the Department of Revenue of any request received under the federal Freedom of In-
+30 formation Act, 5 U.S.C. 552, or other federal law relating to the disclosure of information.
+31 “(4) The Department of Revenue may recover the costs of furnishing the information described
+32 in subsection (2)(L), (m) and (o) to (q) of this section from the respective agencies.
+33 “SECTION 7. ORS 305.245 and 305.494 are repealed.
+34 “SECTION 8. Section 2 of this 2026 Act, the amendments to ORS 305.239, 305.242, 305.875
+35 and 314.840 by sections 3 to 6 of this 2026 Act and the repeal of ORS 305.245 and 305.494 by
+36 section 7 of this 2026 Act apply to proceedings commenced in the magistrate division of the
+37 Oregon Tax Court on or after January 1, 2027.
+38 “SECTION 9. This 2026 Act takes effect on the 91st day after the date on which the 2026
+39 regular session of the Eighty-third Legislative Assembly adjourns sine die.”.
+40
+SA to SB 1556 Page 8
+[DELETED:  A T 1.S 2 o t 2 A.( b t p w n r b a a l t p l i A t t i a n p m d a t t r r e b o p r e b a a a t p o t o o a e o t p o o t a o t t A o p s d a r u t s b f  d a p u s ( o t s o m r a r]
+[DELETED:  a s iss T r p o t c o i o m m r t D o R a t a r o t p f p b g a e t p b t I R S a w [] t D o R i a c o p w t c m o l r a p f a l b O 6 m r a t [] t d i a c o p w r t t c m o A s o a S c a d i s 1 o t I R a a a i e o D 3 2 m r t c i a p[] a p a t S c w a p T S c m d i[ d i a c o p w r t t a o a a A p a u r a b t d m r a t p t t e f s b c w f l t g r A p a u r a[] t s o t [] d t t r d i f h a o6P]
+[DELETED:  r a a a r u r p a b t t c s b c a a r b t d a r a m n t c a p w l d t [] c m o w n s b g b t [] d t t t o t o m d a t m p i a c o [] i a p w r t t a t c m T d o a t m p s b m i w a f w t d[] t n o d T t m I a n e t p a i m b[] A t r f a c f w t d  a f w t tto[] s t O 3 t 3 s b b b a t d b t t m t a c i a a o m o c b t a t d t t s h t f r u w b t6P]
+[DELETED:  t t h t r t n o t r a a c o t r u r T t s T r t c w a a c p a e a o a p p t r a t a a m b t d i t t w t c w t p T s d n a b r b a w i p t r t t b[] T r n t b p i r a t m u s b t d F a t r a t r t t u O w t d f a y o t a i w i d a b u c f a o r o f e i t o o t G T i d H f r w r t t t i b O c 3 t i p y f w t i w r t f a t.I6P]
+[DELETED:  A o o e o A S t p r e i t p o r e B o t J I C o W a M o i t L A i i s t t J C o W a M a o L F O u O 2 2 a 2 T D o T f f r f i s b p b t O D o o t D o R a m t w r t i o a p oet p o T M T C m m t i a C o I R o t p o o a r o a o t S o O t t e t d d d o a J t t e t d d d o a n f s e p t d u c o a b t d a a o d a o s o t S o O i t d a o txl e t u c o a b t d a s l e i t T L R O o a r u c w O6P]
+[DELETED:  S o o r s n r f t p o t d a i t d w i i a t a t w c t a o w i b p t O c 6 o t a o w o A a o t S o O o a p o a o o e o s t s i b n l t t S o S a A o P A t D o C S o t D o J a d a c f w t a p c s s u O 2 t S P p t O 6 a t O B o A p T D o t D o C a B S t d t  f c t i s p b t O S H o t O H T t e t D o R d t t d o o a t t 6 a f d t o o i t o f t t e T S F M t a t S F M6P]
+[DELETED:  E o t D o S L o S T f t p o r u p a i l a p l o t e t I a t t d a u O 3 s o l l e t s d t n a a t i n o t p t T c f o a o a o R o i b t D o R t a t i w c t i t m b d s b l t t c f o a d t t a o t c t d t s d t n a a t i n o t p t T c f o a o a o R o i b t D o R t a t i w c t i t m b d s b l t t c f o a d t t a o t c t d T U S F M S f p o f t o A c r a t t e n t c o t p o O O 2 t 2 a t a p e t t e n t c o t o l l c A m i s o f w o b t R S t c i t a f i t D o R i  T p s v t a m o a o d i s6P]
+[DELETED:  T S T p i t u i i g u s ( o t s o a o p o s l t b e o t p o d i s d o a c f t p h h t e a t t T d a i s ( o t s s b m o a  a h b e i b t D o R a t p d i s ( o t s t w d o a t t t i i n t i o p t c a d i s ( oss T U S P I S o t f l e a s.O.S.T6P]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+SENATE AMENDMENTS TO
+SENATE BILL 1556
+By COMMITTEE ON JUDICIARY
+February 13
+1 On page 1 of the printed bill, line 3, delete “and 305.875” and insert “, 305.875 and 314.840”.
+2 Delete lines 6 through 27 and delete pages 2 through 4 and insert:
+3 “SECTION 1. Section 2 of this 2026 Act is added to and made a part of ORS 305.404 to
+4 305.560.
+5 “SECTION 2. (1) Notwithstanding ORS 8.690, 9.160, 9.320 or 203.145 or ORS chapter 180,
+6 and notwithstanding ORS 9.241 or any rule adopted thereunder unless the rule particularly
+7 refers to the magistrate division of the Oregon Tax Court, in lieu of appearing by an attorney
+8 who is an active licensee of the Oregon State Bar:
+9 “(a) A party to a proceeding in the magistrate division of the Oregon Tax Court may be
+10 represented by a natural person designated by the party and recognized by the court as an
+11 authorized representative under this section.
+12 “(b) A party that is represented under this subsection is bound by all things done by the
+13 authorized representative and may not thereafter claim that any proceeding was legally de-
+14 fective because the party was not represented by an attorney licensed to practice law in
+15 Oregon.
+16 “(c)(A) A taxpayer that is a natural person may designate as the taxpayer’s represen-
+17 tative any other natural person, including but not limited to, a certified public accountant,
+18 a real estate broker or principal real estate broker, an appraiser, a tax preparer or tax
+19 consultant or a family member of the taxpayer.
+20 “(B) A taxpayer that is a legal entity must designate as the taxpayer’s representative in
+21 the magistrate division of the Oregon Tax Court a natural person, including but not limited
+22 to, a certified public accountant, a real estate broker or principal real estate broker, an ap-
+23 praiser, a tax preparer or tax consultant or an owner, partner, shareholder, member, officer
+24 or employee of the legal entity.
+25 “(C) Any other party, including the Department of Revenue or a local government, must
+26 designate as the party’s representative in the magistrate division of the Oregon Tax Court
+27 an officer or authorized employee of the party or of the administrator of the tax at issue
+28 before the tax court.
+29 “(2)(a) A taxpayer shall designate a representative under this section by filing with the
+30 court a written authorization in a form acceptable to the court.
+31 “(b) Any other party shall designate a representative under this section by filing a
+32 pleading, motion or notice with the court naming the representative on behalf of the party.
+33 “(3) The court shall recognize a representative for purposes of this section upon desig-
+34 nation as provided under subsection (2) of this section, or may recognize a representative
+35 when it appears to the satisfaction of the magistrate that a representative has authority to
+LC 245/SB 1556-2
+
+1 represent the party.
+2 “(4) Upon recognizing a representative of a taxpayer other than an attorney licensed to
+3 practice law in Oregon, the court shall provide written notice of the recognition to all par-
+4 ties, and shall include with the notice a statement of the provisions of subsection (1)(b) of
+5 this section.
+6 “(5) The represented party, or the court on its own motion, may revoke the authority
+7 of an authorized representative to represent a party in a particular case.
+8 “(6) A representative recognized by the court under this section shall also be recognized
+9 by the Department of Revenue as the authorized representative of the party for purposes
+10 of the proceeding in the magistrate division of the Oregon Tax Court.
+11 “SECTION 3. ORS 305.239 is amended to read:
+12 “305.239. (1) Notwithstanding ORS 9.320:
+13 “(a) Any person who is qualified to practice law or public accountancy in this state, any person
+14 who has been granted active enrollment to practice before the Internal Revenue Service and who
+15 is qualified to prepare tax returns in this state or any person who is the authorized employee of a
+16 taxpayer and is regularly employed by the taxpayer in tax matters may represent the taxpayer be-
+17 fore [a tax court magistrate or] the Department of Revenue in any conference or proceeding with
+18 respect to the administration of any tax.
+19 “(b) Any person who is licensed by the State Board of Tax Practitioners or who is exempt from
+20 such licensing requirement as provided for and limited by ORS 673.610 may represent a taxpayer
+21 before [a tax court magistrate or] the department in any conference or proceeding with respect to
+22 the administration of any tax on or measured by net income.
+23 “(c) Any shareholder of an S corporation, as defined in section 1361 of the Internal Revenue
+24 Code, as amended and in effect on December 31, 2023, may represent the corporation in any pro-
+25 ceeding before [a tax court magistrate or] the department in the same manner as if the shareholder
+26 were a partner and the S corporation were a partnership. The S corporation must designate in
+27 writing a tax matters shareholder authorized to represent the S corporation.
+28 “(d) An individual who is licensed as a real estate broker or principal real estate broker under
+29 ORS 696.022 or is a state certified appraiser or state licensed appraiser under ORS 674.310 or is a
+30 registered appraiser under ORS 308.010 may represent a taxpayer before [a tax court magistrate or]
+31 the department in any conference or proceeding with respect to the administration of any ad
+32 valorem property tax.
+33 “(e) A general partner who has been designated by members of a partnership as their tax mat-
+34 ters partner under ORS 305.242 may represent those partners in any conference or proceeding with
+35 respect to the administration of any tax on or measured by net income.
+36 “(f) Any person authorized under rules adopted by the department may represent a taxpayer
+37 before the department in any conference or proceeding with respect to any tax. Rules adopted under
+38 this paragraph, to the extent feasible, shall be consistent with federal law that governs represen-
+39 tation before the Internal Revenue Service, as federal law is amended and in effect on December 31,
+40 2023.
+41 “[(g) Any person authorized under rules adopted by the tax court may represent a taxpayer in a
+42 proceeding before a tax court magistrate.]
+43 “(2) A person may not be recognized as representing a taxpayer pursuant to this section unless
+44 there is first filed with the [magistrate or] department a written authorization, or unless it appears
+45 to the satisfaction of the [magistrate or] department that the representative does in fact have au-
+SA to SB 1556 Page 2
+
+1 thority to represent the taxpayer. [A person recognized as an authorized representative under rules
+2 or procedures adopted by the tax court shall be considered an authorized representative by the de-
+3 partment.]
+4 “(3) A taxpayer represented by someone other than an attorney is bound by all things done by
+5 the authorized representative, and may not thereafter claim any proceeding was legally defective
+6 because the taxpayer was not represented by an attorney.
+7 “(4) Prior to the holding of a conference or proceeding before the [tax court magistrate or] de-
+8 partment, written notice shall be given by the [magistrate or] department to the taxpayer of the
+9 provisions of subsection (3) of this section.
+10 “SECTION 4. ORS 305.242 is amended to read:
+11 “305.242. (1)(a) When the treatment of partnership items on a partner’s return is consistent with
+12 the treatment of that item on the partnership return and results in a notice of deficiency, the part-
+13 ners may designate a tax matters partner to represent each of them before the Department of Re-
+14 venue in any conference or [before a tax court magistrate] in any proceeding with respect to the
+15 administration of any tax on or measured by net income.
+16 “(b) Notwithstanding paragraph (a) of this subsection, a tax matters partner shall be designated
+17 as provided in ORS 314.733 (2), in the case of a partnership subject to ORS 314.731 to 314.737.
+18 “(2) The designation of a tax matters partner shall be made in writing and filed with the de-
+19 partment [or magistrate] within 30 days after the date of the notice of deficiency. The tax matters
+20 partner must be:
+21 “(a) A general partner in the partnership at some time during the taxable year; or
+22 “(b) A general partner in the partnership at the time the designation is made.
+23 “(3) If a notice explaining the partnership adjustments is mailed by the department to the tax
+24 matters partner with respect to any partnership taxable year, the tax matters partner shall supply
+25 the department [or, if applicable, the magistrate] with the name, address, profits interest and taxpayer
+26 identification number of each person who was a partner in the partnership at any time during the
+27 taxable year, unless that information was provided in the partnership return for that year.
+28 “(4) A timely request for a conference filed with the department [or appeal filed with the tax
+29 court] by the tax matters partner shall be considered as a request [or an appeal] by all of the part-
+30 ners represented by the tax matters partner, and all issues regarding treatment of partnership items
+31 shall be resolved in a single conference.
+32 “(5) A partner who elects to be represented by a tax matters partner, or any partner in a part-
+33 nership subject to ORS 314.731 to 314.737, shall be bound by all things done by the tax matters
+34 partner and may not thereafter claim that any act or proceeding was legally defective because the
+35 partner was not represented by an attorney.
+36 “SECTION 5. ORS 305.875 is amended to read:
+37 “305.875. In any meeting or communication with the Department of Revenue, including but not
+38 limited to audits, conferences, interviews and any other meeting or communication between the
+39 taxpayer and the department, the taxpayer shall have the following rights, unless waived by the
+40 taxpayer:
+41 “(1) The right to an explanation, by an officer or employee of the department before or during
+42 the meeting of:
+43 “(a) The audit, conference or meeting process and the taxpayer’s rights under such process; and
+44 “(b) The collection process and the taxpayer’s rights under such process.
+45 “(2) The right to make an audio recording of any meeting relating to the determination or col-
+SA to SB 1556 Page 3
+
+1 lection of any tax with the department representative, using the taxpayer’s own equipment, and at
+2 the taxpayer’s own expense.
+3 “(3) If the department makes an audio recording of the meeting, the taxpayer has the right to
+4 advance notice of the recording and a copy of the recording upon request. The taxpayer shall re-
+5 imburse the department the reasonable cost of the copy.
+6 “(4) The right to consult with an attorney, certified public accountant, enrolled agent, or an
+7 other person permitted to represent a taxpayer at any meeting before the department, if the tax-
+8 payer clearly states to the department representative at any time during any meeting, that the tax-
+9 payer wishes to consult with the person. This subsection does not apply to a meeting initiated by
+10 an administrative subpoena.
+11 “(5) The right to be represented by anyone who is permitted to represent the taxpayer before
+12 the department, as provided under ORS 305.239 and [305.245] section 2 of this 2026 Act.
+13 “(6) The right not to be present, if represented, at the meeting unless subpoenaed by the de-
+14 partment pursuant to ORS 305.190, or other laws of this state.
+15 “SECTION 6. ORS 314.840 is amended to read:
+16 “314.840. (1) The Department of Revenue may:
+17 “(a) Furnish any taxpayer, representative authorized to represent the taxpayer under ORS
+18 305.239 or section 2 of this 2026 Act or person designated by the taxpayer under ORS 305.193, upon
+19 request of the taxpayer, representative or designee, with a copy of the taxpayer’s income tax return
+20 filed with the department for any year, or with a copy of any report filed by the taxpayer in con-
+21 nection with the return, or with any other information the department considers necessary.
+22 “(b) Publish lists of taxpayers who are entitled to unclaimed tax refunds.
+23 “(c) Publish statistics so classified as to prevent the identification of income or any particulars
+24 contained in any report or return.
+25 “(d) Disclose a taxpayer’s name, address, telephone number, refund amount, amount due, Social
+26 Security number, employer identification number or other taxpayer identification number to the ex-
+27 tent necessary in connection with collection activities or the processing and mailing of correspond-
+28 ence or of forms for any report or return required in the administration of any local tax under ORS
+29 305.620 or any law imposing a tax upon or measured by net income.
+30 “(2) The department also may disclose and give access to information described in ORS 314.835
+31 to:
+32 “(a) The Governor of the State of Oregon or the authorized representative of the Governor with
+33 respect to an individual who is designated as being under consideration for appointment or reap-
+34 pointment to an office or for employment in the office of the Governor. The information disclosed
+35 shall be confined to whether the individual:
+36 “(A) Has filed returns with respect to the taxes imposed by ORS chapter 316 for those of not
+37 more than the three immediately preceding years for which the individual was required to file an
+38 Oregon individual income tax return.
+39 “(B) Has failed to pay any tax within 30 days from the date of mailing of a deficiency notice or
+40 otherwise respond to a deficiency notice within 30 days of its mailing.
+41 “(C) Has been assessed any penalty under the Oregon personal income tax laws and the nature
+42 of the penalty.
+43 “(D) Has been or is under investigation for possible criminal offenses under the Oregon personal
+44 income tax laws. Information disclosed pursuant to this paragraph shall be used only for the pur-
+45 pose of making the appointment, reappointment or decision to employ or not to employ the individ-
+SA to SB 1556 Page 4
+
+1 ual in the office of the Governor.
+2 “(b) An officer or employee of the Oregon Department of Administrative Services duly author-
+3 ized or employed to prepare revenue estimates, or a person contracting with the Oregon Department
+4 of Administrative Services to prepare revenue estimates, in the preparation of revenue estimates
+5 required for the Governor’s budget under ORS 291.201 to 291.224, or required for submission to the
+6 Emergency Board or the Joint Interim Committee on Ways and Means, or if the Legislative As-
+7 sembly is in session, to the Joint Committee on Ways and Means, and to the Legislative Revenue
+8 Officer or Legislative Fiscal Officer under ORS 291.342, 291.348 and 291.445. The Department of
+9 Revenue shall disclose and give access to the information described in ORS 314.835 for the purposes
+10 of this paragraph only if:
+11 “(A) The request for information is made in writing, specifies the purposes for which the request
+12 is made and is signed by an authorized representative of the Oregon Department of Administrative
+13 Services. The form for request for information shall be prescribed by the Oregon Department of
+14 Administrative Services and approved by the Director of the Department of Revenue.
+15 “(B) The officer, employee or person receiving the information does not remove from the prem-
+16 ises of the Department of Revenue any materials that would reveal the identity of a personal or
+17 corporate taxpayer.
+18 “(c) The Commissioner of Internal Revenue or authorized representative, for tax administration
+19 and compliance purposes only.
+20 “(d) For tax administration and compliance purposes, the proper officer or authorized represen-
+21 tative of any of the following entities that has or is governed by a provision of law that meets the
+22 requirements of any applicable provision of the Internal Revenue Code as to confidentiality:
+23 “(A) A state;
+24 “(B) A city, county or other political subdivision of a state;
+25 “(C) The District of Columbia; or
+26 “(D) An association established exclusively to provide services to federal, state or local taxing
+27 authorities.
+28 “(e) The Multistate Tax Commission or its authorized representatives, for tax administration and
+29 compliance purposes only. The Multistate Tax Commission may make the information available to
+30 the Commissioner of Internal Revenue or the proper officer or authorized representative of any
+31 governmental entity described in and meeting the qualifications of paragraph (d) of this subsection.
+32 “(f) The Attorney General, assistants and employees in the Department of Justice, or other legal
+33 representative of the State of Oregon, to the extent the department deems disclosure or access
+34 necessary for the performance of the duties of advising or representing the department pursuant to
+35 ORS 180.010 to 180.240 and the tax laws of the state.
+36 “(g) Employees of the State of Oregon, other than of the Department of Revenue or Department
+37 of Justice, to the extent the department deems disclosure or access necessary for such employees
+38 to perform their duties under contracts or agreements between the department and any other de-
+39 partment, agency or subdivision of the State of Oregon, in the department’s administration of the
+40 tax laws.
+41 “(h) Other persons, partnerships, corporations and other legal entities, and their employees, to
+42 the extent the department deems disclosure or access necessary for the performance of such others’
+43 duties under contracts or agreements between the department and such legal entities, in the
+44 department’s administration of the tax laws.
+45 “(i) The Legislative Revenue Officer or authorized representatives upon compliance with ORS
+SA to SB 1556 Page 5
+
+1 173.850. Such officer or representative shall not remove from the premises of the department any
+2 materials that would reveal the identity of any taxpayer or any other person.
+3 “(j) The Department of Consumer and Business Services, to the extent the department requires
+4 such information to determine whether it is appropriate to adjust those workers’ compensation
+5 benefits the amount of which is based pursuant to ORS chapter 656 on the amount of wages or
+6 earned income received by an individual.
+7 “(k) Any agency of the State of Oregon, or any person, or any officer or employee of such
+8 agency or person to whom disclosure or access is given by state law and not otherwise referred to
+9 in this section, including but not limited to the Secretary of State as Auditor of Public Accounts
+10 under Article VI, section 2, of the Oregon Constitution; the Department of Human Services pursuant
+11 to ORS 412.094; the Division of Child Support of the Department of Justice and district attorney
+12 regarding cases for which they are providing child support services under ORS 25.080; the State
+13 Board of Tax Practitioners, pursuant to ORS 673.710; and the Oregon Board of Accountancy, pur-
+14 suant to ORS 673.415.
+15 “(L) The Director of the Department of Consumer and Business Services to determine that a
+16 person complies with ORS chapter 656 and the Director of the Employment Department to determine
+17 that a person complies with ORS chapters 657 and 657B, the following employer information:
+18 “(A) Identification numbers.
+19 “(B) Names and addresses.
+20 “(C) Inception date as employer.
+21 “(D) Nature of business.
+22 “(E) Entity changes.
+23 “(F) Date of last payroll.
+24 “(m) The Director of the Oregon Health Authority to determine that a person has the ability to
+25 pay for care that includes services provided by the Oregon State Hospital, or the Oregon Health
+26 Authority to collect any unpaid cost of care as provided by ORS chapter 179.
+27 “(n) Employees of the Employment Department:
+28 “(A) To the extent the Department of Revenue deems that the disclosure of or access to infor-
+29 mation on a combined tax report filed under ORS 316.168, an annual report filed under ORS 316.202
+30 or a return filed under ORS 314.360 is necessary for the performance of the department’s duties in
+31 administering and enforcing the tax imposed by ORS chapter 657 and the family and medical leave
+32 insurance program under ORS chapter 657B; or
+33 “(B) To the extent the Department of Revenue deems that the disclosure of or access to the
+34 information is helpful for the performance of the department’s duties in administering and enforcing
+35 the tax imposed by ORS chapter 657 and the family and medical leave insurance program under ORS
+36 chapter 657B and for detecting the occurrence of identity theft or fraud through the examination
+37 of the following taxpayer particulars:
+38 “(i) Individual taxpayer identification number.
+39 “(ii) Name, address and date of birth.
+40 “(iii) Employer name, employer identification number and amount of wages paid.
+41 “(iv) Self-employment income amount and source.
+42 “(v) Other particulars of the return as defined in ORS 314.835, at the discretion of the Director
+43 of the Department of Revenue, on a case-by-case basis.
+44 “(o) The State Fire Marshal to assist the State Fire Marshal in carrying out duties, functions
+45 and powers under ORS 453.307 to 453.414, the employer or agent name, address, telephone number
+SA to SB 1556 Page 6
+
+1 and standard industrial classification, if available.
+2 “(p) Employees of the Department of State Lands or State Treasurer for the purposes of re-
+3 turning unclaimed property and identifying, locating and publishing lists of taxpayers entitled to
+4 unclaimed refunds under ORS 98.302 to 98.436.
+5 “(q) In addition to the disclosure allowed under ORS 305.225, state or local law enforcement
+6 agencies to assist in the investigation or prosecution of the following criminal activities:
+7 “(A) Mail theft of a check, in which case the information that may be disclosed shall be limited
+8 to the stolen document, the name, address and taxpayer identification number of the payee, the
+9 amount of the check and the date printed on the check.
+10 “(B) The counterfeiting, forging or altering of a check submitted by a taxpayer to the Depart-
+11 ment of Revenue or issued by the Department of Revenue to a taxpayer, in which case the infor-
+12 mation that may be disclosed shall be limited to the counterfeit, forged or altered document, the
+13 name, address and taxpayer identification number of the payee, the amount of the check, the date
+14 printed on the check and the altered name and address.
+15 “(r) The United States Postal Inspection Service or a federal law enforcement agency, including
+16 but not limited to the United States Department of Justice, to assist in the investigation of the fol-
+17 lowing criminal activities:
+18 “(A) Mail theft of a check, in which case the information that may be disclosed shall be limited
+19 to the stolen document, the name, address and taxpayer identification number of the payee, the
+20 amount of the check and the date printed on the check.
+21 “(B) The counterfeiting, forging or altering of a check submitted by a taxpayer to the Depart-
+22 ment of Revenue or issued by the Department of Revenue to a taxpayer, in which case the infor-
+23 mation that may be disclosed shall be limited to the counterfeit, forged or altered document, the
+24 name, address and taxpayer identification number of the payee, the amount of the check, the date
+25 printed on the check and the altered name and address.
+26 “(s) The United States Financial Management Service, for purposes of facilitating the offsets
+27 described in ORS 305.612.
+28 “(t) A municipal corporation of this state for purposes of assisting the municipal corporation in
+29 the administration of a tax of the municipal corporation that is imposed on or measured by income,
+30 wages or net earnings from self-employment. Any disclosure under this paragraph may be made only
+31 pursuant to a written agreement between the Department of Revenue and the municipal corporation
+32 that ensures the confidentiality of the information disclosed.
+33 “(u) A consumer reporting agency, to the extent necessary to carry out the purposes of ORS
+34 314.843.
+35 “(v) The Public Employees Retirement Board, to the extent necessary to carry out the purposes
+36 of ORS 238.372 to 238.384, and to any public employer, to the extent necessary to carry out the
+37 purposes of ORS 237.635 (3) and 237.637 (2).
+38 “(w) The Secretary of State for the purpose of initiating or supporting a recommendation under
+39 ORS 60.032 (3) or 63.032 (3) to administratively dissolve a corporation or limited liability company
+40 that the Director of the Department of Revenue determines has failed to comply with applicable tax
+41 laws of the state.
+42 “(x)(A) A multijurisdictional information sharing organization formed with oversight by the
+43 Internal Revenue Service to combat identity theft and fraud, if the Department of Revenue is a
+44 member of the organization; and
+45 “(B) Tax preparation software vendors that are members of an organization described in sub-
+SA to SB 1556 Page 7
+
+1 paragraph (A) of this paragraph, if information described in ORS 314.835 is shared for the purpose
+2 of investigating industry leads of potential identity theft or fraud.
+3 “(y) The State Treasurer, for the purpose of providing employer responses, as indicated on an-
+4 nual withholding reports submitted to the Department of Revenue, about whether an employer offers
+5 a qualified retirement savings plan as listed in ORS 178.215.
+6 “(z) The Oregon 529 Savings Board, for the purpose of facilitating the establishment of accounts
+7 by personal income taxpayers under ORS 178.335 within the Oregon 529 Savings Network through
+8 the use of income tax return forms.
+9 “(3)(a) Each officer or employee of the department and each person described or referred to in
+10 subsection (2)(a), (b), (f) to (L), (n) to (q) or (w) of this section to whom disclosure or access to the
+11 tax information is given under subsection (2) of this section or any other provision of state law,
+12 prior to beginning employment or the performance of duties involving such disclosure or access,
+13 shall be advised in writing of the provisions of ORS 314.835 and 314.991, relating to penalties for the
+14 violation of ORS 314.835, and shall as a condition of employment or performance of duties execute
+15 a certificate for the department, in a form prescribed by the department, stating in substance that
+16 the person has read these provisions of law, that the person has had them explained and that the
+17 person is aware of the penalties for the violation of ORS 314.835.
+18 “(b) The disclosure authorized in subsection (2)(r) of this section shall be made only after a
+19 written agreement has been entered into between the Department of Revenue and the person de-
+20 scribed in subsection (2)(r) of this section to whom disclosure or access to the tax information is
+21 given, providing that:
+22 “(A) Any information described in ORS 314.835 that is received by the person pursuant to sub-
+23 section (2)(r) of this section is confidential information that may not be disclosed, except to the ex-
+24 tent necessary to investigate or prosecute the criminal activities described in subsection (2)(r) of
+25 this section;
+26 “(B) The information shall be protected as confidential under applicable federal and state laws;
+27 and
+28 “(C) The United States Postal Inspection Service or the federal law enforcement agency shall
+29 give notice to the Department of Revenue of any request received under the federal Freedom of In-
+30 formation Act, 5 U.S.C. 552, or other federal law relating to the disclosure of information.
+31 “(4) The Department of Revenue may recover the costs of furnishing the information described
+32 in subsection (2)(L), (m) and (o) to (q) of this section from the respective agencies.
+33 “SECTION 7. ORS 305.245 and 305.494 are repealed.
+34 “SECTION 8. Section 2 of this 2026 Act, the amendments to ORS 305.239, 305.242, 305.875
+35 and 314.840 by sections 3 to 6 of this 2026 Act and the repeal of ORS 305.245 and 305.494 by
+36 section 7 of this 2026 Act apply to proceedings commenced in the magistrate division of the
+37 Oregon Tax Court on or after January 1, 2027.
+38 “SECTION 9. This 2026 Act takes effect on the 91st day after the date on which the 2026
+39 regular session of the Eighty-third Legislative Assembly adjourns sine die.”.
+40
+SA to SB 1556 Page 8
+
+[DELETED:  A T 1.S 2 o t 2 A.( b t p w n r b a a l t p l i A t t i a n p m d a t t r r e b o p r e b a a a t p o t o o a e o t p o o t a o t t A o p s d a r u t s b f  d a p u s ( o t s o m r a r]
+[DELETED:  a s iss T r p o t c o i o m m r t D o R a t a r o t p f p b g a e t p b t I R S a w [] t D o R i a c o p w t c m o l r a p f a l b O 6 m r a t [] t d i a c o p w r t t c m o A s o a S c a d i s 1 o t I R a a a i e o D 3 2 m r t c i a p[] a p a t S c w a p T S c m d i[ d i a c o p w r t t a o a a A p a u r a b t d m r a t p t t e f s b c w f l t g r A p a u r a[] t s o t [] d t t r d i f h a o6P]
+[DELETED:  r a a a r u r p a b t t c s b c a a r b t d a r a m n t c a p w l d t [] c m o w n s b g b t [] d t t t o t o m d a t m p i a c o [] i a p w r t t a t c m T d o a t m p s b m i w a f w t d[] t n o d T t m I a n e t p a i m b[] A t r f a c f w t d  a f w t tto[] s t O 3 t 3 s b b b a t d b t t m t a c i a a o m o c b t a t d t t s h t f r u w b t6P]
+[DELETED:  t t h t r t n o t r a a c o t r u r T t s T r t c w a a c p a e a o a p p t r a t a a m b t d i t t w t c w t p T s d n a b r b a w i p t r t t b[] T r n t b p i r a t m u s b t d F a t r a t r t t u O w t d f a y o t a i w i d a b u c f a o r o f e i t o o t G T i d H f r w r t t t i b O c 3 t i p y f w t i w r t f a t.I6P]
+[DELETED:  A o o e o A S t p r e i t p o r e B o t J I C o W a M o i t L A i i s t t J C o W a M a o L F O u O 2 2 a 2 T D o T f f r f i s b p b t O D o o t D o R a m t w r t i o a p oet p o T M T C m m t i a C o I R o t p o o a r o a o t S o O t t e t d d d o a J t t e t d d d o a n f s e p t d u c o a b t d a a o d a o s o t S o O i t d a o txl e t u c o a b t d a s l e i t T L R O o a r u c w O6P]
+[DELETED:  S o o r s n r f t p o t d a i t d w i i a t a t w c t a o w i b p t O c 6 o t a o w o A a o t S o O o a p o a o o e o s t s i b n l t t S o S a A o P A t D o C S o t D o J a d a c f w t a p c s s u O 2 t S P p t O 6 a t O B o A p T D o t D o C a B S t d t  f c t i s p b t O S H o t O H T t e t D o R d t t d o o a t t 6 a f d t o o i t o f t t e T S F M t a t S F M6P]
+[DELETED:  E o t D o S L o S T f t p o r u p a i l a p l o t e t I a t t d a u O 3 s o l l e t s d t n a a t i n o t p t T c f o a o a o R o i b t D o R t a t i w c t i t m b d s b l t t c f o a d t t a o t c t d t s d t n a a t i n o t p t T c f o a o a o R o i b t D o R t a t i w c t i t m b d s b l t t c f o a d t t a o t c t d T U S F M S f p o f t o A c r a t t e n t c o t p o O O 2 t 2 a t a p e t t e n t c o t o l l c A m i s o f w o b t R S t c i t a f i t D o R i  T p s v t a m o a o d i s6P]
+[DELETED:  T S T p i t u i i g u s ( o t s o a o p o s l t b e o t p o d i s d o a c f t p h h t e a t t T d a i s ( o t s s b m o a  a h b e i b t D o R a t p d i s ( o t s t w d o a t t t i i n t i o p t c a d i s ( oss T U S P I S o t f l e a s.O.S.T6P]

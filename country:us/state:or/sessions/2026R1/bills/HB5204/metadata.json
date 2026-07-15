@@ -310,6 +310,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-15T13:24:31Z"
+    "logs_latest_update": "2026-07-15T13:24:31Z",
+    "text_extraction_latest_update": "2026-07-15T15:59:47.972283Z"
   }
 }

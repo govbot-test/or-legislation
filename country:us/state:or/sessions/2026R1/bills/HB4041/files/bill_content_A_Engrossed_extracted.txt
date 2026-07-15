@@ -1,0 +1,1200 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - A-Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+A-Engrossed
+House Bill 4041
+Ordered by the House February 18
+Including House Amendments dated February 18
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Judiciary for Representative Jason Kropf for Oregon District Attorneys Association, Oregon Criminal De-
+fense Lawyers Association)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act changes laws about crime and sentencing. The Act takes effect when the
+Governor signs it. (Flesch Readability Score: 78.7).
+[Digest: The Act tells DOJ to do two studies and adds a way of committing the crime of criminal
+mistreatment in the first degree. The Act changes what is recorded at GJ, when a person can enter a
+conditional plea and how a misdemeanor is reduced to a violation. The Act also raises the dollar
+amounts in the elements of some crimes. (Flesch Readability Score: 61.3).]
+[Directs the Department of Justice to study whether legislative changes are needed concerning
+credit for time served and post-conviction relief petitions based on nonunanimous jury verdicts. Directs
+the department to submit findings to the interim committees of the Legislative Assembly related to the
+judiciary no later than September 15, 2027. Sunsets on January 2, 2028.]
+[Provides that a person commits the crime of criminal mistreatment in the first degree if the person
+exposes another person to an unlawful controlled substance in a specified manner. Punishes by a
+maximum of five years’ imprisonment, $125,000 fine, or both.]
+[Requires the recording of a presentation of facts to the court by a grand jury for the purpose of
+receiving further instruction.]
+[Removes the requirement that the state consent to the entry of a conditional plea of guilty or no
+contest.]
+[Authorizes the court to enter a judgment of conviction for a Class A violation instead of a
+misdemeanor in specified circumstances.]
+Reduces penalties for driving while suspended if the suspension is due to a conviction for
+criminal mischief resulting from the operation of a motor vehicle or reckless driving. Pun-
+ishes by a maximum of $2,000 fine.
+Increases the crime category, for the sentencing guidelines grid of the Oregon Criminal
+Justice Commission, for felony fleeing or attempting to elude a police officer when the de-
+fendant has a prior conviction or causes injury.
+Establishes a final time period for any person to file a petition for post-conviction relief
+based on a nonunanimous jury verdict.
+Creates a procedure by which the Department of Corrections or the state can petition
+the sentencing court, after determining that a person was released from department custody
+as the result of a material error in sentence computation or legal interpretation, for a de-
+termination as to whether the person is subject to further incarceration. Provides for a
+process for requesting and ordering that the person be held or taken into custody pending
+the hearing.
+Requires the Department of Corrections to provide notice to specified persons after per-
+forming certain sentence recomputations that result in a new projected release date. Limits
+how presentence incarceration credit may be applied in specified circumstances.
+Authorizes the Department of Corrections to grant an additional 120 days of short-term
+transitional leave to certain persons released from custody due to a material error in sen-
+tence computation or legal interpretation concerning presentence incarceration credits.
+Increases the dollar amounts in specified property crimes that serve as a minimum value amount
+of damages or stolen property or as a threshold between offense levels of the crime.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to public safety; creating new provisions; amending ORS 137.172, 137.320, 137.370, 138.510,
+3 164.043, 164.045, 164.055, 164.354, 164.365, 811.182 and 811.540; and declaring an emergency.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 92
+A-Eng. HB 4041
+1 Be It Enacted by the People of the State of Oregon:
+2
+3 DRIVING WHILE SUSPENDED
+4
+5 SECTION 1. ORS 811.182 is amended to read:
+6 811.182. (1) A person commits the offense of criminal driving while suspended or revoked if the
+7 person violates ORS 811.175 and the suspension or revocation is one described in this section, or if
+8 the hardship permit violated is based upon a suspension or revocation described in subsection (3)
+9 or (4) of this section.
+10 (2) Affirmative defenses to the offense described in this section are established under ORS
+11 811.180.
+12 (3) The offense described in this section, criminal driving while suspended or revoked, is a Class
+13 B felony if the suspension or revocation resulted from any degree of murder, manslaughter,
+14 criminally negligent homicide or assault resulting from the operation of a motor vehicle, if the sus-
+15 pension or revocation resulted from aggravated vehicular homicide or aggravated driving while
+16 suspended or revoked or if the revocation resulted from a conviction for felony driving while under
+17 the influence of intoxicants.
+18 (4) The offense described in this section, criminal driving while suspended or revoked, is a Class
+19 A misdemeanor if the suspension or revocation is any of the following:
+20 (a) A suspension under ORS 809.411 (2) resulting from commission by the driver of any degree
+21 of recklessly endangering another person[,] or menacing [or criminal mischief], resulting from the
+22 operation of a motor vehicle.
+23 (b) A suspension under ORS 813.410 resulting from refusal to take a test prescribed in ORS
+24 813.100 or for taking a breath or blood test the result of which discloses a blood alcohol content
+25 of:
+26 (A) 0.08 percent or more by weight if the person was not driving a commercial motor vehicle;
+27 (B) 0.04 percent or more by weight if the person was driving a commercial motor vehicle; or
+28 (C) Any amount if the person was under 21 years of age.
+29 (c) A suspension of commercial driving privileges under ORS 809.510 resulting from failure to
+30 perform the duties of a driver under ORS 811.700.
+31 (d) A suspension of commercial driving privileges under ORS 809.510 (7) where the person’s
+32 commercial driving privileges have been suspended or revoked by the other jurisdiction for failure
+33 of or refusal to take a chemical test to determine the alcoholic content of the person’s blood under
+34 a statute that is substantially similar to ORS 813.100.
+35 (e) A suspension of commercial driving privileges under ORS 809.520.
+36 (f) A revocation resulting from habitual offender status under ORS 809.640.
+37 (g) A suspension resulting from any crime punishable as a felony with proof of a material ele-
+38 ment involving the operation of a motor vehicle, other than a crime described in subsection (3) of
+39 this section.
+40 (h) A suspension for failure to perform the duties of a driver under ORS 811.705.
+41 [(i) A suspension for reckless driving under ORS 811.140.]
+42 [(j)] (i) A suspension for fleeing or attempting to elude a police officer under ORS 811.540.
+43 [(k)] (j) A suspension or revocation resulting from misdemeanor driving while under the influ-
+44 ence of intoxicants under ORS 813.010.
+45 [(L)] (k) A suspension for use of a motor vehicle in the commission of a crime punishable as a
+[2]
+A-Eng. HB 4041
+1 felony.
+2 (5) In addition to any other sentence that may be imposed, if a person is convicted of the offense
+3 described in this section and the underlying suspension resulted from driving while under the influ-
+4 ence of intoxicants, the court shall impose a minimum fine of at least $1,000 if it is the person’s first
+5 conviction for criminal driving while suspended or revoked and a minimum fine of at least $2,000 if
+6 it is the person’s second or subsequent conviction.
+7 (6)(a) The Oregon Criminal Justice Commission shall classify a violation of this section that is
+8 a felony as crime category 4 of the rules of the commission.
+9 (b) Notwithstanding paragraph (a) of this subsection, the commission shall classify a violation
+10 of this section that is a felony as crime category 6 of the rules of the commission, if the suspension
+11 or revocation resulted from:
+12 (A) Any degree of murder, manslaughter or criminally negligent homicide or an assault that
+13 causes serious physical injury, resulting from the operation of a motor vehicle; or
+14 (B) Aggravated vehicular homicide or aggravated driving while suspended or revoked.
+15 SECTION 2. (1) The amendments to ORS 811.182 by section 1 of this 2026 Act become
+16 operative on January 1, 2027.
+17 (2) The amendments to ORS 811.182 by section 1 of this 2026 Act apply to conduct con-
+18 stituting, or alleged to constitute, a criminal offense occurring on or after January 1, 2027.
+19
+20 FELONY ELUDE
+21
+22 SECTION 3. ORS 811.540 is amended to read:
+23 811.540. (1) A person commits the crime of fleeing or attempting to elude a police officer if:
+24 (a) The person is operating a motor vehicle; and
+25 (b) A police officer who is in uniform and prominently displaying the police officer’s badge of
+26 office or operating a vehicle appropriately marked showing it to be an official police vehicle gives
+27 a visual or audible signal to bring the vehicle to a stop, including any signal by hand, voice, emer-
+28 gency light or siren, and either:
+29 (A) The person, while still in the vehicle, knowingly flees or attempts to elude a pursuing police
+30 officer; or
+31 (B) The person gets out of the vehicle and knowingly flees or attempts to elude the police offi-
+32 cer.
+33 (2) It is an affirmative defense to a prosecution of a person under this section that, after a police
+34 officer operating a vehicle not marked as an official police vehicle signaled the person to bring the
+35 person’s vehicle to a stop, the person proceeded lawfully to an area the person reasonably believed
+36 was necessary to reach before stopping.
+37 (3) The offense described in this section, fleeing or attempting to elude a police officer, is ap-
+38 plicable upon any premises open to the public and:
+39 (a) Is a Class C felony if committed as described in subsection (1)(b)(A) of this section; or
+40 (b) Is a Class A misdemeanor if committed as described in subsection (1)(b)(B) of this section.
+41 (4) When the crime of fleeing or attempting to elude a police officer is committed under
+42 the circumstances described in subsection (1)(b)(A) of this section, the Oregon Criminal
+43 Justice Commission shall classify the crime as follows:
+44 (a) Crime category 4 of the sentencing guidelines grid of the commission if the defendant
+45 has a prior conviction under subsection (1)(b)(A) of this section or an equivalent crime in
+[3]
+A-Eng. HB 4041
+1 another jurisdiction in the 10 years prior to the date of the current offense;
+2 (b) Crime category 6 of the sentencing guidelines grid of the commission if the defendant
+3 has two or more prior convictions under subsection (1)(b)(A) of this section or an equivalent
+4 crime in another jurisdiction in the 10 years prior to the date of the current offense;
+5 (c) Crime category 6 of the sentencing guidelines grid of the commission and a person
+6 felony if the defendant’s act results in physical injury to any other person; or
+7 (d) Crime category 8 of the sentencing guidelines grid of the commission and a person
+8 felony if the defendant’s act results in serious physical injury to any other person.
+9 (5) As used in this section, “person felony” has the meaning given that term in the rules
+10 of the Oregon Criminal Justice Commission.
+11 SECTION 4. (1) The amendments to ORS 811.540 by section 3 of this 2026 Act become
+12 operative on January 1, 2027.
+13 (2) The amendments to ORS 811.540 by section 3 of this 2026 Act apply to:
+14 (a) Conduct constituting, or alleged to constitute, a criminal offense occurring on or af-
+15 ter January 1, 2027.
+16 (b) Prior convictions for which judgment was entered before, on or after the effective
+17 date of this 2026 Act.
+18
+19 POST-CONVICTION RELIEF
+20
+21 SECTION 5. ORS 138.510 is amended to read:
+22 138.510. (1) Except as otherwise provided in ORS 138.540, any person convicted of a crime under
+23 the laws of this state may file a petition for post-conviction relief pursuant to ORS 138.510 to
+24 138.680.
+25 (2) A petition for post-conviction relief may be filed by one person on behalf of another person
+26 who has been convicted of aggravated murder and sentenced to death only if the person filing the
+27 petition demonstrates by a preponderance of the evidence that:
+28 (a) The person sentenced to death is unable to file a petition on the person’s own behalf due to
+29 mental incapacity or because of a lack of access to the court; and
+30 (b) The person filing the petition has a significant relationship with the person sentenced to
+31 death and will act in the best interest of the person on whose behalf the petition is being filed.
+32 (3) A petition pursuant to ORS 138.510 to 138.680 must be filed within two years of the following,
+33 unless the court on hearing a subsequent petition finds grounds for relief asserted which could not
+34 reasonably have been raised in the original or amended petition:
+35 (a) If no appeal is taken, the date the judgment or order on the conviction was entered in the
+36 register.
+37 (b) If an appeal is taken, the date the appeal is final in the Oregon appellate courts.
+38 (c) If a petition for certiorari to the United States Supreme Court is filed, the later of:
+39 (A) The date of denial of certiorari, if the petition is denied; or
+40 (B) The date of entry of a final state court judgment following remand from the United States
+41 Supreme Court.
+42 (4) A one-year filing period shall apply retroactively to petitions filed by persons whose con-
+43 victions and appeals became final before August 5, 1989, and any such petitions must be filed within
+44 one year after November 4, 1993. A person whose post-conviction petition was dismissed prior to
+45 November 4, 1993, cannot file another post-conviction petition involving the same case.
+[4]
+A-Eng. HB 4041
+1 (5) The remedy created by ORS 138.510 to 138.680 is available to persons convicted before May
+2 26, 1959.
+3 (6) In any post-conviction proceeding pending in the courts of this state on May 26, 1959, the
+4 person seeking relief in such proceedings shall be allowed to amend the action and seek relief under
+5 ORS 138.510 to 138.680. If such person does not choose to amend the action in this manner, the law
+6 existing prior to May 26, 1959, shall govern the case.
+7 (7) A petition for post-conviction relief under ORS 138.510 to 138.680 claiming, as grounds
+8 for relief, that the person was convicted of a criminal offense as the result of a nonunani-
+9 mous jury verdict, must be filed by no later than 120 days after the effective date of this 2026
+10 Act.
+11 SECTION 6. (1)(a) This section applies to petitions for post-conviction relief under ORS
+12 138.510 to 138.680 claiming, as grounds for relief, that the person was convicted of a criminal
+13 offense as the result of a nonunanimous jury verdict, filed on or after the effective date of
+14 this 2026 Act.
+15 (b) A person may not file a petition for post-conviction relief under this section if the
+16 person previously filed a petition under ORS 138.510 to 138.680 or section 1, chapter 368,
+17 Oregon Laws 2023, claiming, as grounds for relief, that the person was convicted of a crimi-
+18 nal offense as the result of a nonunanimous jury verdict.
+19 (2) ORS 138.550 does not apply to petitions for post-conviction relief described in this
+20 section.
+21 (3)(a) Notwithstanding ORS 138.530, in a post-conviction relief proceeding claiming, as
+22 grounds for relief, that the person was convicted of a criminal offense as the result of a
+23 nonunanimous jury verdict, the petitioner has the burden of proving, by a preponderance of
+24 the evidence, that the conviction resulted from a nonunanimous jury verdict.
+25 (b) Evidence that a jury verdict was nonunanimous is limited to:
+26 (A) A verdict form;
+27 (B) A written jury poll;
+28 (C) An audio or video recording of the trial; or
+29 (D) A transcript of the trial.
+30 (c) Notwithstanding paragraph (b) of this subsection, if a recording or transcript of the
+31 trial reflects that the jury was polled after issuing the verdict, but either does not indicate
+32 or is ambiguous concerning whether the verdict was unanimous, the court may order a re-
+33 view in camera of the file of the district attorney, the defense attorney or the court, relating
+34 to the underlying conviction, and may consider any evidence concerning the jury’s verdict
+35 within the file or files that the court determines to be credible.
+36 (4) Notwithstanding ORS 138.520, if post-conviction relief is granted under this section,
+37 the court shall vacate the judgment as to the specific conviction that resulted from the
+38 nonunanimous jury verdict, or grant such other relief as stipulated by the parties.
+39 (5) If a judgment of conviction is vacated on the grounds that the person was convicted
+40 of a criminal offense as the result of a nonunanimous jury verdict, upon retrial, if the trial
+41 court determines that evidence other than witness testimony that was previously admitted
+42 during the trial that resulted in the nonunanimous guilty verdict is unavailable because the
+43 evidence was lawfully destroyed or otherwise rendered unavailable through no fault of the
+44 state or the defendant, or that the evidence is unavailable despite reasonable efforts to pre-
+45 serve the evidence:
+[5]
+A-Eng. HB 4041
+1 (a) The state may present in the state’s case in chief or rebuttal case, and the defendant
+2 may present in the defendant’s case in chief, a transcript or portion thereof, a recording of
+3 the prior proceeding or portion thereof, or any other previously admitted exhibit, concerning
+4 the unavailable evidence from the previous trial.
+5 (b) The court shall instruct the jury:
+6 (A) That the evidence is unavailable;
+7 (B) That the jury may not attribute the unavailability to the state or the defendant, or
+8 fault either party for failing to produce the unavailable evidence; and
+9 (C) That the jury may not speculate as to why the evidence is unavailable.
+10 (c) The court may not instruct the jury pursuant to ORS 10.095 (7) or (8) regarding the
+11 transcripts, recordings of the prior proceeding or exhibits described in paragraph (a) of this
+12 subsection.
+13 (6) Except as otherwise provided in this section, all provisions of ORS 138.510 to 138.680
+14 apply to petitions for post-conviction relief described in this section.
+15 (7) As used in this section, “conviction” includes a finding of guilty except for insanity.
+16
+17 SENTENCING RECALCULATIONS
+18
+19 SECTION 7. (1)(a) If the Department of Corrections determines that a person was re-
+20 leased from the custody of the department as a result of a material error in sentence com-
+21 putation or legal interpretation, the department shall petition the sentencing court for an
+22 order determining whether the person is lawfully subject to further incarceration.
+23 (b) A petition described in this subsection shall be filed at the time the determination
+24 described in paragraph (a) of this subsection is made.
+25 (c) The petition must state with particularity the nature of the alleged error and the le-
+26 gal basis for asserting that the sentence imposed by the court has not been fully served, and
+27 must be supported by an affidavit or declaration.
+28 (2)(a) If the state determines that a person was released from the custody of the de-
+29 partment as a result of a material error in sentence computation or legal interpretation, the
+30 state may petition the sentencing court for an order determining whether the person is
+31 lawfully subject to further incarceration.
+32 (b) If the state elects to file a petition under this subsection, the petition shall be filed
+33 as soon as practicable after the determination described in paragraph (a) of this subsection
+34 is made.
+35 (c) The petition must state with particularity the nature of the alleged error and the le-
+36 gal basis for asserting that the sentence imposed by the court has not been fully served, and
+37 must be supported by an affidavit or declaration.
+38 (3) The petitioner may accompany a petition described in subsection (1) or (2) of this
+39 section with a motion for the arrest and detention of the person, or for the person to be held
+40 in custody, pending the hearing.
+41 (4)(a) Upon receipt of a petition described in subsection (1) or (2) of this section, the
+42 court shall determine whether probable cause exists to support the claim that there was a
+43 material error in sentence computation or legal interpretation as stated in the petition. Upon
+44 making such a determination, the court shall:
+45 (A) Schedule a hearing within five days, or as soon as practicable;
+[6]
+A-Eng. HB 4041
+1 (B) Issue an order for the released person to appear;
+2 (C) Order the petitioner to provide notice of the order to appear and hearing to the per-
+3 son;
+4 (D) Order the petitioner to provide notice of the order to appear and hearing to any vic-
+5 tim who previously requested to be notified of sentencing matters; and
+6 (E) Appoint counsel for the person, if the person is financially eligible and does not al-
+7 ready have counsel.
+8 (b) If the petition is accompanied by a motion described in subsection (3) of this section,
+9 and the court makes the probable cause finding described in paragraph (a) of this subsection,
+10 the court may order the arrest and detention of the person pending the hearing, or for the
+11 person to be held in custody pending the hearing, if the court additionally determines, by
+12 clear and convincing evidence, that such action is necessary for public safety. An order un-
+13 der this paragraph must state the factual basis for the court’s findings.
+14 (5)(a) At the hearing, the person has the right to be heard, to present evidence and to
+15 contest the claims set forth in the petition. The person may not challenge the original sen-
+16 tence imposed, and may only challenge the claim presented in the petition asserting that the
+17 person is subject to additional incarceration.
+18 (b) After the hearing, the court may order the person recommitted to the legal and
+19 physical custody of the department only if the court finds, by clear and convincing evidence,
+20 that:
+21 (A) The person has not completed the sentence lawfully imposed by the court; and
+22 (B) The person has more than 30 days remaining on the sentence originally imposed.
+23 SECTION 8. Section 7 of this 2026 Act applies to persons whom the Department of Cor-
+24 rections or the state has determined were released, on or after July 10, 2025, due to a ma-
+25 terial error in sentence computation or legal interpretation.
+26 SECTION 9. ORS 137.172 is amended to read:
+27 137.172. (1) The trial court retains authority after entry of judgment of conviction or a supple-
+28 mental judgment, including during the pendency of an appeal, to modify the judgment, including the
+29 sentence, to correct any arithmetic or clerical errors or to delete or modify any erroneous or am-
+30 biguous term in the judgment. The court may correct the judgment either on the motion of one of
+31 the parties or on the court’s own motion after written notice to all of the parties.
+32 (2)(a) Before modifying an ambiguous term in the judgment under subsection (1) of this
+33 section:
+34 (A) The court shall appoint counsel for the defendant, if the person is financially eligible
+35 and does not already have counsel, unless the defendant waives counsel; and
+36 (B) The court shall hold a hearing concerning the ambiguous term, unless the defendant
+37 waives the hearing.
+38 (b) If the court modifies an ambiguous term in the judgment under subsection (1) of this
+39 section, the court may not modify the judgment to achieve a result that is unsupported by
+40 the record from the original sentencing proceeding.
+41 [(2)] (3) If the trial court enters a corrected judgment under this section during the pendency
+42 of an appeal, the trial court administrator shall immediately provide a copy of the corrected judg-
+43 ment to the appellate court.
+44 SECTION 10. ORS 137.320 is amended to read:
+45 137.320. (1) Except as provided in ORS 137.124, when a judgment includes commitment to the
+[7]
+A-Eng. HB 4041
+1 legal and physical custody of the Department of Corrections, the sheriff shall deliver the defendant,
+2 together with a copy of the entry of judgment and a statement signed by the sheriff of the number
+3 of days the defendant was imprisoned prior to delivery, to the superintendent of the Department of
+4 Corrections institution to which the defendant is initially assigned pursuant to ORS 137.124. If at
+5 the time of entry of a judgment, the defendant was serving a term of incarceration at the direction
+6 of the supervisory authority of a county upon conviction of a prior felony, the sheriff shall also de-
+7 liver to the Department of Corrections a copy of the prior entry of judgment committing the de-
+8 fendant to the supervisory authority of the county of conviction and a statement of the number of
+9 days the defendant has remaining to be served on the term or incarceration imposed in the prior
+10 judgment.
+11 (2) If the defendant is surrendered to another legal authority prior to delivery to an institution
+12 of the Department of Corrections, the sheriff shall forward to the Department of Corrections copies
+13 of the entry of all pertinent judgments, a statement of the number of days the defendant was
+14 imprisoned prior to surrender, a statement of the number of days the defendant has remaining to
+15 be served on any term of incarceration the defendant was serving at the direction of the supervisory
+16 authority of a county upon conviction of a prior felony and an identification of the authority to
+17 whom the prisoner was surrendered.
+18 (3) Upon receipt of the information described in subsection (1) or (2) of this section, the De-
+19 partment of Corrections shall establish a case file and compute the defendant’s sentence in accord-
+20 ance with the provisions of ORS 137.370.
+21 (4) When the judgment is imprisonment in the county jail or a fine and that the defendant be
+22 imprisoned until it is paid, the judgment shall be executed by the sheriff of the county. The sheriff
+23 shall compute the time the defendant was imprisoned after arrest and prior to the commencement
+24 of the term specified in the judgment. Such time shall be credited toward the term of the sentence.
+25 (5)(a) Unless expressly ordered by the court within the judgment, when computing the
+26 defendant’s sentence in accordance with the provisions of ORS 137.370, the Department of
+27 Corrections may not perform a sentence computation that results in more presentence
+28 incarceration credit than the person actually served in custody, on the case for which the
+29 sentence is being computed, prior to being committed to the custody of the department.
+30 (b) If, during the pendency of the defendant’s sentence, but after the initial 140 days after
+31 the defendant’s commitment to the custody of the department, the department recomputes
+32 a presentence incarceration credit, and the recomputation results in a projected release date
+33 that is different from a previously computed projected release date, prior to the defendant’s
+34 release the department shall provide written notice of the recomputation to:
+35 (A) The sentencing court;
+36 (B) The prosecuting attorney; and
+37 (C) The defendant and the defendant’s trial counsel.
+38 (c) The written notice described in paragraph (b) of this subsection shall include the
+39 previously computed release date, the new release date, an explanation for the recomputation
+40 and a description of any efforts made by the department to notify any person who requested
+41 notifications related to sentencing changes for the person.
+42 (d) When the department recomputes a presentence incarceration credit and the recom-
+43 putation results in a projected release date that is different from a previously computed
+44 projected release date, the department shall provide the defendant with information con-
+45 cerning the process by which the recomputation may be challenged.
+[8]
+A-Eng. HB 4041
+1 SECTION 11. ORS 137.370 is amended to read:
+2 137.370. (1) When a person is sentenced to imprisonment in the custody of the Department of
+3 Corrections, the term of confinement therein commences from the day the person is delivered to the
+4 custody of an officer of the Department of Corrections for the purpose of serving the sentence exe-
+5 cuted, regardless of whether the sentence is to be served in a state or federal institution.
+6 (2) Except as provided in subsections (3) and (4) of this section, when a person is sentenced to
+7 imprisonment in the custody of the Department of Corrections, for the purpose of computing the
+8 amount of sentence served the term of confinement includes only:
+9 (a) The time that the person is confined by any authority after the arrest for:
+10 (A) The crime for which sentence is imposed;
+11 (B) A lesser included or greater inclusive offense of the crime for which sentence was imposed;
+12 and
+13 (C) Any other crime constituting a violation of Oregon law within the same county designated
+14 by the sentencing court in the judgment as having been committed as part of the same criminal
+15 episode as the crime for which sentence was imposed; and
+16 (b) The time that the person is authorized by the Department of Corrections to spend outside
+17 a confinement facility, in a program conducted by or for the Department of Corrections.
+18 (3) When a judgment of conviction is vacated and a new sentence is thereafter imposed upon the
+19 defendant for the same crime, a lesser included or greater inclusive offense of the crime, or any
+20 crime constituting a violation of Oregon law within the same county designated by the sentencing
+21 court in the judgment as having been committed as part of the same criminal episode as the crime,
+22 the period of detention and imprisonment theretofore served shall be deducted from the maximum
+23 term, and from the minimum, if any, of the new sentence.
+24 (4)(a) Unless the court expressly orders otherwise, a person who is confined as the result of a
+25 sentence for a crime or conduct that is not directly related to the crime for which the sentence is
+26 imposed, or for violation of the conditions of probation, parole or post-prison supervision, shall not
+27 receive presentence incarceration credit for the time served in jail toward service of the term of
+28 confinement.
+29 (b) Presentence incarceration credit may not be credited to more than one consecutive
+30 sentence under one case number unless the court expressly orders, in the judgment, that the
+31 court intends that the credit shall apply as a duplicate credit to more than one consecutive
+32 sentence, and the duplicate credit may only be applied to those consecutive sentences for
+33 which that intent is expressly indicated in the judgment.
+34 (c) Presentence incarceration credit may not be credited to more than one consecutive
+35 sentence under different case numbers unless the court expressly orders, in the judgment,
+36 that the court intends that the credit shall apply as a duplicate credit to more than one
+37 consecutive sentence under different case numbers, and the duplicate credit may only be
+38 applied to those consecutive sentences for which that intent is expressly indicated in the
+39 judgment.
+40 (d) When the judgment authorizes presentence incarceration credit on one or more sen-
+41 tences under one case number, but does not authorize presentence incarceration credit for
+42 other sentences under the same case number that run concurrently, any credit authorized
+43 for one sentence shall be applied to all concurrent sentences within the case unless the court
+44 expressly orders otherwise, or unless a particular sentence is not otherwise eligible to re-
+45 ceive presentence incarceration credit.
+[9]
+A-Eng. HB 4041
+1 (e) Unless expressly ordered by the court in the judgment, a defendant’s computed sen-
+2 tence may not be credited with more presentence incarceration credit under this section
+3 than the defendant actually served in custody, on the case for which the sentence is com-
+4 puted, prior to being committed to the custody of the Department of Corrections.
+5 (5) Unless the court expressly orders otherwise, a term of imprisonment shall be concurrent with
+6 that portion of any sentence previously imposed that remains unexpired at the time the court im-
+7 poses sentence. This subsection applies regardless of whether the earlier sentence was imposed by
+8 the same or any other court, and regardless of whether the earlier sentence is being or is to be
+9 served in the same penal institution or under the same correctional authority as will be the later
+10 sentence.
+11 (6) As used in this section, “criminal episode” has the meaning given that term in ORS 131.505.
+12 SECTION 12. (1) The amendments to ORS 137.320 by section 10 of this 2026 Act apply to
+13 sentence computations and recomputations occurring on or after the effective date of this
+14 2026 Act.
+15 (2) The amendments to ORS 137.370 by section 11 of this 2026 Act apply to sentences
+16 imposed on or after the effective date of this 2026 Act.
+17 SECTION 12a. Notwithstanding ORS 421.168 (3), the Department of Corrections may
+18 grant a person an additional 120 days of transitional leave under ORS 421.168 if:
+19 (1) The department has determined that the person was released on or after July 10, 2025,
+20 and before the effective date of this 2026 Act due to a material error in sentence computation
+21 or legal interpretation concerning presentence incarceration credits;
+22 (2) The department has recomputed the sentence and projected release date since the
+23 person’s release and determined that the person has additional incarceration time to serve
+24 on the original sentence;
+25 (3) The person, since being released from custody, has been in compliance with the con-
+26 ditions of post-prison supervision;
+27 (4) The convictions for which the person is serving the sentence recomputed by the de-
+28 partment are eligible for short-term transitional leave under ORS 421.168; and
+29 (5) In the original judgment of conviction, the court authorized participation, on all con-
+30 victions for which the person is serving the sentence recomputed by the department, in the
+31 short-term transitional leave program described in ORS 421.168.
+32
+33 OFFENSE LEVELS BASED ON DOLLAR AMOUNTS
+34
+35 SECTION 13. ORS 164.043 is amended to read:
+36 164.043. (1) A person commits the crime of theft in the third degree if:
+37 (a) By means other than extortion, the person commits theft as defined in ORS 164.015; and
+38 (b) The total value of the property in a single or an aggregate transaction is less than [$100]
+39 $150.
+40 (2) Theft in the third degree is a Class C misdemeanor.
+41 SECTION 14. ORS 164.045 is amended to read:
+42 164.045. (1) A person commits the crime of theft in the second degree if:
+43 (a) By means other than extortion, the person commits theft as defined in ORS 164.015; and
+44 (b) The total value of the property in a single or aggregate transaction is [$100] $150 or more
+45 and less than [$1,000] $1,500.
+[10]
+A-Eng. HB 4041
+1 (2) Theft in the second degree is a Class A misdemeanor.
+2 SECTION 15. ORS 164.055 is amended to read:
+3 164.055. (1) A person commits the crime of theft in the first degree if, by means other than
+4 extortion, the person commits theft as defined in ORS 164.015 and:
+5 (a) The total value of the property in a single or aggregate transaction is [$1,000] $1,500 or
+6 more;
+7 (b) The theft is committed during a riot, fire, explosion, catastrophe or other emergency in an
+8 area affected by the riot, fire, explosion, catastrophe or other emergency;
+9 (c) The theft is theft by receiving committed by buying, selling, borrowing or lending on the
+10 security of the property;
+11 (d) The subject of the theft is a firearm or explosive;
+12 (e) The subject of the theft is a livestock animal, a companion animal or a wild animal removed
+13 from habitat or born of a wild animal removed from habitat, pursuant to ORS 497.308 (2)(c);
+14 (f) The subject of the theft is a precursor substance; or
+15 (g) During the commission of the theft, the person recklessly engages in conduct that creates a
+16 substantial risk of serious physical injury to another person.
+17 (2) As used in this section:
+18 (a) “Companion animal” means a dog or cat possessed by a person, business or other entity for
+19 purposes of companionship, security, hunting, herding or providing assistance in relation to a phys-
+20 ical disability.
+21 (b) “Explosive” means a chemical compound, mixture or device that is commonly used or in-
+22 tended for the purpose of producing a chemical reaction resulting in a substantially instantaneous
+23 release of gas and heat, including but not limited to dynamite, blasting powder, nitroglycerin,
+24 blasting caps and nitrojelly, but excluding fireworks as defined in ORS 480.111, black powder,
+25 smokeless powder, small arms ammunition and small arms ammunition primers.
+26 (c) “Firearm” has the meaning given that term in ORS 166.210.
+27 (d) “Livestock animal” means a ratite, psittacine, horse, gelding, mare, filly, stallion, colt, mule,
+28 ass, jenny, bull, steer, cow, calf, goat, sheep, lamb, llama, pig or hog.
+29 (e) “Precursor substance” has the meaning given that term in ORS 475.940.
+30 (3) Theft in the first degree is a Class C felony.
+31 SECTION 16. ORS 164.354 is amended to read:
+32 164.354. (1) A person commits the crime of criminal mischief in the second degree if:
+33 (a) The person violates ORS 164.345, and as a result thereof, damages property in an amount
+34 exceeding [$500] $750; or
+35 (b) Having no right to do so nor reasonable ground to believe that the person has such right,
+36 the person intentionally damages property of another, or, the person recklessly damages property
+37 of another in an amount exceeding [$500] $750.
+38 (2) Criminal mischief in the second degree is a Class A misdemeanor.
+39 SECTION 17. ORS 164.365 is amended to read:
+40 164.365. (1) A person commits the crime of criminal mischief in the first degree who, with intent
+41 to damage property, and having no right to do so nor reasonable ground to believe that the person
+42 has such right:
+43 (a) Damages or destroys property of another:
+44 (A) In an amount exceeding [$1,000] $1,500;
+45 (B) By means of an explosive;
+[11]
+A-Eng. HB 4041
+1 (C) By starting a fire in an institution while the person is committed to and confined in the in-
+2 stitution;
+3 (D) Which is a livestock animal as defined in ORS 164.055;
+4 (E) Which is the property of a public utility, telecommunications carrier, railroad, public trans-
+5 portation facility or medical facility used in direct service to the public; or
+6 (F) By intentionally interfering with, obstructing or adulterating in any manner the service of
+7 a public utility, telecommunications carrier, railroad, public transportation facility or medical facil-
+8 ity; or
+9 (b) Intentionally uses, manipulates, arranges or rearranges the property of a public utility,
+10 telecommunications carrier, railroad, public transportation facility or medical facility used in direct
+11 service to the public so as to interfere with its efficiency.
+12 (2) As used in subsection (1) of this section:
+13 (a) “Institution” includes state and local correctional facilities, mental health facilities, juvenile
+14 detention facilities and state training schools.
+15 (b) “Medical facility” means a health care facility as defined in ORS 442.015, a licensed
+16 physician’s office or anywhere a licensed medical practitioner provides health care services.
+17 (c) “Public utility” has the meaning provided for that term in ORS 757.005 and includes any
+18 cooperative, people’s utility district or other municipal corporation providing an electric, gas, water
+19 or other utility service.
+20 (d) “Railroad” has the meaning provided for that term in ORS 824.020.
+21 (e) “Public transportation facility” means any property, structure or equipment used for or in
+22 connection with the transportation of persons for hire by rail, air or bus, including any railroad
+23 cars, buses or airplanes used to carry out such transportation.
+24 (f) “Telecommunications carrier” has the meaning given that term in ORS 133.721.
+25 (3) Criminal mischief in the first degree is a Class C felony.
+26 SECTION 18. (1) The amendments to ORS 164.043, 164.045, 164.055, 164.354 and 164.365 by
+27 sections 13 to 17 of this 2026 Act become operative on January 1, 2027.
+28 (2) The amendments to ORS 164.043, 164.045, 164.055, 164.354 and 164.365 by sections 13 to
+29 17 of this 2026 Act apply to conduct constituting, or alleged to constitute, a criminal offense
+30 occurring on or after January 1, 2027.
+31
+32 CAPTIONS
+33
+34 SECTION 19. The unit captions used in this 2026 Act are provided only for the conven-
+35 ience of the reader and do not become part of the statutory law of this state or express any
+36 legislative intent in the enactment of this 2026 Act.
+37
+38 EFFECTIVE DATE
+39
+40 SECTION 20. This 2026 Act being necessary for the immediate preservation of the public
+41 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+42 on its passage.
+43
+[12]
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t p a h a m i r t a v T A a r t d t D o J t s w l c a n c a p t a u c s i a s m.P b  t r t t t c t e a j o c f a C A v i o .P C f a p b w t D o C a t w t p i s t f i P f  c peh:M[]]
+[DELETED:  h p v i b u a s o r d i s ( A d t t o d i t s a e u O f i t s o r r f a d o m m o r r f a v h o a d w A s r e a p[] o m [] r f to c m A s u O 8 r f r t t a t p i O o f t a b o b t t r o w d a b a c A s o c d p u O 8 r f f t A s o c d p u O 8 ( w t p d w p o a m e i t o o a m v]] A s o r r f m d w u t i]]
+[DELETED:  N p ( o t s t c s c a v A d o m m o c n h o a a t 2.( T a t O 8 b s 1 o t 2 A b A p o w i i u a p d t p o b o d i t s f o a t e a p o i a c d i s ( o t s t O C a p c u s ( o t s o a e c i]
+[DELETED:  s g g o t c a a p C c 8 o t s g g 4.( T a t O 8 b s 3 o t 2 A b P c f w j w e b o o a t e l o t s m f a p f p r p t O 1 t t T p f t p h a s r w t p s t f t U SeC A o f p s a r t p f b p w c y a N 4 1 A p w p p w d p t]
+[DELETED:  I a p p p i t c o t s o M 2.( A p m n f a p f p r u t s p f a p u O 1 t 1 o s 1 c 3 O 1 d n a t p f p r d i t N O 1 i a p r p c a f r t t p w c o a c o a t r o  a r t u c a m c a e c t r i g u t s c s v t j a t t s c t r f t d o o r u t n f o t]
+[DELETED:  7.( I t D o C d t a p w r o l i t d s p t s c f a A p d i t s s b f a t t t d I t s d t a p w r f t c o t d m p t s c f a o d w t p i T p m a a p d i s ( o ( o t U r o a p d i s ( o ( o t s t]
+[DELETED:  t b h i c p t h i t c a d b A t A t h t c m o t p r t t l a.S] I t t c e a c j u t s d a c o t c j ( E a p i O 1 w a j i c t t]
+[DELETED:  i t w t d i i a p t O 1 I a t t D o C a c o t p e o j c t n o t d h r t b s o t t o i i i t p t e o a p j a s o t n o d t d w p t s a s o t n o d t d h r t o a c u c o a p f a a i o t a t U r o t i d i s ( o ( o t s t D W t j i i i t c j o a f a c t t t d w i a a a e o b t c w t j w c t s i a w t p o O 1 t D m n p a s c t r i m p c t t p a T w n d i p ( o t s s i t r i a p r d t i d f a p c r d t d s p t d w i c]
+[DELETED:  ( W a p i s t i i t c o t D o i t c o t D o C f t p o c t t s c i t j a h b c a p o t s c t t t p i a b t D o C t s o f t s c a l i o g i o o t c o a b t s p o d a i t s s b d f t m p i c f t t s i j t s o t t o a t d c m o b a t t c s f t c i t t c s a a a d c t m t o s u d c n a t d c m o b t t c s f w t i i e i i t o u a p s i n o e t r]
+[DELETED:  m n b c w m p i c u t s t d a p o a s p i t r u a t t t c i s T s o a o c a r o w t e s i b o i t b i t s p i o u t s c.( e d o t6A T a t O 1 b s 1 o t 2 A a t s 1.N O 4 ( t D o C m T d h r t s a p r d s t t v o t p i a s o a a t i l t [ T t v[][]]
+[DELETED:  ( A p c t c o t i t f d i b m o t T t v o t p i a s o a t i [] $ o c o o e i a T t i t b r c b b s b o l o t “ m a c c m o d t i c u o i r i a s i o g a h i b n l t d b p n c a n b e f a d i O 4 b p T p v O 1 a a a r t d p i a a[] g t b t t p h s r p i d p o a o t p r d p[][]]
+[DELETED:  B i i w o o a i a I u m a o r t p o a p u “ f m a h c f a d i O 4 a l “ u h t m p f t t i O 7 a i a “ t f m a p s o e u f o i w t t o p f h b r a o b i a r.(.T.T h a s a e i]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+A-Engrossed
+House Bill 4041
+Ordered by the House February 18
+Including House Amendments dated February 18
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Judiciary for Representative Jason Kropf for Oregon District Attorneys Association, Oregon Criminal De-
+fense Lawyers Association)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act changes laws about crime and sentencing. The Act takes effect when the
+Governor signs it. (Flesch Readability Score: 78.7).
+[Digest: The Act tells DOJ to do two studies and adds a way of committing the crime of criminal
+mistreatment in the first degree. The Act changes what is recorded at GJ, when a person can enter a
+conditional plea and how a misdemeanor is reduced to a violation. The Act also raises the dollar
+amounts in the elements of some crimes. (Flesch Readability Score: 61.3).]
+[Directs the Department of Justice to study whether legislative changes are needed concerning
+credit for time served and post-conviction relief petitions based on nonunanimous jury verdicts. Directs
+the department to submit findings to the interim committees of the Legislative Assembly related to the
+judiciary no later than September 15, 2027. Sunsets on January 2, 2028.]
+[Provides that a person commits the crime of criminal mistreatment in the first degree if the person
+exposes another person to an unlawful controlled substance in a specified manner. Punishes by a
+maximum of five years’ imprisonment, $125,000 fine, or both.]
+[Requires the recording of a presentation of facts to the court by a grand jury for the purpose of
+receiving further instruction.]
+[Removes the requirement that the state consent to the entry of a conditional plea of guilty or no
+contest.]
+[Authorizes the court to enter a judgment of conviction for a Class A violation instead of a
+misdemeanor in specified circumstances.]
+Reduces penalties for driving while suspended if the suspension is due to a conviction for
+criminal mischief resulting from the operation of a motor vehicle or reckless driving. Pun-
+ishes by a maximum of $2,000 fine.
+Increases the crime category, for the sentencing guidelines grid of the Oregon Criminal
+Justice Commission, for felony fleeing or attempting to elude a police officer when the de-
+fendant has a prior conviction or causes injury.
+Establishes a final time period for any person to file a petition for post-conviction relief
+based on a nonunanimous jury verdict.
+Creates a procedure by which the Department of Corrections or the state can petition
+the sentencing court, after determining that a person was released from department custody
+as the result of a material error in sentence computation or legal interpretation, for a de-
+termination as to whether the person is subject to further incarceration. Provides for a
+process for requesting and ordering that the person be held or taken into custody pending
+the hearing.
+Requires the Department of Corrections to provide notice to specified persons after per-
+forming certain sentence recomputations that result in a new projected release date. Limits
+how presentence incarceration credit may be applied in specified circumstances.
+Authorizes the Department of Corrections to grant an additional 120 days of short-term
+transitional leave to certain persons released from custody due to a material error in sen-
+tence computation or legal interpretation concerning presentence incarceration credits.
+Increases the dollar amounts in specified property crimes that serve as a minimum value amount
+of damages or stolen property or as a threshold between offense levels of the crime.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to public safety; creating new provisions; amending ORS 137.172, 137.320, 137.370, 138.510,
+3 164.043, 164.045, 164.055, 164.354, 164.365, 811.182 and 811.540; and declaring an emergency.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 92
+
+A-Eng. HB 4041
+1 Be It Enacted by the People of the State of Oregon:
+2
+3 DRIVING WHILE SUSPENDED
+4
+5 SECTION 1. ORS 811.182 is amended to read:
+6 811.182. (1) A person commits the offense of criminal driving while suspended or revoked if the
+7 person violates ORS 811.175 and the suspension or revocation is one described in this section, or if
+8 the hardship permit violated is based upon a suspension or revocation described in subsection (3)
+9 or (4) of this section.
+10 (2) Affirmative defenses to the offense described in this section are established under ORS
+11 811.180.
+12 (3) The offense described in this section, criminal driving while suspended or revoked, is a Class
+13 B felony if the suspension or revocation resulted from any degree of murder, manslaughter,
+14 criminally negligent homicide or assault resulting from the operation of a motor vehicle, if the sus-
+15 pension or revocation resulted from aggravated vehicular homicide or aggravated driving while
+16 suspended or revoked or if the revocation resulted from a conviction for felony driving while under
+17 the influence of intoxicants.
+18 (4) The offense described in this section, criminal driving while suspended or revoked, is a Class
+19 A misdemeanor if the suspension or revocation is any of the following:
+20 (a) A suspension under ORS 809.411 (2) resulting from commission by the driver of any degree
+21 of recklessly endangering another person[,] or menacing [or criminal mischief], resulting from the
+22 operation of a motor vehicle.
+23 (b) A suspension under ORS 813.410 resulting from refusal to take a test prescribed in ORS
+24 813.100 or for taking a breath or blood test the result of which discloses a blood alcohol content
+25 of:
+26 (A) 0.08 percent or more by weight if the person was not driving a commercial motor vehicle;
+27 (B) 0.04 percent or more by weight if the person was driving a commercial motor vehicle; or
+28 (C) Any amount if the person was under 21 years of age.
+29 (c) A suspension of commercial driving privileges under ORS 809.510 resulting from failure to
+30 perform the duties of a driver under ORS 811.700.
+31 (d) A suspension of commercial driving privileges under ORS 809.510 (7) where the person’s
+32 commercial driving privileges have been suspended or revoked by the other jurisdiction for failure
+33 of or refusal to take a chemical test to determine the alcoholic content of the person’s blood under
+34 a statute that is substantially similar to ORS 813.100.
+35 (e) A suspension of commercial driving privileges under ORS 809.520.
+36 (f) A revocation resulting from habitual offender status under ORS 809.640.
+37 (g) A suspension resulting from any crime punishable as a felony with proof of a material ele-
+38 ment involving the operation of a motor vehicle, other than a crime described in subsection (3) of
+39 this section.
+40 (h) A suspension for failure to perform the duties of a driver under ORS 811.705.
+41 [(i) A suspension for reckless driving under ORS 811.140.]
+42 [(j)] (i) A suspension for fleeing or attempting to elude a police officer under ORS 811.540.
+43 [(k)] (j) A suspension or revocation resulting from misdemeanor driving while under the influ-
+44 ence of intoxicants under ORS 813.010.
+45 [(L)] (k) A suspension for use of a motor vehicle in the commission of a crime punishable as a
+[2]
+
+A-Eng. HB 4041
+1 felony.
+2 (5) In addition to any other sentence that may be imposed, if a person is convicted of the offense
+3 described in this section and the underlying suspension resulted from driving while under the influ-
+4 ence of intoxicants, the court shall impose a minimum fine of at least $1,000 if it is the person’s first
+5 conviction for criminal driving while suspended or revoked and a minimum fine of at least $2,000 if
+6 it is the person’s second or subsequent conviction.
+7 (6)(a) The Oregon Criminal Justice Commission shall classify a violation of this section that is
+8 a felony as crime category 4 of the rules of the commission.
+9 (b) Notwithstanding paragraph (a) of this subsection, the commission shall classify a violation
+10 of this section that is a felony as crime category 6 of the rules of the commission, if the suspension
+11 or revocation resulted from:
+12 (A) Any degree of murder, manslaughter or criminally negligent homicide or an assault that
+13 causes serious physical injury, resulting from the operation of a motor vehicle; or
+14 (B) Aggravated vehicular homicide or aggravated driving while suspended or revoked.
+15 SECTION 2. (1) The amendments to ORS 811.182 by section 1 of this 2026 Act become
+16 operative on January 1, 2027.
+17 (2) The amendments to ORS 811.182 by section 1 of this 2026 Act apply to conduct con-
+18 stituting, or alleged to constitute, a criminal offense occurring on or after January 1, 2027.
+19
+20 FELONY ELUDE
+21
+22 SECTION 3. ORS 811.540 is amended to read:
+23 811.540. (1) A person commits the crime of fleeing or attempting to elude a police officer if:
+24 (a) The person is operating a motor vehicle; and
+25 (b) A police officer who is in uniform and prominently displaying the police officer’s badge of
+26 office or operating a vehicle appropriately marked showing it to be an official police vehicle gives
+27 a visual or audible signal to bring the vehicle to a stop, including any signal by hand, voice, emer-
+28 gency light or siren, and either:
+29 (A) The person, while still in the vehicle, knowingly flees or attempts to elude a pursuing police
+30 officer; or
+31 (B) The person gets out of the vehicle and knowingly flees or attempts to elude the police offi-
+32 cer.
+33 (2) It is an affirmative defense to a prosecution of a person under this section that, after a police
+34 officer operating a vehicle not marked as an official police vehicle signaled the person to bring the
+35 person’s vehicle to a stop, the person proceeded lawfully to an area the person reasonably believed
+36 was necessary to reach before stopping.
+37 (3) The offense described in this section, fleeing or attempting to elude a police officer, is ap-
+38 plicable upon any premises open to the public and:
+39 (a) Is a Class C felony if committed as described in subsection (1)(b)(A) of this section; or
+40 (b) Is a Class A misdemeanor if committed as described in subsection (1)(b)(B) of this section.
+41 (4) When the crime of fleeing or attempting to elude a police officer is committed under
+42 the circumstances described in subsection (1)(b)(A) of this section, the Oregon Criminal
+43 Justice Commission shall classify the crime as follows:
+44 (a) Crime category 4 of the sentencing guidelines grid of the commission if the defendant
+45 has a prior conviction under subsection (1)(b)(A) of this section or an equivalent crime in
+[3]
+
+A-Eng. HB 4041
+1 another jurisdiction in the 10 years prior to the date of the current offense;
+2 (b) Crime category 6 of the sentencing guidelines grid of the commission if the defendant
+3 has two or more prior convictions under subsection (1)(b)(A) of this section or an equivalent
+4 crime in another jurisdiction in the 10 years prior to the date of the current offense;
+5 (c) Crime category 6 of the sentencing guidelines grid of the commission and a person
+6 felony if the defendant’s act results in physical injury to any other person; or
+7 (d) Crime category 8 of the sentencing guidelines grid of the commission and a person
+8 felony if the defendant’s act results in serious physical injury to any other person.
+9 (5) As used in this section, “person felony” has the meaning given that term in the rules
+10 of the Oregon Criminal Justice Commission.
+11 SECTION 4. (1) The amendments to ORS 811.540 by section 3 of this 2026 Act become
+12 operative on January 1, 2027.
+13 (2) The amendments to ORS 811.540 by section 3 of this 2026 Act apply to:
+14 (a) Conduct constituting, or alleged to constitute, a criminal offense occurring on or af-
+15 ter January 1, 2027.
+16 (b) Prior convictions for which judgment was entered before, on or after the effective
+17 date of this 2026 Act.
+18
+19 POST-CONVICTION RELIEF
+20
+21 SECTION 5. ORS 138.510 is amended to read:
+22 138.510. (1) Except as otherwise provided in ORS 138.540, any person convicted of a crime under
+23 the laws of this state may file a petition for post-conviction relief pursuant to ORS 138.510 to
+24 138.680.
+25 (2) A petition for post-conviction relief may be filed by one person on behalf of another person
+26 who has been convicted of aggravated murder and sentenced to death only if the person filing the
+27 petition demonstrates by a preponderance of the evidence that:
+28 (a) The person sentenced to death is unable to file a petition on the person’s own behalf due to
+29 mental incapacity or because of a lack of access to the court; and
+30 (b) The person filing the petition has a significant relationship with the person sentenced to
+31 death and will act in the best interest of the person on whose behalf the petition is being filed.
+32 (3) A petition pursuant to ORS 138.510 to 138.680 must be filed within two years of the following,
+33 unless the court on hearing a subsequent petition finds grounds for relief asserted which could not
+34 reasonably have been raised in the original or amended petition:
+35 (a) If no appeal is taken, the date the judgment or order on the conviction was entered in the
+36 register.
+37 (b) If an appeal is taken, the date the appeal is final in the Oregon appellate courts.
+38 (c) If a petition for certiorari to the United States Supreme Court is filed, the later of:
+39 (A) The date of denial of certiorari, if the petition is denied; or
+40 (B) The date of entry of a final state court judgment following remand from the United States
+41 Supreme Court.
+42 (4) A one-year filing period shall apply retroactively to petitions filed by persons whose con-
+43 victions and appeals became final before August 5, 1989, and any such petitions must be filed within
+44 one year after November 4, 1993. A person whose post-conviction petition was dismissed prior to
+45 November 4, 1993, cannot file another post-conviction petition involving the same case.
+[4]
+
+A-Eng. HB 4041
+1 (5) The remedy created by ORS 138.510 to 138.680 is available to persons convicted before May
+2 26, 1959.
+3 (6) In any post-conviction proceeding pending in the courts of this state on May 26, 1959, the
+4 person seeking relief in such proceedings shall be allowed to amend the action and seek relief under
+5 ORS 138.510 to 138.680. If such person does not choose to amend the action in this manner, the law
+6 existing prior to May 26, 1959, shall govern the case.
+7 (7) A petition for post-conviction relief under ORS 138.510 to 138.680 claiming, as grounds
+8 for relief, that the person was convicted of a criminal offense as the result of a nonunani-
+9 mous jury verdict, must be filed by no later than 120 days after the effective date of this 2026
+10 Act.
+11 SECTION 6. (1)(a) This section applies to petitions for post-conviction relief under ORS
+12 138.510 to 138.680 claiming, as grounds for relief, that the person was convicted of a criminal
+13 offense as the result of a nonunanimous jury verdict, filed on or after the effective date of
+14 this 2026 Act.
+15 (b) A person may not file a petition for post-conviction relief under this section if the
+16 person previously filed a petition under ORS 138.510 to 138.680 or section 1, chapter 368,
+17 Oregon Laws 2023, claiming, as grounds for relief, that the person was convicted of a crimi-
+18 nal offense as the result of a nonunanimous jury verdict.
+19 (2) ORS 138.550 does not apply to petitions for post-conviction relief described in this
+20 section.
+21 (3)(a) Notwithstanding ORS 138.530, in a post-conviction relief proceeding claiming, as
+22 grounds for relief, that the person was convicted of a criminal offense as the result of a
+23 nonunanimous jury verdict, the petitioner has the burden of proving, by a preponderance of
+24 the evidence, that the conviction resulted from a nonunanimous jury verdict.
+25 (b) Evidence that a jury verdict was nonunanimous is limited to:
+26 (A) A verdict form;
+27 (B) A written jury poll;
+28 (C) An audio or video recording of the trial; or
+29 (D) A transcript of the trial.
+30 (c) Notwithstanding paragraph (b) of this subsection, if a recording or transcript of the
+31 trial reflects that the jury was polled after issuing the verdict, but either does not indicate
+32 or is ambiguous concerning whether the verdict was unanimous, the court may order a re-
+33 view in camera of the file of the district attorney, the defense attorney or the court, relating
+34 to the underlying conviction, and may consider any evidence concerning the jury’s verdict
+35 within the file or files that the court determines to be credible.
+36 (4) Notwithstanding ORS 138.520, if post-conviction relief is granted under this section,
+37 the court shall vacate the judgment as to the specific conviction that resulted from the
+38 nonunanimous jury verdict, or grant such other relief as stipulated by the parties.
+39 (5) If a judgment of conviction is vacated on the grounds that the person was convicted
+40 of a criminal offense as the result of a nonunanimous jury verdict, upon retrial, if the trial
+41 court determines that evidence other than witness testimony that was previously admitted
+42 during the trial that resulted in the nonunanimous guilty verdict is unavailable because the
+43 evidence was lawfully destroyed or otherwise rendered unavailable through no fault of the
+44 state or the defendant, or that the evidence is unavailable despite reasonable efforts to pre-
+45 serve the evidence:
+[5]
+
+A-Eng. HB 4041
+1 (a) The state may present in the state’s case in chief or rebuttal case, and the defendant
+2 may present in the defendant’s case in chief, a transcript or portion thereof, a recording of
+3 the prior proceeding or portion thereof, or any other previously admitted exhibit, concerning
+4 the unavailable evidence from the previous trial.
+5 (b) The court shall instruct the jury:
+6 (A) That the evidence is unavailable;
+7 (B) That the jury may not attribute the unavailability to the state or the defendant, or
+8 fault either party for failing to produce the unavailable evidence; and
+9 (C) That the jury may not speculate as to why the evidence is unavailable.
+10 (c) The court may not instruct the jury pursuant to ORS 10.095 (7) or (8) regarding the
+11 transcripts, recordings of the prior proceeding or exhibits described in paragraph (a) of this
+12 subsection.
+13 (6) Except as otherwise provided in this section, all provisions of ORS 138.510 to 138.680
+14 apply to petitions for post-conviction relief described in this section.
+15 (7) As used in this section, “conviction” includes a finding of guilty except for insanity.
+16
+17 SENTENCING RECALCULATIONS
+18
+19 SECTION 7. (1)(a) If the Department of Corrections determines that a person was re-
+20 leased from the custody of the department as a result of a material error in sentence com-
+21 putation or legal interpretation, the department shall petition the sentencing court for an
+22 order determining whether the person is lawfully subject to further incarceration.
+23 (b) A petition described in this subsection shall be filed at the time the determination
+24 described in paragraph (a) of this subsection is made.
+25 (c) The petition must state with particularity the nature of the alleged error and the le-
+26 gal basis for asserting that the sentence imposed by the court has not been fully served, and
+27 must be supported by an affidavit or declaration.
+28 (2)(a) If the state determines that a person was released from the custody of the de-
+29 partment as a result of a material error in sentence computation or legal interpretation, the
+30 state may petition the sentencing court for an order determining whether the person is
+31 lawfully subject to further incarceration.
+32 (b) If the state elects to file a petition under this subsection, the petition shall be filed
+33 as soon as practicable after the determination described in paragraph (a) of this subsection
+34 is made.
+35 (c) The petition must state with particularity the nature of the alleged error and the le-
+36 gal basis for asserting that the sentence imposed by the court has not been fully served, and
+37 must be supported by an affidavit or declaration.
+38 (3) The petitioner may accompany a petition described in subsection (1) or (2) of this
+39 section with a motion for the arrest and detention of the person, or for the person to be held
+40 in custody, pending the hearing.
+41 (4)(a) Upon receipt of a petition described in subsection (1) or (2) of this section, the
+42 court shall determine whether probable cause exists to support the claim that there was a
+43 material error in sentence computation or legal interpretation as stated in the petition. Upon
+44 making such a determination, the court shall:
+45 (A) Schedule a hearing within five days, or as soon as practicable;
+[6]
+
+A-Eng. HB 4041
+1 (B) Issue an order for the released person to appear;
+2 (C) Order the petitioner to provide notice of the order to appear and hearing to the per-
+3 son;
+4 (D) Order the petitioner to provide notice of the order to appear and hearing to any vic-
+5 tim who previously requested to be notified of sentencing matters; and
+6 (E) Appoint counsel for the person, if the person is financially eligible and does not al-
+7 ready have counsel.
+8 (b) If the petition is accompanied by a motion described in subsection (3) of this section,
+9 and the court makes the probable cause finding described in paragraph (a) of this subsection,
+10 the court may order the arrest and detention of the person pending the hearing, or for the
+11 person to be held in custody pending the hearing, if the court additionally determines, by
+12 clear and convincing evidence, that such action is necessary for public safety. An order un-
+13 der this paragraph must state the factual basis for the court’s findings.
+14 (5)(a) At the hearing, the person has the right to be heard, to present evidence and to
+15 contest the claims set forth in the petition. The person may not challenge the original sen-
+16 tence imposed, and may only challenge the claim presented in the petition asserting that the
+17 person is subject to additional incarceration.
+18 (b) After the hearing, the court may order the person recommitted to the legal and
+19 physical custody of the department only if the court finds, by clear and convincing evidence,
+20 that:
+21 (A) The person has not completed the sentence lawfully imposed by the court; and
+22 (B) The person has more than 30 days remaining on the sentence originally imposed.
+23 SECTION 8. Section 7 of this 2026 Act applies to persons whom the Department of Cor-
+24 rections or the state has determined were released, on or after July 10, 2025, due to a ma-
+25 terial error in sentence computation or legal interpretation.
+26 SECTION 9. ORS 137.172 is amended to read:
+27 137.172. (1) The trial court retains authority after entry of judgment of conviction or a supple-
+28 mental judgment, including during the pendency of an appeal, to modify the judgment, including the
+29 sentence, to correct any arithmetic or clerical errors or to delete or modify any erroneous or am-
+30 biguous term in the judgment. The court may correct the judgment either on the motion of one of
+31 the parties or on the court’s own motion after written notice to all of the parties.
+32 (2)(a) Before modifying an ambiguous term in the judgment under subsection (1) of this
+33 section:
+34 (A) The court shall appoint counsel for the defendant, if the person is financially eligible
+35 and does not already have counsel, unless the defendant waives counsel; and
+36 (B) The court shall hold a hearing concerning the ambiguous term, unless the defendant
+37 waives the hearing.
+38 (b) If the court modifies an ambiguous term in the judgment under subsection (1) of this
+39 section, the court may not modify the judgment to achieve a result that is unsupported by
+40 the record from the original sentencing proceeding.
+41 [(2)] (3) If the trial court enters a corrected judgment under this section during the pendency
+42 of an appeal, the trial court administrator shall immediately provide a copy of the corrected judg-
+43 ment to the appellate court.
+44 SECTION 10. ORS 137.320 is amended to read:
+45 137.320. (1) Except as provided in ORS 137.124, when a judgment includes commitment to the
+[7]
+
+A-Eng. HB 4041
+1 legal and physical custody of the Department of Corrections, the sheriff shall deliver the defendant,
+2 together with a copy of the entry of judgment and a statement signed by the sheriff of the number
+3 of days the defendant was imprisoned prior to delivery, to the superintendent of the Department of
+4 Corrections institution to which the defendant is initially assigned pursuant to ORS 137.124. If at
+5 the time of entry of a judgment, the defendant was serving a term of incarceration at the direction
+6 of the supervisory authority of a county upon conviction of a prior felony, the sheriff shall also de-
+7 liver to the Department of Corrections a copy of the prior entry of judgment committing the de-
+8 fendant to the supervisory authority of the county of conviction and a statement of the number of
+9 days the defendant has remaining to be served on the term or incarceration imposed in the prior
+10 judgment.
+11 (2) If the defendant is surrendered to another legal authority prior to delivery to an institution
+12 of the Department of Corrections, the sheriff shall forward to the Department of Corrections copies
+13 of the entry of all pertinent judgments, a statement of the number of days the defendant was
+14 imprisoned prior to surrender, a statement of the number of days the defendant has remaining to
+15 be served on any term of incarceration the defendant was serving at the direction of the supervisory
+16 authority of a county upon conviction of a prior felony and an identification of the authority to
+17 whom the prisoner was surrendered.
+18 (3) Upon receipt of the information described in subsection (1) or (2) of this section, the De-
+19 partment of Corrections shall establish a case file and compute the defendant’s sentence in accord-
+20 ance with the provisions of ORS 137.370.
+21 (4) When the judgment is imprisonment in the county jail or a fine and that the defendant be
+22 imprisoned until it is paid, the judgment shall be executed by the sheriff of the county. The sheriff
+23 shall compute the time the defendant was imprisoned after arrest and prior to the commencement
+24 of the term specified in the judgment. Such time shall be credited toward the term of the sentence.
+25 (5)(a) Unless expressly ordered by the court within the judgment, when computing the
+26 defendant’s sentence in accordance with the provisions of ORS 137.370, the Department of
+27 Corrections may not perform a sentence computation that results in more presentence
+28 incarceration credit than the person actually served in custody, on the case for which the
+29 sentence is being computed, prior to being committed to the custody of the department.
+30 (b) If, during the pendency of the defendant’s sentence, but after the initial 140 days after
+31 the defendant’s commitment to the custody of the department, the department recomputes
+32 a presentence incarceration credit, and the recomputation results in a projected release date
+33 that is different from a previously computed projected release date, prior to the defendant’s
+34 release the department shall provide written notice of the recomputation to:
+35 (A) The sentencing court;
+36 (B) The prosecuting attorney; and
+37 (C) The defendant and the defendant’s trial counsel.
+38 (c) The written notice described in paragraph (b) of this subsection shall include the
+39 previously computed release date, the new release date, an explanation for the recomputation
+40 and a description of any efforts made by the department to notify any person who requested
+41 notifications related to sentencing changes for the person.
+42 (d) When the department recomputes a presentence incarceration credit and the recom-
+43 putation results in a projected release date that is different from a previously computed
+44 projected release date, the department shall provide the defendant with information con-
+45 cerning the process by which the recomputation may be challenged.
+[8]
+
+A-Eng. HB 4041
+1 SECTION 11. ORS 137.370 is amended to read:
+2 137.370. (1) When a person is sentenced to imprisonment in the custody of the Department of
+3 Corrections, the term of confinement therein commences from the day the person is delivered to the
+4 custody of an officer of the Department of Corrections for the purpose of serving the sentence exe-
+5 cuted, regardless of whether the sentence is to be served in a state or federal institution.
+6 (2) Except as provided in subsections (3) and (4) of this section, when a person is sentenced to
+7 imprisonment in the custody of the Department of Corrections, for the purpose of computing the
+8 amount of sentence served the term of confinement includes only:
+9 (a) The time that the person is confined by any authority after the arrest for:
+10 (A) The crime for which sentence is imposed;
+11 (B) A lesser included or greater inclusive offense of the crime for which sentence was imposed;
+12 and
+13 (C) Any other crime constituting a violation of Oregon law within the same county designated
+14 by the sentencing court in the judgment as having been committed as part of the same criminal
+15 episode as the crime for which sentence was imposed; and
+16 (b) The time that the person is authorized by the Department of Corrections to spend outside
+17 a confinement facility, in a program conducted by or for the Department of Corrections.
+18 (3) When a judgment of conviction is vacated and a new sentence is thereafter imposed upon the
+19 defendant for the same crime, a lesser included or greater inclusive offense of the crime, or any
+20 crime constituting a violation of Oregon law within the same county designated by the sentencing
+21 court in the judgment as having been committed as part of the same criminal episode as the crime,
+22 the period of detention and imprisonment theretofore served shall be deducted from the maximum
+23 term, and from the minimum, if any, of the new sentence.
+24 (4)(a) Unless the court expressly orders otherwise, a person who is confined as the result of a
+25 sentence for a crime or conduct that is not directly related to the crime for which the sentence is
+26 imposed, or for violation of the conditions of probation, parole or post-prison supervision, shall not
+27 receive presentence incarceration credit for the time served in jail toward service of the term of
+28 confinement.
+29 (b) Presentence incarceration credit may not be credited to more than one consecutive
+30 sentence under one case number unless the court expressly orders, in the judgment, that the
+31 court intends that the credit shall apply as a duplicate credit to more than one consecutive
+32 sentence, and the duplicate credit may only be applied to those consecutive sentences for
+33 which that intent is expressly indicated in the judgment.
+34 (c) Presentence incarceration credit may not be credited to more than one consecutive
+35 sentence under different case numbers unless the court expressly orders, in the judgment,
+36 that the court intends that the credit shall apply as a duplicate credit to more than one
+37 consecutive sentence under different case numbers, and the duplicate credit may only be
+38 applied to those consecutive sentences for which that intent is expressly indicated in the
+39 judgment.
+40 (d) When the judgment authorizes presentence incarceration credit on one or more sen-
+41 tences under one case number, but does not authorize presentence incarceration credit for
+42 other sentences under the same case number that run concurrently, any credit authorized
+43 for one sentence shall be applied to all concurrent sentences within the case unless the court
+44 expressly orders otherwise, or unless a particular sentence is not otherwise eligible to re-
+45 ceive presentence incarceration credit.
+[9]
+
+A-Eng. HB 4041
+1 (e) Unless expressly ordered by the court in the judgment, a defendant’s computed sen-
+2 tence may not be credited with more presentence incarceration credit under this section
+3 than the defendant actually served in custody, on the case for which the sentence is com-
+4 puted, prior to being committed to the custody of the Department of Corrections.
+5 (5) Unless the court expressly orders otherwise, a term of imprisonment shall be concurrent with
+6 that portion of any sentence previously imposed that remains unexpired at the time the court im-
+7 poses sentence. This subsection applies regardless of whether the earlier sentence was imposed by
+8 the same or any other court, and regardless of whether the earlier sentence is being or is to be
+9 served in the same penal institution or under the same correctional authority as will be the later
+10 sentence.
+11 (6) As used in this section, “criminal episode” has the meaning given that term in ORS 131.505.
+12 SECTION 12. (1) The amendments to ORS 137.320 by section 10 of this 2026 Act apply to
+13 sentence computations and recomputations occurring on or after the effective date of this
+14 2026 Act.
+15 (2) The amendments to ORS 137.370 by section 11 of this 2026 Act apply to sentences
+16 imposed on or after the effective date of this 2026 Act.
+17 SECTION 12a. Notwithstanding ORS 421.168 (3), the Department of Corrections may
+18 grant a person an additional 120 days of transitional leave under ORS 421.168 if:
+19 (1) The department has determined that the person was released on or after July 10, 2025,
+20 and before the effective date of this 2026 Act due to a material error in sentence computation
+21 or legal interpretation concerning presentence incarceration credits;
+22 (2) The department has recomputed the sentence and projected release date since the
+23 person’s release and determined that the person has additional incarceration time to serve
+24 on the original sentence;
+25 (3) The person, since being released from custody, has been in compliance with the con-
+26 ditions of post-prison supervision;
+27 (4) The convictions for which the person is serving the sentence recomputed by the de-
+28 partment are eligible for short-term transitional leave under ORS 421.168; and
+29 (5) In the original judgment of conviction, the court authorized participation, on all con-
+30 victions for which the person is serving the sentence recomputed by the department, in the
+31 short-term transitional leave program described in ORS 421.168.
+32
+33 OFFENSE LEVELS BASED ON DOLLAR AMOUNTS
+34
+35 SECTION 13. ORS 164.043 is amended to read:
+36 164.043. (1) A person commits the crime of theft in the third degree if:
+37 (a) By means other than extortion, the person commits theft as defined in ORS 164.015; and
+38 (b) The total value of the property in a single or an aggregate transaction is less than [$100]
+39 $150.
+40 (2) Theft in the third degree is a Class C misdemeanor.
+41 SECTION 14. ORS 164.045 is amended to read:
+42 164.045. (1) A person commits the crime of theft in the second degree if:
+43 (a) By means other than extortion, the person commits theft as defined in ORS 164.015; and
+44 (b) The total value of the property in a single or aggregate transaction is [$100] $150 or more
+45 and less than [$1,000] $1,500.
+[10]
+
+A-Eng. HB 4041
+1 (2) Theft in the second degree is a Class A misdemeanor.
+2 SECTION 15. ORS 164.055 is amended to read:
+3 164.055. (1) A person commits the crime of theft in the first degree if, by means other than
+4 extortion, the person commits theft as defined in ORS 164.015 and:
+5 (a) The total value of the property in a single or aggregate transaction is [$1,000] $1,500 or
+6 more;
+7 (b) The theft is committed during a riot, fire, explosion, catastrophe or other emergency in an
+8 area affected by the riot, fire, explosion, catastrophe or other emergency;
+9 (c) The theft is theft by receiving committed by buying, selling, borrowing or lending on the
+10 security of the property;
+11 (d) The subject of the theft is a firearm or explosive;
+12 (e) The subject of the theft is a livestock animal, a companion animal or a wild animal removed
+13 from habitat or born of a wild animal removed from habitat, pursuant to ORS 497.308 (2)(c);
+14 (f) The subject of the theft is a precursor substance; or
+15 (g) During the commission of the theft, the person recklessly engages in conduct that creates a
+16 substantial risk of serious physical injury to another person.
+17 (2) As used in this section:
+18 (a) “Companion animal” means a dog or cat possessed by a person, business or other entity for
+19 purposes of companionship, security, hunting, herding or providing assistance in relation to a phys-
+20 ical disability.
+21 (b) “Explosive” means a chemical compound, mixture or device that is commonly used or in-
+22 tended for the purpose of producing a chemical reaction resulting in a substantially instantaneous
+23 release of gas and heat, including but not limited to dynamite, blasting powder, nitroglycerin,
+24 blasting caps and nitrojelly, but excluding fireworks as defined in ORS 480.111, black powder,
+25 smokeless powder, small arms ammunition and small arms ammunition primers.
+26 (c) “Firearm” has the meaning given that term in ORS 166.210.
+27 (d) “Livestock animal” means a ratite, psittacine, horse, gelding, mare, filly, stallion, colt, mule,
+28 ass, jenny, bull, steer, cow, calf, goat, sheep, lamb, llama, pig or hog.
+29 (e) “Precursor substance” has the meaning given that term in ORS 475.940.
+30 (3) Theft in the first degree is a Class C felony.
+31 SECTION 16. ORS 164.354 is amended to read:
+32 164.354. (1) A person commits the crime of criminal mischief in the second degree if:
+33 (a) The person violates ORS 164.345, and as a result thereof, damages property in an amount
+34 exceeding [$500] $750; or
+35 (b) Having no right to do so nor reasonable ground to believe that the person has such right,
+36 the person intentionally damages property of another, or, the person recklessly damages property
+37 of another in an amount exceeding [$500] $750.
+38 (2) Criminal mischief in the second degree is a Class A misdemeanor.
+39 SECTION 17. ORS 164.365 is amended to read:
+40 164.365. (1) A person commits the crime of criminal mischief in the first degree who, with intent
+41 to damage property, and having no right to do so nor reasonable ground to believe that the person
+42 has such right:
+43 (a) Damages or destroys property of another:
+44 (A) In an amount exceeding [$1,000] $1,500;
+45 (B) By means of an explosive;
+[11]
+
+A-Eng. HB 4041
+1 (C) By starting a fire in an institution while the person is committed to and confined in the in-
+2 stitution;
+3 (D) Which is a livestock animal as defined in ORS 164.055;
+4 (E) Which is the property of a public utility, telecommunications carrier, railroad, public trans-
+5 portation facility or medical facility used in direct service to the public; or
+6 (F) By intentionally interfering with, obstructing or adulterating in any manner the service of
+7 a public utility, telecommunications carrier, railroad, public transportation facility or medical facil-
+8 ity; or
+9 (b) Intentionally uses, manipulates, arranges or rearranges the property of a public utility,
+10 telecommunications carrier, railroad, public transportation facility or medical facility used in direct
+11 service to the public so as to interfere with its efficiency.
+12 (2) As used in subsection (1) of this section:
+13 (a) “Institution” includes state and local correctional facilities, mental health facilities, juvenile
+14 detention facilities and state training schools.
+15 (b) “Medical facility” means a health care facility as defined in ORS 442.015, a licensed
+16 physician’s office or anywhere a licensed medical practitioner provides health care services.
+17 (c) “Public utility” has the meaning provided for that term in ORS 757.005 and includes any
+18 cooperative, people’s utility district or other municipal corporation providing an electric, gas, water
+19 or other utility service.
+20 (d) “Railroad” has the meaning provided for that term in ORS 824.020.
+21 (e) “Public transportation facility” means any property, structure or equipment used for or in
+22 connection with the transportation of persons for hire by rail, air or bus, including any railroad
+23 cars, buses or airplanes used to carry out such transportation.
+24 (f) “Telecommunications carrier” has the meaning given that term in ORS 133.721.
+25 (3) Criminal mischief in the first degree is a Class C felony.
+26 SECTION 18. (1) The amendments to ORS 164.043, 164.045, 164.055, 164.354 and 164.365 by
+27 sections 13 to 17 of this 2026 Act become operative on January 1, 2027.
+28 (2) The amendments to ORS 164.043, 164.045, 164.055, 164.354 and 164.365 by sections 13 to
+29 17 of this 2026 Act apply to conduct constituting, or alleged to constitute, a criminal offense
+30 occurring on or after January 1, 2027.
+31
+32 CAPTIONS
+33
+34 SECTION 19. The unit captions used in this 2026 Act are provided only for the conven-
+35 ience of the reader and do not become part of the statutory law of this state or express any
+36 legislative intent in the enactment of this 2026 Act.
+37
+38 EFFECTIVE DATE
+39
+40 SECTION 20. This 2026 Act being necessary for the immediate preservation of the public
+41 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+42 on its passage.
+43
+[12]
+
+[DELETED:  B 4 c b t L A I i a e b s o t e f o t p a h a m i r t a v T A a r t d t D o J t s w l c a n c a p t a u c s i a s m.P b  t r t t t c t e a j o c f a C A v i o .P C f a p b w t D o C a t w t p i s t f i P f  c peh:M[]]
+[DELETED:  h p v i b u a s o r d i s ( A d t t o d i t s a e u O f i t s o r r f a d o m m o r r f a v h o a d w A s r e a p[] o m [] r f to c m A s u O 8 r f r t t a t p i O o f t a b o b t t r o w d a b a c A s o c d p u O 8 r f f t A s o c d p u O 8 ( w t p d w p o a m e i t o o a m v]] A s o r r f m d w u t i]]
+[DELETED:  N p ( o t s t c s c a v A d o m m o c n h o a a t 2.( T a t O 8 b s 1 o t 2 A b A p o w i i u a p d t p o b o d i t s f o a t e a p o i a c d i s ( o t s t O C a p c u s ( o t s o a e c i]
+[DELETED:  s g g o t c a a p C c 8 o t s g g 4.( T a t O 8 b s 3 o t 2 A b P c f w j w e b o o a t e l o t s m f a p f p r p t O 1 t t T p f t p h a s r w t p s t f t U SeC A o f p s a r t p f b p w c y a N 4 1 A p w p p w d p t]
+[DELETED:  I a p p p i t c o t s o M 2.( A p m n f a p f p r u t s p f a p u O 1 t 1 o s 1 c 3 O 1 d n a t p f p r d i t N O 1 i a p r p c a f r t t p w c o a c o a t r o  a r t u c a m c a e c t r i g u t s c s v t j a t t s c t r f t d o o r u t n f o t]
+[DELETED:  7.( I t D o C d t a p w r o l i t d s p t s c f a A p d i t s s b f a t t t d I t s d t a p w r f t c o t d m p t s c f a o d w t p i T p m a a p d i s ( o ( o t U r o a p d i s ( o ( o t s t]
+[DELETED:  t b h i c p t h i t c a d b A t A t h t c m o t p r t t l a.S] I t t c e a c j u t s d a c o t c j ( E a p i O 1 w a j i c t t]
+[DELETED:  i t w t d i i a p t O 1 I a t t D o C a c o t p e o j c t n o t d h r t b s o t t o i i i t p t e o a p j a s o t n o d t d w p t s a s o t n o d t d h r t o a c u c o a p f a a i o t a t U r o t i d i s ( o ( o t s t D W t j i i i t c j o a f a c t t t d w i a a a e o b t c w t j w c t s i a w t p o O 1 t D m n p a s c t r i m p c t t p a T w n d i p ( o t s s i t r i a p r d t i d f a p c r d t d s p t d w i c]
+[DELETED:  ( W a p i s t i i t c o t D o i t c o t D o C f t p o c t t s c i t j a h b c a p o t s c t t t p i a b t D o C t s o f t s c a l i o g i o o t c o a b t s p o d a i t s s b d f t m p i c f t t s i j t s o t t o a t d c m o b a t t c s f t c i t t c s a a a d c t m t o s u d c n a t d c m o b t t c s f w t i i e i i t o u a p s i n o e t r]
+[DELETED:  m n b c w m p i c u t s t d a p o a s p i t r u a t t t c i s T s o a o c a r o w t e s i b o i t b i t s p i o u t s c.( e d o t6A T a t O 1 b s 1 o t 2 A a t s 1.N O 4 ( t D o C m T d h r t s a p r d s t t v o t p i a s o a a t i l t [ T t v[][]]
+[DELETED:  ( A p c t c o t i t f d i b m o t T t v o t p i a s o a t i [] $ o c o o e i a T t i t b r c b b s b o l o t “ m a c c m o d t i c u o i r i a s i o g a h i b n l t d b p n c a n b e f a d i O 4 b p T p v O 1 a a a r t d p i a a[] g t b t t p h s r p i d p o a o t p r d p[][]]
+[DELETED:  B i i w o o a i a I u m a o r t p o a p u “ f m a h c f a d i O 4 a l “ u h t m p f t t i O 7 a i a “ t f m a p s o e u f o i w t t o p f h b r a o b i a r.(.T.T h a s a e i]

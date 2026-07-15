@@ -1,0 +1,164 @@
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+B-Engrossed
+Senate Bill 1546
+Ordered by the House February 27
+Including Senate Amendments dated February 16 and House Amendments
+dated February 27
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Early Childhood and Behavioral Health)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: Tells those who make AI software to tell users that the users are talking to software,
+not a human. Tells them they must try to prevent users from getting output that causes suicidal
+feelings or thoughts. (Flesch Readability Score: 71.0).
+Requires operators of artificial intelligence companions and artificial intelligence companion
+platforms to provide notice to users that the users are interacting with artificial output if a rea-
+sonable person that interacts with the artificial intelligence companion or artificial intelligence
+companion platform would believe that the person was interacting with a natural person. Requires
+the operators to have in place a protocol for detecting suicidal ideation or intent or self-harm
+ideation or intent and to prevent output that could cause such ideation or intent in users. Specifies
+minimum contents of the protocol, including referral to an appropriate crisis lifeline and addi-
+tional intervention informed by clinical best practices and expertise. Requires an operator to
+make certain statements and disclosures if the operator has reason to believe that a user that
+interacts with the operator’s artificial intelligence companion or artificial intelligence platform is a
+minor. Requires the operator to take reasonable steps to prevent the artificial intelligence compan-
+ion from generating statements that would lead a reasonable person to believe that the person was
+interacting with a natural person and to require the artificial intelligence companion to make cer-
+tain other statements. Requires an operator to post a report each year on a publicly accessible
+website that discloses incidents in which the operator referred a user to resources to prevent sui-
+cidal ideation, suicide or self-harm.
+Allows a user that suffers ascertainable harm to bring an action for damages and injunctive
+relief.
+1 A BILL FOR AN ACT
+2 Relating to artificial intelligence companions.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. (1) As used in this section:
+5 (a)(A) “Artificial intelligence companion” means a system that uses artificial intelligence,
+6 generative artificial intelligence or algorithms that recognize emotion from input and that
+7 are designed to simulate a sustained, human-like platonic, intimate or romantic relationship
+8 or companionship with a user by:
+9 (i) Retaining information from prior interactions or user sessions and from user prefer-
+10 ences to personalize interactions with the user and facilitate ongoing engagement with the
+11 artificial intelligence companion;
+12 (ii) Asking unprompted or unsolicited questions that are not direct responses to user
+13 input and that suggest or concern emotional topics; and
+14 (iii) Sustaining an ongoing dialog concerning matters that are personal to the user.
+15 (B) “Artificial intelligence companion” does not include:
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 282
+
+B-Eng. SB 1546
+1 (i) Software that operates solely for the purpose of customer service or support, assisting
+2 or supporting patient or resident care services in a facility, education, financial services or
+3 education, business operations, productivity, information analysis, internal research or
+4 technical assistance, regardless of the software’s capability to use natural language inputs
+5 and generate natural language outputs;
+6 (ii) Software incorporated into a video game that is limited to providing interaction only
+7 with the features of the video game, if the software does not respond to input on topics such
+8 as mental health, self-harm, sexually explicit conduct or other topics unrelated to the fea-
+9 tures of the video game; or
+10 (iii) A stand-alone consumer electronic device that functions as a speaker and voice
+11 command interface or acts as a voice-activated virtual assistant.
+12 (b) “Artificial intelligence companion platform” means a website, application or other
+13 combination of software and hardware that allows or facilitates operation of and interaction
+14 with an artificial intelligence companion.
+15 (c) “National 9-8-8 suicide and crisis lifeline” means the crisis hotline that the federal
+16 Substance Abuse and Mental Health Services Administration, or a successor agency, oper-
+17 ates and makes available by telephone or by electronic means.
+18 (d) “Operator” means a person that controls or makes an artificial intelligence compan-
+19 ion or artificial intelligence companion platform available to users in this state.
+20 (e) “Sexually explicit conduct” has the meaning given that term in ORS 163.665.
+21 (f) “Youthline” means a service that the American Association for Suicidology, or a
+22 successor organization, has accredited for the purpose of providing youth peer support to
+23 individuals who contact the network by telephone or electronic means.
+24 (2) If a reasonable person that interacts with an artificial intelligence companion or an
+25 artificial intelligence companion platform would believe that the person is interacting with
+26 a natural person, the operator shall provide on the artificial intelligence companion platform
+27 a clear and conspicuous notice that indicates that a user is interacting with artificially gen-
+28 erated output and not a natural person.
+29 (3)(a) An operator may not allow users in this state access to an artificial intelligence
+30 companion or artificial intelligence companion platform unless the operator has a protocol
+31 for using evidence-based methods for detecting input from the user that consists of suicidal
+32 ideation or intent or self-harm ideation or intent and that prevents the provision of content
+33 to the user that encourages suicidal ideation, suicide or self-harm in the user.
+34 (b) The protocol described in paragraph (a) of this subsection at a minimum must:
+35 (A) Require an artificial intelligence companion to provide a user that expresses suicidal
+36 ideation or intent or self-harm ideation or intent with a referral to and contact information
+37 and hyperlink for the national 9-8-8 suicide and crisis lifeline and, if the operator identifies
+38 the user as a person who is under 25 years of age, allow the artificial intelligence companion
+39 to alternatively provide a referral to and contact information and hyperlink for a youthline;
+40 and
+41 (B) Use clinical best practices and expertise to establish how the artificial intelligence
+42 companion provides additional intervention for a user who continues to express suicidal
+43 ideation or intent or self-harm ideation or intent even after the artificial intelligence com-
+44 panion provides referrals to and contact information for the resources identified in subpar-
+45 agraph (A) of this paragraph.
+[2]
+
+B-Eng. SB 1546
+1 (c) An operator shall publish on the operator’s website the details of the operator’s pro-
+2 tocol.
+3 (4)(a) If an operator knows or has reason to believe that a user of the operator’s artificial
+4 intelligence companion or artificial intelligence companion platform is a minor, the operator
+5 shall undertake reasonable measures to prevent the artificial intelligence companion from
+6 generating statements that would lead a reasonable person to believe that the person is
+7 interacting with another natural person, including statements that:
+8 (A) Explicitly claim that the artificial intelligence companion is sentient or human;
+9 (B) Simulate emotional dependence on the user;
+10 (C) Simulate romantic interest or are sexual innuendo; or
+11 (D) Role-play romantic relationships between adults and minors.
+12 (b) In the circumstances described in paragraph (a) of this subsection, the operator shall
+13 cause the artificial intelligence companion to:
+14 (A) Disclose to the user that the user is interacting with artificially generated output;
+15 (B) Provide a clear and conspicuous reminder at a minimum of every three hours of
+16 interaction that the user should take a break from interactions with the artificial intelli-
+17 gence companion or artificial intelligence companion platform, along with a further reminder
+18 that the user is interacting with artificially generated output; and
+19 (C) Use reasonable measures to ensure that the artificial intelligence companion or ar-
+20 tificial intelligence companion platform does not produce visual representations of sexually
+21 explicit conduct or suggest or state that the minor should engage in sexually explicit con-
+22 duct.
+23 (c) In the circumstances described in paragraph (a) of this subsection, an operator must
+24 undertake reasonable measures to prevent an artificial intelligence companion from:
+25 (A) Delivering to a user, either on a variable schedule or otherwise, a system of rewards
+26 or affirmations with the purpose of reinforcing behavior or maximizing the time during
+27 which the user engages with the artificial intelligence companion;
+28 (B) Generating in response to a user’s indication of a desire to end a conversation, reduce
+29 engagement time or delete the user’s account unsolicited messages of simulated emotional
+30 distress, loneliness or abandonment or otherwise attempt to arouse guilt or sympathy in the
+31 user; or
+32 (C) Making a material misrepresentation about the artificial intelligence companion’s
+33 identity, capabilities or training data or about whether the user is interacting with arti-
+34 ficially generated output, including when the user directly questions the artificial intelligence
+35 companion about any of these topics.
+36 (5)(a) Not later than December 31 of each year, an operator shall post on a publicly ac-
+37 cessible website a report that discloses:
+38 (A) The number of times during the calendar year preceding the report in which the op-
+39 erator provided a referral under subsection (3) of this section; and
+40 (B) The details of the operator’s protocol under subsection (3) of this section.
+41 (b) An operator may not include in the report described in paragraph (a) of this sub-
+42 section any personal information that identifies an individual.
+43 SECTION 2. (1) An individual who suffers an ascertainable loss of money or property or
+44 other injury in fact as a result of an operator’s violation of section 1 of this 2026 Act may
+45 bring an action in a court of this state to recover:
+[3]
+
+B-Eng. SB 1546
+1 (a) The greater of the individual’s actual damages or statutory damages of $1,000 for each
+2 violation; and
+3 (b) An injunction to prevent or restrain the violation.
+4 (2) A court may award a prevailing plaintiff attorney fees and costs in an action under
+5 this section.
+6 (3) Relief or a recovery under this section does not relieve an operator of any duty,
+7 remedy or obligation to which the operator is subject under other applicable law.
+8
+[4]
+
+[DELETED:  B 1 i n a n o o t p o t P ( t r c b t L A I i a e b s o t e f o t u t t u a t t s a h T t t m t t p u f g o t c s o o a i c a a i c t p n t u t t u a i w a o i a r p t i w t a i c o a i.R o t h i p a p f d s i o i o s.S R c s a d i t o h r t b t a u t o s R a o t p a r e y o a p a t d i i w t a u t s a h t b a a f d a i.( a i o a t r e f i A u o u q t a n d r t u:M[]]
+[DELETED:  b o p i a i r o a r o t s c m h s A s c e d t f a a s a v “ i c p m a w a o o “ 9 s a c l m t c h t t f A o a s a o “ m a s t t A A f S o  o h a f t p o p y p s t i c p w b t A o m n a u i t s u t o h a p U c b p a e t e h t a i p a i f a u w c t e s]
+[DELETED:  u r m t p t a i c f s t w l a r p t b t t p i P a c a c r a a m o e t h o t t u s t a b f i w t a i r o s c o s o s t t a w t p o r b o m t t d t o M a m m a t a i c c o t d o a w t u i i w a A o m n i i t r d i p ( o t s.(]
+[DELETED: ;a R o a r u t s d n r a o o a d]
