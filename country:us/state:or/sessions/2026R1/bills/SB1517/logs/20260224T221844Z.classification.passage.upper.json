@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third reading.  Carried by Broadman, Prozanski.  Passed.",
+    "occurred_at": "2026-02-24T22:18:44+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1517",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1517"
+}

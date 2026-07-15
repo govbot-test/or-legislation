@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Second reading.",
+    "occurred_at": "2026-02-26T18:28:49+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1519",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1519"
+}

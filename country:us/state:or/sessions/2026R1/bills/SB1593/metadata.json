@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Provides that an operator may require an adult person who engages in a sport, fitness or recreational activity in various ways to release the operator from claims for ordinary negligence. Directs the Oregon Business Development Department to study recreation commerce and report to an appropriate committee or interim committee of the Legislative Assembly no later than December 15, 2026. Declares an emergency, effective on passage."
+      "abstract": "</b> </i>] Provides that an operator may require [<i>an adult</i>] <b>a </b>person who engages in a sport, fitness or recreational activity in various ways to release the operator from claims for ordinary negligence. [<i>Directs the Oregon Business Development Department to study recreation commerce and report to an appropriate committee or interim committee of the Legislative Assembly no later than December 15, 2026.</i>] Declares an emergency, effective on passage."
     }
   ],
   "other_titles": [],
@@ -19,7 +19,98 @@
       "identifier": "ocd-bill-or-2026r1-sb1593"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduction and first reading. Referred to President's desk.",
+      "date": "2026-02-02T15:32:59+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce and General Government, then Judiciary.",
+      "date": "2026-02-02T17:38:57+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-09T16:01:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-11T16:02:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass with amendments, be printed A-Engrossed, subsequent referral to Judiciary be rescinded and be referred to Rules.",
+      "date": "2026-02-23T22:41:42+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Subsequent referral rescinded by order of the President.",
+      "date": "2026-02-23T22:41:43+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Rules by order of the President.",
+      "date": "2026-02-23T22:41:44+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "In committee upon adjournment.",
+      "date": "2026-03-07T00:17:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Mark Meek",
@@ -180,15 +271,56 @@
       "primary": false,
       "person_id": "~{\"name\": \"Daniel Nguyen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Jeff Golden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Golden\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
+      "note": "A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1593/A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Introduced",
       "links": [
         {
           "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1593/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Amendments to Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1593/Senate%20Amendments%20to%20Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SCGG Amendment -5",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30305",
           "media_type": "application/pdf"
         }
       ],
@@ -212,7 +344,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:19Z",
+    "logs_latest_update": "2026-07-15T13:24:32Z",
     "text_extraction_latest_update": "2026-07-13T10:18:33.367338Z"
   }
 }

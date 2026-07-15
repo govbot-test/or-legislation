@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026R1",
   "identifier": "HB4070",
-  "title": "Relating to health care.",
+  "title": "Relating to health care; and prescribing an effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Provides that a community mental health program is not responsible for the cost of emergency psychiatric care, custody and treatment when state funds provided to the community mental health program are exhausted. Requires the Oregon Health Authority and coordinated care organizations to ensure that access to behavioral health treatment in the medical assistance program is no more burdensome than access to medical or surgical treatment. Prohibits the authority or a contracted external quality review organization from making a negative finding about or imposing a penalty on a coordinated care organization based on documents or templates created by the authority for use by coordinated care organization. Modifies certain statutes to clarify roles and responsibilities for the delivery of behavioral health services and to update terminology."
+      "abstract": "</b> </i>] Requires the Oregon Health Authority and coordinated care organizations to ensure that access to behavioral health treatment in the medical assistance program is comparable to access to medical and surgical treatment and that limitations are applied to behavioral health treatment no more stringently than to medical and surgical treatment. Prohibits the authority or a contracted external quality review organization, under certain circumstances, from making a negative finding about or imposing a penalty on a coordinated care organization based on documents or templates created by the authority for use by a coordinated care organization. Modifies certain statutes to clarify roles and responsibilities for the delivery of behavioral health services and to update terminology. <b>Modifies the types of providers that may be reimbursed in the state medical assistance program for the cost of health services delivered using telemedicine. Becomes operative on January 1, 2027. Takes effect on the 91st day following adjournment sine die.</b>"
     }
   ],
   "other_titles": [],
@@ -19,10 +19,277 @@
       "identifier": "ocd-bill-or-2026r1-hb4070"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "First reading. Referred to Speaker's desk.",
+      "date": "2026-02-02T16:50:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Behavioral Health.",
+      "date": "2026-02-02T17:51:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-05T21:01:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-12T21:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass with amendments and be printed A-Engrossed.",
+      "date": "2026-02-16T23:15:50+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2026-02-17T22:09:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Third reading. Carried by Nosse. Passed.",
+      "date": "2026-02-19T02:03:53+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "First reading. Referred to President's desk.",
+      "date": "2026-02-19T22:10:27+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Early Childhood and Behavioral Health.",
+      "date": "2026-02-19T23:17:20+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-24T16:01:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing and Work Session held.",
+      "date": "2026-02-26T16:32:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass with amendments to the A-Eng. bill. (Printed B-Eng.)",
+      "date": "2026-02-27T22:03:31+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2026-03-02T19:48:26+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Third reading.  Carried by Anderson.  Passed.",
+      "date": "2026-03-03T21:53:36+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "House concurred in Senate amendments and repassed bill.",
+      "date": "2026-03-04T18:55:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Speaker signed.",
+      "date": "2026-03-05T21:30:14+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "President signed.",
+      "date": "2026-03-06T16:59:18+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Governor signed.",
+      "date": "2026-03-31T21:07:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Chapter 44, (2026 Laws): Effective date June 5, 2026.",
+      "date": "2026-04-06T17:33:05+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    }
+  ],
   "sponsorships": [],
   "related_bills": [],
   "versions": [
+    {
+      "note": "A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4070/A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "B-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4070/B-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4070/Enrolled",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Amendments to Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4070/House%20Amendments%20to%20Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -33,9 +300,164 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Amendments to A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4070/Senate%20Amendments%20to%20A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HBH Amendment -9",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30376",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SECBH Amendment -A11",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30691",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "2026-02-05 Proposed Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/29925",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-05",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-05 Proposed Amendment -2",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/29937",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-05",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-05 Proposed Amendment -4",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/29962",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-05",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-05 Proposed Amendment -5",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/29967",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-05",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-10 Proposed Amendment -7",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30160",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-10 Proposed Amendment -6",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30182",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-12 Proposed Amendment -7",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30336",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-12 Proposed Amendment -6",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30337",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-12 Proposed Amendment -4",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30437",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-12 Proposed Amendment -5",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30438",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-24 Proposed Amendment -A10",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30642",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-24",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -51,7 +473,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:19Z",
+    "logs_latest_update": "2026-07-15T13:24:32Z",
     "text_extraction_latest_update": "2026-07-13T10:18:51.958280Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026R1",
   "identifier": "HB4061",
-  "title": "Relating to a unified trade strategy for Oregon; declaring an emergency.",
+  "title": "Relating to a unified trade strategy for Oregon; and declaring an emergency.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Digest: The Act would have Business Oregon work with other state and local bodies to update the state's unified trade strategy. The Act would have DAS make a procurement reform roadmap by December 15 of this year. The Act would set up a task force to advise on how to retain business and private investment in this state. (Flesch Readability Score: 61.3.) Directs the Oregon Business Development Department to collaborate with the Port of Portland, the Oregon Tourism Commission, the State Department of Agriculture and other stakeholders on updating the unified trade strategy for Oregon. Directs the Oregon Department of Administrative Services to produce a procurement reform roadmap and deliver the roadmap to a committee or interim committee of the Legislative Assembly related to general government no later than December 15, 2026. Establishes the Task Force on Business Retention for the purpose of making recommendations to the Legislative Assembly for improving strategies to retain businesses and private investment in this state. Declares an emergency, effective on passage."
+      "abstract": "</b> </i>] Directs the Oregon Business Development Department to set up a program for micro-enterprise tariff adjustment grants to small businesses for costs increased by federal tariffs. Directs the Oregon Business Development Department to collaborate with the Port of Portland, the Oregon Tourism Commission, the State Department of Agriculture and other stakeholders on updating the unified trade strategy for Oregon. [<i>Directs the Oregon Department of Administrative Services to produce a procurement reform roadmap and deliver the roadmap to a committee or interim committee of the Legislative Assembly related to general government no later than December 15, 2026.</i>] [<i>Establishes the Task Force on Business Retention for the purpose of making recommendations to the Legislative Assembly for improving strategies to retain businesses and private investment in this state.</i>] Declares an emergency, effective on passage."
     }
   ],
   "other_titles": [],
@@ -19,10 +19,334 @@
       "identifier": "ocd-bill-or-2026r1-hb4061"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "First reading. Referred to Speaker's desk.",
+      "date": "2026-02-02T16:50:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Referred to Economic Development, Small Business, and Trade with subsequent referral to Ways and Means.",
+      "date": "2026-02-02T17:51:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-02T21:01:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-09T21:01:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-11T21:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means by prior reference.",
+      "date": "2026-02-16T18:09:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Referred to Ways and Means by prior reference.",
+      "date": "2026-02-16T18:09:53+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Assigned to Subcommittee On Transportation and Economic Development.",
+      "date": "2026-02-23T19:47:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Returned to Full Committee.",
+      "date": "2026-02-26T23:03:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-26T23:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-27T16:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass with amendments and be printed B-Engrossed.",
+      "date": "2026-02-28T00:09:44+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2026-03-02T19:48:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Third reading. Carried by Nguyen D. Passed.",
+      "date": "2026-03-03T22:02:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "First reading. Referred to President's desk.",
+      "date": "2026-03-04T20:18:04+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Referred to Ways and Means.",
+      "date": "2026-03-04T20:33:29+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass the B-Eng. bill.",
+      "date": "2026-03-05T16:08:23+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2026-03-05T23:18:28+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Third reading.  Carried by McLane.  Passed.",
+      "date": "2026-03-06T18:21:56+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Speaker signed.",
+      "date": "2026-03-10T19:28:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "President signed.",
+      "date": "2026-03-10T20:49:13+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Governor signed.",
+      "date": "2026-03-31T21:07:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Chapter 39, (2026 Laws): Effective date March 31, 2026.",
+      "date": "2026-04-06T17:33:05+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    }
+  ],
   "sponsorships": [],
   "related_bills": [],
   "versions": [
+    {
+      "note": "A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4061/A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "B-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4061/B-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4061/Enrolled",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Amendments to A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4061/House%20Amendments%20to%20A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Amendments to Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4061/House%20Amendments%20to%20Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -33,9 +357,65 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "HECDSB Amendment -2",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30238",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "JWM Amendment -A7",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30742",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "2026-02-09 Proposed Amendment -2",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30108",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-09",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-26 Proposed Amendment -A4",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30708",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-26",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-26 Proposed Amendment -A6",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30709",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-26",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -51,7 +431,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:19Z",
+    "logs_latest_update": "2026-07-15T13:24:31Z",
     "text_extraction_latest_update": "2026-07-13T10:09:34.767793Z"
   }
 }

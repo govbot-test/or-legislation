@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Requires the Oregon Health Authority to collaborate with the Department of Human Services and the Employment Department to submit an annual report that identifies employers that employ 50 or more employees in this state and that have employees or dependents of the employees who are medical assistance recipients. Takes effect on the 91st day following adjournment sine die."
+      "abstract": "Requires the Oregon Health Authority to collaborate with the Department of Human Services and the Employment Department to submit an annual report that [<i>identifies</i>]<b> provides information about</b> employers that employ [<i>50</i>]<b> 500</b> or more employees in this state and [<i>that</i>] have employees [<i>or dependents of the employees</i>] who are medical assistance recipients. Takes effect on the 91st day following adjournment sine die."
     }
   ],
   "other_titles": [],
@@ -19,7 +19,137 @@
       "identifier": "ocd-bill-or-2026r1-hb4147"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "First reading. Referred to Speaker's desk.",
+      "date": "2026-02-02T16:50:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Referred to Rules.",
+      "date": "2026-02-02T17:51:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-03T16:01:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-24T16:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass with amendments and be printed A-Engrossed.",
+      "date": "2026-02-26T22:51:31+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2026-02-27T20:29:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Third reading. Carried by Walters. Passed.",
+      "date": "2026-03-02T20:14:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "First reading. Referred to President's desk.",
+      "date": "2026-03-03T19:11:21+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Referred to Rules.",
+      "date": "2026-03-04T16:45:46+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Public Hearing and Work Session held.",
+      "date": "2026-03-04T23:32:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "In committee upon adjournment.",
+      "date": "2026-03-07T00:17:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Jules Walters",
@@ -102,14 +232,6 @@
       "organization_id": null
     },
     {
-      "name": "Rob Nosse",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Rob Nosse\"}",
-      "organization_id": null
-    },
-    {
       "name": "Thuy Tran",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -166,14 +288,6 @@
       "organization_id": null
     },
     {
-      "name": "Floyd Prozanski",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Floyd Prozanski\"}",
-      "organization_id": null
-    },
-    {
       "name": "Lisa Reynolds",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -188,10 +302,56 @@
       "primary": false,
       "person_id": "~{\"name\": \"Kathleen Taylor\"}",
       "organization_id": null
+    },
+    {
+      "name": "Sue Rieke Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sue Rieke Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Gamba",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Gamba\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rob Nosse",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rob Nosse\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4147/A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Amendments to Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4147/House%20Amendments%20to%20Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -202,9 +362,131 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "HRULES Amendment -8",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30635",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "2026-02-03 Proposed Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/29871",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-03",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-19 Proposed Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30594",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-19 Proposed Amendment -4",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30595",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-19 Proposed Amendment -5",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30615",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-24 Proposed Amendment -7",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30627",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-24",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-24 Proposed Amendment -9",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30658",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-24",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-24 Proposed Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30660",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-24",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-24 Proposed Amendment -4",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30661",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-24",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-24 Proposed Amendment -5",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30662",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-24",
+      "classification": ""
+    },
+    {
+      "note": "2026-03-04 Proposed Amendment -AMR11",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30821",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-04",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -220,7 +502,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:20Z",
+    "logs_latest_update": "2026-07-15T13:24:31Z",
     "text_extraction_latest_update": "2026-07-13T10:09:38.875426Z"
   }
 }

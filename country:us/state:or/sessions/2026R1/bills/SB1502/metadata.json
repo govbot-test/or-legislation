@@ -1,0 +1,319 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "SB1502",
+  "title": "Relating to proposed legislative measures to be filed by the Secretary of State; and prescribing an effective date.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Directs the Secretary of State to presession file a proposed legislative measure for consideration during the 2027 regular session of the Legislative Assembly that sets forth the recommendations of the secretary for changes to campaign finance limitations presently being implemented in this state. Takes effect on the 91st day following adjournment sine die."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-sb1502"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading. Referred to President's desk.",
+      "date": "2026-03-04T19:55:22+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Referred to Rules.",
+      "date": "2026-03-04T20:33:29+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Public Hearing and Work Session held.",
+      "date": "2026-03-04T23:32:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass.",
+      "date": "2026-03-05T17:24:03+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2026-03-05T23:18:28+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Rules suspended. Third reading.  Carried by Starr.  Passed.",
+      "date": "2026-03-05T23:54:34+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "First reading. Referred to Speaker's desk.",
+      "date": "2026-03-06T00:07:05+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Referred to Rules.",
+      "date": "2026-03-06T00:40:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-03-06T17:32:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass.",
+      "date": "2026-03-06T19:42:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2026-03-06T22:59:07+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Rules suspended. Third reading. Carried by Elmer. Passed.",
+      "date": "2026-03-06T23:03:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "President signed.",
+      "date": "2026-03-10T18:55:22+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Speaker signed.",
+      "date": "2026-03-10T19:28:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Governor signed.",
+      "date": "2026-04-09T23:10:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Chapter 141, 2026 Laws.",
+      "date": "2026-04-14T19:37:41+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Effective date, June 5, 2026.",
+      "date": "2026-04-14T19:38:56+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rob Wagner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rob Wagner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie Fahey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Julie Fahey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kayse Jama",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kayse Jama\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bruce Starr",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bruce Starr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben Bowman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ben Bowman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lucetta Elmer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lucetta Elmer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1502/Enrolled",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1502/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1502",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:24:31Z"
+  }
+}

@@ -19,7 +19,64 @@
       "identifier": "ocd-bill-or-2026r1-sb1545"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduction and first reading. Referred to President's desk.",
+      "date": "2026-02-02T15:32:59+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary.",
+      "date": "2026-02-02T17:38:57+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-09T20:46:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-16T20:46:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "In committee upon adjournment.",
+      "date": "2026-03-07T00:17:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Mike McLane",
@@ -116,6 +173,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"E. Werner Reschke\"}",
       "organization_id": null
+    },
+    {
+      "name": "Fred Girod",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fred Girod\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Floyd Prozanski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Floyd Prozanski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Janeen Sollman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Janeen Sollman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Manning Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Manning Jr.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -148,7 +237,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:20Z",
+    "logs_latest_update": "2026-07-15T13:24:31Z",
     "text_extraction_latest_update": "2026-07-13T10:15:13.268023Z"
   }
 }

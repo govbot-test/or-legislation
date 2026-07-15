@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026R1",
   "identifier": "HB4052",
-  "title": "Relating to a tax credit for de novo banks; prescribing an effective date.",
+  "title": "Relating to a tax credit for de novo banks; and prescribing an effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -19,7 +19,220 @@
       "identifier": "ocd-bill-or-2026r1-hb4052"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "First reading. Referred to Speaker's desk.",
+      "date": "2026-02-02T16:50:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Revenue.",
+      "date": "2026-02-02T17:51:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-04T23:01:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-18T23:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass.",
+      "date": "2026-02-19T22:52:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2026-02-20T18:16:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Carried over to February 24, 2026 Calendar by virtue of adjournment.",
+      "date": "2026-02-24T01:31:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Third reading. Carried by Reschke. Passed.",
+      "date": "2026-02-25T01:39:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "First reading. Referred to President's desk.",
+      "date": "2026-02-25T18:50:06+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Finance and Revenue.",
+      "date": "2026-02-25T19:07:20+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing and Work Session held.",
+      "date": "2026-03-02T16:02:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass.",
+      "date": "2026-03-03T18:19:34+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2026-03-03T19:11:21+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Third reading.  Carried by Drazan.  Passed.",
+      "date": "2026-03-04T23:03:32+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Speaker signed.",
+      "date": "2026-03-05T21:30:14+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "President signed.",
+      "date": "2026-03-06T16:59:18+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Governor signed.",
+      "date": "2026-03-31T21:07:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Chapter 36, (2026 Laws): Effective date June 5, 2026.",
+      "date": "2026-04-06T17:33:05+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "E. Werner Reschke",
@@ -52,10 +265,93 @@
       "primary": false,
       "person_id": "~{\"name\": \"David Brock Smith\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bobby Levy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bobby Levy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pam Marsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pam Marsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nathan Sosa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nathan Sosa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Gomberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Gomberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben Bowman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ben Bowman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zach Hudson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zach Hudson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Lively",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Lively\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jules Walters",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jules Walters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Meek",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Meek\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4052/Enrolled",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -84,7 +380,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:20Z",
+    "logs_latest_update": "2026-07-15T13:24:32Z",
     "text_extraction_latest_update": "2026-07-13T10:08:50.582715Z"
   }
 }

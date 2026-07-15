@@ -1,0 +1,126 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "SCR208",
+  "title": "Amending Legislative Branch Personnel Rule 27 and adopting Legislative Branch Personnel Rule 27-C.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Modifies Legislative Branch Personnel Rule 27 to combine conduct report and conduct complaint processes into a single process. Provides that only the final investigative report is disclosable to the public, under certain conditions. Authorizes the Legislative Equity Officer to seek a voluntary resolution of investigations. Permits participating impacted parties to withdraw allegations under certain circumstances. Authorizes the officer to continue investigations even without the participation of any impacted party if evidence supports continuing the investigation. Establishes definitions of \"legislative business\" and \"workplace\" for determining application of the rule. Modifies other definitions and makes the role of investigator the same without regard to impacted parties or respondents. Applies to conduct reports and complaint statements made on or after the date of the adoption of the concurrent resolution, and to investigations of those reports and statements."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-scr208"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading. Referred to President's desk.",
+      "date": "2026-02-09T18:34:14+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Referred to Conduct.",
+      "date": "2026-02-09T20:42:56+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-13T01:01:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "In committee upon adjournment.",
+      "date": "2026-03-07T00:17:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SCR208/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "2026-02-12 Proposed Amendment -2",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30429",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-12 Proposed Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30430",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SCR208",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:24:31Z"
+  }
+}

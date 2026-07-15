@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Requires employers who provide paid vacation time to compensate employees for all earned or accrued but unused paid vacation time when employment terminates. Takes effect on the 91st day following adjournment sine die."
+      "abstract": "[<i>Requires employers who provide paid vacation time to compensate employees for all earned or accrued but unused paid vacation time when employment terminates.</i>] <b>Requires employers that provide, by written policy or employment contract, for the payment of earned or accrued but unused paid time off upon termination to make such payments in accordance with statutory requirements governing final wages.</b> Takes effect on the 91st day following adjournment sine die."
     }
   ],
   "other_titles": [],
@@ -19,7 +19,98 @@
       "identifier": "ocd-bill-or-2026r1-hb4094"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "First reading. Referred to Speaker's desk.",
+      "date": "2026-02-02T16:50:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Labor and Workforce Development.",
+      "date": "2026-02-02T17:51:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing scheduled.",
+      "date": "2026-02-04T23:01:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-04T23:01:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-16T23:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means.",
+      "date": "2026-02-18T19:54:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Ways and Means by order of Speaker.",
+      "date": "2026-02-18T19:54:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "In committee upon adjournment.",
+      "date": "2026-03-07T00:17:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Travis Nelson",
@@ -169,6 +260,28 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4094/A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Amendments to Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4094/House%20Amendments%20to%20Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Introduced",
       "links": [
         {
@@ -178,9 +291,109 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "HLWD Amendment -2",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30533",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "2026-02-04 Proposed Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/29877",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-11 Proposed Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30190",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-11",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-11 Proposed Amendment -3",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30249",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-11",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-11 Proposed Amendment -5",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30313",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-11",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-11 Proposed Amendment -4",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30330",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-11",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-11 Proposed Amendment -2",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30349",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-11",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-16 Proposed Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30478",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-16",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-16 Proposed Amendment -5",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30532",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-16",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -196,7 +409,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:20Z",
+    "logs_latest_update": "2026-07-15T13:24:32Z",
     "text_extraction_latest_update": "2026-07-13T10:08:55.747815Z"
   }
 }

@@ -1,0 +1,477 @@
+{
+  "legislative_session": "2026R1",
+  "identifier": "SB1598",
+  "title": "Relating to access to health services; and declaring an emergency.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Requires certain health benefit plans to provide coverage for preventive health services in accordance with federal rules in effect on June 30, 2025, and immunizations recommended by the Public Health Officer in the future. Authorizes the Public Health Officer, or designated physician, to issue a standing order for a prescription to control, prevent, mitigate or treat any infectious or noninfectious disease or other significant public health concern. Declares an emergency, effective on passage."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-or-2026r1-sb1598"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduction and first reading. Referred to President's desk.",
+      "date": "2026-02-05T17:47:26+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Health Care.",
+      "date": "2026-02-05T20:56:19+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-09T23:01:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-11T23:02:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass.",
+      "date": "2026-02-16T17:17:13+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2026-02-16T19:05:10+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Carried over to 02-18 by unanimous consent.",
+      "date": "2026-02-17T20:52:50+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Carried over to 02-19 by virtue of adjournment.",
+      "date": "2026-02-18T21:55:42+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Third reading.  Carried by Reynolds.  Passed.",
+      "date": "2026-02-19T21:19:03+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "First reading. Referred to Speaker's desk.",
+      "date": "2026-02-19T22:14:48+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Health Care.",
+      "date": "2026-02-20T17:29:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-24T23:01:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-26T23:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass.",
+      "date": "2026-02-28T00:09:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Minority Recommendation: Do pass with amendments and be printed A-Engrossed.",
+      "date": "2026-02-28T00:09:53+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2026-03-02T20:13:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "In absence of motion to substitute Minority Report for Committee Report, bill advanced to third reading and final consideration.",
+      "date": "2026-03-03T19:52:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Third reading. Carried by Nosse. Passed.",
+      "date": "2026-03-03T19:55:55+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "President signed.",
+      "date": "2026-03-05T16:38:22+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Speaker signed.",
+      "date": "2026-03-05T18:58:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Governor signed.",
+      "date": "2026-03-31T21:30:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Chapter 100, 2026 Laws.",
+      "date": "2026-04-06T18:50:36+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Effective date, March 31, 2026.",
+      "date": "2026-04-06T18:52:40+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lisa Reynolds",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lisa Reynolds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rob Nosse",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rob Nosse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Deb Patterson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Deb Patterson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wlnsvey Campos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wlnsvey Campos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sara Gelser Blouin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sara Gelser Blouin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nancy Nathanson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nancy Nathanson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hai Pham",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hai Pham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lew Frederick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lew Frederick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Manning Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Manning Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Andersen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tom Andersen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dacia Grayber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dacia Grayber\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1598/Enrolled",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Minority Amendments to Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1598/House%20Minority%20Amendments%20to%20Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1598/Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Minority Report A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1598/Minority%20Report%20A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "2026-02-11 Proposed Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30348",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-11",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-26 Proposed Amendment -2",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30705",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-26",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-26 Proposed Amendment -MR3",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30752",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-26",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1598",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:or/government",
+    "name": "Oregon",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:or"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T13:24:32Z"
+  }
+}

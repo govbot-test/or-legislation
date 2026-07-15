@@ -19,7 +19,74 @@
       "identifier": "ocd-bill-or-2026r1-sb1586"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduction and first reading. Referred to President's desk.",
+      "date": "2026-02-02T15:32:59+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Referred to Finance and Revenue.",
+      "date": "2026-02-02T17:38:57+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-16T16:01:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-18T16:01:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-23T16:01:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "In committee upon adjournment.",
+      "date": "2026-03-07T00:17:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Janeen Sollman",
@@ -59,14 +126,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Kayse Jama\"}",
-      "organization_id": null
-    },
-    {
-      "name": "James Manning Jr.",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"James Manning Jr.\"}",
       "organization_id": null
     },
     {
@@ -123,14 +182,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Hai Pham\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Sue Rieke Smith",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Sue Rieke Smith\"}",
       "organization_id": null
     },
     {
@@ -206,14 +257,6 @@
       "organization_id": null
     },
     {
-      "name": "David Gomberg",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David Gomberg\"}",
-      "organization_id": null
-    },
-    {
       "name": "Jeffrey Helfrich",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -254,27 +297,11 @@
       "organization_id": null
     },
     {
-      "name": "Lesly Mu\u00f1oz",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Lesly Mu\\u00f1oz\"}",
-      "organization_id": null
-    },
-    {
       "name": "Virgle Osborne",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Virgle Osborne\"}",
-      "organization_id": null
-    },
-    {
-      "name": "E. Werner Reschke",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"E. Werner Reschke\"}",
       "organization_id": null
     },
     {
@@ -291,14 +318,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Mari Watanabe\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Lamar Wise",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Lamar Wise\"}",
       "organization_id": null
     },
     {
@@ -324,7 +343,52 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "2026-02-16 Proposed Amendment -4",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30548",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-16",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-18 Proposed Amendment -4",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30565",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-23 Proposed Amendment -7",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30632",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-23",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-23 Proposed Amendment -8",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30638",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-23",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -340,7 +404,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:20Z",
+    "logs_latest_update": "2026-07-15T13:24:31Z",
     "text_extraction_latest_update": "2026-07-13T10:16:14.045292Z"
   }
 }

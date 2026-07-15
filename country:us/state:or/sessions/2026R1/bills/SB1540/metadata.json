@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Requires an insurer that uses a catastrophe model or wildfire risk model to provide the Director of the Department of Consumer and Business Services a description of each model, along with related information, and an explanation of how the insurer uses the model in underwriting decisions. Specifies elements that an insurer must include in each model and requires the insurer to give a premium discount or adjustment, or other incentive, to a policy holder that demonstrates having undertaken a property-specific mitigation action or that a community-level mitigation action occurred in proximity to the policy holder's property. Requires an insurer to post on the insurer's website, and provide to an applicant for insurance or a policy holder seeking a renewal, information about premium discounts or adjustments, or other incentives, that are available to applicants or policy holders that undertake a property-specific mitigation action or demonstrate that a community-level mitigation action occurred in proximity to the applicant's or policy holder's property. Permits an applicant or policy holder to appeal an insurer's classification of the applicant's or policy holder's property or to dispute the amount of a premium discount or adjustment or other incentive the insurer provides. Takes effect on the 91st day following adjournment sine die."
+      "abstract": "Requires an insurer that uses a catastrophe model or wildfire risk model<b> or scoring method</b> to provide the Director of the Department of Consumer and Business Services a description of each model<b> or scoring method</b>, along with related information, and an explanation of how the insurer uses the model<b> or scoring method</b> in underwriting decisions. Specifies [<i>elements</i>] that an insurer must [<i>include in</i>]<b> incorporate applicable community-level mitigation actions and property-specific mitigation actions into</b> each model and requires the insurer to give a premium discount or adjustment, or other incentive, to a policy holder that demonstrates having undertaken a property-specific mitigation action or that a community-level mitigation action occurred in proximity to the policy holder's property. Requires an insurer to post on the insurer's website, and provide to an applicant for insurance or a policy holder seeking a renewal, information about premium discounts or adjustments, or other incentives, that are available to applicants or policy holders that undertake a property-specific mitigation action or demonstrate that a community-level mitigation action occurred in proximity to the applicant's or policy holder's property. Permits an applicant or policy holder to appeal an insurer's classification of the applicant's or policy holder's property or to dispute the amount of a premium discount or adjustment or other incentive the insurer provides. Takes effect on the 91st day following adjournment sine die."
     }
   ],
   "other_titles": [],
@@ -19,10 +19,112 @@
       "identifier": "ocd-bill-or-2026r1-sb1540"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduction and first reading. Referred to President's desk.",
+      "date": "2026-02-02T15:32:59+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Natural Resources and Wildfire.",
+      "date": "2026-02-02T17:38:57+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-10T21:01:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-12T21:02:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass with amendments and be referred to Rules. (Printed A-Eng.)",
+      "date": "2026-02-17T23:13:15+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Rules by order of the President.",
+      "date": "2026-02-17T23:13:16+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-03-02T16:01:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "In committee upon adjournment.",
+      "date": "2026-03-07T00:17:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    }
+  ],
   "sponsorships": [],
   "related_bills": [],
   "versions": [
+    {
+      "note": "A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1540/A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -33,9 +135,65 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Amendments to Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1540/Senate%20Amendments%20to%20Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SNRW Amendment -4",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30466",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "2026-02-10 Proposed Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30075",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-12 Proposed Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30148",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": ""
+    },
+    {
+      "note": "2026-03-02 Proposed Amendment -A6",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30736",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-02",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -51,7 +209,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:20Z",
+    "logs_latest_update": "2026-07-15T13:24:32Z",
     "text_extraction_latest_update": "2026-07-13T10:12:07.810413Z"
   }
 }

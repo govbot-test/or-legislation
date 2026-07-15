@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026R1",
   "identifier": "HB4139",
-  "title": "Relating to cannabis; prescribing an effective date; providing for revenue raising that requires approval by a three-fifths majority.",
+  "title": "Relating to cannabis; prescribing an effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Defines \"container\" and \"industrial hemp-derived cannabinoid product.\" Changes the definition of \"adult use cannabis item.\" Imposes a retail sales tax on industrial hemp-derived cannabinoid products. Directs the Oregon Liquor and Cannabis Commission to immediately suspend a license to produce marijuana for specified reasons. Directs the commission to inspect a premises licensed by the commission without advance notice for specified reasons and to request that law enforcement accompany the commission to the premises. Requires the State Department of Agriculture to complete a criminal records check on an applicant for an industrial hemp handler license. Requires an applicant for an industrial hemp grower license to provide a land use compatibility statement and information related to land ownership to the department. Directs the department to inspect a premises licensed by the department without advance notice for specified reasons and to request that law enforcement accompany the department to the premises. Takes effect on the 91st day following adjournment sine die."
+      "abstract": "</b> </i>] [<i>Defines \"container\" and \"industrial hemp-derived cannabinoid product.\" Changes the definition of \"adult use cannabis item.\" Imposes a retail sales tax on industrial hemp-derived cannabinoid products. Directs the Oregon Liquor and Cannabis Commission to immediately suspend a license to produce marijuana for specified reasons. Directs the commission to inspect a premises licensed by the commission without advance notice for specified reasons and to request that law enforcement accompany the commission to the premises.</i>] [<i>Requires the State Department of Agriculture to complete a criminal records check on an applicant for an industrial hemp handler license. Requires an applicant for an industrial hemp grower license to provide a land use compatibility statement and information related to land ownership to the department. Directs the department to inspect a premises licensed by the department without advance notice for specified reasons and to request that law enforcement accompany the department to the premises.</i>] <b>Increases quarterly distributions to the Oregon Criminal Justice Commission for deposit into the Illegal Marijuana Market Enforcement Grant Program Fund from $750,000 to $3 million.</b> <b>Expands the definition of \"debilitating medical condition\" to include medical conditions that an attending provider determines might be mitigated by the medical use of marijuana.</b> Takes effect on the 91st day following adjournment sine die."
     }
   ],
   "other_titles": [],
@@ -19,7 +19,98 @@
       "identifier": "ocd-bill-or-2026r1-hb4139"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "First reading. Referred to Speaker's desk.",
+      "date": "2026-02-02T16:50:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Economic Development, Small Business, and Trade with subsequent referral to Revenue, then Ways and Means.",
+      "date": "2026-02-02T17:51:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-04T21:01:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-11T21:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass with amendments, be printed A-Engrossed, subsequent referral to Revenue be rescinded, and be referred to Ways and Means by prior reference.",
+      "date": "2026-02-16T23:32:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Subsequent referral to Revenue rescinded by order of the Speaker.",
+      "date": "2026-02-16T23:32:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Ways and Means by prior reference.",
+      "date": "2026-02-16T23:32:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "In committee upon adjournment.",
+      "date": "2026-03-07T00:17:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Kim Wallan",
@@ -60,10 +151,48 @@
       "primary": false,
       "person_id": "~{\"name\": \"Emily McIntire\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bobby Levy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bobby Levy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Werner Reschke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"E. Werner Reschke\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4139/A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Amendments to Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4139/House%20Amendments%20to%20Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -74,9 +203,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "HECDSB Amendment -3",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30222",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "2026-02-04 Proposed Amendment -2",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/29930",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -92,7 +244,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:20Z",
+    "logs_latest_update": "2026-07-15T13:24:32Z",
     "text_extraction_latest_update": "2026-07-13T10:18:45.878341Z"
   }
 }

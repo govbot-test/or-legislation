@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Energy and Environment.",
+    "occurred_at": "2026-02-19T23:17:20+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4060",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4060"
+}

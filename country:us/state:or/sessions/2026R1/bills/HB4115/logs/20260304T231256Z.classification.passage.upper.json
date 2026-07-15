@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third reading.  Carried by Gelser Blouin.  Passed.",
+    "occurred_at": "2026-03-04T23:12:56+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4115",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4115"
+}

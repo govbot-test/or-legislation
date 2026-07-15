@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026R1",
   "identifier": "HB4132",
-  "title": "Relating to veterans; prescribing an effective date.",
+  "title": "Relating to veterans; and prescribing an effective date.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Declares that it is the goal of the Legislative Assembly to fund the Department of Veterans' Affairs in an amount that is not less than $10,000,000, from the General Fund, in 2015 dollars, adjusted for inflation. Requires the Director of Veterans' Affairs to add additional full-time positions within the department. Creates in the department the position of Veterans Employment Coordinator. Requires the director to be a veteran who has received a discharge or release under other than dishonorable conditions. Allows the director to appoint a deputy director, subject to approval by the Governor. Directs the department to develop and implement a grant program for suicide prevention and workforce training and preparation. Allows moneys in the Veterans' Services Fund to be used for the grant program. Directs the director to distribute moneys appropriated for county veterans' service officer programs on a quarterly basis. Directs the department to provide a report on the quarterly distribution process. Changes who are allowed to request county veteran discharge records. Increases, from $5,000 to $10,000, the cap on the individual grant amount that is allowed under the Veteran Educational Bridge Grant Program. Directs the Judicial Department, in consultation with the Oregon Criminal Justice Commission, to study methods for providing access to veterans' treatment courts to residents of each county or judicial district. Transfers each biennium unexpended and unobligated moneys in the School Districts Unfunded Liability Fund and the Employer Incentive Fund to the Veterans' Services Fund. Takes effect on July 1, 2026."
+      "abstract": "[<i>Declares that it is the goal of the Legislative Assembly to fund the Department of Veterans' Affairs in an amount that is not less than $10,000,000, from the General Fund, in 2015 dollars, adjusted for inflation.</i>] [<i>Requires the Director of Veterans' Affairs to add additional full-time positions within the department. Creates in the department the position of Veterans Employment Coordinator.</i>] Requires the director to be a veteran who has received a discharge or release under other than dishonorable conditions. Allows the director to appoint a deputy director, subject to approval by the Governor. Directs the department to develop and implement a grant program for suicide prevention and workforce training and preparation. Allows moneys in the Veterans' Services Fund to be used for the grant program. <b>Increases an expenditure limitation for the purpose of the grant program.</b> Directs the director to distribute moneys appropriated for county veterans' service officer programs on a quarterly basis. Directs the department to provide a report on the quarterly distribution process. Changes who are allowed to request county veteran discharge records. Increases, from $5,000 to $10,000, the cap on the individual grant amount that is allowed under the Veteran Educational Bridge Grant Program. Directs the Judicial Department, in consultation with the Oregon Criminal Justice Commission, to study methods for providing access to veterans' treatment courts to residents of each county or judicial district. Takes effect on July 1, 2026."
     }
   ],
   "other_titles": [],
@@ -19,7 +19,276 @@
       "identifier": "ocd-bill-or-2026r1-hb4132"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "First reading. Referred to Speaker's desk.",
+      "date": "2026-02-02T16:50:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Emergency Management and Veterans with subsequent referral to Ways and Means.",
+      "date": "2026-02-02T17:51:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-05T21:01:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-12T21:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means by prior reference.",
+      "date": "2026-02-16T23:16:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Ways and Means by prior reference.",
+      "date": "2026-02-16T23:16:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Assigned to Subcommittee On Transportation and Economic Development.",
+      "date": "2026-02-23T19:47:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Returned to Full Committee.",
+      "date": "2026-02-26T23:03:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-26T23:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-27T16:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass with amendments and be printed B-Engrossed.",
+      "date": "2026-02-28T00:09:46+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2026-03-02T19:48:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Third reading. Carried by Evans. Passed.",
+      "date": "2026-03-03T22:17:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "First reading. Referred to President's desk.",
+      "date": "2026-03-04T20:18:04+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Ways and Means.",
+      "date": "2026-03-04T20:33:29+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass the B-Eng. bill.",
+      "date": "2026-03-05T16:08:30+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Second reading.",
+      "date": "2026-03-05T23:18:28+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Third reading.  Carried by Manning Jr.  Passed.",
+      "date": "2026-03-06T19:52:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Vote explanation(s) filed by Sollman.",
+      "date": "2026-03-06T19:53:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Speaker signed.",
+      "date": "2026-03-10T19:28:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "President signed.",
+      "date": "2026-03-10T20:49:13+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Governor signed.",
+      "date": "2026-04-07T22:30:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Chapter 117, (2026 Laws): Effective date July 1, 2026.",
+      "date": "2026-04-13T15:31:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Paul Evans",
@@ -38,14 +307,6 @@
       "organization_id": null
     },
     {
-      "name": "Jeffrey Helfrich",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jeffrey Helfrich\"}",
-      "organization_id": null
-    },
-    {
       "name": "Hai Pham",
       "classification": "primary",
       "entity_type": "person",
@@ -59,22 +320,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"James Manning Jr.\"}",
-      "organization_id": null
-    },
-    {
-      "name": "David Brock Smith",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"David Brock Smith\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Court Boice",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Court Boice\"}",
       "organization_id": null
     },
     {
@@ -188,10 +433,217 @@
       "primary": false,
       "person_id": "~{\"name\": \"Daniel Nguyen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Rick Lewis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rick Lewis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyrus Javadi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cyrus Javadi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Gomberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Gomberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Andersen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tom Andersen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zach Hudson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zach Hudson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thuy Tran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thuy Tran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason Kropf",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jason Kropf\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mari Watanabe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mari Watanabe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jules Walters",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jules Walters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Gamba",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Gamba\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pam Marsh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pam Marsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Willy Chotzen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Willy Chotzen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fred Girod",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fred Girod\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lew Frederick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lew Frederick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Janeen Sollman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Janeen Sollman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Meek",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Meek\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Deb Patterson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Deb Patterson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Brock Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Brock Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christine Drazan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christine Drazan\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4132/A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "B-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4132/B-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4132/Enrolled",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Amendments to A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4132/House%20Amendments%20to%20A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Amendments to Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4132/House%20Amendments%20to%20Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -202,9 +654,65 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "HEMV Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30283",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "JWM Amendment -A5",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30743",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "2026-02-05 Proposed Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/29985",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-05",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-26 Proposed Amendment -A3",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30686",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-26",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-26 Proposed Amendment -A4",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30687",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-26",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -220,7 +728,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:20Z",
+    "logs_latest_update": "2026-07-15T13:24:32Z",
     "text_extraction_latest_update": "2026-07-13T10:08:11.551208Z"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Minority Recommendation: Do pass with amendments to the A-Eng. bill. (Printed B-Eng Minority)",
+    "occurred_at": "2026-03-03T17:23:57+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4088",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4088"
+}

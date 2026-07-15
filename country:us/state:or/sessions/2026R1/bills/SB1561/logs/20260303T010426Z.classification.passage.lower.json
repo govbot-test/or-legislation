@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third reading. Carried by Wright. Passed.",
+    "occurred_at": "2026-03-03T01:04:26+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1561",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1561"
+}

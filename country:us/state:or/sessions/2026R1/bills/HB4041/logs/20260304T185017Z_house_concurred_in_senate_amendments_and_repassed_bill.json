@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House concurred in Senate amendments and repassed bill.",
+    "occurred_at": "2026-03-04T18:50:17+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4041",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4041"
+}

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Establishes the Senator Aaron Woods Commission on Artificial Intelligence within the office of Enterprise Information Services. Establishes the commission's purpose to serve as a central resource to monitor the use of artificial intelligence technologies and systems in this state and report on long-term policy implications. Directs the commission to provide an annual report to the Legislative Assembly. Allows the commission to make recommendations for legislation, regulations or policy to the Legislative Assembly. Directs the Oregon Department of Administrative Services to hire a Chief Artificial Intelligence Officer to assist the commission in carrying out the commission's duties. Allows the department to charge a state or local agency or public body for the commission's services."
+      "abstract": "</b> </i>] Establishes the Senator Aaron Woods Commission on Artificial Intelligence within the office of Enterprise Information Services. [<i>Establishes the commission's purpose to serve as a central resource to monitor the use of artificial intelligence technologies and systems in this state and report on long-term policy implications.</i>] <b>Directs the commission to identify and report on long-term policy implications in the use of artificial intelligence technologies by the state.</b> Directs the commission to [<i>provide</i>] <b>submit</b> an annual report to the Legislative Assembly. Allows the commission to make recommendations for legislation, regulations or policy to the Legislative Assembly. Directs the Oregon Department of Administrative Services to hire [<i>a Chief Artificial Intelligence Officer to assist the commission in carrying out the commission's duties.</i>] <b>an individual responsible for developing the state's strategic vision related to privacy, data protection and artificial intelligence.</b> Allows the department to charge a state [<i>or local agency or public body</i>]<b> agency, officer, board or commission</b> for [<i>the commission's</i>] services <b>provided by the department or the Senator Aaron Woods Commission on Artificial Intelligence</b>."
     }
   ],
   "other_titles": [],
@@ -19,7 +19,88 @@
       "identifier": "ocd-bill-or-2026r1-hb4103"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "First reading. Referred to Speaker's desk.",
+      "date": "2026-02-02T16:50:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Information Management and Technology with subsequent referral to Ways and Means.",
+      "date": "2026-02-02T17:51:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-06T16:01:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-20T16:02:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means by prior reference.",
+      "date": "2026-02-20T23:21:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Ways and Means by prior reference.",
+      "date": "2026-02-20T23:22:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "In committee upon adjournment.",
+      "date": "2026-03-07T00:17:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Sue Rieke Smith",
@@ -68,10 +149,40 @@
       "primary": true,
       "person_id": "~{\"name\": \"Daniel Nguyen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tom Andersen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tom Andersen\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4103/A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Amendments to Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4103/House%20Amendments%20to%20Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -82,9 +193,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "JLCIMT Amendment -4",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30621",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "2026-02-06 Proposed Amendment -2",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/29957",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-06",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-06 Proposed Amendment -3",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/29987",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-06",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -100,7 +245,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:20Z",
+    "logs_latest_update": "2026-07-15T13:24:32Z",
     "text_extraction_latest_update": "2026-07-13T10:09:55.881462Z"
   }
 }

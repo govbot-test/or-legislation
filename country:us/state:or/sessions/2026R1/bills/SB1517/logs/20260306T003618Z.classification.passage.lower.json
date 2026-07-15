@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Rules suspended. Third reading. Carried by Levy E, Helfrich. Passed.",
+    "occurred_at": "2026-03-06T00:36:18+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1517",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1517"
+}

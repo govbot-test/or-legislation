@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Recommendation: Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",
+    "occurred_at": "2026-02-09T17:47:58+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1567",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1567"
+}

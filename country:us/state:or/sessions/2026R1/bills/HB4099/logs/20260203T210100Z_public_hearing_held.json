@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Public Hearing held.",
+    "occurred_at": "2026-02-03T21:01:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4099",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4099"
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third reading.  Carried by Broadman.  Passed.",
+    "occurred_at": "2026-02-19T19:43:46+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1557",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1557"
+}

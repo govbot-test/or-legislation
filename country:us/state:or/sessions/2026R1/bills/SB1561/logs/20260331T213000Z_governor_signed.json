@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Governor signed.",
+    "occurred_at": "2026-03-31T21:30:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1561",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1561"
+}

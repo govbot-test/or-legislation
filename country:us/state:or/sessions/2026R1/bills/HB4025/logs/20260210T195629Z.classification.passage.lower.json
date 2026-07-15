@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third reading. Carried by Sosa. Passed.",
+    "occurred_at": "2026-02-10T19:56:29+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4025",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4025"
+}

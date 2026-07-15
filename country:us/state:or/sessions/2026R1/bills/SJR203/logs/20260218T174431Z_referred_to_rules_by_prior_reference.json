@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to Rules by prior reference.",
+    "occurred_at": "2026-02-18T17:44:31+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SJR203",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR203"
+}

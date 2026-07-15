@@ -19,7 +19,54 @@
       "identifier": "ocd-bill-or-2026r1-hjr201"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "First reading. Referred to Speaker's desk.",
+      "date": "2026-02-02T16:50:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Referred to Rules.",
+      "date": "2026-02-02T17:51:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-05T16:01:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    },
+    {
+      "description": "In committee upon adjournment.",
+      "date": "2026-03-07T00:17:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:32Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Cyrus Javadi",
@@ -46,14 +93,6 @@
       "organization_id": null
     },
     {
-      "name": "Mari Watanabe",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Mari Watanabe\"}",
-      "organization_id": null
-    },
-    {
       "name": "Janeen Sollman",
       "classification": "primary",
       "entity_type": "person",
@@ -67,14 +106,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Mark Gamba\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Emerson Levy",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Emerson Levy\"}",
       "organization_id": null
     },
     {
@@ -94,19 +125,27 @@
       "organization_id": null
     },
     {
-      "name": "Sue Rieke Smith",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Sue Rieke Smith\"}",
-      "organization_id": null
-    },
-    {
       "name": "Khanh Pham",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Khanh Pham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Annessa Hartman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Annessa Hartman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rob Nosse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rob Nosse\"}",
       "organization_id": null
     }
   ],
@@ -140,7 +179,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:19Z",
+    "logs_latest_update": "2026-07-15T13:24:32Z",
     "text_extraction_latest_update": "2026-07-13T10:17:34.021171Z"
   }
 }

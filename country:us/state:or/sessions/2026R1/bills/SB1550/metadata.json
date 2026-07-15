@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Directs law enforcement, prior to making any findings as to the cause or manner of death where the decedent is suspected to have died from suicide, overdose or accident, to interview family members of the decedent if the decedent has a history as a victim of domestic violence or child abuse and certain conditions exist. Requires law enforcement to submit a written request to the district medical examiner for the performance of an autopsy if a reasonable basis exists that the death of the decedent may be the result of domestic violence or child abuse. Directs a medical examiner or district attorney to order the performance of an autopsy in certain circumstances. Provides that certain individuals may examine and obtain copies of evidence generated during an autopsy or investigation of death. Requires law enforcement to provide notice of rights to certain members of the decedent's family upon opening an investigation of death that is suspected to have been caused by suicide, overdose or accident."
+      "abstract": "Directs [<i>law enforcement</i>]<b> specified investigators of deaths of decedents</b>, prior to making any findings as to the cause or manner of death where the decedent is suspected to have died from suicide, [<i>overdose or</i>] accident<b> or other undetermined cause</b>, to<b> review documented evidence of abuse and</b> interview family members of the decedent if the decedent has a history as a victim of domestic violence or child abuse and certain conditions exist. [<i>Requires law enforcement to submit a written request to the district medical examiner for the performance of an autopsy if a reasonable basis exists that the death of the decedent may be the result of domestic violence or child abuse.</i>] [<i>Directs a medical examiner or district attorney to order the performance of an autopsy in certain circumstances.</i>] <b>Directs the law enforcement officer or district medical examiner to request further post-mortem examination of the decedent if a reasonable basis exists to suspect the death is a homicide due to domestic violence or child abuse. Directs the Chief Medical Examiner to engage in collaborative consultation regarding appropriate actions to take. Prohibits the release of the body of the decedent until the consultation has occurred and recommended actions have been completed. Authorizes appropriate post-mortem assessments.</b> Provides that certain individuals may examine and obtain copies of evidence generated during an autopsy or investigation of death. Requires law enforcement to provide notice of rights to certain members of the decedent's family upon opening an investigation of <b>a</b> death that is suspected to have been caused by suicide[<i>, overdose or accident</i>]<b> or occurred under suspicious circumstances</b>."
     }
   ],
   "other_titles": [],
@@ -19,7 +19,98 @@
       "identifier": "ocd-bill-or-2026r1-sb1550"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduction and first reading. Referred to President's desk.",
+      "date": "2026-02-02T15:32:59+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary.",
+      "date": "2026-02-02T17:38:57+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Informational Meeting scheduled.",
+      "date": "2026-02-02T20:46:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Public Hearing held.",
+      "date": "2026-02-04T20:46:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Work Session held.",
+      "date": "2026-02-16T20:47:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Recommendation: Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",
+      "date": "2026-02-19T23:19:52+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "Referred to Ways and Means by order of the President.",
+      "date": "2026-02-19T23:19:53+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    },
+    {
+      "description": "In committee upon adjournment.",
+      "date": "2026-03-07T00:17:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:24:31Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Sara Gelser Blouin",
@@ -92,10 +183,37 @@
       "primary": false,
       "person_id": "~{\"name\": \"Jules Walters\"}",
       "organization_id": null
+    },
+    {
+      "name": "James Manning Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"James Manning Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Courtney Neron Misslin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Courtney Neron Misslin\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "A-Engrossed",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1550/A-Engrossed",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -106,9 +224,54 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Amendments to Introduced",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1550/Senate%20Amendments%20to%20Introduced",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SJUD Amendment -3",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30325",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "2026-02-04 Proposed Amendment -1",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/29912",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": ""
+    },
+    {
+      "note": "2026-02-11 Proposed Amendment -3",
+      "links": [
+        {
+          "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/ProposedAmendment/30324",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-11",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -124,7 +287,7 @@
     "division_id": "ocd-division/country:us/state:or"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:20Z",
+    "logs_latest_update": "2026-07-15T13:24:31Z",
     "text_extraction_latest_update": "2026-07-13T10:20:05.775122Z"
   }
 }

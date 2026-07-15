@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Speaker signed.",
+    "occurred_at": "2026-02-26T20:54:33+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4022",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4022"
+}

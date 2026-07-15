@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Without recommendation as to passage and be referred to Rules.",
+    "occurred_at": "2026-02-13T22:24:27+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4075",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4075"
+}

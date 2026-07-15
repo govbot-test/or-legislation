@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Recommendation: Be adopted with amendments and be printed A-Engrossed.",
+    "occurred_at": "2026-02-23T19:18:18+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HCR202",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR202"
+}

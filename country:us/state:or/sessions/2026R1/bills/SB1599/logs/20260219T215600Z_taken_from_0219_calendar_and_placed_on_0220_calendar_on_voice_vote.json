@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Taken from 02-19 Calendar and placed on 02-20 Calendar on voice vote.",
+    "occurred_at": "2026-02-19T21:56:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1599",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1599"
+}

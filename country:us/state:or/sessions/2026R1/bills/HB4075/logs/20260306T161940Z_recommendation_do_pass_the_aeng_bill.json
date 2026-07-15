@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Recommendation: Do pass the A-Eng. bill.",
+    "occurred_at": "2026-03-06T16:19:40+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4075",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4075"
+}

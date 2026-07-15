@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third reading.  Carried by Gelser Blouin.  Passed.",
+    "occurred_at": "2026-02-18T20:08:32+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1533",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1533"
+}

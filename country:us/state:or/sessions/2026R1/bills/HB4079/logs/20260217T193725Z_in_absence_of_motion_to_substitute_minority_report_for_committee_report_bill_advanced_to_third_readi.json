@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "In absence of motion to substitute Minority Report for Committee Report, bill advanced to third reading and final consideration.",
+    "occurred_at": "2026-02-17T19:37:25+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4079",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4079"
+}

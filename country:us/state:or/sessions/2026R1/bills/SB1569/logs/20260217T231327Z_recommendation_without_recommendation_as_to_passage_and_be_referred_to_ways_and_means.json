@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Recommendation: Without recommendation as to passage and be referred to Ways and Means.",
+    "occurred_at": "2026-02-17T23:13:27+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1569",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1569"
+}

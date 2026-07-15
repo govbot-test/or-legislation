@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Third reading.  Carried by Patterson.  Passed.",
+    "occurred_at": "2026-03-06T01:54:29+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4040",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4040"
+}

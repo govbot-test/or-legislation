@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means.",
+    "occurred_at": "2026-02-18T00:01:37+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4049",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4049"
+}

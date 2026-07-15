@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to Subcommittee On Human Services.",
+    "occurred_at": "2026-02-19T00:46:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4040",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB4040"
+}

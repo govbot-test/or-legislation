@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Rules suspended. Second reading.",
+    "occurred_at": "2026-03-06T23:23:27+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB5203",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB5203"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Recommendation: Do pass with amendments and be referred to Rules. (Printed A-Eng.)",
+    "occurred_at": "2026-02-17T23:13:15+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026R1",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1540",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1540"
+}
