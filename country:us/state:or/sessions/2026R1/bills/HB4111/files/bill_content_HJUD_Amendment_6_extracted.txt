@@ -1,0 +1,173 @@
+Title: HOUSE BILL 4111
+Official Title: HOUSE BILL 4111
+Number of Sections: 1
+Source: versions - HJUD Amendment -6
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HB 4111-6
+(LC 53)
+2/12/26 (JAS/ps)
+Requested by Representative CHOTZEN
+PROPOSED AMENDMENTS TO
+1 On page 1 of the printed bill, delete lines 5 through 22.
+2 On page 2, delete lines 1 through 26 and insert:
+3
+4 “ADMISSIBILITY OF EVIDENCE IN CIVIL CASES
+5
+6 “SECTION 1. Section 2 of this 2026 Act is added to and made a part
+7 of ORS chapter 40.
+8 “SECTION 2. (1) Except as otherwise allowed in this section, evi-
+9 dence of a party’s or a witness’s immigration status is not admissible
+10 in a civil proceeding unless the party’s or witness’s immigration status
+11 is an essential fact to prove an element of a party’s cause of action
+12 or essential to establish a party’s claim for relief.
+13 “(2) If a party is awarded damages for future wage loss at trial and
+14 is subject to a final order of removal in immigration proceedings, the
+15 final order of removal may be submitted to the court through a post-
+16 trial motion to be used solely for the purpose of calculating damages.
+17 “(3) If a party was awarded reinstatement to a position at trial, the
+18 party’s federal work authorization information may be submitted to
+19 the court through a post-trial motion.
+20 “(4)(a) If a party intends to offer evidence under subsections (1) to
+21 (3) of this section, the party shall:
+1 “(A) Make a written motion specifically describing the evidence and
+2 stating the purpose for which it is to be offered; and
+3 “(B) State in the caption of the motion that the motion and at-
+4 tachments are confidential and file the motion confidentially.
+5 “(b) If a party intends to offer evidence under subsection (1) of this
+6 section, the party shall make the written motion at least 15 days be-
+7 fore the proceeding at which the evidence to be offered is scheduled
+8 to begin unless the court, for good cause, sets a different time.
+9 “(5)(a) If a party makes a motion under subsection (4) of this sec-
+10 tion, before admitting the evidence, the court shall conduct an in
+11 camera hearing, out of the presence of the public and the jury, and
+12 give the parties a right to attend and be heard. If the court deter-
+13 mines that the moving party has shown that a party’s or witness’s
+14 immigration status is essential to prove an element of a party’s cause
+15 of action or to establish a party’s claim for relief, or that a remedy
+16 described in subsection (2) or (3) of this section has been awarded, the
+17 court shall make an order regarding the permitted use of the evidence.
+18 “(b) The order, motion, related materials and record of the hearing
+19 are confidential, exempt from public disclosure under ORS 192.311 to
+20 192.478 and may not be disclosed except:
+21 “(A) To a party in the case or the party’s attorney; or
+22 “(B) To the court.
+23 “(6) This section does not prohibit a party or witness, or the party’s
+24 or witness’s attorney, from voluntarily disclosing the party’s or
+25 witness’s immigration status to the court.
+26
+27 “EMPLOYMENT PROTECTIONS
+28
+29 “SECTION 3. Section 4 of this 2026 Act is added to and made a part
+30 of ORS chapter 659A.
+HB 4111-6 2/12/26
+Proposed Amendments to HB 4111 Page 2
+1 “SECTION 4. (1) It is an unlawful practice for an employer to dis-
+2 charge an employee or in any manner discriminate, retaliate or oth-
+3 erwise take adverse action against an employee because the employee
+4 updates or attempts to update the employee’s personal information
+5 based on a lawful change in the employee’s federal employment au-
+6 thorization documentation.
+7 “(2) It is not an unlawful practice under this section for an em-
+8 ployer to take actions necessary to comply with federal employment
+9 authorization verification requirements.
+10 “(3) An employer does not engage in an unlawful practice under this
+11 section solely because a third-party benefit administrator independ-
+12 ently takes adverse action in response to changes in the employee’s
+13 personal information or federal employment authorization.”.
+14
+HB 4111-6 2/12/26
+Proposed Amendments to HB 4111 Page 3
+[DELETED: B4C56(.S 2.( E a o a i t s e a e f t p a e o a p c o a f w a i m b s t I a p]
+[DELETED:  S i t c o t m t t m a a t p s m t w m a l 1 d b t p a w t e t b o i s I a p m a m u s ( o t s b a t e t c s c a i h o o t p o t p a t j a t p a r t a a b h.I t c d t t m p h s t a p o w a o t e a p c f r o t a r c e f p d u O 1 t w a f v d t p o.S621P]
+[DELETED:  4.( I i a u p f a e a e o i a m d r o o o a t u t e p i o a l c i t e f e and I i n a u p u t s f a e t t a n t c w f e s b a t b a i t a a i r t c i t e621P]
+
+
+================================================================================
+
+Raw Text:
+HB 4111-6
+(LC 53)
+2/12/26 (JAS/ps)
+Requested by Representative CHOTZEN
+PROPOSED AMENDMENTS TO
+HOUSE BILL 4111
+1 On page 1 of the printed bill, delete lines 5 through 22.
+2 On page 2, delete lines 1 through 26 and insert:
+3
+4 “ADMISSIBILITY OF EVIDENCE IN CIVIL CASES
+5
+6 “SECTION 1. Section 2 of this 2026 Act is added to and made a part
+7 of ORS chapter 40.
+8 “SECTION 2. (1) Except as otherwise allowed in this section, evi-
+9 dence of a party’s or a witness’s immigration status is not admissible
+10 in a civil proceeding unless the party’s or witness’s immigration status
+11 is an essential fact to prove an element of a party’s cause of action
+12 or essential to establish a party’s claim for relief.
+13 “(2) If a party is awarded damages for future wage loss at trial and
+14 is subject to a final order of removal in immigration proceedings, the
+15 final order of removal may be submitted to the court through a post-
+16 trial motion to be used solely for the purpose of calculating damages.
+17 “(3) If a party was awarded reinstatement to a position at trial, the
+18 party’s federal work authorization information may be submitted to
+19 the court through a post-trial motion.
+20 “(4)(a) If a party intends to offer evidence under subsections (1) to
+21 (3) of this section, the party shall:
+
+1 “(A) Make a written motion specifically describing the evidence and
+2 stating the purpose for which it is to be offered; and
+3 “(B) State in the caption of the motion that the motion and at-
+4 tachments are confidential and file the motion confidentially.
+5 “(b) If a party intends to offer evidence under subsection (1) of this
+6 section, the party shall make the written motion at least 15 days be-
+7 fore the proceeding at which the evidence to be offered is scheduled
+8 to begin unless the court, for good cause, sets a different time.
+9 “(5)(a) If a party makes a motion under subsection (4) of this sec-
+10 tion, before admitting the evidence, the court shall conduct an in
+11 camera hearing, out of the presence of the public and the jury, and
+12 give the parties a right to attend and be heard. If the court deter-
+13 mines that the moving party has shown that a party’s or witness’s
+14 immigration status is essential to prove an element of a party’s cause
+15 of action or to establish a party’s claim for relief, or that a remedy
+16 described in subsection (2) or (3) of this section has been awarded, the
+17 court shall make an order regarding the permitted use of the evidence.
+18 “(b) The order, motion, related materials and record of the hearing
+19 are confidential, exempt from public disclosure under ORS 192.311 to
+20 192.478 and may not be disclosed except:
+21 “(A) To a party in the case or the party’s attorney; or
+22 “(B) To the court.
+23 “(6) This section does not prohibit a party or witness, or the party’s
+24 or witness’s attorney, from voluntarily disclosing the party’s or
+25 witness’s immigration status to the court.
+26
+27 “EMPLOYMENT PROTECTIONS
+28
+29 “SECTION 3. Section 4 of this 2026 Act is added to and made a part
+30 of ORS chapter 659A.
+HB 4111-6 2/12/26
+Proposed Amendments to HB 4111 Page 2
+
+1 “SECTION 4. (1) It is an unlawful practice for an employer to dis-
+2 charge an employee or in any manner discriminate, retaliate or oth-
+3 erwise take adverse action against an employee because the employee
+4 updates or attempts to update the employee’s personal information
+5 based on a lawful change in the employee’s federal employment au-
+6 thorization documentation.
+7 “(2) It is not an unlawful practice under this section for an em-
+8 ployer to take actions necessary to comply with federal employment
+9 authorization verification requirements.
+10 “(3) An employer does not engage in an unlawful practice under this
+11 section solely because a third-party benefit administrator independ-
+12 ently takes adverse action in response to changes in the employee’s
+13 personal information or federal employment authorization.”.
+14
+HB 4111-6 2/12/26
+Proposed Amendments to HB 4111 Page 3
+
+[DELETED: B4C56(.S 2.( E a o a i t s e a e f t p a e o a p c o a f w a i m b s t I a p]
+[DELETED:  S i t c o t m t t m a a t p s m t w m a l 1 d b t p a w t e t b o i s I a p m a m u s ( o t s b a t e t c s c a i h o o t p o t p a t j a t p a r t a a b h.I t c d t t m p h s t a p o w a o t e a p c f r o t a r c e f p d u O 1 t w a f v d t p o.S621P]
+[DELETED:  4.( I i a u p f a e a e o i a m d r o o o a t u t e p i o a l c i t e f e and I i n a u p u t s f a e t t a n t c w f e s b a t b a i t a a i r t c i t e621P]

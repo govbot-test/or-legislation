@@ -1,0 +1,138 @@
+Title: Requested by HOUSE COMMITTEE ON HOUSING AND HOMELESSNESS (at the request of Rep-
+Official Title: Requested by HOUSE COMMITTEE ON HOUSING AND HOMELESSNESS (at the request of Rep-
+Number of Sections: 1
+Source: versions - HHOUSH Amendment -2
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HB 4036-2
+(LC 209)
+2/2/26 (RLM/ps)
+resentative Pam Marsh)
+PROPOSED AMENDMENTS TO
+HOUSE BILL 4036
+1 On page 1 of the printed bill, delete lines 7 through 27.
+2 On page 2, delete lines 1 and 2 and insert:
+3 “SECTION 2. (1) The Housing Opportunity, Longevity and Durabil-
+4 ity Fund is established in the State Treasury, separate and distinct
+5 from the General Fund. Interest earned on moneys in the Housing
+6 Opportunity, Longevity and Durability Fund shall be credited to the
+7 fund.
+8 “(2) The fund consists of moneys deposited into the fund from bonds
+9 issued by the State Treasurer pursuant to ORS 286A.035 for the Hous-
+10 ing and Community Services Department to be used for affordable
+11 housing preservation.
+12 “(3) Moneys in the fund are continuously appropriated to the de-
+13 partment to:
+14 “(a) Acquire, construct, remodel, repair, equip or furnish affordable
+15 housing at risk of loss, as described in ORS 456.824 (2), that is or will
+16 be owned or operated, as those terms are defined in ORS 458.480, by
+17 the State of Oregon for the purpose of providing affordable housing;
+18 “(b) Pay the costs incurred by the department to administer the
+19 fund; and
+20 “(c) Pay bond-related costs, as defined in ORS 286A.816.
+21 “SECTION 3. On or before December 1, 2026, the Housing and
+1 Community Services Department shall submit a report in the manner
+2 provided by ORS 192.245 to the interim committees of the Legislative
+3 Assembly related to housing that incorporates feedback from key
+4 stakeholders, including affordable housing providers, finance entities
+5 and tenant advocates, and that:
+6 “(1) Evaluates the impact of and offers improvements to any state
+7 laws or practices, policies or rules of the department that negatively
+8 impact the efficiency, effectiveness and cost of operating affordable
+9 housing, including impacts to leasing, screening applicants, filling va-
+10 cancies, maintaining tenant wait lists, recertifying tenants, conduct-
+11 ing inspections, collecting rent, managing property and complying
+12 with regulations; and
+13 “(2) Evaluates opportunities to streamline, reduce or eliminate re-
+14 porting requirements of affordable housing providers for state and
+15 federal programs and funding sources that are administered by the
+16 department.”.
+17 In line 14, delete “physical or financial distress” and insert “financial or
+18 physical distress, including physical distress that requires rehabilitation, re-
+19 pair or replacement of such building systems, components or materials that
+20 have exceeded, or within a reasonable period will exceed, their effective
+21 useful lives”.
+22 On page 3, delete line 45.
+23 On page 4, delete line 1 and insert:
+24 (D) Housing Opportunity,
+25 Longevity and Durability
+26 Fund..................................................... $100,000,000
+27 On page 7, delete line 23 and insert:
+28 Bonds.............................................. $ 2,440,290,000
+29
+HB 4036-2 2/2/26
+Proposed Amendments to HB 4036 Page 2
+[DELETED: B4C26(.( L a D F i e i t S T s a d t G F I e o m i t H L a D F s b c t t a C S D t b u f agp M i t f a c a t t dtt a r o o o a t t a d i O 4 b P t c i b t d t a t;a 3.O o b D 1 2 t H a]
+[DELETED: 4()HgO5L6F.$8Bs. $2 i c o t L r t h t i f f k i a h p f e E t i o a o o p p o r o t d t n t e e a c o o a v m t w l r t c i c r m p a c E o t s r o e r r o a h p f s a p a f s t a a b t a i “ o d o r o s b s c o m t e o w a r p w e t ell226P]
+
+
+================================================================================
+
+Raw Text:
+HB 4036-2
+(LC 209)
+2/2/26 (RLM/ps)
+Requested by HOUSE COMMITTEE ON HOUSING AND HOMELESSNESS (at the request of Rep-
+resentative Pam Marsh)
+PROPOSED AMENDMENTS TO
+HOUSE BILL 4036
+1 On page 1 of the printed bill, delete lines 7 through 27.
+2 On page 2, delete lines 1 and 2 and insert:
+3 “SECTION 2. (1) The Housing Opportunity, Longevity and Durabil-
+4 ity Fund is established in the State Treasury, separate and distinct
+5 from the General Fund. Interest earned on moneys in the Housing
+6 Opportunity, Longevity and Durability Fund shall be credited to the
+7 fund.
+8 “(2) The fund consists of moneys deposited into the fund from bonds
+9 issued by the State Treasurer pursuant to ORS 286A.035 for the Hous-
+10 ing and Community Services Department to be used for affordable
+11 housing preservation.
+12 “(3) Moneys in the fund are continuously appropriated to the de-
+13 partment to:
+14 “(a) Acquire, construct, remodel, repair, equip or furnish affordable
+15 housing at risk of loss, as described in ORS 456.824 (2), that is or will
+16 be owned or operated, as those terms are defined in ORS 458.480, by
+17 the State of Oregon for the purpose of providing affordable housing;
+18 “(b) Pay the costs incurred by the department to administer the
+19 fund; and
+20 “(c) Pay bond-related costs, as defined in ORS 286A.816.
+21 “SECTION 3. On or before December 1, 2026, the Housing and
+
+1 Community Services Department shall submit a report in the manner
+2 provided by ORS 192.245 to the interim committees of the Legislative
+3 Assembly related to housing that incorporates feedback from key
+4 stakeholders, including affordable housing providers, finance entities
+5 and tenant advocates, and that:
+6 “(1) Evaluates the impact of and offers improvements to any state
+7 laws or practices, policies or rules of the department that negatively
+8 impact the efficiency, effectiveness and cost of operating affordable
+9 housing, including impacts to leasing, screening applicants, filling va-
+10 cancies, maintaining tenant wait lists, recertifying tenants, conduct-
+11 ing inspections, collecting rent, managing property and complying
+12 with regulations; and
+13 “(2) Evaluates opportunities to streamline, reduce or eliminate re-
+14 porting requirements of affordable housing providers for state and
+15 federal programs and funding sources that are administered by the
+16 department.”.
+17 In line 14, delete “physical or financial distress” and insert “financial or
+18 physical distress, including physical distress that requires rehabilitation, re-
+19 pair or replacement of such building systems, components or materials that
+20 have exceeded, or within a reasonable period will exceed, their effective
+21 useful lives”.
+22 On page 3, delete line 45.
+23 On page 4, delete line 1 and insert:
+24 (D) Housing Opportunity,
+25 Longevity and Durability
+26 Fund..................................................... $100,000,000
+27 On page 7, delete line 23 and insert:
+28 Bonds.............................................. $ 2,440,290,000
+29
+HB 4036-2 2/2/26
+Proposed Amendments to HB 4036 Page 2
+
+[DELETED: B4C26(.( L a D F i e i t S T s a d t G F I e o m i t H L a D F s b c t t a C S D t b u f agp M i t f a c a t t dtt a r o o o a t t a d i O 4 b P t c i b t d t a t;a 3.O o b D 1 2 t H a]
+[DELETED: 4()HgO5L6F.$8Bs. $2 i c o t L r t h t i f f k i a h p f e E t i o a o o p p o r o t d t n t e e a c o o a v m t w l r t c i c r m p a c E o t s r o e r r o a h p f s a p a f s t a a b t a i “ o d o r o s b s c o m t e o w a r p w e t ell226P]

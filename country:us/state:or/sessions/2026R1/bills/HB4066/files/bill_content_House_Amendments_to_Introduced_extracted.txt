@@ -1,0 +1,439 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - House Amendments to Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+HOUSE AMENDMENTS TO
+HOUSE BILL 4066
+By COMMITTEE ON EDUCATION
+February 10
+1 On page 1 of the printed bill, line 2, delete “and”.
+2 In line 3, after “326.606,” insert “328.542,”.
+3 In line 4, delete “and 430.217” and insert “, 430.217 and 459.488 and section 3, chapter 195,
+4 Oregon Laws 2025, and section 1, chapter 568, Oregon Laws 2025; and declaring an emergency”.
+5 On page 25, after line 28, insert:
+6
+7 “SCHOOL DISTRICT BUDGET COMMITTEE
+8
+9 “SECTION 18. ORS 328.542 is amended to read:
+10 “328.542. (1) Subject to the Local Budget Law (ORS 294.305 to 294.565) and to sections 11 and
+11 11b, Article XI, Oregon Constitution, each school district board shall prepare annually or biennially
+12 the budget of the school district and shall certify ad valorem property taxes to the assessor as
+13 provided by law.
+14 “[(2)] (2)(a) Except as provided in paragraph (b) of this subsection and in addition to the
+15 requirements prescribed by ORS 294.305 to 294.565, a school district must include at least one
+16 member of the educational equity advisory committee of the school district on the budget committee.
+17 “(b) A school district is not required to include at least one member of the educational
+18 equity advisory committee of the school district on the budget committee if no member of
+19 the educational equity advisory committee is willing or able to serve on the budget commit-
+20 tee.
+21 “SECTION 19. The amendments to ORS 328.542 by section 18 of this 2026 Act apply to
+22 vacancies on a budget committee occurring on or after September 15, 2025. A school district
+23 that did not include at least one member of the educational equity advisory committee on
+24 the budget committee on or after September 15, 2025, because no member of the educational
+25 equity advisory committee was willing or able to serve on the budget committee is not in
+26 violation of the provisions of ORS 328.542.
+27
+28 “STUDY CONDUCTED BY PORTLAND STATE UNIVERSITY
+29
+30 “SECTION 20. Section 1, chapter 568, Oregon Laws 2025, is amended to read:
+31 “Sec. 1. (1) The Higher Education Coordinating Commission shall distribute the moneys appro-
+32 priated to it under section 3, chapter 568, Oregon Laws 2025, [of this 2025 Act] to the Center for
+33 Public Service at Portland State University to be used by the center to conduct, in consultation with
+34 Oregon State University, a study examining the labor standards and working experiences of
+35 farmworkers in this state and evaluating the adequacy and availability of existing workplace pro-
+LC 132/HB 4066-5
+1 tections for farmworkers.
+2 “(2) To the greatest extent practicable within the scope of allocated funding, the study must
+3 include, but need not be limited to, an analysis of the following:
+4 “(a) Health and safety risks, including work-related injuries and fatalities, experienced by
+5 farmworkers.
+6 “(b) Wages, including hourly and piece-rate compensation and work schedules.
+7 “(c) Availability of, and access to, benefits such as health insurance, retirement benefits and
+8 paid leave.
+9 “(d) Short-term and long-term financial security of farmworkers.
+10 “(e) Opportunities for farmworkers to raise workplace concerns or complaints.
+11 “(f) Harassment, discrimination or retaliation against farmworkers for asserting farmworkers’
+12 rights, and methods for preventing such actions.
+13 “(g) Availability of training and educational opportunities.
+14 “(h) Barriers to enforcement of labor protections and access to legal remedies.
+15 “(i) Employment conditions for farmworkers employed by farm labor contractors licensed under
+16 ORS 658.705 to 658.850.
+17 “(j) Working experiences of farmworkers subject to a labor contract made under a temporary
+18 employment visa program.
+19 “(k) The impacts on wages, working conditions and employment opportunities for local
+20 farmworkers resulting from the use of workers under a temporary visa program.
+21 “(3) As part of the study, the center shall:
+22 “(a) Engage with farmworkers and nonprofit organizations representing the interests of
+23 farmworkers to gain firsthand experiences and perspectives regarding the working conditions of
+24 farmworkers who work on a diverse range of farms that produce different types of agricultural
+25 commodities, reflect different types of farm operations and are located in different geographic re-
+26 gions across this state using engagement methods, including but not limited to:
+27 “(A) In-person interviews;
+28 “(B) Focus groups; and
+29 “(C) Other engagement efforts carried out in partnership with farmworker-serving nonprofit or-
+30 ganizations that have well-established relationships with the farmworker community.
+31 “(b) Conduct a confidential survey of farmers regarding the workplace benefits provided to
+32 farmworkers, such as health care stipends, housing, transportation, bonuses, paid vacation time and
+33 retirement benefits, and the factors that influence farmers’ decisions about whether to provide ben-
+34 efits and which benefits to provide.
+35 “(c) To the greatest extent practicable, use data collection and reporting practices that protect
+36 the confidentiality of identities of individual farmers and farmworkers, including collection and re-
+37 porting practices that:
+38 “(A) Present only summarized information or aggregated data that does not directly identify
+39 interviewees, survey participants, farm operations or the geographic location of such operations; and
+40 “(B) Include direct statements, quotations or personal experiences only if an interviewee or
+41 survey participant has provided express, informed consent.
+42 “(d) Integrate findings from the study completed by the Legislative Policy and Research Director
+43 under section 2, chapter 568, Oregon Laws 2025, [of this 2025 Act] to be used as a reference
+44 framework to contextualize and inform the analysis of the working conditions of farmworkers.
+45 “(4) The survey conducted under subsection (3)(b) of this section must represent farmers from
+HA to HB 4066 Page 2
+1 a diverse range of farms that produce different types of agricultural commodities, represent different
+2 types of farm operations and sizes and are located in different geographic regions across this state.
+3 “(5) [The commission] Portland State University shall submit reports on the findings of the
+4 study, in the manner provided in ORS 192.245, to the interim committees of the Legislative Assembly
+5 related to agriculture, business and labor and natural resources, as follows:
+6 “(a) The first report must be submitted no later than May 1, 2026, and must provide [the initial
+7 findings] a status update of the study.
+8 “(b) The second report must be submitted no later than September 1, 2026, and must provide:
+9 “(A) Updates to the initial findings; and
+10 “(B) A summary of the progress of the study.
+11 “(c) The final report must be submitted no later than December 1, 2026, and must:
+12 “(A) Include the final findings of the study.
+13 “(B) Describe the sampling process used to conduct the confidential survey under subsection
+14 (3)(b) of this section and a description of identified limitations in the survey sample data, if any.
+15 “(C) Demonstrate, without proposing formal or informal policy recommendations, how the final
+16 findings of the study were informed by and analyzed in conjunction with the study conducted by the
+17 Legislative Policy and Research Director under section 2, chapter 568, Oregon Laws 2025 [of this
+18 2025 Act], regarding:
+19 “(i) The availability of, and access to, mandated and optional workplace benefits, including spe-
+20 cific barriers farmworkers face in accessing such benefits;
+21 “(ii) Any identified gaps in the administration and enforcement of applicable laws and policies
+22 described under section 2 (2)(d)(A), chapter 568, Oregon Laws 2025 [of this 2025 Act];
+23 “(iii) Shortcomings in education and outreach by state agencies concerning farmworkers’ rights;
+24 “(iv) Any identified gaps in workplace protections; and
+25 “(v) The effectiveness and accessibility of existing benefits, programs and protections for
+26 farmworkers, taking into account the dates of adoption and implementation of the relevant laws and
+27 policies establishing such benefits, programs and protections.
+28
+29 “LAMPS PURCHASED BY EDUCATION SERVICE DISTRICTS
+30
+31 “SECTION 21. Section 3, chapter 195, Oregon Laws 2025, is amended to read:
+32 “Sec. 3. The amendments to ORS 459.488 by section 2 [of this 2025 Act], chapter 195, Oregon
+33 Laws 2025, become operative on [January 2, 2030] the effective date of this 2026 Act.
+34 “SECTION 22. ORS 459.488, as amended by section 2, chapter 195, Oregon Laws 2025, is
+35 amended to read:
+36 “459.488. ORS 459.485 does not apply to:
+37 “(1) A lamp used for image capture and projection, including photocopying, printing, directly or
+38 in preprocessing, lithography, film and video projection and holography.
+39 “(2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+40 “(a) A lamp with high ultraviolet content that has ultraviolet power greater than two milliwatts
+41 per kilolumen.
+42 “(b) A lamp for germicidal use, such as the destruction of DNA (deoxyribonucleic acid), that
+43 emits a peak radiation of approximately 253.7 nanometers.
+44 “(c) A lamp used for disinfection or fly trapping from which either:
+45 “(A) The radiation power emitted between 250 and 315 nanometers represents at least five per-
+HA to HB 4066 Page 3
+1 cent of the total radiation power emitted between 250 and 800 nanometers; or
+2 “(B) The radiation power emitted between 315 and 400 nanometers represents at least 20 percent
+3 of the total radiation power emitted between 250 and 800 nanometers.
+4 “(d) A lamp used for the generation of ozone where the primary purpose is to emit radiation at
+5 approximately 185.1 nanometers.
+6 “(e) A lamp used for coral zooxanthellae symbiosis from which the radiation power emitted be-
+7 tween 400 and 480 nanometers represents at least 40 percent of the total radiation power emitted
+8 between 250 and 800 nanometers.
+9 “(f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet
+10 lamps and intended for irradiation of any part of the living human body by ultraviolet radiation,
+11 with wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+12 “(3) A lamp used in a medical device or otherwise used for medical or veterinary diagnosis or
+13 treatment.
+14 “(4) A lamp used in pharmaceutical product manufacturing or quality control.
+15 “(5) A lamp used for spectroscopy and photometric applications, including ultraviolet-visible
+16 spectroscopy, molecular spectroscopy, atomic absorption spectroscopy, nondispersive infrared
+17 (NDIR), Fourier transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measure-
+18 ment, process monitoring or environmental monitoring.
+19 “(6) A lamp used by academic or research institutions exclusively for conducting research
+20 projects or experiments.
+21 “(7) A compact fluorescent lamp used to replace a lamp in a motor vehicle manufactured on or
+22 before January 1, 2020.
+23 “(8) A lamp purchased by a school district, as defined in ORS 332.002, or an education
+24 service district, as defined in ORS 334.003, for use in buildings used to provide educational
+25 services to students.
+26 “SECTION 23. ORS 459.488, as amended by section 2, chapter 195, Oregon Laws 2025, and
+27 section 22 of this 2026 Act, is amended to read:
+28 “459.488. ORS 459.485 does not apply to:
+29 “(1) A lamp used for image capture and projection, including photocopying, printing, directly or
+30 in preprocessing, lithography, film and video projection and holography.
+31 “(2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+32 “(a) A lamp with high ultraviolet content that has ultraviolet power greater than two milliwatts
+33 per kilolumen.
+34 “(b) A lamp for germicidal use, such as the destruction of DNA (deoxyribonucleic acid), that
+35 emits a peak radiation of approximately 253.7 nanometers.
+36 “(c) A lamp used for disinfection or fly trapping from which either:
+37 “(A) The radiation power emitted between 250 and 315 nanometers represents at least five per-
+38 cent of the total radiation power emitted between 250 and 800 nanometers; or
+39 “(B) The radiation power emitted between 315 and 400 nanometers represents at least 20 percent
+40 of the total radiation power emitted between 250 and 800 nanometers.
+41 “(d) A lamp used for the generation of ozone where the primary purpose is to emit radiation at
+42 approximately 185.1 nanometers.
+43 “(e) A lamp used for coral zooxanthellae symbiosis from which the radiation power emitted be-
+44 tween 400 and 480 nanometers represents at least 40 percent of the total radiation power emitted
+45 between 250 and 800 nanometers.
+HA to HB 4066 Page 4
+1 “(f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet
+2 lamps and intended for irradiation of any part of the living human body by ultraviolet radiation,
+3 with wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+4 “(3) A lamp used in a medical device or otherwise used for medical or veterinary diagnosis or
+5 treatment.
+6 “(4) A lamp used in pharmaceutical product manufacturing or quality control.
+7 “(5) A lamp used for spectroscopy and photometric applications, including ultraviolet-visible
+8 spectroscopy, molecular spectroscopy, atomic absorption spectroscopy, nondispersive infrared
+9 (NDIR), Fourier transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measure-
+10 ment, process monitoring or environmental monitoring.
+11 “(6) A lamp used by academic or research institutions exclusively for conducting research
+12 projects or experiments.
+13 “(7) A compact fluorescent lamp used to replace a lamp in a motor vehicle manufactured on or
+14 before January 1, 2020.
+15 “[(8) A lamp purchased by a school district, as defined in ORS 332.002, or an education service
+16 district, as defined in ORS 334.003, for use in buildings used to provide educational services to stu-
+17 dents.]
+18 “SECTION 24. The amendments to ORS 459.488 by section 23 of this 2026 Act become
+19 operative on January 2, 2030.”.
+20 In line 32, delete “18” and insert “25”.
+21 After line 34, insert:
+22 “SECTION 26. This 2026 Act being necessary for the immediate preservation of the public
+23 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+24 on its passage.”.
+25
+HA to HB 4066 Page 5
+[DELETED:  A T l 4 d “ 4 a i “ 4 a 4 a s 3 c 1 b o t s d a s c a v p t t t a a[] ( a t t p b O 2 t 2 a s d m i a l o 1.T a t O 3 b s 1 o t 2 A a t o m o t e e a c o a c w w o a t s o t b c i n i[] S U a s e t l s a w e o i t s a e t a a a o e w p]
+[DELETED:  T t g e p w t s o a f t s m H a s r i w i a f e b A o a a t b s a h i r b adl H d o r a f f a f W e o f s t a l c m u a t T i o w w c a e o f l E w f a n o r t i o t g f e a p r t w c o w w o a d r o f t p d t o a r d t o f o a a l i d g r C a c s o f r t w b p t c o i o P o s i o a d t d n d i I d s q o p e o i a i o s 2 c 5 O L 2 [] t b u a a r t 2 A T s c u s ( o t s m r f f6P]
+[DELETED:  [] P S U s s r o t f o t c D t s p u t c t c s u s f A i g i t a[] T e a a o e b p a p f[][] 2 O 4 a a b s 2 c 1 O L 2 i A l f g u s a t d o D ( a t6P]
+[DELETED:  a l 4 p o t t r p e A l u i a e p d t i o o m u i f i o a p o t l h b b u r A l A l u f s a p a i u m s a a s n i A l u b a o r i e f c r A l p b a s d a d i O 3 o a e i b u t p e 2 O 4 a a b s 2 c 1 O L 2 a A l f g u s a t d o D ( a t 4 a 4 n r a l 4 p o6P]
+[DELETED:  A l u i a e p d t i o o m u a i f i o a p o t l h b b u r d o A l u f s a p a i u m s a a s n i A l u b a o r i e f c r A l p b a s d a d i O 3 o a d i O 3 f u i b u t p e s t s 2.T a t O 4 b s 2 o t 2 A b.T a t 2 A t e6P]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+HOUSE AMENDMENTS TO
+HOUSE BILL 4066
+By COMMITTEE ON EDUCATION
+February 10
+1 On page 1 of the printed bill, line 2, delete “and”.
+2 In line 3, after “326.606,” insert “328.542,”.
+3 In line 4, delete “and 430.217” and insert “, 430.217 and 459.488 and section 3, chapter 195,
+4 Oregon Laws 2025, and section 1, chapter 568, Oregon Laws 2025; and declaring an emergency”.
+5 On page 25, after line 28, insert:
+6
+7 “SCHOOL DISTRICT BUDGET COMMITTEE
+8
+9 “SECTION 18. ORS 328.542 is amended to read:
+10 “328.542. (1) Subject to the Local Budget Law (ORS 294.305 to 294.565) and to sections 11 and
+11 11b, Article XI, Oregon Constitution, each school district board shall prepare annually or biennially
+12 the budget of the school district and shall certify ad valorem property taxes to the assessor as
+13 provided by law.
+14 “[(2)] (2)(a) Except as provided in paragraph (b) of this subsection and in addition to the
+15 requirements prescribed by ORS 294.305 to 294.565, a school district must include at least one
+16 member of the educational equity advisory committee of the school district on the budget committee.
+17 “(b) A school district is not required to include at least one member of the educational
+18 equity advisory committee of the school district on the budget committee if no member of
+19 the educational equity advisory committee is willing or able to serve on the budget commit-
+20 tee.
+21 “SECTION 19. The amendments to ORS 328.542 by section 18 of this 2026 Act apply to
+22 vacancies on a budget committee occurring on or after September 15, 2025. A school district
+23 that did not include at least one member of the educational equity advisory committee on
+24 the budget committee on or after September 15, 2025, because no member of the educational
+25 equity advisory committee was willing or able to serve on the budget committee is not in
+26 violation of the provisions of ORS 328.542.
+27
+28 “STUDY CONDUCTED BY PORTLAND STATE UNIVERSITY
+29
+30 “SECTION 20. Section 1, chapter 568, Oregon Laws 2025, is amended to read:
+31 “Sec. 1. (1) The Higher Education Coordinating Commission shall distribute the moneys appro-
+32 priated to it under section 3, chapter 568, Oregon Laws 2025, [of this 2025 Act] to the Center for
+33 Public Service at Portland State University to be used by the center to conduct, in consultation with
+34 Oregon State University, a study examining the labor standards and working experiences of
+35 farmworkers in this state and evaluating the adequacy and availability of existing workplace pro-
+LC 132/HB 4066-5
+
+1 tections for farmworkers.
+2 “(2) To the greatest extent practicable within the scope of allocated funding, the study must
+3 include, but need not be limited to, an analysis of the following:
+4 “(a) Health and safety risks, including work-related injuries and fatalities, experienced by
+5 farmworkers.
+6 “(b) Wages, including hourly and piece-rate compensation and work schedules.
+7 “(c) Availability of, and access to, benefits such as health insurance, retirement benefits and
+8 paid leave.
+9 “(d) Short-term and long-term financial security of farmworkers.
+10 “(e) Opportunities for farmworkers to raise workplace concerns or complaints.
+11 “(f) Harassment, discrimination or retaliation against farmworkers for asserting farmworkers’
+12 rights, and methods for preventing such actions.
+13 “(g) Availability of training and educational opportunities.
+14 “(h) Barriers to enforcement of labor protections and access to legal remedies.
+15 “(i) Employment conditions for farmworkers employed by farm labor contractors licensed under
+16 ORS 658.705 to 658.850.
+17 “(j) Working experiences of farmworkers subject to a labor contract made under a temporary
+18 employment visa program.
+19 “(k) The impacts on wages, working conditions and employment opportunities for local
+20 farmworkers resulting from the use of workers under a temporary visa program.
+21 “(3) As part of the study, the center shall:
+22 “(a) Engage with farmworkers and nonprofit organizations representing the interests of
+23 farmworkers to gain firsthand experiences and perspectives regarding the working conditions of
+24 farmworkers who work on a diverse range of farms that produce different types of agricultural
+25 commodities, reflect different types of farm operations and are located in different geographic re-
+26 gions across this state using engagement methods, including but not limited to:
+27 “(A) In-person interviews;
+28 “(B) Focus groups; and
+29 “(C) Other engagement efforts carried out in partnership with farmworker-serving nonprofit or-
+30 ganizations that have well-established relationships with the farmworker community.
+31 “(b) Conduct a confidential survey of farmers regarding the workplace benefits provided to
+32 farmworkers, such as health care stipends, housing, transportation, bonuses, paid vacation time and
+33 retirement benefits, and the factors that influence farmers’ decisions about whether to provide ben-
+34 efits and which benefits to provide.
+35 “(c) To the greatest extent practicable, use data collection and reporting practices that protect
+36 the confidentiality of identities of individual farmers and farmworkers, including collection and re-
+37 porting practices that:
+38 “(A) Present only summarized information or aggregated data that does not directly identify
+39 interviewees, survey participants, farm operations or the geographic location of such operations; and
+40 “(B) Include direct statements, quotations or personal experiences only if an interviewee or
+41 survey participant has provided express, informed consent.
+42 “(d) Integrate findings from the study completed by the Legislative Policy and Research Director
+43 under section 2, chapter 568, Oregon Laws 2025, [of this 2025 Act] to be used as a reference
+44 framework to contextualize and inform the analysis of the working conditions of farmworkers.
+45 “(4) The survey conducted under subsection (3)(b) of this section must represent farmers from
+HA to HB 4066 Page 2
+
+1 a diverse range of farms that produce different types of agricultural commodities, represent different
+2 types of farm operations and sizes and are located in different geographic regions across this state.
+3 “(5) [The commission] Portland State University shall submit reports on the findings of the
+4 study, in the manner provided in ORS 192.245, to the interim committees of the Legislative Assembly
+5 related to agriculture, business and labor and natural resources, as follows:
+6 “(a) The first report must be submitted no later than May 1, 2026, and must provide [the initial
+7 findings] a status update of the study.
+8 “(b) The second report must be submitted no later than September 1, 2026, and must provide:
+9 “(A) Updates to the initial findings; and
+10 “(B) A summary of the progress of the study.
+11 “(c) The final report must be submitted no later than December 1, 2026, and must:
+12 “(A) Include the final findings of the study.
+13 “(B) Describe the sampling process used to conduct the confidential survey under subsection
+14 (3)(b) of this section and a description of identified limitations in the survey sample data, if any.
+15 “(C) Demonstrate, without proposing formal or informal policy recommendations, how the final
+16 findings of the study were informed by and analyzed in conjunction with the study conducted by the
+17 Legislative Policy and Research Director under section 2, chapter 568, Oregon Laws 2025 [of this
+18 2025 Act], regarding:
+19 “(i) The availability of, and access to, mandated and optional workplace benefits, including spe-
+20 cific barriers farmworkers face in accessing such benefits;
+21 “(ii) Any identified gaps in the administration and enforcement of applicable laws and policies
+22 described under section 2 (2)(d)(A), chapter 568, Oregon Laws 2025 [of this 2025 Act];
+23 “(iii) Shortcomings in education and outreach by state agencies concerning farmworkers’ rights;
+24 “(iv) Any identified gaps in workplace protections; and
+25 “(v) The effectiveness and accessibility of existing benefits, programs and protections for
+26 farmworkers, taking into account the dates of adoption and implementation of the relevant laws and
+27 policies establishing such benefits, programs and protections.
+28
+29 “LAMPS PURCHASED BY EDUCATION SERVICE DISTRICTS
+30
+31 “SECTION 21. Section 3, chapter 195, Oregon Laws 2025, is amended to read:
+32 “Sec. 3. The amendments to ORS 459.488 by section 2 [of this 2025 Act], chapter 195, Oregon
+33 Laws 2025, become operative on [January 2, 2030] the effective date of this 2026 Act.
+34 “SECTION 22. ORS 459.488, as amended by section 2, chapter 195, Oregon Laws 2025, is
+35 amended to read:
+36 “459.488. ORS 459.485 does not apply to:
+37 “(1) A lamp used for image capture and projection, including photocopying, printing, directly or
+38 in preprocessing, lithography, film and video projection and holography.
+39 “(2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+40 “(a) A lamp with high ultraviolet content that has ultraviolet power greater than two milliwatts
+41 per kilolumen.
+42 “(b) A lamp for germicidal use, such as the destruction of DNA (deoxyribonucleic acid), that
+43 emits a peak radiation of approximately 253.7 nanometers.
+44 “(c) A lamp used for disinfection or fly trapping from which either:
+45 “(A) The radiation power emitted between 250 and 315 nanometers represents at least five per-
+HA to HB 4066 Page 3
+
+1 cent of the total radiation power emitted between 250 and 800 nanometers; or
+2 “(B) The radiation power emitted between 315 and 400 nanometers represents at least 20 percent
+3 of the total radiation power emitted between 250 and 800 nanometers.
+4 “(d) A lamp used for the generation of ozone where the primary purpose is to emit radiation at
+5 approximately 185.1 nanometers.
+6 “(e) A lamp used for coral zooxanthellae symbiosis from which the radiation power emitted be-
+7 tween 400 and 480 nanometers represents at least 40 percent of the total radiation power emitted
+8 between 250 and 800 nanometers.
+9 “(f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet
+10 lamps and intended for irradiation of any part of the living human body by ultraviolet radiation,
+11 with wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+12 “(3) A lamp used in a medical device or otherwise used for medical or veterinary diagnosis or
+13 treatment.
+14 “(4) A lamp used in pharmaceutical product manufacturing or quality control.
+15 “(5) A lamp used for spectroscopy and photometric applications, including ultraviolet-visible
+16 spectroscopy, molecular spectroscopy, atomic absorption spectroscopy, nondispersive infrared
+17 (NDIR), Fourier transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measure-
+18 ment, process monitoring or environmental monitoring.
+19 “(6) A lamp used by academic or research institutions exclusively for conducting research
+20 projects or experiments.
+21 “(7) A compact fluorescent lamp used to replace a lamp in a motor vehicle manufactured on or
+22 before January 1, 2020.
+23 “(8) A lamp purchased by a school district, as defined in ORS 332.002, or an education
+24 service district, as defined in ORS 334.003, for use in buildings used to provide educational
+25 services to students.
+26 “SECTION 23. ORS 459.488, as amended by section 2, chapter 195, Oregon Laws 2025, and
+27 section 22 of this 2026 Act, is amended to read:
+28 “459.488. ORS 459.485 does not apply to:
+29 “(1) A lamp used for image capture and projection, including photocopying, printing, directly or
+30 in preprocessing, lithography, film and video projection and holography.
+31 “(2) A lamp that has a high proportion of ultraviolet light emission and is one of the following:
+32 “(a) A lamp with high ultraviolet content that has ultraviolet power greater than two milliwatts
+33 per kilolumen.
+34 “(b) A lamp for germicidal use, such as the destruction of DNA (deoxyribonucleic acid), that
+35 emits a peak radiation of approximately 253.7 nanometers.
+36 “(c) A lamp used for disinfection or fly trapping from which either:
+37 “(A) The radiation power emitted between 250 and 315 nanometers represents at least five per-
+38 cent of the total radiation power emitted between 250 and 800 nanometers; or
+39 “(B) The radiation power emitted between 315 and 400 nanometers represents at least 20 percent
+40 of the total radiation power emitted between 250 and 800 nanometers.
+41 “(d) A lamp used for the generation of ozone where the primary purpose is to emit radiation at
+42 approximately 185.1 nanometers.
+43 “(e) A lamp used for coral zooxanthellae symbiosis from which the radiation power emitted be-
+44 tween 400 and 480 nanometers represents at least 40 percent of the total radiation power emitted
+45 between 250 and 800 nanometers.
+HA to HB 4066 Page 4
+
+1 “(f) Any lamp used in an electronic product designed to incorporate one or more ultraviolet
+2 lamps and intended for irradiation of any part of the living human body by ultraviolet radiation,
+3 with wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+4 “(3) A lamp used in a medical device or otherwise used for medical or veterinary diagnosis or
+5 treatment.
+6 “(4) A lamp used in pharmaceutical product manufacturing or quality control.
+7 “(5) A lamp used for spectroscopy and photometric applications, including ultraviolet-visible
+8 spectroscopy, molecular spectroscopy, atomic absorption spectroscopy, nondispersive infrared
+9 (NDIR), Fourier transform infrared (FTIR), medical analysis, ellipsometry, layer thickness measure-
+10 ment, process monitoring or environmental monitoring.
+11 “(6) A lamp used by academic or research institutions exclusively for conducting research
+12 projects or experiments.
+13 “(7) A compact fluorescent lamp used to replace a lamp in a motor vehicle manufactured on or
+14 before January 1, 2020.
+15 “[(8) A lamp purchased by a school district, as defined in ORS 332.002, or an education service
+16 district, as defined in ORS 334.003, for use in buildings used to provide educational services to stu-
+17 dents.]
+18 “SECTION 24. The amendments to ORS 459.488 by section 23 of this 2026 Act become
+19 operative on January 2, 2030.”.
+20 In line 32, delete “18” and insert “25”.
+21 After line 34, insert:
+22 “SECTION 26. This 2026 Act being necessary for the immediate preservation of the public
+23 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+24 on its passage.”.
+25
+HA to HB 4066 Page 5
+
+[DELETED:  A T l 4 d “ 4 a i “ 4 a 4 a s 3 c 1 b o t s d a s c a v p t t t a a[] ( a t t p b O 2 t 2 a s d m i a l o 1.T a t O 3 b s 1 o t 2 A a t o m o t e e a c o a c w w o a t s o t b c i n i[] S U a s e t l s a w e o i t s a e t a a a o e w p]
+[DELETED:  T t g e p w t s o a f t s m H a s r i w i a f e b A o a a t b s a h i r b adl H d o r a f f a f W e o f s t a l c m u a t T i o w w c a e o f l E w f a n o r t i o t g f e a p r t w c o w w o a d r o f t p d t o a r d t o f o a a l i d g r C a c s o f r t w b p t c o i o P o s i o a d t d n d i I d s q o p e o i a i o s 2 c 5 O L 2 [] t b u a a r t 2 A T s c u s ( o t s m r f f6P]
+[DELETED:  [] P S U s s r o t f o t c D t s p u t c t c s u s f A i g i t a[] T e a a o e b p a p f[][] 2 O 4 a a b s 2 c 1 O L 2 i A l f g u s a t d o D ( a t6P]
+[DELETED:  a l 4 p o t t r p e A l u i a e p d t i o o m u i f i o a p o t l h b b u r A l A l u f s a p a i u m s a a s n i A l u b a o r i e f c r A l p b a s d a d i O 3 o a e i b u t p e 2 O 4 a a b s 2 c 1 O L 2 a A l f g u s a t d o D ( a t 4 a 4 n r a l 4 p o6P]
+[DELETED:  A l u i a e p d t i o o m u a i f i o a p o t l h b b u r d o A l u f s a p a i u m s a a s n i A l u b a o r i e f c r A l p b a s d a d i O 3 o a d i O 3 f u i b u t p e s t s 2.T a t O 4 b s 2 o t 2 A b.T a t 2 A t e6P]

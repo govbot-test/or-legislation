@@ -1,0 +1,399 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Senate Amendments to Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SENATE AMENDMENTS TO
+SENATE BILL 1540
+By COMMITTEE ON NATURAL RESOURCES AND WILDFIRE
+February 17
+1 On page 1 of the printed bill, delete lines 4 through 19 and delete pages 2 through 4 and insert:
+2 “SECTION 1. (1) As used in this section:
+3 “(a) ‘Adverse rating’ means:
+4 “(A) An application of a rating rule under which an insurer charges more for a premium
+5 than the insurer would have charged if underwriting had resulted in a more favorable
+6 wildfire risk score; or
+7 “(B) Assignment, based on a wildfire risk score, to a rating tier that does not have the
+8 lowest available rates.
+9 “(b) ‘Catastrophe model’ means a tool, instrument, means, product or method, including
+10 a map- or computer-based tool or a simulation, that an insurer uses to estimate potential
+11 losses from catastrophic events.
+12 “(c) ‘Community-level mitigation action’ means an action or set of actions to reduce the
+13 risk of wildfire or hazards or loss from wildfire that is based in scientific practice and:
+14 “(A) Consists of actions such as forest treatment and fuel reduction, investments in
+15 equipment to fight wildfires and mitigate impacts from wildfires and actions that utilities
+16 take to prevent or reduce the risk of wildfires in accordance with a plan that the Public
+17 Utility Commission approves;
+18 “(B) Results in a certification from the Insurance Institute for Business and Home Safety
+19 that designates the community as a Wildfire Prepared Neighborhood or results in a certi-
+20 fication from an equivalent program that verifies that the action is effective in reducing the
+21 risk of wildfire or hazards or loss from wildfire; or
+22 “(C) Is certified by the State Fire Marshal as effective in reducing the risk of wildfire or
+23 hazards or loss from wildfire in a neighborhood or community or is undertaken by a local
+24 government or state or federal agency to reduce the risk of wildfire or hazards or loss from
+25 wildfire in a neighborhood or community.
+26 “(d) ‘Property-specific mitigation action’ means an action or set of actions to reduce the
+27 risk of wildfire or hazards or loss from wildfire for a specific property that is based in sci-
+28 entific practice and:
+29 “(A) Consists of actions such as establishing defensible space, hardening structures
+30 against fire or similar or related actions that prevent or reduce the risk of wildfire or haz-
+31 ards or loss from wildfire on the property; or
+32 “(B) Results in compliance with section R327, Wildfire Hazard Mitigation, of the Oregon
+33 Residential Specialty Code or results in a certification from the Insurance Institute for
+34 Business and Home Safety that designates the property as a Wildfire Prepared Home.
+35 “(e) ‘Wildfire risk model’ means a tool, instrument, means, product or method, including
+LC 182/SB 1540-4
+1 a map- or computer-based tool or a simulation, that an insurer uses, in whole or in part, to
+2 measure or assess the risk of wildfire associated with a residential property or with a com-
+3 munity, for the purposes of:
+4 “(A) Rating, underwriting, classifying or pricing insurance coverage on the basis of the
+5 risk; or
+6 “(B) Estimating potential loss from wildfire on the basis of a risk classification.
+7 “(f) ‘Wildfire risk score’ means a measurement or assessment of the risk of wildfire,
+8 expressed as a score, that summarizes the results of applying a wildfire risk model or other
+9 wildfire risk scoring method.
+10 “(2)(a) An insurer that uses a catastrophe model or a wildfire risk model or scoring
+11 method to assign risk for residential property or a community shall submit the catastrophe
+12 model or wildfire risk model or scoring method to the Director of the Department of Con-
+13 sumer and Business Services as part of the insurer’s filings under ORS chapter 737. The di-
+14 rector shall review the submission to determine whether an insurer’s catastrophe model or
+15 wildfire risk model or scoring method accounts for community-level mitigation actions or
+16 property-specific mitigation actions. If the director determines that the catastrophe model,
+17 wildfire risk model or scoring method does not account for community-level mitigation
+18 actions or property-specific mitigation actions, the director shall require the insurer to
+19 modify the catastrophe model or wildfire risk model or scoring method to account for
+20 community-level mitigation actions or property-specific mitigation actions.
+21 “(b) The insurer’s submission under paragraph (a) of this subsection must include:
+22 “(A) A description of the model or scoring method;
+23 “(B) How the model or scoring method affects rates;
+24 “(C) An actuarial justification for all rating factors, including any discounts offered for
+25 mitigation actions; and
+26 “(D) An explanation of how the insurer uses the model or scoring method in underwriting
+27 decisions.
+28 “(c) An insurer that makes a submission under paragraph (a) of this subsection shall
+29 include in the submission information about whether and how the model or scoring method
+30 the insurer uses for rating and underwriting takes account of property-specific mitigation
+31 actions, community-level mitigation actions or mitigation actions that state or federal
+32 agencies perform.
+33 “(d) A model or method that an insurer submits under paragraph (a) of this subsection
+34 is a trade secret, as provided in ORS 192.345, and is exempt from disclosure.
+35 “(e) This subsection does not require an insurer to submit new underwriting guidelines
+36 or manuals and does not modify existing requirements to submit underwriting guidelines or
+37 manuals.
+38 “(3)(a) An insurer that uses a catastrophe model or a wildfire risk model, or a combina-
+39 tion of a catastrophe model and a wildfire risk model, shall incorporate applicable
+40 community-level mitigation actions and property-specific mitigation actions into the catas-
+41 trophe model, wildfire risk model or combination of models, or shall otherwise demonstrate
+42 that the insurer’s underwriting, rates and rate differentials incorporate applicable
+43 community-level mitigation actions and property-specific mitigation actions.
+44 “(b) An insurer that does not comply with the requirement set forth in paragraph (a) of
+45 this subsection shall, when actuarially supported, give a premium discount or adjustment or
+SA to SB 1540 Page 2
+1 other incentive to an insurance policy holder that demonstrates that the policy holder has
+2 undertaken a property-specific mitigation action for the policy holder’s property or that a
+3 community-level mitigation action has occurred in sufficient proximity to the policy holder’s
+4 property to reduce the risk of loss.
+5 “(4) An insurer shall post on the insurer’s public website the process for appealing the
+6 insurer’s risk classification and readily accessible information about the premium discounts
+7 or adjustments or other incentives that may be available to insurance policy holders that
+8 demonstrate that the policy holder has undertaken a property-specific mitigation action or
+9 that a community-level mitigation action occurred in sufficient proximity to the policy
+10 holder’s property to reduce the risk of loss. The information must identify property-specific
+11 mitigation actions a policy holder could undertake to receive the premium discount or ad-
+12 justment or other incentive and the amount of the discount, adjustment or incentive that
+13 corresponds with each action or combination of actions. The director by rule may determine
+14 which mitigation actions or combination of mitigation actions qualify for an actuarially sup-
+15 ported discount.
+16 “(5)(a) An insurer that provides a premium discount or adjustment or other incentive,
+17 or that uses a catastrophe model or wildfire risk model to underwrite, price, decline to re-
+18 new, create a differential rate or assign an adverse rating for a policy of insurance shall
+19 notify an applicant for insurance or a policy holder, in writing and within the deadlines
+20 specified in subsection (6) of this section, of:
+21 “(A) The risk classification or score the insurer has given to the applicant or policy
+22 holder; and
+23 “(B) Any applicable property-specific mitigation action the policy holder could undertake
+24 and any community-level mitigation action that could result in a more favorable classifica-
+25 tion or score, acceptance or renewal of an application, withdrawal of a rate differential,
+26 surcharge, a premium discount or adjustment or other incentive.
+27 “(b) The notice described in paragraph (a) of this subsection must:
+28 “(A) Explain in plain language the classification or score the insurer has determined for
+29 the applicant’s or policy holder’s property and state that different insurers may use different
+30 models or have different risk classifications or scores that could lead to different results or
+31 different decisions;
+32 “(B) Identify the classifications or range of scores the insurer could assign to the
+33 applicant’s or policy holder’s property;
+34 “(C) Specify the relative position of the classification or score the insurer assigns to the
+35 applicant’s or policy holder’s property within the range of classifications or scores the
+36 insurer identifies in subparagraph (B) of this paragraph;
+37 “(D) Explain why the applicant’s or policy holder’s property received the classification
+38 or score the insurer assigned and identify the primary features of the property that influ-
+39 enced the classification or score;
+40 “(E) Explain how each property-specific mitigation action or community-level mitigation
+41 action could affect the classification or score the insurer assigned; and
+42 “(F) Notify, as provided in subsection (7) of this section, the applicant or policy holder
+43 of the right to appeal the classification or score the insurer assigned to the applicant’s or
+44 policy holder’s property, or to dispute the amount of the premium discount or adjustment
+45 or other incentive the insurer gives for a property-specific mitigation action or community-
+SA to SB 1540 Page 3
+1 level mitigation action.
+2 “(6) An insurer shall provide the notice described in subsection (5) of this section within
+3 the following deadlines, as applicable:
+4 “(a) Not later than 10 business days after the applicant submits a completed application
+5 for insurance to the insurer and the insurer offers a policy of insurance to the applicant, if
+6 the policy has an adverse rating on the basis of a wildfire risk score;
+7 “(b) Not later than 10 business days after the applicant submits a completed application
+8 to the insurer and the insurer declines to make an offer of a policy of insurance on the basis
+9 of a wildfire risk score;
+10 “(c) At the time the insurer offers to renew a policy holder’s policy if the policy will have
+11 an adverse rating;
+12 “(d) At the time the insurer notifies a policy holder that the insurer declines to renew
+13 the policy holder’s policy, if the insurer declines on the basis of a wildfire risk score; or
+14 “(e) Not later than 20 business days after an applicant who has submitted a completed
+15 application and a request or appeal to an insurer who has declined to make an offer of a
+16 policy of insurance, or who submits a request or appeal of a reclassification or adjustment
+17 to the wildfire risk score the insurer gives to the applicant’s or policy holder’s property, to-
+18 gether with a demonstration:
+19 “(A) Of having completed, since the last application or renewal of the policy, a
+20 property-specific mitigation action; or
+21 “(B) That a community-level mitigation action occurred, since the last application or
+22 renewal of the policy, in sufficient proximity to the property to reduce the risk of loss.
+23 “(7)(a) An applicant or insurance policy holder may, under subsection (6) of this section,
+24 appeal a wildfire risk score or a classification that an insurer assigns to the applicant’s or
+25 policy holder’s property, or dispute the amount of a premium discount or adjustment or
+26 other incentive the insurer provides for a property-specific mitigation action or community-
+27 level mitigation action, if the applicant or policy holder believes the classification, score or
+28 amount is not accurate. The insurer shall provide the applicant or policy holder with a
+29 written acknowledgement not later than 10 business days after receiving the appeal or dis-
+30 pute and shall respond to the appeal or dispute with a decision in writing not later than 30
+31 business days after receiving the appeal or dispute.
+32 “(b) If an insurer denies an appeal or refuses to change the amount of a premium dis-
+33 count or adjustment or other incentive, the insurer shall forward to the director, at the
+34 director’s request, a copy of the appeal or dispute and the insurer’s response.
+35 “(8) The director and the State Fire Marshal may adopt rules to implement the provisions
+36 of this section.
+37 “SECTION 2. Section 1 of this 2026 Act applies to policies of fire insurance, casualty in-
+38 surance as defined in ORS 731.158, property insurance as defined in ORS 731.182 and home-
+39 owner insurance as defined in ORS 746.600 that an insurer issues or renews on or after the
+40 operative date specified in section 3 of this 2026 Act.
+41 “SECTION 3. (1) Section 1 of this 2026 Act becomes operative on July 1, 2027.
+42 “(2) The Director of the Department of Consumer and Business Services and the State
+43 Fire Marshal may adopt rules and take any other action before the operative date specified
+44 in subsection (1) of this section that is necessary to enable the director or the State Fire
+45 Marshal to undertake and exercise, on and after the operative date specified in subsection
+SA to SB 1540 Page 4
+1 (1) of this section, all of the duties, functions and powers conferred on the director or the
+2 State Fire Marshal by section 1 of this 2026 Act.
+3 “SECTION 4. This 2026 Act takes effect on the 91st day after the date on which the 2026
+4 regular session of the Eighty-third Legislative Assembly adjourns sine die.”.
+5
+SA to SB 1540 Page 5
+[DELETED:  A T.( t i w h c i u h r i a m f s t a i u t e p C o a s a f t a f r i i t f w a m i f w a a t u t p o r t r o w i a w a p t t P d t c a a W P N o r i a c o l f w i a n o C o a s a e d s h s S C o r i a c f t I I f]
+[DELETED:  ‘ r s m a m o a o t r o w A i t u a c m o a w r m o s o r m o s m a f c m a o r m o s m d n a f c m o p m a t d s r t i t t c m o w r m o s m t a f A i t m a s u p ( o t s s i u f r a u t a o p m c m a o m a t s o fsp o a c m a a w r m s i a m a a p m a t i u r a r d i a0P]
+[DELETED:  i t a p m a f t p h p o t  a o o i t m b a t i p h t o a c m a o i s p t t p a a p h c u t r i a t a o t d a o i t A i t p a p d o a c a d r o a a a r f a p o i s a a f i o a p h i w a w t d T r c o s t i h g t t a o p;a o s a o r o a a w o a r d I t c o r o s t i c a t t o p h p w t r o c o s t E w t a o p h p r t c o t p t i t s t a o p h t r t a t t a o t p d o a0P]
+[DELETED:  N l t 2 a a r o a t a i w h d t m a o o  O h c s t l a o r o t p  T a c m a o s t l a o h p o d t a o a p d o a o i n a T i s p t a o p h w  I o a o o i t i s f t t d a t.S.( S t s t i n t e t d o t S F t u a e o0P]
+[DELETED: .T0P]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+SENATE AMENDMENTS TO
+SENATE BILL 1540
+By COMMITTEE ON NATURAL RESOURCES AND WILDFIRE
+February 17
+1 On page 1 of the printed bill, delete lines 4 through 19 and delete pages 2 through 4 and insert:
+2 “SECTION 1. (1) As used in this section:
+3 “(a) ‘Adverse rating’ means:
+4 “(A) An application of a rating rule under which an insurer charges more for a premium
+5 than the insurer would have charged if underwriting had resulted in a more favorable
+6 wildfire risk score; or
+7 “(B) Assignment, based on a wildfire risk score, to a rating tier that does not have the
+8 lowest available rates.
+9 “(b) ‘Catastrophe model’ means a tool, instrument, means, product or method, including
+10 a map- or computer-based tool or a simulation, that an insurer uses to estimate potential
+11 losses from catastrophic events.
+12 “(c) ‘Community-level mitigation action’ means an action or set of actions to reduce the
+13 risk of wildfire or hazards or loss from wildfire that is based in scientific practice and:
+14 “(A) Consists of actions such as forest treatment and fuel reduction, investments in
+15 equipment to fight wildfires and mitigate impacts from wildfires and actions that utilities
+16 take to prevent or reduce the risk of wildfires in accordance with a plan that the Public
+17 Utility Commission approves;
+18 “(B) Results in a certification from the Insurance Institute for Business and Home Safety
+19 that designates the community as a Wildfire Prepared Neighborhood or results in a certi-
+20 fication from an equivalent program that verifies that the action is effective in reducing the
+21 risk of wildfire or hazards or loss from wildfire; or
+22 “(C) Is certified by the State Fire Marshal as effective in reducing the risk of wildfire or
+23 hazards or loss from wildfire in a neighborhood or community or is undertaken by a local
+24 government or state or federal agency to reduce the risk of wildfire or hazards or loss from
+25 wildfire in a neighborhood or community.
+26 “(d) ‘Property-specific mitigation action’ means an action or set of actions to reduce the
+27 risk of wildfire or hazards or loss from wildfire for a specific property that is based in sci-
+28 entific practice and:
+29 “(A) Consists of actions such as establishing defensible space, hardening structures
+30 against fire or similar or related actions that prevent or reduce the risk of wildfire or haz-
+31 ards or loss from wildfire on the property; or
+32 “(B) Results in compliance with section R327, Wildfire Hazard Mitigation, of the Oregon
+33 Residential Specialty Code or results in a certification from the Insurance Institute for
+34 Business and Home Safety that designates the property as a Wildfire Prepared Home.
+35 “(e) ‘Wildfire risk model’ means a tool, instrument, means, product or method, including
+LC 182/SB 1540-4
+
+1 a map- or computer-based tool or a simulation, that an insurer uses, in whole or in part, to
+2 measure or assess the risk of wildfire associated with a residential property or with a com-
+3 munity, for the purposes of:
+4 “(A) Rating, underwriting, classifying or pricing insurance coverage on the basis of the
+5 risk; or
+6 “(B) Estimating potential loss from wildfire on the basis of a risk classification.
+7 “(f) ‘Wildfire risk score’ means a measurement or assessment of the risk of wildfire,
+8 expressed as a score, that summarizes the results of applying a wildfire risk model or other
+9 wildfire risk scoring method.
+10 “(2)(a) An insurer that uses a catastrophe model or a wildfire risk model or scoring
+11 method to assign risk for residential property or a community shall submit the catastrophe
+12 model or wildfire risk model or scoring method to the Director of the Department of Con-
+13 sumer and Business Services as part of the insurer’s filings under ORS chapter 737. The di-
+14 rector shall review the submission to determine whether an insurer’s catastrophe model or
+15 wildfire risk model or scoring method accounts for community-level mitigation actions or
+16 property-specific mitigation actions. If the director determines that the catastrophe model,
+17 wildfire risk model or scoring method does not account for community-level mitigation
+18 actions or property-specific mitigation actions, the director shall require the insurer to
+19 modify the catastrophe model or wildfire risk model or scoring method to account for
+20 community-level mitigation actions or property-specific mitigation actions.
+21 “(b) The insurer’s submission under paragraph (a) of this subsection must include:
+22 “(A) A description of the model or scoring method;
+23 “(B) How the model or scoring method affects rates;
+24 “(C) An actuarial justification for all rating factors, including any discounts offered for
+25 mitigation actions; and
+26 “(D) An explanation of how the insurer uses the model or scoring method in underwriting
+27 decisions.
+28 “(c) An insurer that makes a submission under paragraph (a) of this subsection shall
+29 include in the submission information about whether and how the model or scoring method
+30 the insurer uses for rating and underwriting takes account of property-specific mitigation
+31 actions, community-level mitigation actions or mitigation actions that state or federal
+32 agencies perform.
+33 “(d) A model or method that an insurer submits under paragraph (a) of this subsection
+34 is a trade secret, as provided in ORS 192.345, and is exempt from disclosure.
+35 “(e) This subsection does not require an insurer to submit new underwriting guidelines
+36 or manuals and does not modify existing requirements to submit underwriting guidelines or
+37 manuals.
+38 “(3)(a) An insurer that uses a catastrophe model or a wildfire risk model, or a combina-
+39 tion of a catastrophe model and a wildfire risk model, shall incorporate applicable
+40 community-level mitigation actions and property-specific mitigation actions into the catas-
+41 trophe model, wildfire risk model or combination of models, or shall otherwise demonstrate
+42 that the insurer’s underwriting, rates and rate differentials incorporate applicable
+43 community-level mitigation actions and property-specific mitigation actions.
+44 “(b) An insurer that does not comply with the requirement set forth in paragraph (a) of
+45 this subsection shall, when actuarially supported, give a premium discount or adjustment or
+SA to SB 1540 Page 2
+
+1 other incentive to an insurance policy holder that demonstrates that the policy holder has
+2 undertaken a property-specific mitigation action for the policy holder’s property or that a
+3 community-level mitigation action has occurred in sufficient proximity to the policy holder’s
+4 property to reduce the risk of loss.
+5 “(4) An insurer shall post on the insurer’s public website the process for appealing the
+6 insurer’s risk classification and readily accessible information about the premium discounts
+7 or adjustments or other incentives that may be available to insurance policy holders that
+8 demonstrate that the policy holder has undertaken a property-specific mitigation action or
+9 that a community-level mitigation action occurred in sufficient proximity to the policy
+10 holder’s property to reduce the risk of loss. The information must identify property-specific
+11 mitigation actions a policy holder could undertake to receive the premium discount or ad-
+12 justment or other incentive and the amount of the discount, adjustment or incentive that
+13 corresponds with each action or combination of actions. The director by rule may determine
+14 which mitigation actions or combination of mitigation actions qualify for an actuarially sup-
+15 ported discount.
+16 “(5)(a) An insurer that provides a premium discount or adjustment or other incentive,
+17 or that uses a catastrophe model or wildfire risk model to underwrite, price, decline to re-
+18 new, create a differential rate or assign an adverse rating for a policy of insurance shall
+19 notify an applicant for insurance or a policy holder, in writing and within the deadlines
+20 specified in subsection (6) of this section, of:
+21 “(A) The risk classification or score the insurer has given to the applicant or policy
+22 holder; and
+23 “(B) Any applicable property-specific mitigation action the policy holder could undertake
+24 and any community-level mitigation action that could result in a more favorable classifica-
+25 tion or score, acceptance or renewal of an application, withdrawal of a rate differential,
+26 surcharge, a premium discount or adjustment or other incentive.
+27 “(b) The notice described in paragraph (a) of this subsection must:
+28 “(A) Explain in plain language the classification or score the insurer has determined for
+29 the applicant’s or policy holder’s property and state that different insurers may use different
+30 models or have different risk classifications or scores that could lead to different results or
+31 different decisions;
+32 “(B) Identify the classifications or range of scores the insurer could assign to the
+33 applicant’s or policy holder’s property;
+34 “(C) Specify the relative position of the classification or score the insurer assigns to the
+35 applicant’s or policy holder’s property within the range of classifications or scores the
+36 insurer identifies in subparagraph (B) of this paragraph;
+37 “(D) Explain why the applicant’s or policy holder’s property received the classification
+38 or score the insurer assigned and identify the primary features of the property that influ-
+39 enced the classification or score;
+40 “(E) Explain how each property-specific mitigation action or community-level mitigation
+41 action could affect the classification or score the insurer assigned; and
+42 “(F) Notify, as provided in subsection (7) of this section, the applicant or policy holder
+43 of the right to appeal the classification or score the insurer assigned to the applicant’s or
+44 policy holder’s property, or to dispute the amount of the premium discount or adjustment
+45 or other incentive the insurer gives for a property-specific mitigation action or community-
+SA to SB 1540 Page 3
+
+1 level mitigation action.
+2 “(6) An insurer shall provide the notice described in subsection (5) of this section within
+3 the following deadlines, as applicable:
+4 “(a) Not later than 10 business days after the applicant submits a completed application
+5 for insurance to the insurer and the insurer offers a policy of insurance to the applicant, if
+6 the policy has an adverse rating on the basis of a wildfire risk score;
+7 “(b) Not later than 10 business days after the applicant submits a completed application
+8 to the insurer and the insurer declines to make an offer of a policy of insurance on the basis
+9 of a wildfire risk score;
+10 “(c) At the time the insurer offers to renew a policy holder’s policy if the policy will have
+11 an adverse rating;
+12 “(d) At the time the insurer notifies a policy holder that the insurer declines to renew
+13 the policy holder’s policy, if the insurer declines on the basis of a wildfire risk score; or
+14 “(e) Not later than 20 business days after an applicant who has submitted a completed
+15 application and a request or appeal to an insurer who has declined to make an offer of a
+16 policy of insurance, or who submits a request or appeal of a reclassification or adjustment
+17 to the wildfire risk score the insurer gives to the applicant’s or policy holder’s property, to-
+18 gether with a demonstration:
+19 “(A) Of having completed, since the last application or renewal of the policy, a
+20 property-specific mitigation action; or
+21 “(B) That a community-level mitigation action occurred, since the last application or
+22 renewal of the policy, in sufficient proximity to the property to reduce the risk of loss.
+23 “(7)(a) An applicant or insurance policy holder may, under subsection (6) of this section,
+24 appeal a wildfire risk score or a classification that an insurer assigns to the applicant’s or
+25 policy holder’s property, or dispute the amount of a premium discount or adjustment or
+26 other incentive the insurer provides for a property-specific mitigation action or community-
+27 level mitigation action, if the applicant or policy holder believes the classification, score or
+28 amount is not accurate. The insurer shall provide the applicant or policy holder with a
+29 written acknowledgement not later than 10 business days after receiving the appeal or dis-
+30 pute and shall respond to the appeal or dispute with a decision in writing not later than 30
+31 business days after receiving the appeal or dispute.
+32 “(b) If an insurer denies an appeal or refuses to change the amount of a premium dis-
+33 count or adjustment or other incentive, the insurer shall forward to the director, at the
+34 director’s request, a copy of the appeal or dispute and the insurer’s response.
+35 “(8) The director and the State Fire Marshal may adopt rules to implement the provisions
+36 of this section.
+37 “SECTION 2. Section 1 of this 2026 Act applies to policies of fire insurance, casualty in-
+38 surance as defined in ORS 731.158, property insurance as defined in ORS 731.182 and home-
+39 owner insurance as defined in ORS 746.600 that an insurer issues or renews on or after the
+40 operative date specified in section 3 of this 2026 Act.
+41 “SECTION 3. (1) Section 1 of this 2026 Act becomes operative on July 1, 2027.
+42 “(2) The Director of the Department of Consumer and Business Services and the State
+43 Fire Marshal may adopt rules and take any other action before the operative date specified
+44 in subsection (1) of this section that is necessary to enable the director or the State Fire
+45 Marshal to undertake and exercise, on and after the operative date specified in subsection
+SA to SB 1540 Page 4
+
+1 (1) of this section, all of the duties, functions and powers conferred on the director or the
+2 State Fire Marshal by section 1 of this 2026 Act.
+3 “SECTION 4. This 2026 Act takes effect on the 91st day after the date on which the 2026
+4 regular session of the Eighty-third Legislative Assembly adjourns sine die.”.
+5
+SA to SB 1540 Page 5
+
+[DELETED:  A T.( t i w h c i u h r i a m f s t a i u t e p C o a s a f t a f r i i t f w a m i f w a a t u t p o r t r o w i a w a p t t P d t c a a W P N o r i a c o l f w i a n o C o a s a e d s h s S C o r i a c f t I I f]
+[DELETED:  ‘ r s m a m o a o t r o w A i t u a c m o a w r m o s o r m o s m a f c m a o r m o s m d n a f c m o p m a t d s r t i t t c m o w r m o s m t a f A i t m a s u p ( o t s s i u f r a u t a o p m c m a o m a t s o fsp o a c m a a w r m s i a m a a p m a t i u r a r d i a0P]
+[DELETED:  i t a p m a f t p h p o t  a o o i t m b a t i p h t o a c m a o i s p t t p a a p h c u t r i a t a o t d a o i t A i t p a p d o a c a d r o a a a r f a p o i s a a f i o a p h i w a w t d T r c o s t i h g t t a o p;a o s a o r o a a w o a r d I t c o r o s t i c a t t o p h p w t r o c o s t E w t a o p h p r t c o t p t i t s t a o p h t r t a t t a o t p d o a0P]
+[DELETED:  N l t 2 a a r o a t a i w h d t m a o o  O h c s t l a o r o t p  T a c m a o s t l a o h p o d t a o a p d o a o i n a T i s p t a o p h w  I o a o o i t i s f t t d a t.S.( S t s t i n t e t d o t S F t u a e o0P]
+[DELETED: .T0P]

@@ -1,0 +1,865 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - B-Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+B-Engrossed
+House Bill 4121
+Ordered by the House March 4
+Including House Amendments dated February 16 and March 4
+Sponsored by Representatives EVANS, GOMBERG, JAVADI; Representatives ANDERSEN, CHAICHI, GAMBA,
+NELSON, PHAM H, RIEKE SMITH (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act creates new systems and structures and changes law to improve emergency
+response in the state. (Flesch Readability Score: 65.1).
+Creates [statewide emergency preparedness offices and authorities] authority to coordinate
+emergency management. [Authorizes bonding for public safety projects.] Requires state agencies to
+designate liaisons for emergency management.
+Imposes duties on the Oregon Department of Emergency Management related to management
+of emergency preparedness assets.
+Modifies the definitions of and grant requirements for Resilience Hubs and Resilience Networks.
+Authorizes certain training facilities to host overnight training activities. Requires the Oregon
+Department of Emergency Management to obtain fingerprints of employees and contractors.
+Authorizes counties to waive certain civil penalties related to food service facilities during
+emergencies.
+Requires the Department of the State Fire Marshal to study health coverage for firefighters.
+[Requires legislative committees to identify a revenue source for certain public safety programs.]
+Establishes grant programs for emergencies.
+1 A BILL FOR AN ACT
+2 Relating to emergency management; creating new provisions; and amending ORS 401.114, 401.913
+3 and 409.760.
+4 Be It Enacted by the People of the State of Oregon:
+5
+6 STATEWIDE REGIONAL TRAINING OFFICE
+7
+8 SECTION 1. (1) The Statewide Regional Training Office is established within the Depart-
+9 ment of Public Safety Standards and Training.
+10 (2) The office is under the supervision and control of the Statewide Regional Training
+11 Officer, who is responsible for the performance of the duties, functions and powers of the
+12 office.
+13 (3) The Director of the Department of Public Safety Standards and Training shall appoint
+14 the Statewide Regional Training Officer, who holds office at the pleasure of the director.
+15
+16 PROVISIONS RELATED TO THE STATE RESILIENCE OFFICER
+17
+18 SECTION 2. (1) The State Resilience Officer shall identify state agencies with responsi-
+19 bility for one or more emergency support functions identified by the Federal Emergency
+20 Management Agency.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 235
+B-Eng. HB 4121
+1 (2) Each state agency identified under subsection (1) of this section shall designate an
+2 employee of the state agency as the Emergency Management Responsible Officer. The
+3 Emergency Management Responsible Officer shall act as the primary liaison between the
+4 state agency and state authorities related to emergency management, including the Oregon
+5 Department of Emergency Management.
+6 SECTION 3. ORS 401.913 is amended to read:
+7 401.913. (1) The office of State Resilience Officer is created in the office of the Governor. The
+8 office of State Resilience Officer shall direct, implement and coordinate hazard safety and resilience
+9 goal setting and state agency planning and preparation to improve hazard safety and resilience, in-
+10 cluding but not limited to planning and preparation for safety and resilience during and after
+11 earthquake, tsunami, wildfire, flooding and other natural or manmade events.
+12 (2) The State Resilience Officer shall lead statewide efforts to implement the Oregon Resilience
+13 Plan, the Natural Hazard Mitigation Plan and other resilience plans adopted by the state.
+14 (3) The State Resilience Officer shall facilitate policy standardization among state agen-
+15 cies, prioritize investments for improving resilience posture and provide regular reports on
+16 state agency resilience policy compliance, organizational preparedness, continuity of
+17 governance procedures and measures of emergency readiness. Such reports may be made to
+18 the Governor, appropriate committees of the Legislative Assembly or relevant public safety
+19 advisory boards and commissions.
+20 [(3)] (4) The State Resilience Officer shall lead executive branch agencies in continuity of op-
+21 erations planning and continuity of government planning.
+22 [(4)] (5) The Governor shall appoint an individual to serve as the State Resilience Officer, sub-
+23 ject to confirmation by the Senate pursuant to Article III, section 4, of the Oregon Constitution.
+24 [(5)] (6) The legislative branch of government and the judicial branch of government shall each
+25 select an individual to monitor the effectiveness of hazard safety and resilience planning in their
+26 branch.
+27
+28 OREGON DISASTER RECOVERY AUTHORITY
+29
+30 SECTION 4. (1) The Oregon Disaster Recovery Authority is established as an advisory
+31 group within the Office of the Governor to direct emergency recovery in Oregon. The Gov-
+32 ernor shall determine the membership of the authority, subject to subsection (2) of this
+33 section.
+34 (2) The Governor shall appoint at least eight individuals to serve as members of the au-
+35 thority from among state agency leadership, local emergency managers and others with ex-
+36 pertise in emergency management. The Governor shall seek the advice of the Oregon
+37 Homeland Security Council when making appointments to the authority. Members of the
+38 authority serve at the pleasure of the Governor.
+39 (3) If the Governor declares a state of emergency under ORS 401.165, the Governor may
+40 activate the authority. The authority remains activated until deactivated by order of the
+41 Governor. The authority may remain activated notwithstanding the termination of a state
+42 of emergency.
+43 (4) When activated, the authority shall:
+44 (a) Coordinate initial crisis services;
+45 (b) Coordinate recovery and mitigation efforts throughout this state, using a framework
+[2]
+B-Eng. HB 4121
+1 aligned with emergency support functions as defined by the Federal Emergency Management
+2 Agency; and
+3 (c) Coordinate the provision of emergency funding and other aid to local governments or
+4 private entities.
+5 (5) A majority of the members of the authority constitutes a quorum for the transaction
+6 of business.
+7 (6) Official action by the authority requires the approval of a majority of the members
+8 of the authority.
+9 (7) The Governor shall appoint one of the members of the authority to serve as chair-
+10 person.
+11 (8) The authority shall meet at times and places specified by the call of the Governor or
+12 the chairperson. The authority may meet at times when the authority is not activated to
+13 maintain readiness in the event of an emergency.
+14 (9) The authority may adopt rules necessary for the operation of the authority.
+15 (10) The Office of the Governor shall provide staff support to the authority.
+16 (11) Members of the authority are not entitled to compensation or reimbursement for
+17 expenses and serve as volunteers on the authority.
+18 (12) All agencies of state government, as defined in ORS 174.111, are directed to assist
+19 the authority in the performance of the duties of the authority and, to the extent permitted
+20 by laws relating to confidentiality, to furnish information and advice the members of the
+21 authority consider necessary to perform their duties.
+22 SECTION 5. (1) If the Oregon Disaster Recovery Authority established under section 4
+23 of this 2026 Act is activated pursuant to a declaration of emergency, the Governor may hire
+24 additional state agency personnel under this section.
+25 (2) Additional personnel hired under this section:
+26 (a) May be placed at any state agency, including the Office of the Governor;
+27 (b) Must perform duties related to the emergency, which may include taking over duties
+28 previously performed by other state agency personnel who have been reassigned to
+29 emergency-related tasks; and
+30 (c) Must have their employment terminated no later than the date the authority is de-
+31 activated under section 4 of this 2026 Act.
+32 (3) Notwithstanding any other law relating to state government employment, additional
+33 personnel hired under this section may be recruited and selected through any means the
+34 Governor deems appropriate.
+35 (4) The Governor’s hiring authority under this section is subject to the availability of
+36 funding. The compensation of additional personnel hired under this section may be paid from
+37 the Oregon Disaster Recovery Authority Fund established under section 6 of this 2026 Act.
+38 SECTION 6. The Oregon Disaster Recovery Authority Fund is established in the State
+39 Treasury, separate and distinct from the General Fund. The Oregon Disaster Recovery Au-
+40 thority Fund consists of moneys appropriated, allocated, deposited or transferred to the fund
+41 by the Legislative Assembly or otherwise. Moneys in the fund are continuously appropriated
+42 to the Office of the Governor to pay for compensation for personnel hired under section 5
+43 of this 2026 Act.
+44
+45 OREGON PREPAREDNESS GRANT ACCOUNT
+[3]
+B-Eng. HB 4121
+1 SECTION 7. The Oregon Preparedness Grant Account is established in the State Treas-
+2 ury, separate and distinct from the General Fund. The Oregon Preparedness Grant Account
+3 consists of moneys appropriated, allocated, deposited or transferred to the fund by the Leg-
+4 islative Assembly or otherwise. Moneys in the account are continuously appropriated to the
+5 Oregon Department of Emergency Management for providing grants to local governments,
+6 as defined in ORS 174.116, and tribal governments to support their compliance with ORS
+7 401.305 (2).
+8
+9 ODEM DUTIES
+10
+11 SECTION 8. ORS 401.114 is amended to read:
+12 401.114. The Oregon Department of Emergency Management shall carry out the following func-
+13 tions:
+14 (1) Coordinate emergency management functions on a regional basis within this state;
+15 (2) Coordinate training related to emergency response on a regional basis within this state;
+16 [and]
+17 (3) Develop and carry out emergency preparedness exercises on a statewide basis[.];
+18 (4) Oversee collaboration, cooperation and coordination between the state and organiza-
+19 tions involved in the emergency stockpile plan described in ORS 401.111, the emergency
+20 preparedness equipment grant program described in ORS 401.551 and other stockpile or
+21 emergency preparedness programs carried out by state agencies;
+22 (5) Take actions as necessary to ensure that supplies, equipment and other materials are
+23 appropriately staged in preparation for emergencies; and
+24 (6) Develop and maintain an inventory plan for the sustainable procurement, rotation and
+25 management of emergency preparedness assets.
+26
+27 RESILIENCE HUBS AND NETWORKS
+28
+29 SECTION 9. ORS 409.760 is amended to read:
+30 409.760. (1) As used in this section:
+31 (a) “Resilience Hub” means a physical facility that is created, operated, managed or supported
+32 by one or more local residents, local governments, tribal governments, public schools, community-
+33 based organizations, faith-based organizations, nonprofit organizations, [or] nongovernmental organ-
+34 izations or any other groups or entities located in Oregon, and that:
+35 (A) Supports the needs of community members or tribal communities, facilitates gathering and
+36 communication, distributes resources and otherwise enhances quality of life within a community;
+37 (B) Serves as a central point for gathering, information sharing, and coordination in response
+38 to a disruption in the community;
+39 (C) Enhances the ability of a community to respond to and recover from a disruption in a com-
+40 munity;
+41 (D) Is positioned, operated and resourced on a day-to-day basis, during a disruption and during
+42 recovery, to provide community resources, including but not limited to food, water, information
+43 exchange, electronic charging stations, basic medical supplies and equipment proportionate to the
+44 size of the community’s population and needs;
+45 (E) Supports community cache sites and other support for community members who shelter in
+[4]
+B-Eng. HB 4121
+1 place;
+2 (F) Can provide child care, training, food distribution and other services that can help a com-
+3 munity respond to unmet [social] needs to prepare for, respond to and recover from adverse events,
+4 emergencies or disasters;
+5 (G) Can provide, or can be retrofitted to provide, heating, cooling, air filtration and weather
+6 protection; and
+7 (H) Accommodates individuals with accessibility needs.
+8 (b) “Resilience Network” means an association of facilities, organizations, resource providers
+9 or service providers [outside of a physical Resilience Hub facility that collectively serve the purposes
+10 of a Resilience Hub] that collectively supports community members to prepare for, adapt to
+11 or respond to social, emotional and physical disruption generated by ongoing climate change
+12 or other causes, and during and after an adverse event, emergency or disaster.
+13 (2) The Department of Human Services shall, in consultation with the State Department of En-
+14 ergy and the Oregon Health Authority, provide grants, [support and technical assistance for] equip-
+15 ment, technical assistance, contracted services and any other type of support to individuals
+16 or organizations located in Oregon for creating or sustaining Resilience Hubs and Resilience
+17 Networks in Oregon. The Department of Human Services shall award:
+18 (a) Grants for expenses related to planning and organizing Resilience Hubs and Resilience
+19 Networks;
+20 (b) Grants to support and expand development and operation of Resilience Hubs and Resilience
+21 Networks to ensure that physical facilities can provide protection from extreme weather, can
+22 maintain power and climate during power outages, have auxiliary communications capabilities and
+23 are resilient following earthquakes, fires, tornadoes, floods, other extreme weather events and other
+24 potential adverse events, emergencies or disasters[, emergencies or incidents]; and
+25 (c) Grants for resources and services needed by communities to otherwise prepare for and re-
+26 spond to adverse events, emergencies or disasters.
+27 (3) Individuals or organizations located in Oregon and serving people in this state may apply
+28 for grants by submitting an application that must include:
+29 (a) A description of the purposes for which grant moneys will be expended, including a de-
+30 scription of the services to be provided to the community by the Resilience Hub or Resilience
+31 Network;
+32 (b) A plan for implementing specific strategies to build resilience in a community;
+33 (c) A description of additional resources available for purposes of the Resilience Hub or
+34 Resilience Network;
+35 (d) A description of the project’s ability to serve vulnerable populations and communities tradi-
+36 tionally underrepresented in the public process, including communities of color, communities expe-
+37 riencing lower incomes, tribal communities, rural communities, coastal communities, communities
+38 with limited infrastructure, seniors, youth and persons with disabilities; and
+39 (e) Any other information required by the department.
+40 (4) The department shall execute grant agreements with grant recipients obligating recipients
+41 to use grant moneys for purposes specified in the grant agreements. The department, in consultation
+42 with the State Department of Energy and the Oregon Health Authority, shall determine the per-
+43 missible purposes, applicant eligibility requirements, types of awards for a grant and eligible
+44 equipment, technical assistance, services and support under this section based on the needs of
+45 the Resilience Hub or Resilience Network. The department shall determine the needs of the
+[5]
+B-Eng. HB 4121
+1 Resilience Hub or Resilience Network in consultation with the community, including populations
+2 described in subsection (3)(d) of this section, within the locality in which the Resilience Hub or
+3 Resilience Network operates.
+4 (5) The Department of Human Services shall adopt rules necessary for the administration of this
+5 section, including specifying the form and contents of an application for a grant under this section.
+6
+7 OVERNIGHT TRAINING ACTIVITIES
+8
+9 SECTION 10. Notwithstanding any other provision of state or local law, a facility that is
+10 used for emergency preparedness, response or recovery and that receives state funding is
+11 authorized to host overnight training activities.
+12
+13 COUNTY AUTHORITY TO WAIVE CIVIL PENALTIES
+14
+15 SECTION 11. A county governing body may, by order or resolution, waive a civil penalty
+16 imposed by the Oregon Health Authority or a local health authority under ORS 624.992 if the
+17 civil penalty is imposed for a violation that occurred during a state of emergency declared
+18 under ORS 401.165.
+19
+20 DEPARTMENT OF THE STATE FIRE MARSHAL
+21
+22 SECTION 12. The Department of the State Fire Marshal shall conduct a study of health
+23 coverage disparities between paid and volunteer firefighters. The department shall submit a
+24 report in the manner provided by ORS 192.245, and may include recommendations for legis-
+25 lation, to the interim committees of the Legislative Assembly related to emergency man-
+26 agement no later than September 15, 2027.
+27 SECTION 13. Section 12 of this 2026 Act is repealed on January 2, 2028.
+28
+29 FINGERPRINTING BY ODEM
+30
+31 SECTION 14. The Oregon Department of Emergency Management shall require the fin-
+32 gerprints of the following persons for the purpose of requesting a state or nationwide crim-
+33 inal records check under ORS 181A.195:
+34 (1) Persons employed or applying for employment by the department; and
+35 (2) Persons who provide or seek to provide services to the department as a contractor
+36 or subcontractor.
+37
+38 PUBLIC AND INDIVIDUAL ASSISTANCE PROGRAMS
+39
+40 SECTION 15. Sections 16 to 19 of this 2026 Act are added to and made a part of ORS
+41 chapter 401.
+42 SECTION 16. (1) The Oregon Department of Emergency Management shall establish and
+43 administer a state infrastructure emergency recovery grant program, to be known as the
+44 Oregon Public Assistance Grant Program, to issue grants to qualified recipients, subject to
+45 available funding.
+[6]
+B-Eng. HB 4121
+1 (2) Grants under the program must be used to pay for work performed before, during or
+2 after an emergency to protect public health, safety or property, including, without limitation,
+3 debris removal and work to protect or restore public services or public infrastructure.
+4 (3) The Governor may activate the program if:
+5 (a) The Governor determines that an emergency has occurred or is imminent and finds
+6 that assistance from the state is warranted; and
+7 (b) The department recommends that the program be activated.
+8 (4) The Governor shall inactivate the program when the Governor finds that assistance
+9 from the state is no longer warranted.
+10 (5) While the program is active, the department may issue grants to qualified recipients
+11 pursuant to requests from counties or tribal entities. A request on behalf of a city may be
+12 made by the county in which a geographic majority of the city lies. Requests must be in
+13 writing and must include the following information:
+14 (a) Confirmation that the requester has taken appropriate action under the local emer-
+15 gency plan;
+16 (b) An estimate of the amount and severity of damages and losses and a description of
+17 the impact of the emergency on the public and private sectors;
+18 (c) A description of the nature and amount of local resources which have been or will
+19 be committed to alleviate the results of the emergency;
+20 (d) A preliminary estimate of the types and amount of supplementary state emergency
+21 assistance needed; and
+22 (e) A certification by the requester that the obligations and expenditures for the current
+23 emergency will comply with all applicable cost sharing requirements agreed between the de-
+24 partment and the requester.
+25 (6) The department may adopt rules to administer and implement the provisions of this
+26 section, including rules governing eligibility requirements, the form and manner of requests
+27 and evaluation of requests by the department.
+28 (7) As used in this section, “qualified recipient” means:
+29 (a) A state agency;
+30 (b) A local government;
+31 (c) A federally recognized Indian tribe in Oregon;
+32 (d) A school district or education service district; and
+33 (e) A nonprofit organization that provides critical services or essential social services,
+34 such as a hospital, long term care facility, school, community center, food assistance pro-
+35 gram or shelter.
+36 SECTION 17. The Oregon Public Assistance Grant Program Account is established in the
+37 State Treasury, separate and distinct from the General Fund. Interest earned by the account
+38 must be credited to the account. The account consists of moneys appropriated, allocated,
+39 deposited or transferred to the account by the Legislative Assembly or otherwise and inter-
+40 est earned on moneys in the account. The moneys in the account are continuously appro-
+41 priated to the Oregon Department of Emergency Management to carry out the Oregon Public
+42 Assistance Grant Program described in section 16 of this 2026 Act. The department shall
+43 ensure that no more than 10 percent of the moneys in the account are used to pay costs of
+44 coordination and distribution of assistance under the program.
+45 SECTION 18. (1) The Department of Human Services shall establish and administer an
+[7]
+B-Eng. HB 4121
+1 individual grant program, to be known as the Oregon Individual Assistance Grant Program,
+2 to issue grants to address critical emergency-related needs of qualified individuals, subject
+3 to available funding.
+4 (2) The Governor may activate the program if:
+5 (a) The Oregon Department of Emergency Management recommends that the program
+6 be activated, the Governor determines that an emergency has occurred or is imminent and
+7 the Governor finds that assistance from the state is warranted; or
+8 (b) The Governor has declared an emergency under ORS 401.165.
+9 (3) The Governor shall inactivate the program when the Governor finds that assistance
+10 from the state is no longer warranted.
+11 (4) While the program is active, the Department of Human Services may issue grants
+12 pursuant to requests from counties or tribal entities. A request on behalf of a city may be
+13 made by the county in which a geographic majority of the city lies. Requests must be in
+14 writing and must include the following information:
+15 (a) Confirmation that the requester has taken appropriate action under the local emer-
+16 gency plan;
+17 (b) An estimate of the amount and severity of damages and losses and a description of
+18 the impact of the emergency on individuals and households;
+19 (c) A description of the nature and amount of local resources which have been or will
+20 be committed to alleviate the results of the emergency; and
+21 (d) A preliminary estimate of the types and amount of supplementary state emergency
+22 assistance needed.
+23 (5) Grants under the program may be used only to pay for:
+24 (a) The provision of services to qualified individuals for critical emergency-related needs,
+25 which may include, without limitation:
+26 (A) Temporary rental assistance;
+27 (B) Hazard mitigation assistance;
+28 (C) Repair or replacement of owner-occupied homes that serve as a primary residence,
+29 including repair or replacement of privately owned access routes;
+30 (D) Assistance with immediate needs;
+31 (E) Essential personal property assistance;
+32 (F) Assistance with other serious needs that are not covered by insurance; and
+33 (G) Other critical emergency recovery services as approved by the Oregon Department
+34 of Emergency Management; and
+35 (b) Agreements with local governments, tribal entities or disaster recovery organizations
+36 for the delivery of services described in paragraph (a) of this subsection, including payments
+37 for staffing or other administrative needs.
+38 (6) Assistance to individuals may be in the form of direct financial assistance or pay-
+39 ments to another entity on behalf of individuals.
+40 (7) The Department of Human Services, in consultation with the Oregon Department of
+41 Emergency Management, may adopt rules to administer and implement the provisions of this
+42 section.
+43 (8) The Oregon Department of Emergency Management, in consultation with the De-
+44 partment of Human Services, shall update the statewide emergency management plan pre-
+45 pared under ORS 401.052 to incorporate the Oregon Individual Assistance Grant Program
+[8]
+B-Eng. HB 4121
+1 into statewide disaster response and recovery planning. The plan must include, without lim-
+2 itation, provisions for equitable distribution of assistance, coordination with local govern-
+3 ments and community-based organizations, and integration with federal recovery programs
+4 when applicable.
+5 (9) As used in this section:
+6 (a) “Hazard mitigation” means actions taken to reduce impacts of future emergencies.
+7 (b) “Immediate need” means:
+8 (A) A life-saving or life-sustaining item or activity that is essential to prevent, mitigate
+9 or overcome an adverse condition caused by an emergency; and
+10 (B) Other equipment that is essential for daily household needs.
+11 (c) “Qualified individual” means:
+12 (A) An individual who is displaced by an emergency from the individual’s primary resi-
+13 dence;
+14 (B) An individual whose primary residence is rendered uninhabitable by an emergency;
+15 or
+16 (C) An individual with a disability whose primary residence is rendered inaccessible or
+17 uninhabitable to the individual as a result of damage caused by an emergency.
+18 SECTION 19. The Oregon Individual Assistance Grant Program Account is established in
+19 the State Treasury, separate and distinct from the General Fund. Interest earned by the
+20 account must be credited to the account. The account consists of moneys appropriated, al-
+21 located, deposited or transferred to the account by the Legislative Assembly or otherwise
+22 and interest earned on moneys in the account. The moneys in the account are continuously
+23 appropriated to the Oregon Department of Emergency Management. The department may
+24 make moneys in the account available to the Department of Human Services to carry out
+25 the Oregon Individual Assistance Grant Program described in section 18 of this 2026 Act.
+26
+27 CAPTIONS
+28
+29 SECTION 20. The unit captions used in this 2026 Act are provided only for the conven-
+30 ience of the reader and do not become part of the statutory law of this state or express any
+31 legislative intent in the enactment of this 2026 Act.
+32
+[9]
+[DELETED:  B 4 b R E G J R A C G c b t L A I i a e b s o t e f o t T A c n s a s a c l t i e [] a t c e p o a a.[] b d o t O D o E M r t m c t w c c p r t f s f d t e m c n p a a O 4 4d4.( T o i u t s a c o t S R T t p o t d f a p o t.( f o o m e s f i b t F EtA:M[]]
+[DELETED:  E s a i u s ( o t s s d a o t s a a t E M R O T M R O s a a t p l b t ( T o o S R b n l t p a p f s a r d a a a r p c o p c o] T S R O s l e b a i c o o]] a i t m t e o h s a r p i t 4.( T O D R A i e a a a s d t m o t a s t s ( o t i e m T G s s t a o t O S C w m a t t a M o t t a T a r a u d b o o t T a m r a n t t o a sfe]
+[DELETED:  O a t a t s a c c T a m m a t w t a i n a t M o t a a n e t c o r f d i O 1 a d t a l r t c t f i a a t m o t.( R A e u s  p b o s a p w h b r t h u t s m b r a s t a m t T G h a u t s i s t t a o 6.T O D R A F i e i t S h u s ]
+[DELETED: .T D o E M f d i O 1 a t g t s t c w O5(MD C t r t e r o a r b wnt s[] i i t e s p d i O 4 t e e g p d i O 4 a o s o o o m l r l g t g p s c[] S t n o c m o S a a c p f g i s a c i r t p c r i b n l t f w i e c s b m s a e p t t c s a o s f c m w s i]
+[DELETED:  C p c c t f d a o[] C p o c b r t p h c a f a w;a “ N m a a o f o r p a R H t c[] G f e r t p a o R H a R t e t p f c p p f e w c c c a[] G f r a s n b c t o p f a A d o t p f w g m w b e i a d A d o a r a f p o t R H oeN u i t p p l i t c r c c c c T d s e g a w g r o r t S D o E a t O H A s d t p p a e r t o a f a g a e R H o R N T d s d t n o t]
+[DELETED:  H o R N i c w t c i p i s ( o t s w t l i w t R H o.N f e p r o r a t r s f i.A p i.T t t i c o t L A r t e m.S.T d a a crs 1.S 1 t 1 o t 2 A a a t a m a p o Or4.( a s i e r g p t b k a tef]
+[DELETED:  b t c i w a g m o t c l.R A d o t n a a o l r w s s e A n o t p c s o e s s a a h l t c f.T b c t t a T a c o m a a t a T m i t a a c a G P d i s 1 o t 2 A T d s 1.( T D o H S s]
+[DELETED:  i g t a c e o E M r t t p W t p i a t D o H S m i g b t c i w a g m o t c l R m b iyp A d o t n a a o l r w s s een R o r t O D A t i m b i t f o d f a o p T O D o E M i c w t D e m p p u O 4 t i t O I A G P]
+[DELETED:  p f e d o a c w l gna A i p r i r u b a e A i w a d w p r i r i o.T S T s a d f t G F I e b t d o t t t a b t L A o o t t O D o E M T d m m i t a a t t D o.T]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+B-Engrossed
+House Bill 4121
+Ordered by the House March 4
+Including House Amendments dated February 16 and March 4
+Sponsored by Representatives EVANS, GOMBERG, JAVADI; Representatives ANDERSEN, CHAICHI, GAMBA,
+NELSON, PHAM H, RIEKE SMITH (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act creates new systems and structures and changes law to improve emergency
+response in the state. (Flesch Readability Score: 65.1).
+Creates [statewide emergency preparedness offices and authorities] authority to coordinate
+emergency management. [Authorizes bonding for public safety projects.] Requires state agencies to
+designate liaisons for emergency management.
+Imposes duties on the Oregon Department of Emergency Management related to management
+of emergency preparedness assets.
+Modifies the definitions of and grant requirements for Resilience Hubs and Resilience Networks.
+Authorizes certain training facilities to host overnight training activities. Requires the Oregon
+Department of Emergency Management to obtain fingerprints of employees and contractors.
+Authorizes counties to waive certain civil penalties related to food service facilities during
+emergencies.
+Requires the Department of the State Fire Marshal to study health coverage for firefighters.
+[Requires legislative committees to identify a revenue source for certain public safety programs.]
+Establishes grant programs for emergencies.
+1 A BILL FOR AN ACT
+2 Relating to emergency management; creating new provisions; and amending ORS 401.114, 401.913
+3 and 409.760.
+4 Be It Enacted by the People of the State of Oregon:
+5
+6 STATEWIDE REGIONAL TRAINING OFFICE
+7
+8 SECTION 1. (1) The Statewide Regional Training Office is established within the Depart-
+9 ment of Public Safety Standards and Training.
+10 (2) The office is under the supervision and control of the Statewide Regional Training
+11 Officer, who is responsible for the performance of the duties, functions and powers of the
+12 office.
+13 (3) The Director of the Department of Public Safety Standards and Training shall appoint
+14 the Statewide Regional Training Officer, who holds office at the pleasure of the director.
+15
+16 PROVISIONS RELATED TO THE STATE RESILIENCE OFFICER
+17
+18 SECTION 2. (1) The State Resilience Officer shall identify state agencies with responsi-
+19 bility for one or more emergency support functions identified by the Federal Emergency
+20 Management Agency.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 235
+
+B-Eng. HB 4121
+1 (2) Each state agency identified under subsection (1) of this section shall designate an
+2 employee of the state agency as the Emergency Management Responsible Officer. The
+3 Emergency Management Responsible Officer shall act as the primary liaison between the
+4 state agency and state authorities related to emergency management, including the Oregon
+5 Department of Emergency Management.
+6 SECTION 3. ORS 401.913 is amended to read:
+7 401.913. (1) The office of State Resilience Officer is created in the office of the Governor. The
+8 office of State Resilience Officer shall direct, implement and coordinate hazard safety and resilience
+9 goal setting and state agency planning and preparation to improve hazard safety and resilience, in-
+10 cluding but not limited to planning and preparation for safety and resilience during and after
+11 earthquake, tsunami, wildfire, flooding and other natural or manmade events.
+12 (2) The State Resilience Officer shall lead statewide efforts to implement the Oregon Resilience
+13 Plan, the Natural Hazard Mitigation Plan and other resilience plans adopted by the state.
+14 (3) The State Resilience Officer shall facilitate policy standardization among state agen-
+15 cies, prioritize investments for improving resilience posture and provide regular reports on
+16 state agency resilience policy compliance, organizational preparedness, continuity of
+17 governance procedures and measures of emergency readiness. Such reports may be made to
+18 the Governor, appropriate committees of the Legislative Assembly or relevant public safety
+19 advisory boards and commissions.
+20 [(3)] (4) The State Resilience Officer shall lead executive branch agencies in continuity of op-
+21 erations planning and continuity of government planning.
+22 [(4)] (5) The Governor shall appoint an individual to serve as the State Resilience Officer, sub-
+23 ject to confirmation by the Senate pursuant to Article III, section 4, of the Oregon Constitution.
+24 [(5)] (6) The legislative branch of government and the judicial branch of government shall each
+25 select an individual to monitor the effectiveness of hazard safety and resilience planning in their
+26 branch.
+27
+28 OREGON DISASTER RECOVERY AUTHORITY
+29
+30 SECTION 4. (1) The Oregon Disaster Recovery Authority is established as an advisory
+31 group within the Office of the Governor to direct emergency recovery in Oregon. The Gov-
+32 ernor shall determine the membership of the authority, subject to subsection (2) of this
+33 section.
+34 (2) The Governor shall appoint at least eight individuals to serve as members of the au-
+35 thority from among state agency leadership, local emergency managers and others with ex-
+36 pertise in emergency management. The Governor shall seek the advice of the Oregon
+37 Homeland Security Council when making appointments to the authority. Members of the
+38 authority serve at the pleasure of the Governor.
+39 (3) If the Governor declares a state of emergency under ORS 401.165, the Governor may
+40 activate the authority. The authority remains activated until deactivated by order of the
+41 Governor. The authority may remain activated notwithstanding the termination of a state
+42 of emergency.
+43 (4) When activated, the authority shall:
+44 (a) Coordinate initial crisis services;
+45 (b) Coordinate recovery and mitigation efforts throughout this state, using a framework
+[2]
+
+B-Eng. HB 4121
+1 aligned with emergency support functions as defined by the Federal Emergency Management
+2 Agency; and
+3 (c) Coordinate the provision of emergency funding and other aid to local governments or
+4 private entities.
+5 (5) A majority of the members of the authority constitutes a quorum for the transaction
+6 of business.
+7 (6) Official action by the authority requires the approval of a majority of the members
+8 of the authority.
+9 (7) The Governor shall appoint one of the members of the authority to serve as chair-
+10 person.
+11 (8) The authority shall meet at times and places specified by the call of the Governor or
+12 the chairperson. The authority may meet at times when the authority is not activated to
+13 maintain readiness in the event of an emergency.
+14 (9) The authority may adopt rules necessary for the operation of the authority.
+15 (10) The Office of the Governor shall provide staff support to the authority.
+16 (11) Members of the authority are not entitled to compensation or reimbursement for
+17 expenses and serve as volunteers on the authority.
+18 (12) All agencies of state government, as defined in ORS 174.111, are directed to assist
+19 the authority in the performance of the duties of the authority and, to the extent permitted
+20 by laws relating to confidentiality, to furnish information and advice the members of the
+21 authority consider necessary to perform their duties.
+22 SECTION 5. (1) If the Oregon Disaster Recovery Authority established under section 4
+23 of this 2026 Act is activated pursuant to a declaration of emergency, the Governor may hire
+24 additional state agency personnel under this section.
+25 (2) Additional personnel hired under this section:
+26 (a) May be placed at any state agency, including the Office of the Governor;
+27 (b) Must perform duties related to the emergency, which may include taking over duties
+28 previously performed by other state agency personnel who have been reassigned to
+29 emergency-related tasks; and
+30 (c) Must have their employment terminated no later than the date the authority is de-
+31 activated under section 4 of this 2026 Act.
+32 (3) Notwithstanding any other law relating to state government employment, additional
+33 personnel hired under this section may be recruited and selected through any means the
+34 Governor deems appropriate.
+35 (4) The Governor’s hiring authority under this section is subject to the availability of
+36 funding. The compensation of additional personnel hired under this section may be paid from
+37 the Oregon Disaster Recovery Authority Fund established under section 6 of this 2026 Act.
+38 SECTION 6. The Oregon Disaster Recovery Authority Fund is established in the State
+39 Treasury, separate and distinct from the General Fund. The Oregon Disaster Recovery Au-
+40 thority Fund consists of moneys appropriated, allocated, deposited or transferred to the fund
+41 by the Legislative Assembly or otherwise. Moneys in the fund are continuously appropriated
+42 to the Office of the Governor to pay for compensation for personnel hired under section 5
+43 of this 2026 Act.
+44
+45 OREGON PREPAREDNESS GRANT ACCOUNT
+[3]
+
+B-Eng. HB 4121
+1 SECTION 7. The Oregon Preparedness Grant Account is established in the State Treas-
+2 ury, separate and distinct from the General Fund. The Oregon Preparedness Grant Account
+3 consists of moneys appropriated, allocated, deposited or transferred to the fund by the Leg-
+4 islative Assembly or otherwise. Moneys in the account are continuously appropriated to the
+5 Oregon Department of Emergency Management for providing grants to local governments,
+6 as defined in ORS 174.116, and tribal governments to support their compliance with ORS
+7 401.305 (2).
+8
+9 ODEM DUTIES
+10
+11 SECTION 8. ORS 401.114 is amended to read:
+12 401.114. The Oregon Department of Emergency Management shall carry out the following func-
+13 tions:
+14 (1) Coordinate emergency management functions on a regional basis within this state;
+15 (2) Coordinate training related to emergency response on a regional basis within this state;
+16 [and]
+17 (3) Develop and carry out emergency preparedness exercises on a statewide basis[.];
+18 (4) Oversee collaboration, cooperation and coordination between the state and organiza-
+19 tions involved in the emergency stockpile plan described in ORS 401.111, the emergency
+20 preparedness equipment grant program described in ORS 401.551 and other stockpile or
+21 emergency preparedness programs carried out by state agencies;
+22 (5) Take actions as necessary to ensure that supplies, equipment and other materials are
+23 appropriately staged in preparation for emergencies; and
+24 (6) Develop and maintain an inventory plan for the sustainable procurement, rotation and
+25 management of emergency preparedness assets.
+26
+27 RESILIENCE HUBS AND NETWORKS
+28
+29 SECTION 9. ORS 409.760 is amended to read:
+30 409.760. (1) As used in this section:
+31 (a) “Resilience Hub” means a physical facility that is created, operated, managed or supported
+32 by one or more local residents, local governments, tribal governments, public schools, community-
+33 based organizations, faith-based organizations, nonprofit organizations, [or] nongovernmental organ-
+34 izations or any other groups or entities located in Oregon, and that:
+35 (A) Supports the needs of community members or tribal communities, facilitates gathering and
+36 communication, distributes resources and otherwise enhances quality of life within a community;
+37 (B) Serves as a central point for gathering, information sharing, and coordination in response
+38 to a disruption in the community;
+39 (C) Enhances the ability of a community to respond to and recover from a disruption in a com-
+40 munity;
+41 (D) Is positioned, operated and resourced on a day-to-day basis, during a disruption and during
+42 recovery, to provide community resources, including but not limited to food, water, information
+43 exchange, electronic charging stations, basic medical supplies and equipment proportionate to the
+44 size of the community’s population and needs;
+45 (E) Supports community cache sites and other support for community members who shelter in
+[4]
+
+B-Eng. HB 4121
+1 place;
+2 (F) Can provide child care, training, food distribution and other services that can help a com-
+3 munity respond to unmet [social] needs to prepare for, respond to and recover from adverse events,
+4 emergencies or disasters;
+5 (G) Can provide, or can be retrofitted to provide, heating, cooling, air filtration and weather
+6 protection; and
+7 (H) Accommodates individuals with accessibility needs.
+8 (b) “Resilience Network” means an association of facilities, organizations, resource providers
+9 or service providers [outside of a physical Resilience Hub facility that collectively serve the purposes
+10 of a Resilience Hub] that collectively supports community members to prepare for, adapt to
+11 or respond to social, emotional and physical disruption generated by ongoing climate change
+12 or other causes, and during and after an adverse event, emergency or disaster.
+13 (2) The Department of Human Services shall, in consultation with the State Department of En-
+14 ergy and the Oregon Health Authority, provide grants, [support and technical assistance for] equip-
+15 ment, technical assistance, contracted services and any other type of support to individuals
+16 or organizations located in Oregon for creating or sustaining Resilience Hubs and Resilience
+17 Networks in Oregon. The Department of Human Services shall award:
+18 (a) Grants for expenses related to planning and organizing Resilience Hubs and Resilience
+19 Networks;
+20 (b) Grants to support and expand development and operation of Resilience Hubs and Resilience
+21 Networks to ensure that physical facilities can provide protection from extreme weather, can
+22 maintain power and climate during power outages, have auxiliary communications capabilities and
+23 are resilient following earthquakes, fires, tornadoes, floods, other extreme weather events and other
+24 potential adverse events, emergencies or disasters[, emergencies or incidents]; and
+25 (c) Grants for resources and services needed by communities to otherwise prepare for and re-
+26 spond to adverse events, emergencies or disasters.
+27 (3) Individuals or organizations located in Oregon and serving people in this state may apply
+28 for grants by submitting an application that must include:
+29 (a) A description of the purposes for which grant moneys will be expended, including a de-
+30 scription of the services to be provided to the community by the Resilience Hub or Resilience
+31 Network;
+32 (b) A plan for implementing specific strategies to build resilience in a community;
+33 (c) A description of additional resources available for purposes of the Resilience Hub or
+34 Resilience Network;
+35 (d) A description of the project’s ability to serve vulnerable populations and communities tradi-
+36 tionally underrepresented in the public process, including communities of color, communities expe-
+37 riencing lower incomes, tribal communities, rural communities, coastal communities, communities
+38 with limited infrastructure, seniors, youth and persons with disabilities; and
+39 (e) Any other information required by the department.
+40 (4) The department shall execute grant agreements with grant recipients obligating recipients
+41 to use grant moneys for purposes specified in the grant agreements. The department, in consultation
+42 with the State Department of Energy and the Oregon Health Authority, shall determine the per-
+43 missible purposes, applicant eligibility requirements, types of awards for a grant and eligible
+44 equipment, technical assistance, services and support under this section based on the needs of
+45 the Resilience Hub or Resilience Network. The department shall determine the needs of the
+[5]
+
+B-Eng. HB 4121
+1 Resilience Hub or Resilience Network in consultation with the community, including populations
+2 described in subsection (3)(d) of this section, within the locality in which the Resilience Hub or
+3 Resilience Network operates.
+4 (5) The Department of Human Services shall adopt rules necessary for the administration of this
+5 section, including specifying the form and contents of an application for a grant under this section.
+6
+7 OVERNIGHT TRAINING ACTIVITIES
+8
+9 SECTION 10. Notwithstanding any other provision of state or local law, a facility that is
+10 used for emergency preparedness, response or recovery and that receives state funding is
+11 authorized to host overnight training activities.
+12
+13 COUNTY AUTHORITY TO WAIVE CIVIL PENALTIES
+14
+15 SECTION 11. A county governing body may, by order or resolution, waive a civil penalty
+16 imposed by the Oregon Health Authority or a local health authority under ORS 624.992 if the
+17 civil penalty is imposed for a violation that occurred during a state of emergency declared
+18 under ORS 401.165.
+19
+20 DEPARTMENT OF THE STATE FIRE MARSHAL
+21
+22 SECTION 12. The Department of the State Fire Marshal shall conduct a study of health
+23 coverage disparities between paid and volunteer firefighters. The department shall submit a
+24 report in the manner provided by ORS 192.245, and may include recommendations for legis-
+25 lation, to the interim committees of the Legislative Assembly related to emergency man-
+26 agement no later than September 15, 2027.
+27 SECTION 13. Section 12 of this 2026 Act is repealed on January 2, 2028.
+28
+29 FINGERPRINTING BY ODEM
+30
+31 SECTION 14. The Oregon Department of Emergency Management shall require the fin-
+32 gerprints of the following persons for the purpose of requesting a state or nationwide crim-
+33 inal records check under ORS 181A.195:
+34 (1) Persons employed or applying for employment by the department; and
+35 (2) Persons who provide or seek to provide services to the department as a contractor
+36 or subcontractor.
+37
+38 PUBLIC AND INDIVIDUAL ASSISTANCE PROGRAMS
+39
+40 SECTION 15. Sections 16 to 19 of this 2026 Act are added to and made a part of ORS
+41 chapter 401.
+42 SECTION 16. (1) The Oregon Department of Emergency Management shall establish and
+43 administer a state infrastructure emergency recovery grant program, to be known as the
+44 Oregon Public Assistance Grant Program, to issue grants to qualified recipients, subject to
+45 available funding.
+[6]
+
+B-Eng. HB 4121
+1 (2) Grants under the program must be used to pay for work performed before, during or
+2 after an emergency to protect public health, safety or property, including, without limitation,
+3 debris removal and work to protect or restore public services or public infrastructure.
+4 (3) The Governor may activate the program if:
+5 (a) The Governor determines that an emergency has occurred or is imminent and finds
+6 that assistance from the state is warranted; and
+7 (b) The department recommends that the program be activated.
+8 (4) The Governor shall inactivate the program when the Governor finds that assistance
+9 from the state is no longer warranted.
+10 (5) While the program is active, the department may issue grants to qualified recipients
+11 pursuant to requests from counties or tribal entities. A request on behalf of a city may be
+12 made by the county in which a geographic majority of the city lies. Requests must be in
+13 writing and must include the following information:
+14 (a) Confirmation that the requester has taken appropriate action under the local emer-
+15 gency plan;
+16 (b) An estimate of the amount and severity of damages and losses and a description of
+17 the impact of the emergency on the public and private sectors;
+18 (c) A description of the nature and amount of local resources which have been or will
+19 be committed to alleviate the results of the emergency;
+20 (d) A preliminary estimate of the types and amount of supplementary state emergency
+21 assistance needed; and
+22 (e) A certification by the requester that the obligations and expenditures for the current
+23 emergency will comply with all applicable cost sharing requirements agreed between the de-
+24 partment and the requester.
+25 (6) The department may adopt rules to administer and implement the provisions of this
+26 section, including rules governing eligibility requirements, the form and manner of requests
+27 and evaluation of requests by the department.
+28 (7) As used in this section, “qualified recipient” means:
+29 (a) A state agency;
+30 (b) A local government;
+31 (c) A federally recognized Indian tribe in Oregon;
+32 (d) A school district or education service district; and
+33 (e) A nonprofit organization that provides critical services or essential social services,
+34 such as a hospital, long term care facility, school, community center, food assistance pro-
+35 gram or shelter.
+36 SECTION 17. The Oregon Public Assistance Grant Program Account is established in the
+37 State Treasury, separate and distinct from the General Fund. Interest earned by the account
+38 must be credited to the account. The account consists of moneys appropriated, allocated,
+39 deposited or transferred to the account by the Legislative Assembly or otherwise and inter-
+40 est earned on moneys in the account. The moneys in the account are continuously appro-
+41 priated to the Oregon Department of Emergency Management to carry out the Oregon Public
+42 Assistance Grant Program described in section 16 of this 2026 Act. The department shall
+43 ensure that no more than 10 percent of the moneys in the account are used to pay costs of
+44 coordination and distribution of assistance under the program.
+45 SECTION 18. (1) The Department of Human Services shall establish and administer an
+[7]
+
+B-Eng. HB 4121
+1 individual grant program, to be known as the Oregon Individual Assistance Grant Program,
+2 to issue grants to address critical emergency-related needs of qualified individuals, subject
+3 to available funding.
+4 (2) The Governor may activate the program if:
+5 (a) The Oregon Department of Emergency Management recommends that the program
+6 be activated, the Governor determines that an emergency has occurred or is imminent and
+7 the Governor finds that assistance from the state is warranted; or
+8 (b) The Governor has declared an emergency under ORS 401.165.
+9 (3) The Governor shall inactivate the program when the Governor finds that assistance
+10 from the state is no longer warranted.
+11 (4) While the program is active, the Department of Human Services may issue grants
+12 pursuant to requests from counties or tribal entities. A request on behalf of a city may be
+13 made by the county in which a geographic majority of the city lies. Requests must be in
+14 writing and must include the following information:
+15 (a) Confirmation that the requester has taken appropriate action under the local emer-
+16 gency plan;
+17 (b) An estimate of the amount and severity of damages and losses and a description of
+18 the impact of the emergency on individuals and households;
+19 (c) A description of the nature and amount of local resources which have been or will
+20 be committed to alleviate the results of the emergency; and
+21 (d) A preliminary estimate of the types and amount of supplementary state emergency
+22 assistance needed.
+23 (5) Grants under the program may be used only to pay for:
+24 (a) The provision of services to qualified individuals for critical emergency-related needs,
+25 which may include, without limitation:
+26 (A) Temporary rental assistance;
+27 (B) Hazard mitigation assistance;
+28 (C) Repair or replacement of owner-occupied homes that serve as a primary residence,
+29 including repair or replacement of privately owned access routes;
+30 (D) Assistance with immediate needs;
+31 (E) Essential personal property assistance;
+32 (F) Assistance with other serious needs that are not covered by insurance; and
+33 (G) Other critical emergency recovery services as approved by the Oregon Department
+34 of Emergency Management; and
+35 (b) Agreements with local governments, tribal entities or disaster recovery organizations
+36 for the delivery of services described in paragraph (a) of this subsection, including payments
+37 for staffing or other administrative needs.
+38 (6) Assistance to individuals may be in the form of direct financial assistance or pay-
+39 ments to another entity on behalf of individuals.
+40 (7) The Department of Human Services, in consultation with the Oregon Department of
+41 Emergency Management, may adopt rules to administer and implement the provisions of this
+42 section.
+43 (8) The Oregon Department of Emergency Management, in consultation with the De-
+44 partment of Human Services, shall update the statewide emergency management plan pre-
+45 pared under ORS 401.052 to incorporate the Oregon Individual Assistance Grant Program
+[8]
+
+B-Eng. HB 4121
+1 into statewide disaster response and recovery planning. The plan must include, without lim-
+2 itation, provisions for equitable distribution of assistance, coordination with local govern-
+3 ments and community-based organizations, and integration with federal recovery programs
+4 when applicable.
+5 (9) As used in this section:
+6 (a) “Hazard mitigation” means actions taken to reduce impacts of future emergencies.
+7 (b) “Immediate need” means:
+8 (A) A life-saving or life-sustaining item or activity that is essential to prevent, mitigate
+9 or overcome an adverse condition caused by an emergency; and
+10 (B) Other equipment that is essential for daily household needs.
+11 (c) “Qualified individual” means:
+12 (A) An individual who is displaced by an emergency from the individual’s primary resi-
+13 dence;
+14 (B) An individual whose primary residence is rendered uninhabitable by an emergency;
+15 or
+16 (C) An individual with a disability whose primary residence is rendered inaccessible or
+17 uninhabitable to the individual as a result of damage caused by an emergency.
+18 SECTION 19. The Oregon Individual Assistance Grant Program Account is established in
+19 the State Treasury, separate and distinct from the General Fund. Interest earned by the
+20 account must be credited to the account. The account consists of moneys appropriated, al-
+21 located, deposited or transferred to the account by the Legislative Assembly or otherwise
+22 and interest earned on moneys in the account. The moneys in the account are continuously
+23 appropriated to the Oregon Department of Emergency Management. The department may
+24 make moneys in the account available to the Department of Human Services to carry out
+25 the Oregon Individual Assistance Grant Program described in section 18 of this 2026 Act.
+26
+27 CAPTIONS
+28
+29 SECTION 20. The unit captions used in this 2026 Act are provided only for the conven-
+30 ience of the reader and do not become part of the statutory law of this state or express any
+31 legislative intent in the enactment of this 2026 Act.
+32
+[9]
+
+[DELETED:  B 4 b R E G J R A C G c b t L A I i a e b s o t e f o t T A c n s a s a c l t i e [] a t c e p o a a.[] b d o t O D o E M r t m c t w c c p r t f s f d t e m c n p a a O 4 4d4.( T o i u t s a c o t S R T t p o t d f a p o t.( f o o m e s f i b t F EtA:M[]]
+[DELETED:  E s a i u s ( o t s s d a o t s a a t E M R O T M R O s a a t p l b t ( T o o S R b n l t p a p f s a r d a a a r p c o p c o] T S R O s l e b a i c o o]] a i t m t e o h s a r p i t 4.( T O D R A i e a a a s d t m o t a s t s ( o t i e m T G s s t a o t O S C w m a t t a M o t t a T a r a u d b o o t T a m r a n t t o a sfe]
+[DELETED:  O a t a t s a c c T a m m a t w t a i n a t M o t a a n e t c o r f d i O 1 a d t a l r t c t f i a a t m o t.( R A e u s  p b o s a p w h b r t h u t s m b r a s t a m t T G h a u t s i s t t a o 6.T O D R A F i e i t S h u s ]
+[DELETED: .T D o E M f d i O 1 a t g t s t c w O5(MD C t r t e r o a r b wnt s[] i i t e s p d i O 4 t e e g p d i O 4 a o s o o o m l r l g t g p s c[] S t n o c m o S a a c p f g i s a c i r t p c r i b n l t f w i e c s b m s a e p t t c s a o s f c m w s i]
+[DELETED:  C p c c t f d a o[] C p o c b r t p h c a f a w;a “ N m a a o f o r p a R H t c[] G f e r t p a o R H a R t e t p f c p p f e w c c c a[] G f r a s n b c t o p f a A d o t p f w g m w b e i a d A d o a r a f p o t R H oeN u i t p p l i t c r c c c c T d s e g a w g r o r t S D o E a t O H A s d t p p a e r t o a f a g a e R H o R N T d s d t n o t]
+[DELETED:  H o R N i c w t c i p i s ( o t s w t l i w t R H o.N f e p r o r a t r s f i.A p i.T t t i c o t L A r t e m.S.T d a a crs 1.S 1 t 1 o t 2 A a a t a m a p o Or4.( a s i e r g p t b k a tef]
+[DELETED:  b t c i w a g m o t c l.R A d o t n a a o l r w s s e A n o t p c s o e s s a a h l t c f.T b c t t a T a c o m a a t a T m i t a a c a G P d i s 1 o t 2 A T d s 1.( T D o H S s]
+[DELETED:  i g t a c e o E M r t t p W t p i a t D o H S m i g b t c i w a g m o t c l R m b iyp A d o t n a a o l r w s s een R o r t O D A t i m b i t f o d f a o p T O D o E M i c w t D e m p p u O 4 t i t O I A G P]
+[DELETED:  p f e d o a c w l gna A i p r i r u b a e A i w a d w p r i r i o.T S T s a d f t G F I e b t d o t t t a b t L A o o t t O D o E M T d m m i t a a t t D o.T]

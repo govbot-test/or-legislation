@@ -1,0 +1,320 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Senate Amendments to A-Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SENATE AMENDMENTS TO
+A-ENGROSSED HOUSE BILL 4037
+By COMMITTEE ON HOUSING AND DEVELOPMENT
+March 2
+1 On page 1 of the printed A-engrossed bill, line 2, after “197A.400,” insert “197A.445,”.
+2 On page 18, after line 23, insert:
+3
+4 “URBAN RESERVES
+5
+6 “SECTION 25. (1) On or before January 1, 2027, the Land Conservation and Development
+7 Commission shall amend its rules related to the prioritization of lands being added to an
+8 urban reserve in order to allow local governments to assign lower priority to land for which
+9 the provision of future urban services, as defined in ORS 195.065, is not reasonable or cost
+10 effective due to existing topographical or other physical constraints including built con-
+11 straints.
+12 “(2) Notwithstanding any provision in ORS 183.325 to 183.410, rules adopted under this
+13 section shall be adopted without an advisory committee.
+14
+15 “RESIDENTIAL DEVELOPMENT ON COMMERCIAL LANDS
+16
+17 “SECTION 26. ORS 197A.445 is amended to read:
+18 “197A.445. (1) As used in this section:
+19 “(a) ‘Affordable housing’ means residential property:
+20 “(A) In which:
+21 “(i) Each unit on the property is made available to own or rent to families with incomes of 80
+22 percent or less of the area median income;
+23 “(ii) The average of all units on the property is made available to families with incomes of 60
+24 percent or less of the area median income; or
+25 “(iii) A manufactured dwelling park is operated that serves only households with incomes of 120
+26 percent or less of the area median income; and
+27 “(B) Whose affordability, including affordability under a covenant as described in ORS 456.270
+28 to 456.295, is enforceable for a duration of no less than 30 years.
+29 “(b) ‘Area median income’ means the median income for the metropolitan statistical area in
+30 which housing is located as determined by the Housing and Community Services Department and
+31 adjusted for household size based on information from the United States Department of Housing and
+32 Urban Development.
+33 “(2) A local government shall allow affordable housing if the proposed affordable housing is on
+34 property that is:
+35 “(a) Owned by:
+LC 222/HB 4037-A17
+1 “(A) A public body, as defined in ORS 174.109;
+2 “(B) A nonprofit corporation that is organized as a religious corporation;
+3 “(C) A nonprofit corporation that is organized as a public benefit corporation whose primary
+4 purpose is the development of affordable housing;
+5 “(D) A housing authority, as defined in ORS 456.005; or
+6 “(E) A manufactured dwelling park nonprofit cooperative, as defined in ORS 62.803; or
+7 “(b) Zoned:
+8 “(A) For commercial uses;
+9 “(B) To allow religious assembly; or
+10 “(C) As public lands.
+11 “(3) A local government shall allow the conversion of a building or a portion of a building from
+12 a commercial use to a residential use.
+13 “(4) Subsections (2) and (3) of this section:
+14 “(a) Prohibit the local government from requiring a zone change or conditional use permit before
+15 allowing the use.
+16 “(b) Do not trigger any requirement that a local government consider or update an analysis as
+17 required by a statewide planning goal relating to economic development.
+18 “(c) Except as provided in paragraph (d) of this subsection, do not apply on lands where the
+19 local government determines that:
+20 “(A) The development on the property cannot be adequately served by water, sewer, storm water
+21 drainage or streets, or will not be adequately served at the time that development on the lot is
+22 complete;
+23 “(B) The property contains a slope of 25 percent or greater;
+24 “(C) The property is within a 100-year floodplain; or
+25 “(D) The development of the property is constrained by land use regulations based on statewide
+26 land use planning goals relating to:
+27 “(i) Natural disasters and hazards; or
+28 “(ii) Natural resources, including air, water, land or natural areas, but not including open spaces
+29 or historic resources.
+30 “(d) Do apply to property described in paragraph (c)(C) and (D)(i) of this subsection if more than
+31 60 percent of the lands within the urban growth boundary that the property is within are located
+32 within a tsunami inundation zone or if more than 30 percent of the lands within the urban growth
+33 boundary that the property is within are located within a 100-year floodplain.
+34 “(5) The development of housing under subsection (2) of this section may occur only:
+35 “(a) Within an urban growth boundary; and
+36 “(b) On lands zoned to allow for industrial uses only if the property is:
+37 “(A) Publicly owned;
+38 “(B) Adjacent to lands zoned for residential uses or schools; and
+39 “(C) Not specifically designated for heavy industrial uses.
+40 “(6) The development of housing under subsection (3) of this section:
+41 “(a) Applies only within an urban growth boundary of a city with a population of 10,000 or
+42 greater;
+43 “(b) May not occur on lands zoned to allow industrial uses;
+44 “(c) May require the payment of a system development charge as defined in ORS 223.299 only
+45 if:
+SA to A-Eng. HB 4037 Page 2
+1 “(A) The charge is calculated pursuant to a specific adopted policy for commercial to residential
+2 conversions adopted on or before December 31, 2023; or
+3 “(B) The charge is for water or wastewater and includes an offset for at least 100 percent of the
+4 water or wastewater system development charges paid when the building was originally constructed;
+5 and
+6 “(d) May not be subject to enforcement of any land use regulation that establishes a minimum
+7 number of parking spaces that is greater than the lesser of:
+8 “(A) The amount that may be required for the existing commercial use; or
+9 “(B) The amount that may be required in lands zoned for residential uses that would allow the
+10 converted development.
+11 “(7) The development of housing allowed under subsection (4)(d) of this section may only occur:
+12 “(a) Within an urban growth boundary located no more than 10 miles from the Pacific Ocean;
+13 “(b) In areas that require compliance with minimum federal regulations under the National
+14 Flood Insurance Program or with local floodplain development regulations adopted by the applicable
+15 local government, provided that the local regulations are equal to or more stringent than the mini-
+16 mum federal regulations;
+17 “(c) In locations that do not include floodways or other areas with higher risks of greater water
+18 velocity and debris flow;
+19 “(d) In communities with emergency response, evacuation and post-disaster plans that have been
+20 updated for the housing development; and
+21 “(e) In areas that are not public parks.
+22 “(8) A local government may prohibit affordable housing or require a zone change or conditional
+23 use permit to develop affordable housing in areas described in subsection (4)(d) of this section.
+24 “(9)(a) An applicant who applies to develop affordable housing under this section within
+25 a planned mixed-use development shall, if the development would cause the amount of lands
+26 available for commercial uses within the planned mixed-use development to be reduced to
+27 less than 80 percent of the amount in the adopted planned mixed-use development, amend
+28 the planned mixed-use development to allow an additional area not smaller than the proposed
+29 housing development.
+30 “(b) As used in this subsection, ‘planned mixed-use development’ means an area of land:
+31 “(A) Larger than 10 acres; and
+32 “(B) Subject to a land use approval or binding development agreement adopted by the
+33 local government that establishes areas or minimum acreages for commercial uses and in-
+34 cludes residential or other uses.
+35 “[(9)] (10) A local government shall approve an application at an authorized density level and
+36 authorized height level, as defined in ORS 227.175 (4), for the development of affordable housing, at
+37 the greater of:
+38 “(a) Any local density bonus for affordable housing; or
+39 “(b) Without consideration of any local density bonus for affordable housing:
+40 “(A) For property with existing maximum density of 16 or fewer units per acre, 200 percent of
+41 the existing density and 12 additional feet;
+42 “(B) For property with existing maximum density of 17 or more units per acre and 45 or fewer
+43 units per acre, 150 percent of the existing density and 24 additional feet; or
+44 “(C) For property with existing maximum density of 46 or more units per acre, 125 percent of
+45 the existing density and 36 additional feet.
+SA to A-Eng. HB 4037 Page 3
+1 “[(10)(a)] (11)(a) Subsection [(9)] (10) of this section does not apply to housing allowed under
+2 subsection (2) of this section in areas that are not zoned for residential uses.
+3 “(b) A local government may reduce the density or height of the density bonus allowed under
+4 subsection [(9)] (10) of this section as necessary to address a health, safety or habitability issue,
+5 including fire safety, or to comply with a protective measure adopted pursuant to a statewide land
+6 use planning goal. Notwithstanding ORS 197.350, the local government must adopt findings sup-
+7 ported by substantial evidence demonstrating the necessity of this reduction.”.
+8 In line 27, delete “25” and insert “27”.
+9 On page 20, line 9, delete “26” and insert “28”.
+10 In line 33, delete “27” and insert “29”.
+11 On page 21, line 25, delete “28” and insert “30”.
+12 In line 31, delete “29” and insert “31”.
+13
+SA to A-Eng. HB 4037 Page 4
+[DELETED:  A T.( s a i r r t t p o l b a t a d t e t o o p c i b c N a p i O 1 t 1 r a u t t f w i o 6 W a i a u a ‘ m i m t m i f t m s a i h i l a d b t H a C S D anD]
+[DELETED:  A n c t i o a a p b c w p E a p i p ( o t s d n a o l w t o s o w n b a s a t t t d o t l i u g b t t p i w a l A o w a u g b o a c w a p o 1 o M r t p o a s7P]
+[DELETED:  I a t r c w m f r u t N f c u w t p m d t b r t p o t a i t a p m d agd S t a l u a o b d a a b t[] A l g s a a a a a o m u p a 1 p o7P]
+[DELETED: [] ( S [] ( o t s d n a t h a u)( t d o h o t d b a u [] ( o t s a n t a a h s o h i p g.N O 1 t l g m a f s7P]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+SENATE AMENDMENTS TO
+A-ENGROSSED HOUSE BILL 4037
+By COMMITTEE ON HOUSING AND DEVELOPMENT
+March 2
+1 On page 1 of the printed A-engrossed bill, line 2, after “197A.400,” insert “197A.445,”.
+2 On page 18, after line 23, insert:
+3
+4 “URBAN RESERVES
+5
+6 “SECTION 25. (1) On or before January 1, 2027, the Land Conservation and Development
+7 Commission shall amend its rules related to the prioritization of lands being added to an
+8 urban reserve in order to allow local governments to assign lower priority to land for which
+9 the provision of future urban services, as defined in ORS 195.065, is not reasonable or cost
+10 effective due to existing topographical or other physical constraints including built con-
+11 straints.
+12 “(2) Notwithstanding any provision in ORS 183.325 to 183.410, rules adopted under this
+13 section shall be adopted without an advisory committee.
+14
+15 “RESIDENTIAL DEVELOPMENT ON COMMERCIAL LANDS
+16
+17 “SECTION 26. ORS 197A.445 is amended to read:
+18 “197A.445. (1) As used in this section:
+19 “(a) ‘Affordable housing’ means residential property:
+20 “(A) In which:
+21 “(i) Each unit on the property is made available to own or rent to families with incomes of 80
+22 percent or less of the area median income;
+23 “(ii) The average of all units on the property is made available to families with incomes of 60
+24 percent or less of the area median income; or
+25 “(iii) A manufactured dwelling park is operated that serves only households with incomes of 120
+26 percent or less of the area median income; and
+27 “(B) Whose affordability, including affordability under a covenant as described in ORS 456.270
+28 to 456.295, is enforceable for a duration of no less than 30 years.
+29 “(b) ‘Area median income’ means the median income for the metropolitan statistical area in
+30 which housing is located as determined by the Housing and Community Services Department and
+31 adjusted for household size based on information from the United States Department of Housing and
+32 Urban Development.
+33 “(2) A local government shall allow affordable housing if the proposed affordable housing is on
+34 property that is:
+35 “(a) Owned by:
+LC 222/HB 4037-A17
+
+1 “(A) A public body, as defined in ORS 174.109;
+2 “(B) A nonprofit corporation that is organized as a religious corporation;
+3 “(C) A nonprofit corporation that is organized as a public benefit corporation whose primary
+4 purpose is the development of affordable housing;
+5 “(D) A housing authority, as defined in ORS 456.005; or
+6 “(E) A manufactured dwelling park nonprofit cooperative, as defined in ORS 62.803; or
+7 “(b) Zoned:
+8 “(A) For commercial uses;
+9 “(B) To allow religious assembly; or
+10 “(C) As public lands.
+11 “(3) A local government shall allow the conversion of a building or a portion of a building from
+12 a commercial use to a residential use.
+13 “(4) Subsections (2) and (3) of this section:
+14 “(a) Prohibit the local government from requiring a zone change or conditional use permit before
+15 allowing the use.
+16 “(b) Do not trigger any requirement that a local government consider or update an analysis as
+17 required by a statewide planning goal relating to economic development.
+18 “(c) Except as provided in paragraph (d) of this subsection, do not apply on lands where the
+19 local government determines that:
+20 “(A) The development on the property cannot be adequately served by water, sewer, storm water
+21 drainage or streets, or will not be adequately served at the time that development on the lot is
+22 complete;
+23 “(B) The property contains a slope of 25 percent or greater;
+24 “(C) The property is within a 100-year floodplain; or
+25 “(D) The development of the property is constrained by land use regulations based on statewide
+26 land use planning goals relating to:
+27 “(i) Natural disasters and hazards; or
+28 “(ii) Natural resources, including air, water, land or natural areas, but not including open spaces
+29 or historic resources.
+30 “(d) Do apply to property described in paragraph (c)(C) and (D)(i) of this subsection if more than
+31 60 percent of the lands within the urban growth boundary that the property is within are located
+32 within a tsunami inundation zone or if more than 30 percent of the lands within the urban growth
+33 boundary that the property is within are located within a 100-year floodplain.
+34 “(5) The development of housing under subsection (2) of this section may occur only:
+35 “(a) Within an urban growth boundary; and
+36 “(b) On lands zoned to allow for industrial uses only if the property is:
+37 “(A) Publicly owned;
+38 “(B) Adjacent to lands zoned for residential uses or schools; and
+39 “(C) Not specifically designated for heavy industrial uses.
+40 “(6) The development of housing under subsection (3) of this section:
+41 “(a) Applies only within an urban growth boundary of a city with a population of 10,000 or
+42 greater;
+43 “(b) May not occur on lands zoned to allow industrial uses;
+44 “(c) May require the payment of a system development charge as defined in ORS 223.299 only
+45 if:
+SA to A-Eng. HB 4037 Page 2
+
+1 “(A) The charge is calculated pursuant to a specific adopted policy for commercial to residential
+2 conversions adopted on or before December 31, 2023; or
+3 “(B) The charge is for water or wastewater and includes an offset for at least 100 percent of the
+4 water or wastewater system development charges paid when the building was originally constructed;
+5 and
+6 “(d) May not be subject to enforcement of any land use regulation that establishes a minimum
+7 number of parking spaces that is greater than the lesser of:
+8 “(A) The amount that may be required for the existing commercial use; or
+9 “(B) The amount that may be required in lands zoned for residential uses that would allow the
+10 converted development.
+11 “(7) The development of housing allowed under subsection (4)(d) of this section may only occur:
+12 “(a) Within an urban growth boundary located no more than 10 miles from the Pacific Ocean;
+13 “(b) In areas that require compliance with minimum federal regulations under the National
+14 Flood Insurance Program or with local floodplain development regulations adopted by the applicable
+15 local government, provided that the local regulations are equal to or more stringent than the mini-
+16 mum federal regulations;
+17 “(c) In locations that do not include floodways or other areas with higher risks of greater water
+18 velocity and debris flow;
+19 “(d) In communities with emergency response, evacuation and post-disaster plans that have been
+20 updated for the housing development; and
+21 “(e) In areas that are not public parks.
+22 “(8) A local government may prohibit affordable housing or require a zone change or conditional
+23 use permit to develop affordable housing in areas described in subsection (4)(d) of this section.
+24 “(9)(a) An applicant who applies to develop affordable housing under this section within
+25 a planned mixed-use development shall, if the development would cause the amount of lands
+26 available for commercial uses within the planned mixed-use development to be reduced to
+27 less than 80 percent of the amount in the adopted planned mixed-use development, amend
+28 the planned mixed-use development to allow an additional area not smaller than the proposed
+29 housing development.
+30 “(b) As used in this subsection, ‘planned mixed-use development’ means an area of land:
+31 “(A) Larger than 10 acres; and
+32 “(B) Subject to a land use approval or binding development agreement adopted by the
+33 local government that establishes areas or minimum acreages for commercial uses and in-
+34 cludes residential or other uses.
+35 “[(9)] (10) A local government shall approve an application at an authorized density level and
+36 authorized height level, as defined in ORS 227.175 (4), for the development of affordable housing, at
+37 the greater of:
+38 “(a) Any local density bonus for affordable housing; or
+39 “(b) Without consideration of any local density bonus for affordable housing:
+40 “(A) For property with existing maximum density of 16 or fewer units per acre, 200 percent of
+41 the existing density and 12 additional feet;
+42 “(B) For property with existing maximum density of 17 or more units per acre and 45 or fewer
+43 units per acre, 150 percent of the existing density and 24 additional feet; or
+44 “(C) For property with existing maximum density of 46 or more units per acre, 125 percent of
+45 the existing density and 36 additional feet.
+SA to A-Eng. HB 4037 Page 3
+
+1 “[(10)(a)] (11)(a) Subsection [(9)] (10) of this section does not apply to housing allowed under
+2 subsection (2) of this section in areas that are not zoned for residential uses.
+3 “(b) A local government may reduce the density or height of the density bonus allowed under
+4 subsection [(9)] (10) of this section as necessary to address a health, safety or habitability issue,
+5 including fire safety, or to comply with a protective measure adopted pursuant to a statewide land
+6 use planning goal. Notwithstanding ORS 197.350, the local government must adopt findings sup-
+7 ported by substantial evidence demonstrating the necessity of this reduction.”.
+8 In line 27, delete “25” and insert “27”.
+9 On page 20, line 9, delete “26” and insert “28”.
+10 In line 33, delete “27” and insert “29”.
+11 On page 21, line 25, delete “28” and insert “30”.
+12 In line 31, delete “29” and insert “31”.
+13
+SA to A-Eng. HB 4037 Page 4
+
+[DELETED:  A T.( s a i r r t t p o l b a t a d t e t o o p c i b c N a p i O 1 t 1 r a u t t f w i o 6 W a i a u a ‘ m i m t m i f t m s a i h i l a d b t H a C S D anD]
+[DELETED:  A n c t i o a a p b c w p E a p i p ( o t s d n a o l w t o s o w n b a s a t t t d o t l i u g b t t p i w a l A o w a u g b o a c w a p o 1 o M r t p o a s7P]
+[DELETED:  I a t r c w m f r u t N f c u w t p m d t b r t p o t a i t a p m d agd S t a l u a o b d a a b t[] A l g s a a a a a o m u p a 1 p o7P]
+[DELETED: [] ( S [] ( o t s d n a t h a u)( t d o h o t d b a u [] ( o t s a n t a a h s o h i p g.N O 1 t l g m a f s7P]

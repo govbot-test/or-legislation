@@ -1,0 +1,184 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - House Amendments to Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE AMENDMENTS TO
+HOUSE BILL 4008
+By COMMITTEE ON TRANSPORTATION
+February 18
+1 On page 1 of the printed bill, delete lines 4 through 28.
+2 On page 2, delete lines 1 through 44 and insert:
+3 “SECTION 1. (1) The Transit Funding Task Force is established.
+4 “(2) The task force consists of 22 members appointed as follows:
+5 “(a) From among members of the Senate:
+6 “(A) The President of the Senate shall appoint one nonvoting member; and
+7 “(B) The Senate Minority Leader shall appoint one nonvoting member.
+8 “(b) From among members of the House of Representatives:
+9 “(A) The Speaker of the House of Representatives shall appoint one nonvoting member;
+10 and
+11 “(B) The House Minority Leader shall appoint one nonvoting member.
+12 “(c) Jointly, the President of the Senate and Speaker of the House of Representatives
+13 shall appoint the following nonlegislative members:
+14 “(A) One member who represents the City of Portland;
+15 “(B) One member who represents the Amalgamated Transit Union;
+16 “(C) One member who represents a workers’ union;
+17 “(D) One member who represents a mass transit provider;
+18 “(E) One member who represents a business association representing the Portland met-
+19 ropolitan area;
+20 “(F) One member who represents a business association representing businesses outside
+21 the Portland metropolitan area;
+22 “(G) One member who represents a tribal transit provider;
+23 “(H) One member who represents a transit provider that provides services in a city with
+24 a population of less than 100,000;
+25 “(I) One member who represents a rural transit provider;
+26 “(J) One member who represents a transit provider that primarily serves people with
+27 disabilities and seniors;
+28 “(K) One member who represents Metro, as defined in ORS 197.015;
+29 “(L) One member who represents city governments in this state;
+30 “(M) One member who represents county governments in this state;
+31 “(N) One member who represents an organization that advocates for transportation
+32 safety;
+33 “(O) One member who represents transit riders who utilize a low-income transit pass
+34 program;
+35 “(P) One member who represents an employer with over 100 employees;
+LC 257/HB 4008-5
+1 “(Q) One member who represents an employer with 100 employees or fewer; and
+2 “(R) One member who serves as a nonvoting representative of the Department of
+3 Transportation.
+4 “(3) The task force shall:
+5 “(a) Determine the level of funding needed to maintain adequate transit service statewide
+6 that is reliable, safe and accessible and allows for population growth over time; and
+7 “(b) Explore funding mechanisms to achieve the funding needs determined in paragraph
+8 (a) of this subsection.
+9 “(4) A majority of the voting members of the task force constitutes a quorum for the
+10 transaction of business.
+11 “(5) Official action by the task force requires the approval of a majority of the voting
+12 members of the task force.
+13 “(6) The President of the Senate and the Speaker of the House of Representatives shall
+14 select one member of the task force to serve as chairperson and another to serve as vice
+15 chairperson, with the duties and powers necessary for the performance of the functions of
+16 the offices as the President and the Speaker determine.
+17 “(7) If there is a vacancy for any cause, the appointing authority shall make an appoint-
+18 ment to become immediately effective.
+19 “(8) The task force shall meet at times and places specified by the call of the chairperson
+20 or of a majority of the voting members of the task force.
+21 “(9) The task force may adopt rules necessary for the operation of the task force.
+22 “(10) The task force shall submit a report in the manner provided by ORS 192.245, and
+23 may include recommendations for legislation, to an interim committee of the Legislative
+24 Assembly related to transportation no later than December 1, 2026. The report must include
+25 recommended revenue mechanisms including the following information about each recom-
+26 mended mechanism:
+27 “(a) The amount of revenue the mechanism is projected to raise;
+28 “(b) Who would pay; and
+29 “(c) The likelihood of the revenue source being a reliable source of revenue in the future.
+30 “(11) The Legislative Revenue Office shall provide staff support to the task force.
+31 “(12) Members of the Legislative Assembly appointed to the task force are nonvoting
+32 members of the task force and may act in an advisory capacity only.
+33 “(13) Members of the task force who are not members of the Legislative Assembly serve
+34 as volunteers on the task force and, unless they are qualified members, as defined in ORS
+35 292.495, are not entitled to compensation or reimbursement for expenses.
+36 “(14) All agencies of state government, as defined in ORS 174.111, are directed to assist
+37 the task force in the performance of the duties of the task force and, to the extent permitted
+38 by laws relating to confidentiality, to furnish information and advice the members of the task
+39 force consider necessary to perform their duties.”.
+40
+HA to HB 4008 Page 2
+[DELETED:  A T.( J t P o t S a S o t H o R O m w r a t p t p s p w O m w r a o t a f t O m w r t r w u a l t p]
+[DELETED:  O m w s a a n r o t D o A m o t v m o t t f c a q f t O a b t t f r t a o a m o t v o m o t t f t s a c T t f s i r f l t a i c o t L r m i t f i a e rdm M o t L A a t t t f a n v8P]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+HOUSE AMENDMENTS TO
+HOUSE BILL 4008
+By COMMITTEE ON TRANSPORTATION
+February 18
+1 On page 1 of the printed bill, delete lines 4 through 28.
+2 On page 2, delete lines 1 through 44 and insert:
+3 “SECTION 1. (1) The Transit Funding Task Force is established.
+4 “(2) The task force consists of 22 members appointed as follows:
+5 “(a) From among members of the Senate:
+6 “(A) The President of the Senate shall appoint one nonvoting member; and
+7 “(B) The Senate Minority Leader shall appoint one nonvoting member.
+8 “(b) From among members of the House of Representatives:
+9 “(A) The Speaker of the House of Representatives shall appoint one nonvoting member;
+10 and
+11 “(B) The House Minority Leader shall appoint one nonvoting member.
+12 “(c) Jointly, the President of the Senate and Speaker of the House of Representatives
+13 shall appoint the following nonlegislative members:
+14 “(A) One member who represents the City of Portland;
+15 “(B) One member who represents the Amalgamated Transit Union;
+16 “(C) One member who represents a workers’ union;
+17 “(D) One member who represents a mass transit provider;
+18 “(E) One member who represents a business association representing the Portland met-
+19 ropolitan area;
+20 “(F) One member who represents a business association representing businesses outside
+21 the Portland metropolitan area;
+22 “(G) One member who represents a tribal transit provider;
+23 “(H) One member who represents a transit provider that provides services in a city with
+24 a population of less than 100,000;
+25 “(I) One member who represents a rural transit provider;
+26 “(J) One member who represents a transit provider that primarily serves people with
+27 disabilities and seniors;
+28 “(K) One member who represents Metro, as defined in ORS 197.015;
+29 “(L) One member who represents city governments in this state;
+30 “(M) One member who represents county governments in this state;
+31 “(N) One member who represents an organization that advocates for transportation
+32 safety;
+33 “(O) One member who represents transit riders who utilize a low-income transit pass
+34 program;
+35 “(P) One member who represents an employer with over 100 employees;
+LC 257/HB 4008-5
+
+1 “(Q) One member who represents an employer with 100 employees or fewer; and
+2 “(R) One member who serves as a nonvoting representative of the Department of
+3 Transportation.
+4 “(3) The task force shall:
+5 “(a) Determine the level of funding needed to maintain adequate transit service statewide
+6 that is reliable, safe and accessible and allows for population growth over time; and
+7 “(b) Explore funding mechanisms to achieve the funding needs determined in paragraph
+8 (a) of this subsection.
+9 “(4) A majority of the voting members of the task force constitutes a quorum for the
+10 transaction of business.
+11 “(5) Official action by the task force requires the approval of a majority of the voting
+12 members of the task force.
+13 “(6) The President of the Senate and the Speaker of the House of Representatives shall
+14 select one member of the task force to serve as chairperson and another to serve as vice
+15 chairperson, with the duties and powers necessary for the performance of the functions of
+16 the offices as the President and the Speaker determine.
+17 “(7) If there is a vacancy for any cause, the appointing authority shall make an appoint-
+18 ment to become immediately effective.
+19 “(8) The task force shall meet at times and places specified by the call of the chairperson
+20 or of a majority of the voting members of the task force.
+21 “(9) The task force may adopt rules necessary for the operation of the task force.
+22 “(10) The task force shall submit a report in the manner provided by ORS 192.245, and
+23 may include recommendations for legislation, to an interim committee of the Legislative
+24 Assembly related to transportation no later than December 1, 2026. The report must include
+25 recommended revenue mechanisms including the following information about each recom-
+26 mended mechanism:
+27 “(a) The amount of revenue the mechanism is projected to raise;
+28 “(b) Who would pay; and
+29 “(c) The likelihood of the revenue source being a reliable source of revenue in the future.
+30 “(11) The Legislative Revenue Office shall provide staff support to the task force.
+31 “(12) Members of the Legislative Assembly appointed to the task force are nonvoting
+32 members of the task force and may act in an advisory capacity only.
+33 “(13) Members of the task force who are not members of the Legislative Assembly serve
+34 as volunteers on the task force and, unless they are qualified members, as defined in ORS
+35 292.495, are not entitled to compensation or reimbursement for expenses.
+36 “(14) All agencies of state government, as defined in ORS 174.111, are directed to assist
+37 the task force in the performance of the duties of the task force and, to the extent permitted
+38 by laws relating to confidentiality, to furnish information and advice the members of the task
+39 force consider necessary to perform their duties.”.
+40
+HA to HB 4008 Page 2
+
+[DELETED:  A T.( J t P o t S a S o t H o R O m w r a t p t p s p w O m w r a o t a f t O m w r t r w u a l t p]
+[DELETED:  O m w s a a n r o t D o A m o t v m o t t f c a q f t O a b t t f r t a o a m o t v o m o t t f t s a c T t f s i r f l t a i c o t L r m i t f i a e rdm M o t L A a t t t f a n v8P]

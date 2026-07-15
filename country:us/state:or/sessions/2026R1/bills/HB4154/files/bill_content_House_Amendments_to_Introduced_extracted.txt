@@ -1,0 +1,130 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - House Amendments to Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE AMENDMENTS TO
+HOUSE BILL 4154
+By COMMITTEE ON EDUCATION
+February 16
+1 On page 1 of the printed bill, line 2, after the first semicolon delete the rest of the line and line
+2 3 and insert “and declaring an emergency.”.
+3 Delete lines 5 through 28 and delete page 2 and insert:
+4 “SECTION 1. Section 2 of this 2026 Act is added to and made a part of ORS chapter 329.
+5 “SECTION 2. (1) Using student attendance data received from a school district under
+6 ORS 327.133, the Department of Education shall calculate the following for students who
+7 were enrolled at the school district or a public charter school for a total of at least 10 days
+8 during the reporting period:
+9 “(a) The total number of students in average daily membership for the school district or
+10 public charter school;
+11 “(b) The total number of students in average daily membership who are regular
+12 attenders;
+13 “(c) The percentage of students who are regular attenders;
+14 “(d) The total number of students in average daily membership who are chronically ab-
+15 sent; and
+16 “(e) The percentage of students who are chronically absent.
+17 “(2)(a) Four times per calendar year, the department shall:
+18 “(A) Compile the data as provided by subsection (1) of this section;
+19 “(B) Provide each school district and public charter school at least 15 business days to
+20 review the compiled data and request adjustments be made to the data, in the time and
+21 manner provided by rule of the State Board of Education, before the department makes the
+22 data available to the public; and
+23 “(C) Make available to the public the compiled data on the department’s website in an
+24 easy-to-use format, including disaggregating the data by student group.
+25 “(b) When making the data available to the public, the department shall clearly describe:
+26 “(A) The requirements used for determining when a student is a regular attender or
+27 chronically absent;
+28 “(B) Whether any changes have been made in the methodology for determining when a
+29 student is a regular attender or chronically absent; and
+30 “(C) Guidance on how the data should be interpreted and used, including any limitations
+31 of the data when making comparisons across school districts, schools and reporting periods.
+32 “SECTION 3. (1) Section 2 of this 2026 Act becomes operative on July 1, 2026.
+33 “(2) Notwithstanding the operative date set forth in subsection (1) of this section, the
+34 State Board of Education and the Department of Education may take any action before the
+35 operative date set forth in subsection (1) of this section that is necessary for the department
+LC 117/HB 4154-2
+1 and board to exercise, on and after the operative date set forth in subsection (1) of this
+2 section, all of the duties, functions and power conferred upon the department and board by
+3 section 2 of this 2026 Act.
+4 “SECTION 4. (1) The reporting requirements and the data compilation requirements of
+5 section 2 of this 2026 Act first apply to the 2026-2027 school year.
+6 “(2) The Department of Education shall include on the department’s website a clear de-
+7 scription of the changes that have been made in the methodology for determining when a
+8 student is a regular attender or chronically absent for the 2026-2027 school year in compar-
+9 ison to the methodology used in making that determination for the 2025-2026 school year.
+10 “SECTION 5. This 2026 Act being necessary for the immediate preservation of the public
+11 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+12 on its passage.”.
+13
+HA to HB 4154 Page 2
+[DELETED:  A T.S 2.( U s a d r f a s d u 3 t D o E s c t f f s w T t n o s i a d m w a r t c d a r a b m t t d i t t a M a t t p t c d o t T r u f d w a s i a r a oya.( N t o d s f i s ( o t s t]
+[DELETED:  b t e o a a t o d s f i s ( o t 4.( T r r o t c t h b m i t m f d w .T h a s a e i4P]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+HOUSE AMENDMENTS TO
+HOUSE BILL 4154
+By COMMITTEE ON EDUCATION
+February 16
+1 On page 1 of the printed bill, line 2, after the first semicolon delete the rest of the line and line
+2 3 and insert “and declaring an emergency.”.
+3 Delete lines 5 through 28 and delete page 2 and insert:
+4 “SECTION 1. Section 2 of this 2026 Act is added to and made a part of ORS chapter 329.
+5 “SECTION 2. (1) Using student attendance data received from a school district under
+6 ORS 327.133, the Department of Education shall calculate the following for students who
+7 were enrolled at the school district or a public charter school for a total of at least 10 days
+8 during the reporting period:
+9 “(a) The total number of students in average daily membership for the school district or
+10 public charter school;
+11 “(b) The total number of students in average daily membership who are regular
+12 attenders;
+13 “(c) The percentage of students who are regular attenders;
+14 “(d) The total number of students in average daily membership who are chronically ab-
+15 sent; and
+16 “(e) The percentage of students who are chronically absent.
+17 “(2)(a) Four times per calendar year, the department shall:
+18 “(A) Compile the data as provided by subsection (1) of this section;
+19 “(B) Provide each school district and public charter school at least 15 business days to
+20 review the compiled data and request adjustments be made to the data, in the time and
+21 manner provided by rule of the State Board of Education, before the department makes the
+22 data available to the public; and
+23 “(C) Make available to the public the compiled data on the department’s website in an
+24 easy-to-use format, including disaggregating the data by student group.
+25 “(b) When making the data available to the public, the department shall clearly describe:
+26 “(A) The requirements used for determining when a student is a regular attender or
+27 chronically absent;
+28 “(B) Whether any changes have been made in the methodology for determining when a
+29 student is a regular attender or chronically absent; and
+30 “(C) Guidance on how the data should be interpreted and used, including any limitations
+31 of the data when making comparisons across school districts, schools and reporting periods.
+32 “SECTION 3. (1) Section 2 of this 2026 Act becomes operative on July 1, 2026.
+33 “(2) Notwithstanding the operative date set forth in subsection (1) of this section, the
+34 State Board of Education and the Department of Education may take any action before the
+35 operative date set forth in subsection (1) of this section that is necessary for the department
+LC 117/HB 4154-2
+
+1 and board to exercise, on and after the operative date set forth in subsection (1) of this
+2 section, all of the duties, functions and power conferred upon the department and board by
+3 section 2 of this 2026 Act.
+4 “SECTION 4. (1) The reporting requirements and the data compilation requirements of
+5 section 2 of this 2026 Act first apply to the 2026-2027 school year.
+6 “(2) The Department of Education shall include on the department’s website a clear de-
+7 scription of the changes that have been made in the methodology for determining when a
+8 student is a regular attender or chronically absent for the 2026-2027 school year in compar-
+9 ison to the methodology used in making that determination for the 2025-2026 school year.
+10 “SECTION 5. This 2026 Act being necessary for the immediate preservation of the public
+11 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+12 on its passage.”.
+13
+HA to HB 4154 Page 2
+
+[DELETED:  A T.S 2.( U s a d r f a s d u 3 t D o E s c t f f s w T t n o s i a d m w a r t c d a r a b m t t d i t t a M a t t p t c d o t T r u f d w a s i a r a oya.( N t o d s f i s ( o t s t]
+[DELETED:  b t e o a a t o d s f i s ( o t 4.( T r r o t c t h b m i t m f d w .T h a s a e i4P]

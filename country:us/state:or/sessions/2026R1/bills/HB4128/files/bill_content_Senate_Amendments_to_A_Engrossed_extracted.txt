@@ -1,0 +1,257 @@
+Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Official Title: 83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Number of Sections: 1
+Source: versions - Senate Amendments to A-Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE AMENDMENTS TO
+A-ENGROSSED HOUSE BILL 4128
+By COMMITTEE ON HOUSING AND DEVELOPMENT
+February 25
+1 On page 1 of the printed A-engrossed bill, line 2, before the period insert “; creating new pro-
+2 visions; and amending ORS 180.095”.
+3 In line 13, after “investor” insert “, or an entity that receives funding from an institutional real
+4 estate investor,”.
+5 On page 2, line 11, after “unit” insert “, not including any type of middle housing as defined in
+6 ORS 197A.420”.
+7 In line 13, delete “any interest in” and insert “fee title to”.
+8 In line 22, delete “or”.
+9 After line 22, insert:
+10 “(f) Is acquired through a judicial or nonjudicial foreclosure sale, forfeiture, a deed in lieu of
+11 foreclosure or the enforcement of a judgment, lien, debt or property interest; or”.
+12 In line 23, delete “(f)” and insert “(g)”.
+13 In line 27, delete “(1)(f)” and insert “(1)(g)”.
+14 In line 29, delete “(5)” and insert “(4)”.
+15 Delete lines 36 through 45.
+16 On page 3, delete line 1.
+17 In line 2, delete “(5)” and insert “(4)”.
+18 On page 4, after line 8, insert:
+19 “SECTION 3. (1) The Attorney General may bring a civil action in the name of the State
+20 of Oregon against a covered entity to enforce section 2 of this 2026 Act, including an action
+21 for declaratory relief, an injunction to restrain a threatened or actual violation of section 2
+22 (1) or (2) of this 2026 Act or an action to otherwise compel compliance with section 2 of this
+23 2026 Act. The civil action must be brought in the Circuit Court of Marion County or the
+24 circuit court of the county in which a violation occurs.
+25 “(2) The Attorney General may serve an investigative demand upon any person that
+26 possess, controls or has custody of any information, document or other material that the
+27 Attorney General determines is relevant to an investigation of a violation of section 2 (1) or
+28 (2) of this 2026 Act or that could lead to the discovery of relevant information. An investi-
+29 gative demand may require the person to:
+30 “(a) Appear and testify under oath at the time and place stated in the investigative de-
+31 mand;
+32 “(b) Answer written interrogatories; or
+33 “(c) Produce relevant documents or physical evidence for examination at the time and
+34 place stated in the investigative demand.
+35 “(3) The Attorney General shall serve an investigative demand under this section as
+LC 264/HB 4128-A5
+1 provided in ORS 646.622 and may enforce the investigative demand as provided in ORS
+2 646.626.
+3 “(4) If, after an investigation, the Attorney General finds that a covered entity has vio-
+4 lated section 2 of this 2026 Act, the Attorney General may impose a civil penalty against the
+5 covered entity under ORS 183.745 of:
+6 “(a) An amount not to exceed $250,000 for acquiring or purchasing property in violation
+7 of section 2 (1) of this 2026 Act; and
+8 “(b) An amount not to exceed $10,000 for failure to submit any form required under sec-
+9 tion 2 (2) of this 2026 Act.
+10 “(5) In any civil action brought under this section in which the Attorney General prevails
+11 or investigation in which civil penalties are imposed under this section, a court may award
+12 the Attorney General the costs of investigation and reasonable attorney fees upon sub-
+13 mission by the Attorney General of a petition to the court.
+14 “(6) The Attorney General shall deposit any moneys recovered under this section into the
+15 Department of Justice Protection and Education Revolving Account created under ORS
+16 180.095.
+17 “SECTION 4. ORS 180.095 is amended to read:
+18 “180.095. (1) The Department of Justice Protection and Education Revolving Account is created
+19 in the General Fund. All moneys in the account are continuously appropriated to the Department
+20 of Justice and may be used to pay for only the following activities:
+21 “(a) Restitution and refunds in proceedings described in paragraph (c) of this subsection;
+22 “(b) Consumer and business education relating to the laws governing antitrust and unlawful
+23 trade practices; and
+24 “(c) Personal services, travel, meals, lodging and all other costs and expenses incurred by the
+25 department in investigating, preparing, commencing and prosecuting the following actions and suits,
+26 and enforcing judgments, settlements, compromises and assurances of voluntary compliance arising
+27 out of the following actions and suits:
+28 “(A) Actions and suits under the state and federal antitrust laws;
+29 “(B) Actions and suits under ORS 336.184 and 646.605 to 646.656;
+30 “(C) Actions commenced under ORS 59.331;
+31 “(D) Actions and suits under ORS 180.750 to 180.785;
+32 “(E) Actions and suits under ORS 646A.025;
+33 “(F) Actions commenced under ORS 646A.589;
+34 “(G) Actions and suits under ORS 646A.859; [and]
+35 “(H) Actions and suits commenced under ORS 180.060[.]; and
+36 “(I) Actions and suits under section 3 of this 2026 Act.
+37 “(2) Moneys in the Department of Justice Protection and Education Revolving Account are not
+38 subject to allotment. Upon request of the Attorney General, the State Treasurer shall create sub-
+39 accounts within the account for the purposes of managing moneys in the account and allocating
+40 those moneys to the activities described in subsection (1) of this section.
+41 “(3) Except as otherwise provided by law, all sums of money received by the Department of
+42 Justice under a judgment, settlement, compromise or assurance of voluntary compliance, including
+43 damages, restitution, refunds, attorney fees, costs, disbursements and other recoveries, but excluding
+44 civil penalties under ORS 646.642, in proceedings described in subsection (1)(c) of this section shall,
+45 upon receipt, be deposited with the State Treasurer to the credit of the Department of Justice Pro-
+SA to A-Eng. HB 4128 Page 2
+1 tection and Education Revolving Account. However, if the action or suit was based on an expendi-
+2 ture or loss from a public body or a dedicated fund, the amount of such expenditure or loss, after
+3 deduction of attorney fees and expenses awarded to the department by the court or agreed to by the
+4 parties, if any, shall be credited to the public body or dedicated fund and the remainder thereof
+5 credited to the Department of Justice Protection and Education Revolving Account.
+6 “(4) If the Department of Justice recovers restitution or refunds in a proceeding described in
+7 subsection (1)(c) of this section, and the department cannot determine the persons to whom the
+8 restitution or refunds should be paid or the amount of the restitution or refund payable to individual
+9 claimants is de minimis, the restitution or refunds may not be deposited in the Department of Justice
+10 Protection and Education Revolving Account and shall be deposited in the General Fund.
+11 “(5) Before April 1 of each odd-numbered year, the Department of Justice shall report to the
+12 Joint Committee on Ways and Means:
+13 “(a) The department’s projection of the balance in the Department of Justice Protection and
+14 Education Revolving Account at the end of the biennium in which the report is made and at the end
+15 of the following biennium;
+16 “(b) The amount of the balance held for restitution and refunds;
+17 “(c) An estimate of the department’s anticipated costs and expenses under subsection (1)(b) and
+18 (c) of this section for the biennium in which the report is made and for the following biennium; and
+19 “(d) Any judgment, settlement, compromise or other recovery, the proceeds of which are used
+20 for purposes other than:
+21 “(A) For deposit into the Department of Justice Protection and Education Revolving Account;
+22 or
+23 “(B) For payment of legal costs related to the judgment, settlement, compromise or other re-
+24 covery.
+25 “(6) The Joint Committee on Ways and Means, after consideration of recommendations made by
+26 the Department of Justice, shall use the information reported under subsection (5) of this section to
+27 determine an appropriate balance for the revolving account.”.
+28 In line 9, delete “3” and insert “5”.
+29
+SA to A-Eng. HB 4128 Page 3
+[DELETED:  A T p 1 o I a t a j o n f s f a d i l o.( A T c a m b b i t C C o M C o t T A G m s a i d u a p t c o h c o a i d o o m t t d o p e f e a t t a T A G s s a i d u t s a]
+[DELETED:  i O 6 a m e t i d a p i O I A G t c o i a r a f u s o J P a E R A c u O F A m i t a a c a t t D C a b e r t t l g a a u a a o c a e i b t[[] t a U r o t A G t S T s c s w t a f t p o m m i t a a a E a o p b l a s o m r b t D o o a o v c i8P]
+[DELETED:  o l f a p b i a s b c t t p b o d f a t r t I t D o J r r o r i a p d i ( o t s a t d c d t p t w t B A 1 o e o y t D o J s r t t T d p o t b i t D o J P a A j s c o o r t p o w a u F d i t D o J P a E F p o l c r t t j s c o o r8P]
+
+
+================================================================================
+
+Raw Text:
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+SENATE AMENDMENTS TO
+A-ENGROSSED HOUSE BILL 4128
+By COMMITTEE ON HOUSING AND DEVELOPMENT
+February 25
+1 On page 1 of the printed A-engrossed bill, line 2, before the period insert “; creating new pro-
+2 visions; and amending ORS 180.095”.
+3 In line 13, after “investor” insert “, or an entity that receives funding from an institutional real
+4 estate investor,”.
+5 On page 2, line 11, after “unit” insert “, not including any type of middle housing as defined in
+6 ORS 197A.420”.
+7 In line 13, delete “any interest in” and insert “fee title to”.
+8 In line 22, delete “or”.
+9 After line 22, insert:
+10 “(f) Is acquired through a judicial or nonjudicial foreclosure sale, forfeiture, a deed in lieu of
+11 foreclosure or the enforcement of a judgment, lien, debt or property interest; or”.
+12 In line 23, delete “(f)” and insert “(g)”.
+13 In line 27, delete “(1)(f)” and insert “(1)(g)”.
+14 In line 29, delete “(5)” and insert “(4)”.
+15 Delete lines 36 through 45.
+16 On page 3, delete line 1.
+17 In line 2, delete “(5)” and insert “(4)”.
+18 On page 4, after line 8, insert:
+19 “SECTION 3. (1) The Attorney General may bring a civil action in the name of the State
+20 of Oregon against a covered entity to enforce section 2 of this 2026 Act, including an action
+21 for declaratory relief, an injunction to restrain a threatened or actual violation of section 2
+22 (1) or (2) of this 2026 Act or an action to otherwise compel compliance with section 2 of this
+23 2026 Act. The civil action must be brought in the Circuit Court of Marion County or the
+24 circuit court of the county in which a violation occurs.
+25 “(2) The Attorney General may serve an investigative demand upon any person that
+26 possess, controls or has custody of any information, document or other material that the
+27 Attorney General determines is relevant to an investigation of a violation of section 2 (1) or
+28 (2) of this 2026 Act or that could lead to the discovery of relevant information. An investi-
+29 gative demand may require the person to:
+30 “(a) Appear and testify under oath at the time and place stated in the investigative de-
+31 mand;
+32 “(b) Answer written interrogatories; or
+33 “(c) Produce relevant documents or physical evidence for examination at the time and
+34 place stated in the investigative demand.
+35 “(3) The Attorney General shall serve an investigative demand under this section as
+LC 264/HB 4128-A5
+
+1 provided in ORS 646.622 and may enforce the investigative demand as provided in ORS
+2 646.626.
+3 “(4) If, after an investigation, the Attorney General finds that a covered entity has vio-
+4 lated section 2 of this 2026 Act, the Attorney General may impose a civil penalty against the
+5 covered entity under ORS 183.745 of:
+6 “(a) An amount not to exceed $250,000 for acquiring or purchasing property in violation
+7 of section 2 (1) of this 2026 Act; and
+8 “(b) An amount not to exceed $10,000 for failure to submit any form required under sec-
+9 tion 2 (2) of this 2026 Act.
+10 “(5) In any civil action brought under this section in which the Attorney General prevails
+11 or investigation in which civil penalties are imposed under this section, a court may award
+12 the Attorney General the costs of investigation and reasonable attorney fees upon sub-
+13 mission by the Attorney General of a petition to the court.
+14 “(6) The Attorney General shall deposit any moneys recovered under this section into the
+15 Department of Justice Protection and Education Revolving Account created under ORS
+16 180.095.
+17 “SECTION 4. ORS 180.095 is amended to read:
+18 “180.095. (1) The Department of Justice Protection and Education Revolving Account is created
+19 in the General Fund. All moneys in the account are continuously appropriated to the Department
+20 of Justice and may be used to pay for only the following activities:
+21 “(a) Restitution and refunds in proceedings described in paragraph (c) of this subsection;
+22 “(b) Consumer and business education relating to the laws governing antitrust and unlawful
+23 trade practices; and
+24 “(c) Personal services, travel, meals, lodging and all other costs and expenses incurred by the
+25 department in investigating, preparing, commencing and prosecuting the following actions and suits,
+26 and enforcing judgments, settlements, compromises and assurances of voluntary compliance arising
+27 out of the following actions and suits:
+28 “(A) Actions and suits under the state and federal antitrust laws;
+29 “(B) Actions and suits under ORS 336.184 and 646.605 to 646.656;
+30 “(C) Actions commenced under ORS 59.331;
+31 “(D) Actions and suits under ORS 180.750 to 180.785;
+32 “(E) Actions and suits under ORS 646A.025;
+33 “(F) Actions commenced under ORS 646A.589;
+34 “(G) Actions and suits under ORS 646A.859; [and]
+35 “(H) Actions and suits commenced under ORS 180.060[.]; and
+36 “(I) Actions and suits under section 3 of this 2026 Act.
+37 “(2) Moneys in the Department of Justice Protection and Education Revolving Account are not
+38 subject to allotment. Upon request of the Attorney General, the State Treasurer shall create sub-
+39 accounts within the account for the purposes of managing moneys in the account and allocating
+40 those moneys to the activities described in subsection (1) of this section.
+41 “(3) Except as otherwise provided by law, all sums of money received by the Department of
+42 Justice under a judgment, settlement, compromise or assurance of voluntary compliance, including
+43 damages, restitution, refunds, attorney fees, costs, disbursements and other recoveries, but excluding
+44 civil penalties under ORS 646.642, in proceedings described in subsection (1)(c) of this section shall,
+45 upon receipt, be deposited with the State Treasurer to the credit of the Department of Justice Pro-
+SA to A-Eng. HB 4128 Page 2
+
+1 tection and Education Revolving Account. However, if the action or suit was based on an expendi-
+2 ture or loss from a public body or a dedicated fund, the amount of such expenditure or loss, after
+3 deduction of attorney fees and expenses awarded to the department by the court or agreed to by the
+4 parties, if any, shall be credited to the public body or dedicated fund and the remainder thereof
+5 credited to the Department of Justice Protection and Education Revolving Account.
+6 “(4) If the Department of Justice recovers restitution or refunds in a proceeding described in
+7 subsection (1)(c) of this section, and the department cannot determine the persons to whom the
+8 restitution or refunds should be paid or the amount of the restitution or refund payable to individual
+9 claimants is de minimis, the restitution or refunds may not be deposited in the Department of Justice
+10 Protection and Education Revolving Account and shall be deposited in the General Fund.
+11 “(5) Before April 1 of each odd-numbered year, the Department of Justice shall report to the
+12 Joint Committee on Ways and Means:
+13 “(a) The department’s projection of the balance in the Department of Justice Protection and
+14 Education Revolving Account at the end of the biennium in which the report is made and at the end
+15 of the following biennium;
+16 “(b) The amount of the balance held for restitution and refunds;
+17 “(c) An estimate of the department’s anticipated costs and expenses under subsection (1)(b) and
+18 (c) of this section for the biennium in which the report is made and for the following biennium; and
+19 “(d) Any judgment, settlement, compromise or other recovery, the proceeds of which are used
+20 for purposes other than:
+21 “(A) For deposit into the Department of Justice Protection and Education Revolving Account;
+22 or
+23 “(B) For payment of legal costs related to the judgment, settlement, compromise or other re-
+24 covery.
+25 “(6) The Joint Committee on Ways and Means, after consideration of recommendations made by
+26 the Department of Justice, shall use the information reported under subsection (5) of this section to
+27 determine an appropriate balance for the revolving account.”.
+28 In line 9, delete “3” and insert “5”.
+29
+SA to A-Eng. HB 4128 Page 3
+
+[DELETED:  A T p 1 o I a t a j o n f s f a d i l o.( A T c a m b b i t C C o M C o t T A G m s a i d u a p t c o h c o a i d o o m t t d o p e f e a t t a T A G s s a i d u t s a]
+[DELETED:  i O 6 a m e t i d a p i O I A G t c o i a r a f u s o J P a E R A c u O F A m i t a a c a t t D C a b e r t t l g a a u a a o c a e i b t[[] t a U r o t A G t S T s c s w t a f t p o m m i t a a a E a o p b l a s o m r b t D o o a o v c i8P]
+[DELETED:  o l f a p b i a s b c t t p b o d f a t r t I t D o J r r o r i a p d i ( o t s a t d c d t p t w t B A 1 o e o y t D o J s r t t T d p o t b i t D o J P a A j s c o o r t p o w a u F d i t D o J P a E F p o l c r t t j s c o o r8P]
