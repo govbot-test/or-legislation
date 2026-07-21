@@ -1,0 +1,133 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4075
+Sponsored by Representative WRIGHT, Senator SMITH DB, Representative JAVADI; Representatives HELFRICH,
+MANNIX, OSBORNE, SCHARF, Senator WEBER (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: This Act lets the State Treasurer loan unclaimed moneys to rural hospitals. (Flesch
+Readability Score: 60.7).
+Authorizes the State Treasurer to loan up to 20 percent of the Unclaimed Property and Estates
+Fund to rural hospitals for financial stabilization.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to hospital finance; creating new provisions; amending ORS 98.389 and 293.701; and de-
+3 claring an emergency.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. (1) The State Treasurer may use up to 20 percent of the Unclaimed Property
+6 and Estates Fund established under ORS 98.389 to issue rural hospital stabilization loans
+7 under this section.
+8 (2) Rural hospital stabilization loans are available only to hospitals that:
+9 (a) Are rural hospitals, as defined in ORS 442.470;
+10 (b) Are owned and operated by a publicly elected board; and
+11 (c) Receive Medicare reimbursement on the basis of diagnostic related groups.
+12 (3) Rural hospital stabilization loans may only be used to address cash shortages or to
+13 refinance existing debt and may not be used to expand services, facilities or operations or
+14 to make capital improvements.
+15 (4) To be eligible for a rural hospital stabilization loan, a hospital must include in its
+16 application:
+17 (a) A stabilization plan that includes financial forecasts and near-term plans showing
+18 reductions in expenses or increases to revenue, including through anticipated grants or other
+19 assistance that is not yet realized; and
+20 (b) A statement by the Director of the Oregon Health Authority approving the plan.
+21 (5) Interest charged on a rural hospital stabilization loan may not be less than the ap-
+22 plicable federal funds rate at the time the loan was issued.
+23 (6) In determining whether to issue a rural hospital stabilization loan, the State Treas-
+24 urer may consult with the Oregon Health Authority and may consider any factors, including:
+25 (a) The repayment feasibility over the term of the loan;
+26 (b) The expected improvements to the hospital’s operations if the loan is provided; and
+27 (c) The expected public benefits, including benefits to economic activity and to access to
+28 health care, if the loan is provided.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 12
+
+HB 4075
+1 SECTION 2. ORS 98.389 is amended to read:
+2 98.389. (1) There is established the Unclaimed Property and Estates Fund, separate and distinct
+3 from the General Fund.
+4 (2) The Unclaimed Property and Estates Fund consists of:
+5 (a) Unclaimed property, including the proceeds of unclaimed property, under ORS 98.302 to
+6 98.436;
+7 (b) Penalties related to unclaimed property assessed under ORS 98.992;
+8 (c) Estates escheated to the state under ORS 112.055 and subject to claims under ORS 116.253;
+9 (d) Moneys in accounts that escheat to the state under ORS 708A.430 (5) or 723.466 (5);
+10 (e) Moneys transferred to the fund by the Department of State Lands from the Unclaimed
+11 Property School Fund under ORS 273.108;
+12 (f) Other moneys appropriated or transferred to the Unclaimed Property and Estates Fund by
+13 the Legislative Assembly or by operation of law; [and]
+14 (g) Payments of principal, interest, fees or penalties on rural hospital stabilization loans
+15 made under section 1 of this 2026 Act; and
+16 [(g)] (h) Interest earned by the fund.
+17 (3) Moneys in the fund are continuously appropriated to the State Treasurer for:
+18 (a) The costs of administering unclaimed property under ORS 98.302 to 98.436;
+19 (b) The costs of administering estates under ORS 113.235;
+20 (c) The payment of valid claims to abandoned property made under ORS 98.392;
+21 (d) The payment of valid claims for escheated property under ORS 116.253; [and]
+22 (e) Issuing rural hospital stabilization loans, as provided in section 1 of this 2026 Act; and
+23 [(e)] (f) The costs of administering the fund.
+24 (4) Before July 1 of each year, the State Treasurer shall transfer from the Unclaimed Property
+25 and Estates Fund:
+26 (a) To the Common School Fund, all moneys and properties of escheated estates for which any
+27 claim has elapsed under ORS 116.253; and
+28 (b) To the Unclaimed Property School Fund, all remaining moneys and properties in the Un-
+29 claimed Property and Estates Fund, except for the amount that the State Treasurer anticipates re-
+30 quiring to meet the expenses and liabilities of the Unclaimed Property and Estates Fund until the
+31 end of the following fiscal year, including transfers under paragraph (a) of this subsection.
+32 SECTION 3. ORS 293.701 is amended to read:
+33 293.701. As used in ORS 293.701 to 293.857, unless the context requires otherwise:
+34 (1) “Council” means the Oregon Investment Council.
+35 (2) “Investment funds” means:
+36 (a) Public Employees Retirement Fund referred to in ORS 238.660;
+37 (b) Industrial Accident Fund referred to in ORS 656.632;
+38 (c) Consumer and Business Services Fund referred to in ORS 705.145;
+39 (d) Employment Department Special Administrative Fund referred to in ORS 657.822;
+40 (e) Insurance Fund referred to in ORS 278.425;
+41 (f) Funds under the control and administration of the Department of State Lands;
+42 (g) Oregon Student Assistance Fund referred to in ORS 348.570;
+43 (h) Moneys made available to the Commission for the Blind under ORS 346.270 and 346.569 or
+44 rules adopted thereunder;
+45 (i) Forest Development Revenue Bond Fund referred to in ORS 530.147 and State Forestry
+[2]
+
+HB 4075
+1 General Obligation Bond Fund referred to in ORS 530.280;
+2 (j) Oregon War Veterans’ Fund referred to in ORS 407.495;
+3 (k) Oregon War Veterans’ Bond Sinking Account referred to in ORS 407.515;
+4 (L) World War II Veterans’ Compensation Fund;
+5 (m) World War II Veterans’ Bond Sinking Fund;
+6 (n) Funds in the hands of the State Treasurer that are not required to meet current demands
+7 and that are invested in the Oregon Short Term Fund established under ORS 293.728 or in another
+8 commingled investment vehicle;
+9 (o) State funds that are not subject to the control and administration of officers or bodies spe-
+10 cifically designated by law;
+11 (p) Funds derived from the sale of state bonds;
+12 (q) Social Security Revolving Account referred to in ORS 237.490;
+13 (r) Public University Fund established by ORS 352.450;
+14 (s) Local Government Employer Benefit Trust Fund referred to in ORS 657.513;
+15 (t) Education Stability Fund established by ORS 348.696;
+16 (u) Deferred Compensation Fund established under ORS 243.411;
+17 (v) Trust for Cultural Development Account established under ORS 359.405;
+18 (w) The State Library Donation Fund and the Talking Book and Braille Library Endowment
+19 Fund subaccount established under ORS 357.195;
+20 (x) Funds in the Unclaimed Property and Estates Fund, not including moneys loaned under
+21 section 1 of this 2026 Act; and
+22 (y) Funds in the Common School Fund or any subaccount of the fund, that are available for in-
+23 vestment.
+24 (3) “Investment officer” means the State Treasurer in the capacity as investment officer for the
+25 council.
+26 SECTION 4. This 2026 Act being necessary for the immediate preservation of the public
+27 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+28 on its passage.
+29
+[3]

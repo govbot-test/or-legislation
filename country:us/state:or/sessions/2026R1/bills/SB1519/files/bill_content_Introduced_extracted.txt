@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1519
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Labor and Business)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would pay a temp total disability comp claim based on the part of weekly pay
+that is at or below, or more than, 75% of the average weekly wage for the state. (Flesch Readability
+Score: 60.3).
+Provides that the percentage of a worker’s wage paid as compensation during a period of tem-
+porary total disability shall be determined by the portion of the worker’s wage that is less than or
+equal to, or greater than, 75 percent of the state average weekly wage.
+1 A BILL FOR AN ACT
+2 Relating to total disability; creating new provisions; and amending ORS 656.210.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. ORS 656.210 is amended to read:
+5 656.210. [(1) When the total disability is only temporary, the worker shall receive during the period
+6 of that total disability compensation equal to 66-2/3 percent of wages, but not more than 133 percent
+7 of the average weekly wage nor less than the amount of 90 percent of wages a week or the amount of
+8 $50 a week, whichever amount is less.]
+9 (1)(a) During a period of total disability that is temporary, the worker shall receive
+10 compensation equal to:
+11 (A) Seventy-five percent of the worker’s wage that is equal to or less than 75 percent of
+12 the average weekly wage, but not less than the amount of 90 percent of wages a week or the
+13 amount of $50 a week, whichever amount is less; and
+14 (B) Sixty-five percent of the worker’s wage that is greater than 75 percent of the average
+15 weekly wage, but not more than 133 percent of the average weekly wage.
+16 (b) Notwithstanding the limitation imposed by this subsection, an injured worker who is not
+17 otherwise eligible to receive an increase in benefits for the fiscal year in which compensation is paid
+18 shall have the benefits increased each fiscal year by the percentage which the applicable average
+19 weekly wage has increased since the previous fiscal year.
+20 (2)(a) For the purpose of this section, the weekly wage of workers shall be [ascertained] calcu-
+21 lated:
+22 (A) For workers employed in one job at the time of injury, by multiplying the daily wage the
+23 worker was receiving by the number of days per week that the worker was regularly employed; or
+24 (B) For workers employed in more than one job at the time of injury, by adding all earnings the
+25 worker was receiving from all subject employment.
+26 (b) Notwithstanding paragraph (a)(B) of this subsection, the weekly wage calculated under par-
+27 agraph (a)(A) of this subsection shall be used for workers employed in more than one job at the time
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 178
+
+SB 1519
+1 of injury unless the insurer, self-insured employer or assigned claims agent for a noncomplying em-
+2 ployer receives:
+3 (A) Within 30 days of receipt of the initial claim, notice that the worker was employed in more
+4 than one job with a subject employer at the time of injury; and
+5 (B) Within 60 days of the date of mailing a request for verification, verifiable documentation of
+6 wages from such additional employment.
+7 (c) Notwithstanding ORS 656.005 (7)(c), an injury to a worker employed in more than one job
+8 at the time of injury is not disabling if no temporary disability benefits are payable for time lost
+9 from the job at injury. Claim costs incurred as a result of supplemental temporary disability benefits
+10 paid as provided in subsection (5) of this section may not be included in any data used for
+11 ratemaking or individual employer rating or dividend calculations by an insurer, a rating organiza-
+12 tion licensed pursuant to ORS chapter 737, the State Accident Insurance Fund Corporation or the
+13 Department of Consumer and Business Services if the injured worker is not eligible for permanent
+14 disability benefits or temporary disability benefits for time lost from the job at injury.
+15 (d) For the purpose of this section:
+16 (A) The benefits of a worker who incurs an injury shall be based on the wage of the worker at
+17 the time of injury.
+18 (B) The benefits of a worker who incurs an occupational disease shall be based on the wage of
+19 the worker at the time there is medical verification that the worker is unable to work because of
+20 the disability caused by the occupational disease. If the worker is not working at the time that there
+21 is medical verification that the worker is unable to work because of the disability caused by the
+22 occupational disease, the benefits shall be based on the wage of the worker at the worker’s last
+23 regular employment.
+24 (e) As used in this subsection, “regularly employed” means actual employment or availability for
+25 such employment. For workers not regularly employed and for workers with no remuneration or
+26 whose remuneration is not based solely upon daily or weekly wages, the Director of the Department
+27 of Consumer and Business Services, by rule, may prescribe methods for establishing the worker’s
+28 weekly wage.
+29 (3) No disability payment is recoverable for temporary total or partial disability suffered during
+30 the first three calendar days after the worker leaves work or loses wages as a result of the
+31 compensable injury unless the worker is totally disabled after the injury and the total disability
+32 continues for a period of 14 consecutive days or unless the worker is admitted as an inpatient to a
+33 hospital within 14 days of the first onset of total disability. If the worker leaves work or loses wages
+34 on the day of the injury due to the injury, that day shall be considered the first day of the three-day
+35 period.
+36 (4) When an injured worker with an accepted disabling compensable injury is required to leave
+37 work to receive compensable medical services for the compensable injury, the worker shall receive
+38 temporary disability benefits calculated pursuant to ORS 656.212 for the period during which the
+39 worker is absent, until such time as the worker is determined to be medically stationary. However,
+40 benefits under this subsection are not payable if wages are paid for the period of absence by the
+41 employer. An insurer may require a worker to confirm the period during which the worker is absent
+42 from work to receive compensable medical services under this subsection. The notice requirement
+43 under ORS 656.262 (4)(j) does not apply to temporary disability benefits paid pursuant to this sub-
+44 section.
+45 (5)(a) The insurer of the employer at injury or the self-insured employer at injury, may elect to
+[2]
+
+SB 1519
+1 be responsible for payment of supplemental temporary disability benefits to a worker employed in
+2 more than one job at the time of injury. In accordance with rules adopted by the director, if the
+3 worker’s weekly wage is determined under subsection (2)(a)(B) of this section, the insurer or self-
+4 insured employer shall be reimbursed from the Workers’ Benefit Fund for the amount of temporary
+5 disability benefits paid that exceeds the amount payable pursuant to subsection (2)(a)(A) of this
+6 section had the worker been employed in only one job at the time of injury. Such reimbursement
+7 shall include an administrative fee payable to the insurer or self-insured employer pursuant to rules
+8 adopted by the director.
+9 (b) If the insurer or self-insured employer elects not to pay the supplemental temporary disabil-
+10 ity benefits for a worker employed in more than one job at the time of injury, the director shall ei-
+11 ther administer and pay the supplemental benefits directly or shall assign responsibility to
+12 administer and process the payment to a paying agent selected by the director.
+13 (6) The director shall adopt rules for the payment and reimbursement of supplemental temporary
+14 disability benefits under this section.
+15 SECTION 2. The amendments to ORS 656.210 by section 1 of this 2026 Act apply to claims
+16 for temporary total disability compensation for injuries sustained or diseases incurred on or
+17 after January 1, 2027.
+18
+[3]

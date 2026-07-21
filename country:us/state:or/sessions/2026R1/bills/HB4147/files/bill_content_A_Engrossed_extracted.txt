@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - A-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+A-Engrossed
+House Bill 4147
+Ordered by the House February 26
+Including House Amendments dated February 26
+Sponsored by Representatives WALTERS, BOWMAN, Senator PATTERSON, Representative NELSON, Senator
+GELSER BLOUIN; Representatives ANDERSEN, EVANS, FRAGALA, GAMBA, GRAYBER, NATHANSON,
+RIEKE SMITH, TRAN, WISE, Senators CAMPOS, FREDERICK, GOLDEN, MEEK, PHAM K, PROZANSKI,
+REYNOLDS, TAYLOR (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act tells the Oregon Health Authority to create a report about large employers that
+have employees who get health care from the state. Takes effect 91 days after the session ends.
+(Flesch Readability Score: 66.3).
+Requires the Oregon Health Authority to collaborate with the Department of Human Services
+and the Employment Department to submit an annual report that [identifies] provides information
+about employers that employ [50] 500 or more employees in this state and [that] have employees
+[or dependents of the employees] who are medical assistance recipients.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to medical assistance; and prescribing an effective date.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. As used in sections 1 to 5 of this 2026 Act:
+5 (1)(a) “Employee” means any person, including noncitizens and minors, employed for
+6 remuneration or under any contract of hire, written or oral, express or implied, by an em-
+7 ployer.
+8 (b) “Employee” does not mean any person who volunteers or donates services performed
+9 for no remuneration or without expectation or contemplation of remuneration as the ade-
+10 quate consideration for the services performed for a religious or charitable institution or a
+11 governmental entity.
+12 (2)(a) “Employer” means a person who employs 500 or more employees in this state.
+13 (b) “Employer” does not mean a tribal government.
+14 (3) “Medical assistance” has the meaning given that term in ORS 414.025.
+15 (4) “Medical assistance recipient” means a recipient of medical assistance from any pro-
+16 gram operated by the Oregon Health Authority, including the Cover All People program es-
+17 tablished in ORS 414.231.
+18 (5) “Protected health information” has the meaning given that term in ORS 192.556.
+19 (6) “Tribal government” means:
+20 (a) A tribal government as defined in ORS 181A.940; or
+21 (b) A federally recognized Indian tribe.
+22 SECTION 2. (1) Not later than June 30 of each year, the Oregon Health Authority, in
+23 collaboration with the Department of Human Services and the Employment Department,
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 65
+
+A-Eng. HB 4147
+1 shall submit a report to the interim committees of the Legislative Assembly related to health
+2 care, in the manner provided by ORS 192.245, and to the Legislative Fiscal Officer, that in-
+3 cludes the following information for the preceding state fiscal year:
+4 (a) Aggregated statewide information regarding:
+5 (A) The total number of medical assistance recipients who are employees;
+6 (B) The total number of medical assistance recipients who are employees, distributed by:
+7 (i) Employer size;
+8 (ii) Employer industry; and
+9 (iii) Employer region; and
+10 (C) The cost of providing medical assistance to employees.
+11 (b) For state fiscal years beginning on or after July 1, 2028, analysis of statewide trends
+12 related to the number of medical assistance recipients who are employees, as compared to
+13 earlier years.
+14 (c) For each of the 20 employers with the highest total number of employees who are
+15 medical assistance recipients:
+16 (A) A description of the industry in which the employer does business in this state, using
+17 the North American Industry Classification System code associated with the employer;
+18 (B) The total number of medical assistance recipients who are employees of the em-
+19 ployer; and
+20 (C) The cost of providing medical assistance to the employees of the employer.
+21 (2) A report required under this section:
+22 (a) Must identify or describe employers by industry;
+23 (b) May not include an employer’s name; and
+24 (c) May not include any personally identifiable information or protected health informa-
+25 tion of an employee whose information is included in the report.
+26 (3) The collection, storage and release of health care data and other information under
+27 sections 1 to 5 of this 2026 Act is subject to the privacy regulations of the federal Health
+28 Insurance Portability and Accountability Act.
+29 SECTION 3. The Oregon Health Authority shall publish a report described in section 2
+30 of this 2026 Act on the authority’s website no later than 10 days after the authority submits
+31 the report as required under section 2 of this 2026 Act.
+32 SECTION 4. The Oregon Health Authority, the Department of Human Services and the
+33 Employment Department may enter into an interagency agreement for the purposes of
+34 sections 1 to 5 of this 2026 Act. An interagency agreement under this section must include
+35 provisions for:
+36 (1) Good faith cooperation among the authority, the Department of Human Services and
+37 the Employment Department to enable the authority to carry out its duties and responsibil-
+38 ities under law or under the agreement;
+39 (2) The sharing of resources and information necessary for the authority to carry out its
+40 duties and responsibilities under law or under the agreement, to the extent permitted by law;
+41 and
+42 (3) Ensuring the privacy and security of information shared under the agreement.
+43 SECTION 5. The Oregon Health Authority, the Department of Human Services and the
+44 Employment Department may adopt rules necessary to carry out the provisions of sections
+45 1 to 5 of this 2026 Act.
+[2]
+
+A-Eng. HB 4147
+1 SECTION 6. (1) Sections 1 to 5 of this 2026 Act become operative on January 1, 2027.
+2 (2) The Oregon Health Authority, the Department of Human Services and the Employ-
+3 ment Department may take any action before the operative date specified in subsection (1)
+4 of this section that is necessary to enable the authority and the departments to exercise, on
+5 and after the operative date specified in subsection (1) of this section, all of the duties,
+6 functions and powers conferred on the authority and the departments by sections 1 to 5 of
+7 this 2026 Act.
+8 SECTION 7. This 2026 Act takes effect on the 91st day after the date on which the 2026
+9 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+10
+[3]

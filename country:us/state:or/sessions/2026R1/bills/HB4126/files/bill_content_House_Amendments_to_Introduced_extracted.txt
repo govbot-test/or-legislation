@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - House Amendments to Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+HOUSE AMENDMENTS TO
+HOUSE BILL 4126
+By COMMITTEE ON TRANSPORTATION
+February 18
+1 Delete lines 14 and 15 of the printed bill and insert:
+2 “(b) An estimate of the total vehicle miles driven on the public highways of this state based on
+3 the most recently available data on vehicle miles traveled, set forth separately according to the
+4 following weight table:
+5 “(A) Vehicles weighing 10,000 pounds or less.
+6 “(B) Vehicles weighing more than 10,000 pounds and not more than 12,000 pounds.
+7 “(C) Vehicles weighing more than 12,000 pounds and not more than 14,000 pounds.
+8 “(D) Vehicles weighing more than 14,000 pounds and not more than 16,000 pounds.
+9 “(E) Vehicles weighing more than 16,000 pounds and not more than 18,000 pounds.
+10 “(F) Vehicles weighing more than 18,000 pounds and not more than 20,000 pounds.
+11 “(G) Vehicles weighing more than 20,000 pounds and not more than 22,000 pounds.
+12 “(H) Vehicles weighing more than 22,000 pounds and not more than 24,000 pounds.
+13 “(I) Vehicles weighing more than 24,000 pounds and not more than 26,000 pounds.
+14 “(J) Vehicles weighing more than 26,000 pounds.”.
+15 Delete lines 24 through 26 and insert:
+16 “SECTION 3. Notwithstanding the due date for submission of reports under section 2 (1)
+17 of this 2026 Act, the Department of Transportation shall submit the first report that is due
+18 after the effective date of this 2026 Act not later than January 31, 2027.
+19 “SECTION 4. This 2026 Act being necessary for the immediate preservation of the public
+20 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+21 on its passage.”.
+22
+LC 110/HB 4126-2

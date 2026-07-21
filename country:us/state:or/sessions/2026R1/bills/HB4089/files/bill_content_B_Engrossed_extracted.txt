@@ -1,0 +1,182 @@
+Title: 
+Official Title: 
+Source: versions - B-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+B-Engrossed
+House Bill 4089
+Ordered by the House February 25
+Including House Amendments dated February 18 and February 25
+Sponsored by Representative TRAN, Senator NERON MISSLIN, Representatives MUNOZ, CHAICHI, SMITH G,
+Senator MANNING JR; Representatives ANDERSEN, BOWMAN, EVANS, FRAGALA, GAMBA, HUDSON,
+ISADORE, JAVADI, MCDONALD, MCLAIN, NATHANSON, NELSON, RIEKE SMITH, SOSA, WISE, Senators
+CAMPOS, GELSER BLOUIN, GOLDEN, JAMA, PATTERSON (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act changes the crime of theft of services and changes some crimes related to
+contractor licenses. (Flesch Readability Score: 60.1).
+Modifies the crime of theft of services to include partial payments.
+Provides that a prosecution for theft of services does not preclude other forms of relief.
+Directs the Interagency Compliance Network to develop investigative methods concerning per-
+sons who may be committing theft of services and not complying with taxation and employment
+laws.
+Punishes knowingly entering into a contract with an unlicensed labor contractor, if committed
+by a direct contractor or subcontractor, by a maximum of 364 days’ imprisonment, $6,250 fine, or
+both. Punishes a second or subsequent conviction by a maximum of five years’ imprisonment,
+$125,000 fine, or both.
+Increases the penalty for the intentional use of a contractor’s license number without authori-
+zation. Punishes by a maximum of five years’ imprisonment, $125,000 fine, or both.
+Increases the penalty for the use of a contractor’s license number with the intent to deceive the
+public. Punishes by a maximum of five years’ imprisonment, $125,000 fine, or both.
+1 A BILL FOR AN ACT
+2 Relating to criminal offenses related to work; creating new provisions; and amending ORS 164.125,
+3 658.991, 670.700 and 701.990.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 164.125 is amended to read:
+6 164.125. (1) A person commits the crime of theft of services if:
+7 (a) With intent to avoid full or partial payment therefor, the person obtains services that are
+8 available only for compensation, by force, threat, deception or other means to avoid full or partial
+9 payment for the services; or
+10 (b) Having control over the disposition of labor or of business, commercial or industrial equip-
+11 ment or facilities of another, the person uses or diverts to the use of the person or a third person
+12 such labor, equipment or facilities with intent to derive for the person or the third person a com-
+13 mercial benefit to which the person or the third person is not entitled.
+14 (2) As used in this section, “services” includes, but is not limited to, labor, professional services,
+15 toll facilities, transportation, communications service, entertainment, the supplying of food, lodging
+16 or other accommodations in hotels, restaurants or elsewhere, the supplying of equipment for use,
+17 and the supplying of commodities of a public utility nature such as gas, electricity, steam and water.
+18 “Communication service” includes, but is not limited to, use of telephone, computer and cable tele-
+19 vision systems.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 150
+
+B-Eng. HB 4089
+1 (3) Absconding without payment or offer to pay for hotel, restaurant or other services for which
+2 compensation is customarily paid immediately upon the receiving of them is prima facie evidence
+3 that the services were obtained with intent to avoid payment therefor. Obtaining the use of any
+4 communication system the use of which is available only for compensation, including but not limited
+5 to telephone, computer and cable television systems, or obtaining the use of any services of a public
+6 utility nature, without payment or offer to pay for such use is prima facie evidence that the ob-
+7 taining of the use of such system or the use of such services was gained with intent to avoid pay-
+8 ment therefor.
+9 (4) The value of single theft transactions may be added together if the thefts were committed:
+10 (a) Against multiple victims by a similar means within a 30-day period; or
+11 (b) Against the same victim, or two or more persons who are joint owners, within a 180-day
+12 period.
+13 (5) Theft of services is:
+14 (a) A Class C misdemeanor if the aggregate total value of services that are the subject of the
+15 theft is less than $100;
+16 (b) A Class A misdemeanor if the aggregate total value of services that are the subject of the
+17 theft is $100 or more and less than $1,000;
+18 (c) A Class C felony if the aggregate total value of services that are the subject of the theft is
+19 $1,000 or more; and
+20 (d) A Class B felony if the aggregate total value of services that are the subject of the theft is
+21 $10,000 or more.
+22 SECTION 2. A criminal prosecution under ORS 164.125 does not preclude any employee,
+23 independent contractor, authorized third party representative or the Commissioner of the
+24 Bureau of Labor and Industries from commencing a civil action or administrative proceeding
+25 to seek wages, compensation, penalties, damages or other remedies as provided by law.
+26 SECTION 3. ORS 670.700 is amended to read:
+27 670.700. (1) There is established an Interagency Compliance Network consisting of:
+28 (a) The Department of Justice;
+29 (b) The Department of Revenue;
+30 (c) The Employment Department;
+31 (d) The Department of Consumer and Business Services;
+32 (e) The Bureau of Labor and Industries;
+33 (f) The Construction Contractors Board;
+34 (g) The State Landscape Contractors Board; and
+35 (h) Other state agencies that enter into the intergovernmental agreement as described in sub-
+36 section (3) of this section.
+37 (2) The Interagency Compliance Network established under this section shall:
+38 (a) Work to establish consistency in agency determinations relating to the classification of
+39 workers, including but not limited to classification of workers as independent contractors;
+40 (b) Gather and share information relating to persons who pay workers in cash and who do not
+41 comply with laws relating to taxation or employment;
+42 (c) Gather and share information relating to the misclassification of workers, including but not
+43 limited to misclassification as independent contractors;
+44 (d) Develop investigative methods for auditing persons who pay workers in cash, or who mis-
+45 classify workers, and who do not comply with laws relating to taxation or employment;
+[2]
+
+B-Eng. HB 4089
+1 (e) Conduct joint audits of persons who pay workers in cash, or who misclassify workers, and
+2 who do not comply with laws relating to taxation or employment;
+3 (f) Identify opportunities for and obstacles to improving compliance with the laws relating to the
+4 classification of workers, taxation or employment;
+5 (g) Create a coordinated enforcement process for the laws relating to classification of workers
+6 that is efficient, fair and effective for the public and the regulatory agencies charged with enforcing
+7 laws relating to taxation or employment;
+8 (h) Engage in public outreach efforts to educate the public generally on the distinctions between
+9 independent contractors and employees and on the laws and regulations governing the duties relat-
+10 ing to classification of workers; [and]
+11 (i) Develop investigative methods to gather and share information relating to persons
+12 whose actions may constitute theft of services under ORS 164.125 and who do not comply
+13 with laws relating to taxation or employment; and
+14 [(i)] (j) Take such other action as the member agencies deem appropriate to improve compliance
+15 with laws relating to taxation or employment that are administered by the member agencies.
+16 (3) The agencies identified in subsection (1)(a) to (g) of this section shall enter into an inter-
+17 governmental agreement for the purpose of coordinating the efforts of the agencies under this sec-
+18 tion. Any other agency of state government, as defined in ORS 174.111, that has an interest in
+19 compliance with laws relating to taxation or employment may become a member of the Interagency
+20 Compliance Network by entering into the agreement on such terms as may be prescribed by the
+21 agencies identified in subsection (1)(a) to (g) of this section.
+22 (4) Notwithstanding ORS 314.835 or any other law relating to confidentiality of information, any
+23 agency that is a member of the Interagency Compliance Network may enter into an agreement with
+24 another member agency to provide information to the other agency. Information provided to an
+25 agency under this subsection may be used by the agency only for the purpose of enforcing compli-
+26 ance of laws that are administered by the agency.
+27 (5) ORS 192.610 to 192.705 do not apply to meetings of the Interagency Compliance Network or
+28 to meetings of representatives from member agencies of the Interagency Compliance Network for the
+29 purposes set forth in subsection (2) of this section.
+30 SECTION 4. ORS 658.991 is amended to read:
+31 658.991. (1) Violation of ORS 658.005 to 658.245 or 658.250 is a Class C misdemeanor.
+32 (2) Violation of ORS 658.452 is a Class A misdemeanor.
+33 (3) Any person who intentionally defaces, alters or changes a license or permit to act as a labor
+34 contractor, or who uses the license or permit of another or knowingly permits that person’s license
+35 or permit to be used by another, or who acts as a labor contractor without a valid license or permit
+36 under ORS 658.405 to 658.511, commits a Class A misdemeanor.
+37 (4) Any person who willfully swears or affirms falsely under ORS 658.415 (1), (2) or (3) in regard
+38 to any matter concerning which an oath or affirmation is required, or who solicits or induces an-
+39 other person to do so, whether or not the matter sworn to or affirmed is material, commits a Class
+40 A misdemeanor.
+41 (5) Violation of ORS 658.440 (1)(f), (g) or (h), (2)(c) or (3)(a), (b), (c), (e), (f) or (g) is a Class C
+42 misdemeanor.
+43 (6) Any person who violates the provisions of ORS 658.410 (1) or 658.417 (1) commits a Class C
+44 felony if:
+45 (a) The person has previously been convicted of violating the provisions of ORS 658.410 (1) or
+[3]
+
+B-Eng. HB 4089
+1 658.417 (1);
+2 (b) The person’s license to act as a labor contractor has been suspended, revoked or denied; or
+3 (c) The person is acting in violation of an outstanding order of any court of competent juris-
+4 diction arising out of the enforcement of ORS 658.405 to 658.511.
+5 (7)(a) A direct contractor or subcontractor commits a Class A misdemeanor if the direct
+6 contractor or subcontractor knowingly enters into a contract with a construction labor
+7 contractor who is required to be licensed under ORS 658.405 to 658.511 and who is not prop-
+8 erly licensed under ORS 658.405 to 658.511.
+9 (b) A direct contractor or subcontractor commits a Class C felony if the direct contrac-
+10 tor or subcontractor knowingly enters into a contract with a construction labor contractor
+11 who is required to be licensed under ORS 658.405 to 658.511 and who is not properly licensed
+12 under ORS 658.405 to 658.511, and the direct contractor or subcontractor has a prior con-
+13 viction under this subsection at the time of the offense.
+14 (c) As used in this subsection:
+15 (A) “Construction labor contractor” has the meaning given that term in ORS 658.405, but
+16 does not include a person who is licensed under ORS chapter 701.
+17 (B) “Direct contractor” has the meaning given that term in ORS 652.197.
+18 (C) “Subcontractor” has the meaning given that term in ORS 652.197.
+19 SECTION 5. ORS 701.990 is amended to read:
+20 701.990. (1) Violation of ORS 701.021 is a Class A misdemeanor.
+21 (2) The intentional use of a contractor’s license number without the authorization of the licensed
+22 contractor is a [Class A misdemeanor] Class C felony.
+23 (3) Use of a contractor’s license number, with or without the authorization of the licensed con-
+24 tractor, with the intent to deceive the public is a [Class A misdemeanor] Class C felony.
+25
+[4]

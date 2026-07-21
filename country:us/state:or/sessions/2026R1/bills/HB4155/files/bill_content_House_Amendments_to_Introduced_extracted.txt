@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - House Amendments to Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+HOUSE AMENDMENTS TO
+HOUSE BILL 4155
+By COMMITTEE ON HEALTH CARE
+February 17
+1 On page 1 of the printed bill, line 2, after “provisions;” delete the rest of the line and delete line
+2 3 and insert “and amending ORS 731.292, 731.804 and 743B.005.”.
+3 On page 2, delete lines 7 through 12 and insert:
+4 “(3) The coverage required by subsection (2) of this section:
+5 “(a) Includes, but is not limited to:
+6 “(A) A minimum of three completed oocyte retrievals with unlimited embryo transfers in ac-
+7 cordance with guidelines of the American Society for Reproductive Medicine, or a successor or-
+8 ganization, using single embryo transfer if recommended by a licensed treating practitioner and
+9 medically effective.
+10 “(B) Six completed egg retrievals per lifetime, with unlimited embryo transfers in accordance
+11 with the guidelines of the American Society for Reproductive Medicine, using single embryo transfer
+12 when recommended and medically appropriate.
+13 “(C) Assisted hatching.
+14 “(D) Cryopreservation and thawing of embryos.
+15 “(E) Embryo biopsy.
+16 “(F) Fresh and frozen embryo transfers.
+17 “(G) Storage of embryos.
+18 “(H) In vitro fertilization, including in vitro fertilization using donor eggs, sperm or embryos,
+19 and in vitro fertilization in which the embryo is transferred to a gestational carrier or surrogate.
+20 “(I) Intracytoplasmic sperm injection.
+21 “(J) Storage of oocytes, sperm and tissue.
+22 “(K) Intrauterine insemination.
+23 “(L) Cryopreservation of ovarian tissue.
+24 “(M) Cryopreservation of testicular tissue.
+25 “(N) Cryopreservation and thawing of eggs and sperm.
+26 “(O) Consultation and diagnostic testing.
+27 “(P) Medications.
+28 “(Q) Ovulation induction.
+29 “(R) Surgery, including microsurgical sperm aspiration.
+30 “(S) Medical and laboratory services that reduce excess embryo creation through egg
+31 cryopreservation and thawing.”.
+32 After line 26, insert:
+33 “(6) This section does not require a health benefit plan offered by an insurer described in ORS
+34 743A.067 (7)(e) to reimburse the cost of:
+35 “(a) Embryo transfer procedures as part of the coverages described in subsection (3)(a)(A) and
+LC 299/HB 4155-6
+
+1 (B) of this section; and
+2 “(b) Procedures described in subsection (3)(a)(C) to (I) of this section.
+3 “(7) The coverage requirements described in this section do not apply to health benefit plans
+4 offered by the Oregon Educators Benefit Board and Public Employees’ Benefit Board, unless the
+5 Oregon Educators Benefit Board or Public Employees’ Benefit Board elect to provide the
+6 coverage.”.
+7 In line 27, delete “(6)” and insert “(8)”.
+8 Delete lines 28 through 45.
+9 On page 3, delete lines 1 through 7.
+10 In line 8, delete “4” and insert “3”.
+11 On page 6, delete lines 19 through 45.
+12 On page 7, delete lines 1 through 39 and insert:
+13 “SECTION 4. (1) The Department of Consumer and Business Services shall administer a
+14 program to provide reimbursement for the costs of procedures described in section 2 (6) of
+15 this 2026 Act that are incurred by individuals enrolled in health benefit plans described in
+16 ORS 743A.067 (7)(e). The department shall establish application processes for the program
+17 and contract with a third party administrator or health insurance carrier to process claims
+18 for enrollees in the program.
+19 “(2) The department may adopt rules necessary to carry out the provisions of this sec-
+20 tion.
+21 “SECTION 5. The Family Building Fund is established in the State Treasury, separate
+22 and distinct from the General Fund, consisting of moneys collected from the portion of as-
+23 sessments imposed under ORS 731.804 (3) for the costs of administering the program de-
+24 scribed in section 4 of this 2026 Act. Interest earned by the Family Building Fund shall be
+25 credited to the fund. Moneys in the Family Building Fund are continuously appropriated to
+26 the Department of Consumer and Business Services to carry out the provisions of section 4
+27 of this 2026 Act.
+28 “SECTION 6. ORS 731.292 is amended to read:
+29 “731.292. (1) Except as provided in subsections (2), (3), [and] (4) and (5) of this section, all fees,
+30 charges and other moneys received by the Department of Consumer and Business Services or the
+31 Director of the Department of Consumer and Business Services under the Insurance Code shall be
+32 deposited in the fund created by ORS 705.145 and are continuously appropriated to the department
+33 for the payment of the expenses of the department in carrying out the Insurance Code.
+34 “(2) All taxes and penalties paid pursuant to the Insurance Code shall be paid to the director
+35 and after deductions of refunds shall be paid by the director to the State Treasurer, at the end of
+36 every calendar month or more often in the director’s discretion, for deposit in the General Fund to
+37 become available for general governmental expenses.
+38 “(3) All premium taxes received by the director pursuant to ORS 731.820 shall be paid by the
+39 director to the State Treasurer for deposit in the State Fire Marshal Fund.
+40 “(4) Assessments received by the department under sections 3 and 5, chapter 538, Oregon Laws
+41 2017, and penalties received by the department under section 6, chapter 538, Oregon Laws 2017,
+42 shall be paid into the State Treasury and credited to the Health System Fund established under
+43 section 2, chapter 538, Oregon Laws 2017.
+44 “(5) Assessments received by the department under ORS 731.804 (3) shall be paid to the
+45 Family Building Fund established under section 5 of this 2026 Act.
+HA to HB 4155 Page 2
+
+1 “SECTION 7. ORS 731.292, as amended by section 16, chapter 4, Oregon Laws 2025, is amended
+2 to read:
+3 “731.292. (1) Except as provided in subsections [(2) and (3)] (2), (3) and (4) of this section, all
+4 fees, charges and other moneys received by the Department of Consumer and Business Services or
+5 the Director of the Department of Consumer and Business Services under the Insurance Code shall
+6 be deposited in the fund created by ORS 705.145 and are continuously appropriated to the depart-
+7 ment for the payment of the expenses of the department in carrying out the Insurance Code.
+8 “(2) All taxes and penalties paid pursuant to the Insurance Code shall be paid to the director
+9 and after deductions of refunds shall be paid by the director to the State Treasurer, at the end of
+10 every calendar month or more often in the director’s discretion, for deposit in the General Fund to
+11 become available for general governmental expenses.
+12 “(3) All premium taxes received by the director pursuant to ORS 731.820 shall be paid by the
+13 director to the State Treasurer for deposit in the State Fire Marshal Fund.
+14 “(4) Assessments received by the department under ORS 731.804 (3) shall be paid to the
+15 Family Building Fund established under section 5 of this 2026 Act.
+16 “SECTION 8. ORS 731.804 is amended to read:
+17 “731.804. (1) Except as otherwise provided in this section, each authorized insurer doing busi-
+18 ness in this state shall pay assessments that the Director of the Department of Consumer and
+19 Business Services determines are necessary to support the legislatively authorized budget of the
+20 Department of Consumer and Business Services with respect to functions of the department under
+21 the Insurance Code. The director shall determine the assessments according to one or more per-
+22 centage rates established by the director by rule. The director shall specify in the rule when as-
+23 sessments shall be made and payments shall be due. The premium-weighted average of the
+24 percentage rates may not exceed nine-hundredths of one percent of the gross amount of premiums
+25 received by an insurer or the insurer’s insurance producers from and under the insurer’s policies
+26 covering direct domestic risks, after deducting the amount of return premiums paid and the amount
+27 of dividend payments made to policyholders with respect to such policies. In the case of reciprocal
+28 insurers, the amount of savings paid or credited to the accounts of subscribers shall be deducted
+29 from the gross amount of premiums. In establishing the percentage rate or rates, the director shall
+30 use the most recent premium data approved by the director. In establishing the amounts to be col-
+31 lected under this subsection, the director shall take into consideration the expenses of the depart-
+32 ment for administering the Insurance Code and the fees collected under subsection (2) of this
+33 section. When the director establishes two or more percentage rates:
+34 “(a) Each rate shall be based on such expenses of the department ascribed by the director to
+35 the line of insurance for which the rate is established.
+36 “(b) Each rate shall be applied to the gross amount of premium received by an insurer or its
+37 insurance producers for the applicable line of insurance as provided in this subsection.
+38 “(2) The director may collect fees for specific services provided by the department under the
+39 Insurance Code according to a schedule of fees established by the director by rule. The director may
+40 collect such fees in advance. In establishing the schedule for fees, the director shall take into con-
+41 sideration the cost of each service for which a fee is imposed.
+42 “(3)(a) Notwithstanding the provisions of ORS 743A.067 (7)(e) and 743A.067 (9), for the purpose
+43 of mitigating inequity in the health insurance market, the director may assess a fee on any insurer
+44 that offers a health benefit plan, as defined in ORS 743B.005, that is exempt from a provision of ORS
+45 chapter 743A or other provision of the Insurance Code that requires specified coverage by health
+HA to HB 4155 Page 3
+
+1 benefit plans.
+2 “(b) Any fees collected under paragraph (a) of this subsection must be the actuarial equivalent
+3 of costs attributed to the provision and administration of the required coverage by an insurer that
+4 is not exempt.
+5 “(c) Nothing in this section limits the authority of the director to enforce the provisions of ORS
+6 chapter 743A if an insurer unlawfully fails to comply.
+7 “(d) Notwithstanding ORS 646A.628, fees paid in accordance with paragraph (a) of this sub-
+8 section shall be deposited in the [General Fund to become available for general governmental
+9 expenses] Family Building Fund established under section 5 of this 2026 Act.
+10 “(4) Establishment and amendment of the schedule of fees under subsection (2) of this section
+11 are subject to prior approval of the Oregon Department of Administrative Services and shall be
+12 within the budget authorized by the Legislative Assembly as that budget may be modified by the
+13 Emergency Board.
+14 “(5) The director may not collect an assessment under subsection (1) of this section from any
+15 of the following persons:
+16 “(a) A fraternal benefit society complying with ORS chapter 748.
+17 “(b) Any person or class of persons designated by the director by rule.
+18 “(6) The director may not collect an assessment under subsection (1) of this section with respect
+19 to premiums received from any of the following policies:
+20 “(a) Workers’ compensation insurance policies.
+21 “(b) Wet marine and transportation insurance policies.
+22 “(c) Any category of policies designated by the director by rule.”.
+23 Delete lines 42 through 45 and delete page 8.
+24
+HA to HB 4155 Page 4

@@ -1,0 +1,915 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4003
+Sponsored by Representative NOSSE (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act changes how OHA decides which health services are covered in the state
+Medicaid program. (Flesch Readability Score: 63.6).
+Removes provisions relating to the use of the prioritized list of health services in the state
+medical assistance program. Requires the Oregon Health Authority to establish a definition of
+medical necessity and medical necessity criteria. Requires the Health Evidence Review Commission
+to develop and maintain clinical coverage policies that are consistent with the authority’s definition
+of medical necessity and with federal laws governing mandatory and optional medical assistance
+services.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to medical assistance; creating new provisions; amending ORS 414.025, 414.065, 414.325,
+3 414.689, 414.690, 414.698, 414.701, 414.735, 414.780, 415.500 and 741.340; repealing ORS 414.694;
+4 and declaring an emergency.
+5 Be It Enacted by the People of the State of Oregon:
+6 SECTION 1. ORS 414.025 is amended to read:
+7 414.025. As used in this chapter and ORS chapters 411 and 413, unless the context or a specially
+8 applicable statutory definition requires otherwise:
+9 (1)(a) “Alternative payment methodology” means a payment other than a fee-for-services pay-
+10 ment, used by coordinated care organizations as compensation for the provision of integrated and
+11 coordinated health care and services.
+12 (b) “Alternative payment methodology” includes, but is not limited to:
+13 (A) Shared savings arrangements;
+14 (B) Bundled payments; and
+15 (C) Payments based on episodes.
+16 (2) “Behavioral health assessment” means an evaluation by a behavioral health clinician, in
+17 person or using telemedicine, to determine a patient’s need for immediate crisis stabilization.
+18 (3) “Behavioral health clinician” means:
+19 (a) A licensed psychiatrist;
+20 (b) A licensed psychologist;
+21 (c) A licensed nurse practitioner with a specialty in psychiatric mental health;
+22 (d) A licensed clinical social worker;
+23 (e) A licensed professional counselor or licensed marriage and family therapist;
+24 (f) A certified clinical social work associate;
+25 (g) An intern or resident who is working under a board-approved supervisory contract in a
+26 clinical mental health field; or
+27 (h) Any other clinician whose authorized scope of practice includes mental health diagnosis and
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 91
+
+HB 4003
+1 treatment.
+2 (4) “Behavioral health crisis” means a disruption in an individual’s mental or emotional stability
+3 or functioning resulting in an urgent need for immediate outpatient treatment in an emergency de-
+4 partment or admission to a hospital to prevent a serious deterioration in the individual’s mental or
+5 physical health.
+6 (5) “Behavioral health home” means a mental health disorder or substance use disorder treat-
+7 ment organization, as defined by the Oregon Health Authority by rule, that provides integrated
+8 health care to individuals whose primary diagnoses are mental health disorders or substance use
+9 disorders.
+10 (6) “Category of aid” means assistance provided by the Oregon Supplemental Income Program,
+11 aid granted under ORS 411.877 to 411.896 and 412.001 to 412.069 or federal Supplemental Security
+12 Income payments.
+13 (7) “Community health worker” means an individual who meets qualification criteria adopted
+14 by the authority under ORS 414.665 and who:
+15 (a) Has expertise or experience in public health;
+16 (b) Works in an urban or rural community, either for pay or as a volunteer in association with
+17 a local health care system;
+18 (c) To the extent practicable, shares ethnicity, language, socioeconomic status and life experi-
+19 ences with the residents of the community the worker serves;
+20 (d) Assists members of the community to improve their health and increases the capacity of the
+21 community to meet the health care needs of its residents and achieve wellness;
+22 (e) Provides health education and information that is culturally appropriate to the individuals
+23 being served;
+24 (f) Assists community residents in receiving the care they need;
+25 (g) May give peer counseling and guidance on health behaviors; and
+26 (h) May provide direct services such as first aid or blood pressure screening.
+27 (8) “Coordinated care organization” means an organization meeting criteria adopted by the
+28 Oregon Health Authority under ORS 414.572.
+29 (9) “Dental subcontractor” means a prepaid managed care health services organization that en-
+30 ters into a noncomprehensive risk contract with a coordinated care organization or the Oregon
+31 Health Authority to provide dental services to medical assistance recipients.
+32 (10) “Doula” means a trained professional who provides continuous physical, emotional and in-
+33 formational support to an individual during pregnancy, labor and delivery or the postpartum period
+34 to help the individual achieve the healthiest and most satisfying experience possible.
+35 (11) “Dually eligible for Medicare and Medicaid” means, with respect to eligibility for enroll-
+36 ment in a coordinated care organization, that an individual is eligible for health services funded by
+37 Title XIX of the Social Security Act and is:
+38 (a) Eligible for or enrolled in Part A of Title XVIII of the Social Security Act; or
+39 (b) Enrolled in Part B of Title XVIII of the Social Security Act.
+40 (12)(a) “Family support specialist” means an individual who meets qualification criteria adopted
+41 by the authority under ORS 414.665 and who provides supportive services to and has experience
+42 parenting a child who:
+43 (A) Is a current or former consumer of mental health or addiction treatment; or
+44 (B) Is facing or has faced difficulties in accessing education, health and wellness services due
+45 to a mental health or behavioral health barrier.
+[2]
+
+HB 4003
+1 (b) A “family support specialist” may be a peer wellness specialist or a peer support specialist.
+2 (13) “Global budget” means a total amount established prospectively by the Oregon Health Au-
+3 thority to be paid to a coordinated care organization for the delivery of, management of, access to
+4 and quality of the health care delivered to members of the coordinated care organization.
+5 (14) “Health insurance exchange” or “exchange” means an American Health Benefit Exchange
+6 described in 42 U.S.C. 18031, 18032, 18033 and 18041.
+7 (15) “Health services” means [at least so much of] each of the following [as are] services, to the
+8 extent funded by the Legislative Assembly [based upon the prioritized list of health services compiled
+9 by the Health Evidence Review Commission under ORS 414.690]:
+10 (a) Services required by federal law to be included in the state’s medical assistance program in
+11 order for the program to qualify for federal funds;
+12 (b) Services provided by a physician as defined in ORS 677.010, a nurse practitioner licensed
+13 under ORS 678.375, a behavioral health clinician or other licensed practitioner within the scope of
+14 the practitioner’s practice as defined by state law, and ambulance services;
+15 (c) Prescription drugs;
+16 (d) Laboratory and X-ray services;
+17 (e) Medical equipment and supplies;
+18 (f) Mental health services;
+19 (g) Chemical dependency services;
+20 (h) Emergency dental services;
+21 (i) Nonemergency dental services;
+22 (j) Provider services, other than services described in paragraphs (a) to (i), (k), (L) and (m) of
+23 this subsection, defined by federal law that may be included in the state’s medical assistance pro-
+24 gram;
+25 (k) Emergency hospital services;
+26 (L) Outpatient hospital services; and
+27 (m) Inpatient hospital services.
+28 (16) “Income” has the meaning given that term in ORS 411.704.
+29 (17)(a) “Integrated health care” means care provided to individuals and their families in a pa-
+30 tient centered primary care home or behavioral health home by licensed primary care clinicians,
+31 behavioral health clinicians and other care team members, working together to address one or more
+32 of the following:
+33 (A) Mental illness.
+34 (B) Substance use disorders.
+35 (C) Health behaviors that contribute to chronic illness.
+36 (D) Life stressors and crises.
+37 (E) Developmental risks and conditions.
+38 (F) Stress-related physical symptoms.
+39 (G) Preventive care.
+40 (H) Ineffective patterns of health care utilization.
+41 (b) As used in this subsection, “other care team members” includes but is not limited to:
+42 (A) Qualified mental health professionals or qualified mental health associates meeting require-
+43 ments adopted by the Oregon Health Authority by rule;
+44 (B) Peer wellness specialists;
+45 (C) Peer support specialists;
+[3]
+
+HB 4003
+1 (D) Community health workers who have completed a state-certified training program;
+2 (E) Personal health navigators; or
+3 (F) Other qualified individuals approved by the Oregon Health Authority.
+4 (18) “Investments and savings” means cash, securities as defined in ORS 59.015, negotiable in-
+5 struments as defined in ORS 73.0104 and such similar investments or savings as the department or
+6 the authority may establish by rule that are available to the applicant or recipient to contribute
+7 toward meeting the needs of the applicant or recipient.
+8 (19) “Medical assistance” means so much of the medical, mental health, preventive, supportive,
+9 palliative and remedial care and services as may be prescribed by the authority according to the
+10 standards established pursuant to ORS 414.065, including premium assistance under ORS 414.115 and
+11 414.117, payments made for services provided under an insurance or other contractual arrangement
+12 and money paid directly to the recipient for the purchase of health services and for services de-
+13 scribed in ORS 414.710.
+14 (20) “Medical assistance” includes any care or services for any individual who is a patient in
+15 a medical institution or any care or services for any individual who has attained 65 years of age
+16 or is under 22 years of age, and who is a patient in a private or public institution for mental dis-
+17 eases. Except as provided in ORS 411.439 and 411.447, “medical assistance” does not include care
+18 or services for a resident of a nonmedical public institution.
+19 (21) “Mental health drug” means a type of legend drug, as defined in ORS 414.325, specified by
+20 the Oregon Health Authority by rule, including but not limited to:
+21 (a) Therapeutic class 7 ataractics-tranquilizers; and
+22 (b) Therapeutic class 11 psychostimulants-antidepressants.
+23 (22) “Patient centered primary care home” means a health care team or clinic that is organized
+24 in accordance with the standards established by the Oregon Health Authority under ORS 414.655
+25 and that incorporates the following core attributes:
+26 (a) Access to care;
+27 (b) Accountability to consumers and to the community;
+28 (c) Comprehensive whole person care;
+29 (d) Continuity of care;
+30 (e) Coordination and integration of care; and
+31 (f) Person and family centered care.
+32 (23) “Peer support specialist” means any of the following individuals who meet qualification
+33 criteria adopted by the authority under ORS 414.665 and who provide supportive services to a cur-
+34 rent or former consumer of mental health or addiction treatment:
+35 (a) An individual who is a current or former consumer of mental health treatment; or
+36 (b) An individual who is in recovery, as defined by the Oregon Health Authority by rule, from
+37 an addiction disorder.
+38 (24) “Peer wellness specialist” means an individual who meets qualification criteria adopted by
+39 the authority under ORS 414.665 and who is responsible for assessing mental health and substance
+40 use disorder service and support needs of a member of a coordinated care organization through
+41 community outreach, assisting members with access to available services and resources, addressing
+42 barriers to services and providing education and information about available resources for individ-
+43 uals with mental health or substance use disorders in order to reduce stigma and discrimination
+44 toward consumers of mental health and substance use disorder services and to assist the member
+45 in creating and maintaining recovery, health and wellness.
+[4]
+
+HB 4003
+1 (25) “Person centered care” means care that:
+2 (a) Reflects the individual patient’s strengths and preferences;
+3 (b) Reflects the clinical needs of the patient as identified through an individualized assessment;
+4 and
+5 (c) Is based upon the patient’s goals and will assist the patient in achieving the goals.
+6 (26) “Personal health navigator” means an individual who meets qualification criteria adopted
+7 by the authority under ORS 414.665 and who provides information, assistance, tools and support to
+8 enable a patient to make the best health care decisions in the patient’s particular circumstances and
+9 in light of the patient’s needs, lifestyle, combination of conditions and desired outcomes.
+10 (27) “Prepaid managed care health services organization” means a managed dental care, mental
+11 health or chemical dependency organization that contracts with the authority under ORS 414.654
+12 or with a coordinated care organization on a prepaid capitated basis to provide health services to
+13 medical assistance recipients.
+14 (28) “Quality measure” means the health outcome and quality measures and benchmarks identi-
+15 fied by the Health Plan Quality Metrics Committee and the metrics and scoring subcommittee in
+16 accordance with ORS 413.017 (4) and 413.022 and the quality metrics developed by the Behavioral
+17 Health Committee in accordance with ORS 413.017 (5).
+18 (29)(a) “Quality of life in general measure” means an assessment of the value, effectiveness or
+19 cost-effectiveness of a treatment that gives greater value to a year of life lived in perfect health than
+20 the value given to a year of life lived in less than perfect health.
+21 (b) “Quality of life in general measure” does not mean an assessment of the value, effectiveness
+22 or cost-effectiveness of a treatment during a clinical trial in which a study participant is asked to
+23 rate the participant’s physical function, pain, general health, vitality, social functions or other sim-
+24 ilar domains.
+25 (30) “Resources” has the meaning given that term in ORS 411.704. For eligibility purposes, “re-
+26 sources” does not include charitable contributions raised by a community to assist with medical
+27 expenses.
+28 (31) “Social determinants of health” means:
+29 (a) Nonmedical factors that influence health outcomes;
+30 (b) The conditions in which individuals are born, grow, work, live and age; and
+31 (c) The forces and systems that shape the conditions of daily life, such as economic policies and
+32 systems, development agendas, social norms, social policies, racism, climate change and political
+33 systems.
+34 (32) “Tribal traditional health worker” means an individual who meets qualification criteria
+35 adopted by the authority under ORS 414.665 and who:
+36 (a) Has expertise or experience in public health;
+37 (b) Works in a tribal community or an urban Indian community, either for pay or as a volunteer
+38 in association with a local health care system;
+39 (c) To the extent practicable, shares ethnicity, language, socioeconomic status and life experi-
+40 ences with the residents of the community the worker serves;
+41 (d) Assists members of the community to improve their health, including physical, behavioral and
+42 oral health, and increases the capacity of the community to meet the health care needs of its resi-
+43 dents and achieve wellness;
+44 (e) Provides health education and information that is culturally appropriate to the individuals
+45 being served;
+[5]
+
+HB 4003
+1 (f) Assists community residents in receiving the care they need;
+2 (g) May give peer counseling and guidance on health behaviors; and
+3 (h) May provide direct services, such as tribal-based practices.
+4 (33)(a) “Youth support specialist” means an individual who meets qualification criteria adopted
+5 by the authority under ORS 414.665 and who, based on a similar life experience, provides supportive
+6 services to an individual who:
+7 (A) Is not older than 30 years of age; and
+8 (B)(i) Is a current or former consumer of mental health or addiction treatment; or
+9 (ii) Is facing or has faced difficulties in accessing education, health and wellness services due
+10 to a mental health or behavioral health barrier.
+11 (b) A “youth support specialist” may be a peer wellness specialist or a peer support specialist.
+12 SECTION 2. ORS 414.065 is amended to read:
+13 414.065. (1)(a) Consistent with ORS 414.690, 414.710, 414.712 and 414.766 and other statutes
+14 governing the provision of and payments for health services in medical assistance, the Oregon
+15 Health Authority shall [determine], subject to such revisions as it may make from time to time and
+16 to legislative funding:
+17 (A) Determine the types and extent of health services to be provided to each eligible group of
+18 recipients of medical assistance in accordance with federal laws governing mandatory and op-
+19 tional state medical assistance services.
+20 (B) Establish by rule standards, including a definition of medical necessity, medical neces-
+21 sity criteria and outcome and quality measures, to be observed in the provision of health services.
+22 (C) Determine the number of days of health services toward the cost of which medical assist-
+23 ance funds will be expended in the care of any person.
+24 (D) Establish reasonable fees, charges, daily rates and global payments for meeting the costs
+25 of providing health services to an applicant or recipient.
+26 (E) Establish reasonable fees for professional medical and dental services which may be based
+27 on usual and customary fees in the locality for similar services.
+28 (F) Determine the amount and application of any copayment or other similar cost-sharing pay-
+29 ment that the authority may require a recipient to pay toward the cost of health services.
+30 (b) The authority shall adopt rules:
+31 (A) Establishing timelines for payment of health services under paragraph (a) of this subsection.
+32 (B) Defining the role of the clinical coverage policies developed under ORS 414.690 in de-
+33 termining the extent of health services to be provided to medical assistance recipients.
+34 (C) Prescribing an appeal process for denials of coverage that allows for individual med-
+35 ical review.
+36 (2) In [making the determinations] performing the actions under subsection (1) of this section
+37 and in the imposition of any utilization controls on access to health services, the authority may not
+38 consider a quality of life in general measure, either directly or by considering a source that relies
+39 on a quality of life in general measure.
+40 (3) The types and extent of health services and the amounts to be paid in meeting the costs
+41 thereof, as determined and fixed by the authority and within the limits of funds available therefor,
+42 shall be the total available for medical assistance, and payments for such medical assistance shall
+43 be the total amounts from medical assistance funds available to providers of health services in
+44 meeting the costs thereof.
+45 (4) Except for payments under a cost-sharing plan, payments made by the authority for medical
+[6]
+
+HB 4003
+1 assistance shall constitute payment in full for all health services for which such payments of medical
+2 assistance were made.
+3 (5) Notwithstanding subsection (1) of this section, the Department of Human Services shall be
+4 responsible for determining the payment for Medicaid-funded long term care services and for con-
+5 tracting with the providers of long term care services.
+6 (6) In determining a global budget for a coordinated care organization:
+7 (a) The allocation of the payment, the risk and any cost savings shall be determined by the
+8 governing body of the organization;
+9 (b) The authority shall consider the community health assessment conducted by the organization
+10 in accordance with ORS 414.577 and reviewed annually, and the organization’s health care costs;
+11 and
+12 (c) The authority shall take into account the organization’s provision of innovative, nontradi-
+13 tional health services.
+14 (7) Under the supervision of the Governor, the authority may work with the Centers for Medi-
+15 care and Medicaid Services to develop, in addition to global budgets, payment streams:
+16 (a) To support improved delivery of health care to recipients of medical assistance; and
+17 (b) That are funded by coordinated care organizations, counties or other entities other than the
+18 state whose contributions qualify for federal matching funds under Title XIX or XXI of the Social
+19 Security Act.
+20 SECTION 3. ORS 414.689 is amended to read:
+21 414.689. (1) The Health Evidence Review Commission shall select one of its members as chair-
+22 person and another as vice chairperson, for terms and with duties and powers the commission de-
+23 termines necessary for the performance of the functions of the offices.
+24 (2) A majority of the members of the commission constitutes a quorum for the transaction of
+25 business.
+26 (3) The commission shall meet at least four times per year at a place, day and hour determined
+27 by the chairperson. The commission also shall meet at other times and places specified by the call
+28 of the chairperson or of a majority of the members of the commission. All meetings and deliberations
+29 of the commission shall be in accordance with ORS 192.610 to 192.690. The commission may not meet
+30 in executive session to hear evidence from an advisory committee or subcommittee or a panel of
+31 experts or to deliberate on matters presented by an advisory committee or subcommittee or a panel
+32 of experts.
+33 (4) The commission may use advisory committees or subcommittees whose members are ap-
+34 pointed by the chairperson of the commission subject to approval by a majority of the members of
+35 the commission. The advisory committees or subcommittees may contain experts appointed by the
+36 chairperson and a majority of the members of the commission. The conditions of service of the ex-
+37 perts will be determined by the chairperson and a majority of the members of the commission.
+38 (5) The Oregon Health Authority shall provide staff and support services to the commission.
+39 (6) The commission shall adopt by rule practices to prevent undue influence by interested
+40 parties.
+41 SECTION 4. ORS 414.690 is amended to read:
+42 414.690. (1) The Health Evidence Review Commission shall regularly solicit testimony and in-
+43 formation from [stakeholders] interested parties representing consumers, advocates, providers, car-
+44 riers and employers in conducting the work of the commission.
+45 (2) The commission shall actively solicit public involvement through a public meeting process
+[7]
+
+HB 4003
+1 to guide health resource allocation decisions that includes, but is not limited to:
+2 (a) Providing members of the public the opportunity to provide input on the selection of any
+3 vendor that provides research and analysis to the commission; and
+4 (b) Inviting public comment on any research or analysis tool or health economic measures to
+5 be relied upon by the commission in the commission’s decision-making.
+6 (3)(a) The commission shall develop and maintain [a list of health services ranked by priority,
+7 from the most important to the least important, representing the comparative benefits of each service to
+8 the population to be served] clinical coverage policies that include:
+9 (A) Diagnosis and treatment code pairings that indicate which health services are med-
+10 ically necessary for which conditions; and
+11 (B) Coverage guidelines regarding medically necessary health services.
+12 (b) The clinical coverage policies developed under this section must be consistent with
+13 the medical necessity definition established by the Oregon Health Authority under ORS
+14 414.065 and federal laws governing mandatory and optional state medical assistance
+15 services.
+16 [(b)] (c) Except as provided in ORS 414.701, the commission may not rely upon any quality of
+17 life in general measures, either directly or by considering research or analysis that relies on a
+18 quality of life in general measure, in determining:
+19 (A) Whether a service is cost-effective;
+20 (B) Whether a service is recommended; or
+21 (C) The value of a service.
+22 [(c)] (d) The [list] clinical coverage policies developed under this section must be submitted
+23 by the commission pursuant to subsection (5) of this section and [is] are not subject to alteration
+24 by any other state agency.
+25 (4) In order to encourage effective and efficient medical evaluation and treatment, the commis-
+26 sion:
+27 (a) [May include clinical practice guidelines in its prioritized list of services. The commission] Shall
+28 actively solicit testimony and information from the medical community and the public to build a
+29 consensus on clinical [practice guidelines] coverage policies developed by the commission.
+30 (b) May include statements of intent in its [prioritized list of services] clinical coverage
+31 policies. Statements of intent should give direction on coverage decisions where medical codes and
+32 [clinical practice] coverage guidelines cannot convey the intent of the commission.
+33 (c) Shall consider both the clinical effectiveness and cost-effectiveness, according to peer-
+34 reviewed medical literature, of health services, including drug therapies, in [determining their rel-
+35 ative importance using peer-reviewed medical literature] developing clinical coverage policies.
+36 (5) The commission shall report [the prioritized list of services] any changes to the clinical
+37 coverage policies developed under this section to the Oregon Health Authority for budget deter-
+38 minations by July 1 of each even-numbered year.
+39 (6) The commission shall make its report during each regular session of the Legislative Assem-
+40 bly and shall submit a copy of its report to the Governor, the Speaker of the House of Represen-
+41 tatives and the President of the Senate and post to the Oregon Health Authority’s website, along
+42 with a solicitation of public comment, an assessment of the impact on access to medically necessary
+43 treatment and services by persons with disabilities or chronic illnesses resulting from the
+44 commission’s prior use of any quality of life in general measures or any research or analysis that
+45 referred to or relied upon a quality of life in general measure.
+[8]
+
+HB 4003
+1 (7) The commission may alter the [list] clinical coverage policies developed under this section
+2 during the interim only as follows:
+3 (a) To make technical changes to correct errors and omissions;
+4 (b) To accommodate changes due to advancements in medical technology or new data regarding
+5 health outcomes;
+6 (c) To accommodate changes to [clinical practice] coverage guidelines; and
+7 (d) To add or modify statements of intent that clarify the [prioritized list] commission’s clin-
+8 ical coverage policies.
+9 [(8) If a service is deleted or added during an interim and no new funding is required, the com-
+10 mission shall report to the Speaker of the House of Representatives and the President of the Senate.
+11 However, if a service to be added requires increased funding to avoid discontinuing another service,
+12 the commission shall report to the Emergency Board to request the funding.]
+13 (8) If the commission changes the clinical coverage policies developed under this section
+14 during an interim, the commission shall report the change to the authority. If the change
+15 requires increased funding, the authority may request additional funding from the Emer-
+16 gency Board.
+17 (9) [The prioritized list of services remains] Changes to the clinical coverage policies devel-
+18 oped under this section, as reported under subsection (5) of this section, shall remain in effect
+19 for a two-year period beginning no earlier than October 1 of each odd-numbered year.
+20 (10)(a) As used in this section, “peer-reviewed medical literature” means scientific studies
+21 printed in journals or other publications that publish original manuscripts only after the manuscripts
+22 have been critically reviewed by unbiased independent experts for scientific accuracy, validity and
+23 reliability.
+24 (b) “Peer-reviewed medical literature” does not include internal publications of pharmaceutical
+25 manufacturers.
+26 SECTION 5. ORS 414.701 is amended to read:
+27 414.701. (1) As used in this section, “peer-reviewed medical literature” has the meaning given
+28 that term in ORS 414.690.
+29 (2) The Health Evidence Review Commission, in [ranking health services or developing
+30 guidelines] developing clinical coverage policies under ORS 414.690 or in assessing medical tech-
+31 nologies under ORS 414.698, and the Pharmacy and Therapeutics Committee, in considering a rec-
+32 ommendation for a drug to be included on any preferred drug list or on the Practitioner-Managed
+33 Prescription Drug Plan:
+34 (a) May not rely solely on the results of comparative effectiveness research but must evaluate
+35 a range of research and analysis, including peer-reviewed medical literature that:
+36 (A) Studies health outcomes that are priorities for persons with disabilities who experience
+37 specific diseases or illnesses, through surveys or other methods of identifying priority outcomes for
+38 individuals who experience the diseases or illnesses;
+39 (B) Studies subgroups of patients who experience specific diseases or illnesses, to ensure con-
+40 sideration of any important differences and clinical characteristics applicable to the subgroups; and
+41 (C) Considers the full range of relevant, peer-reviewed medical literature and avoids harm to
+42 patients caused by undue emphasis on evidence that is deemed inconclusive of clinical differences
+43 without further investigation.
+44 (b) May consider research or analyses that reference a quality of life in general measure only
+45 if:
+[9]
+
+HB 4003
+1 (A) The staff of the commission includes an individual who:
+2 (i) Is trained in identifying bias and discrimination in medical research and analyses;
+3 (ii) Is not involved in research evaluation and recommendations for a given condition-treatment
+4 pair on the prioritized list subject to the commission’s review; and
+5 (iii) Determines that any of a researcher’s conclusions and analyses about the value or cost-
+6 effectiveness of a treatment, that were relied upon by the staff of the commission in making a rec-
+7 ommendation regarding the treatment, did not rely upon and were not influenced by the quality of
+8 life in general measure; and
+9 (B) All references to the quality of life in general measure are redacted from the research or
+10 analyses before the research or analyses are presented to the commission or to any advisory com-
+11 mittee or subcommittees used or consulted by the commission.
+12 (3) The commission may not contract with a single vendor to provide or compile research and
+13 analysis that is considered by the commission, and the commission shall publicly disclose, regarding
+14 vendors providing or compiling research or analysis to the commission:
+15 (a) The vendors’ funding sources; and
+16 (b) Any conflicts of interest that a vendor may have with respect to the research and analysis
+17 provided.
+18 SECTION 6. ORS 414.735 is amended to read:
+19 414.735. (1) If insufficient resources are available during a contract period:
+20 (a) The population of eligible persons determined by law may not be reduced.
+21 (b) The reimbursement rate for providers and plans established under the contractual agreement
+22 may not be reduced.
+23 (2) In the circumstances described in subsection (1) of this section, reimbursement [shall] may
+24 be adjusted by reducing the health services for the eligible population [by eliminating services in the
+25 order of priority recommended by the Health Evidence Review Commission, starting with the least im-
+26 portant and progressing toward the most important]. The Oregon Health Authority shall consult
+27 with the Health Evidence Review Commission before implementing a significant reduction in
+28 health services.
+29 (3) The [Oregon Health] authority shall obtain the approval of the Legislative Assembly, or the
+30 Emergency Board if the Legislative Assembly is not in session, before instituting the reductions. In
+31 addition, providers contracting to provide health services under [ORS 414.591, 414.631 and 414.688
+32 to 414.745] this chapter must be notified at least two weeks prior to any legislative consideration
+33 of such reductions. Any reductions made under this section shall take effect no sooner than 60 days
+34 following final legislative action approving the reductions.
+35 (4) This section does not apply to reductions made by the Legislative Assembly in a legislatively
+36 adopted or approved budget.
+37 SECTION 7. ORS 414.325 is amended to read:
+38 414.325. (1) As used in this section:
+39 (a) “Legend drug” means any drug requiring a prescription by a practitioner, as defined in ORS
+40 689.005.
+41 (b) “Urgent medical condition” means a medical condition that arises suddenly, is not life-
+42 threatening and requires prompt treatment to avoid the development of more serious medical prob-
+43 lems.
+44 (2) A licensed practitioner may prescribe such drugs under this chapter as the practitioner in
+45 the exercise of professional judgment considers appropriate for the diagnosis or treatment of the
+[10]
+
+HB 4003
+1 patient in the practitioner’s care and within the scope of practice. Prescriptions shall be dispensed
+2 in the generic form pursuant to ORS 689.515 and pursuant to rules of the Oregon Health Authority
+3 unless the practitioner prescribes otherwise and an exception is granted by the authority.
+4 (3) Except as provided in subsections (4) and (5) of this section, the authority shall place no limit
+5 on the type of legend drug that may be prescribed by a practitioner, but the authority shall pay only
+6 for drugs in the generic form unless an exception has been granted by the authority.
+7 (4) Notwithstanding subsection (3) of this section, an exception must be applied for and granted
+8 before the authority is required to pay for minor tranquilizers and amphetamines and amphetamine
+9 derivatives, as defined by rule of the authority.
+10 (5)(a) Notwithstanding subsections (1) to (4) of this section and except as provided in paragraph
+11 (b) of this subsection, the authority is authorized to:
+12 (A) Withhold payment for a legend drug when federal financial participation is not available;
+13 and
+14 (B) Require prior authorization of payment for drugs that the authority has determined should
+15 be limited to those conditions generally recognized as appropriate by the medical profession.
+16 (b) The authority may not require prior authorization for:
+17 (A) Therapeutic classes of nonsedating antihistamines and nasal inhalers, as defined by rule by
+18 the authority, when prescribed by an allergist for treatment of any of the following conditions, as
+19 described by the Health Evidence Review Commission [on the funded portion of its prioritized list of
+20 services] in the clinical coverage policies developed under ORS 414.690:
+21 (i) Asthma;
+22 (ii) Sinusitis;
+23 (iii) Rhinitis; or
+24 (iv) Allergies.
+25 (B) Any mental health drug prescribed for a medical assistance recipient if:
+26 (i) The claims history available to the authority shows that the recipient has been in a course
+27 of treatment with the drug during the preceding 365-day period; or
+28 (ii) The prescriber specifies on the prescription “dispense as written” or includes the notation
+29 “D.A.W.” or words of similar meaning.
+30 (6) The authority shall pay a rural health clinic for a legend drug prescribed and dispensed un-
+31 der this chapter by a licensed practitioner at the rural health clinic for an urgent medical condition
+32 if:
+33 (a) There is not a pharmacy within 15 miles of the clinic;
+34 (b) The prescription is dispensed for a patient outside of the normal business hours of any
+35 pharmacy within 15 miles of the clinic; or
+36 (c) No pharmacy within 15 miles of the clinic dispenses legend drugs under this chapter.
+37 (7) Notwithstanding ORS 414.334, the authority may conduct prospective drug utilization review
+38 in accordance with ORS 414.351 to 414.414.
+39 (8) Notwithstanding subsection (3) of this section, the authority may pay a pharmacy for a par-
+40 ticular brand name drug rather than the generic version of the drug after notifying the pharmacy
+41 that the cost of the particular brand name drug, after receiving discounted prices and rebates, is
+42 equal to or less than the cost of the generic version of the drug.
+43 (9)(a) Within 180 days after the United States patent expires on an immunosuppressant drug
+44 used in connection with an organ transplant, the authority shall determine whether the drug is a
+45 narrow therapeutic index drug.
+[11]
+
+HB 4003
+1 (b) As used in this subsection, “narrow therapeutic index drug” means a drug that has a narrow
+2 range in blood concentrations between efficacy and toxicity and requires therapeutic drug concen-
+3 tration or pharmacodynamic monitoring.
+4 SECTION 8. ORS 414.698 is amended to read:
+5 414.698. (1) The Health Evidence Review Commission shall conduct comparative effectiveness
+6 research of medical technologies selected in accordance with ORS 414.695. The commission may
+7 conduct the research by comprehensive review of the comparative effectiveness research undertaken
+8 by recognized state, national or international entities. The commission may consider evidence re-
+9 lating to prescription drugs that is relevant to a medical technology assessment but may not conduct
+10 a drug class evidence review or medical technology assessment solely of a prescription drug. The
+11 commission shall disseminate the research findings to health care consumers, providers and third-
+12 party payers and to other interested [stakeholders] parties.
+13 (2) The commission shall develop or identify and shall disseminate evidence-based health care
+14 guidelines for use by providers, consumers and purchasers of health care in Oregon.
+15 (3) The Oregon Health Authority shall vigorously pursue health care purchasing strategies that
+16 adopt the research findings described in subsection (1) of this section and the evidence-based health
+17 care guidelines described in subsection (2) of this section.
+18 SECTION 9. ORS 414.780 is amended to read:
+19 414.780. (1) As used in this section:
+20 (a) “Behavioral health coverage” means mental health treatment and services and substance use
+21 disorder treatment or services reimbursed by a coordinated care organization.
+22 (b) “Coordinated care organization” has the meaning given that term in ORS 414.025.
+23 (c) “Mental health treatment and services” means the treatment of or services provided to ad-
+24 dress any condition or disorder that falls under any of the diagnostic categories listed in the mental
+25 disorders section of the current edition of the:
+26 (A) International Classification of Disease; or
+27 (B) Diagnostic and Statistical Manual of Mental Disorders.
+28 (d) “Nonquantitative treatment limitation” means a limitation that is not expressed numerically
+29 but otherwise limits the scope or duration of behavioral health coverage, such as medical necessity
+30 criteria or other utilization review.
+31 (e) “Substance use disorder treatment and services” means the treatment of and any services
+32 provided to address any condition or disorder that falls under any of the diagnostic categories listed
+33 in the substance use section of the current edition of the:
+34 (A) International Classification of Disease; or
+35 (B) Diagnostic and Statistical Manual of Mental Disorders.
+36 (2) No later than March 1 of each calendar year, the Oregon Health Authority shall prescribe
+37 the form and manner for each coordinated care organization to report to the authority, on or before
+38 June 1 of the calendar year, information about the coordinated care organization’s compliance with
+39 mental health parity requirements, including but not limited to the following:
+40 (a) The specific plan or coverage terms or other relevant terms regarding the nonquantitative
+41 treatment limitations and a description of all mental health or substance use disorder benefits and
+42 medical or surgical benefits to which each such term applies in each respective benefits classifica-
+43 tion.
+44 (b) The factors used to determine that the nonquantitative treatment limitations will apply to
+45 mental health or substance use disorder benefits and medical or surgical benefits.
+[12]
+
+HB 4003
+1 (c) The evidentiary standards used for the factors identified in paragraph (b) of this subsection,
+2 when applicable, provided that every factor is defined, and any other source or evidence relied upon
+3 to design and apply the nonquantitative treatment limitations to mental health or substance use
+4 disorder benefits and medical or surgical benefits.
+5 (d) The number of denials of coverage of mental health treatment and services, substance use
+6 disorder treatment and services and medical and surgical treatment and services, the percentage of
+7 denials that were appealed, the percentage of appeals that upheld the denial and the percentage of
+8 appeals that overturned the denial.
+9 (e) The percentage of claims for behavioral health coverage and for coverage of medical and
+10 surgical treatments that were paid to in-network providers and the percentage of such claims that
+11 were paid to out-of-network providers.
+12 (f) Other data or information the authority deems necessary to assess a coordinated care
+13 organization’s compliance with mental health parity requirements.
+14 (3) Coordinated care organizations must demonstrate in the documentation submitted under
+15 subsection (2) of this section, that the processes, strategies, evidentiary standards and other factors
+16 used to apply nonquantitative treatment limitation to mental health or substance use disorder
+17 treatment, as written and in operation, are comparable to and are applied no more stringently that
+18 the processes, strategies, evidentiary standards and other factors used to apply nonquantitative
+19 treatment limitations to medical or surgical treatments in the same classification.
+20 (4) Each calendar year the authority, in collaboration with individuals representing behavioral
+21 health treatment providers, community mental health programs, coordinated care organizations, the
+22 Consumer Advisory Council established in ORS 430.073 and consumers of mental health or substance
+23 use disorder treatment, shall, based on the information reported under subsection (2) of this section,
+24 identify and assess:
+25 (a) Coordinated care organizations’ compliance with the requirements for parity between the
+26 behavioral health coverage and the coverage of medical and surgical treatment in the medical as-
+27 sistance program; and
+28 (b) The authority’s compliance with the requirements for parity between the behavioral health
+29 coverage and the coverage of medical and surgical treatment in the medical assistance program for
+30 individuals who are not enrolled in a coordinated care organization.
+31 (5) No later than December 31 of each calendar year, the authority shall submit a report to the
+32 interim committees of the Legislative Assembly related to mental or behavioral health, in the man-
+33 ner provided in ORS 192.245, that includes:
+34 (a) The authority’s findings under subsection (4) of this section on compliance with rules re-
+35 garding mental health parity, including a comparison of coverage for members of coordinated care
+36 organizations to coverage for medical assistance recipients who are not enrolled in coordinated care
+37 organizations as applicable; and
+38 (b) An assessment of:
+39 (A) The adequacy of the provider network as prescribed by the authority by rule.
+40 (B) The timeliness of access to mental health and substance use disorder treatment and services,
+41 as prescribed by the authority by rule.
+42 (C) The criteria used by each coordinated care organization to determine medical necessity and
+43 behavioral health coverage, including each coordinated care organization’s payment protocols and
+44 procedures.
+45 (D) Data on services that are requested but that coordinated care organizations are not required
+[13]
+
+HB 4003
+1 to provide.
+2 (E) The consistency of credentialing requirements for behavioral health treatment providers
+3 with the credentialing of medical and surgical treatment providers.
+4 (F) The utilization review, as defined by the authority by rule, applied to behavioral health
+5 coverage compared to coverage of medical and surgical treatments.
+6 (G) The specific findings and conclusions reached by the authority with respect to the coverage
+7 of mental health and substance use disorder treatment and the authority’s analysis that indicates
+8 that the coverage is or is not in compliance with this section.
+9 (H) The specific findings and conclusions of the authority demonstrating a coordinated care
+10 organization’s compliance with this section and with the Paul Wellstone and Pete Domenici Mental
+11 Health Parity and Addiction Equity Act of 2008 (P.L. 110-343) and rules adopted thereunder.
+12 (6) Except as provided in subsection (5)(b)(D) of this section, this section does not require co-
+13 ordinated care organizations to report data on services that are not [funded on the prioritized list
+14 of health services compiled by the Health Evidence Review Commission under ORS 414.690] covered
+15 health services under the state medical assistance program, as determined under ORS
+16 414.065 and 414.690.
+17 SECTION 10. ORS 415.500 is amended to read:
+18 415.500. As used in this section and ORS 415.501 and 415.505:
+19 (1) “Corporate affiliation” has the meaning prescribed by the Oregon Health Authority by rule,
+20 including:
+21 (a) Any relationship between two organizations that reflects, directly or indirectly, a partial or
+22 complete controlling interest or partial or complete corporate control; and
+23 (b) Transactions that merge tax identification numbers or corporate governance.
+24 (2) “Essential services” means:
+25 (a) Services that are [funded on the prioritized list described in ORS 414.690] covered under the
+26 state medical assistance program, as determined under ORS 414.065 and 414.690; and
+27 (b) Services that are essential to achieve health equity.
+28 (3) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+29 (4)(a) “Health care entity” includes:
+30 (A) An individual health professional licensed or certified in this state;
+31 (B) A hospital, as defined in ORS 442.015, or hospital system, as defined by the authority by rule;
+32 (C) A carrier, as defined in ORS 743B.005, that offers a health benefit plan in this state;
+33 (D) A Medicare Advantage plan;
+34 (E) A coordinated care organization or a prepaid managed care health services organization, as
+35 both terms are defined in ORS 414.025; and
+36 (F) Any other entity that has as a primary function the provision of health care items or ser-
+37 vices or that is a parent organization of, or is an entity closely related to, an entity that has as a
+38 primary function the provision of health care items or services.
+39 (b) “Health care entity” does not include:
+40 (A) Long term care facilities, as defined in ORS 442.015.
+41 (B) Facilities licensed and operated under ORS 443.400 to 443.455.
+42 (5) “Health equity” has the meaning prescribed by the Oregon Health Policy Board and adopted
+43 by the authority by rule.
+44 (6)(a) “Material change transaction” means:
+45 (A) A transaction in which at least one party had average revenue of $25 million or more in the
+[14]
+
+HB 4003
+1 preceding three fiscal years and another party:
+2 (i) Had an average revenue of at least $10 million in the preceding three fiscal years; or
+3 (ii) In the case of a new entity, is projected to have at least $10 million in revenue in the first
+4 full year of operation at normal levels of utilization or operation as prescribed by the authority by
+5 rule.
+6 (B) If a transaction involves a health care entity in this state and an out-of-state entity, a
+7 transaction that otherwise qualifies as a material change transaction under this paragraph that may
+8 result in increases in the price of health care or limit access to health care services in this state.
+9 (b) “Material change transaction” does not include:
+10 (A) A clinical affiliation of health care entities formed for the purpose of collaborating on clin-
+11 ical trials or graduate medical education programs.
+12 (B) A medical services contract or an extension of a medical services contract.
+13 (C) An affiliation that:
+14 (i) Does not impact the corporate leadership, governance or control of an entity; and
+15 (ii) Is necessary, as prescribed by the authority by rule, to adopt advanced value-based payment
+16 methodologies to meet the health care cost growth targets under ORS 442.386.
+17 (D) Contracts under which one health care entity, for and on behalf of a second health care
+18 entity, provides patient care and services or provides administrative services relating to, supporting
+19 or facilitating the provision of patient care and services, if the second health care entity:
+20 (i) Maintains responsibility, oversight and control over the patient care and services; and
+21 (ii) Bills and receives reimbursement for the patient care and services.
+22 (E) Transactions in which a participant that is a health center as defined in 42 U.S.C. 254b,
+23 while meeting all of the participant’s obligations, acquires, affiliates with, partners with or enters
+24 into any agreement with another entity unless the transaction would result in the participant no
+25 longer qualifying as a health center under 42 U.S.C. 254b.
+26 (7)(a) “Medical services contract” means a contract to provide medical or mental health services
+27 entered into by:
+28 (A) A carrier and an independent practice association;
+29 (B) A carrier, coordinated care organization, independent practice association or network of
+30 providers and one or more providers, as defined in ORS 743B.001;
+31 (C) An independent practice association and an individual health professional or an organization
+32 of health care providers;
+33 (D) Medical, dental, vision or mental health clinics; or
+34 (E) A medical, dental, vision or mental health clinic and an individual health professional to
+35 provide medical, dental, vision or mental health services.
+36 (b) “Medical services contract” does not include a contract of employment or a contract creat-
+37 ing a legal entity and ownership of the legal entity that is authorized under ORS chapter 58, 60 or
+38 70 or under any other law authorizing the creation of a professional organization similar to those
+39 authorized by ORS chapter 58, 60 or 70, as may be prescribed by the authority by rule.
+40 (8) “Net patient revenue” means the total amount of revenue, after allowance for contractual
+41 amounts, charity care and bad debt, received for patient care and services, including:
+42 (a) Value-based payments;
+43 (b) Incentive payments;
+44 (c) Capitation payments or payments under any similar contractual arrangement for the pre-
+45 payment or reimbursement of patient care and services; and
+[15]
+
+HB 4003
+1 (d) Any payment received by a hospital to reimburse a hospital assessment under ORS 414.855.
+2 (9) “Revenue” means:
+3 (a) Net patient revenue; or
+4 (b) The gross amount of premiums received by a health care entity that are derived from health
+5 benefit plans.
+6 (10) “Transaction” means:
+7 (a) A merger of a health care entity with another entity;
+8 (b) An acquisition of one or more health care entities by another entity;
+9 (c) New contracts, new clinical affiliations and new contracting affiliations that will eliminate
+10 or significantly reduce, as defined by the authority by rule, essential services;
+11 (d) A corporate affiliation involving at least one health care entity; or
+12 (e) Transactions to form a new partnership, joint venture, accountable care organization, parent
+13 organization or management services organization, as prescribed by the authority by rule.
+14 SECTION 11. ORS 415.500, as amended by section 21, chapter 4, Oregon Laws 2025, is amended
+15 to read:
+16 415.500. As used in this section and ORS 415.501 and 415.505:
+17 (1) “Corporate affiliation” has the meaning prescribed by the Oregon Health Authority by rule,
+18 including:
+19 (a) Any relationship between two organizations that reflects, directly or indirectly, a partial or
+20 complete controlling interest or partial or complete corporate control; and
+21 (b) Transactions that merge tax identification numbers or corporate governance.
+22 (2) “Essential services” means:
+23 (a) Services that are [funded on the prioritized list described in ORS 414.690] covered under the
+24 state medical assistance program, as determined under ORS 414.065 and 414.690; and
+25 (b) Services that are essential to achieve health equity.
+26 (3) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+27 (4)(a) “Health care entity” includes:
+28 (A) An individual health professional licensed or certified in this state;
+29 (B) A hospital, as defined in ORS 442.015, or hospital system, as defined by the authority by rule;
+30 (C) A carrier, as defined in ORS 743B.005, that offers a health benefit plan in this state;
+31 (D) A Medicare Advantage plan;
+32 (E) A coordinated care organization or a prepaid managed care health services organization, as
+33 both terms are defined in ORS 414.025; and
+34 (F) Any other entity that has as a primary function the provision of health care items or ser-
+35 vices or that is a parent organization of, or is an entity closely related to, an entity that has as a
+36 primary function the provision of health care items or services.
+37 (b) “Health care entity” does not include:
+38 (A) Long term care facilities, as defined in ORS 442.015.
+39 (B) Facilities licensed and operated under ORS 443.400 to 443.455.
+40 (5) “Health equity” has the meaning prescribed by the Oregon Health Policy Board and adopted
+41 by the authority by rule.
+42 (6)(a) “Material change transaction” means:
+43 (A) A transaction in which at least one party had average revenue of $25 million or more in the
+44 preceding three fiscal years and another party:
+45 (i) Had an average revenue of at least $10 million in the preceding three fiscal years; or
+[16]
+
+HB 4003
+1 (ii) In the case of a new entity, is projected to have at least $10 million in revenue in the first
+2 full year of operation at normal levels of utilization or operation as prescribed by the authority by
+3 rule.
+4 (B) If a transaction involves a health care entity in this state and an out-of-state entity, a
+5 transaction that otherwise qualifies as a material change transaction under this paragraph that may
+6 result in increases in the price of health care or limit access to health care services in this state.
+7 (b) “Material change transaction” does not include:
+8 (A) A clinical affiliation of health care entities formed for the purpose of collaborating on clin-
+9 ical trials or graduate medical education programs.
+10 (B) A medical services contract or an extension of a medical services contract.
+11 (C) An affiliation that:
+12 (i) Does not impact the corporate leadership, governance or control of an entity; and
+13 (ii) Is necessary, as prescribed by the authority by rule, to adopt advanced value-based payment
+14 methodologies to meet the health care cost growth targets under ORS 442.386.
+15 (D) Contracts under which one health care entity, for and on behalf of a second health care
+16 entity, provides patient care and services or provides administrative services relating to, supporting
+17 or facilitating the provision of patient care and services, if the second health care entity:
+18 (i) Maintains responsibility, oversight and control over the patient care and services; and
+19 (ii) Bills and receives reimbursement for the patient care and services.
+20 (E) Transactions in which a participant that is a health center as defined in 42 U.S.C. 254b,
+21 while meeting all of the participant’s obligations, acquires, affiliates with, partners with or enters
+22 into any agreement with another entity unless the transaction would result in the participant no
+23 longer qualifying as a health center under 42 U.S.C. 254b.
+24 (7)(a) “Medical services contract” means a contract to provide medical or mental health services
+25 entered into by:
+26 (A) A carrier and an independent practice association;
+27 (B) A carrier, coordinated care organization, independent practice association or network of
+28 providers and one or more providers, as defined in ORS 743B.001;
+29 (C) An independent practice association and an individual health professional or an organization
+30 of health care providers;
+31 (D) Medical, dental, vision or mental health clinics; or
+32 (E) A medical, dental, vision or mental health clinic and an individual health professional to
+33 provide medical, dental, vision or mental health services.
+34 (b) “Medical services contract” does not include a contract of employment or a contract creat-
+35 ing a legal entity and ownership of the legal entity that is authorized under ORS chapter 58, 60 or
+36 70 or under any other law authorizing the creation of a professional organization similar to those
+37 authorized by ORS chapter 58, 60 or 70, as may be prescribed by the authority by rule.
+38 (8) “Net patient revenue” means the total amount of revenue, after allowance for contractual
+39 amounts, charity care and bad debt, received for patient care and services, including:
+40 (a) Value-based payments;
+41 (b) Incentive payments; and
+42 (c) Capitation payments or payments under any similar contractual arrangement for the pre-
+43 payment or reimbursement of patient care and services.
+44 (9) “Revenue” means:
+45 (a) Net patient revenue; or
+[17]
+
+HB 4003
+1 (b) The gross amount of premiums received by a health care entity that are derived from health
+2 benefit plans.
+3 (10) “Transaction” means:
+4 (a) A merger of a health care entity with another entity;
+5 (b) An acquisition of one or more health care entities by another entity;
+6 (c) New contracts, new clinical affiliations and new contracting affiliations that will eliminate
+7 or significantly reduce, as defined by the authority by rule, essential services;
+8 (d) A corporate affiliation involving at least one health care entity; or
+9 (e) Transactions to form a new partnership, joint venture, accountable care organization, parent
+10 organization or management services organization, as prescribed by the authority by rule.
+11 SECTION 12. ORS 741.340 is amended to read:
+12 741.340. The Oregon Health Authority, in developing and offering the health benefit package
+13 required by ORS 413.011 (1)(j), may not establish policies or procedures that discourage insurers
+14 from offering more comprehensive health benefit plans that provide greater consumer choice at a
+15 higher cost. The health benefit package approved by the Oregon Health Policy Board shall:
+16 (1) Promote the provision of services through an integrated health home model that reduces
+17 unnecessary hospitalizations and emergency department visits.
+18 (2) Require little or no cost sharing for evidence-based preventive care and services, such as
+19 care and services that have been shown to prevent acute exacerbations of disease symptoms in in-
+20 dividuals with chronic illnesses.
+21 (3) Create incentives for individuals to actively participate in their own health care and to
+22 maintain or improve their health status.
+23 (4) Require a greater contribution by an enrollee to the cost of elective or discretionary health
+24 services.
+25 (5) Include a defined set of health care services that are affordable, financially sustainable and
+26 [based upon the prioritized list of health services developed and updated by the Health Evidence Re-
+27 view Commission under ORS 414.690] managed according to the clinical coverage policies de-
+28 veloped under ORS 414.690.
+29 SECTION 13. ORS 414.694 is repealed.
+30 SECTION 14. (1) As used in this section, “coordinated care organization” and “medical
+31 assistance” have the meanings given those terms in ORS 414.025.
+32 (2) The Oregon Health Authority shall study:
+33 (a) How the authority and coordinated care organizations can effectuate coverage deci-
+34 sions in the state medical assistance program based on the clinical coverage policies devel-
+35 oped under ORS 414.690.
+36 (b) Areas for potential alignment between the authority’s fee-for-service payment system
+37 and the Oregon Integrated and Coordinated Health Care Delivery System established in ORS
+38 414.570 that are compliant with federal law and within existing resources of the authority.
+39 (3) The authority and the Health Evidence Review Commission shall study the impli-
+40 cations and feasibility of developing, as part of the clinical coverage policies developed under
+41 ORS 414.690, diagnosis and treatment code pairings that indicate which health services are
+42 not medically necessary or appropriate for particular conditions.
+43 (4) The authority and the commission shall submit a report in the manner provided by
+44 ORS 192.245 on the results of the studies conducted under subsections (2) and (3) of this
+45 section to the interim committees of the Legislative Assembly related to health care no later
+[18]
+
+HB 4003
+1 than January 1, 2027.
+2 SECTION 15. Section 14 of this 2026 Act is repealed on January 2, 2028.
+3 SECTION 16. (1) As used in this section, “coordinated care organization,” “health ser-
+4 vices” and “medical assistance” have the meanings given those terms in ORS 414.025.
+5 (2) As part of the transition away from using the prioritized list of health services to
+6 determine the coverage of health services in the medical assistance program pursuant to the
+7 amendments to ORS 414.690 by section 4 of this 2026 Act, the Oregon Health Authority shall:
+8 (a) Ensure that clinical coverage policies and other guidance developed by the Health
+9 Evidence Review Commission are published on a single webpage and readily accessible to in-
+10 terested parties, including but not limited to coordinated care organizations and providers.
+11 (b) Develop tailored technical assistance and other materials for interested parties, in-
+12 cluding but not limited to medical assistance recipients, providers and coordinated care or-
+13 ganizations.
+14 (c) Direct the Health Evidence Review Commission to evaluate the availability of relevant
+15 utilization data and the resources necessary to leverage existing utilization data to inform
+16 the commission’s clinical coverage policies developed under ORS 414.690.
+17 (d) Consult with actuaries for the state medical assistance program to review data as
+18 expeditiously as possible after January 1, 2027, to ensure there is sufficient data for devel-
+19 oping medical assistance rates for 2028.
+20 (e) Report the authority’s findings under paragraph (d) of this subsection to:
+21 (A) The Medicaid Advisory Committee established under ORS 414.211;
+22 (B) The committee convened by the authority related to quality and health outcomes;
+23 (C) The workgroup convened by the authority to collaborate with coordinated care or-
+24 ganizations on pharmacy policies; and
+25 (D) The beneficiary advisory committee convened by the authority to receive input from
+26 medical assistance recipients.
+27 SECTION 17. Section 16 of this 2026 Act is repealed on January 2, 2029.
+28 SECTION 18. (1) The amendments to ORS 414.025, 414.065, 414.325, 414.689, 414.690,
+29 414.698, 414.701, 414.735, 414.780, 415.500 and 741.340 by sections 1 to 12 of this 2026 Act become
+30 operative on January 1, 2027.
+31 (2) The Oregon Health Authority and the Health Evidence Review Commission may take
+32 any action before the operative date specified in subsection (1) of this section that is neces-
+33 sary to enable the authority and the commission to exercise, on and after the operative date
+34 specified in subsection (1) of this section, all of the duties, functions and powers conferred
+35 on the authority and the commission by the amendments to ORS 414.025, 414.065, 414.325,
+36 414.689, 414.690, 414.698, 414.701, 414.735, 414.780, 415.500 and 741.340 by sections 1 to 12 of this
+37 2026 Act.
+38 SECTION 19. This 2026 Act being necessary for the immediate preservation of the public
+39 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+40 on its passage.
+41
+[19]

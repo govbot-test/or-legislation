@@ -1,0 +1,167 @@
+Title: 
+Official Title: 
+Source: versions - Senate Amendments to Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+SENATE AMENDMENTS TO
+SENATE BILL 5703
+By JOINT COMMITTEE ON WAYS AND MEANS
+March 4
+1 In line 2 of the printed bill, after the semicolon insert “amending sections 3, 4, 5, 6, 7, 9, 14, 15,
+2 17, 20, 21, 22, 23, 25 and 26, chapter 632, Oregon Laws 2025;”.
+3 Delete lines 4 through 15 and insert:
+4 “SECTION 1. Section 3, chapter 632, Oregon Laws 2025, is amended to read:
+5 “Sec. 3. The following amounts are allocated for the biennium beginning July 1, 2025, from the
+6 Administrative Services Economic Development Fund, to the Oregon Business Development Depart-
+7 ment, for the following purposes:
+8 [(1) Operations........................................... $ 20,346,833]
+9 (1) Operations................................. $ 21,676,394
+10 (2) Business, innovation
+11 [and trade............................................ $ 75,381,963]
+12 and trade................................... $ 77,821,724
+13 [(3) Infrastructure...................................... $ 5,872,354]
+14 (3) Infrastructure........................... $ 6,029,220
+15 (4) Oregon Film and Video
+16 Office.................................................... $ 1,541,600
+17 “SECTION 2. Section 4, chapter 632, Oregon Laws 2025, is amended to read:
+18 “Sec. 4. There is allocated for the biennium beginning July 1, 2025, from the Administrative
+19 Services Economic Development Fund, to the Department of Education, for the State School Fund,
+20 the amount of [$606,501,675] $584,162,579.
+21 “SECTION 3. Section 5, chapter 632, Oregon Laws 2025, is amended to read:
+22 “Sec. 5. There is allocated for the biennium beginning July 1, 2025, from the Administrative
+23 Services Economic Development Fund, to the office of the Governor, the amount of [$5,213,172]
+24 $5,402,757 for expenses of the Regional Solutions Program.
+25 “SECTION 4. Section 6, chapter 632, Oregon Laws 2025, is amended to read:
+26 “Sec. 6. (1) The Oregon Department of Administrative Services shall establish a process for al-
+27 locating available moneys in the Administrative Services Economic Development Fund on a quar-
+28 terly basis to fulfill the biennial allocations made by sections 1 to 13, chapter 632, Oregon Laws
+29 2025 [of this 2025 Act]. The department shall set the quarterly allocations.
+30 “(2) If, in any quarter, the moneys transferred from the State Lottery Fund to the Administrative
+31 Services Economic Development Fund are insufficient to pay for the quarterly allocations made by
+32 sections 1 to 13, chapter 632, Oregon Laws 2025, [of this 2025 Act] or any other 2025 Act, prior
+33 to making any other allocations pursuant to sections 1 to 13, chapter 632, Oregon Laws 2025 [of
+34 this 2025 Act], the department shall satisfy lottery bond debt service obligations in the amount of
+35 [$389,965,797] $388,147,396 for outstanding lottery bonds.
+LC 323/SB 5703-1
+
+1 “(3) After the lottery bond debt service obligations described in subsection (2) of this section
+2 are satisfied, if the remaining moneys transferred from the State Lottery Fund to the Administrative
+3 Services Economic Development Fund are insufficient to pay for the quarterly allocations made by
+4 sections 1 to 13, chapter 632, Oregon Laws 2025 [of this 2025 Act], the department shall reduce the
+5 quarterly allocations not described in subsection (2) of this section proportionately in amounts suf-
+6 ficient to accommodate the revenue shortfall.
+7 “SECTION 5. Section 7, chapter 632, Oregon Laws 2025, is amended to read:
+8 “Sec. 7. There is allocated for the biennium beginning July 1, 2025, from the Administrative
+9 Services Economic Development Fund, to the Oregon Department of Administrative Services, the
+10 amount of [$389,965,797] $388,147,396 for the purpose of paying, when due, the principal, interest and
+11 premium, if any, on outstanding lottery bonds, as described in section 6, chapter 632, Oregon Laws
+12 2025 [of this 2025 Act].
+13 “SECTION 6. Section 9, chapter 632, Oregon Laws 2025, is amended to read:
+14 “Sec. 9. Notwithstanding and in lieu of the requirement in ORS 461.549 (2) for a percentage-
+15 based transfer of moneys, for the biennium beginning July 1, 2025, the amount allocated from the
+16 Administrative Services Economic Development Fund to the Problem Gambling Treatment Fund is
+17 [$18,853,152] $18,721,089.
+18 “SECTION 7. Section 14, chapter 632, Oregon Laws 2025, is amended to read:
+19 “Sec. 14. There are allocated for the biennium beginning July 1, 2025, from the Veterans’ Ser-
+20 vices Fund, to the Veterans’ Department of Veterans’ Affairs Dedicated Lottery Fund, the following
+21 amounts for the following purposes:
+22 [(1) Veterans’ operations.......................... $ 2,768,376]
+23 (1) Veterans’ operations................. $ 2,865,480
+24 [(2) Appeals and special advocacy......... $ 2,168,419]
+25 (2) Appeals and special advocacy... $ 2,189,552
+26 [(3) Strategic partnership......................... $ 15,249,233]
+27 (3) Strategic partnership................ $ 15,675,751
+28 [(4) Aging veterans’ services................... $ 3,602,439]
+29 (4) Aging veterans’ services........... $ 3,673,390
+30 “SECTION 8. Section 15, chapter 632, Oregon Laws 2025, is amended to read:
+31 “Sec. 15. There is allocated for the biennium beginning July 1, 2025, from the Veterans’ Services
+32 Fund, to the Bureau of Labor and Industries, the amount of [$307,006] $313,904 for veterans’ em-
+33 ployment apprenticeship outreach and coordination.
+34 “SECTION 9. Section 17, chapter 632, Oregon Laws 2025, is amended to read:
+35 “Sec. 17. There are allocated for the biennium beginning July 1, 2025, from the Veterans’ Ser-
+36 vices Fund, to the Oregon Health Authority, the following amounts for the following purposes:
+37 (1) Veterans’ behavioral
+38 health services................................... $ 2,879,455
+39 [(2) Veterans’ dental program................ $ 3,519,334]
+40 (2) Veterans’ dental program......... $ 3,518,331
+41 “SECTION 10. Section 20, chapter 632, Oregon Laws 2025, is amended to read:
+42 “Sec. 20. There is allocated to the Department of Public Safety Standards and Training for the
+43 biennium beginning July 1, 2025, from the Criminal Fine Account, the amount of [$65,846,019]
+44 $67,991,384 for the purpose of criminal justice training and standards operations.
+45 “SECTION 11. Section 21, chapter 632, Oregon Laws 2025, is amended to read:
+SA to SB 5703 Page 2
+
+1 “Sec. 21. There are allocated to the Department of Justice for the biennium beginning July 1,
+2 2025, from the Criminal Fine Account, the following amounts for the following purposes:
+3 (1) Child Abuse Multidisciplinary
+4 Intervention Account....................... $ 14,289,302
+5 (2) Creation and operation of a
+6 statewide system of regional
+7 assessment centers as
+8 provided under ORS 418.746
+9 to 418.796............................................ $ 959,151
+10 (3) Criminal Injuries
+11 [Compensation Account..................... $ 10,704,460]
+12 Compensation Account............. $ 9,429,903
+13 (4) Services to children eligible
+14 for compensation under
+15 ORS 147.390 and costs to
+16 administer provision of
+17 these services..................................... $ 811,868
+18 “SECTION 12. Section 22, chapter 632, Oregon Laws 2025, is amended to read:
+19 “Sec. 22. There are allocated to the Department of Human Services for the biennium beginning
+20 July 1, 2025, from the Criminal Fine Account, the following amounts for the following purposes:
+21 (1) Domestic Violence Fund
+22 established in ORS 409.300
+23 for the purpose of
+24 [ORS 409.292 (1)(a) to (c)................. $ 2,850,674]
+25 ORS 409.292 (1)(a) to (c)............ $ 0
+26 [(2) Sexual Assault Victims Fund......... $ 630,635]
+27 (2) Sexual Assault Victims Fund.... $ 0
+28 “SECTION 13. Section 23, chapter 632, Oregon Laws 2025, is amended to read:
+29 “Sec. 23. There are allocated to the State Court Facilities and Security Account established
+30 under ORS 1.178, for the biennium beginning July 1, 2025, from the Criminal Fine Account, the fol-
+31 lowing amounts for the following purposes:
+32 (1) State court security
+33 [and emergency preparedness.......... $ 5,087,487]
+34 and emergency preparedness.... $ 0
+35 (2) Distributions to county court
+36 [facilities security accounts.............. $ 1,852,863]
+37 facilities security accounts....... $ 0
+38 “SECTION 14. Section 25, chapter 632, Oregon Laws 2025, is amended to read:
+39 “Sec. 25. (1) There is allocated to the State School Fund established under ORS 327.008, for the
+40 biennium beginning July 1, 2025, from the Oregon Marijuana Account, the amount of [$43,568,275]
+41 $43,568,577.
+42 “(2) There is allocated to the Oregon Health Authority, for mental health treatment or for pur-
+43 poses related to alcohol and drug abuse prevention, early intervention and treatment services, for
+44 the biennium beginning July 1, 2025, from the Oregon Marijuana Account, the amount of
+45 [$21,784,137] $21,784,288.
+SA to SB 5703 Page 3
+
+1 “(3) There is allocated to the Oregon Health Authority, for the health systems division, for the
+2 biennium beginning July 1, 2025, from the Oregon Marijuana Account, the amount of [$5,446,034]
+3 $5,446,072 for purposes related to alcohol and drug abuse prevention, early intervention and treat-
+4 ment services.
+5 “(4) There is allocated to the Oregon Health Authority, for the biennium beginning July 1, 2025,
+6 from the Oregon Marijuana Account, the amount of [$192,330,671] $176,778,589, for deposit into the
+7 Drug Treatment and Recovery Services Fund.
+8 “(5) There is allocated to the State Police Account established under ORS 181A.020, for the
+9 biennium beginning July 1, 2025, from the Oregon Marijuana Account, the amount of [$16,338,103]
+10 $16,338,216.
+11 “SECTION 15. Section 26, chapter 632, Oregon Laws 2025, is amended to read:
+12 “Sec. 26. Notwithstanding and in lieu of the percentage-based transfers of moneys described in
+13 ORS 327.001 (4)(c), for the biennium beginning July 1, 2025, the Department of Education shall dis-
+14 tribute the moneys in the Fund for Student Success established by ORS 327.001 as follows:
+15 “(1) $1,109,828,482 to the Student Investment Account established in ORS 327.175;
+16 “(2) [$559,443,881] $541,287,875 to the Statewide Education Initiatives Account established in
+17 ORS 327.250; and
+18 “(3) $550,384,601 to the Early Learning Account established in ORS 327.269.
+19 “SECTION 16. This 2026 Act being necessary for the immediate preservation of the public
+20 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+21 on its passage.”.
+22
+SA to SB 5703 Page 4

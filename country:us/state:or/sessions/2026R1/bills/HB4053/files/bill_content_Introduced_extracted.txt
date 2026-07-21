@@ -1,0 +1,977 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4053
+Sponsored by Representative GRAYBER; Representatives EVANS, FRAGALA, GAMBA, MCDONALD, NOSSE,
+Senators PATTERSON, REYNOLDS (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes an EMS Program Fund and changes the name of a committee. The Act
+tells OHA to make minimum education requirements for EMS providers. The Act also makes a
+subcommittee. (Flesch Readability Score: 61.1).
+Establishes the Emergency Medical Services Program Fund. Changes the name of the Pediatric
+Emergency Medical Services Advisory Committee to the Emergency Medical Services for Children
+Advisory Committee. Directs the Oregon Health Authority to establish by rule minimum educational
+requirements for licensure as an emergency medical services provider. Becomes operative on Janu-
+ary 1, 2027.
+Establishes the Long Term Care and Senior Care Emergency Medical Services Advisory Sub-
+committee within the Emergency Medical Services Advisory Committee to provide advice and rec-
+ommendations to the committee on issues related to long term care and senior care. Becomes
+operative on January 1, 2029.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to emergency medical services; creating new provisions; amending ORS 682.017, 682.204,
+3 682.208, 682.500, 682.503, 682.506, 682.509, 682.512, 682.515, 682.518, 682.521, 682.524, 682.527,
+4 682.530 and 682.533 and sections 32, 44 and 45, chapter 32, Oregon Laws 2024; and prescribing
+5 an effective date.
+6 Be It Enacted by the People of the State of Oregon:
+7
+8 EMERGENCY MEDICAL SERVICES PROGRAM FUND
+9
+10 SECTION 1. Sections 2 and 3 of this 2026 Act are added to and made a part of ORS
+11 chapter 682.
+12 SECTION 2. (1) The Emergency Medical Services Program Fund is established in the
+13 State Treasury, separate and distinct from the General Fund. Interest earned by the Emer-
+14 gency Medical Services Program Fund shall be credited to the fund. The moneys in the fund
+15 shall consist of moneys appropriated to the Oregon Health Authority for deposit in the fund,
+16 any federal funds related to rural health and emergency medical services and any settlement
+17 funds, gifts, grants, contributions or other donations that are received by the authority from
+18 any public or private source for the purposes described in subsection (2) of this section.
+19 (2) The moneys in the fund are continuously appropriated to the authority for the pur-
+20 poses of carrying out section 3 of this 2026 Act, in addition to those funds appropriated to
+21 the authority as described in ORS 682.403.
+22 SECTION 3. The Oregon Health Authority may, but is not required to, establish pro-
+23 gramming related to emergency medical services workforce development, training and inno-
+24 vation.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 124
+
+HB 4053
+1 SECTION 4. (1) Sections 2 and 3 of this 2026 Act become operative on January 1, 2027.
+2 (2) The Oregon Health Authority may take any action before the operative date specified
+3 in subsection (1) of this section that is necessary to enable the authority to exercise, on and
+4 after the operative date specified in subsection (1) of this section, all of the duties, functions
+5 and powers conferred on the authority by sections 2 and 3 of this 2026 Act.
+6
+7 EMERGENCY MEDICAL SERVICES PROGRAM
+8
+9 SECTION 5. ORS 682.500 is amended to read:
+10 682.500. (1) The Emergency Medical Services Program is established within the Oregon Health
+11 Authority for the purpose of administering a comprehensive statewide emergency medical services
+12 system developed by the Emergency Medical Services Advisory Board and focused on emergency
+13 medical services and time-sensitive emergencies. The system includes:
+14 (a) The development of state and regional standards of emergency medical care;
+15 (b) The development of state, regional and interstate protocols for patient transfers using
+16 emergency medical services;
+17 (c) The training and licensing of emergency medical services providers;
+18 (d) The development and management of emergency medical services data systems;
+19 (e) The management and administration of state workforce, recruitment and retention programs
+20 related to emergency medical services; and
+21 [(f) The regulation and administration of state reimbursement systems for emergency medical ser-
+22 vices; and]
+23 [(g)] (f) Requirements for reporting out measurable performance and equity indicators of emer-
+24 gency medical services within this state.
+25 (2) The program is administered by a director who:
+26 (a) Is responsible for conducting emergency medical services system oversight and implementing
+27 the recommendations of the advisory board.
+28 (b) Shall apply funds allocated to the program in the following order of priority:
+29 (A) Development of state and regional standards of care;
+30 (B) Strengthening the state’s emergency medical services workforce;
+31 (C) Development of statewide educational curriculum to teach the standards of care;
+32 (D) Implementation of quality improvement programs; and
+33 (E) Support for and enhancement of the state’s emergency medical services.
+34 (c) May adopt rules as necessary to carry out the director’s duties and responsibilities described
+35 in this subsection.
+36 (3) The program shall have a State EMS Medical Director who is the chairperson of the Emer-
+37 gency Medical Services Advisory Board established under ORS 682.506 and who is responsible for:
+38 (a) Providing specialized medical oversight in the development and administration of the pro-
+39 gram;
+40 (b) Implementing emergency medical services quality improvement measures;
+41 (c) Undertaking research and providing public education regarding emergency medical services;
+42 and
+43 (d) Serving as a liaison with emergency medical services agencies, emergency medical services
+44 centers, hospitals, state and national emergency medical services professional organizations and
+45 state and federal partners.
+[2]
+
+HB 4053
+1 (4) The authority shall:
+2 (a) Adopt rules to establish statewide emergency medical services objectives and standards; and
+3 (b) Publish a biennial report regarding the program’s activities.
+4 (5)(a) The establishment of the program does not affect the contracting authority of counties and
+5 county ambulance service areas.
+6 (b) The objectives and standards established under subsection (4) of this section do not prohibit
+7 a local jurisdiction from implementing objectives and standards that are more rigorous than those
+8 established under subsection (4) of this section.
+9 SECTION 6. ORS 682.503 is amended to read:
+10 682.503. (1) The Emergency Medical Services Program, with the advice of the Emergency Med-
+11 ical Services Advisory Board, the Time-Sensitive Medical Emergencies Advisory Committee, the
+12 Emergency Medical Services Advisory Committee, [the Pediatric Emergency Medical Services Advi-
+13 sory Committee] the Emergency Medical Services for Children Advisory Committee and the
+14 Behavioral Health Emergency Medical Services Advisory Committee, shall:
+15 (a) Coordinate with national health organizations involved in improving the quality of stroke,
+16 cardiac, trauma, pediatric and behavioral health care to avoid duplicative information and redundant
+17 processes;
+18 (b) Use information related to stroke, cardiac, trauma, pediatric and behavioral health care to
+19 support improvement in the quality of care in accordance with guidelines that meet or exceed na-
+20 tionally recognized standards;
+21 (c) Encourage the sharing of information among health care providers on practices that improve
+22 the quality of stroke, cardiac, trauma, pediatric and behavioral health care;
+23 (d) Facilitate communication about data trends and treatment developments among health care
+24 providers and coordinated care organizations that provide services related to stroke, cardiac,
+25 trauma, pediatric and behavioral health care; and
+26 (e) Provide stroke, cardiac, trauma, pediatric and behavioral health care data, and recommen-
+27 dations for improvement to care, to coordinated care organizations.
+28 (2) Not later than the beginning of each odd-numbered year regular session of the Legislative
+29 Assembly, the program shall submit to the Legislative Assembly a report in the manner provided in
+30 ORS 192.245 summarizing the program’s activities under this section.
+31 SECTION 7. ORS 682.503, as amended by section 37, chapter 32, Oregon Laws 2024, is amended
+32 to read:
+33 682.503. (1) The Emergency Medical Services Program, with the advice of the Emergency Med-
+34 ical Services Advisory Board, the Time-Sensitive Medical Emergencies Advisory Committee, the
+35 Emergency Medical Services Advisory Committee, [the Pediatric Emergency Medical Services Advi-
+36 sory Committee,] the Emergency Medical Services for Children Advisory Committee, the Be-
+37 havioral Health Emergency Medical Services Advisory Committee and the Long Term Care and
+38 Senior Care Emergency Medical Services Advisory [Committee] Subcommittee, shall:
+39 (a) Coordinate with national health organizations involved in improving the quality of stroke,
+40 cardiac, trauma, pediatric, behavioral health and long term and senior care to avoid duplicative in-
+41 formation and redundant processes;
+42 (b) Use information related to stroke, cardiac, trauma, pediatric, behavioral health and long
+43 term and senior care to support improvement in the quality of care in accordance with guidelines
+44 that meet or exceed nationally recognized standards;
+45 (c) Encourage the sharing of information among health care providers on practices that improve
+[3]
+
+HB 4053
+1 the quality of stroke, cardiac, trauma, pediatric, behavioral health and long term and senior care;
+2 (d) Facilitate communication about data trends and treatment developments among health care
+3 providers and coordinated care organizations that provide services related to stroke, cardiac,
+4 trauma, pediatric, behavioral health and long term and senior care; and
+5 (e) Provide stroke, cardiac, trauma, pediatric, behavioral health and long term and senior care
+6 data, and recommendations for improvement to care, to coordinated care organizations.
+7 (2) Not later than the beginning of each odd-numbered year regular session of the Legislative
+8 Assembly, the program shall submit to the Legislative Assembly a report in the manner provided in
+9 ORS 192.245 summarizing the program’s activities under this section.
+10 SECTION 8. ORS 682.506 is amended to read:
+11 682.506. (1) The Emergency Medical Services Advisory Board is established within the Oregon
+12 Health Authority. The authority shall provide staffing for the board. The board consists of 19 mem-
+13 bers appointed by the Director of the Oregon Health Authority. Of the members of the board:
+14 (a) The State EMS Medical Director of the Emergency Medical Services Program is an ex officio
+15 member and serves as the chairperson;
+16 (b) One must be a patient advocate or an education professional who specializes in health eq-
+17 uity;
+18 (c) One must be [an emergency medical services provider licensed under ORS 682.216 who re-
+19 presents] a representative of a private emergency medical services agency licensed under ORS
+20 682.047;
+21 (d) One must be an emergency medical services provider licensed under ORS 682.216 who re-
+22 presents a public emergency medical services agency licensed under ORS 682.047;
+23 (e) One must be a representative of a nontransport emergency medical services agency;
+24 (f) One must be a representative of a labor union that represents emergency medical services
+25 providers;
+26 (g) One must be an emergency medical services provider licensed under ORS 682.216 who works
+27 for an emergency medical services agency licensed under ORS 682.047 within a rural emergency
+28 medical services system or a rural hospital as defined in ORS 442.470;
+29 (h) One must be a representative of county ambulance service area administrators;
+30 (i) One must be a representative of special districts that operate ambulances;
+31 (j) One must be a hospital administrator in a hospital that operates an emergency department;
+32 (k) One must be a nurse who works in a hospital emergency department;
+33 (L) One must be a representative of a public safety answering point, as defined in ORS 403.105;
+34 (m) One must be an emergency medicine physician;
+35 (n) One must be a person who works in a long term care facility, as defined in ORS 442.015, or
+36 who represents long term care facilities, or who works in a residential facility, as defined in ORS
+37 443.400, or who represents residential facilities;
+38 (o) One must be a public member who is, or has been, a frequent user of emergency medical
+39 services;
+40 (p) One must be a representative of a third-party payer of health care insurance;
+41 (q) One must be a representative of a patient health care advocacy group;
+42 (r) One must be a representative of a rural hospital, or a hospital system that includes a rural
+43 hospital, as defined in ORS 442.470; and
+44 (s) One must be an emergency medical services physician.
+45 (2)(a) The physician members of the board must be physicians licensed under ORS chapter 677
+[4]
+
+HB 4053
+1 who are in good standing.
+2 (b) The member described in subsection (1)(k) of this section must be licensed under ORS 678.010
+3 to 678.415 and in good standing.
+4 (c) The members of the board who represent emergency medical services agencies under sub-
+5 section (1)(d) and (g) of this section must hold valid licenses in good standing.
+6 (d) The members of the board who are emergency medical services providers must hold valid
+7 licenses in good standing.
+8 (3) Board membership must reflect the geographical, cultural, linguistic and economic diversity
+9 of this state and must include at least one representative from each emergency medical services
+10 region designated under ORS 682.530.
+11 (4) The term of each member of the board is four years, but a member serves at the pleasure
+12 of the Director of the Oregon Health Authority. Before the expiration of a term of a member, the
+13 director shall appoint a successor whose term begins on January 1 next following. A member is el-
+14 igible for reappointment for no more than two consecutive terms. If there is a vacancy for any
+15 cause, the director shall make an appointment to become immediately effective for the unexpired
+16 term.
+17 (5) A member of the board is entitled to compensation and expenses as provided under ORS
+18 292.495.
+19 (6) The board may adopt rules as necessary to carry out its duties under ORS 682.500 to 682.545.
+20 SECTION 9. ORS 682.509 is amended to read:
+21 682.509. (1) The Emergency Medical Services Advisory Board shall provide advice and recom-
+22 mendations to the Emergency Medical Services Program on the following:
+23 (a) A definition of “patient” for purposes of time-sensitive medical emergencies, pediatric med-
+24 ical emergencies and behavioral health medical emergencies;
+25 (b) Evidence-based practices and standards for emergency medical services care for defined pa-
+26 tient types;
+27 (c) Emergency medical services workforce needs;
+28 (d) Coordination of care between health care specialties;
+29 (e) Other issues related to emergency medical services as determined by the Oregon Health
+30 Authority and the program;
+31 (f) The appointment of the regional emergency medical services advisory boards; and
+32 (g) Approval of the regional emergency medical services plans described in ORS 682.530.
+33 (2) The board may convene temporary subcommittees for matters related to emergency medical
+34 services in order to inform and make recommendations to the board.
+35 (3) In addition to the duties described in subsection (1) of this section, the board shall convene
+36 the following permanent advisory committees that shall inform and make recommendations to the
+37 board, in addition to other specified duties:
+38 (a) Time-Sensitive Medical Emergencies Advisory Committee, as described in ORS 682.512;
+39 (b) Emergency Medical Services Advisory Committee, as described in ORS 682.515;
+40 (c) [Pediatric Emergency Medical Services Advisory Committee] Emergency Medical Services
+41 for Children Advisory Committee, as described in ORS 682.518; and
+42 (d) Behavioral Health Emergency Medical Services Advisory Committee, as described in ORS
+43 682.521.
+44 SECTION 10. ORS 682.509, as amended by section 38, chapter 32, Oregon Laws 2024, is
+45 amended to read:
+[5]
+
+HB 4053
+1 682.509. (1) The Emergency Medical Services Advisory Board shall provide advice and recom-
+2 mendations to the Emergency Medical Services Program on the following:
+3 (a) A definition of “patient” for purposes of time-sensitive medical emergencies, pediatric med-
+4 ical emergencies, behavioral health medical emergencies and long term and senior care medical
+5 emergencies;
+6 (b) Evidence-based practices and standards for emergency medical services care for defined pa-
+7 tient types;
+8 (c) Emergency medical services workforce needs;
+9 (d) Coordination of care between health care specialties;
+10 (e) Other issues related to emergency medical services as determined by the Oregon Health
+11 Authority and the program;
+12 (f) The appointment of the regional emergency medical services advisory boards; and
+13 (g) Approval of the regional emergency medical services plans described in ORS 682.530.
+14 (2) The board may convene temporary subcommittees for matters related to emergency medical
+15 services in order to inform and make recommendations to the board.
+16 (3) In addition to the duties described in subsection (1) of this section, the board shall convene
+17 the following permanent advisory committees and subcommittee that shall inform and make rec-
+18 ommendations to the board, in addition to other specified duties:
+19 (a) Time-Sensitive Medical Emergencies Advisory Committee, as described in ORS 682.512;
+20 (b) Emergency Medical Services Advisory Committee, as described in ORS 682.515;
+21 (c) [Pediatric Emergency Medical Services Advisory Committee] Emergency Medical Services
+22 for Children Advisory Committee, as described in ORS 682.518;
+23 (d) Behavioral Health Emergency Medical Services Advisory Committee, as described in ORS
+24 682.521; and
+25 (e) Long Term Care and Senior Care Emergency Medical Services Advisory [Committee] Sub-
+26 committee, as described in ORS 682.524.
+27 SECTION 11. ORS 682.512 is amended to read:
+28 682.512. (1) The Time-Sensitive Medical Emergencies Advisory Committee is established in the
+29 Emergency Medical Services Advisory Board. The committee shall consist of members determined
+30 by the board and the Oregon Health Authority and must include at least:
+31 (a) One member who is a physician who practices general surgery and specializes in the treat-
+32 ment of trauma patients;
+33 (b) One member who is a physician who practices neurology and specializes in the treatment
+34 of stroke patients;
+35 (c) One member who is a physician who practices cardiology and manages acute cardiac condi-
+36 tions;
+37 (d) One member who is a physician who practices critical care medicine;
+38 (e) One member who is a physician who practices emergency medicine;
+39 (f) One member who is a physician who practices emergency medical services medicine;
+40 (g) One member who is a physician who practices in neurological surgery and neurocritical care
+41 and manages both trauma and stroke patients;
+42 (h) One member who is an emergency medical services provider licensed under ORS 682.216; and
+43 (i) One member who represents a patient equity organization or is an academic professional
+44 specializing in health equity.
+45 (2)(a) The committee shall provide advice and recommendations to the board regarding systems
+[6]
+
+HB 4053
+1 of care related to time-sensitive medical emergencies, including at least cardiac, stroke, airway,
+2 sepsis and trauma emergencies. The [commission] committee shall also consider other time-sensitive
+3 emergencies including but not limited to sepsis, infectious diseases, pandemics, active seizures and
+4 severe respiratory emergencies.
+5 (b) The committee shall provide recommendations to the board on:
+6 (A) The regionalization and improvement of care for time-sensitive medical emergencies.
+7 (B) The designation, using nationally recognized classifications where possible, of emergency
+8 medical services centers for the provision of care for time-sensitive medical emergencies. If no na-
+9 tionally recognized classifications exist, the committee shall undertake a public deliberation process
+10 to establish classifications and submit the established classifications to the board for approval. In
+11 establishing and approving classifications, the committee and the board shall prioritize patient care.
+12 (3) The committee shall:
+13 (a) Advise the board with respect to the board’s duties related to care for cardiac, stroke,
+14 trauma and other identified time-sensitive emergencies;
+15 (b) Advise the board on potential rules that the board may recommend to the authority for
+16 adoption related to care for cardiac, stroke, trauma and other identified time-sensitive emergencies;
+17 (c) Analyze data related to care for cardiac, stroke, trauma and other identified time-sensitive
+18 emergencies;
+19 (d) Recommend to the board improvements to the Emergency Medical Services Program re-
+20 garding care for cardiac, stroke, trauma and other identified time-sensitive emergencies; and
+21 (e) Identify inequities in the provision of care and provide recommendations to the board and
+22 program to resolve the identified inequities.
+23 (4) The members of the committee who are physicians must be physicians licensed under ORS
+24 chapter 677.
+25 (5) The authority may adopt rules as necessary to carry out this section, including rules to adopt
+26 the nationally recognized classifications described in subsection (2) of this section.
+27 SECTION 12. ORS 682.515 is amended to read:
+28 682.515. (1) The Emergency Medical Services Advisory Committee is established in the Emer-
+29 gency Medical Services Advisory Board. The committee shall consist of members determined by the
+30 board and the Oregon Health Authority and must include at least:
+31 (a) One member who is a physician licensed under ORS chapter 677 who practices emergency
+32 medicine or emergency medical services medicine;
+33 (b) One member who is an emergency medical services provider licensed under ORS 682.216; and
+34 (c) One member who represents a patient equity organization or is an academic professional
+35 specializing in health equity.
+36 (2) The committee shall provide advice and recommendations to the board regarding emergency
+37 medical services, for the care of time-sensitive medical emergencies, pediatric medical emergencies
+38 and behavioral health medical emergencies, including the following objectives:
+39 (a) The regionalization and improvement of emergency medical services, including the coordi-
+40 nation and planning of emergency medical services efforts.
+41 (b) The designation, using nationally recognized classifications where possible, of emergency
+42 medical services centers for the provision of care for medical emergencies. If no nationally recog-
+43 nized classifications exist, the committee shall undertake a public deliberation process to establish
+44 classifications and submit the established classifications to the board for approval. In establishing
+45 and approving classifications, the committee and the board shall prioritize patient care.
+[7]
+
+HB 4053
+1 (c) The adoption of rules related to emergency medical services.
+2 (3) The chairperson of the committee shall appoint an advisory subcommittee on the licensure
+3 and discipline of emergency medical services providers. The subcommittee shall advise the board on
+4 potential rules that the board may recommend to the authority for adoption under this section.
+5 (4) The committee may:
+6 (a) Assist the Time-Sensitive Medical Emergencies Advisory Committee, [the Pediatric Emergency
+7 Medical Services Advisory Committee] the Emergency Medical Services for Children Advisory
+8 Committee and the Behavioral Health Emergency Medical Services Advisory Committee in coordi-
+9 nation and planning efforts; and
+10 (b) Provide other assistance to the board as the board requests.
+11 (5) The authority may adopt rules as necessary to carry out this section, including rules to adopt
+12 the nationally recognized classifications described in subsection (2) of this section.
+13 SECTION 13. ORS 682.515, as amended by section 39, chapter 32, Oregon Laws 2024, is
+14 amended to read:
+15 682.515. (1) The Emergency Medical Services Advisory Committee is established in the Emer-
+16 gency Medical Services Advisory Board. The committee shall consist of members determined by the
+17 board and the Oregon Health Authority and must include at least:
+18 (a) One member who is a physician licensed under ORS chapter 677 who practices emergency
+19 medicine or emergency medical services medicine;
+20 (b) One member who is an emergency medical services provider licensed under ORS 682.216; and
+21 (c) One member who represents a patient equity organization or is an academic professional
+22 specializing in health equity.
+23 (2) The committee shall provide advice and recommendations to the board regarding emergency
+24 medical services, for the care of time-sensitive medical emergencies, pediatric medical emergencies,
+25 behavioral health medical emergencies and, as informed by the Long Term and Senior Care
+26 Emergency Medical Services Advisory Subcommittee established under ORS 682.524, long
+27 term and senior care medical emergencies, including the following objectives:
+28 (a) The regionalization and improvement of emergency medical services, including the coordi-
+29 nation and planning of emergency medical services efforts.
+30 (b) The designation, using nationally recognized classifications where possible, of emergency
+31 medical services centers for the provision of care for medical emergencies. If no nationally recog-
+32 nized classifications exist, the committee shall undertake a public deliberation process to establish
+33 classifications and submit the established classifications to the board for approval. In establishing
+34 and approving classifications, the committee and the board shall prioritize patient care.
+35 (c) The adoption of rules related to emergency medical services.
+36 (3) The chairperson of the committee shall appoint an advisory subcommittee on the licensure
+37 and discipline of emergency medical services providers. The subcommittee shall advise the board on
+38 potential rules that the board may recommend to the authority for adoption under this section.
+39 (4) The committee may:
+40 (a) Assist the Time-Sensitive Medical Emergencies Advisory Committee, [the Pediatric Emergency
+41 Medical Services Advisory Committee] the Emergency Medical Services for Children Advisory
+42 Committee, the Behavioral Health Emergency Medical Services Advisory Committee and the Long
+43 Term Care and Senior Care Emergency Medical Services Advisory [Committee] Subcommittee in
+44 coordination and planning efforts; and
+45 (b) Provide other assistance to the board as the board requests.
+[8]
+
+HB 4053
+1 (5) The authority may adopt rules as necessary to carry out this section, including rules to adopt
+2 the nationally recognized classifications described in subsection (2) of this section.
+3 SECTION 14. ORS 682.518 is amended to read:
+4 682.518. (1) The [Pediatric Emergency Medical Services Advisory Committee] Emergency Medical
+5 Services for Children Advisory Committee is established in the Emergency Medical Services
+6 Advisory Board. The committee shall consist of members determined by the board and the Oregon
+7 Health Authority and must include at least:
+8 (a) Two members who are physicians specializing in the treatment of pediatric emergency pa-
+9 tients;
+10 (b) One member who is a nurse who has pediatric emergency experience;
+11 (c) One member who is a physician with pediatric training;
+12 (d) One member who is an emergency medical services provider licensed under ORS 682.216;
+13 [(e) One member who is a representative of the Emergency Medical Services Program;]
+14 [(f) One member who has experience as the project director of a statewide committee related to
+15 emergency medical services for children;]
+16 [(g) One member who has experience as the program manager of a statewide committee related to
+17 emergency medical services for children;]
+18 [(h)] (e) One member who is a family representative; [and]
+19 [(i)] (f) One member who represents a patient equity organization or is an academic professional
+20 specializing in health equity[.]; and
+21 (g) The following who shall serve as ex officio nonvoting members:
+22 (A) A representative of the Emergency Medical Services Program;
+23 (B) An individual who has experience as the project director of a statewide committee
+24 related to emergency medical services for children; and
+25 (C) An individual who has experience as the program manager of a statewide committee
+26 related to emergency medical services for children.
+27 (2) The Emergency Medical Services for Children Advisory Committee shall provide advice
+28 and recommendations to the board regarding pediatric medical emergencies, including the following
+29 objectives:
+30 (a) The integration of pediatric emergency medical services into the Emergency Medical Ser-
+31 vices Program;
+32 (b) The regionalization and improvement of care for time-sensitive pediatric medical emergen-
+33 cies; and
+34 (c) The designation, using nationally recognized classifications where possible, of emergency
+35 medical services centers for the provision of care for time-sensitive pediatric medical emergencies.
+36 (3) With the advice of the [Pediatric Emergency Medical Services Advisory Committee] commit-
+37 tee, the authority shall:
+38 (a) Employ or contract with professional, technical, research and clerical staff to administer a
+39 statewide program related to emergency medical services for children.
+40 (b) Provide technical assistance to the Emergency Medical Services Advisory Committee on the
+41 integration of pediatric emergency medical services into the Emergency Medical Services Program.
+42 (c) Provide technical assistance to the Time-Sensitive Medical Emergencies Advisory Committee
+43 on the regionalization of pediatric emergency medical services.
+44 (d) Establish guidelines for:
+45 (A) [The voluntary categorization of emergency medical services agencies and hospital departments
+[9]
+
+HB 4053
+1 that meet the requirements of the United States Health Resources and Services Administration program
+2 for pediatric readiness, as adopted by the authority by rule.] The voluntary categorization of
+3 emergency medical services transport agencies and hospital emergency departments that
+4 meet the requirements for pediatric readiness, as adopted by the authority by rule, of the
+5 United States Health Resources and Services Administration Emergency Medical Services for
+6 Children State Partnership program, or its successor program.
+7 (B) Referring pediatric patients to appropriate emergency medical services centers or critical
+8 care centers.
+9 (C) Necessary pediatric patient care equipment for prehospital and [pediatric critical care] hos-
+10 pital emergency medical care.
+11 (D) Developing a coordinated system that will allow pediatric patients to receive appropriate
+12 initial stabilization and treatment with timely provision of, or referral to, the appropriate level of
+13 care including critical care, trauma care and pediatric subspecialty care.
+14 (E) An interfacility transfer system for critically ill or injured pediatric patients.
+15 (F) Continuing education programs for emergency medical services personnel, including training
+16 in the emergency care of pediatric patients across different demographics and physical demon-
+17 strations of pediatric-specific patient care equipment.
+18 (G) [A public education program promoting] The promotion of pediatric emergency medical
+19 services, including information on emergency and crisis telephone numbers.
+20 (H) The collection and analysis of statewide pediatric prehospital, critical care and trauma care
+21 data from prehospital, critical care and trauma care facilities for the purpose of quality improve-
+22 ment, subject to relevant confidentiality requirements.
+23 (I) The establishment of cooperative interstate relationships to facilitate the provision of ap-
+24 propriate care for pediatric patients who must cross state borders to receive critical care and
+25 trauma care services.
+26 (J) Coordination and cooperation between a statewide program for emergency medical services
+27 for children and other public and private organizations interested or involved in pediatric prehos-
+28 pital and critical care.
+29 (4)(a) The members of the Emergency Medical Services for Children Advisory Committee who
+30 are physicians must be physicians licensed under ORS chapter 677 and in good standing.
+31 (b) The member of the committee who is a nurse must be licensed under ORS 678.010 to 678.415
+32 and in good standing.
+33 (c) The member of the committee who is an emergency medical services provider must
+34 hold a valid license in good standing.
+35 (5) The authority may adopt rules as necessary to carry out this section, including rules to adopt
+36 the nationally recognized classifications described in subsection (2) of this section.
+37 SECTION 15. ORS 682.521 is amended to read:
+38 682.521. (1) The Behavioral Health Emergency Medical Services Advisory Committee is estab-
+39 lished in the Emergency Medical Services Advisory Board. The committee shall consist of members
+40 determined by the board and the Oregon Health Authority and must include at least:
+41 (a) Two members who are physicians specializing in the treatment of time-sensitive behavioral
+42 health medical emergencies;
+43 (b) One member who is a physician who practices emergency medicine or emergency medical
+44 services medicine;
+45 (c) One member who is an emergency medical services provider licensed under ORS 682.216; and
+[10]
+
+HB 4053
+1 (d) One member who represents a patient equity organization or is an academic professional
+2 specializing in health equity.
+3 (2) The committee shall provide advice and recommendations to the board regarding time-
+4 sensitive behavioral health medical emergencies, including the following objectives:
+5 (a) The integration of behavioral health emergency medical services into the Emergency Medical
+6 Services Program.
+7 (b) The regionalization and improvement of care for time-sensitive behavioral health medical
+8 emergencies.
+9 (c) The designation, using nationally recognized classifications where possible, of emergency
+10 medical services centers for the provision of care for time-sensitive behavioral health medical
+11 emergencies. If no nationally recognized classifications exist, the committee shall undertake a public
+12 deliberation process to establish classifications and submit the established classifications to the
+13 board for approval. In establishing and approving classifications, the committee and the board shall
+14 prioritize patient care.
+15 (3) The committee may delegate the duties described in subsection (2) of this section to
+16 other existing bodies established by or within the authority if the delegation advances the
+17 implementation or ongoing oversight of the integration of behavioral health emergency
+18 medical services into the Emergency Medical Services Program.
+19 [(3)] (4) With the advice of the committee, the authority shall:
+20 (a) Employ or contract with professional, technical, research and clerical staff to implement this
+21 section.
+22 (b) Provide technical assistance to the Emergency Medical Services Advisory Committee on the
+23 integration of emergency medical services for behavioral health patients into the Emergency Med-
+24 ical Services Program.
+25 (c) Provide advice and technical assistance to the Time-Sensitive Medical Emergencies Advisory
+26 Committee on the regionalization of emergency medical services for behavioral health patients.
+27 (d) Establish guidelines for:
+28 (A) The designation of specialized regional behavioral health critical care centers.
+29 (B) Referring behavioral health patients to appropriate emergency or critical care centers.
+30 (C) Necessary prehospital and other behavioral health emergency and critical care medical ser-
+31 vice equipment.
+32 (D) Developing a coordinated system to allow behavioral health patients to receive appropriate
+33 initial stabilization and treatment with the timely provision of, or referral to, the appropriate level
+34 of care, including critical care and behavioral health subspecialty care.
+35 (E) An interfacility transfer system for critically ill or injured behavioral health patients.
+36 (F) Continuing professional education programs for emergency medical services personnel, in-
+37 cluding training in the emergency care of behavioral health patients across different demographics.
+38 (G) A public education program concerning the emergency medical services for behavioral
+39 health patients, including information on emergency access telephone numbers.
+40 (H) The collection and analysis of statewide behavioral health emergency and critical care
+41 medical services data from emergency and critical care medical services facilities for the purpose
+42 of quality improvement by those facilities, subject to relevant confidentiality requirements.
+43 (I) The establishment of cooperative interstate relationships to facilitate the provision of ap-
+44 propriate care for behavioral health patients who must cross state borders to receive emergency and
+45 critical care services.
+[11]
+
+HB 4053
+1 (J) Coordination and cooperation between providers of emergency medical services for behav-
+2 ioral health patients and other public and private organizations interested or involved in emergency
+3 and critical care for behavioral health.
+4 [(4)] (5) The members of the Behavioral Health Emergency Medical Services Advisory Com-
+5 mittee who are physicians must be physicians licensed under ORS chapter 677 who are in good
+6 standing.
+7 [(5)] (6) The authority may adopt rules as necessary to carry out this section, including rules
+8 to adopt the nationally recognized classifications described in subsection (2) of this section.
+9 SECTION 16. ORS 682.524 is amended to read:
+10 682.524. (1) The Long Term Care and Senior Care Emergency Medical Services Advisory [Com-
+11 mittee] Subcommittee is established in the Emergency Medical Services Advisory [Board] Com-
+12 mittee. The [committee] subcommittee shall consist of members determined by the [board]
+13 committee and the Oregon Health Authority and must include at least:
+14 (a) One member who is a physician licensed under ORS chapter 677 who practices emergency
+15 medicine or emergency medical services medicine;
+16 (b) One member who is an emergency medical services provider licensed under ORS 682.216;
+17 (c) One member who represents a patient equity organization or is an academic professional
+18 specializing in health equity; and
+19 (d) One member who is a hospital administrator in a hospital that operates an emergency de-
+20 partment.
+21 (2) The [committee] subcommittee shall provide advice and recommendations to the [board]
+22 committee regarding time-sensitive long term care and senior care medical emergencies on:
+23 (a) The integration of long term care and senior care emergency medical services into the
+24 Emergency Medical Services Program.
+25 (b) The regionalization and improvement of care for time-sensitive long term care and senior
+26 care medical emergencies.
+27 (c) The designation, using nationally recognized classifications where possible, of emergency
+28 medical services centers for the provision of care for time-sensitive long term care and senior care
+29 medical emergencies. If no nationally recognized classifications exist, the [committee] subcommittee
+30 shall undertake a public deliberation process to establish classifications and submit the established
+31 classifications to the [board] committee for approval. In establishing and approving classifications,
+32 the [committee] subcommittee and the [board] committee shall prioritize patient care.
+33 (3) With the advice of the Long Term Care and Senior Care Emergency Medical Services Advi-
+34 sory [Committee] Subcommittee, the authority shall:
+35 (a) Employ or contract with professional, technical, research and clerical staff to implement this
+36 subsection.
+37 (b) Provide technical assistance to the Emergency Medical Services Advisory Committee on the
+38 integration of emergency medical services for long term and senior care patients into the Emergency
+39 Medical Services Program.
+40 (c) Provide advice and technical assistance to the Time-Sensitive Medical Emergencies Advisory
+41 Committee on the regionalization of emergency medical services for long term care and senior care
+42 patients.
+43 (d) Establish guidelines for:
+44 (A) The categorization of specialized regional critical care centers and trauma care centers for
+45 long term care and senior care patients.
+[12]
+
+HB 4053
+1 (B) Referring long term care and senior care patients to appropriate emergency or critical care
+2 centers.
+3 (C) Necessary prehospital and other emergency and critical care medical service equipment for
+4 long term care and senior care patients.
+5 (D) Developing a system that will allow long term care and senior care patients to receive ap-
+6 propriate initial stabilization and treatment with the timely provision of, or referral to, the appro-
+7 priate level of care, including critical care, trauma care or subspecialty care.
+8 (E) An interfacility transfer system for critically ill or injured long term care and senior care
+9 patients.
+10 (F) Continuing professional education programs for emergency medical services personnel, in-
+11 cluding training in the emergency care of long term care and senior care patients across different
+12 demographics.
+13 (G) A public education program concerning emergency medical services for long term care and
+14 senior care patients, including information on emergency access telephone numbers.
+15 (H) The collection and analysis of statewide emergency and critical care medical services data
+16 from emergency and critical care medical services facilities for the purposes of quality improvement
+17 by those facilities with respect to long term care and senior care patients, subject to relevant
+18 confidentiality requirements.
+19 (I) The establishment of cooperative interstate relationships to facilitate the provision of ap-
+20 propriate care for long term and senior care patients who must cross state borders to receive
+21 emergency and critical care services.
+22 (J) Coordination and cooperation between providers of emergency medical services for long term
+23 care and senior care patients and other public and private organizations interested or involved in
+24 emergency and critical care for long term care and senior care patients.
+25 (4) The authority may adopt rules as necessary to carry out this section, including rules to adopt
+26 the nationally recognized classifications described in subsection (2) of this section.
+27 SECTION 17. ORS 682.527 is amended to read:
+28 682.527. (1)(a) The Emergency Medical Services Advisory Board, upon the advice of the Time-
+29 Sensitive Medical Emergencies Advisory Committee, the Emergency Medical Services Advisory
+30 Committee, [the Pediatric Emergency Medical Services Advisory Committee] the Emergency Medical
+31 Services for Children Advisory Committee and the Behavioral Health Emergency Medical Ser-
+32 vices Advisory Committee, shall determine the nationally recognized classification standards to re-
+33 commend to the Oregon Health Authority to adopt as rules for categorization and designation of
+34 emergency medical services centers for the provision of trauma, stroke, cardiac, pediatric and be-
+35 havioral health care and other identified time-sensitive emergencies.
+36 (b) If a nationally recognized classification standard used by the authority under this subsection
+37 requires that an emergency medical services center use a specific data system or registry in order
+38 to obtain a specific categorization or designation, the authority shall require an emergency medical
+39 services center that intends to obtain the categorization or designation to adopt the data system or
+40 registry [not later than:]
+41 [(A) Eighteen months after the date on which the Emergency Medical Services Advisory Board and
+42 the authority determine the data system or registry must be adopted, if the emergency medical services
+43 center is a large facility or hospital, with an additional six months in which to demonstrate compliant
+44 usage of the data system or registry.]
+45 [(B) Three years after the date on which the board and the authority determine the data system
+[13]
+
+HB 4053
+1 or registry must be adopted, if the emergency medical services center is a critical access or rural health
+2 care facility or hospital, with an additional six months in which to demonstrate compliant usage of the
+3 data system or registry] in accordance with the standard adopted under paragraph (a) of this
+4 subsection.
+5 (c) If no relevant nationally recognized classification standard is available for a specific type
+6 of emergency medical services center, the authority shall consider the recommendations of the board
+7 for one or more new classifications of a type of emergency medical services center.
+8 [(d) The board and the authority may grant, at the request of an emergency medical services center,
+9 an extension to the timeline described in paragraph (b) of this subsection.]
+10 (2)(a) An emergency medical services center is not required to obtain categorization or desig-
+11 nation as described in subsection (1) of this section but may, at the discretion of the emergency
+12 medical services center, strive to obtain a specific categorization or designation.
+13 (b) An emergency medical services center described in this subsection is not required to adopt
+14 and use a specific data system or registry unless the data system or registry is required in order to
+15 obtain the categorization or designation that the emergency medical services center strives to ob-
+16 tain.
+17 (c) An emergency medical services center may concurrently adopt and use data systems or
+18 registries in addition to any data systems or registries required for a specific categorization or
+19 designation.
+20 (3) An emergency medical services center that uses any data system or registry shall grant to
+21 the authority permission to extract data subject to relevant confidentiality requirements.
+22 (4) An emergency medical services center may not hold itself out, or operate, as having obtained
+23 a specific categorization or designation until:
+24 (a) The emergency medical services center meets all requirements for the categorization or
+25 designation [within the timelines specified in subsection (1)(b) of this section]; and
+26 (b) The authority, through the Emergency Medical Services Program, recognizes that the emer-
+27 gency medical services center meets the categorization or designation requirements.
+28 (5) The authority shall adopt rules to carry out this section and may adopt as rules of the au-
+29 thority any relevant nationally recognized classification standards and proposed classification stan-
+30 dards described in subsection (1) of this section.
+31 SECTION 18. ORS 682.527, as amended by section 40, chapter 32, Oregon Laws 2024, is
+32 amended to read:
+33 682.527. (1)(a) The Emergency Medical Services Advisory Board, upon the advice of the Time-
+34 Sensitive Medical Emergencies Advisory Committee, the Emergency Medical Services Advisory
+35 Committee, [the Pediatric Emergency Medical Services Advisory Committee,] the Emergency Medical
+36 Services for Children Advisory Committee, the Behavioral Health Emergency Medical Services
+37 Advisory Committee and the Long Term Care and Senior Care Emergency Medical Services Advi-
+38 sory [Committee] Subcommittee, shall determine the nationally recognized classification standards
+39 to recommend to the Oregon Health Authority to adopt as rules for categorization and designation
+40 of emergency medical services centers for the provision of trauma, stroke, cardiac, pediatric, be-
+41 havioral health and long term and senior care and other identified time-sensitive emergencies.
+42 (b) If a nationally recognized classification standard used by the authority under this subsection
+43 requires that an emergency medical services center use a specific data system or registry in order
+44 to obtain a specific categorization or designation, the authority shall require an emergency medical
+45 services center that intends to obtain the categorization or designation to adopt the data system or
+[14]
+
+HB 4053
+1 registry [not later than:]
+2 [(A) Eighteen months after the date on which the Emergency Medical Services Advisory Board and
+3 the authority determine the data system or registry must be adopted, if the emergency medical services
+4 center is a large facility or hospital, with an additional six months in which to demonstrate compliant
+5 usage of the data system or registry.]
+6 [(B) Three years after the date on which the board and the authority determine the data system
+7 or registry must be adopted, if the emergency medical services center is a critical access or rural health
+8 care facility or hospital, with an additional six months in which to demonstrate compliant usage of the
+9 data system or registry] in accordance with the standard adopted under paragraph (a) of this
+10 subsection.
+11 (c) If no relevant nationally recognized classification standard is available for a specific type
+12 of emergency medical services center, the authority shall consider the recommendations of the board
+13 for one or more new classifications of a type of emergency medical services center.
+14 [(d) The board and the authority may grant, at the request of an emergency medical services center,
+15 an extension to the timeline described in paragraph (b) of this subsection.]
+16 (2)(a) An emergency medical services center is not required to obtain categorization or desig-
+17 nation as described in subsection (1) of this section but may, at the discretion of the emergency
+18 medical services center, strive to obtain a specific categorization or designation.
+19 (b) An emergency medical services center described in this subsection is not required to adopt
+20 and use a specific data system or registry unless the data system or registry is required in order to
+21 obtain the categorization or designation that the emergency medical services center strives to ob-
+22 tain.
+23 (c) An emergency medical services center may concurrently adopt and use data systems or
+24 registries in addition to any data systems or registries required for a specific categorization or
+25 designation.
+26 (3) An emergency medical services center that uses any data system or registry shall grant to
+27 the authority permission to extract data subject to relevant confidentiality requirements.
+28 (4) An emergency medical services center may not hold itself out, or operate, as having obtained
+29 a specific categorization or designation until:
+30 (a) The emergency medical services center meets all requirements for the categorization or
+31 designation [within the timelines specified in subsection (1)(b) of this section]; and
+32 (b) The authority, through the Emergency Medical Services Program, recognizes that the emer-
+33 gency medical services center meets the categorization or designation requirements.
+34 (5) The authority shall adopt rules to carry out this section and may adopt as rules of the au-
+35 thority any relevant nationally recognized classification standards and proposed classification stan-
+36 dards described in subsection (1) of this section.
+37 SECTION 19. ORS 682.530 is amended to read:
+38 682.530. (1) The Oregon Health Authority shall, with the advice of the Emergency Medical Ser-
+39 vices Advisory Board, designate emergency medical services regions that are consistent with local
+40 resources, geography, current patient referral patterns and existing regionalized health care struc-
+41 tures and networks. The authority and the Emergency Medical Services Advisory Board shall es-
+42 tablish a regional emergency medical services advisory board for each designated emergency
+43 medical services region. The authority and the Emergency Medical Services Advisory Board may
+44 determine the membership of each regional emergency medical services advisory board, and shall
+45 ensure that the membership reflects the geographic, cultural, linguistic and economic diversity of
+[15]
+
+HB 4053
+1 the emergency medical services region.
+2 (2) Each emergency medical services region must include at least one hospital categorized ac-
+3 cording to the emergency medical services region’s emergency medical services capabilities as de-
+4 termined by standards adopted by the authority by rule.
+5 (3) The authority, with the advice of the Emergency Medical Services Advisory Board, shall
+6 appoint the members of the regional emergency medical services advisory boards. Members serve
+7 at the pleasure of the authority. Each regional emergency medical services advisory board is re-
+8 sponsible for:
+9 (a) The development and maintenance of a regional emergency medical services system plan as
+10 described in subsection (4) of this section;
+11 (b) Central medical direction for all field care and transportation consistent with geographic and
+12 current communications capability; and
+13 (c) Patient triage protocols for time-sensitive emergencies.
+14 (4) Each regional emergency medical services system plan:
+15 (a) Must include the following:
+16 (A) A recommendation of hospitals in the emergency medical services region to be designated
+17 by the authority as emergency medical services centers under ORS 682.527;
+18 (B) A description of the patient triage protocols to be used in the emergency medical services
+19 region;
+20 (C) A description of the transportation of patients, including the transportation of patients who
+21 are members of a health maintenance organization, as defined in ORS 442.015;
+22 (D) Information regarding how the emergency medical services region will coordinate with state
+23 and regional disaster preparedness efforts; and
+24 (E) Any other information required by the authority by rule.
+25 (b) Must be approved by the authority prior to implementation.
+26 (c) May be revised with the approval of the authority.
+27 (5) The authority may, with the advice of the Emergency Medical Services Advisory Board, im-
+28 plement the regional emergency medical services plans and may coordinate with a regional emer-
+29 gency medical services advisory board to make changes desired by the authority to the regional
+30 emergency medical services advisory [board] plan.
+31 SECTION 20. ORS 682.533 is amended to read:
+32 682.533. (1) The Emergency Medical Services Program, upon the recommendation of the Emer-
+33 gency Medical Services Advisory Board, shall establish and maintain an emergency medical services
+34 data system. In formulating recommendations, the board shall consider the advice of the Time-
+35 Sensitive Medical Emergencies Advisory Committee, the Emergency Medical Services Advisory
+36 Committee, [the Pediatric Emergency Medical Services Advisory Committee] the Emergency Medical
+37 Services for Children Advisory Committee and the Behavioral Health Emergency Medical Ser-
+38 vices Advisory Committee. The Oregon Health Authority shall adopt rules for the data system de-
+39 scribed in this subsection to establish:
+40 (a) The information that must be reported to the data system;
+41 (b) A process for the oversight of the data system and the reporting of information to the data
+42 system;
+43 (c) The form and frequency of reporting information:
+44 (A) To the data system, the authority and the board; and
+45 (B) From the data system to health care facilities and providers that report information to the
+[16]
+
+HB 4053
+1 data system; and
+2 (d) The procedures and standards for the administration and maintenance of the data system.
+3 (2) In determining the information described in subsection (1)(a) of this section, the authority
+4 shall require the reporting of information recommended by the board following consultation with the
+5 committees.
+6 (3) The data system established under this section must:
+7 (a) Use nationally accredited data registry systems approved by the authority where available,
+8 or use established data systems authorized and managed by the authority;
+9 (b) Have security measures in place to protect individually identifiable information;
+10 (c) Allow the authority to export data stored in the system;
+11 (d) Be used for quality assurance, quality improvement, epidemiological assessment and investi-
+12 gation, public health implementation, critical response planning, prevention activities and other
+13 purposes as the authority determines necessary; and
+14 (e) Meet other requirements established by the authority by rule.
+15 (4) If no relevant nationally accredited data registry system is available, the authority shall
+16 convene an advisory committee of stakeholders, including but not limited to state and community
+17 partners, to develop a proposal for the establishment of a data system. The advisory committee
+18 convened under this subsection shall prioritize high-quality patient care outcomes in all decision-
+19 making.
+20 (5) The authority may not require:
+21 (a) That a health care facility adopt a specific registry unless that registry is required for the
+22 specific categorization or designation that the health care facility seeks to obtain.
+23 (b) The reporting of data that is not otherwise required of a health care facility in order for the
+24 health care facility to obtain a specific categorization or designation that the health care facility
+25 seeks to obtain.
+26 (6) The authority may access and extract data from any registry that a health care facility has
+27 adopted for purposes of obtaining a specific categorization or designation, and may use data de-
+28 scribed in this subsection in the data system established under this section.
+29 (7) The Emergency Medical Services Program shall make recommendations to:
+30 (a) Health care facilities for the adoption of specific registries and services from the data system
+31 established under this section for the purpose of health care facility categorization; and
+32 (b) Emergency medical services providers for the adoption of specific registries and services
+33 from the data system established under this section for the purpose of sharing emergency medical
+34 services data with the authority.
+35 (8) The authority may request the inclusion of demographic data from patients who receive
+36 emergency medical care from a health care facility or emergency medical services provider, includ-
+37 ing but not limited to the patients’:
+38 (a) Age;
+39 (b) Sex;
+40 (c) Gender;
+41 (d) Race and ethnicity;
+42 (e) Status as a disabled person;
+43 (f) Status as a veteran; and
+44 (g) Zip code and emergency medical services region of residence.
+45 (9) As used in this section, “individually identifiable information” means:
+[17]
+
+HB 4053
+1 (a) Individually identifiable health information as that term is defined in ORS 179.505; and
+2 (b) Information that could be used to identify a health care provider, emergency medical services
+3 agency or health care facility.
+4 SECTION 21. Section 32, chapter 32, Oregon Laws 2024, is amended to read:
+5 Sec. 32. (1) The Emergency Medical Services Advisory Board, the Time-Sensitive Medical
+6 Emergencies Advisory Committee, the [Pediatric Emergency Medical Services Advisory Committee]
+7 Emergency Medical Services for Children Advisory Committee and the Behavioral Health
+8 Emergency Medical Services Advisory Committee may hold their first meetings no earlier than
+9 January 1, 2025.
+10 (2)(a) The emergency medical services regions established under [section 11 of this 2024 Act]
+11 ORS 682.530 may hold their first meetings no earlier than January 1, 2026.
+12 (b) The emergency medical services regions shall develop the regional emergency medical ser-
+13 vices system plans not later than January 1, [2027] 2029.
+14 SECTION 22. Section 44, chapter 32, Oregon Laws 2024, is amended to read:
+15 Sec. 44. (1) [Section 36 of this 2024 Act] ORS 682.524, the amendments to [sections 3, 5, 7 and
+16 10 of this 2024 Act] ORS 682.503, 682.509, 682.515 and 682.527 by sections 37 to 40 [of this 2024
+17 Act], chapter 32, Oregon Laws 2024, the amendments to ORS 146.015 and 441.020 by sections 41
+18 and 42 [of this 2024 Act], chapter 32, Oregon Laws 2024, and the repeal of ORS 431A.050, 431A.055,
+19 431A.060, 431A.065, 431A.070, 431A.075, 431A.080, 431A.085, 431A.090, 431A.095, 431A.100, 431A.105,
+20 431A.525 and 431A.530 by section 43 [of this 2024 Act], chapter 32, Oregon Laws 2024, become
+21 operative on January 1, [2027] 2029.
+22 (2) The Department of Human Services, the Oregon Health Authority and the State Medical
+23 Examiner Advisory Board may take any action before the operative date specified in subsection (1)
+24 of this section that is necessary to enable the authority, board and department to exercise, on and
+25 after the operative date specified in subsection (1) of this section, all of the duties, functions and
+26 powers conferred on the authority, board and department by [section 36 of this 2024 Act] ORS
+27 682.524, the amendments to [sections 3, 5, 7 and 10 of this 2024 Act] ORS 682.503, 682.509, 682.515
+28 and 682.527 by sections 37 to 40 [of this 2024 Act], chapter 32, Oregon Laws 2024, the amendments
+29 to ORS 146.015 and 441.020 by sections 41 and 42 [of this 2024 Act], chapter 32, Oregon Laws 2024,
+30 and the repeal of ORS 431A.050, 431A.055, 431A.060, 431A.065, 431A.070, 431A.075, 431A.080,
+31 431A.085, 431A.090, 431A.095, 431A.100, 431A.105, 431A.525 and 431A.530 by section 43 [of this 2024
+32 Act], chapter 32, Oregon Laws 2024.
+33 SECTION 23. Section 45, chapter 32, Oregon Laws 2024, as amended by section 4, chapter 485,
+34 Oregon Laws 2025, is amended to read:
+35 Sec. 45. The Director of the Oregon Health Authority may appoint to the Long Term Care and
+36 Senior Care Emergency Medical Services Advisory [Committee] Subcommittee members of the
+37 Senior Emergency Medical Services Council established under section 1, chapter 616, Oregon Laws
+38 2021.
+39 SECTION 24. The amendments to ORS 682.506 and 682.518 by sections 8 and 14 apply to
+40 members appointed to the Emergency Medical Services Advisory Board and the Emergency
+41 Medical Services for Children Advisory Committee on or after the operative date specified in
+42 section 25 of this 2026 Act.
+43 SECTION 25. (1) The amendments to ORS 682.500, 682.503, 682.506, 682.509, 682.512,
+44 682.515, 682.518, 682.521, 682.527, 682.530 and 682.533 and section 32, chapter 32, Oregon Laws
+45 2024, by sections 5 to 15 and 17 to 21 of this 2026 Act, become operative on January 1, 2027.
+[18]
+
+HB 4053
+1 (2) The Oregon Health Authority may take any action before the operative date specified
+2 in subsection (1) of this section that is necessary to enable the authority to exercise, on and
+3 after the operative date specified in subsection (1) of this section, all of the duties, functions
+4 and powers conferred on the authority by the amendments to ORS 682.500, 682.503, 682.506,
+5 682.509, 682.512, 682.515, 682.518, 682.521, 682.527, 682.530 and 682.533 and section 32, chapter
+6 32, Oregon Laws 2024, by sections 5 to 15 and 17 to 21 of this 2026 Act.
+7
+8 EMERGENCY MEDICAL SERVICES EDUCATION
+9
+10 SECTION 26. ORS 682.017 is amended to read:
+11 682.017. The Oregon Health Authority shall adopt rules in accordance with ORS chapter 183
+12 that include, but are not limited to:
+13 (1) Requirements relating to the types and numbers of emergency vehicles, including supplies
+14 and equipment carried.
+15 (2) Requirements for the operation and coordination of ambulances and other emergency care
+16 systems.
+17 (3) Criteria for the use of two-way communications.
+18 (4) Procedures for summoning and dispatching aid.
+19 (5) Requirements that ambulance services report patient encounter data to the emergency med-
+20 ical services data system established under ORS 682.533. The requirements must specify the data
+21 that an ambulance service must report, the form and frequency of the reporting and the procedures
+22 and standards for the administration of the data system.
+23 (6) Levels of licensure for emergency medical services providers. The lowest level of emergency
+24 medical services provider licensure must be an emergency medical responder license.
+25 (7) Minimum education requirements for licensure as an emergency medical services
+26 provider.
+27 [(7)] (8) Other rules as necessary to carry out the provisions of this chapter.
+28 SECTION 27. ORS 682.204 is amended to read:
+29 682.204. (1) A person may not act as an emergency medical services provider unless the person
+30 is licensed under this chapter.
+31 (2) A person or governmental unit [which] that operates an ambulance may not authorize [a]
+32 another person to act for [it] the person or governmental unit as an emergency medical services
+33 provider unless the emergency medical services provider is licensed under this chapter.
+34 (3) A person or governmental unit may not operate or allow to be operated in this state any
+35 ambulance unless [it] the ambulance is operated with at least one emergency medical services
+36 provider who is licensed at a level higher than emergency medical responder.
+37 (4) It is a defense to any charge under this section that there was a reasonable basis for be-
+38 lieving that the performance of services contrary to this section was necessary to preserve human
+39 life, that diligent effort was made to obtain the services of a licensed emergency medical services
+40 provider and that the services of a licensed emergency medical services provider were not available
+41 or were not available in time as under the circumstances appeared necessary to preserve such hu-
+42 man life.
+43 (5) Subsections (1) to (3) of this section [are not applicable to] do not apply to:
+44 (a) Any individual, group of individuals, partnership, entity, association or other organization
+45 otherwise subject thereto providing a service to the public exclusively by volunteer unpaid workers,
+[19]
+
+HB 4053
+1 nor to any person who acts as an ambulance attendant therefor, provided that in the particular
+2 county in which the service is rendered, the county court or board of county commissioners has by
+3 order, after public hearing, granted exemption from such subsections to the individual, group, part-
+4 nership, entity, association or organization.
+5 (b) A student enrolled in an emergency medical services course approved by the Oregon
+6 Health Authority who provides prehospital care to a patient as part of the clinical component
+7 of the approved course, if the prehospital care is provided under the supervision of a qualified
+8 supervisor, as determined by the authority by rule.
+9 (6) When exemption is granted under this section, any person who attends an individual who is
+10 ill or injured or who has a disability in an ambulance may not purport to be an emergency medical
+11 services provider.
+12 SECTION 28. ORS 682.208 is amended to read:
+13 682.208. (1) A person desiring to be licensed as an emergency medical services provider shall
+14 submit an application for licensure to the Oregon Health Authority. The application must be upon
+15 forms prescribed by the authority and must contain:
+16 (a) The name and address of the applicant.
+17 (b) The name and location of the training course successfully completed by the applicant and
+18 the date of completion.
+19 (c) Evidence that the authority determines is satisfactory to prove that the applicant’s physical
+20 and mental health is such that it is safe for the applicant to act as an emergency medical services
+21 provider.
+22 (d) Other information as the authority may reasonably require to determine compliance with
+23 applicable provisions of this chapter and the rules adopted under this chapter.
+24 (2) The application must be accompanied by proof as prescribed by rule of the authority of the
+25 applicant’s successful completion of a training course approved by the authority and, if an extended
+26 period of time has elapsed since the completion of the course, of a satisfactory amount of continuing
+27 education.
+28 (3) The authority shall adopt [a schedule of] rules to establish minimum educational require-
+29 ments in emergency and nonemergency care for emergency medical services providers for
+30 licensure. A course approved by the authority must be designed to protect the welfare of out-of-
+31 hospital patients, to promote the health, well-being and saving of the lives of such patients and to
+32 reduce their pain and suffering.
+33 SECTION 29. (1) The amendments to ORS 682.017, 682.204 and 682.208 by sections 26 to
+34 28 of this 2026 Act become operative on January 1, 2027.
+35 (2) The Oregon Health Authority may take any action before the operative date specified
+36 in subsection (1) of this section that is necessary to enable the authority to exercise, on and
+37 after the operative date specified in subsection (1) of this section, all of the duties, functions
+38 and powers conferred on the authority by the amendments to ORS 682.017, 682.204 and 682.208
+39 by sections 26 to 28 of this 2026 Act.
+40
+41 CAPTIONS
+42
+43 SECTION 30. The unit captions used in this 2026 Act are provided only for the conven-
+44 ience of the reader and do not become part of the statutory law of this state or express any
+45 legislative intent in the enactment of this 2026 Act.
+[20]
+
+HB 4053
+1 EFFECTIVE DATE
+2
+3 SECTION 31. This 2026 Act takes effect on the 91st day after the date on which the 2026
+4 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+5
+[21]

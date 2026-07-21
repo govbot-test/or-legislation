@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - SHDEV Amendment -6
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB 1561-6
+(LC 96)
+2/11/26 (RLM/ps)
+Requested by Senator WEBER
+PROPOSED AMENDMENTS TO
+SENATE BILL 1561
+1 On page 2 of the printed bill, delete line 6 and insert:
+2 “(c) A planning director.”.
+3 In line 9, after “34.100.” delete the rest of the line and insert “The local
+4 government may require an applicant to give notice to certain nonparties
+5 and shall provide nonparties an opportunity to submit written comments on
+6 the application in a manner provided by ordinance.”.
+7

@@ -1,0 +1,221 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4079
+Sponsored by Representative MCDONALD, Senator NERON MISSLIN, Representatives ANDERSEN, CHOTZEN,
+FRAGALA, RUIZ, Senator FREDERICK; Representatives EVANS, GAMBA, GRAYBER, HUDSON, JAVADI,
+MUNOZ, NELSON, NGUYEN D, NOSSE, PHAM H, SOSA, WALTERS, WISE, Senators GELSER BLOUIN,
+GOLDEN, PHAM K, REYNOLDS (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Tells public schools to have a policy for how to respond to immigration issues at the
+school. (Flesch Readability Score: 65.1).
+Directs school district boards and governing bodies of institutions of higher education to adopt
+policies that address how the school district or the institution of higher education will respond when
+a federal immigration authority enters school property or a campus. Prescribes the requirements of
+the policies.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to policies for when federal immigration authorities enter public education property; cre-
+3 ating new provisions; amending ORS 339.405; and declaring an emergency.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. (1) As used in this section:
+6 (a) “Federal immigration authority” has the meaning given that term in ORS 180.805.
+7 (b) “School district” includes an education service district and a public charter school.
+8 (c) “School district board” includes the board of directors of an education service district
+9 and the governing body of a public charter school.
+10 (d) “School property” means any real property owned, controlled or used by or on behalf
+11 of a school district that is accessed by students of the school district on a regular basis.
+12 (2) Each school district board shall adopt a policy that addresses how the school district
+13 will respond when a federal immigration authority enters school property.
+14 (3) The policy adopted under this section must:
+15 (a) Identify at least one administrator for each school district, and at least one designee
+16 of the administrator, who shall be designated to respond when a federal immigration au-
+17 thority enters school property. The response must include:
+18 (A) Recording the time and location of the presence;
+19 (B) Consulting with legal counsel, when feasible;
+20 (C) Verifying the credentials and purpose of the federal immigration authority, including
+21 determining if access is sought under a judicial warrant or court order; and
+22 (D) Responding to any judicial warrant or court order.
+23 (b) Require that, unless otherwise prohibited by law, reasonable efforts are made to
+24 provide notice as expediently as possible to a student or to the parent or guardian of a stu-
+25 dent when the school district has provided information related to the student to a federal
+26 immigration authority.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 74
+
+HB 4079
+1 (c) Require that notice that a federal immigration authority is present on school property
+2 is provided to:
+3 (A) Students and the parents or guardians of students attending the school where the
+4 federal immigration authority is on school property; and
+5 (B) The community of the school where the federal immigration authority is on school
+6 property.
+7 (d) Specify the contents and delivery requirements of the notice required under para-
+8 graph (c) of this subsection, including the requirements that the notice:
+9 (A) Must include at least the following information:
+10 (i) The general location of the federal immigration authority; and
+11 (ii) Whether classes or school operations are affected by the presence of the federal im-
+12 migration authority.
+13 (B) May not disclose any of the following information:
+14 (i) Personally identifiable information; or
+15 (ii) Other information that may not be legally disclosed.
+16 (C) May not disclose information when the disclosure:
+17 (i) May threaten the health or safety of the students or employees of the school district;
+18 or
+19 (ii) Is prohibited by a court order.
+20 (D) Must be provided as expediently as possible by existing methods used for providing
+21 electronic communications to students, parents and guardians or to the school community.
+22 (e) Ensure compliance with ORS 180.805 and 181A.826.
+23 (f) Require the provision of written guidance in relation to federal immigration authority
+24 efforts, including clarifying:
+25 (A) The difference between court orders and administrative orders;
+26 (B) Which areas of the school are public or private and under which circumstances pri-
+27 vate areas may be accessed by a federal immigration authority; and
+28 (C) Which actions may constitute interference with a court order or lawful access to
+29 public areas.
+30 (g) Require that annual training is provided to the employees of the school district on:
+31 (A) The expectations of the employees in relation to federal immigration authority efforts
+32 on school property; and
+33 (B) The guidance described in paragraph (f) of this subsection.
+34 (h) Require that the policy adopted under this section and the guidance described in
+35 paragraph (f) of this subsection be made available:
+36 (A) In the student handbook; and
+37 (B) On the school district’s website in culturally appropriate languages that are used to
+38 communicate effectively with parents and guardians of students of the school district.
+39 (4) The Department of Education shall submit an annual report on the provisions of this
+40 section, including the number of notifications issued under subsection (3)(c) of this section
+41 during the year, to an interim committee of the Legislative Assembly related to education.
+42 (5) The State Board of Education shall adopt model policies and may adopt rules under
+43 this section. When adopting model policies, the board shall consult with the Attorney Gen-
+44 eral to ensure consistency with model policies adopted as provided by ORS 180.810.
+45 SECTION 2. ORS 339.405 is amended to read:
+[2]
+
+HB 4079
+1 339.405. (1) As used in this section:
+2 (a) “Evacuate” means a procedure used when students and staff need to move from one location
+3 to another.
+4 (b) “Hold” means a procedure used to keep students and staff in classrooms while a disruption
+5 or minor emergency is resolved.
+6 (c) “Lockdown” means a procedure used when a threat or hazard is inside the building.
+7 (d) “Secure” means a procedure used when a threat or hazard is outside the building.
+8 (e) “Shelter in place” is a procedure used to respond to and take protective actions based on a
+9 threat or hazard that may include an earthquake, tsunami or other natural or environmental hazard.
+10 (2) Each school district must maintain a comprehensive safety program for all students and staff.
+11 The program must include procedures for:
+12 (a) Responding to emergency situations that address an immediate threat to safety, including an
+13 evacuation, a hold, a lockdown, a secure and a shelter in place;
+14 (b) Providing communicable disease management;
+15 (c) Responding to medical emergencies; [and]
+16 (d) Providing instruction as described in ORS 339.408[.]; and
+17 (e) Responding to a federal immigration authority on school property as described in
+18 section 1 of this 2026 Act.
+19 (3) The State Board of Education may adopt rules related to a program required under this
+20 section.
+21 SECTION 3. (1) Section 1 of this 2026 Act and the amendments to ORS 339.405 by section
+22 2 of this 2026 Act become operative July 1, 2026.
+23 (2) Section 1 of this 2026 Act and the amendments to ORS 339.405 by section 2 of this 2026
+24 Act first apply to the 2026-2027 school year.
+25 (3) Notwithstanding the operative date set forth in subsection (1) of this section, school
+26 districts may revise a comprehensive safety program before the operative date set forth in
+27 subsection (1) of this section to include provisions related to responses to a federal immi-
+28 gration authority on school property.
+29 SECTION 4. (1) As used in this section:
+30 (a) “Campus” means any real property owned, controlled or used by or on behalf of an
+31 institution of higher education that is accessed by students of the institution of higher edu-
+32 cation on a regular basis.
+33 (b) “Federal immigration authority” has the meaning given that term in ORS 180.805.
+34 (c) “Governing board” means:
+35 (A) The governing board of a public university listed in ORS 352.002.
+36 (B) The board of education of a community college district.
+37 (C) The Oregon Health and Science University Board of Directors.
+38 (d) “Institution of higher education” means a public university listed in ORS 352.002, a
+39 community college operated under ORS chapter 341 or the Oregon Health and Science Uni-
+40 versity.
+41 (2) Each governing board shall adopt a policy that addresses how the institution of higher
+42 education will respond when a federal immigration authority enters a campus.
+43 (3) The policy adopted under this section must:
+44 (a) Identify at least one administrator for the institution of higher education, and at least
+45 one designee of the administrator, who shall be designated to respond when a federal immi-
+[3]
+
+HB 4079
+1 gration authority enters a campus. The response must include:
+2 (A) Recording the time and location of the presence;
+3 (B) Consulting with legal counsel, when feasible;
+4 (C) Verifying the credentials and purpose of the federal immigration authority, including
+5 determining if access is sought under a judicial warrant or court order; and
+6 (D) Responding to any judicial warrant or court order.
+7 (b) Require that, unless otherwise prohibited by law, reasonable efforts are made to
+8 provide notice as expediently as possible to a student when the institution of higher educa-
+9 tion has provided information related to the student to a federal immigration authority.
+10 (c) Require that notice that a federal immigration authority is present on a campus is
+11 provided to:
+12 (A) Students enrolled in the institution of higher education at the campus where the
+13 federal immigration authority is present; and
+14 (B) The community of the campus where the federal immigration authority is present.
+15 (d) Specify the contents and delivery requirements of the notice required under para-
+16 graph (c) of this subsection, including the requirements that the notice:
+17 (A) Must include at least the following information:
+18 (i) The general location of the federal immigration authority; and
+19 (ii) Whether classes or campus operations are affected by the presence of the federal
+20 immigration authority.
+21 (B) May not disclose any of the following information:
+22 (i) Personally identifiable information; or
+23 (ii) Other information that may not be legally disclosed.
+24 (C) May not disclose information when the disclosure:
+25 (i) May threaten the health or safety of the students or employees of the institution of
+26 higher education; or
+27 (ii) Is prohibited by a court order.
+28 (D) Must be provided as expediently as possible by existing methods used for providing
+29 electronic communications to students or to the community of the campus.
+30 (e) Ensure compliance with ORS 180.805 and 181A.826.
+31 (f) Require the provision of written guidance in relation to federal immigration authority
+32 efforts, including clarifying:
+33 (A) The difference between court orders and administrative orders;
+34 (B) Which areas of the campus are public or private and under which circumstances
+35 private areas may be accessed by a federal immigration authority; and
+36 (C) Which actions may constitute interference with a court order or lawful access to
+37 public areas.
+38 (g) Require that annual training is provided to the employees of the institution of higher
+39 education on:
+40 (A) The expectations of the employees in relation to federal immigration authority efforts
+41 on a campus; and
+42 (B) The guidance described in paragraph (f) of this subsection.
+43 (h) Require that the policy adopted under this section and the guidelines described in
+44 paragraph (f) of this subsection be made available:
+45 (A) In the student handbook; and
+[4]
+
+HB 4079
+1 (B) On the website of the institution of higher education in culturally appropriate lan-
+2 guages that are used to communicate effectively with the students and community of the
+3 campus.
+4 (4) The Higher Education Coordinating Commission shall submit an annual report on the
+5 provisions of this section, including the number of notifications issued under subsection
+6 (3)(c) of this section during the year, to an interim committee of the Legislative Assembly
+7 related to education.
+8 (5) The Higher Education Coordinating Commission shall adopt model policies and may
+9 adopt rules under this section. When adopting model policies, the commission shall consult
+10 with the Attorney General to ensure consistency with model policies adopted as provided by
+11 ORS 180.810.
+12 SECTION 5. (1) Section 4 of this 2026 Act becomes operative July 1, 2026.
+13 (2) Notwithstanding the operative date set forth in subsection (1) of this section, insti-
+14 tutions of higher education may implement the provisions of section 4 of this 2026 Act prior
+15 to the operative date set forth in subsection (1) of this section.
+16 SECTION 6. This 2026 Act being necessary for the immediate preservation of the public
+17 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+18 on its passage.
+19
+[5]

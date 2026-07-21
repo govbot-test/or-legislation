@@ -1,0 +1,94 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4025
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Commerce and Consumer Protection for Representative Nathan Sosa)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Allows a public utility other than a power or gas company to raise rates year-round.
+Takes effect 91 days after sine die. (Flesch Readability Score: 61.0).
+Allows an increase in the residential rates of a public utility to take effect from November 1 to
+March 31 for public utilities other than public utilities that provide electricity or natural gas ser-
+vices.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to the residential rates of public utilities; amending ORS 757.210; and prescribing an ef-
+3 fective date.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 757.210 is amended to read:
+6 757.210. (1)(a) Whenever any public utility files with the Public Utility Commission any rate or
+7 schedule of rates stating or establishing a new rate or schedule of rates or increasing an existing
+8 rate or schedule of rates, the commission may, either upon written complaint or upon the
+9 commission’s own initiative, after reasonable notice, conduct a hearing to determine whether the
+10 rate or schedule is fair, just and reasonable. The commission shall conduct the hearing upon written
+11 complaint filed by the utility, its customer or customers, or any other proper party within 60 days
+12 of the utility’s filing; provided that no hearing need be held if the particular rate change is the re-
+13 sult of an automatic adjustment clause. At the hearing the utility shall bear the burden of showing
+14 that the rate or schedule of rates proposed to be established or increased or changed is fair, just
+15 and reasonable. The commission may not authorize a rate or schedule of rates that is not fair, just
+16 and reasonable.
+17 (b) As used in this subsection, “automatic adjustment clause” means a provision of a rate
+18 schedule that provides for rate increases or decreases or both, without prior hearing, reflecting in-
+19 creases or decreases or both in costs incurred, taxes paid to units of government or revenues earned
+20 by a utility and that is subject to review by the commission at least once every two years.
+21 (2)(a) Subsection (1) of this section does not apply to rate changes under an approved alternative
+22 form of regulation plan, including a resource rate plan under ORS 757.212.
+23 (b) Any alternative form of regulation plan shall include provisions to ensure that the plan op-
+24 erates in the interests of utility customers and the public generally and results in rates that are just
+25 and reasonable and may include provisions establishing a reasonable range for rate of return on
+26 investment. In approving a plan, the commission shall, at a minimum, consider whether the plan:
+27 (A) Promotes increased efficiencies and cost control;
+28 (B) Is consistent with least-cost resources acquisition policies;
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 142
+
+HB 4025
+1 (C) Yields rates that are consistent with those that would be obtained following application of
+2 ORS 757.269;
+3 (D) Is consistent with maintenance of safe, adequate and reliable service; and
+4 (E) Is beneficial to utility customers generally, for example, by minimizing utility rates.
+5 (c) As used in this subsection, “alternative form of regulation plan” means a plan adopted by the
+6 commission upon petition by a public utility, after notice and an opportunity for a hearing, that sets
+7 rates and revenues and a method for changes in rates and revenues using alternatives to cost-of-
+8 service rate regulation.
+9 (d) Prior to implementing a rate change under an alternative form of regulation plan, the utility
+10 shall present a report that demonstrates the calculation of any proposed rate change at a public
+11 meeting of the commission.
+12 (3) Except as provided in ORS 757.212, the commission, at any time, may order a utility to ap-
+13 pear and establish that any, or all, of its rates in a plan authorized under subsection (2) of this
+14 section are in conformity with the plan and are just and reasonable. Except as provided in ORS
+15 757.212, such rates, and the alternative form of regulation plan under which the rates are set, also
+16 shall be subject to complaint under ORS 756.500.
+17 (4) Periodically, but not less often than every two years after the implementation of a plan re-
+18 ferred to in subsection (2) of this section, the commission shall submit a report to the Legislative
+19 Assembly that shows the impact of the plan on rates paid by utility customers.
+20 (5) The commission and staff may consult at any time with, and provide technical assistance to,
+21 utilities, their customers, and other interested parties on matters relevant to utility rates and
+22 charges. If a hearing is held with respect to a rate change, the commission’s decisions shall be based
+23 on the record made at the hearing.
+24 (6) The commission may adjust rates to mitigate an increase in residential customer rates if the
+25 increase is of such magnitude that, if applied at the higher rate or all at one time, the increase
+26 would affect the ability of residential customers to maintain adequate utility service. In considering
+27 whether to adjust rates under this subsection, the commission:
+28 (a) Must determine whether the proposed adjusted rates are fair, just and reasonable;
+29 (b) May not adjust rates in a manner that results in rates that are not fair, just and reasonable;
+30 and
+31 (c) Shall consider and may approve deferred accounting for future cost recovery from customers
+32 for those amounts that are subject to rate mitigation.
+33 (7) Any increase in the residential rates of a public utility that provides electricity or na-
+34 tural gas services may not take effect from November 1 to March 31.
+35 SECTION 2. This 2026 Act takes effect on the 91st day after the date on which the 2026
+36 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+37
+[2]
