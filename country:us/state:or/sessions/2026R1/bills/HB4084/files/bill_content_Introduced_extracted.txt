@@ -1,0 +1,624 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4084
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of Governor Tina Kotek for
+Office of the Governor)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would set up a Joint Permitting Council to run a fast track permit program.
+The Act would direct certain state agencies to publish a list of certain permits that can be is-
+sued by the agencies.
+The Act would adjust certain requirements of the enterprise zone program.
+The Act would give money to OBDD. (Flesch Readability Score: 71.3).
+Establishes the Joint Permitting Council. Directs the council to administer a fast track permit-
+ting program.
+Directs certain state agencies to publish a catalog of permits related to economic development
+projects issued by the agencies within 120 days after the effective date of the Act.
+Updates certain requirements and thresholds for the enterprise zone program.
+Appropriates moneys to the Oregon Business Development Department for deposit in the In-
+dustrial Site Loan Fund.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to economic development; creating new provisions; amending ORS 285C.090, 285C.135,
+3 285C.140, 285C.155, 285C.160, 285C.180, 285C.200, 285C.205 and 285C.210; and prescribing an ef-
+4 fective date.
+5 Be It Enacted by the People of the State of Oregon:
+6 SECTION 1. (1) The Joint Permitting Council is established within the office of the Gov-
+7 ernor. The council consists of one representative of each of the following agencies, appointed
+8 by the Governor:
+9 (a) The Department of Transportation.
+10 (b) The Department of Land Conservation and Development.
+11 (c) The State Department of Energy.
+12 (d) The Department of State Lands.
+13 (e) The Department of Environmental Quality.
+14 (f) The Water Resources Department.
+15 (g) The State Department of Agriculture.
+16 (h) The Oregon Business Development Department.
+17 (i) The Higher Education Coordinating Commission.
+18 (j) The Employment Department.
+19 (k) The Department of Consumer and Business Services.
+20 (L) The State Department of Fish and Wildlife.
+21 (m) The Oregon Department of Administrative Services.
+22 (n) The State Department of Geology and Mineral Industries.
+23 (2) The term of office of each member of the council is four years. A member serves at
+24 the pleasure of the Governor. Before the expiration of the term of a member, the Governor
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 109
+
+HB 4084
+1 shall appoint a successor whose term begins on January 1 of the following year. A member
+2 may be reappointed. If there is a vacancy for any cause, the Governor shall make an ap-
+3 pointment to become immediately effective for the unexpired term.
+4 (3) A member of the council is not entitled to compensation or reimbursement for ex-
+5 penses.
+6 (4) The council shall elect one of its members as chairperson and another as vice chair-
+7 person, for the terms and with the duties and powers necessary for the performance of the
+8 functions of such offices as the council determines.
+9 (5) A majority of the members of the council constitutes a quorum for the transaction
+10 of business.
+11 (6) The council shall meet at times and places specified by the chairperson or a majority
+12 of the members of the council.
+13 (7) The council may employ staff, including but not limited to a permitting specialist.
+14 SECTION 2. (1) The Joint Permitting Council established in section 1 of this 2026 Act
+15 shall administer a fast track permitting program that allows eligible projects to obtain ex-
+16 pedited regulatory approval from state agencies.
+17 (2) The council shall establish eligibility criteria for the fast track permitting program.
+18 The criteria must require a project to:
+19 (a)(A) Exceed $150 million in capital investment, if the project is located within the urban
+20 growth boundary of a metropolitan service district organized under ORS chapter 268;
+21 (B) Exceed $100 million in capital investment, if the project is not located within the ur-
+22 ban growth boundary of a metropolitan service district organized under ORS chapter 268 or
+23 within a nonurban county as described in ORS 653.026; or
+24 (C) Exceed $50 million in capital investment, if the project is located within a nonurban
+25 county as described in ORS 653.026;
+26 (b) Require regulatory approvals from at least two state agencies;
+27 (c) Advance job creation or growth in gross domestic product through a target industry
+28 cluster, as defined by the Oregon Business Development Department by rule;
+29 (d) Meet readiness criteria established by the council;
+30 (e) Demonstrate land use compatibility;
+31 (f) Not participate in any other expedited permitting program;
+32 (g) Undergo a preapplication consultation with permitting agencies; and
+33 (h) Meet other requirements established by the council.
+34 (3)(a) An applicant for the fast track permitting program shall submit a project applica-
+35 tion to the office of the Governor for initial review.
+36 (b) If the Governor finds the project to meet the eligibility criteria established under
+37 subsection (2) of this section, the Governor shall forward the application to the Regional
+38 Solutions Program created under ORS 284.754.
+39 (c) The Regional Solutions Program shall review the project for consistency with regional
+40 economic development priorities as established under ORS 284.754, and the Comprehensive
+41 Economic Development Strategies or other similar sources, and report to the council with
+42 a recommendation about whether to advance the project. The report may include additional
+43 local or regional dynamics for the council to consider.
+44 (d) The council shall review each application forwarded by the Regional Solutions Pro-
+45 gram and recommend to the Governor whether to approve the application.
+[2]
+
+HB 4084
+1 (e) The Governor may not approve an application if there are 15 projects currently in
+2 progress under the fast track permitting program.
+3 (4) If the Governor approves a project application for the fast track permitting program,
+4 the council shall:
+5 (a) Develop and approve a cooperative project plan for the project that includes inter-
+6 mediate and final completion dates for all state regulatory approvals.
+7 (b) Identify a lead agency that will provide monthly updates on the project to the council.
+8 (c) Include in the plan any other elements deemed necessary by the council.
+9 (5) The council shall submit an annual report to the Governor and the Oregon Depart-
+10 ment of Administrative Services that describes the status of each project administered in the
+11 previous year under the fast track permitting program.
+12 SECTION 3. (1) The Governor shall appoint the members of the Joint Permitting Council
+13 under section 1 of this 2026 Act no later than July 1, 2026.
+14 (2) The Joint Permitting Council shall establish eligibility criteria for the fast track per-
+15 mitting program, including readiness criteria, under section 2 of this 2026 Act no later than
+16 October 1, 2026.
+17 SECTION 4. Section 5 of this 2026 Act is added to and made a part of ORS chapter 183.
+18 SECTION 5. (1) As used in this section:
+19 (a) “Agency” means:
+20 (A) The Department of Transportation.
+21 (B) The Department of Land Conservation and Development.
+22 (C) The State Department of Energy.
+23 (D) The Department of State Lands.
+24 (E) The Department of Environmental Quality.
+25 (F) The Water Resources Department.
+26 (G) The State Department of Agriculture.
+27 (b) “Complete application” means an application for which the applicant has properly and
+28 timely submitted all information required by an agency to act upon the application.
+29 (c) “Permit” has the meaning given that term in ORS 183.700.
+30 (2) No later than 120 days following the effective date of this 2026 Act, an agency shall
+31 publish a catalog of permits issued by the agency that are related to or have an impact on
+32 economic development projects. For each permit issued by the agency that is related to or
+33 has an impact on economic development projects, the catalog must include:
+34 (a) A description of the permit.
+35 (b) The duration of the permit.
+36 (c) The statutory authority, regulatory authority or other authority for issuing the per-
+37 mit.
+38 (d) The method by which the agency receives applications for the permit and, if readily
+39 available, the date on which the method was last significantly updated.
+40 (e) Any statutory, regulatory or other authority governing the time within which the
+41 agency must process applications for the permit.
+42 (f) The application fee for the permit, the statutory, regulatory or other authority for the
+43 application fee and when the amount of the application fee was last changed.
+44 (g) An analysis identifying opportunities to streamline the approval process for the per-
+45 mit, eliminate any unnecessary steps or barriers, reduce the incidence of incomplete appli-
+[3]
+
+HB 4084
+1 cations and eliminate any obsolete or unnecessary approval processes.
+2 (h) The approximate number of applications for the permit currently pending at the
+3 agency and a statement of whether a backlog exists.
+4 (3) Not later than 120 days after the effective date of this 2026 Act, an agency shall report
+5 to an appropriate committee or interim committee of the Legislative Assembly on:
+6 (a) Permitting programs in the agency that are not meeting reasonable processing
+7 timelines.
+8 (b) Opportunities to streamline and improve permit processing and meet reasonable
+9 processing timelines.
+10 (c) Suggestions obtained from consultation with permit applicants on permit processing.
+11 (d) Opportunities to provide fee relief for delayed permit processing.
+12 SECTION 6. Section 5 of this 2026 Act is repealed on January 2, 2027.
+13 SECTION 7. ORS 285C.090 is amended to read:
+14 285C.090. (1) An enterprise zone must be located in a local area in which, on the basis of ev-
+15 idence provided by the cities, counties or ports designating the enterprise zone, the Oregon
+16 Business Development Department determines that the area demonstrates a need for eco-
+17 nomic development due to:
+18 [(a) Fifty percent or more of the households have incomes below 80 percent of the median income
+19 of this state, as defined by the most recent federal decennial census;]
+20 [(b) The unemployment rate is at least 2.0 percentage points greater than the comparable unem-
+21 ployment rate for this entire state, as defined by the most recently available data published or officially
+22 provided and verified by the United States Government, the Employment Department, the Portland
+23 State University Population Research Center or special studies conducted under a contract with a re-
+24 gional academic institution; or]
+25 [(c) The Oregon Business Development Department determines on a case-by-case basis using evi-
+26 dence provided by the cities, counties or ports designating the enterprise zone that there exists a level
+27 of economic hardship at least as severe as that described in paragraph (a) or (b) of this subsection.
+28 The evidence must be based on the most recently available data from official sources and may include
+29 a contemporary decline of the population in the enterprise zone, the percentage of persons in the en-
+30 terprise zone below the poverty level relative to the percentage of the entire population of this state
+31 below the poverty level or the unemployment rate for the county or counties in which the enterprise zone
+32 is located.]
+33 (a) A state of economic transition, such as a loss of major employers or industry shifts;
+34 (b) Underutilized or vacant industrial land;
+35 (c) Local or regional economic development goals adopted in a public planning process;
+36 (d) Opportunities to support emerging industries or workforce development; or
+37 (e) Other community-defined indicators of economic need or potential.
+38 (2)(a) An urban enterprise zone may consist of a total area of not more than 12 square miles in
+39 size.
+40 (b) A rural enterprise zone may consist of a total area of not more than 15 square miles in size.
+41 (c) For purposes of this subsection, the area of the zone must be calculated by excluding that
+42 portion of the zone that lies below the ordinary high water mark of a navigable body of water.
+43 (3) Except as provided in subsection (4) of this section:
+44 (a) An urban enterprise zone must have 12 miles or less, and a rural enterprise zone must have
+45 15 miles or less, as the greatest distance between any two points within the zone; and
+[4]
+
+HB 4084
+1 (b) Unconnected areas of an enterprise zone may not be more than five miles apart.
+2 (4) Unconnected areas of a rural enterprise zone may not be more than 15 miles apart when an
+3 unconnected area is entirely within a sparsely populated county, and the zone:
+4 (a) Must have 20 miles or less as the greatest distance between any two points within the zone,
+5 if only a portion of the zone is contained within a sparsely populated county; or
+6 (b) Must have 25 miles or less as the greatest distance between any two points within the zone,
+7 if the zone is entirely contained within a sparsely populated county.
+8 (5) This section does not apply to the designation or redesignation of a reservation enterprise
+9 zone or a reservation partnership zone.
+10 SECTION 8. ORS 285C.135 is amended to read:
+11 285C.135. (1) To be an eligible business firm, a business firm must be engaged, or proposing to
+12 engage, within the enterprise zone, in:
+13 (a) The business of providing goods, products or services to businesses or other organizations
+14 through activities including, but not limited to, manufacturing, assembly, fabrication, processing,
+15 shipping or storage[.]; or
+16 (b) An industry sector identified by resolution of the governing body of the zone sponsor
+17 as a priority industry under a local or regional economic development strategy.
+18 (2) A business firm is not an eligible business firm if the firm is:
+19 (a) Engaged within the enterprise zone in the business of providing goods, products or services
+20 to the general public for personal or household use.
+21 (b) Significantly engaged in a business activity within the enterprise zone that consists of retail
+22 sales or services, child care, housing, retail food service, health care, tourism, entertainment, fi-
+23 nancial services, professional services, leasing space to others, property management, construction
+24 or other similar activities, even if for another business or organization.
+25 (c) Significantly engaged in operating a fulfillment center within the enterprise zone from which
+26 deliveries are made to retail purchasers within, or in the region surrounding, the enterprise zone.
+27 (3)(a) If a business firm described in subsection (2) of this section engages in an activity de-
+28 scribed in subsection (1) of this section, the business firm is an eligible business firm if the activity
+29 is performed at a location that is separate from the activity of the firm that is described in sub-
+30 section (2) of this section. Property at the location at which the firm conducts an activity described
+31 in subsection (2) of this section may not be exempt under ORS 285C.175.
+32 (b) Upon written request of the zone sponsor demonstrating that the business activity
+33 will provide substantial community benefit, innovation or alignment with local economic de-
+34 velopment goals, the Oregon Business Development Department may approve a waiver or
+35 authorize a pilot program allowing a business firm engaged in a business activity described
+36 in subsection (2) of this section to qualify as an eligible business firm.
+37 [(4) Two or more business firms that otherwise meet the requirements of this section may elect to
+38 be treated as one eligible business firm if 100 percent of the equity interest in the business firms is
+39 owned by the same person or persons, or if one of the business firms owns 100 percent of the equity
+40 interest of the other or others.]
+41 [(5)] (4) Notwithstanding subsections (1) to (3) of this section, each of the following business
+42 firms is an eligible business firm under subsection (1) of this section:
+43 (a) A business firm engaged in the activity of providing a retail or financial service within the
+44 enterprise zone if:
+45 (A) The activity serves customers by responding to orders or requests received only by tele-
+[5]
+
+HB 4084
+1 phone, computer, the Internet or similar means of telecommunications; and
+2 (B) Not less than 90 percent of the customers or orders are located and originate in an area
+3 from which long distance telephone charges, in the absence of a toll-free number, would apply if the
+4 order were placed by telephone.
+5 (b) A business firm that operates a facility within the enterprise zone that serves statewide,
+6 regional, national or global operations of the firm through administrative, design, financial, man-
+7 agement, marketing or other activities, without regard to the relationship of these activities to any
+8 otherwise eligible activities within the enterprise zone.
+9 (c) A business firm that operates a hotel, motel or destination resort in the enterprise zone if
+10 the sponsor has elected under ORS 285C.070 to treat a business firm engaged in hotel, motel or
+11 destination resort operations in an enterprise zone as an eligible business firm.
+12 (d) A business firm that is engaged in electronic commerce if the enterprise zone has been des-
+13 ignated for electronic commerce under ORS 285C.095.
+14 (5) Two or more business firms that otherwise meet the requirements of this section
+15 may elect to be treated as one eligible business firm if 100 percent of the equity interest in
+16 the business firms is owned by the same person or persons, or if one of the business firms
+17 owns 100 percent of the equity interest of the other or others.
+18 SECTION 9. ORS 285C.160 is amended to read:
+19 285C.160. (1) An eligible business firm seeking authorization under ORS 285C.140 and the spon-
+20 sor of the enterprise zone in which the firm intends to invest may enter into a written agreement
+21 to extend the period during which the qualified property is exempt from taxation [under ORS
+22 285C.175 if the firm complies with the terms of the agreement] beyond the three years allowable
+23 under ORS 285C.175.
+24 (2) The period for which the exemption for the qualified property is to [continue to be exempt]
+25 be extended:
+26 (a) Must be set forth in the agreement; and
+27 (b) May not exceed [two additional tax years for which a school support fee must be paid in ac-
+28 cordance with ORS 285C.162.]:
+29 (A) Five additional tax years, subject to any applicable school support fee requirements
+30 under ORS 285C.162; or
+31 (B) A longer period if, under rules adopted by the Oregon Business Development De-
+32 partment, the eligible business firm demonstrates that the project to which the agreement
+33 relates involves substantial capital investment, regional economic impact or alignment with
+34 local development goals.
+35 (3) In order for an agreement [under this section] to extend the period of exemption under this
+36 section, the agreement must be executed on or before the date on which the firm is authorized, and:
+37 (a) If the enterprise zone is a rural enterprise zone or an urban enterprise zone located inside
+38 a metropolitan statistical area of fewer than 400,000 residents, the agreement must require that the
+39 firm:
+40 (A)(i) Annually compensate all new employees hired by the firm at an average rate of at least
+41 150 percent of the county average annual wage for each assessment year during the tax exemption
+42 period, as determined at the time of authorization; or
+43 (ii) If the enterprise zone is located in a qualified rural county, annually compensate all new
+44 employees hired by the firm at an average rate of at least 130 percent of the county average annual
+45 wage for each assessment year during the tax exemption period, as determined at the time of au-
+[6]
+
+HB 4084
+1 thorization; and
+2 (B) Meet any additional requirement that the sponsor may reasonably request.
+3 (b) Notwithstanding paragraph (a)(A) of this subsection, the average wage received by the newly
+4 hired employees must equal or exceed 100 percent of the average wage in the county.
+5 (c) If the enterprise zone is an urban enterprise zone located inside a metropolitan statistical
+6 area of 400,000 residents or more, the agreement must require that the firm meet any additional
+7 requirement the sponsor may reasonably require.
+8 (4) If a firm enters into an agreement under this section that includes a compensation require-
+9 ment under subsection (3)(a)(A) of this section and the firm subsequently submits one or more
+10 statements of continued intent under ORS 285C.165, notwithstanding the terms of the agreement
+11 made under this section, for each statement of continued intent submitted, the county average an-
+12 nual wage under subsection (3)(a)(A) of this section shall be adjusted to a level that is current with
+13 the statement.
+14 SECTION 10. ORS 285C.200 is amended to read:
+15 285C.200. (1) The qualified property of an authorized business firm may be exempt from property
+16 taxation under ORS 285C.175 only if the firm meets the following qualifications:
+17 (a) The firm is an eligible business firm engaged in eligible business operations under ORS
+18 285C.135 that are located inside the enterprise zone;
+19 (b) The firm owns or leases qualified property that is located inside the enterprise zone;
+20 (c) Except as otherwise provided in subsection (2) of this section and ORS 285C.203, the em-
+21 ployment of the firm, on or before the earlier of April 1 or the date on which the initial exemption
+22 claim is filed under ORS 285C.220, following the year in which the qualified property is first placed
+23 in service in the enterprise zone, is not less than the greater of:
+24 (A) 110 percent of the annual average employment of the firm; or
+25 (B) The annual average employment of the firm plus one employee;
+26 (d) The firm does not diminish employment outside the enterprise zone as provided in subsection
+27 [(4) or] (5) or (6) of this section;
+28 (e) The firm does not substantially curtail operations within the enterprise zone as described in
+29 ORS 285C.210; and
+30 (f) The firm complies in all material respects with local, Oregon and federal laws applicable to
+31 the firm’s operations inside the enterprise zone since the application for authorization and
+32 throughout the period of exemption, as prescribed by rule.
+33 (2)(a) Notwithstanding subsection (1) of this section, the sponsor and the business firm
+34 may agree to flexible hiring timelines, including phased or delayed hiring, if the firm dem-
+35 onstrates to the sponsor’s satisfaction a clear plan for meeting employment or alternative
+36 performance criteria, including but not limited to job retention, improvements in productiv-
+37 ity and revenue growth, over the course of the exemption period.
+38 (b) The terms agreed to under this subsection must be set forth in a written document.
+39 [(2)] (3) Notwithstanding subsection (1)(c) or (e) of this section, an eligible business firm may
+40 meet the qualifications of this section if the firm has satisfied the following requirements:
+41 (a) The firm is authorized subject to ORS 285C.155 and the firm satisfies those requirements; and
+42 (b)(A) The firm completes an investment of $25 million or more in qualified property; or
+43 (B) The firm fulfills the requirements of ORS 285C.205 and the employment of the firm does not
+44 decrease below the annual average employment of the firm.
+45 [(3)] (4) An authorized business firm that engages in both eligible and ineligible operations in
+[7]
+
+HB 4084
+1 an enterprise zone and is an eligible business firm because of ORS 285C.135 (3) meets the quali-
+2 fications of this section if:
+3 (a) The eligible operations of the firm under ORS 285C.135 meet the qualifications of this sec-
+4 tion; and
+5 (b) The employees of the firm work a majority of their time in eligible operations within the
+6 enterprise zone.
+7 [(4)] (5) A business firm does not meet the qualifications of this section if the firm or any other
+8 firm under common control closes or permanently curtails operations in another part of the state
+9 more than 30 miles from the nearest boundary of the enterprise zone in which the firm seeks a
+10 property tax exemption. This subsection applies to the transfer of any of the business firm’s eligible
+11 operations to the enterprise zone from another part of the state, if the closure or permanent
+12 curtailment in the other part of the state diminished employment in the county and more local labor
+13 markets after authorization and on or before December 31 of the first tax year for which any qual-
+14 ified property of the firm in that zone would otherwise be exempt under ORS 285C.175.
+15 [(5)] (6) An authorized business firm that moves any of its employees from a site or sites within
+16 30 miles from the nearest boundary of the enterprise zone after authorization may meet the quali-
+17 fications under this section if the employment of the firm has been increased within the zone and
+18 at the site or sites from which the employees were transferred, no later than April 1 preceding the
+19 first tax year for which qualified property of the firm is exempt under ORS 285C.175, to not less than
+20 110 percent of the annual average employment of the firm within the zone and the site or sites from
+21 which the employees were transferred, calculated over the 12 months preceding the date of appli-
+22 cation for authorization.
+23 [(6)] (7) For purposes of subsection (1)(f) of this section, the Oregon Business Development De-
+24 partment shall adopt rules that define the effect of noncompliance on an eligible business firm’s
+25 continuing exemption in an enterprise zone and that indicate what is necessary to establish the
+26 noncompliance in terms of materiality of the relevant violation, the finality of applicable legal or
+27 regulatory proceedings and judgments involving the firm, the failure by the firm to perform or sub-
+28 mit to remedial or curative actions and similar factors.
+29 [(7)] (8) As used in this section:
+30 (a) “Annual average employment of the firm” means the average employment of the firm, cal-
+31 culated over the 12 months preceding the date of application for authorization.
+32 (b) Except as provided in subsection [(5)] (6) of this section, “employment of the firm” means:
+33 (A) The number of employees working for the firm a majority of their time in eligible operations
+34 at locations throughout the enterprise zone; or
+35 (B) In the case of a firm described in ORS 285C.135 [(5)(b)] (4)(b), the number of employees
+36 working a majority of their time at the facility in the enterprise zone for which authorization was
+37 obtained.
+38 SECTION 11. ORS 285C.140 is amended to read:
+39 285C.140. (1)(a) Any eligible business firm seeking to have property exempt from property taxa-
+40 tion under ORS 285C.175 shall, before the commencement of direct site preparation activities or the
+41 construction, addition, modification or installation of qualified property in an enterprise zone, and
+42 before the hiring of eligible employees, apply for authorization under this section.
+43 (b) The application shall be made on a form prescribed by the Department of Revenue and the
+44 Oregon Business Development Department.
+45 (c) The application shall be filed with the sponsor of the zone. A sponsor may require that the
+[8]
+
+HB 4084
+1 application filed with the sponsor be accompanied by a filing fee. If required, the filing fee may not
+2 exceed the greater of $200 or one-tenth of one percent of the value of the investment in qualified
+3 property that is proposed in the application for authorization. The filing fee may be required for the
+4 filing of applications only after the sponsor adopts a policy, consistent with Oregon Business De-
+5 velopment Department rules, authorizing the imposition of the filing fee.
+6 (2) The application shall contain the following information:
+7 (a) A description of the nature of the firm’s current and proposed business operations inside the
+8 boundary of the enterprise zone;
+9 (b) A description and estimated value of the qualified property to be constructed, added, modi-
+10 fied or installed inside the boundary of the enterprise zone;
+11 (c) The number of employees of the firm that the firm employs within the enterprise zone, av-
+12 eraged over the previous 12 months, and an estimate of the number of employees that the firm will
+13 hire;
+14 (d) A commitment to meet all requirements of ORS 285C.200 and 285C.215, and to verify com-
+15 pliance with these requirements;
+16 (e) A commitment to satisfy all additional conditions for authorization that are imposed by the
+17 enterprise zone sponsor under ORS 285C.150, 285C.155 or 285C.205 or pursuant to an agreement
+18 entered into under ORS 285C.160, and to verify compliance with these additional conditions;
+19 (f) A commitment to renew the application, consistent with ORS 285C.165, every two years while
+20 the zone exists if the firm has not filed a claim under ORS 285C.220 that is based on the application;
+21 and
+22 (g) Any other information considered necessary by the Department of Revenue and the Oregon
+23 Business Development Department.
+24 (3) After an application is submitted to a sponsor, the business firm may revise or amend the
+25 application. An amendment or revision may not be made on or after January 1 of the first assess-
+26 ment year for which the qualified property associated with the application is exempt under ORS
+27 285C.175.
+28 (4) If an application for authorization appears to be complete and the proposed investment ap-
+29 pears to be eligible for authorization, the sponsor and the business firm shall conduct a preauthori-
+30 zation conference. The assessor of the county in which the property will be located shall be timely
+31 notified and have the option to participate in the conference. The conference shall:
+32 (a) Identify issues with the potential to affect compliance with relevant exemption requirements,
+33 including but not limited to enterprise zone boundary amendments;
+34 (b) Arrange for methods and procedures to establish and verify compliance with applicable re-
+35 quirements; and
+36 (c) Identify the person who is obligated to notify the county assessor if requirements are not
+37 satisfied.
+38 (5) Upon completion of the preauthorization conference required under subsection (4) of this
+39 section, the sponsor shall prepare a written summary of the conference, attach the summary to the
+40 application and forward the application to the county assessor for review.
+41 (6) Following the preauthorization conference under subsection (4) of this section, the sponsor
+42 and the county assessor shall authorize the business firm by approving the application, if the spon-
+43 sor and county assessor determine that:
+44 (a) The current or proposed operations of the business firm in the enterprise zone result in the
+45 firm being eligible under ORS 285C.135; and
+[9]
+
+HB 4084
+1 (b) The firm has made the commitments and provided the other information required under
+2 subsection (2) of this section.
+3 (7) If the business firm seeking authorization is an eligible business firm described in ORS
+4 285C.135 [(5)(b)] (4)(b), the sponsor must, as a condition of approving the application, make a formal
+5 finding that the business firm is an eligible business firm under ORS 285C.135 and that the size of
+6 the proposed investment, the employment at the facility of the firm or the nature of the activities
+7 to be undertaken by the firm within the enterprise zone will significantly enhance the local econ-
+8 omy, promote the purposes for which the zone was created and increase employment within the
+9 zone.
+10 (8) The approval of both the sponsor and the county assessor under this section shall be prima
+11 facie evidence that the qualified property of the business firm will receive the property tax ex-
+12 emption under ORS 285C.175. In approving the application, the sponsor and county assessor shall
+13 provide proof of approval as directed by the Oregon Business Development Department.
+14 (9) If the sponsor or county assessor fails or refuses to authorize the business firm, the business
+15 firm may appeal to the Oregon Tax Court under ORS 305.404 to 305.560. The business firm shall
+16 provide copies of the firm’s appeal to the sponsor, county assessor, the Department of Revenue and
+17 the Oregon Business Development Department.
+18 (10) Authorization under this section does not ensure that property constructed, added, modified
+19 or installed by the authorized business firm will receive property tax exemption under ORS 285C.175.
+20 The sponsor and the county assessor are not liable in any way if the Department of Revenue or the
+21 county assessor later determines that an authorized business firm does not satisfy the requirements
+22 for an exemption on qualified property.
+23 (11) Notwithstanding subsection (1) of this section, if an eligible business firm has begun or
+24 completed the construction, addition, modification or installation of property that meets the quali-
+25 fications of ORS 285C.180, and the property has not yet been subject to property tax after having
+26 been placed in service, then, for purposes of ORS 285C.050 to 285C.250, the firm shall be authorized
+27 under this section if the firm files an application that is allowed under subsection (12) of this section
+28 and is otherwise authorized under this section.
+29 (12) Late submission of an application under this section is allowed if:
+30 (a) A rule permits late submissions of applications under this section; or
+31 (b) The Department of Revenue waives filing deadline requirements under this section. The de-
+32 partment shall issue a letter to the eligible business firm and zone sponsor setting forth the waiver
+33 under this paragraph.
+34 SECTION 12. ORS 285C.180 is amended to read:
+35 285C.180. (1) The following types of property are qualified for exemption under ORS 285C.175:
+36 (a) A newly constructed building or structure.
+37 (b) A new addition to or modification of an existing building or structure.
+38 (c) Any real property machinery or equipment or personal property, whether new, used or re-
+39 conditioned, that is installed on property that is owned or leased by an authorized business firm,
+40 and:
+41 (A) Newly purchased or leased by the firm, unless the property is described in ORS 285C.175
+42 (4)(a); or
+43 (B) Newly transferred into the enterprise zone from outside the county within which the site
+44 of the firm is located and installed.
+45 (2) Property described in subsection (1) of this section is qualified under this section only if:
+[10]
+
+HB 4084
+1 (a) The property meets or exceeds the minimum cost requirements established under ORS
+2 285C.185;
+3 (b) The property satisfies applicable usage, lease or location requirements established under
+4 ORS 285C.185;
+5 (c) The property was constructed, added, modified or installed to further the production of in-
+6 come;
+7 (d) The property is owned or leased by an authorized business firm;
+8 (e) The location of the property corresponds to the location as set forth in the application for
+9 authorization of the business firm and consists of a single site or multiple sites adjacent to or having
+10 comparable proximity to each other, within the boundaries of the enterprise zone;
+11 (f) The property is the same general type of property as described in the application for au-
+12 thorization; and
+13 (g) In the case of an eligible business firm described in ORS 285C.135 [(5)(b)] (4)(b), the actual
+14 investment at the facility of the firm is consistent with the description set forth in the application
+15 for authorization.
+16 (3) Notwithstanding subsection (1) of this section, the following property is not qualified for ex-
+17 emption under ORS 285C.175:
+18 (a) Land.
+19 (b) Property that was not in use or occupancy for more than a 180-day period that ends during
+20 the preceding assessment year.
+21 (c) On-site developments that, consistent with ORS 307.010, are assessed as land.
+22 (d) Noninventory supplies, including but not limited to lubricants.
+23 (e) Any operator-driven item of machinery or equipment or any vehicle, if the item or vehicle
+24 moves by internal motorized power. An item or vehicle described in this paragraph includes but is
+25 not limited to an item or vehicle that moves within an enclosed space.
+26 (f) Any device or rolling stock that is pulled, pushed or carried by a vehicle that is suitable as
+27 a mode of transportation beyond the enterprise zone boundary.
+28 (4) Subsection (3)(b) of this section does not apply to the first assessment year for which the
+29 property is exempt under ORS 285C.175.
+30 (5) For purposes of this section and ORS 285C.175, property includes any portion or incremental
+31 unit of property that is newly constructed or installed, or that is a new addition to or modification
+32 of an existing building or structure.
+33 SECTION 13. ORS 285C.155 is amended to read:
+34 285C.155. For purposes of ORS 285C.200 [(2)] (3):
+35 (1) The sponsor of an enterprise zone, at the time authorization is sought by a business firm
+36 under ORS 285C.140, shall establish a minimum number of employees the firm must maintain in the
+37 enterprise zone throughout the exemption period.
+38 (2) The sponsor, at the time authorization is sought by a business firm under ORS 285C.140, may
+39 establish other reasonable conditions with which the firm must comply in order for qualified prop-
+40 erty of the firm to be exempt under ORS 285C.175.
+41 (3) Employment requirements and other conditions established by the sponsor under this section
+42 shall be set forth in a resolution adopted by the governing body of the sponsor at the time the
+43 sponsor approves the application of the business firm for authorization under ORS 285C.140.
+44 (4) A resolution adopted pursuant to this section may be modified at the request of the business
+45 firm at any time prior to the start of the first tax year for which an exemption under ORS 285C.175
+[11]
+
+HB 4084
+1 is claimed.
+2 SECTION 14. ORS 285C.205 is amended to read:
+3 285C.205. The requirements of ORS 285C.200 [(2)(b)(B)] (3)(b)(B) are met if the qualified business
+4 firm does all of the following:
+5 (1) The firm demonstrates at least a 10 percent increase in productivity no later than 18 months
+6 following January 1 of the first assessment year for which an exemption under ORS 285C.175 is
+7 claimed. Unless further specified by the sponsor of the enterprise zone through the resolution
+8 adopted under ORS 285C.155:
+9 (a) The increase must be in business operations of the firm that are using qualified property
+10 receiving the exemption;
+11 (b) Productivity is measured by dividing physical units or quantity of output by the number of
+12 labor hours engaged in the operations that produced the physical units or quantity of output; and
+13 (c) The base level of productivity shall be established over a minimum 12-month period preceding
+14 the date on which the qualified property is placed in service.
+15 (2) The firm maintains or exceeds the 10 percent increase in productivity under subsection (1)
+16 of this section as an annual average rate for each subsequent assessment year during the remainder
+17 of the exemption period.
+18 (3) On or before April 1 of each of the first three assessment years for which an exemption is
+19 claimed, the firm deposits into an account established by the sponsor an amount equal to 25 percent
+20 of the estimated tax savings arising from the exemption for that year. The sponsor may adopt addi-
+21 tional specifications or requirements applicable to this subsection in the resolution the sponsor
+22 adopts under ORS 285C.155. Consistent with this subsection and any additional specifications or
+23 requirements adopted by the sponsor:
+24 (a) For up to 30 months following the relevant April 1 date for which a deposit is made, the firm
+25 may draw from the account amounts equal to any expense incurred for training or retraining em-
+26 ployees to promote or facilitate productivity increases under this section, except that the total
+27 amount withdrawn from the account for that deposit may not exceed $3,500 per trained employee;
+28 (b) Any amount attributable to the deposit that remains in the account after the 30-month period
+29 in which firm withdrawals may be made under paragraph (a) of this subsection shall be transferred
+30 to a special fund for use by local publicly funded job training providers; and
+31 (c) No more than 18 months after the deposit, the estimated tax savings on which the deposit
+32 was based shall be reconciled with the actual tax savings arising from the exemption. The recon-
+33 ciliation shall be accomplished by the firm immediately making a further deposit into the account
+34 to cover any shortfall or by being reimbursed from the account for any surplus. A deposit or re-
+35 imbursement made pursuant to this paragraph does not affect withdrawals or transfers that occur
+36 as a result of paragraph (a) or (b) of this subsection.
+37 SECTION 15. ORS 285C.210 is amended to read:
+38 285C.210. (1) For purposes of ORS 285C.175, 285C.200 and 285C.240, except as provided in sub-
+39 section (3) of this section, operations of a business firm within the enterprise zone are substantially
+40 curtailed when:
+41 (a) Pursuant to the initial claim of exemption and satisfaction of ORS 285C.200 (1)(c), the number
+42 of employees of the firm:
+43 (A) Is reduced by more than 85 percent from the highest number of employees of the firm; or
+44 (B) Has been reduced by more than 50 percent from the highest number of employees of the firm
+45 over two consecutive annual filing periods under ORS 285C.220 (1); or
+[12]
+
+HB 4084
+1 (b) The annual average number of employees of the firm during the first assessment year for
+2 which the exemption under ORS 285C.175 is granted, or any subsequently allowed year of exemption,
+3 is reduced below the greater of:
+4 (A) The annual average number of employees of the firm, averaged over the 12 months preceding
+5 the date of the application for authorization, plus one employee; or
+6 (B) 110 percent of the annual average number of employees of the firm, averaged over the 12
+7 months preceding the date of the application for authorization.
+8 (2) For the purposes of this section:
+9 (a) Except as provided in paragraph (c)(A) of this subsection, the number of employees of the
+10 firm is the employment of the firm, as defined in ORS 285C.200 [(7)(b)] (8)(b), on the earlier of the
+11 date a claim for exemption is filed under ORS 285C.220 or April 1 of the year in which the ex-
+12 emption is initially claimed under ORS 285C.175 and following each assessment year of the ex-
+13 emption, including after the last such assessment year.
+14 (b) Except as provided in paragraph (c)(B) of this subsection, the annual average number of
+15 employees of the firm is the number of employees of the firm averaged over the course of each as-
+16 sessment year in which an exemption under ORS 285C.175 is allowed, using employment figures for
+17 no fewer than four equivalent periods during the year.
+18 (c) For the first assessment year for which an authorized business firm that qualifies under ORS
+19 285C.200 [(5)] (6) claims an exemption under ORS 285C.175, substantial curtailment under subsection
+20 (1)(a)(A) or (b) of this section shall be determined by:
+21 (A) Combining the number of employees of the firm and the number of employees at any appli-
+22 cable site of the firm outside the enterprise zone; and
+23 (B) Combining the annual average number of employees of the firm with the annual average
+24 number of employees at any applicable site of the firm outside the enterprise zone.
+25 (3) Operations of a business firm are not substantially curtailed under this section during a pe-
+26 riod of suspension as otherwise provided in ORS 285C.203.
+27 SECTION 16. There is appropriated to the Oregon Business Development Department for
+28 the biennium ending June 30, 2027, out of the General Fund, the amount of $40,000,000 for
+29 the purpose of carrying out section 17 of this 2026 Act.
+30 SECTION 17. The Oregon Business Development Department shall deposit the moneys
+31 appropriated under section 16 of this 2026 Act in the Industrial Site Loan Fund established
+32 under ORS 285B.046. The moneys may be used for any purpose or program for which moneys
+33 in the fund may be used.
+34 SECTION 18. This 2026 Act takes effect on the 91st day after the date on which the 2026
+35 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+36
+[13]

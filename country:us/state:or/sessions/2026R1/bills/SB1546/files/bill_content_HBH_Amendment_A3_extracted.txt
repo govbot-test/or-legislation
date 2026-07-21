@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - HBH Amendment -A3
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB 1546-A3
+(LC 282)
+2/17/26 (TSB/ps)
+Requested by Senator REYNOLDS
+PROPOSED AMENDMENTS TO
+A-ENGROSSED SENATE BILL 1546
+1 On page 2 of the printed A-engrossed bill, delete lines 33 through 45.
+2 On page 3, delete lines 1 through 5 and insert:
+3 “(b) The protocol described in paragraph (a) of this subsection at a mini-
+4 mum must:
+5 “(A) Require an artificial intelligence companion to provide a user that
+6 expresses suicidal ideation or intent or self-harm ideation or intent with a
+7 referral to and contact information and hyperlink for the national 9-8-8 sui-
+8 cide and crisis lifeline and, if the operator identifies the user as a person
+9 who is under 25 years of age, allow the artificial intelligence companion to
+10 alternatively provide a referral to and contact information and hyperlink for
+11 a youthline; and
+12 “(B) Use clinical best practices and expertise to establish how the artifi-
+13 cial intelligence companion provides additional intervention for a user who
+14 continues to express suicidal ideation or intent or self-harm ideation or in-
+15 tent even after the artificial intelligence companion provides referrals to and
+16 contact information for the resources identified in subparagraph (A) of this
+17 paragraph.”.
+18 In line 6, delete “(d)” and insert “(c)”.
+19

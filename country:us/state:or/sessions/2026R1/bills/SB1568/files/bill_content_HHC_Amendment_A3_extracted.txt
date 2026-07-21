@@ -1,0 +1,559 @@
+Title: 
+Official Title: 
+Source: versions - HHC Amendment -A3
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB 1568-A3
+(LC 228)
+2/20/26 (RH/ps)
+Requested by Senator REYNOLDS
+PROPOSED AMENDMENTS TO
+A-ENGROSSED SENATE BILL 1568
+1 On page 1 of the printed A-engrossed bill, line 2, delete “414.667,”.
+2 In line 4, after “ORS” insert “414.667 and”.
+3 Delete lines 6 through 14 and delete pages 2 through 9 and insert:
+4 “SECTION 1. ORS 414.665 is amended to read:
+5 “414.665. (1) As used in this section, ‘traditional health worker’ includes
+6 any of the following:
+7 “(a) A community health worker.
+8 “(b) A personal health navigator.
+9 “(c) A peer wellness specialist.
+10 “(d) A peer support specialist.
+11 “(e) A doula.
+12 “(f) A tribal traditional health worker.
+13 “(2) In consultation with the Traditional Health Workers Commission
+14 established under ORS 413.600, the Oregon Health Authority, for purposes
+15 related to the regulation of traditional health workers, shall adopt by rule:
+16 “(a) The qualification criteria, including education and training require-
+17 ments, for the traditional health workers utilized by coordinated care or-
+18 ganizations, including [distinct qualification criteria for birth doulas and
+19 postpartum doulas] qualification criteria for the distinct perinatal doula
+20 provider types of birth doula and postpartum doula;
+21 “(b) Appropriate professional designations for supervisors of the tradi-
+
+1 tional health workers; and
+2 “(c) Processes by which other occupational classifications may be ap-
+3 proved to supervise the traditional health workers.
+4 “(3) The criteria and requirements established under subsection (2) of this
+5 section:
+6 “(a) Must be broad enough to encompass the potential unique needs of
+7 any coordinated care organization;
+8 “(b) Must meet requirements of the Centers for Medicare and Medicaid
+9 Services to qualify for federal financial participation; and
+10 “(c) May not require certification by the Home Care Commission.
+11 “SECTION 2. The Oregon Health Authority shall adopt by rule the
+12 qualification criteria for the distinct perinatal doula provider types of
+13 birth doula and postpartum doula, as required under the amendments
+14 to ORS 414.665 by section 1 of this 2026 Act, no later than January 1,
+15 2028.
+16 “SECTION 3. ORS 414.667 is repealed.
+17 “SECTION 4. ORS 414.668 is amended to read:
+18 “414.668. (1) In determining the types and extent of health care and ser-
+19 vices to be provided to medical assistance recipients under ORS 414.065, the
+20 Oregon Health Authority and a coordinated care organization shall ensure
+21 that recipients have access to services provided by doulas[, lactation counse-
+22 lors and lactation educators].
+23 “(2) The services described in subsection (1) of this section must:
+24 “(a) Include a minimum of 24 hours of services, in addition to labor and
+25 delivery services, regardless of birth outcome, with an option for the au-
+26 thority or a coordinated care organization to approve additional hours based
+27 on need;
+28 “(b) Be sufficient to support recipients’ robust maternal health and sup-
+29 port positive birth outcomes; and
+30 “(c) Be provided:
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 2
+
+1 “(A) By an individual or organization from the community of the recipi-
+2 ent, using language, structures and settings familiar to members of the
+3 community; or
+4 “(B) If an individual or organization from the community of the recipient
+5 is not available, by a provider that has received cultural competency training
+6 within the preceding three years.
+7 “(3) Access to [doulas, lactation counselors and lactation educators] doula
+8 services:
+9 “(a) Must be made available without a referral or signature from another
+10 health care provider; and
+11 “(b) May not require [a signature from or supervision by any other health
+12 care provider] prior authorization, except as necessary to approve addi-
+13 tional hours based on need as described in subsection (2)(a) of this section.
+14 “(4) A coordinated care organization shall make information about how
+15 to access services provided by a doula[, lactation counselor or lactation edu-
+16 cator] available on a website operated by or on behalf of the coordinated care
+17 organization and shall provide the information in print whenever a printed
+18 explanation of benefits is available.
+19 “SECTION 5. ORS 414.668, as amended by section 4 of this 2026 Act, is
+20 amended to read:
+21 “414.668. (1) In determining the types and extent of health care and ser-
+22 vices to be provided to medical assistance recipients under ORS 414.065, the
+23 Oregon Health Authority and a coordinated care organization shall ensure
+24 that recipients have access to services provided by doulas.
+25 “(2) The services described in subsection (1) of this section must:
+26 “(a) Include a minimum of 12 visits or 24 hours of services, or a com-
+27 parable combination of visits and hours, in addition to labor and delivery
+28 services, regardless of birth outcome, with an option for the authority or a
+29 coordinated care organization to approve additional hours based on need[;].
+30 “(b) Be sufficient to support recipients’ robust maternal health and sup-
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 3
+
+1 port positive birth outcomes[; and].
+2 “(c) Be provided:
+3 “(A) By an individual or organization from the community of the recipi-
+4 ent, using language, structures and settings familiar to members of the
+5 community; or
+6 “(B) If an individual or organization from the community of the recipient
+7 is not available, by a provider that has received cultural competency training
+8 within the preceding three years.
+9 “(3) Access to doula services:
+10 “(a) Must be made available without a referral or signature from another
+11 health care provider; and
+12 “(b) May not require prior authorization, except as necessary to approve
+13 additional hours based on need as described in subsection (2)(a) of this sec-
+14 tion.
+15 “(4) A coordinated care organization shall make information about how
+16 to access services provided by a doula available on a website operated by or
+17 on behalf of the coordinated care organization and shall provide the infor-
+18 mation in print whenever a printed explanation of benefits is available.
+19 “SECTION 6. (1) The amendments to ORS 414.668 by section 5 of this
+20 2026 Act apply to contracts between coordinated care organizations and
+21 the Oregon Health Authority entered into, amended or renewed on or
+22 after January 1, 2028.
+23 “(2) A contract between a coordinated care organization and the
+24 authority that was entered into, amended or renewed before January
+25 1, 2028, may authorize medical assistance coverage of services con-
+26 sistent with the amendments to ORS 414.668 by section 5 of this 2026
+27 Act.
+28 “SECTION 7. ORS 414.669 is amended to read:
+29 “414.669. [(1)] The Oregon Health Authority, in coordination with the
+30 Traditional Health Workers Commission, shall in each even-numbered year
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 4
+
+1 review, and revise if necessary, any rates of reimbursement in the state
+2 medical assistance program for doulas. When reviewing and revising rates
+3 of reimbursement, the authority shall consider factors including retention
+4 of doulas and the need to ensure that a career as a doula is financially
+5 sustainable, access to culturally specific doulas and evidence-based factors
+6 and empirical studies related to the cost-effectiveness of services provided
+7 by doulas.
+8 “[(2) The authority shall in each even-numbered year review, and revise if
+9 necessary, any rates of reimbursement in the state medical assistance program
+10 for lactation counselors and lactation educators. When reviewing and revising
+11 rates of reimbursement, the authority shall consider factors including retention
+12 of lactation counselors and lactation educators and the need to ensure that a
+13 career as a lactation counselor or lactation educator is financially sustainable,
+14 access to culturally specific lactation counselors and lactation educators and
+15 evidence-based factors and empirical studies related to the cost-effectiveness of
+16 services provided by lactation counselors and lactation educators.]
+17 “SECTION 8. Section 9 of this 2026 Act is added to and made a part
+18 of ORS chapter 414.
+19 “SECTION 9. (1) As used in this section, ‘lactation counselor’ has
+20 the meaning given that term in section 11 of this 2026 Act.
+21 “(2) The Oregon Health Authority and a coordinated care organ-
+22 ization shall ensure that medical assistance recipients have access to
+23 services provided by lactation counselors and that access to those
+24 services is made available without a referral from another health care
+25 provider.
+26 “(3) A coordinated care organization shall make information about
+27 how to access services provided by a lactation counselor available on
+28 a website operated by or on behalf of the coordinated care organization
+29 and shall provide the information in print whenever a printed expla-
+30 nation of benefits is available.
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 5
+
+1 “(4) The authority shall in each even-numbered year review, and
+2 revise if necessary, any rates of reimbursement in the state medical
+3 assistance program for lactation counselors. When reviewing and re-
+4 vising rates of reimbursement, the authority shall consider retention
+5 of lactation counselors as a factor.
+6 “SECTION 10. Section 9 of this 2026 Act applies to contracts be-
+7 tween coordinated care organizations and the Oregon Health Authority
+8 entered into, amended or renewed on or after January 1, 2028.
+9 “SECTION 11. (1) As used in this section, ‘lactation counselor’ has
+10 the meaning given that term by the Traditional Health Workers
+11 Commission by rule.
+12 “(2) The commission shall adopt rules to establish a voluntary reg-
+13 istration for lactation counselors. The rules adopted under this section
+14 must include at least rules to:
+15 “(a) Establish continuing education requirements for lactation
+16 counselors;
+17 “(b) Establish standards of practice for lactation counselors;
+18 “(c) Establish a voluntary registration process and requirements for
+19 lactation counselors; and
+20 “(d) Specify that a lactation counselor may provide services to a
+21 client who was pregnant regardless of the client’s birth outcome.
+22 “SECTION 12. ORS 743A.081 is amended to read:
+23 “743A.081. (1) As used in this section[:],
+24 “[(a)] ‘doula’ has the meaning given that term in ORS [414.667] 414.025.
+25 “[(b) ‘Lactation counselor’ and ‘lactation educator’ have the meanings given
+26 those terms in ORS 676.665.]
+27 “(2) A health benefit plan, as defined in ORS 743B.005, in this state that
+28 reimburses the cost of pregnancy and childbirth expenses shall provide cov-
+29 erage for services provided by doulas[, lactation counselors and lactation ed-
+30 ucators].
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 6
+
+1 “(3) Covered services required under subsection (2) of this section shall
+2 include a minimum of 24 hours of services, in addition to labor and delivery
+3 services, regardless of birth outcome, with an option for the health benefit
+4 plan to approve additional hours based on need.
+5 “(4) Except for coverage of additional hours based on need as described
+6 in subsection (3) of this section, the health benefit plan described in sub-
+7 section (2) of this section may not require prior authorization, a referral
+8 from another health care provider or a signature from or supervision by any
+9 other health care provider for coverage of services described in this section.
+10 “(5) A health benefit plan that provides the services described in sub-
+11 section (2) of this section shall provide information on how to access
+12 doulas[, lactation counselors and lactation educators] to all enrollees.
+13 “(6) The coverage required by subsection (2) of this section may be made
+14 subject to provisions of the policy, certificate or contract that apply to other
+15 benefits under the policy, certificate or contract, including, but not limited
+16 to, provisions related to deductibles and coinsurance.
+17 “(7) The health benefit plan shall reimburse the cost for coverage of ser-
+18 vices described in this section up to a total amount that is not less than
+19 $3,760. On January 1 of each year, the Department of Consumer and Business
+20 Services shall adjust the dollar limit provided by this subsection to reflect
+21 the percentage changes in the Consumer Price Index for all Urban Consum-
+22 ers, West Region (All Items), as published by the Bureau of Labor Statistics
+23 of the United States Department of Labor or a successor agency, and may
+24 vary from year to year.
+25 “(8) This section is exempt from ORS 743A.001.
+26 “SECTION 13. ORS 743A.081, as amended by section 12 of this 2026 Act,
+27 is amended to read:
+28 “743A.081. (1) As used in this section, ‘doula’ [has the meaning given that
+29 term] means a doula, as defined in ORS 414.025, who is certified and
+30 registered by the Oregon Health Authority.
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 7
+
+1 “[(2) A health benefit plan, as defined in ORS 743B.005, in this state that
+2 reimburses the cost of pregnancy and childbirth expenses shall provide cover-
+3 age for services provided by doulas, lactation counselors and lactation educa-
+4 tors.]
+5 “[(3) Covered services required under subsection (2) of this section shall
+6 include a minimum of 24 hours of services, in addition to labor and delivery
+7 services, regardless of birth outcome, with an option for the health benefit plan
+8 to approve additional hours based on need.]
+9 “(2) A health benefit plan, as defined in ORS 743B.005, in this state
+10 that provides coverage for pregnancy and childbirth shall provide
+11 coverage for services provided by doulas up to $3,760 of coverage per
+12 12-month period under a plan or per calendar year.
+13 “(3) If additional doula services are needed after the benefit amount
+14 specified in subsection (2) of this section is exhausted, a health benefit
+15 plan may approve the additional services, subject to reasonable med-
+16 ical management techniques.
+17 “(4) Except for [coverage of additional hours] the approval of additional
+18 services based on need as described in subsection (3) of this section, the
+19 health benefit plan described in subsection (2) of this section may not require
+20 prior authorization, a referral from another health care provider or a signa-
+21 ture from or supervision by any other health care provider for coverage of
+22 services described in this section.
+23 “(5) A health benefit plan may develop payment models that enable
+24 the member to receive the following services within the benefit
+25 amount described in subsection (2) of this section:
+26 “(a) Support during labor and delivery; and
+27 “(b) Approximately 12 visits or 24 hours, or a comparable combina-
+28 tion thereof, of prenatal or postpartum services.
+29 “(6)(a) Covered services under subsection (2) of this section shall
+30 be limited to services that relate directly to medical services covered
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 8
+
+1 by the health benefit plan.
+2 “(b) The Department of Consumer and Business Services shall adopt
+3 rules specifying the types of services that are not covered medical
+4 services and that are consistent with applicable definitions and guid-
+5 ance adopted by the federal Internal Revenue Service on or before the
+6 effective date of this 2026 Act.
+7 “[(5)] (7) A health benefit plan that provides the services described in
+8 subsection (2) of this section shall provide information on how to access
+9 doulas to all enrollees.
+10 “[(6)] (8) The coverage required by subsection (2) of this section may be
+11 made subject to provisions of the policy, certificate or contract that apply
+12 to other benefits under the policy, certificate or contract, including, but not
+13 limited to, provisions related to deductibles and coinsurance.
+14 “[(7) The health benefit plan shall reimburse the cost for coverage of ser-
+15 vices described in this section up to a total amount that is not less than $3,760.
+16 On January 1 of each year, the Department of Consumer and Business Services
+17 shall adjust the dollar limit provided by this subsection to reflect the percent-
+18 age changes in the Consumer Price Index for all Urban Consumers, West Re-
+19 gion (All Items), as published by the Bureau of Labor Statistics of the United
+20 States Department of Labor or a successor agency, and may vary from year to
+21 year.]
+22 “(9) Except as provided in subsection (3) of this section, a health
+23 benefit plan described in subsection (2) of this section shall reimburse
+24 the cost of coverage of services up to a total amount established in
+25 subsection (2) of this section. Beginning with the 2029 calendar year,
+26 the Department of Consumer and Business Services shall annually
+27 adjust the maximum amount of required coverage under subsection
+28 (2) of this section by multiplying the amount by the percentage change
+29 in the monthly averaged Consumer Price Index for All Urban Con-
+30 sumers, West Region (All Items), as published by the Bureau of Labor
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 9
+
+1 Statistics of the United States Department of Labor, for the 12 con-
+2 secutive months ending on the immediately preceding December 31
+3 compared to the monthly averaged Consumer Price Index for All Ur-
+4 ban Consumers, West Region (All Items), for the 12 consecutive
+5 months ending on December 31, 2028.
+6 “[(8)] (10) This section is exempt from ORS 743A.001.
+7 “SECTION 14. (1) The amendments to ORS 743A.081 by section 13
+8 of this 2026 Act apply to health benefit plans that are issued, renewed
+9 or extended on or after January 1, 2028, and to enrollees in a health
+10 benefit plan who receive services from a doula certified and registered
+11 by the Oregon Health Authority.
+12 “(2) A health benefit plan that was issued, renewed or extended
+13 before January 1, 2028, may provide covered services consistent with
+14 ORS 743A.081, as amended by section 13 of this 2026 Act, and enrollees
+15 in a health benefit plan that was issued, renewed or extended before
+16 January 1, 2028, may receive services from a doula certified and reg-
+17 istered by the Oregon Health Authority.
+18 “SECTION 15. Section 21, chapter 539, Oregon Laws 2025, is amended to
+19 read:
+20 “Sec. 21. The Department of Consumer and Business Services shall issue
+21 guidance on the implementation of [section 17 of this 2025 Act] ORS
+22 743A.081, including alignment with the rules and requirements for doulas[,
+23 lactation counselors and lactation educators] as described by the Oregon
+24 Health Authority.
+25 “SECTION 16. Section 17 of this 2026 Act is added to and made a
+26 part of the Insurance Code.
+27 “SECTION 17. (1) As used in this section:
+28 “(a) ‘Health benefit plan’ has the meaning given that term in ORS
+29 743B.005.
+30 “(b) ‘Lactation counselor’ has the meaning given that term in sec-
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 10
+
+1 tion 11 of this 2026 Act.
+2 “(2) A health benefit plan issued in this state that provides coverage
+3 for pregnancy and childbirth expenses shall provide coverage for ser-
+4 vices provided by lactation counselors and may not require prior au-
+5 thorization, a referral from another health care provider, approval or
+6 a signature from another health care provider or supervision by an-
+7 other health care provider for coverage of services described in this
+8 section.
+9 “(3) A health benefit plan that provides the services described in
+10 this section shall provide information on how to access lactation
+11 counselors to all enrollees.
+12 “(4) The coverage described in this section may be made subject to
+13 provisions of the health benefit plan that apply to other benefits under
+14 the plan, including but not limited to provisions relating to deductibles
+15 or coinsurance.
+16 “(5) The Department of Consumer and Business Services shall issue
+17 guidance on coverage of lactation counselors required by this section
+18 and on the implementation of that required coverage, including
+19 alignment with the rules and requirements for lactation counselors
+20 as established by the Oregon Health Authority, to the extent practi-
+21 cable.
+22 “SECTION 18. Section 17 of this 2026 Act applies to health benefit
+23 plans that are issued, renewed or extended on or after January 1, 2028,
+24 and to enrollees in health benefit plans issued, renewed or extended
+25 on or after January 1, 2028.
+26 “SECTION 19. ORS 676.380 is amended to read:
+27 “676.380. (1) As used in this section:
+28 “(a) ‘Doula’ has the meaning given that term in ORS 414.025.
+29 “[(b) ‘Lactation counselor’ and ‘lactation educator’ have the meanings given
+30 those terms in ORS 676.665.]
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 11
+
+1 “[(c)] (b) ‘Community-based services during the perinatal period’ includes,
+2 but is not limited to, services provided by a doula[, lactation counselor or
+3 lactation educator] to a pregnant or postpartum individual from conception
+4 through one year postpartum.
+5 “(2)(a) The Oregon Health Authority shall establish a community-based
+6 perinatal services access program to support activities that increase access
+7 to culturally specific and culturally competent community-based services
+8 during the perinatal period. The program must issue grants or contracts to
+9 eligible entities with a demonstrated ability to offer the activities described
+10 in this subsection, including culturally specific organizations, the nine
+11 federally recognized Indian tribes in this state, nonprofit organizations and
+12 businesses.
+13 “(b) Grants and contracts issued under this section may be used for
+14 purposes including, but not limited to:
+15 “(A) Paying for costs of required training and education to provide
+16 community-based services during the perinatal period, including tuition, fees,
+17 books and other materials and supplies;
+18 “(B) Providing wages and financial benefits for individuals who are
+19 training to provide community-based services during the perinatal period;
+20 “(C) Outreach and recruitment to attract individuals to training programs
+21 to provide community-based services during the perinatal period;
+22 “(D) Funding for culturally specific or community-based organizations
+23 and programs to:
+24 “(i) Establish or expand community-based services during the perinatal
+25 period;
+26 “(ii) Support billing insurance for community-based services during the
+27 perinatal period;
+28 “(iii) Provide training and mentoring for providers of community-based
+29 services during the perinatal period; and
+30 “(iv) Conduct consumer or provider education and research regarding
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 12
+
+1 community-based services during the perinatal period; and
+2 “(E) Funding to provide technical assistance related to billing and con-
+3 sumer or provider outreach and education to:
+4 “(i) Doulas; and
+5 “(ii) Organizations that employ doulas or contract with doulas to provide
+6 doula services.
+7 “(3) An eligible entity that receives a grant or contract issued under this
+8 section may use the grant or contract to provide funding to partner entities
+9 that are organized to meet the purposes of the program.
+10 “(4) The authority may administer the program directly or contract with
+11 a third party to administer the program. If the authority contracts with a
+12 third party, the third party must have experience in implementing state-
+13 funded grant programs that utilize community and stakeholder engagement.
+14 “(5) The authority may receive gifts, grants or contributions from any
+15 source, whether public or private, to carry out the provisions of this section.
+16 Moneys received under this section shall be deposited in the Community-
+17 Based Perinatal Services Access Fund established under ORS 676.383.
+18 “SECTION 19a. ORS 676.380, as amended by section 19 of this 2026 Act,
+19 is amended to read:
+20 “676.380. (1) As used in this section:
+21 “(a) ‘Doula’ has the meaning given that term in ORS 414.025.
+22 “(b) ‘Lactation counselor’ has the meaning given that term in sec-
+23 tion 11 of this 2026 Act.
+24 “[(b)] (c) ‘Community-based services during the perinatal period’ includes,
+25 but is not limited to, services provided by a doula or lactation counselor
+26 to a pregnant or postpartum individual from conception through one year
+27 postpartum.
+28 “(2)(a) The Oregon Health Authority shall establish a community-based
+29 perinatal services access program to support activities that increase access
+30 to culturally specific and culturally competent community-based services
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 13
+
+1 during the perinatal period. The program must issue grants or contracts to
+2 eligible entities with a demonstrated ability to offer the activities described
+3 in this subsection, including culturally specific organizations, the nine
+4 federally recognized Indian tribes in this state, nonprofit organizations and
+5 businesses.
+6 “(b) Grants and contracts issued under this section may be used for pur-
+7 poses including, but not limited to:
+8 “(A) Paying for costs of required training and education to provide
+9 community-based services during the perinatal period, including tuition, fees,
+10 books and other materials and supplies;
+11 “(B) Providing wages and financial benefits for individuals who are
+12 training to provide community-based services during the perinatal period;
+13 “(C) Outreach and recruitment to attract individuals to training programs
+14 to provide community-based services during the perinatal period;
+15 “(D) Funding for culturally specific or community-based organizations and
+16 programs to:
+17 “(i) Establish or expand community-based services during the perinatal
+18 period;
+19 “(ii) Support billing insurance for community-based services during the
+20 perinatal period;
+21 “(iii) Provide training and mentoring for providers of community-based
+22 services during the perinatal period; and
+23 “(iv) Conduct consumer or provider education and research regarding
+24 community-based services during the perinatal period; and
+25 “(E) Funding to provide technical assistance related to billing and con-
+26 sumer or provider outreach and education to:
+27 “(i) Doulas; and
+28 “(ii) Organizations that employ doulas or contract with doulas to provide
+29 doula services.
+30 “(3) An eligible entity that receives a grant or contract issued under this
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 14
+
+1 section may use the grant or contract to provide funding to partner entities
+2 that are organized to meet the purposes of the program.
+3 “(4) The authority may administer the program directly or contract with
+4 a third party to administer the program. If the authority contracts with a
+5 third party, the third party must have experience in implementing state-
+6 funded grant programs that utilize community and stakeholder engagement.
+7 “(5) The authority may receive gifts, grants or contributions from any
+8 source, whether public or private, to carry out the provisions of this section.
+9 Moneys received under this section shall be deposited in the Community-
+10 Based Perinatal Services Access Fund established under ORS 676.383.
+11 “SECTION 20. ORS 676.386 is amended to read:
+12 “676.386. (1) As used in this section[:],
+13 “[(a)] ‘doula’ has the meaning given that term in ORS 414.025.
+14 “[(b) ‘Lactation counselor’ and ‘lactation educator’ have the meanings given
+15 those terms in ORS 676.665.]
+16 “(2) To the extent practicable, a doula[, lactation counselor or lactation
+17 educator] shall strive to provide services that are culturally specific, as de-
+18 fined in ORS 413.256, to a client or patient.
+19 “SECTION 20a. ORS 676.386, as amended by section 20 of this 2026 Act,
+20 is amended to read:
+21 “676.386. (1) As used in this section[,]:
+22 “(a) ‘Doula’ has the meaning given that term in ORS 414.025.
+23 “(b) ‘Lactation counselor’ has the meaning given that term in sec-
+24 tion 11 of this 2026 Act.
+25 “(2) To the extent practicable, a doula or lactation counselor shall
+26 strive to provide services that are culturally specific, as defined in ORS
+27 413.256, to a client or patient.
+28 “SECTION 21. ORS 676.665 is amended to read:
+29 “676.665. As used in ORS 676.665 to 676.689:
+30 “(1) ‘Lactation consultant’ means a person licensed to practice lactation
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 15
+
+1 consultation.
+2 “(2) ‘Lactation consultation’ means the clinical application of scientific
+3 principles and evidence to provide care related to lactation to childbearing
+4 families. Lactation consultation includes, but is not limited to:
+5 “(a) Client assessment through systematic collection of data;
+6 “(b) Data analysis;
+7 “(c) Creation of a care plan;
+8 “(d) Implementation of the care plan, including demonstration and in-
+9 structions to clients and communication with the clients’ primary care pro-
+10 vider;
+11 “(e) Evaluation of client outcomes;
+12 “(f) Problem identification and treatment;
+13 “(g) Recommendation and use of assistive devices; and
+14 “(h) Lactation education to childbearing families and to health care pro-
+15 viders.
+16 “[(3) ‘Lactation counselor’ means a person certified by the Academy of
+17 Lactation Policy and Practice, or its successor organization, as approved by
+18 the Health Licensing Office by rule, as a clinical lactation care provider who
+19 has demonstrated the necessary skills, knowledge and attitude to provide clin-
+20 ical support to families that are thinking, or have questions, about
+21 breastfeeding or that have problems with breastfeeding.]
+22 “[(4) ‘Lactation educator’ means a person certified by the Childbirth and
+23 Postpartum Professional Association, or its successor organization, as ap-
+24 proved by the office by rule, as a certified lactation educator to educate, counsel
+25 and support families by providing evidence-based information about lactation
+26 and breastfeeding.]
+27 “SECTION 22. ORS 676.671 is repealed.
+28 “SECTION 23. (1) There is created the Oregon Perinatal
+29 Collaborative in the Oregon Health and Science University.
+30 “(2) The responsibilities of the Oregon Perinatal Collaborative shall
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 16
+
+1 include:
+2 “(a) Coordinating statewide efforts for quality improvement in ma-
+3 ternal and infant health; and
+4 “(b) Developing policy recommendations to further maternal and
+5 infant health.
+6 “SECTION 24. An entity that received a grant under ORS 676.380
+7 before the operative date specified in section 25 of this 2026 Act for
+8 purposes related to lactation counselors or lactation educators may
+9 use the grant for purposes related to lactation counselors on and after
+10 the operative date specified in section 25 of this 2026 Act.
+11 “SECTION 25. (1) Sections 9, 11 and 17 of this 2026 Act and the
+12 amendments to ORS 414.668, 676.380, 676.386 and 743A.081 by sections
+13 5, 13, 19a and 20a of this 2026 Act become operative on January 1, 2028.
+14 “(2) The Oregon Health Authority, the Department of Consumer
+15 and Business Services, a coordinated care organization and an insurer
+16 may take any action before the operative date specified in subsection
+17 (1) of this section that is necessary to enable those entities to exercise,
+18 on and after the operative date specified in subsection (1) of this sec-
+19 tion, all of the duties, functions and powers conferred on those entities
+20 by sections 9, 11 and 17 of this 2026 Act and the amendments to ORS
+21 414.668, 676.380, 676.386 and 743A.081 by sections 5, 13, 19a and 20a of this
+22 2026 Act.
+23 “SECTION 26. This 2026 Act being necessary for the immediate
+24 preservation of the public peace, health and safety, an emergency is
+25 declared to exist, and this 2026 Act takes effect on its passage.”.
+26
+SB 1568-A3 2/20/26
+Proposed Amendments to A-Eng. SB 1568 Page 17

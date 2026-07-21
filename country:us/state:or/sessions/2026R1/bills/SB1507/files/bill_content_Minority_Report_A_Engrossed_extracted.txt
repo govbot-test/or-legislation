@@ -1,0 +1,2272 @@
+Title: 
+Official Title: 
+Source: versions - Minority Report A-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Minority Report
+A-Engrossed
+Senate Bill 1507
+Ordered by the Senate February 13
+Including Senate Minority Report Amendments dated February 13
+Sponsored by nonconcurring members of the Senate Committee on Finance and Revenue: Senators ANDERSON,
+MCLANE
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act updates the tie date to the federal Internal Revenue Code and other
+federal tax laws. Disconnects from certain federal tax laws. Increases the amount of the
+earned income tax credit. (Flesch Readability Score: 60.2).
+[Digest: The Act would reduce income taxes and other taxes if the state collects a retail sales tax.
+(Flesch Readability Score: 70.1).]
+[Reduces taxes imposed under various tax programs, operative conditioned upon imposition of a
+statewide retail sales tax dedicated to specified purposes. Directs the Department of Revenue to estimate
+the revenue lost to tax reductions and to direct an equal amount of revenue to various purposes.]
+Updates the connection date to the federal Internal Revenue Code and other provisions
+of federal tax law. Increases the amount of the earned income tax credit allowed as a per-
+centage of the federal earned income tax credit.
+Applies to tax years beginning on or after January 1, 2026.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to revenue; creating new provisions; amending ORS 178.300, 178.375, 238A.005, 238A.125,
+3 238A.150, 238A.170, 238A.230, 238A.370, 238A.400, 238A.410, 238A.415, 238A.430, 238A.435,
+4 305.239, 305.494, 305.690, 305.842, 314.011, 314.306, 315.004, 315.266, 316.012, 316.147, 316.157,
+5 317.010, 317.097, 317A.100, 458.670, 657.010 and 657B.010; and prescribing an effective date.
+6 Be It Enacted by the People of the State of Oregon:
+7 SECTION 1. ORS 178.300 is amended to read:
+8 178.300. As used in ORS 178.300 to 178.360:
+9 (1) “Account” means an individual account established in accordance with ORS 178.300 to
+10 178.360.
+11 (2) “Account owner” means the person who has the right to withdraw funds from the account.
+12 The account owner may also be the designated beneficiary of the account.
+13 (3) “Board” means the Oregon 529 Savings Board established under ORS 178.310.
+14 (4) “Designated beneficiary” means, except as provided in ORS 178.350, the individual designated
+15 at the time the account is opened as having the right to receive a qualified withdrawal for the
+16 payment of qualified higher education expenses, or if the designated beneficiary is replaced in ac-
+17 cordance with ORS 178.350, the replacement.
+18 (5) “Financial institution” means a bank, a commercial bank, a national bank, a savings bank,
+19 a savings and loan, a thrift institution, a credit union, an insurance company, a trust company, a
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 302
+
+MR A-Eng. SB 1507
+1 mutual fund, an investment firm or other similar entity authorized to do business in this state.
+2 (6) “Higher education institution” means an eligible education institution as defined in section
+3 529(e)(5) of the Internal Revenue Code.
+4 (7) “Internal Revenue Code” means the federal Internal Revenue Code as amended and in effect
+5 on December 31, [2023] 2025.
+6 (8) “Member of the family” shall have the same meaning as contained in section 529(e) of the
+7 Internal Revenue Code.
+8 (9) “Network” means the Oregon 529 Savings Network established under ORS 178.305.
+9 (10) “Nonqualified withdrawal” means a withdrawal from an account that is not a qualified
+10 withdrawal.
+11 (11) “Qualified higher education expenses” means tuition and other permitted expenses as set
+12 forth in section 529(e) of the Internal Revenue Code for the enrollment or attendance of a designated
+13 beneficiary at a higher education institution, expenses associated with registered apprenticeship
+14 programs described in section 529(c)(8) of the Internal Revenue Code and amounts paid as principal
+15 or interest on a qualified education loan to the extent allowed under section 529(c)(9) of the Internal
+16 Revenue Code.
+17 (12) “Qualified withdrawal” means a withdrawal made as prescribed under ORS 178.355 and
+18 made:
+19 (a) From an account to pay the qualified higher education expenses of the designated benefici-
+20 ary;
+21 (b) As the result of the death or disability of the designated beneficiary;
+22 (c) As the result of a scholarship, allowance or payment described in section 135(d)(1)(A), (B)
+23 or (C) of the Internal Revenue Code that is received by the designated beneficiary, but only to the
+24 extent of the amount of the scholarship, allowance or payment; or
+25 (d) As a rollover or change in the designated beneficiary described in ORS 178.350.
+26 SECTION 2. ORS 178.375 is amended to read:
+27 178.375. As used in this section and ORS 178.380 and 178.385:
+28 (1) “ABLE account” means an account established by an eligible individual, owned by the eli-
+29 gible individual and maintained under the qualified ABLE program established by the Oregon 529
+30 Savings Board under ORS 178.380.
+31 (2) “ABLE Act” means the Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014
+32 (Division B of P.L. 113-295).
+33 (3) “Designated beneficiary” has the same meaning as contained in section 529A of the Internal
+34 Revenue Code.
+35 (4) “Eligible individual” has the same meaning as contained in section 529A of the Internal Re-
+36 venue Code.
+37 (5) “Internal Revenue Code” means the federal Internal Revenue Code as amended and in effect
+38 on December 31, [2023] 2025.
+39 (6) “Qualified disability expense” has the same meaning as contained in section 529A of the
+40 Internal Revenue Code.
+41 SECTION 3. ORS 238A.005 is amended to read:
+42 238A.005. For the purposes of this chapter:
+43 (1) “Active member” means a member of the pension program or the individual account program
+44 of the Oregon Public Service Retirement Plan who is actively employed in a qualifying position.
+45 (2) “Actuarial equivalent” means a payment or series of payments having the same value as the
+[2]
+
+MR A-Eng. SB 1507
+1 payment or series of payments replaced, computed on the basis of interest rate and mortality as-
+2 sumptions adopted by the board.
+3 (3) “Board” means the Public Employees Retirement Board.
+4 (4) “Eligible employee” means a person who performs services for a participating public em-
+5 ployer, including persons considered employees of a participating public employer under 26 U.S.C.
+6 3121(d)(2), as in effect on January 1, [2024] 2026, and elected officials other than judges. “Eligible
+7 employee” does not include:
+8 (a) Persons engaged as independent contractors;
+9 (b) Aliens working under a training or educational visa;
+10 (c) Persons provided sheltered employment or make-work by a public employer;
+11 (d) Persons categorized by a participating public employer as student employees;
+12 (e) Any person who is in custody in a state institution;
+13 (f) Employees of foreign trade offices of the Oregon Business Development Department who live
+14 and perform services in foreign countries under the provisions of ORS 285A.075 (1)(g);
+15 (g) An employee actively participating in an alternative retirement program established under
+16 ORS 353.250 or an optional retirement plan established under ORS 341.551;
+17 (h) Employees of a public university listed in ORS 352.002 who are actively participating in an
+18 optional retirement plan offered under ORS 243.815;
+19 (i) Persons employed in positions classified as post-doctoral scholar positions by a public uni-
+20 versity listed in ORS 352.002, or by the Oregon Health and Science University, under ORS 350.370;
+21 (j) Any employee who belongs to a class of employees that was not eligible on August 28, 2003,
+22 for membership in the system under the provisions of ORS chapter 238 or other law;
+23 (k) Any person who belongs to a class of employees who are not eligible to become members
+24 of the Oregon Public Service Retirement Plan under the provisions of ORS 238A.070 (2);
+25 (L) Any person who is retired under ORS 238A.100 to 238A.250 or ORS chapter 238 and who
+26 continues to receive retirement benefits while employed; and
+27 (m) Judges.
+28 (5) “Firefighter” means:
+29 (a) A person employed by a local government, as defined in ORS 174.116, whose primary job
+30 duties include the fighting of fires;
+31 (b) The State Fire Marshal, chief deputy state fire marshals and deputy state fire marshals;
+32 (c) An employee of the State Fire Marshal whose primary duties include fire investigation, fire
+33 prevention, fire safety, fire control or fire suppression;
+34 (d) An employee of the State Forestry Department who is certified by the State Forester as a
+35 professional wildland firefighter and whose primary duties include the abatement of uncontrolled
+36 fires as described in ORS 477.064; and
+37 (e) An employee of the Oregon Military Department whose primary duties include fighting
+38 structural, aircraft, wildland or other fires.
+39 (6) “Fund” means the Public Employees Retirement Fund.
+40 (7)(a) “Hour of service” means:
+41 (A) An hour for which an eligible employee is directly or indirectly paid or entitled to payment
+42 by a participating public employer for performance of duties in a qualifying position; and
+43 (B) An hour of vacation, holiday, illness, incapacity, jury duty, military duty or authorized leave
+44 during which an employee does not perform duties but for which the employee is directly or indi-
+45 rectly paid or entitled to payment by a participating public employer for services in a qualifying
+[3]
+
+MR A-Eng. SB 1507
+1 position, as long as the hour is within the number of hours regularly scheduled for the performance
+2 of duties during the period of vacation, holiday, illness, incapacity, jury duty, military duty or au-
+3 thorized leave.
+4 (b) “Hour of service” does not include any hour for which payment is made or due under a plan
+5 maintained solely for the purpose of complying with applicable unemployment compensation laws.
+6 (8) “Inactive member” means a member of the pension program or the individual account pro-
+7 gram of the Oregon Public Service Retirement Plan whose membership has not been terminated, who
+8 is not a retired member and who is not employed in a qualifying position.
+9 (9) “Individual account program” means the defined contribution individual account program of
+10 the Oregon Public Service Retirement Plan established under ORS 238A.025.
+11 (10) “Institution of higher education” means a public university listed in ORS 352.002, the
+12 Oregon Health and Science University or a community college, as defined in ORS 341.005.
+13 (11) “Member” means an eligible employee who has established membership in the pension pro-
+14 gram or the individual account program of the Oregon Public Service Retirement Plan and whose
+15 membership has not been terminated under ORS 238A.110 or 238A.310.
+16 (12) “Participating public employer” means a public employer as defined in ORS 238.005 that
+17 provides retirement benefits for employees of the public employer under the system.
+18 (13) “Pension program” means the defined benefit pension program of the Oregon Public Service
+19 Retirement Plan established under ORS 238A.025.
+20 (14) “Police officer” means a police officer as described in ORS 238.005.
+21 (15) “Qualifying position” means one or more jobs with one or more participating public em-
+22 ployers in which an eligible employee performs 600 or more hours of service in a full calendar year,
+23 or would perform 600 or more hours of service if the employee were employed for the full calendar
+24 year, excluding any service in a job for which benefits are not provided under the Oregon Public
+25 Service Retirement Plan pursuant to ORS 238A.070 (2).
+26 (16) “Retired member” means a pension program member who is receiving a pension as provided
+27 in ORS 238A.180 to 238A.195.
+28 (17)(a) “Salary” means the remuneration paid to an active member in return for services to the
+29 participating public employer, including remuneration in the form of living quarters, board or other
+30 items of value, to the extent the remuneration is, or would be if the member were an Oregon resi-
+31 dent, includable in the employee’s taxable income under Oregon law. “Salary” includes the addi-
+32 tional amounts specified in paragraph (b) of this subsection, but does not include the amounts
+33 specified in paragraph (c) of this subsection, regardless of whether those amounts are includable in
+34 taxable income.
+35 (b) “Salary” includes the following amounts:
+36 (A) Payments of employee and employer money into a deferred compensation plan that are made
+37 at the election of the employee.
+38 (B) Contributions to a tax-sheltered or deferred annuity that are made at the election of the
+39 employee.
+40 (C) Any amount that is contributed to a cafeteria plan or qualified transportation fringe benefit
+41 plan by the employer at the election of the employee and that is not includable in the taxable in-
+42 come of the employee by reason of 26 U.S.C. 125 or 132(f)(4), as in effect on December 31, [2023]
+43 2025.
+44 (D) Any amount that is contributed to a cash or deferred arrangement by the employer at the
+45 election of the employee and that is not included in the taxable income of the employee by reason
+[4]
+
+MR A-Eng. SB 1507
+1 of 26 U.S.C. 402(e)(3), as in effect on December 31, [2023] 2025.
+2 (E) Retroactive payments described in ORS 238.008.
+3 (F) The amount of an employee contribution to the individual account program that is paid by
+4 the employer and deducted from the compensation of the employee, as provided under ORS 238A.335
+5 (1) and (2)(a).
+6 (G) The amount of an employee contribution to the individual account program that is not paid
+7 by the employer under ORS 238A.335.
+8 (H) Wages of a deceased member paid to a surviving spouse or dependent children under ORS
+9 652.190.
+10 (c) “Salary” does not include the following amounts:
+11 (A) Travel or any other expenses incidental to employer’s business which is reimbursed by the
+12 employer.
+13 (B) Payments made on account of an employee’s death.
+14 (C) Any lump sum payment for accumulated unused sick leave, vacation leave or other paid
+15 leave.
+16 (D) Any severance payment, accelerated payment of an employment contract for a future period
+17 or advance against future wages.
+18 (E) Any retirement incentive, retirement bonus or retirement gratuitous payment.
+19 (F) Payment for a leave of absence after the date the employer and employee have agreed that
+20 no future services in a qualifying position will be performed.
+21 (G) Payments for instructional services rendered to public universities listed in ORS 352.002 or
+22 the Oregon Health and Science University when those services are in excess of full-time employment
+23 subject to this chapter. A person employed under a contract for less than 12 months is subject to
+24 this subparagraph only for the months covered by the contract.
+25 (H) The amount of an employee contribution to the individual account program that is paid by
+26 the employer and is not deducted from the compensation of the employee, as provided under ORS
+27 238A.335 (1) and (2)(b).
+28 (I) Compensation described and authorized under ORS 341.556 that is not paid by the community
+29 college employing the faculty member.
+30 (J) Compensation described and authorized under ORS 352.232 that is not paid by the public
+31 university employing the officer or employee.
+32 (K) Compensation described and authorized under ORS 353.270 that is not paid by Oregon
+33 Health and Science University.
+34 (L) For years before 2020, any amount in excess of $200,000 for a calendar year. If any period
+35 over which salary is determined is less than 12 months, the $200,000 limitation for that period shall
+36 be multiplied by a fraction, the numerator of which is the number of months in the determination
+37 period and the denominator of which is 12. The board shall adopt rules adjusting this dollar limit
+38 to incorporate cost-of-living adjustments authorized by the Internal Revenue Service.
+39 (M) For years beginning on or after January 1, 2020, any amount in excess of $195,000 for a
+40 calendar year. If any period over which salary is determined is less than 12 months, the $195,000
+41 limitation for that period shall be multiplied by a fraction, the numerator of which is the number
+42 of months in the determination period and the denominator of which is 12. On January 1 of each
+43 year, the board shall adjust the dollar limit provided by this subparagraph to reflect any percentage
+44 changes in the Consumer Price Index for All Urban Consumers, West Region (All Items), as pub-
+45 lished by the Bureau of Labor Statistics of the United States Department of Labor.
+[5]
+
+MR A-Eng. SB 1507
+1 (18) “System” means the Public Employees Retirement System.
+2 (19) “Workers’ compensation benefits” means:
+3 (a) Payments made under ORS chapter 656; or
+4 (b) Payments provided in lieu of workers’ compensation benefits under ORS 656.027 (6).
+5 SECTION 4. ORS 238A.005, as amended by section 2, chapter 101, Oregon Laws 2024, is
+6 amended to read:
+7 238A.005. For the purposes of this chapter:
+8 (1) “Active member” means a member of the pension program or the individual account program
+9 of the Oregon Public Service Retirement Plan who is actively employed in a qualifying position.
+10 (2) “Actuarial equivalent” means a payment or series of payments having the same value as the
+11 payment or series of payments replaced, computed on the basis of interest rate and mortality as-
+12 sumptions adopted by the board.
+13 (3) “Board” means the Public Employees Retirement Board.
+14 (4) “Eligible employee” means a person who performs services for a participating public em-
+15 ployer, including persons considered employees of a participating public employer under 26 U.S.C.
+16 3121(d)(2), as in effect on January 1, [2024] 2026, and elected officials other than judges. “Eligible
+17 employee” does not include:
+18 (a) Persons engaged as independent contractors;
+19 (b) Aliens working under a training or educational visa;
+20 (c) Persons provided sheltered employment or make-work by a public employer;
+21 (d) Persons categorized by a participating public employer as student employees;
+22 (e) Any person who is in custody in a state institution;
+23 (f) Employees of foreign trade offices of the Oregon Business Development Department who live
+24 and perform services in foreign countries under the provisions of ORS 285A.075 (1)(g);
+25 (g) An employee actively participating in an alternative retirement program established under
+26 ORS 353.250 or an optional retirement plan established under ORS 341.551;
+27 (h) Employees of a public university listed in ORS 352.002 who are actively participating in an
+28 optional retirement plan offered under ORS 243.815;
+29 (i) Persons employed in positions classified as post-doctoral scholar positions by a public uni-
+30 versity listed in ORS 352.002, or by the Oregon Health and Science University, under ORS 350.370;
+31 (j) Any employee who belongs to a class of employees that was not eligible on August 28, 2003,
+32 for membership in the system under the provisions of ORS chapter 238 or other law;
+33 (k) Any person who belongs to a class of employees who are not eligible to become members
+34 of the Oregon Public Service Retirement Plan under the provisions of ORS 238A.070 (2);
+35 (L) Any person who is retired under ORS 238A.100 to 238A.250 or ORS chapter 238 and who
+36 continues to receive retirement benefits while employed; and
+37 (m) Judges.
+38 (5) “Firefighter” means:
+39 (a) A person employed by a local government, as defined in ORS 174.116, whose primary job
+40 duties include the fighting of fires;
+41 (b) The State Fire Marshal, chief deputy state fire marshals and deputy state fire marshals;
+42 (c) An employee of the State Fire Marshal whose primary duties include fire investigation, fire
+43 prevention, fire safety, fire control or fire suppression;
+44 (d) An employee of the State Forestry Department who is certified by the State Forester as a
+45 professional wildland firefighter and whose primary duties include the abatement of uncontrolled
+[6]
+
+MR A-Eng. SB 1507
+1 fires as described in ORS 477.064; and
+2 (e) An employee of the Oregon Military Department whose primary duties include fighting
+3 structural, aircraft, wildland or other fires.
+4 (6) “Fund” means the Public Employees Retirement Fund.
+5 (7)(a) “Hazardous position” means a position that does not meet the definition of a qualified
+6 public safety employee under section 72(t)(10)(B) of the Internal Revenue Code, but that:
+7 (A) Requires the person holding the position to work with or manage emergency or traumatic
+8 events in the regular course of work; or
+9 (B) Carries a high risk of physical harm.
+10 (b) “Hazardous position” includes and is limited to:
+11 (A) Employees of the Oregon State Hospital who have direct contact with patients; and
+12 (B) Telecommunicators, as defined in ORS 181A.355.
+13 (8)(a) “Hour of service” means:
+14 (A) An hour for which an eligible employee is directly or indirectly paid or entitled to payment
+15 by a participating public employer for performance of duties in a qualifying position; and
+16 (B) An hour of vacation, holiday, illness, incapacity, jury duty, military duty or authorized leave
+17 during which an employee does not perform duties but for which the employee is directly or indi-
+18 rectly paid or entitled to payment by a participating public employer for services in a qualifying
+19 position, as long as the hour is within the number of hours regularly scheduled for the performance
+20 of duties during the period of vacation, holiday, illness, incapacity, jury duty, military duty or au-
+21 thorized leave.
+22 (b) “Hour of service” does not include any hour for which payment is made or due under a plan
+23 maintained solely for the purpose of complying with applicable unemployment compensation laws.
+24 (9) “Inactive member” means a member of the pension program or the individual account pro-
+25 gram of the Oregon Public Service Retirement Plan whose membership has not been terminated, who
+26 is not a retired member and who is not employed in a qualifying position.
+27 (10) “Individual account program” means the defined contribution individual account program
+28 of the Oregon Public Service Retirement Plan established under ORS 238A.025.
+29 (11) “Institution of higher education” means a public university listed in ORS 352.002, the
+30 Oregon Health and Science University or a community college, as defined in ORS 341.005.
+31 (12) “Member” means an eligible employee who has established membership in the pension pro-
+32 gram or the individual account program of the Oregon Public Service Retirement Plan and whose
+33 membership has not been terminated under ORS 238A.110 or 238A.310.
+34 (13) “Participating public employer” means a public employer as defined in ORS 238.005 that
+35 provides retirement benefits for employees of the public employer under the system.
+36 (14) “Pension program” means the defined benefit pension program of the Oregon Public Service
+37 Retirement Plan established under ORS 238A.025.
+38 (15) “Police officer” means a police officer as described in ORS 238.005.
+39 (16) “Qualifying position” means one or more jobs with one or more participating public em-
+40 ployers in which an eligible employee performs 600 or more hours of service in a full calendar year,
+41 or would perform 600 or more hours of service if the employee were employed for the full calendar
+42 year, excluding any service in a job for which benefits are not provided under the Oregon Public
+43 Service Retirement Plan pursuant to ORS 238A.070 (2).
+44 (17) “Retired member” means a pension program member who is receiving a pension as provided
+45 in ORS 238A.180 to 238A.195.
+[7]
+
+MR A-Eng. SB 1507
+1 (18)(a) “Salary” means the remuneration paid to an active member in return for services to the
+2 participating public employer, including remuneration in the form of living quarters, board or other
+3 items of value, to the extent the remuneration is, or would be if the member were an Oregon resi-
+4 dent, includable in the employee’s taxable income under Oregon law. “Salary” includes the addi-
+5 tional amounts specified in paragraph (b) of this subsection, but does not include the amounts
+6 specified in paragraph (c) of this subsection, regardless of whether those amounts are includable in
+7 taxable income.
+8 (b) “Salary” includes the following amounts:
+9 (A) Payments of employee and employer money into a deferred compensation plan that are made
+10 at the election of the employee.
+11 (B) Contributions to a tax-sheltered or deferred annuity that are made at the election of the
+12 employee.
+13 (C) Any amount that is contributed to a cafeteria plan or qualified transportation fringe benefit
+14 plan by the employer at the election of the employee and that is not includable in the taxable in-
+15 come of the employee by reason of 26 U.S.C. 125 or 132(f)(4), as in effect on December 31, [2023]
+16 2025.
+17 (D) Any amount that is contributed to a cash or deferred arrangement by the employer at the
+18 election of the employee and that is not included in the taxable income of the employee by reason
+19 of 26 U.S.C. 402(e)(3), as in effect on December 31, [2023] 2025.
+20 (E) Retroactive payments described in ORS 238.008.
+21 (F) The amount of an employee contribution to the individual account program that is paid by
+22 the employer and deducted from the compensation of the employee, as provided under ORS 238A.335
+23 (1) and (2)(a).
+24 (G) The amount of an employee contribution to the individual account program that is not paid
+25 by the employer under ORS 238A.335.
+26 (H) Wages of a deceased member paid to a surviving spouse or dependent children under ORS
+27 652.190.
+28 (c) “Salary” does not include the following amounts:
+29 (A) Travel or any other expenses incidental to employer’s business which is reimbursed by the
+30 employer.
+31 (B) Payments made on account of an employee’s death.
+32 (C) Any lump sum payment for accumulated unused sick leave, vacation leave or other paid
+33 leave.
+34 (D) Any severance payment, accelerated payment of an employment contract for a future period
+35 or advance against future wages.
+36 (E) Any retirement incentive, retirement bonus or retirement gratuitous payment.
+37 (F) Payment for a leave of absence after the date the employer and employee have agreed that
+38 no future services in a qualifying position will be performed.
+39 (G) Payments for instructional services rendered to public universities listed in ORS 352.002 or
+40 the Oregon Health and Science University when those services are in excess of full-time employment
+41 subject to this chapter. A person employed under a contract for less than 12 months is subject to
+42 this subparagraph only for the months covered by the contract.
+43 (H) The amount of an employee contribution to the individual account program that is paid by
+44 the employer and is not deducted from the compensation of the employee, as provided under ORS
+45 238A.335 (1) and (2)(b).
+[8]
+
+MR A-Eng. SB 1507
+1 (I) Compensation described and authorized under ORS 341.556 that is not paid by the community
+2 college employing the faculty member.
+3 (J) Compensation described and authorized under ORS 352.232 that is not paid by the public
+4 university employing the officer or employee.
+5 (K) Compensation described and authorized under ORS 353.270 that is not paid by Oregon
+6 Health and Science University.
+7 (L) For years before 2020, any amount in excess of $200,000 for a calendar year. If any period
+8 over which salary is determined is less than 12 months, the $200,000 limitation for that period shall
+9 be multiplied by a fraction, the numerator of which is the number of months in the determination
+10 period and the denominator of which is 12. The board shall adopt rules adjusting this dollar limit
+11 to incorporate cost-of-living adjustments authorized by the Internal Revenue Service.
+12 (M) For years beginning on or after January 1, 2020, any amount in excess of $195,000 for a
+13 calendar year. If any period over which salary is determined is less than 12 months, the $195,000
+14 limitation for that period shall be multiplied by a fraction, the numerator of which is the number
+15 of months in the determination period and the denominator of which is 12. On January 1 of each
+16 year, the board shall adjust the dollar limit provided by this subparagraph to reflect any percentage
+17 changes in the Consumer Price Index for All Urban Consumers, West Region (All Items), as pub-
+18 lished by the Bureau of Labor Statistics of the United States Department of Labor.
+19 (19) “System” means the Public Employees Retirement System.
+20 (20) “Workers’ compensation benefits” means:
+21 (a) Payments made under ORS chapter 656; or
+22 (b) Payments provided in lieu of workers’ compensation benefits under ORS 656.027 (6).
+23 SECTION 5. ORS 238A.125 is amended to read:
+24 238A.125. (1) Upon retiring at normal retirement age, a vested pension program member shall
+25 be paid an annual pension for the life of the member as follows:
+26 (a) For service as a police officer or firefighter, 1.8 percent of final average salary multiplied
+27 by the number of years of retirement credit attributable to service as a police officer or firefighter.
+28 (b) For service as other than a police officer or firefighter, 1.5 percent of final average salary
+29 multiplied by the number of years of retirement credit attributable to service as other than a police
+30 officer or firefighter.
+31 (2) Notwithstanding any provision of ORS 238A.100 to 238A.250, the annual benefit payable to
+32 a member under the pension program and under any other tax-qualified defined benefit plan main-
+33 tained by the participating public employer may not exceed the applicable limitations set forth in
+34 26 U.S.C. 415(b), as in effect on December 31, [2023] 2025. The Public Employees Retirement Board
+35 shall adopt rules for the administration of this limitation, including adjustments in the annual dollar
+36 limitation to reflect cost-of-living adjustments authorized by the Internal Revenue Service.
+37 (3) The board shall make no actuarial adjustment in a member’s pension calculated under this
+38 section by reason of the member’s retirement after normal retirement age.
+39 SECTION 6. ORS 238A.125, as amended by section 3, chapter 101, Oregon Laws 2024, is
+40 amended to read:
+41 238A.125. (1) Upon retiring at normal retirement age, a vested pension program member shall
+42 be paid an annual pension for the life of the member as follows:
+43 (a) For service as a police officer or firefighter, 1.8 percent of final average salary multiplied
+44 by the number of years of retirement credit attributable to service as a police officer or firefighter.
+45 (b) For service in a hazardous position, 1.8 percent of final average salary multiplied by the
+[9]
+
+MR A-Eng. SB 1507
+1 number of years of retirement credit attributable to service in a hazardous position.
+2 (c) For service as other than a police officer or firefighter or in a hazardous position, 1.5 percent
+3 of final average salary multiplied by the number of years of retirement credit attributable to service
+4 as other than a police officer or firefighter or in a hazardous position.
+5 (2) Notwithstanding any provision of ORS 238A.100 to 238A.250, the annual benefit payable to
+6 a member under the pension program and under any other tax-qualified defined benefit plan main-
+7 tained by the participating public employer may not exceed the applicable limitations set forth in
+8 26 U.S.C. 415(b), as in effect on December 31, [2023] 2025. The Public Employees Retirement Board
+9 shall adopt rules for the administration of this limitation, including adjustments in the annual dollar
+10 limitation to reflect cost-of-living adjustments authorized by the Internal Revenue Service.
+11 (3) The board shall make no actuarial adjustment in a member’s pension calculated under this
+12 section by reason of the member’s retirement after normal retirement age.
+13 SECTION 7. ORS 238A.150 is amended to read:
+14 238A.150. (1) Notwithstanding any other provision of ORS 238A.100 to 238A.250, an eligible em-
+15 ployee who leaves a qualifying position for the purpose of performing service in the uniformed ser-
+16 vices, and who subsequently returns to employment with a participating public employer with
+17 reemployment rights under federal law, is entitled to accrue retirement credit, credit toward the
+18 probationary period required by ORS 238A.100 and credit toward the vesting requirements of ORS
+19 238A.115 under rules adopted by the Public Employees Retirement Board pursuant to subsection (2)
+20 of this section.
+21 (2) The board shall adopt rules establishing benefits and service credit for any period of service
+22 in the uniformed services by an employee described in subsection (1) of this section. For the purpose
+23 of adopting rules under this subsection, the board shall consider and take into account all federal
+24 law relating to benefits and service credit for any period of service in the uniformed services, in-
+25 cluding 26 U.S.C. 414(u), as in effect on December 31, [2023] 2025. Benefits and service credit under
+26 rules adopted by the board pursuant to this subsection may not exceed benefits and service credit
+27 required under federal law for periods of service in the uniformed services.
+28 SECTION 8. ORS 238A.170 is amended to read:
+29 238A.170. (1) An active member of the pension program who is 72 years of age or older must
+30 retire not later than April 1 of the calendar year following the calendar year in which the member
+31 terminates employment with all participating public employers. An inactive member of the pension
+32 program must retire not later than April 1 of the calendar year following the calendar year in which
+33 the member attains 72 years of age.
+34 (2) Notwithstanding any other provision of ORS 238A.100 to 238A.250, the entire interest of a
+35 member of the pension program must be distributed over a time period commencing no later than
+36 the required beginning date set forth in subsection (1) of this section, and must be distributed in a
+37 manner that satisfies all other minimum distribution requirements of 26 U.S.C. 401(a)(9) and regu-
+38 lations implementing that section, as in effect on January 1, [2024] 2026. The Public Employees Re-
+39 tirement Board shall adopt rules implementing those minimum distribution requirements.
+40 SECTION 9. ORS 238A.230 is amended to read:
+41 238A.230. (1) If a member of the pension program who is vested dies before the member’s effec-
+42 tive date of retirement, the Public Employees Retirement Board shall pay the death benefit provided
+43 for in this section to:
+44 (a) The spouse of the member to the extent not provided to a former spouse in accordance with
+45 a judgment or order under ORS 238.465;
+[10]
+
+MR A-Eng. SB 1507
+1 (b) The former spouse of the member as provided in a judgment or order under ORS 238.465; or
+2 (c) Any other person who is constitutionally required to be treated in the same manner as a
+3 spouse for the purpose of retirement benefits.
+4 (2) The death benefit to be paid under this subsection is for the life of the member’s spouse,
+5 former spouse or other person who is constitutionally required to be treated in the same manner
+6 as a spouse, and is:
+7 (a) If the member dies before the earliest retirement date for the member under ORS 238A.165,
+8 the actuarial equivalent of 50 percent of the pension that would otherwise have been paid to the
+9 deceased member, which shall be calculated as if the member became an inactive member on the
+10 date of death and retired at the earliest retirement date for the member as described in ORS
+11 238A.165;
+12 (b) If the member dies on or after the earliest retirement date for the member under ORS
+13 238A.165 and before normal retirement age under ORS 238A.160, the actuarial equivalent of the
+14 pension that would otherwise have been paid to the deceased member, which shall be calculated as
+15 if the member retired under ORS 238A.185 and as if the member’s retirement date was the first of
+16 the month following the date of death of the member; or
+17 (c) If the member dies on or after reaching normal retirement age as described in ORS 238A.160,
+18 the actuarial equivalent of the pension that would otherwise have been paid to the deceased mem-
+19 ber, which shall be calculated under ORS 238A.125 as if the member’s retirement date was the first
+20 of the month following the date of death of the member.
+21 (3) The death benefit provided under this section is first effective on the first day of the month
+22 following the date of death of the member.
+23 (4) The surviving spouse or other person who is constitutionally required to be treated in the
+24 same manner as a spouse for the purpose of retirement benefits may elect to delay payment of the
+25 death benefit, which shall be actuarially adjusted for age and interest when payments commence,
+26 but payment must commence no later than December 31 of the calendar year in which the member
+27 would have reached 72 years of age. If a person who delays payment under this subsection dies be-
+28 fore payments commence:
+29 (a) The person’s beneficiary shall receive, in a lump sum, the sum of the payments the person
+30 would have received had the person not elected to delay payment of the death benefit.
+31 (b) If the person who delays payment under this subsection has not designated a beneficiary, the
+32 person’s benefit shall be paid to a personal representative appointed for the person’s estate.
+33 (5) Notwithstanding any other provision of ORS 238A.100 to 238A.250, distributions of death
+34 benefits under the pension program must comply with the minimum distribution requirements of 26
+35 U.S.C. 401(a)(9) and the regulations implementing that section, as in effect on January 1, [2024]
+36 2026. The board shall adopt rules implementing those minimum distribution requirements.
+37 SECTION 10. ORS 238A.370 is amended to read:
+38 238A.370. Notwithstanding any other provision of ORS 238A.300 to 238A.415, the annual addition
+39 to the employee and employer accounts of a member of the individual account program for a cal-
+40 endar year, together with the annual additions to the accounts of the member under any other de-
+41 fined contribution plan maintained by the participating public employer for a calendar year, may
+42 not exceed the lesser of $40,000, or 100 percent of the member’s compensation for that calendar year.
+43 For purposes of this section, “annual addition” has the meaning given that term in 26 U.S.C.
+44 415(c)(2), as in effect on December 31, [2023] 2025, and “compensation” has the meaning given the
+45 term “participant’s compensation” in 26 U.S.C. 415(c)(3), as in effect on December 31, [2023] 2025.
+[11]
+
+MR A-Eng. SB 1507
+1 The Public Employees Retirement Board shall adopt rules for the administration of this limitation,
+2 including adjustments in the annual dollar limitation to reflect cost-of-living adjustments authorized
+3 by the Internal Revenue Service.
+4 SECTION 11. ORS 238A.400 is amended to read:
+5 238A.400. (1) Upon retirement on or after the earliest retirement date, as described in ORS
+6 238A.165, a member of the individual account program shall receive in a lump sum the amounts in
+7 the member’s employee account, rollover account and employer account to the extent the member
+8 is vested in those accounts under ORS 238A.320.
+9 (2) In lieu of a lump sum payment under subsection (1) of this section, a member of the individ-
+10 ual account program may elect to receive the amounts in the member’s employee account and em-
+11 ployer account, to the extent the member is vested in those accounts under ORS 238A.320, in
+12 substantially equal installments paid over a period of 5, 10, 15 or 20 years, or over a period that is
+13 equal to the anticipated life span of the member as actuarially determined by the Public Employees
+14 Retirement Board. Installments may be made on a monthly, quarterly or annual basis. In no event
+15 may the period selected by the member exceed the time allowed by the minimum distribution re-
+16 quirements described in subsection (5) of this section. The board shall by rule establish the manner
+17 in which installments will be adjusted to reflect investment gains and losses on the unpaid balance
+18 during the payout period elected by the member under this subsection. The board by rule may es-
+19 tablish minimum monthly amounts payable under this subsection. The board may require that a
+20 lump sum payment, or an installment schedule different than the schedules provided for in this
+21 subsection, be used to pay the vested amounts in the member’s accounts if those amounts are not
+22 adequate to generate the minimum monthly amounts specified by the rule.
+23 (3) A member of the individual account program electing to receive installments under sub-
+24 section (2) of this section must designate a beneficiary or beneficiaries. In the event the member dies
+25 before all amounts in the employee and vested employer accounts are paid, the remaining account
+26 balance shall be paid in a lump sum distribution to the beneficiary or beneficiaries designated by
+27 the member.
+28 (4) A member who is entitled to receive retirement benefits under ORS chapter 238 may receive
+29 vested amounts in the member’s employee account, rollover account and employer account in the
+30 manner provided by this section when the member retires for service under the provisions of ORS
+31 chapter 238.
+32 (5) Notwithstanding any other provision of ORS 238A.300 to 238A.415, the entire interest of a
+33 member of the individual account program must be distributed over a time period commencing no
+34 later than the latest retirement date set forth in ORS 238A.170, and must be distributed in a manner
+35 that satisfies all other minimum distribution requirements of 26 U.S.C. 401(a)(9) and regulations im-
+36 plementing that section, as in effect on January 1, [2024] 2026. The board shall adopt rules imple-
+37 menting those minimum distribution requirements.
+38 SECTION 12. ORS 238A.410 is amended to read:
+39 238A.410. (1)(a) If a member of the individual account program dies before retirement, the
+40 amounts in the member’s employee account, rollover account and employer account, to the extent
+41 the member is vested in those accounts under ORS 238A.320, shall be paid in a lump sum to the
+42 beneficiary or beneficiaries designated by the member for the purposes of this section.
+43 (b) If a member of the individual account program dies before retirement, the amounts in the
+44 employee pension stability account established for the member under ORS 238A.353 shall be applied
+45 by the Public Employees Retirement Board to pay the costs of any benefit payable under ORS
+[12]
+
+MR A-Eng. SB 1507
+1 238.395 or 238A.230 that accrues on or after July 1, 2020. If the amounts in the employee pension
+2 stability account exceed the costs of the benefit payable under ORS 238.395 or 238A.230 that accrues
+3 on or after July 1, 2020, the excess amounts shall be paid in a lump sum to the beneficiary or ben-
+4 eficiaries designated by the member for the purposes of this section.
+5 (2) If a member of the individual account program is married at the time of death, or there exists
+6 at the time of death any other person who is constitutionally required to be treated in the same
+7 manner as a spouse for the purpose of retirement benefits, the spouse or other person shall be the
+8 beneficiary for purposes of the death benefit payable under this section unless the spouse or other
+9 person consents to the designation of a different beneficiary or beneficiaries before the designation
+10 has been made and the consent has not been revoked by the spouse or other person as of the time
+11 of the member’s death. Consent and revocation of consent must be in writing, acknowledged by a
+12 notary public, and submitted to the Public Employees Retirement Board in accordance with rules
+13 adopted by the board. If the member’s spouse is designated as the member’s beneficiary and the
+14 marriage of the member and spouse is subsequently dissolved, the former spouse shall be treated as
+15 predeceasing the member for purposes of this section, unless the member expressly designates the
+16 former spouse as beneficiary after the effective date of the dissolution or the former spouse is re-
+17 quired to be designated as a beneficiary under the provisions of ORS 238.465.
+18 (3) For purposes of this section and ORS 238A.400 (3), if a member fails to designate a benefi-
+19 ciary, or if the person or persons designated do not survive the member, the death benefit provided
+20 for in this section shall be paid to the following person or persons, in the following order of priority:
+21 (a) The member’s surviving spouse or other person who is constitutionally required to be treated
+22 in the same manner as a spouse;
+23 (b) The member’s surviving children, in equal shares; or
+24 (c) The member’s estate.
+25 (4) If a small estate affidavit has been filed under ORS 114.505 to 114.560, and the death benefit
+26 does not exceed the maximum amount of personal property for which a small estate affidavit may
+27 be filed under ORS 114.505 to 114.560, the board shall pay the death benefit to the person who filed
+28 the affidavit, if the member’s estate is the designated beneficiary or is receiving the payment under
+29 subsection (3) of this section.
+30 (5) The entire amount of a deceased member’s vested accounts must be distributed by December
+31 31 of the fifth calendar year after the year in which the member died. Notwithstanding any other
+32 provision of this chapter, distributions of death benefits under the individual account program must
+33 comply with the minimum distribution requirements of 26 U.S.C. 401(a)(9) and the regulations im-
+34 plementing that section, as in effect on January 1, [2024] 2026. The Public Employees Retirement
+35 Board shall adopt rules implementing those minimum distribution requirements.
+36 SECTION 13. ORS 238A.415 is amended to read:
+37 238A.415. (1) Notwithstanding any other provision of ORS 238A.300 to 238A.415, an eligible em-
+38 ployee who leaves a qualifying position for the purpose of performing service in the uniformed ser-
+39 vices, and who subsequently returns to employment with a participating public employer with
+40 reemployment rights under federal law, is entitled to credit toward the probationary period required
+41 by ORS 238A.300, credit toward the vesting requirements of ORS 238A.320 and contributions under
+42 rules adopted by the Public Employees Retirement Board pursuant to subsection (2) of this section.
+43 (2) The board shall adopt rules establishing contributions and service credit for any period of
+44 service in the uniformed services by an employee described in subsection (1) of this section. For the
+45 purpose of adopting rules under this subsection, the board shall consider and take into account all
+[13]
+
+MR A-Eng. SB 1507
+1 federal law relating to benefits and service credit for any period of service in the uniformed ser-
+2 vices, including 26 U.S.C. 414(u), as in effect on December 31, [2023] 2025. Contributions and service
+3 credit under rules adopted by the board pursuant to this subsection may not exceed contributions
+4 and service credit required under federal law for periods of service in the uniformed services.
+5 SECTION 14. ORS 238A.430 is amended to read:
+6 238A.430. (1) To the extent required by law, and except as otherwise provided by rules adopted
+7 by the Public Employees Retirement Board under subsection (4) of this section, any portion of a
+8 distribution of benefits described in subsection (2) of this section shall, at the election of and in lieu
+9 of distribution to the distributee, be paid directly to an eligible retirement plan specified by the
+10 distributee.
+11 (2) The provisions of subsection (1) of this section apply to a distribution of any benefit under
+12 the pension program or the individual account program except:
+13 (a) A distribution that is one of a series of substantially equal periodic payments made at least
+14 annually for the life or life expectancy of the distributee, or for the joint lives or life expectancies
+15 of the distributee and a designated beneficiary;
+16 (b) A distribution that is one of a series of substantially equal periodic payments made at least
+17 annually for a specified period of 10 years or more; and
+18 (c) A distribution to the extent that the distribution is required under 26 U.S.C. 401(a)(9).
+19 (3) The provisions of subsection (1) of this section apply to any portion of a distribution of
+20 benefits under the pension program or the individual account program even though the portion
+21 consists of after-tax employee contributions that are not includable in gross income. Any portion of
+22 a distribution that consists of after-tax employee contributions that are not includable in gross in-
+23 come may be transferred only to an individual retirement account or annuity described in 26 U.S.C.
+24 408(a) or (b), or to a qualified defined contribution or defined benefit plan described in 26 U.S.C.
+25 401(a) or 403(b) that agrees to account separately for amounts transferred, including accounting
+26 separately for the portion of the distribution that is includable in gross income and the portion of
+27 the distribution that is not includable in gross income. The amount transferred shall be treated as
+28 consisting first of the portion of the distribution that is includable in gross income, determined
+29 without regard to 26 U.S.C. 402(c)(1).
+30 (4) The board shall adopt rules implementing the direct rollover requirements of 26 U.S.C.
+31 401(a)(31) and the regulations implementing that section, and may adopt administrative exceptions
+32 to the direct rollover requirements to the extent permitted by 26 U.S.C. 401(a)(31) and the regu-
+33 lations implementing that section.
+34 (5) All references in this section to federal laws and regulations are to the laws and regulations
+35 in effect on December 31, [2023] 2025.
+36 (6) For purposes of this section:
+37 (a) “Distributee” means a member, a member’s surviving spouse or a member’s alternate payee
+38 under ORS 238.465.
+39 (b) “Eligible retirement plan” means:
+40 (A) An individual retirement account described in 26 U.S.C. 408(a);
+41 (B) An individual retirement annuity described in 26 U.S.C. 408(b), other than an endowment
+42 contract;
+43 (C) A qualified trust under 26 U.S.C. 401(a), that is a defined contribution or defined benefit plan
+44 and permits the acceptance of rollover contributions;
+45 (D) An annuity plan described in 26 U.S.C. 403(a);
+[14]
+
+MR A-Eng. SB 1507
+1 (E) An eligible deferred compensation plan described in 26 U.S.C. 457(b) that is maintained by
+2 an eligible governmental employer described in 26 U.S.C. 457(e)(1)(A) and that agrees to account
+3 separately for amounts transferred into such plan from the distributing plan; or
+4 (F) An annuity contract described in 26 U.S.C. 403(b).
+5 SECTION 15. ORS 238A.435 is amended to read:
+6 238A.435. (1) If a benefit is payable under this chapter to a beneficiary by reason of the death
+7 of a member of the system, the beneficiary may elect to have all or part of the distribution of the
+8 death benefit paid in an eligible rollover distribution to an individual retirement plan described in
+9 26 U.S.C. 408(a), or an individual retirement annuity, other than an endowment contract, described
+10 in 26 U.S.C. 408(b), if the plan or annuity is established for the purpose of receiving the eligible
+11 rollover distribution on behalf of the designated beneficiary.
+12 (2) Subsection (1) of this section applies to an eligible rollover distribution of death benefits to
+13 a beneficiary who is not treated as the spouse of the decedent for federal tax purposes and who is
+14 the decedent’s designated beneficiary for the purposes of the minimum required distribution re-
+15 quirements of 26 U.S.C. 401(a)(9). To the extent provided by rules of the Public Employees Retire-
+16 ment Board, a trust maintained for the benefit of one or more beneficiaries must be treated by the
+17 board in the same manner as a trust that is designated as a beneficiary for the purposes of the
+18 minimum required distribution requirements of 26 U.S.C. 401(a)(9).
+19 (3) As used in this section, “eligible rollover distribution” has the meaning given that term in
+20 26 U.S.C. 402(c)(4), as in effect on December 31, [2023] 2025.
+21 SECTION 16. ORS 305.239 is amended to read:
+22 305.239. (1) Notwithstanding ORS 9.320:
+23 (a) Any person who is qualified to practice law or public accountancy in this state, any person
+24 who has been granted active enrollment to practice before the Internal Revenue Service and who
+25 is qualified to prepare tax returns in this state or any person who is the authorized employee of a
+26 taxpayer and is regularly employed by the taxpayer in tax matters may represent the taxpayer be-
+27 fore a tax court magistrate or the Department of Revenue in any conference or proceeding with
+28 respect to the administration of any tax.
+29 (b) Any person who is licensed by the State Board of Tax Practitioners or who is exempt from
+30 such licensing requirement as provided for and limited by ORS 673.610 may represent a taxpayer
+31 before a tax court magistrate or the department in any conference or proceeding with respect to the
+32 administration of any tax on or measured by net income.
+33 (c) Any shareholder of an S corporation, as defined in section 1361 of the Internal Revenue
+34 Code, as amended and in effect on December 31, [2023] 2025, may represent the corporation in any
+35 proceeding before a tax court magistrate or the department in the same manner as if the share-
+36 holder were a partner and the S corporation were a partnership. The S corporation must designate
+37 in writing a tax matters shareholder authorized to represent the S corporation.
+38 (d) An individual who is licensed as a real estate broker or principal real estate broker under
+39 ORS 696.022 or is a state certified appraiser or state licensed appraiser under ORS 674.310 or is a
+40 registered appraiser under ORS 308.010 may represent a taxpayer before a tax court magistrate or
+41 the department in any conference or proceeding with respect to the administration of any ad
+42 valorem property tax.
+43 (e) A general partner who has been designated by members of a partnership as their tax matters
+44 partner under ORS 305.242 may represent those partners in any conference or proceeding with re-
+45 spect to the administration of any tax on or measured by net income.
+[15]
+
+MR A-Eng. SB 1507
+1 (f) Any person authorized under rules adopted by the department may represent a taxpayer be-
+2 fore the department in any conference or proceeding with respect to any tax. Rules adopted under
+3 this paragraph, to the extent feasible, shall be consistent with federal law that governs represen-
+4 tation before the Internal Revenue Service, as federal law is amended and in effect on December 31,
+5 [2023] 2025.
+6 (g) Any person authorized under rules adopted by the tax court may represent a taxpayer in a
+7 proceeding before a tax court magistrate.
+8 (2) A person may not be recognized as representing a taxpayer pursuant to this section unless
+9 there is first filed with the magistrate or department a written authorization, or unless it appears
+10 to the satisfaction of the magistrate or department that the representative does in fact have au-
+11 thority to represent the taxpayer. A person recognized as an authorized representative under rules
+12 or procedures adopted by the tax court shall be considered an authorized representative by the de-
+13 partment.
+14 (3) A taxpayer represented by someone other than an attorney is bound by all things done by
+15 the authorized representative, and may not thereafter claim any proceeding was legally defective
+16 because the taxpayer was not represented by an attorney.
+17 (4) Prior to the holding of a conference or proceeding before the tax court magistrate or de-
+18 partment, written notice shall be given by the magistrate or department to the taxpayer of the
+19 provisions of subsection (3) of this section.
+20 SECTION 17. ORS 305.494 is amended to read:
+21 305.494. Notwithstanding ORS 9.320, any shareholder of an S corporation as defined in section
+22 1361 of the Internal Revenue Code, as amended and in effect on December 31, [2023] 2025, may
+23 represent the corporation in any proceeding before the Oregon Tax Court in the same manner as
+24 if the shareholder were a partner and the S corporation were a partnership.
+25 SECTION 18. ORS 305.690 is amended to read:
+26 305.690. As used in ORS 305.690 to 305.753, unless the context otherwise requires:
+27 (1) “Commission” means the Oregon Charitable Checkoff Commission.
+28 (2) “Department” means the Department of Revenue.
+29 (3) “Internal Revenue Code” means the federal Internal Revenue Code as amended and in effect
+30 on December 31, [2023] 2025.
+31 SECTION 19. ORS 305.842 is amended to read:
+32 305.842. As used in ORS 307.130, 307.147, 307.580, 308A.450, 310.140, 310.800 and 311.666,
+33 “Internal Revenue Code” means the federal Internal Revenue Code as amended and in effect on
+34 December 31, [2023] 2025.
+35 SECTION 20. ORS 314.011 is amended to read:
+36 314.011. (1) As used in this chapter, unless the context requires otherwise, “department” means
+37 the Department of Revenue.
+38 (2) As used in this chapter:
+39 (a) Any term has the same meaning as when used in a comparable context in the laws of the
+40 United States relating to federal income taxes, unless a different meaning is clearly required or the
+41 term is specifically defined in this chapter.
+42 (b) Except where the Legislative Assembly has provided otherwise, a reference to the laws of
+43 the United States or to the Internal Revenue Code refers to the laws of the United States or to the
+44 Internal Revenue Code as they are amended and in effect:
+45 (A) On December 31, [2023] 2025; or
+[16]
+
+MR A-Eng. SB 1507
+1 (B) If related to the definition of taxable income, as applicable to the tax year of the taxpayer.
+2 (c) With respect to ORS 314.105, 314.256 (relating to proxy tax on lobbying expenditures), 314.260
+3 (1)(b), 314.302, 314.306, 314.330, 314.360, 314.362, 314.385, 314.402, 314.410, 314.412, 314.525, 314.767
+4 (7), 314.771 and 314.772 and other provisions of this chapter, except those described in paragraph (b)
+5 of this subsection, any reference to the laws of the United States or to the Internal Revenue Code
+6 means the laws of the United States relating to income taxes or the Internal Revenue Code as they
+7 are amended on or before December 31, [2023] 2025, even when the amendments take effect or be-
+8 come operative after that date, except where the Legislative Assembly has specifically provided
+9 otherwise.
+10 (3) Insofar as is practicable in the administration of this chapter, the department shall apply and
+11 follow the administrative and judicial interpretations of the federal income tax law. When a pro-
+12 vision of the federal income tax law is the subject of conflicting opinions by two or more federal
+13 courts, the department shall follow the rule observed by the United States Commissioner of Internal
+14 Revenue until the conflict is resolved. Nothing contained in this section limits the right or duty of
+15 the department to audit the return of any taxpayer or to determine any fact relating to the tax li-
+16 ability of any taxpayer.
+17 (4) When portions of the Internal Revenue Code incorporated by reference as provided in sub-
+18 section (2) of this section refer to rules or regulations prescribed by the Secretary of the Treasury,
+19 then such rules or regulations shall be regarded as rules adopted by the department under and in
+20 accordance with the provisions of this chapter, whenever they are prescribed or amended.
+21 (5)(a) When portions of the Internal Revenue Code incorporated by reference as provided in
+22 subsection (2) of this section are later corrected by an Act or a Title within an Act of the United
+23 States Congress designated as an Act or Title making technical corrections, then notwithstanding
+24 the date that the Act or Title becomes law, those portions of the Internal Revenue Code, as so
+25 corrected, shall be the portions of the Internal Revenue Code incorporated by reference as provided
+26 in subsection (2) of this section and shall take effect, unless otherwise indicated by the Act or Title
+27 (in which case the provisions shall take effect as indicated in the Act or Title), as if originally in-
+28 cluded in the provisions of the Act being technically corrected. If, on account of this subsection, any
+29 adjustment is required to an Oregon return that would otherwise be prevented by operation of law
+30 or rule, the adjustment shall be made, notwithstanding any law or rule to the contrary, in the
+31 manner provided under ORS 314.135.
+32 (b) As used in this subsection, “Act or Title” includes any subtitle, division or other part of an
+33 Act or Title.
+34 SECTION 21. ORS 314.306 is amended to read:
+35 314.306. (1) If a taxpayer excludes an amount from federal gross income by reason of the dis-
+36 charge of indebtedness of the taxpayer under section 108(a)(1)(A) of the Internal Revenue Code (re-
+37 lating to discharge of indebtedness in a bankruptcy declared under U.S.C. Title 11), then, with
+38 respect to that portion of the excluded amount that is apportioned to Oregon, the taxpayer shall
+39 apply the rules in 11 U.S.C. 346(j), as amended and in effect on December 31, [2023] 2025.
+40 (2) If a taxpayer excludes an amount from federal gross income by reason of the discharge of
+41 indebtedness of the taxpayer under section 108(a)(1)(B) or (C) of the Internal Revenue Code (relating
+42 to discharge of indebtedness in insolvency or discharge of qualified farm indebtedness), then, with
+43 respect to that portion of the excluded amount that is apportioned to Oregon, the following para-
+44 graphs shall apply, in the following order:
+45 (a) If the taxpayer has made the election under section 108(b)(5) of the Internal Revenue Code
+[17]
+
+MR A-Eng. SB 1507
+1 to first reduce the basis of the depreciable property of the taxpayer, the election shall also be ef-
+2 fective for Oregon tax purposes. A corresponding reduction in the basis of the depreciable property
+3 of the taxpayer shall be made for Oregon tax purposes.
+4 (b) The amount, if any, by which the following attributes are reduced under section 108(b)(1) of
+5 the Internal Revenue Code for federal tax purposes shall be added back for Oregon tax purposes:
+6 (A) Federal net operating loss.
+7 (B) Capital loss carryover.
+8 (C) Basis of the property of the taxpayer, excluding amounts subject to the election under sec-
+9 tion 108(b)(5) of the Internal Revenue Code.
+10 (D) Passive activity loss carryover.
+11 (c) Excluding amounts subject to the election in section 108(b)(5) of the Internal Revenue Code:
+12 (A) Any Oregon net operating loss of an individual or corporate taxpayer, including a net op-
+13 erating loss carryover to the taxpayer, shall be reduced by the amount of discharged indebtedness.
+14 (B) Any net capital loss for the taxable year of the discharge, and any capital loss carryover to
+15 the taxable year, shall be reduced by the amount of discharged indebtedness minus the total amount
+16 taken into account under subparagraph (A) of this paragraph.
+17 (C) The basis of the property of the taxpayer shall be reduced by the amount of discharged
+18 indebtedness minus the total amount taken into account under subparagraphs (A) and (B) of this
+19 paragraph.
+20 (D) The passive activity loss carryover under section 469(b) of the Internal Revenue Code from
+21 the taxable year of the discharge shall be reduced by the amount of discharged indebtedness minus
+22 the total amount taken into account under subparagraphs (A), (B) and (C) of this paragraph.
+23 SECTION 22. ORS 315.004 is amended to read:
+24 315.004. (1) Except when the context requires otherwise, the definitions contained in ORS
+25 chapters 314, 316, 317 and 318 are applicable in the construction, interpretation and application of
+26 the personal and corporate income and excise tax credits contained in this chapter.
+27 (2)(a) For purposes of the tax credits contained in this chapter, any term has the same meaning
+28 as when used in a comparable context in the laws of the United States relating to federal income
+29 taxes, unless a different meaning is clearly required or the term is specifically defined for purposes
+30 of construing, interpreting and applying the credit.
+31 (b) With respect to the tax credits contained in this chapter, any reference to the laws of the
+32 United States or to the Internal Revenue Code means the laws of the United States relating to in-
+33 come taxes or the Internal Revenue Code as they are amended on or before December 31, [2023]
+34 2025, even when the amendments take effect or become operative after that date.
+35 (3) Insofar as is practicable in the administration of this chapter, the Department of Revenue
+36 shall apply and follow the administrative and judicial interpretations of the federal income tax law.
+37 When a provision of the federal income tax law is the subject of conflicting opinions by two or more
+38 federal courts, the department shall follow the rule observed by the United States Commissioner of
+39 Internal Revenue until the conflict is resolved. Nothing contained in this section limits the right
+40 or duty of the department to audit the return of any taxpayer or to determine any fact relating to
+41 the tax liability of any taxpayer.
+42 (4) When portions of the Internal Revenue Code incorporated by reference as provided in sub-
+43 section (2) of this section refer to rules or regulations prescribed by the Secretary of the Treasury,
+44 then such rules or regulations shall be regarded as rules adopted by the department under and in
+45 accordance with the provisions of this chapter, whenever they are prescribed or amended.
+[18]
+
+MR A-Eng. SB 1507
+1 (5)(a) When portions of the Internal Revenue Code incorporated by reference as provided in
+2 subsection (2) of this section are later corrected by an Act or a Title within an Act of the United
+3 States Congress designated as an Act or Title making technical corrections, then notwithstanding
+4 the date that the Act or Title becomes law, those portions of the Internal Revenue Code, as so
+5 corrected, shall be the portions of the Internal Revenue Code incorporated by reference as provided
+6 in subsection (2) of this section and shall take effect, unless otherwise indicated by the Act or Title
+7 (in which case the provisions shall take effect as indicated in the Act or Title), as if originally in-
+8 cluded in the provisions of the Act being technically corrected. If, on account of this subsection, any
+9 adjustment is required to an Oregon return that would otherwise be prevented by operation of law
+10 or rule, the adjustment shall be made, notwithstanding any law or rule to the contrary, in the
+11 manner provided under ORS 314.135.
+12 (b) As used in this subsection, “Act or Title” includes any subtitle, division or other part of an
+13 Act or Title.
+14 SECTION 23. ORS 316.012 is amended to read:
+15 316.012. Any term used in this chapter has the same meaning as when used in a comparable
+16 context in the laws of the United States relating to federal income taxes, unless a different meaning
+17 is clearly required or the term is specifically defined in this chapter. Except where the Legislative
+18 Assembly has provided otherwise, any reference in this chapter to the laws of the United States or
+19 to the Internal Revenue Code refers to the laws of the United States or to the Internal Revenue
+20 Code as they are amended and in effect:
+21 (1) On December 31, [2023] 2025; or
+22 (2) If related to the definition of taxable income, as applicable to the tax year of the taxpayer.
+23 SECTION 24. ORS 316.147 is amended to read:
+24 316.147. As used in ORS 316.147 to 316.149, unless the context requires otherwise:
+25 (1) “Eligible taxpayer” includes any individual who must pay taxes otherwise imposed by this
+26 chapter and:
+27 (a) Who pays or incurs expenses for the care of a qualified individual, through a payment
+28 method determined by rule of the Department of Revenue; and
+29 (b) Who has a household income, for the taxable year, not to exceed the maximum amount of
+30 household income allowed in ORS 310.640 (1989 Edition) for a homeowner or renter refund.
+31 (2) “Household income” means the aggregate income of the eligible taxpayer and the spouse of
+32 the taxpayer who reside in the household, that was received during a calendar year. “Household
+33 income” includes payments received by the eligible taxpayer or the spouse of the taxpayer under the
+34 federal Social Security Act for the benefit of a minor child or minor children who reside in the
+35 household.
+36 (3) “Income” means “adjusted gross income” as defined in the federal Internal Revenue Code,
+37 as amended and in effect on December 31, [2023] 2025, even when the amendments take effect or
+38 become operative after that date, relating to the measurement of taxable income of individuals, es-
+39 tates and trusts, with the following modifications:
+40 (a) There shall be added to adjusted gross income the following items of otherwise exempt in-
+41 come:
+42 (A) The gross amount of any otherwise exempt pension less return of investment, if any.
+43 (B) Child support received by the taxpayer.
+44 (C) Inheritances.
+45 (D) Gifts and grants, the sum of which are in excess of $500 per year.
+[19]
+
+MR A-Eng. SB 1507
+1 (E) Amounts received by a taxpayer or spouse of a taxpayer for support from a parent who is
+2 not a member of the taxpayer’s household.
+3 (F) Life insurance proceeds.
+4 (G) Accident and health insurance proceeds, except reimbursement of incurred medical expenses.
+5 (H) Personal injury damages.
+6 (I) Sick pay that is not included in federal adjusted gross income.
+7 (J) Strike benefits excluded from federal gross income.
+8 (K) Worker’s compensation, except for reimbursement of medical expense.
+9 (L) Military pay and benefits.
+10 (M) Veteran’s benefits.
+11 (N) Payments received under the federal Social Security Act that are excluded from federal
+12 gross income.
+13 (O) Welfare payments, except as follows:
+14 (i) Payments for medical care, drugs and medical supplies, if the payments are not made directly
+15 to the welfare recipient;
+16 (ii) In-home services authorized and approved by the Department of Human Services; and
+17 (iii) Direct or indirect reimbursement of expenses paid or incurred for participation in work or
+18 training programs.
+19 (P) Nontaxable dividends.
+20 (Q) Nontaxable interest not included in federal adjusted gross income.
+21 (R) Rental allowance paid to a minister that is excluded from federal gross income.
+22 (S) Income from sources without the United States that is excluded from federal gross income.
+23 (b) Adjusted gross income shall be increased due to the disallowance of the following deductions:
+24 (A) The amount of the net loss, in excess of $1,000, from all dispositions of tangible or intangible
+25 properties.
+26 (B) The amount of the net loss, in excess of $1,000, from the operation of a farm or farms.
+27 (C) The amount of the net loss, in excess of $1,000, from all operations of a trade or business,
+28 profession or other activity entered into for the production or collection of income.
+29 (D) The amount of the net loss, in excess of $1,000, from tangible or intangible property held for
+30 the production of rents, royalties or other income.
+31 (E) The amount of any net operating loss carryovers or carrybacks included in federal adjusted
+32 gross income.
+33 (F) The amount, in excess of $5,000, of the combined deductions or other allowances for depre-
+34 ciation, amortization or depletion.
+35 (G) The amount added or subtracted, as required within the context of this section, for adjust-
+36 ments made under ORS 316.680 (2)(d) and 316.707 to 316.737.
+37 (c) “Income” does not include the following:
+38 (A) Any governmental grant that must be used by the taxpayer for rehabilitation of the home-
+39 stead of the taxpayer.
+40 (B) Any refund of Oregon personal income taxes that were imposed under this chapter.
+41 (4) “Qualified individual” includes an individual at least 60 years of age on the date that the
+42 expenses described in subsection (1)(a) of this section are paid or incurred by the eligible taxpayer:
+43 (a) Whose household income does not exceed $7,500 for the calendar year in which the taxable
+44 year of the taxpayer begins;
+45 (b) Who is eligible for authorized services as defined in ORS 410.410 under Oregon Project In-
+[20]
+
+MR A-Eng. SB 1507
+1 dependence;
+2 (c) Who is certified by the Department of Human Services; and
+3 (d) Whose care or any portion thereof is not paid for under ORS chapter 414.
+4 SECTION 25. ORS 316.157 is amended to read:
+5 316.157. (1) In the case of an eligible individual, there shall be allowed as a credit against the
+6 taxes otherwise due under this chapter for the taxable year an amount equal to the lesser of the tax
+7 liability of the taxpayer or nine percent of net pension income.
+8 (2) For purposes of this section:
+9 (a) “Eligible individual” means any individual who is receiving pension income and who has at-
+10 tained 62 years of age before the close of the taxable year.
+11 (b) “Household income” means the aggregate income of the taxpayer and the spouse of the tax-
+12 payer who reside in the household, that was received during the taxable year for which a credit is
+13 claimed, except that “household income” does not include Social Security benefits received by the
+14 taxpayer or the spouse of the taxpayer.
+15 (c) “Income” means “adjusted gross income” as defined in the federal Internal Revenue Code,
+16 as amended and in effect on December 31, [2023] 2025, even when the amendments take effect or
+17 become operative after that date, relating to the measurement of taxable income of individuals, es-
+18 tates and trusts, with the following modifications:
+19 (A) There shall be added to adjusted gross income the following items of otherwise exempt in-
+20 come:
+21 (i) The gross amount of any otherwise exempt pension less return of investment, if any.
+22 (ii) Child support received by the taxpayer.
+23 (iii) Inheritances.
+24 (iv) Gifts and grants, the sum of which are in excess of $500 per year.
+25 (v) Amounts received by a taxpayer or spouse of a taxpayer for support from a parent who is
+26 not a member of the taxpayer’s household.
+27 (vi) Life insurance proceeds.
+28 (vii) Accident and health insurance proceeds, except reimbursement of incurred medical ex-
+29 penses.
+30 (viii) Personal injury damages.
+31 (ix) Sick pay that is not included in federal adjusted gross income.
+32 (x) Strike benefits excluded from federal gross income.
+33 (xi) Worker’s compensation, except for reimbursement of medical expense.
+34 (xii) Military pay and benefits.
+35 (xiii) Veteran’s benefits.
+36 (xiv) Payments received under the federal Social Security Act that are excluded from federal
+37 gross income.
+38 (xv) Welfare payments, except as follows:
+39 (I) Payments for medical care, drugs and medical supplies, if the payments are not made directly
+40 to the welfare recipient;
+41 (II) In-home services authorized and approved by the Department of Human Services; and
+42 (III) Direct or indirect reimbursement of expenses paid or incurred for participation in work or
+43 training programs.
+44 (xvi) Nontaxable dividends.
+45 (xvii) Nontaxable interest not included in federal adjusted gross income.
+[21]
+
+MR A-Eng. SB 1507
+1 (xviii) Rental allowance paid to a minister that is excluded from federal gross income.
+2 (xix) Income from sources without the United States that is excluded from federal gross income.
+3 (B) Adjusted gross income shall be increased due to the disallowance of the following de-
+4 ductions:
+5 (i) The amount of the net loss, in excess of $1,000, from all dispositions of tangible or intangible
+6 properties.
+7 (ii) The amount of the net loss, in excess of $1,000, from the operation of a farm or farms.
+8 (iii) The amount of the net loss, in excess of $1,000, from all operations of a trade or business,
+9 profession or other activity entered into for the production or collection of income.
+10 (iv) The amount of the net loss, in excess of $1,000, from tangible or intangible property held for
+11 the production of rents, royalties or other income.
+12 (v) The amount of any net operating loss carryovers or carrybacks included in federal adjusted
+13 gross income.
+14 (vi) The amount, in excess of $5,000, of the combined deductions or other allowances for depre-
+15 ciation, amortization or depletion.
+16 (vii) The amount added or subtracted, as required within the context of this section, for adjust-
+17 ments made under ORS 316.680 (2)(d) and 316.707 to 316.737.
+18 (C) “Income” does not include the following:
+19 (i) Any governmental grant that must be used by the taxpayer for rehabilitation of the home-
+20 stead of the taxpayer.
+21 (ii) Any refund of Oregon personal income taxes that were imposed under this chapter.
+22 (d) “Net pension income” means:
+23 (A) For eligible individuals filing a joint return, the lesser of the pension income of the eligible
+24 individuals received during the taxable year or the excess, if any, of $15,000 over the sum of the
+25 following amounts:
+26 (i) Any Social Security benefits received by the eligible individual, or by the spouse of the in-
+27 dividual, during the taxable year; and
+28 (ii) The excess, if any, of household income over $30,000.
+29 (B) For an eligible individual filing a return other than a joint return, the lesser of the pension
+30 income of the eligible individual received during the taxable year or the excess, if any, of $7,500
+31 over the sum of the following amounts:
+32 (i) Any Social Security benefits received by the eligible individual during the taxable year; and
+33 (ii) The excess, if any, of household income over $15,000.
+34 (e) “Pension income” means income included in Oregon taxable income from:
+35 (A) Distributions from or pursuant to an employee pension benefit plan, as defined in section
+36 3(2) of the Employee Retirement Income Security Act of 1974, which satisfies the requirements of
+37 section 401 of the Internal Revenue Code;
+38 (B) Distributions from or pursuant to a public retirement system of this state or a political
+39 subdivision of this state, or a public retirement system created by an Act of this state or a political
+40 subdivision of this state, or the public retirement system of any other state or local government;
+41 (C) Distributions from or pursuant to a federal retirement system created by the federal gov-
+42 ernment for any officer or employee of the United States, including any person retired from service
+43 in the United States Civil Service, the Armed Forces of the United States or any agency or subdi-
+44 vision thereof;
+45 (D) Distributions or withdrawals from or pursuant to an eligible deferred compensation plan
+[22]
+
+MR A-Eng. SB 1507
+1 which satisfies the requirements of section 457 of the Internal Revenue Code;
+2 (E) Distributions or withdrawals from or pursuant to an individual retirement account, annuity
+3 or trust or simplified employee pension which satisfies the requirements of section 408 of the Inter-
+4 nal Revenue Code; and
+5 (F) Distributions or withdrawals from or pursuant to an employee annuity, including custodial
+6 accounts treated as annuities, subject to section 403 (a) or (b) of the Internal Revenue Code.
+7 (f) “Social Security benefits” means Social Security benefits, as defined in section 86 of the
+8 Internal Revenue Code (Title II Social Security or tier 1 railroad retirement benefits).
+9 (3) If a change in the taxable year of the eligible individual occurs as described in ORS 314.085,
+10 or if the Department of Revenue terminates the tax year of the eligible individual under ORS
+11 314.440, the credit allowed by this section shall be prorated or computed in a manner consistent with
+12 ORS 314.085.
+13 (4) If a change in the status of the eligible individual from resident to nonresident or from
+14 nonresident to resident occurs, the credit allowed by this section shall be determined in a manner
+15 consistent with subsection (1) of this section.
+16 SECTION 26. ORS 317.010 is amended to read:
+17 317.010. As used in this chapter, unless the context requires otherwise:
+18 (1) “Centrally assessed corporation” means every corporation the property of which is assessed
+19 by the Department of Revenue under ORS 308.505 to 308.674.
+20 (2) “Department” means the Department of Revenue.
+21 (3)(a) “Consolidated federal return” means the return permitted or required to be filed by a
+22 group of affiliated corporations under section 1501 of the Internal Revenue Code.
+23 (b) “Consolidated state return” means the return required to be filed under ORS 317.710 (5).
+24 (4) “Doing business” means any transaction or transactions in the course of its activities con-
+25 ducted within the state by a national banking association, or any other corporation; provided, how-
+26 ever, that a foreign corporation whose activities in this state are confined to purchases of personal
+27 property, and the storage thereof incident to shipment outside the state, shall not be deemed to be
+28 doing business unless such foreign corporation is an affiliate of another foreign or domestic corpo-
+29 ration which is doing business in Oregon. Whether or not corporations are affiliated shall be de-
+30 termined as provided in section 1504 of the Internal Revenue Code.
+31 (5) “Excise tax” means a tax measured by or according to net income imposed upon national
+32 banking associations, all other banks, and financial, centrally assessed, mercantile, manufacturing
+33 and business corporations for the privilege of carrying on or doing business in this state.
+34 (6) “Financial institution” has the meaning given that term in ORS 314.610 except that it does
+35 not include a credit union as defined in ORS 723.006, an interstate credit union as defined in ORS
+36 723.001 or a federal credit union.
+37 (7) “Internal Revenue Code,” except where the Legislative Assembly has provided otherwise,
+38 refers to the laws of the United States or to the Internal Revenue Code as they are amended and
+39 in effect:
+40 (a) On December 31, [2023] 2025; or
+41 (b) If related to the definition of taxable income, as applicable to the tax year of the taxpayer.
+42 (8) “Oregon taxable income” means taxable income, less the deduction allowed under ORS
+43 317.476, except as otherwise provided with respect to insurers in subsection (11) of this section and
+44 ORS 317.650 to 317.665.
+45 (9) “Oregon net loss” means taxable loss, except as otherwise provided with respect to insurers
+[23]
+
+MR A-Eng. SB 1507
+1 in subsection (11) of this section and ORS 317.650 to 317.665.
+2 (10) “Taxable income or loss” means the taxable income or loss determined, or in the case of a
+3 corporation for which no federal taxable income or loss is determined, as would be determined, un-
+4 der chapter 1, Subtitle A of the Internal Revenue Code and any other laws of the United States
+5 relating to the determination of taxable income or loss of corporate taxpayers, with the additions,
+6 subtractions, adjustments and other modifications as are specifically prescribed by this chapter ex-
+7 cept that in determining taxable income or loss for any year, no deduction under ORS 317.476 or
+8 317.478 and section 45b, chapter 293, Oregon Laws 1987, shall be allowed. If the corporation is a
+9 corporation to which ORS 314.280 or 314.605 to 314.675 (requiring or permitting apportionment of
+10 income from transactions or activities carried on both within and without the state) applies, to
+11 derive taxable income or loss, the following shall occur:
+12 (a) From the amount otherwise determined under this subsection, subtract nonapportionable in-
+13 come, or add nonapportionable loss, whichever is applicable.
+14 (b) Multiply the amount determined under paragraph (a) of this subsection by the Oregon ap-
+15 portionment percentage defined under ORS 314.280, 314.650 or 314.667, whichever is applicable. The
+16 resulting product shall be Oregon apportioned income or loss.
+17 (c) To the amount determined as Oregon apportioned income or loss under paragraph (b) of this
+18 subsection, add nonapportionable income allocable entirely to Oregon under ORS 314.280 or 314.625
+19 to 314.645, or subtract nonapportionable loss allocable entirely to Oregon under ORS 314.280 or
+20 314.625 to 314.645. The resulting figure is “taxable income or loss” for those corporations carrying
+21 on taxable transactions or activities both within and without Oregon.
+22 (11) As used in ORS 317.650 to 317.665, “insurer” means any domestic, foreign or alien insurer
+23 as defined in ORS 731.082 and any interinsurance and reciprocal exchange and its attorney in fact
+24 with respect to its attorney in fact net income as a corporate attorney in fact acting as attorney in
+25 compliance with ORS 731.458, 731.462, 731.466 and 731.470 for the reciprocal or interinsurance ex-
+26 change. However, “insurer” does not include title insurers or health care service contractors oper-
+27 ating pursuant to ORS 750.005 to 750.095.
+28 SECTION 27. ORS 317.097 is amended to read:
+29 317.097. (1) As used in this section:
+30 (a) “Annual rate” means the yearly interest rate specified on the note, and not the annual per-
+31 centage rate, if any, disclosed to the applicant to comply with the federal Truth in Lending Act.
+32 (b) “Bonds” means a bond, as defined in ORS 286A.001, if issued on behalf of the Housing and
+33 Community Services Department, or bonds, as defined in ORS 456.055, if issued by a housing au-
+34 thority.
+35 (c) “Finance charge” means the total of all interest, loan fees, interest on any loan fees financed
+36 by the lending institution, and other charges related to the cost of obtaining credit.
+37 (d) “Lending institution” means any insured institution, as that term is defined in ORS 706.008,
+38 any mortgage banking company that maintains an office in this state or any community development
+39 corporation that is organized under the Oregon Nonprofit Corporation Law.
+40 (e) “Limited equity cooperative” means a cooperative corporation formed under ORS chapter 62
+41 whose articles of incorporation, in addition to the other requirements of ORS chapter 62, prohibit
+42 members from selling their ownership interests:
+43 (A) To any person other than a low income person; or
+44 (B) For a sales price that exceeds the sum of:
+45 (i) The price the member paid for the ownership interest;
+[24]
+
+MR A-Eng. SB 1507
+1 (ii) The cost of any permanent improvements the member made to the housing unit during the
+2 member’s ownership;
+3 (iii) Any special assessments the member paid to the limited equity cooperative during the
+4 member’s ownership that were expended to make permanent improvements to the building in which
+5 the member’s housing unit is located; and
+6 (iv) A return on the amounts described in sub-subparagraphs (i) to (iii) of this subparagraph,
+7 computed from the year in which the respective amount was paid, that equals the greater of the
+8 result of adjusting each amount by the percentage increase, if any, in the Consumer Price Index for
+9 All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the
+10 United States Department of Labor, or of increasing each amount by three percent compounded
+11 annually.
+12 (f) “Manufactured dwelling park” has the meaning given that term in ORS 446.003.
+13 (g) “Nonprofit corporation” means a corporation that is exempt from income taxes under section
+14 501(c)(3) or (4) of the Internal Revenue Code as amended and in effect on December 31, [2023]
+15 2025.
+16 (h) “Preservation project” means housing that was previously developed as affordable housing
+17 with a contract for rent assistance from the United States Department of Housing and Urban De-
+18 velopment or the United States Department of Agriculture and that is being acquired by a spon-
+19 soring entity.
+20 (i) “Qualified assignee” means any investor participating in the secondary market for real estate
+21 loans.
+22 (j) “Qualified borrower” means any borrower that is a sponsoring entity that has a controlling
+23 interest in the real property that is financed by a qualified loan. A controlling interest includes a
+24 controlling interest in the general partner of a limited partnership that owns the real property.
+25 (k) “Qualified loan” means:
+26 (A) A loan that meets the criteria stated in subsection (5) of this section or that is made to re-
+27 finance a loan that meets the criteria described in subsection (5) of this section;
+28 (B) The purchase by a lending institution of bonds, the proceeds of which are used to finance
+29 or refinance a loan that meets the criteria described in subsection (5) of this section; or
+30 (C) A qualified mortgage loan fund.
+31 (L) “Qualified mortgage loan fund” means a fund that:
+32 (A) Is operated by a lending institution described in subsection (12) of this section;
+33 (B) Makes mortgages to first-time home buyers;
+34 (C) Makes mortgages for homes subject to a land trust mortgage; and
+35 (D) Makes mortgages to households that, at the time of mortgage origination, have income that
+36 is 80 percent or less of area median income as defined in ORS 458.610.
+37 (m) “Sponsoring entity” means a nonprofit corporation, nonprofit cooperative, state govern-
+38 mental entity, local unit of government as defined in ORS 466.706, housing authority or any other
+39 person, provided that the person has agreed to restrictive covenants imposed by a nonprofit corpo-
+40 ration, nonprofit cooperative, state governmental entity, local unit of government or housing au-
+41 thority.
+42 (2) The Department of Revenue shall allow a credit against taxes otherwise due under this
+43 chapter for the tax year to a lending institution that makes a qualified loan certified by the Housing
+44 and Community Services Department as provided in subsection (7) of this section. The amount of the
+45 credit is equal to the difference between:
+[25]
+
+MR A-Eng. SB 1507
+1 (a) The amount of finance charge charged by the lending institution during the tax year at an
+2 annual rate less than the market rate for a qualified loan that complies with the requirements of this
+3 section; and
+4 (b) The amount of finance charge that would have been charged during the tax year by the
+5 lending institution for the qualified loan for housing construction, development, acquisition or re-
+6 habilitation measured at the annual rate charged by the lending institution for nonsubsidized loans
+7 made under like terms and conditions at the time the qualified loan for housing construction, de-
+8 velopment, acquisition or rehabilitation is made.
+9 (3) The maximum amount of credit for the difference between the amounts described in sub-
+10 section (2)(a) and (b) of this section may not exceed four percent of the average unpaid balance of
+11 the qualified loan during the tax year for which the credit is claimed.
+12 (4) Any tax credit allowed under this section that is not used by the taxpayer in a particular
+13 year may be carried forward and offset against the taxpayer’s tax liability for the next succeeding
+14 tax year. Any credit remaining unused in the next succeeding tax year may be carried forward and
+15 used in the second succeeding tax year, and likewise, any credit not used in that second succeeding
+16 tax year may be carried forward and used in the third succeeding tax year, and any credit not used
+17 in that third succeeding tax year may be carried forward and used in the fourth succeeding tax year,
+18 and any credit not used in that fourth succeeding tax year may be carried forward and used in the
+19 fifth succeeding tax year, but may not be carried forward for any tax year thereafter.
+20 (5) To be eligible for the tax credit allowable under this section, a lending institution must make
+21 a qualified loan by either purchasing bonds, the proceeds of which are used to finance or refinance
+22 a loan that meets the criteria stated in this subsection, or making a loan directly to:
+23 (a) An individual or individuals who own a dwelling, participate in an owner-occupied commu-
+24 nity rehabilitation program and are certified by the local government or its designated agent as
+25 having an income level when the loan is made of 80 percent of the area median income or less;
+26 (b) A qualified borrower who:
+27 (A) Uses the loan proceeds to finance construction, development, acquisition or rehabilitation
+28 of housing, including housing in the form of a limited equity cooperative; and
+29 (B) Provides a written certification executed by the Housing and Community Services Depart-
+30 ment that the:
+31 (i) Housing created by the loan is or will be occupied by households earning 80 percent of the
+32 area median income or less; and
+33 (ii) Full amount of savings from the reduced interest rate provided by the lending institution is
+34 or will be passed on, in the form of reduced housing payments, to the tenants or to the holders of
+35 proprietary leases in a limited equity cooperative;
+36 (c) Subject to subsection (14) of this section, a qualified borrower who:
+37 (A) Uses the loan proceeds to finance construction, development, acquisition or rehabilitation
+38 of housing consisting of a manufactured dwelling park; and
+39 (B) Provides a written certification executed by the Housing and Community Services Depart-
+40 ment that the housing will continue to be operated as a manufactured dwelling park during the pe-
+41 riod for which the tax credit is allowed;
+42 (d) A qualified borrower who:
+43 (A) Uses the loan proceeds to finance acquisition or rehabilitation of housing consisting of a
+44 preservation project; and
+45 (B) Provides a written certification executed by the Housing and Community Services Depart-
+[26]
+
+MR A-Eng. SB 1507
+1 ment that the housing preserved by the loan:
+2 (i) Is or will be occupied by households earning 80 percent of the area median income or less;
+3 and
+4 (ii) Is the subject of a rent assistance contract with the United States Department of Housing
+5 and Urban Development or the United States Department of Agriculture that will be maintained by
+6 the qualified borrower;
+7 (e) A qualified borrower who:
+8 (A) Uses the loan proceeds to finance construction, development, acquisition or rehabilitation
+9 of housing; and
+10 (B) Provides a written certification executed by the Housing and Community Services Depart-
+11 ment or the governmental party to the rent assistance contract that the housing preserved by the
+12 loan:
+13 (i) Is or will be occupied by households earning 80 percent of the area median income or less;
+14 and
+15 (ii) Is the subject of a rent assistance contract with the federal government or with a state or
+16 local government that will be maintained by the qualified borrower and that limits a tenant’s rent
+17 to no more than 30 percent of their income;
+18 (f) A qualified borrower who:
+19 (A) Uses the loan proceeds to finance preservation or rehabilitation of housing; and
+20 (B) Provides a written certification executed by the Housing and Community Services Depart-
+21 ment that the housing preserved or rehabilitated by the loan:
+22 (i) Is or will be occupied by households earning 80 percent of the area median income or less;
+23 and
+24 (ii) Is currently characterized by financial or physical distress that threatens its ongoing vi-
+25 ability as an affordable housing resource; or
+26 (g) A qualified mortgage loan fund.
+27 (6) A loan made to refinance a loan that meets the criteria stated in subsection (5) of this sec-
+28 tion must be treated the same as a loan that meets the criteria stated in subsection (5) of this sec-
+29 tion.
+30 (7) For a qualified loan to be eligible for the tax credit allowable under this section, the Housing
+31 and Community Services Department must execute a written certification for the qualified loan that:
+32 (a) States that the qualified loan is within the limitation imposed by subsection (8) of this sec-
+33 tion; and
+34 (b) Specifies the period, as determined by the Housing and Community Services Department,
+35 during which the tax credit is allowed for the qualified loan, not to exceed:
+36 (A) 30 years, for a qualified loan with a contract for rent assistance or financing resources from
+37 the United States Department of Agriculture, for new housing construction, acquisition of housing
+38 or a preservation project; or
+39 (B) 20 years, for any other type of qualified loan.
+40 (8) The Housing and Community Services Department may certify qualified loans that are eligi-
+41 ble under subsection (5) of this section if the total credits attributable to all qualified loans eligible
+42 for credits under this section and then outstanding do not exceed $35 million for any fiscal year. In
+43 making loan certifications under subsection (7) of this section, the Housing and Community Services
+44 Department shall attempt to distribute the tax credits statewide, but shall concentrate the tax
+45 credits in those areas of the state that are determined by the Oregon Housing Stability Council to
+[27]
+
+MR A-Eng. SB 1507
+1 have the greatest need for affordable housing.
+2 (9) The tax credit provided for in this section may be taken whether or not:
+3 (a) The financial institution is eligible to take a federal income tax credit under section 42 of
+4 the Internal Revenue Code with respect to the project financed by the qualified loan;
+5 (b) The project receives financing from bonds, the interest on which is exempt from federal
+6 taxation under section 103 of the Internal Revenue Code; or
+7 (c) The project receives moneys from the Elderly and Disabled Housing Fund under ORS 456.535.
+8 (10) For a qualified loan defined in subsection (1)(k)(B) of this section financed through the
+9 purchase of bonds, the interest of which is exempt from federal taxation under section 103 of the
+10 Internal Revenue Code, the amount of finance charge that would have been charged under sub-
+11 section (2)(b) of this section is determined by reference to the finance charge that would have been
+12 charged if the federally tax exempt bonds had been issued and the tax credit under this section did
+13 not apply.
+14 (11) A lending institution may sell a qualified loan for which a certification has been executed
+15 to a qualified assignee whether or not the lending institution retains servicing of the qualified loan
+16 so long as a designated lending institution maintains records, annually verified by a loan servicer,
+17 that establish the amount of tax credit earned by the taxpayer throughout each year of eligibility.
+18 (12) Notwithstanding any other provision of law, a lending institution that is a community de-
+19 velopment corporation organized under the Oregon Nonprofit Corporation Law may transfer all or
+20 part of a tax credit allowed under this section to one or more other lending institutions that are
+21 stockholders or members of the community development corporation or that otherwise participate
+22 through the community development corporation in the making of one or more qualified loans for
+23 which the tax credit under this section is allowed.
+24 (13) The lending institution shall file an annual statement with the Housing and Community
+25 Services Department, specifying that it has conformed with all requirements imposed by law to
+26 qualify for a tax credit under this section.
+27 (14) Notwithstanding subsection (1)(j) and (m) of this section, a qualified borrower on a loan to
+28 finance the construction, development, acquisition or rehabilitation of a manufactured dwelling park
+29 under subsection (5)(c) of this section must be:
+30 (a) A nonprofit corporation, manufactured dwelling park nonprofit cooperative, state govern-
+31 mental entity, local unit of government as defined in ORS 466.706 or housing authority; or
+32 (b) A nonprofit corporation or housing authority that has a controlling interest in the real
+33 property that is financed by a qualified loan. A controlling interest includes a controlling interest
+34 in the general partner of a limited partnership that owns the real property.
+35 (15) The Department of Revenue may require that a lending institution that has earned the
+36 credit and a lending institution that intends to claim the credit jointly file a notice, as prescribed
+37 by the Department of Revenue. The notice must comply with ORS 315.056 (2) or 315.058 (2).
+38 (16) The Housing and Community Services Department shall provide information to the Depart-
+39 ment of Revenue about all certifications executed under this section, if required by ORS 315.058.
+40 (17) The Housing and Community Services Department and the Department of Revenue may
+41 adopt rules to carry out the provisions of this section.
+42 SECTION 28. ORS 317A.100, as amended by section 6, chapter 502, Oregon Laws 2025, is
+43 amended to read:
+44 317A.100. As used in ORS 317A.100 to 317A.158:
+45 (1)(a) “Commercial activity” means:
+[28]
+
+MR A-Eng. SB 1507
+1 (A) The total amount realized by a person, arising from transactions and activity in the regular
+2 course of the person’s trade or business, without deduction for expenses incurred by the trade or
+3 business;
+4 (B) If received by a financial institution:
+5 (i) If the reporting person for a financial institution is a holding company, all items of income
+6 reported on the FR Y-9 filed by the holding company;
+7 (ii) If the reporting person for a financial institution is a bank organization, all items of income
+8 reported on the call report filed by the bank organization; and
+9 (iii) If the reporting person for a financial institution is a nonbank financial organization, all
+10 items of income reported in accordance with generally accepted accounting principles; and
+11 (C)(i) If received by an insurer, as reported on the statement of premiums accompanying the
+12 annual statement required under ORS 731.574 to be filed with the Director of the Department of
+13 Consumer and Business Services, all gross direct life insurance premiums, gross direct accident and
+14 health insurance premiums and gross direct property and casualty insurance premiums; and
+15 (ii) The gross amount of surplus lines premiums received on Oregon home state risks as shown
+16 in the report required by ORS 735.465.
+17 (b) “Commercial activity” does not include:
+18 (A) Interest income except:
+19 (i) Interest on credit sales; or
+20 (ii) Interest income, including service charges, received by financial institutions;
+21 (B) Receipts from the sale, exchange or other disposition of an asset described in section 1221
+22 or 1231 of the Internal Revenue Code, without regard to the length of time the person held the asset;
+23 (C) If received by an insurer, federally reinsured premiums or income from transactions between
+24 a reciprocal insurer and its attorney in fact operating under ORS 731.142;
+25 (D) Receipts from hedging transactions, to the extent that the transactions are entered into
+26 primarily to protect a financial position, including transactions intended to manage the risk of ex-
+27 posure to foreign currency fluctuations that affect assets, liabilities, profits, losses, equity or in-
+28 vestments in foreign operations, risk of exposure to interest rate fluctuations or risk of commodity
+29 price fluctuations;
+30 (E) Proceeds received attributable to the repayment, maturity or redemption of the principal of
+31 a loan, bond, mutual fund, certificate of deposit or marketable instrument;
+32 (F) The principal amount received under a repurchase agreement or on account of any trans-
+33 action properly characterized as a loan to the person;
+34 (G) Contributions received by a trust, plan or other arrangement, any of which is described in
+35 section 501(a) of the Internal Revenue Code, or to which title 26, subtitle A, chapter 1, subchapter
+36 (D) of the Internal Revenue Code applies;
+37 (H) Compensation, whether current or deferred, and whether in cash or in kind, received or to
+38 be received by an employee, a former employee or the employee’s legal successor for services ren-
+39 dered to or for an employer, including reimbursements received by or for an individual for medical
+40 or education expenses, health insurance premiums or employee expenses or on account of a de-
+41 pendent care spending account, legal services plan, any cafeteria plan described in section 125 of
+42 the Internal Revenue Code or any similar employee reimbursement;
+43 (I) Proceeds received from the issuance of the taxpayer’s own stock, options, warrants, puts or
+44 calls, or from the sale of the taxpayer’s treasury stock;
+45 (J) Proceeds received on the account of payments from insurance policies, including crop in-
+[29]
+
+MR A-Eng. SB 1507
+1 surance policies, owned by the taxpayer, except those proceeds received for the loss of commercial
+2 activity;
+3 (K) Gifts or charitable contributions received, membership dues received by trade, professional,
+4 homeowners’ or condominium associations, payments received for educational courses, meetings or
+5 meals, or similar payments to a trade, professional or other similar association, and fundraising re-
+6 ceipts received by any person when any excess receipts are donated or used exclusively for chari-
+7 table purposes;
+8 (L) Damages received as the result of litigation in excess of amounts that, if received without
+9 litigation, would be treated as commercial activity;
+10 (M) Property, money and other amounts received or acquired by an agent on behalf of another
+11 in excess of the agent’s commission, fee or other remuneration;
+12 (N) Tax refunds from any tax program, other tax benefit recoveries and reimbursements for the
+13 tax imposed under ORS 317A.100 to 317A.158 made by entities that are part of the same unitary
+14 group as provided under ORS 317A.106, and reimbursements made by entities that are not members
+15 of a unitary group that are required to be made for economic parity among multiple owners of an
+16 entity whose tax obligation under ORS 317A.100 to 317A.158 is required to be reported and paid
+17 entirely by one owner, as provided in ORS 317A.106;
+18 (O) Pension reversions;
+19 (P) Contributions to capital;
+20 (Q) Receipts from the sale, transfer, exchange or other disposition of motor vehicle fuel or any
+21 other product used for the propulsion of motor vehicles;
+22 (R) In the case of receipts from the sale of cigarettes or tobacco products by a wholesale dealer,
+23 retail dealer, distributor, manufacturer or seller, an amount equal to the federal and state excise
+24 taxes paid by any person on or for such cigarettes or tobacco products under subtitle E of the
+25 Internal Revenue Code or ORS chapter 323;
+26 (S) In the case of receipts from the sale of malt beverages or wine, as defined in ORS 471.001,
+27 cider, as defined in ORS 471.023 or distilled liquor, as defined in ORS 471.001, by a person holding
+28 a license issued under ORS chapter 471, an amount equal to the federal and state excise taxes paid
+29 by any person on or for such malt beverages, wine or distilled liquor under subtitle E of the Internal
+30 Revenue Code or ORS chapter 471 or 473, and any amount paid to the Oregon Liquor and Cannabis
+31 Commission for sales of distilled spirits by an agent appointed under ORS 471.750;
+32 (T) In the case of receipts from the sale of marijuana items, as defined in ORS 475C.009, by a
+33 person holding a license issued under ORS 475C.005 to 475C.525, an amount equal to the federal and
+34 state excise taxes paid by any person on or for such marijuana items under subtitle E of the Internal
+35 Revenue Code or ORS 475C.670 to 475C.734 and any local retail taxes authorized under ORS
+36 475C.453;
+37 (U) Local taxes collected by a restaurant or other food establishment on sales of meals, prepared
+38 food or beverages;
+39 (V) Tips or gratuities collected by a restaurant or other food establishment and passed on to
+40 employees;
+41 (W) Receipts realized by a vehicle dealer certified under ORS 822.020 or a person described in
+42 ORS 320.400 (8)(a)(B) from the sale or other transfer of a motor vehicle, as defined in ORS 801.360,
+43 to another vehicle dealer for the purpose of resale by the transferee vehicle dealer, but only if the
+44 sale or other transfer was based upon the transferee’s need to meet a specific customer’s preference
+45 for a motor vehicle or is an exchange of new vehicles between franchised motor vehicle dealerships;
+[30]
+
+MR A-Eng. SB 1507
+1 (X) Registration fees or taxes collected by a vehicle dealer certified under ORS 822.020 or a
+2 person described in ORS 320.400 (8)(a)(B) at the sale or other transfer of a motor vehicle, as defined
+3 in ORS 801.360, that are owed to a third party by the purchaser of the motor vehicle and passed to
+4 the third party by the dealer;
+5 (Y) Receipts from a financial institution for services provided to the financial institution in
+6 connection with the issuance, processing, servicing and management of loans or credit accounts, if
+7 the financial institution and the recipient of the receipts have at least 50 percent of their ownership
+8 interests owned or controlled, directly or constructively through related interests, by common own-
+9 ers;
+10 (Z) In the case of amounts retained as commissions by a holder of a license under ORS chapter
+11 462, an amount equal to the amounts specified under ORS chapter 462 that must be paid to or col-
+12 lected by the Department of Revenue as a tax and the amounts specified under ORS chapter 462 to
+13 be used as purse money;
+14 (AA) Receipts of residential care facilities as defined in ORS 443.400 or in-home care agencies
+15 as defined in ORS 443.305, to the extent that the receipts are derived from or received as compen-
+16 sation for providing services to a medical assistance or Medicare recipient;
+17 (BB) Dividends received;
+18 (CC) Distributive income received from a pass-through entity;
+19 (DD) Receipts from sales to a wholesaler in this state, if the seller receives certification at the
+20 time of sale from the wholesaler that the wholesaler will sell the purchased property outside this
+21 state;
+22 (EE) Receipts from the wholesale or retail sale of groceries, including receipts of a person that
+23 owns groceries at the time of sale and compensation of any consignee engaged in effecting the sale
+24 of groceries on behalf the owner of the groceries, but only to the extent that the compensation re-
+25 lates to grocery sales;
+26 (FF) Receipts from transactions among members of a unitary group;
+27 (GG) Moneys, including public purpose charge moneys collected under ORS 757.612 and moneys
+28 collected to plan for and pursue cost-effective energy efficiency resources under ORS 757.054, that
+29 are collected from customers, passed to a utility and approved by the Public Utility Commission and
+30 that support energy conservation, renewable resource acquisition and low-income assistance pro-
+31 grams;
+32 (HH) Moneys collected by a utility from customers for the payment of loans through on-bill fi-
+33 nancing;
+34 (II) Surcharges collected under ORS 757.736;
+35 (JJ) Moneys passed to a utility by the Bonneville Power Administration for the purpose of
+36 effectuating the Regional Power Act Exchange credits or pursuant to any settlement associated with
+37 the exchange credit;
+38 (KK) Moneys collected or recovered, by entities listed in ORS 756.310, cable operators as de-
+39 fined in 47 U.S.C. 522(5), telecommunications carriers as defined in 47 U.S.C. 153(51) and providers
+40 of information services as defined in 47 U.S.C. 153(24), for fees payable under ORS 756.310, right-of-
+41 way fees, franchise fees, privilege taxes, federal taxes and local taxes;
+42 (LL) Charges assessed under ORS 759.685 and paid into the Residential Service Protection Fund;
+43 (MM) Universal service surcharge moneys collected or recovered and paid into the universal
+44 service fund established in ORS 759.425;
+45 (NN) Moneys collected for public purpose funding as described in ORS 759.430;
+[31]
+
+MR A-Eng. SB 1507
+1 (OO) Moneys collected or recovered and paid into the federal universal service fund as deter-
+2 mined by the Federal Communications Commission;
+3 (PP) In the case of a seller or provider of telecommunications services, the amount of tax im-
+4 posed under ORS 403.200 for access to the emergency communications system that is collected from
+5 subscribers or consumers;
+6 (QQ) In the case of a transient lodging tax collector, the amount of tax imposed under ORS
+7 320.305 and of any local transient lodging tax imposed upon the occupancy of transit lodging;
+8 (RR) In the case of a seller of bicycles, the amount of tax imposed under ORS 320.415 upon retail
+9 sales of bicycles;
+10 (SS) In the case of a qualified heavy equipment provider, the amount of tax imposed under ORS
+11 307.872 upon the rental price of heavy equipment;
+12 (TT) Farmer sales to an agricultural cooperative in this state that is a cooperative organization
+13 described in section 1381 of the Internal Revenue Code;
+14 (UU) Revenue received by a business entity that is mandated by contract or subcontract to be
+15 distributed to another person or entity if the revenue constitutes sales commissions that are paid
+16 to a person who is not an employee of the business entity, including, without limitation, a split-fee
+17 real estate commission;
+18 (VV) Receipts from the sale of fluid milk by dairy farmers that are not members of an agricul-
+19 tural cooperative; and
+20 (WW)(i) Cost paid by a dealer for items of precious metal.
+21 (ii) As used in this subparagraph, “item of precious metal” means an item of gold, silver,
+22 platinum, rhodium or palladium that has been put through a process of smelting or refining and that
+23 is in a state or condition that its value depends on its contents and not its form.
+24 (2) “Cost inputs” means:
+25 (a) The cost of goods sold as calculated in arriving at federal taxable income under the Internal
+26 Revenue Code; or
+27 (b) In the case of a taxpayer that is engaged in a farming operation, as defined in ORS 317A.102,
+28 and that does not report cost of goods sold for federal tax purposes, the taxpayer’s operating ex-
+29 penses excluding labor costs.
+30 (3) “Doing business” means engaging in any activity, whether legal or illegal, that is conducted
+31 for, or results in, the receipt of commercial activity at any time during a calendar year.
+32 (4) “Excluded person” means any of the following:
+33 (a) Organizations described in sections 501(c) and 501(j) of the Internal Revenue Code, unless the
+34 exemption is denied under section 501(h), (i) or (m) or under section 502, 503 or 505 of the Internal
+35 Revenue Code.
+36 (b) Organizations described in section 501(d) of the Internal Revenue Code, unless the exemption
+37 is denied under section 502 or 503 of the Internal Revenue Code.
+38 (c) Organizations described in section 501(e) of the Internal Revenue Code.
+39 (d) Organizations described in section 501(f) of the Internal Revenue Code.
+40 (e) Charitable risk pools described in section 501(n) of the Internal Revenue Code.
+41 (f) Organizations described in section 521 of the Internal Revenue Code.
+42 (g) Qualified state tuition programs described in section 529 of the Internal Revenue Code.
+43 (h) Foreign or alien insurance companies, but only with respect to the underwriting profit de-
+44 rived from writing wet marine and transportation insurance subject to tax under ORS 731.824 and
+45 731.828 or if an insurance company is subject to the retaliatory tax under ORS 731.854 and 731.859.
+[32]
+
+MR A-Eng. SB 1507
+1 (i) Governmental entities.
+2 (j) Any person with commercial activity that does not exceed $750,000 for the tax year, other
+3 than a person that is part of a unitary group as provided in ORS 317A.106 with commercial activity
+4 in excess of $750,000.
+5 (k) Hospitals subject to assessment under ORS 414.855, long term care facilities subject to as-
+6 sessment under ORS 409.801 or any entity subject to assessment under ORS 414.880 or section 3 or
+7 5, chapter 538, Oregon Laws 2017.
+8 (L) Manufactured dwelling park nonprofit cooperatives organized under ORS chapter 62.
+9 (5) “Financial institution” has the meaning given that term in ORS 314.610, except that “finan-
+10 cial institution” does not include a credit union.
+11 (6)(a) “FR Y-9” means the consolidated or parent-only financial statements that a holding com-
+12 pany is required to file with the Federal Reserve Board pursuant to 12 U.S.C. 1844.
+13 (b) In the case of a holding company required to file both consolidated and parent-only financial
+14 statements, “FR Y-9” means the consolidated financial statements that the holding company is re-
+15 quired to file.
+16 (7) “Governmental entity” means:
+17 (a) The United States and any of its unincorporated agencies and instrumentalities.
+18 (b) Any incorporated agency or instrumentality of the United States wholly owned by the United
+19 States or by a corporation wholly owned by the United States.
+20 (c) The State of Oregon and any of its unincorporated agencies and instrumentalities.
+21 (d) Any county, city, district or other political subdivision of the state.
+22 (e) A special government body as defined in ORS 174.117.
+23 (f) A federally recognized Indian tribe.
+24 (8) “Groceries” means food as defined in 7 U.S.C. 2012(k), but does not include cannabinoid
+25 edibles or marijuana seeds.
+26 (9)(a) “Hedging transaction” means a hedging transaction as defined in section 1221 of the
+27 Internal Revenue Code or a transaction accorded hedge accounting treatment under Financial Ac-
+28 counting Standards Board Statement No. 133.
+29 (b) “Hedging transaction” does not include a transaction in which an actual transfer of title of
+30 real or tangible property to another entity occurs.
+31 (10) “Insurer” has the meaning given that term in ORS 317.010.
+32 (11) “Internal Revenue Code,” except where the Legislative Assembly has provided otherwise,
+33 refers to the laws of the United States or to the Internal Revenue Code as they are amended and
+34 in effect on December 31, [2023] 2025.
+35 (12) “Labor costs” means total compensation of all employees, not to include compensation paid
+36 to any single employee in excess of $500,000.
+37 (13)(a) “Motor vehicle fuel or any other product used for the propulsion of motor vehicles”
+38 means:
+39 (A) Motor vehicle fuel as defined in ORS 319.010; and
+40 (B) Fuel the use of which in a motor vehicle is subject to taxation under ORS 319.530.
+41 (b) “Motor vehicle fuel or any other product used for the propulsion of motor vehicles” does not
+42 mean:
+43 (A) Electricity; or
+44 (B) Electric batteries or any other mechanical or physical component or accessory of a motor
+45 vehicle.
+[33]
+
+MR A-Eng. SB 1507
+1 (14) “Person” includes individuals, combinations of individuals of any form, receivers, assignees,
+2 trustees in bankruptcy, firms, companies, joint-stock companies, business trusts, estates, partner-
+3 ships, limited liability partnerships, limited liability companies, associations, joint ventures, clubs,
+4 societies, entities organized as for-profit corporations under ORS chapter 60, C corporations, S cor-
+5 porations, qualified subchapter S subsidiaries, qualified subchapter S trusts, trusts, entities that are
+6 disregarded for federal income tax purposes and any other entities.
+7 (15) “Retailer” means a person doing business by selling tangible personal property to a pur-
+8 chaser for a purpose other than:
+9 (a) Resale by the purchaser of the property as tangible personal property in the regular course
+10 of business;
+11 (b) Incorporation by the purchaser of the property in the course of regular business as an in-
+12 gredient or component of real or personal property; or
+13 (c) Consumption by the purchaser of the property in the production for sale of a new article of
+14 tangible personal property.
+15 (16) “Taxable commercial activity” means commercial activity sourced to this state under ORS
+16 317A.128, less any subtraction pursuant to ORS 317A.119.
+17 (17)(a) “Taxpayer” means any person or unitary group required to register, file or pay tax under
+18 ORS 317A.100 to 317A.158.
+19 (b) “Taxpayer” does not include excluded persons, except to the extent that a tax-exempt entity
+20 has unrelated business income as described in the Internal Revenue Code.
+21 (18) “Tax year” means, except as otherwise provided in ORS 317A.103, a taxpayer’s annual ac-
+22 counting period used for federal income tax purposes under section 441 of the Internal Revenue
+23 Code.
+24 (19)(a) “Unitary business” means a business enterprise in which there exists directly or indi-
+25 rectly between the members or parts of the enterprise a sharing or exchange of value as demon-
+26 strated by:
+27 (A) Centralized management or a common executive force;
+28 (B) Centralized administrative services or functions resulting in economies of scale; or
+29 (C) Flow of goods, capital resources or services demonstrating functional integration.
+30 (b) “Unitary business” may include a business enterprise the activities of which:
+31 (A) Are in the same general line of business, such as manufacturing, wholesaling or retailing;
+32 or
+33 (B) Constitute steps in a vertically integrated process, such as the steps involved in the pro-
+34 duction of natural resources, which might include exploration, mining, refining and marketing.
+35 (20) “Unitary group” means a group of persons with more than 50 percent common ownership,
+36 either direct or indirect, that is engaged in business activities that constitute a unitary business.
+37 (21) “Wholesaler” means a person primarily doing business by merchant distribution of tangible
+38 personal property to retailers or to other wholesalers.
+39 SECTION 29. ORS 317A.100, as amended by section 20, chapter 4, Oregon Laws 2025, and sec-
+40 tion 6, chapter 502, Oregon Laws 2025, is amended to read:
+41 317A.100. As used in ORS 317A.100 to 317A.158:
+42 (1)(a) “Commercial activity” means:
+43 (A) The total amount realized by a person, arising from transactions and activity in the regular
+44 course of the person’s trade or business, without deduction for expenses incurred by the trade or
+45 business;
+[34]
+
+MR A-Eng. SB 1507
+1 (B) If received by a financial institution:
+2 (i) If the reporting person for a financial institution is a holding company, all items of income
+3 reported on the FR Y-9 filed by the holding company;
+4 (ii) If the reporting person for a financial institution is a bank organization, all items of income
+5 reported on the call report filed by the bank organization; and
+6 (iii) If the reporting person for a financial institution is a nonbank financial organization, all
+7 items of income reported in accordance with generally accepted accounting principles; and
+8 (C)(i) If received by an insurer, as reported on the statement of premiums accompanying the
+9 annual statement required under ORS 731.574 to be filed with the Director of the Department of
+10 Consumer and Business Services, all gross direct life insurance premiums, gross direct accident and
+11 health insurance premiums and gross direct property and casualty insurance premiums; and
+12 (ii) The gross amount of surplus lines premiums received on Oregon home state risks as shown
+13 in the report required by ORS 735.465.
+14 (b) “Commercial activity” does not include:
+15 (A) Interest income except:
+16 (i) Interest on credit sales; or
+17 (ii) Interest income, including service charges, received by financial institutions;
+18 (B) Receipts from the sale, exchange or other disposition of an asset described in section 1221
+19 or 1231 of the Internal Revenue Code, without regard to the length of time the person held the asset;
+20 (C) If received by an insurer, federally reinsured premiums or income from transactions between
+21 a reciprocal insurer and its attorney in fact operating under ORS 731.142;
+22 (D) Receipts from hedging transactions, to the extent that the transactions are entered into
+23 primarily to protect a financial position, including transactions intended to manage the risk of ex-
+24 posure to foreign currency fluctuations that affect assets, liabilities, profits, losses, equity or in-
+25 vestments in foreign operations, risk of exposure to interest rate fluctuations or risk of commodity
+26 price fluctuations;
+27 (E) Proceeds received attributable to the repayment, maturity or redemption of the principal of
+28 a loan, bond, mutual fund, certificate of deposit or marketable instrument;
+29 (F) The principal amount received under a repurchase agreement or on account of any trans-
+30 action properly characterized as a loan to the person;
+31 (G) Contributions received by a trust, plan or other arrangement, any of which is described in
+32 section 501(a) of the Internal Revenue Code, or to which title 26, subtitle A, chapter 1, subchapter
+33 (D) of the Internal Revenue Code applies;
+34 (H) Compensation, whether current or deferred, and whether in cash or in kind, received or to
+35 be received by an employee, a former employee or the employee’s legal successor for services ren-
+36 dered to or for an employer, including reimbursements received by or for an individual for medical
+37 or education expenses, health insurance premiums or employee expenses or on account of a de-
+38 pendent care spending account, legal services plan, any cafeteria plan described in section 125 of
+39 the Internal Revenue Code or any similar employee reimbursement;
+40 (I) Proceeds received from the issuance of the taxpayer’s own stock, options, warrants, puts or
+41 calls, or from the sale of the taxpayer’s treasury stock;
+42 (J) Proceeds received on the account of payments from insurance policies, including crop in-
+43 surance policies, owned by the taxpayer, except those proceeds received for the loss of commercial
+44 activity;
+45 (K) Gifts or charitable contributions received, membership dues received by trade, professional,
+[35]
+
+MR A-Eng. SB 1507
+1 homeowners’ or condominium associations, payments received for educational courses, meetings or
+2 meals, or similar payments to a trade, professional or other similar association, and fundraising re-
+3 ceipts received by any person when any excess receipts are donated or used exclusively for chari-
+4 table purposes;
+5 (L) Damages received as the result of litigation in excess of amounts that, if received without
+6 litigation, would be treated as commercial activity;
+7 (M) Property, money and other amounts received or acquired by an agent on behalf of another
+8 in excess of the agent’s commission, fee or other remuneration;
+9 (N) Tax refunds from any tax program, other tax benefit recoveries and reimbursements for the
+10 tax imposed under ORS 317A.100 to 317A.158 made by entities that are part of the same unitary
+11 group as provided under ORS 317A.106, and reimbursements made by entities that are not members
+12 of a unitary group that are required to be made for economic parity among multiple owners of an
+13 entity whose tax obligation under ORS 317A.100 to 317A.158 is required to be reported and paid
+14 entirely by one owner, as provided in ORS 317A.106;
+15 (O) Pension reversions;
+16 (P) Contributions to capital;
+17 (Q) Receipts from the sale, transfer, exchange or other disposition of motor vehicle fuel or any
+18 other product used for the propulsion of motor vehicles;
+19 (R) In the case of receipts from the sale of cigarettes or tobacco products by a wholesale dealer,
+20 retail dealer, distributor, manufacturer or seller, an amount equal to the federal and state excise
+21 taxes paid by any person on or for such cigarettes or tobacco products under subtitle E of the
+22 Internal Revenue Code or ORS chapter 323;
+23 (S) In the case of receipts from the sale of malt beverages or wine, as defined in ORS 471.001,
+24 cider, as defined in ORS 471.023 or distilled liquor, as defined in ORS 471.001, by a person holding
+25 a license issued under ORS chapter 471, an amount equal to the federal and state excise taxes paid
+26 by any person on or for such malt beverages, wine or distilled liquor under subtitle E of the Internal
+27 Revenue Code or ORS chapter 471 or 473, and any amount paid to the Oregon Liquor and Cannabis
+28 Commission for sales of distilled spirits by an agent appointed under ORS 471.750;
+29 (T) In the case of receipts from the sale of marijuana items, as defined in ORS 475C.009, by a
+30 person holding a license issued under ORS 475C.005 to 475C.525, an amount equal to the federal and
+31 state excise taxes paid by any person on or for such marijuana items under subtitle E of the Internal
+32 Revenue Code or ORS 475C.670 to 475C.734 and any local retail taxes authorized under ORS
+33 475C.453;
+34 (U) Local taxes collected by a restaurant or other food establishment on sales of meals, prepared
+35 food or beverages;
+36 (V) Tips or gratuities collected by a restaurant or other food establishment and passed on to
+37 employees;
+38 (W) Receipts realized by a vehicle dealer certified under ORS 822.020 or a person described in
+39 ORS 320.400 (8)(a)(B) from the sale or other transfer of a motor vehicle, as defined in ORS 801.360,
+40 to another vehicle dealer for the purpose of resale by the transferee vehicle dealer, but only if the
+41 sale or other transfer was based upon the transferee’s need to meet a specific customer’s preference
+42 for a motor vehicle or is an exchange of new vehicles between franchised motor vehicle dealerships;
+43 (X) Registration fees or taxes collected by a vehicle dealer certified under ORS 822.020 or a
+44 person described in ORS 320.400 (8)(a)(B) at the sale or other transfer of a motor vehicle, as defined
+45 in ORS 801.360, that are owed to a third party by the purchaser of the motor vehicle and passed to
+[36]
+
+MR A-Eng. SB 1507
+1 the third party by the dealer;
+2 (Y) Receipts from a financial institution for services provided to the financial institution in
+3 connection with the issuance, processing, servicing and management of loans or credit accounts, if
+4 the financial institution and the recipient of the receipts have at least 50 percent of their ownership
+5 interests owned or controlled, directly or constructively through related interests, by common own-
+6 ers;
+7 (Z) In the case of amounts retained as commissions by a holder of a license under ORS chapter
+8 462, an amount equal to the amounts specified under ORS chapter 462 that must be paid to or col-
+9 lected by the Department of Revenue as a tax and the amounts specified under ORS chapter 462 to
+10 be used as purse money;
+11 (AA) Receipts of residential care facilities as defined in ORS 443.400 or in-home care agencies
+12 as defined in ORS 443.305, to the extent that the receipts are derived from or received as compen-
+13 sation for providing services to a medical assistance or Medicare recipient;
+14 (BB) Dividends received;
+15 (CC) Distributive income received from a pass-through entity;
+16 (DD) Receipts from sales to a wholesaler in this state, if the seller receives certification at the
+17 time of sale from the wholesaler that the wholesaler will sell the purchased property outside this
+18 state;
+19 (EE) Receipts from the wholesale or retail sale of groceries, including receipts of a person that
+20 owns groceries at the time of sale and compensation of any consignee engaged in effecting the sale
+21 of groceries on behalf the owner of the groceries, but only to the extent that the compensation re-
+22 lates to grocery sales;
+23 (FF) Receipts from transactions among members of a unitary group;
+24 (GG) Moneys, including public purpose charge moneys collected under ORS 757.612 and moneys
+25 collected to plan for and pursue cost-effective energy efficiency resources under ORS 757.054, that
+26 are collected from customers, passed to a utility and approved by the Public Utility Commission and
+27 that support energy conservation, renewable resource acquisition and low-income assistance pro-
+28 grams;
+29 (HH) Moneys collected by a utility from customers for the payment of loans through on-bill fi-
+30 nancing;
+31 (II) Surcharges collected under ORS 757.736;
+32 (JJ) Moneys passed to a utility by the Bonneville Power Administration for the purpose of
+33 effectuating the Regional Power Act Exchange credits or pursuant to any settlement associated with
+34 the exchange credit;
+35 (KK) Moneys collected or recovered, by entities listed in ORS 756.310, cable operators as de-
+36 fined in 47 U.S.C. 522(5), telecommunications carriers as defined in 47 U.S.C. 153(51) and providers
+37 of information services as defined in 47 U.S.C. 153(24), for fees payable under ORS 756.310, right-of-
+38 way fees, franchise fees, privilege taxes, federal taxes and local taxes;
+39 (LL) Charges assessed under ORS 759.685 and paid into the Residential Service Protection Fund;
+40 (MM) Universal service surcharge moneys collected or recovered and paid into the universal
+41 service fund established in ORS 759.425;
+42 (NN) Moneys collected for public purpose funding as described in ORS 759.430;
+43 (OO) Moneys collected or recovered and paid into the federal universal service fund as deter-
+44 mined by the Federal Communications Commission;
+45 (PP) In the case of a seller or provider of telecommunications services, the amount of tax im-
+[37]
+
+MR A-Eng. SB 1507
+1 posed under ORS 403.200 for access to the emergency communications system that is collected from
+2 subscribers or consumers;
+3 (QQ) In the case of a transient lodging tax collector, the amount of tax imposed under ORS
+4 320.305 and of any local transient lodging tax imposed upon the occupancy of transit lodging;
+5 (RR) In the case of a seller of bicycles, the amount of tax imposed under ORS 320.415 upon retail
+6 sales of bicycles;
+7 (SS) In the case of a qualified heavy equipment provider, the amount of tax imposed under ORS
+8 307.872 upon the rental price of heavy equipment;
+9 (TT) Farmer sales to an agricultural cooperative in this state that is a cooperative organization
+10 described in section 1381 of the Internal Revenue Code;
+11 (UU) Revenue received by a business entity that is mandated by contract or subcontract to be
+12 distributed to another person or entity if the revenue constitutes sales commissions that are paid
+13 to a person who is not an employee of the business entity, including, without limitation, a split-fee
+14 real estate commission;
+15 (VV) Receipts from the sale of fluid milk by dairy farmers that are not members of an agricul-
+16 tural cooperative; and
+17 (WW)(i) Cost paid by a dealer for items of precious metal.
+18 (ii) As used in this subparagraph, “item of precious metal” means an item of gold, silver,
+19 platinum, rhodium or palladium that has been put through a process of smelting or refining and that
+20 is in a state or condition that its value depends on its contents and not its form.
+21 (2) “Cost inputs” means:
+22 (a) The cost of goods sold as calculated in arriving at federal taxable income under the Internal
+23 Revenue Code; or
+24 (b) In the case of a taxpayer that is engaged in a farming operation, as defined in ORS 317A.102,
+25 and that does not report cost of goods sold for federal tax purposes, the taxpayer’s operating ex-
+26 penses excluding labor costs.
+27 (3) “Doing business” means engaging in any activity, whether legal or illegal, that is conducted
+28 for, or results in, the receipt of commercial activity at any time during a calendar year.
+29 (4) “Excluded person” means any of the following:
+30 (a) Organizations described in sections 501(c) and 501(j) of the Internal Revenue Code, unless the
+31 exemption is denied under section 501(h), (i) or (m) or under section 502, 503 or 505 of the Internal
+32 Revenue Code.
+33 (b) Organizations described in section 501(d) of the Internal Revenue Code, unless the exemption
+34 is denied under section 502 or 503 of the Internal Revenue Code.
+35 (c) Organizations described in section 501(e) of the Internal Revenue Code.
+36 (d) Organizations described in section 501(f) of the Internal Revenue Code.
+37 (e) Charitable risk pools described in section 501(n) of the Internal Revenue Code.
+38 (f) Organizations described in section 521 of the Internal Revenue Code.
+39 (g) Qualified state tuition programs described in section 529 of the Internal Revenue Code.
+40 (h) Foreign or alien insurance companies, but only with respect to the underwriting profit de-
+41 rived from writing wet marine and transportation insurance subject to tax under ORS 731.824 and
+42 731.828 or if an insurance company is subject to the retaliatory tax under ORS 731.854 and 731.859.
+43 (i) Governmental entities.
+44 (j) Any person with commercial activity that does not exceed $750,000 for the tax year, other
+45 than a person that is part of a unitary group as provided in ORS 317A.106 with commercial activity
+[38]
+
+MR A-Eng. SB 1507
+1 in excess of $750,000.
+2 (k) Long term care facilities subject to assessment under ORS 409.801.
+3 (L) Manufactured dwelling park nonprofit cooperatives organized under ORS chapter 62.
+4 (5) “Financial institution” has the meaning given that term in ORS 314.610, except that “finan-
+5 cial institution” does not include a credit union.
+6 (6)(a) “FR Y-9” means the consolidated or parent-only financial statements that a holding com-
+7 pany is required to file with the Federal Reserve Board pursuant to 12 U.S.C. 1844.
+8 (b) In the case of a holding company required to file both consolidated and parent-only financial
+9 statements, “FR Y-9” means the consolidated financial statements that the holding company is re-
+10 quired to file.
+11 (7) “Governmental entity” means:
+12 (a) The United States and any of its unincorporated agencies and instrumentalities.
+13 (b) Any incorporated agency or instrumentality of the United States wholly owned by the United
+14 States or by a corporation wholly owned by the United States.
+15 (c) The State of Oregon and any of its unincorporated agencies and instrumentalities.
+16 (d) Any county, city, district or other political subdivision of the state.
+17 (e) A special government body as defined in ORS 174.117.
+18 (f) A federally recognized Indian tribe.
+19 (8) “Groceries” means food as defined in 7 U.S.C. 2012(k), but does not include cannabinoid
+20 edibles or marijuana seeds.
+21 (9)(a) “Hedging transaction” means a hedging transaction as defined in section 1221 of the
+22 Internal Revenue Code or a transaction accorded hedge accounting treatment under Financial Ac-
+23 counting Standards Board Statement No. 133.
+24 (b) “Hedging transaction” does not include a transaction in which an actual transfer of title of
+25 real or tangible property to another entity occurs.
+26 (10) “Insurer” has the meaning given that term in ORS 317.010.
+27 (11) “Internal Revenue Code,” except where the Legislative Assembly has provided otherwise,
+28 refers to the laws of the United States or to the Internal Revenue Code as they are amended and
+29 in effect on December 31, [2023] 2025.
+30 (12) “Labor costs” means total compensation of all employees, not to include compensation paid
+31 to any single employee in excess of $500,000.
+32 (13)(a) “Motor vehicle fuel or any other product used for the propulsion of motor vehicles”
+33 means:
+34 (A) Motor vehicle fuel as defined in ORS 319.010; and
+35 (B) Fuel the use of which in a motor vehicle is subject to taxation under ORS 319.530.
+36 (b) “Motor vehicle fuel or any other product used for the propulsion of motor vehicles” does not
+37 mean:
+38 (A) Electricity; or
+39 (B) Electric batteries or any other mechanical or physical component or accessory of a motor
+40 vehicle.
+41 (14) “Person” includes individuals, combinations of individuals of any form, receivers, assignees,
+42 trustees in bankruptcy, firms, companies, joint-stock companies, business trusts, estates, partner-
+43 ships, limited liability partnerships, limited liability companies, associations, joint ventures, clubs,
+44 societies, entities organized as for-profit corporations under ORS chapter 60, C corporations, S cor-
+45 porations, qualified subchapter S subsidiaries, qualified subchapter S trusts, trusts, entities that are
+[39]
+
+MR A-Eng. SB 1507
+1 disregarded for federal income tax purposes and any other entities.
+2 (15) “Retailer” means a person doing business by selling tangible personal property to a pur-
+3 chaser for a purpose other than:
+4 (a) Resale by the purchaser of the property as tangible personal property in the regular course
+5 of business;
+6 (b) Incorporation by the purchaser of the property in the course of regular business as an in-
+7 gredient or component of real or personal property; or
+8 (c) Consumption by the purchaser of the property in the production for sale of a new article of
+9 tangible personal property.
+10 (16) “Taxable commercial activity” means commercial activity sourced to this state under ORS
+11 317A.128, less any subtraction pursuant to ORS 317A.119.
+12 (17)(a) “Taxpayer” means any person or unitary group required to register, file or pay tax under
+13 ORS 317A.100 to 317A.158.
+14 (b) “Taxpayer” does not include excluded persons, except to the extent that a tax-exempt entity
+15 has unrelated business income as described in the Internal Revenue Code.
+16 (18) “Tax year” means, except as otherwise provided in ORS 317A.103, a taxpayer’s annual ac-
+17 counting period used for federal income tax purposes under section 441 of the Internal Revenue
+18 Code.
+19 (19)(a) “Unitary business” means a business enterprise in which there exists directly or indi-
+20 rectly between the members or parts of the enterprise a sharing or exchange of value as demon-
+21 strated by:
+22 (A) Centralized management or a common executive force;
+23 (B) Centralized administrative services or functions resulting in economies of scale; or
+24 (C) Flow of goods, capital resources or services demonstrating functional integration.
+25 (b) “Unitary business” may include a business enterprise the activities of which:
+26 (A) Are in the same general line of business, such as manufacturing, wholesaling or retailing;
+27 or
+28 (B) Constitute steps in a vertically integrated process, such as the steps involved in the pro-
+29 duction of natural resources, which might include exploration, mining, refining and marketing.
+30 (20) “Unitary group” means a group of persons with more than 50 percent common ownership,
+31 either direct or indirect, that is engaged in business activities that constitute a unitary business.
+32 (21) “Wholesaler” means a person primarily doing business by merchant distribution of tangible
+33 personal property to retailers or to other wholesalers.
+34 SECTION 30. ORS 458.670 is amended to read:
+35 458.670. As used in this section and ORS 458.675 to 458.700, unless the context requires other-
+36 wise:
+37 (1) “Account holder” means a resident of this state who:
+38 (a) Is 12 years of age or older;
+39 (b) Is a member of a lower income household; and
+40 (c) Has established an individual development account with a fiduciary organization.
+41 (2) “Fiduciary organization” means an organization selected under ORS 458.695 to administer
+42 state moneys directed to individual development accounts and that is:
+43 (a) A nonprofit, fund raising organization that is exempt from taxation under section 501(c)(3)
+44 of the Internal Revenue Code as amended and in effect on December 31, [2023] 2025; or
+45 (b) A federally recognized Oregon Indian tribe that is located, to a significant degree, within the
+[40]
+
+MR A-Eng. SB 1507
+1 boundaries of this state.
+2 (3) “Financial institution” means:
+3 (a) An organization regulated under ORS chapters 706 to 716 or 723; or
+4 (b) In the case of individual development accounts established for the purpose described in ORS
+5 458.685 (1)(c), a financial institution as defined in ORS 178.300.
+6 (4) “Individual development account” means a contract between an account holder and a
+7 fiduciary organization, for the deposit of funds into a financial institution by the account holder and
+8 the deposit of matching funds into a designated account by the fiduciary organization, to allow the
+9 account holder to accumulate assets for use toward achieving a specific purpose approved by the
+10 fiduciary organization.
+11 (5) “Lower income household” means a household having an income equal to or less than the
+12 greater of the following:
+13 (a) 80 percent of the median household income for the area as determined by the Housing and
+14 Community Services Department. In making the determination, the department shall give consider-
+15 ation to any data on area household income published by the United States Department of Housing
+16 and Urban Development.
+17 (b) 200 percent of the poverty guidelines as determined by the Housing and Community Services
+18 Department. In making the determination, the department shall give consideration to poverty
+19 guidelines published by the United States Department of Health and Human Services and may con-
+20 sider other income data periodically published by other federal or Oregon agencies.
+21 (6)(a) “Net worth” means a calculation based on the net value of assets of a household estab-
+22 lished by rule by the Housing and Community Services Department.
+23 (b) “Net worth” does not include:
+24 (A) Equity in one residence and in one vehicle.
+25 (B) Holdings in pension accounts valued at less than $120,000.
+26 (7) “Resident of this state” has the meaning given that term in ORS 316.027.
+27 SECTION 31. ORS 657.010 is amended to read:
+28 657.010. As used in this chapter, unless the context requires otherwise:
+29 (1) “Base year” means the first four of the last five completed calendar quarters preceding the
+30 benefit year.
+31 (2) “Benefits” means the money allowances payable to unemployed persons under this chapter.
+32 (3) “Benefit year” means a period of 52 consecutive weeks commencing with the first week with
+33 respect to which an individual files an initial valid claim for benefits, and thereafter the 52 consec-
+34 utive weeks period beginning with the first week with respect to which the individual next files an
+35 initial valid claim after the termination of the individual’s last preceding benefit year except that
+36 the benefit year shall be 53 weeks if the filing of an initial valid claim would result in overlapping
+37 any quarter of the base year of a previously filed initial valid claim.
+38 (4) “Calendar quarter” means the period of three consecutive calendar months ending on March
+39 31, June 30, September 30 or December 31, or the approximate equivalent thereof, as the Director
+40 of the Employment Department may, by rule, prescribe.
+41 (5) “Client employer” means an employer that enters into a PEO relationship.
+42 (6) “Client worker” means an individual who performs services for compensation for the client
+43 of a professional employer organization.
+44 (7) “Contribution” or “contributions” means the money payments required by this chapter, or
+45 voluntary payments permitted, to be made to the Unemployment Compensation Trust Fund.
+[41]
+
+MR A-Eng. SB 1507
+1 (8) “Covered employee” means a client worker for whom a PEO has assumed employer respon-
+2 sibilities under a PEO relationship.
+3 (9) “Educational institution,” including an institution of higher education, means an institution:
+4 (a) In which participants, trainees or students are offered an organized course of study or
+5 training designed to transfer to them knowledge, skills, information, doctrines, attitudes or abilities
+6 from, by or under the guidance of an instructor or teacher;
+7 (b) That is accredited, registered, approved, licensed or issued a permit to operate as a school
+8 by the Department of Education or other government agency, or that offers courses for credit that
+9 are transferable to an approved, registered or accredited school;
+10 (c) In which the course or courses of study or training that it offers may be academic, technical,
+11 trade or preparation for gainful employment in a recognized occupation; and
+12 (d) In which the course or courses of study or training are offered on a regular and continuing
+13 basis.
+14 (10) “Employment office” means a free public employment office or branch thereof, operated by
+15 this state or maintained as a part of a state-controlled system of public employment offices.
+16 (11) “Hospital” has the meaning given that term in ORS 442.015.
+17 (12) “Institution of higher education” means an educational institution that:
+18 (a) Admits as regular students only individuals having a certificate of graduation from a high
+19 school, or the recognized equivalent of such a certificate;
+20 (b) Is legally authorized in this state to provide a program of education beyond high school;
+21 (c) Provides an educational program for which it awards a bachelor’s or higher degree, or pro-
+22 vides a program that is acceptable for full credit toward such a degree, a program of post-graduate
+23 or post-doctoral studies, or a program of training to prepare students for gainful employment in a
+24 recognized occupation; and
+25 (d) Is a public or other nonprofit institution.
+26 (13) “Instructional capacity” does not include services performed as an instructional assistant
+27 as defined in ORS 342.120.
+28 (14) “Internal Revenue Code” means the federal Internal Revenue Code, as amended and in ef-
+29 fect on December 31, [2023] 2025.
+30 (15) “Labor dispute” means any concerted or deliberate action by two or more individuals or
+31 by an employing unit resulting in either a strike or lockout in which wages, hours, working condi-
+32 tions or terms of employment of the individuals are involved.
+33 (16) “Lockout” means any refusal by an employer to permit employees to work as a result of a
+34 dispute with the employees affecting wages, hours or other terms or conditions of their employment.
+35 (17) “Nonprofit employing unit” means an organization, or group of organizations, described in
+36 section 501(c)(3) of the Internal Revenue Code that is exempt from income tax under section 501(a)
+37 of the Internal Revenue Code.
+38 (18) “PEO relationship” means an agreement between a PEO and a client employer under which
+39 certain employer responsibilities for some or all of the client employer’s workers are allocated.
+40 (19)(a) “Professional employer organization” or “PEO” means a person required to be licensed
+41 under ORS 656.855 that enters into a PEO relationship with a client employer.
+42 (b) “Professional employer organization” or “PEO” does not mean a person that solely provides
+43 workers to a client on a temporary basis or a person that provides payroll processing or similar
+44 administrative services without assuming employer responsibilities for client workers.
+45 (20) “State” includes, in addition to the states of the United States of America, the District of
+[42]
+
+MR A-Eng. SB 1507
+1 Columbia and Puerto Rico. However, for all purposes of this chapter the Virgin Islands shall be
+2 considered a state on and after the day on which the United States Secretary of Labor first approves
+3 the Virgin Islands’ law under section 3304(a) of the Federal Unemployment Tax Act as amended by
+4 Public Law 94-566.
+5 (21) “Strike” means any concerted act of employees in a lawful refusal under applicable state
+6 or federal law to perform work or services for an employer.
+7 (22) “Taxes” means contributions.
+8 (23) “Temporary basis” means providing workers to a client:
+9 (a) For special situations, including but not limited to employee absences, employee leaves,
+10 professional skill shortages, seasonal workloads and special assignments and projects with the ex-
+11 pectation that the position will be terminated when the special situation ends.
+12 (b) As probationary new hires with a reasonable expectation of transitioning to permanent em-
+13 ployment with the client, if the client uses a preestablished probationary period in its overall em-
+14 ployment selection program.
+15 (24) “Valid claim” means any claim for benefits made in accordance with ORS 657.260 if the
+16 individual meets the wages-paid-for-employment requirements of ORS 657.150.
+17 (25) “Week” means any period of seven consecutive calendar days ending at midnight, as the
+18 director may prescribe by rule.
+19 SECTION 32. ORS 657B.010 is amended to read:
+20 657B.010. As used in this chapter:
+21 (1) “Alternate base year” means the last four completed calendar quarters preceding the benefit
+22 year.
+23 (2) “Average weekly wage” means the amount calculated by the Employment Department as the
+24 state average weekly covered wage under ORS 657.150 (4)(e) as determined not more than once per
+25 year.
+26 (3) “Base year” means the first four of the last five completed calendar quarters preceding the
+27 benefit year.
+28 (4) “Benefits” means family and medical leave insurance benefits.
+29 (5)(a) “Benefit year” means, except as provided in paragraph (b) of this subsection, a period of
+30 52 consecutive weeks beginning on the Sunday immediately preceding the date on which family
+31 leave, medical leave or safe leave commences.
+32 (b) “Benefit year” means, in the event that the 52-week period described in paragraph (a) of this
+33 subsection would result in an overlap of any quarter of the base year of a previously filed valid
+34 claim, a period of 53 consecutive weeks beginning on the Sunday immediately preceding the date
+35 on which family leave, medical leave or safe leave commences.
+36 (6) “Child” means:
+37 (a) A biological child, adopted child, stepchild or foster child of a covered individual or of the
+38 covered individual’s spouse or domestic partner;
+39 (b) A person who is or was a legal ward of a covered individual or of the covered individual’s
+40 spouse or domestic partner; or
+41 (c) A person who is or was in a relationship of in loco parentis with a covered individual or
+42 with the covered individual’s spouse or domestic partner.
+43 (7) “Claimant” means an individual who has submitted an application or established a claim for
+44 benefits.
+45 (8) “Contribution” or “contributions” means the money payments made by any of the following
+[43]
+
+MR A-Eng. SB 1507
+1 under ORS 657B.150:
+2 (a) An employer;
+3 (b) An employee;
+4 (c) A self-employed individual;
+5 (d) A tribal government; or
+6 (e) An employee of a tribal government.
+7 (9) “Covered individual” means any one of the following who qualifies under ORS 657B.015 to
+8 receive family and medical leave insurance benefits:
+9 (a) An eligible employee;
+10 (b) A self-employed individual; or
+11 (c) An employee of a tribal government.
+12 (10) “Domestic partner” means an individual joined in a domestic partnership.
+13 (11) “Domestic partnership” has the meaning given that term in ORS 106.310.
+14 (12) “Eligible employee” means:
+15 (a)(A) An employee who has earned at least $1,000 in wages during the base year; or
+16 (B) If an employee has not earned at least $1,000 in wages during the base year, an employee
+17 who has earned at least $1,000 in wages during the alternate base year; and
+18 (b) An employee to whom paid family and medical leave insurance benefits may be available
+19 under ORS 657B.015.
+20 (13) “Eligible employee’s average weekly wage” means an amount calculated by the Director of
+21 the Employment Department by dividing the total wages earned by an eligible employee during the
+22 base year by the number of weeks in the base year.
+23 (14)(a) “Employee” means:
+24 (A) An individual performing services for an employer for remuneration or under any contract
+25 of hire, written or oral, express or implied.
+26 (B) A home care worker as defined in ORS 410.600.
+27 (b) “Employee” does not include:
+28 (A) An independent contractor as defined in ORS 670.600.
+29 (B) A participant in a work training program administered under a state or federal assistance
+30 program.
+31 (C) A participant in a work-study program that provides students in secondary or postsecondary
+32 educational institutions with employment opportunities for financial assistance or vocational train-
+33 ing.
+34 (D) A railroad worker exempted under the federal Railroad Unemployment Insurance Act.
+35 (E) A volunteer.
+36 (F) A judge as defined in ORS 260.005.
+37 (G) A member of the Legislative Assembly.
+38 (H) A holder of public office as defined in ORS 260.005.
+39 (15)(a) “Employer” means any person that employs one or more employees working anywhere in
+40 this state or any agent or employee of such person to whom the duties of the person under this
+41 chapter have been delegated.
+42 (b) “Employer” includes:
+43 (A) A political subdivision of this state or any county, city, district, authority or public corpo-
+44 ration, or any instrumentality of a county, city, district, authority or public corporation, organized
+45 and existing under law or charter;
+[44]
+
+MR A-Eng. SB 1507
+1 (B) An individual;
+2 (C) Any type of organization, corporation, partnership, limited liability company, association,
+3 trust, estate, joint stock company or insurance company;
+4 (D) Any successor in interest to an entity described in subparagraph (C) of this paragraph;
+5 (E) A trustee, trustee in bankruptcy or receiver; or
+6 (F) A trustee or legal representative of a deceased person.
+7 (c) “Employer” does not include the federal government or a tribal government.
+8 (16) “Employment agency” has the meaning given that term in ORS 658.005.
+9 (17) “Family and medical leave insurance benefits” means the wage replacement benefits that
+10 are available to a covered individual under ORS 657B.050 or under the terms of an employer plan
+11 approved under ORS 657B.210, for family leave, medical leave or safe leave.
+12 (18)(a) “Family leave” means leave from work taken by a covered individual:
+13 (A) To care for and bond with a child during the first year after the child’s birth or during the
+14 first year after the placement of the child through foster care or adoption;
+15 (B) To effectuate the legal process required for placement of a foster child or the adoption of
+16 a child; or
+17 (C) To care for a family member with a serious health condition.
+18 (b) “Family leave” does not mean:
+19 (A) Leave described in ORS 659A.159 (1)(a) except for leave to care for a child who requires
+20 home care due to an illness, injury or condition that is a serious health condition;
+21 (B) Leave described in ORS 659A.159 (1)(b); or
+22 (C) Leave authorized under ORS 659A.093.
+23 (19) “Family member” means:
+24 (a) The spouse of a covered individual;
+25 (b) A child or the child’s spouse or domestic partner;
+26 (c) A parent or the parent’s spouse or domestic partner;
+27 (d) A sibling or stepsibling of a covered individual or the sibling’s or stepsibling’s spouse or
+28 domestic partner;
+29 (e) A grandparent of a covered individual or the grandparent’s spouse or domestic partner;
+30 (f) A grandchild of a covered individual or the grandchild’s spouse or domestic partner;
+31 (g) The domestic partner of a covered individual; or
+32 (h) Any individual related by blood or affinity whose close association with a covered individual
+33 is the equivalent of a family relationship.
+34 (20) “Medical leave” means leave from work taken by a covered individual that is made neces-
+35 sary by the individual’s own serious health condition.
+36 (21) “Parent” means:
+37 (a) A biological parent, adoptive parent, stepparent or foster parent of a covered individual;
+38 (b) A person who was a foster parent of a covered individual when the covered individual was
+39 a minor;
+40 (c) A person designated as the legal guardian of a covered individual at the time the covered
+41 individual was a minor or required a legal guardian;
+42 (d) A person with whom a covered individual was or is in a relationship of in loco parentis; or
+43 (e) A parent of a covered individual’s spouse or domestic partner who meets a description under
+44 paragraphs (a) to (d) of this subsection.
+45 (22) “Safe leave” means leave taken for any purpose described in ORS 659A.272.
+[45]
+
+MR A-Eng. SB 1507
+1 (23) “Self-employed individual” means:
+2 (a) An individual who has self-employment income as defined in section 1402(b) of the Internal
+3 Revenue Code as amended and in effect on December 31, [2023] 2025; or
+4 (b) An independent contractor as defined in ORS 670.600.
+5 (24) “Serious health condition” means:
+6 (a) An illness, injury, impairment or physical or mental condition that requires inpatient care
+7 in a hospital, hospice or residential medical care facility;
+8 (b) An illness, disease or condition that in the medical judgment of the treating health care
+9 provider poses an imminent danger of death, is terminal in prognosis with a reasonable possibility
+10 of death in the near future, or requires constant care;
+11 (c) Any period of disability due to pregnancy, or period of absence for prenatal care; or
+12 (d) Any period of absence for the donation of a body part, organ or tissue, including preoperative
+13 or diagnostic services, surgery, post-operative treatment and recovery.
+14 (25) “Third party administrator” means a third party that enters into an agreement with the
+15 Director of the Employment Department to implement and administer the paid family and medical
+16 leave program established under this chapter.
+17 (26) “Tribal government” means:
+18 (a) A tribal government as defined in ORS 181A.940; or
+19 (b) A federally recognized Indian tribe.
+20 (27)(a) “Wages” has the meaning given that term in ORS 657.105.
+21 (b) “Wages” does not mean contribution amounts paid to the Paid Family and Medical Leave
+22 Insurance Fund by an employer on behalf of an employee under ORS 657B.150 (5).
+23 SECTION 33. (1) Except as provided in subsections (2) and (3) of this section, the
+24 amendments to statutes by sections 1 to 32 of this 2026 Act apply to transactions or activities
+25 occurring on or after January 1, 2026, in tax years beginning on or after January 1, 2026.
+26 (2) The effective and applicable dates, and the exceptions, special rules and coordination
+27 with the Internal Revenue Code, as amended, relative to those dates, contained in federal law
+28 amending the Internal Revenue Code and enacted before January 1, 2026, apply for Oregon
+29 personal income and corporate excise and income tax purposes, to the extent they can be
+30 made applicable, in the same manner as they are applied under the Internal Revenue Code
+31 and related federal law.
+32 (3)(a) If a deficiency is assessed against any taxpayer for a tax year beginning before
+33 January 1, 2026, and the deficiency or any portion thereof is attributable to any retroactive
+34 treatment under the amendments to ORS 178.300, 178.375, 305.239, 305.494, 305.690, 305.842,
+35 314.011, 314.306, 315.004, 316.012, 316.147, 316.157, 317.010, 317.097 and 317A.100 by sections 1, 2
+36 and 16 to 29 of this 2026 Act, then any interest or penalty assessed under ORS chapter 305,
+37 314, 315, 316, 317, 317A or 318 with respect to the deficiency or portion thereof shall be can-
+38 celed.
+39 (b) If a refund is due any taxpayer for a tax year beginning before January 1, 2026, and
+40 the refund or any portion thereof is due the taxpayer on account of any retroactive treat-
+41 ment under the amendments to ORS 178.300, 178.375, 305.239, 305.494, 305.690, 305.842, 314.011,
+42 314.306, 315.004, 316.012, 316.147, 316.157, 317.010, 317.097 and 317A.100 by sections 1, 2 and 16
+43 to 29 of this 2026 Act for a tax year beginning before January 1, 2026, then notwithstanding
+44 ORS 305.270 or 314.415 or any other law, the refund or portion thereof shall be paid without
+45 interest.
+[46]
+
+MR A-Eng. SB 1507
+1 (c) Any changes required because of the amendments to ORS 178.300, 178.375, 305.239,
+2 305.494, 305.690, 305.842, 314.011, 314.306, 315.004, 316.012, 316.147, 316.157, 317.010, 317.097 and
+3 317A.100 by sections 1, 2 and 16 to 29 of this 2026 Act for a tax year beginning before January
+4 1, 2026, shall be made by filing an amended return within the time prescribed by law.
+5 (d) If a taxpayer fails to file an amended return under paragraph (c) of this subsection,
+6 the Department of Revenue shall make any changes under paragraph (c) of this subsection
+7 on the return to which the changes relate within the period specified for issuing a notice of
+8 deficiency or claiming a refund as otherwise provided by law with respect to that return, or
+9 within one year after a return for a tax year beginning on or after January 1, 2026, and be-
+10 fore January 1, 2027, is filed, whichever period expires later.
+11 SECTION 34. ORS 315.266 is amended to read:
+12 315.266. (1)(a) In addition to any other credit available for purposes of ORS chapter 316, an eli-
+13 gible resident individual shall be allowed a credit against the tax otherwise due under ORS chapter
+14 316 for the tax year in an amount equal to [nine] 14 percent of the earned income credit allowable
+15 to the individual for the same tax year under section 32 of the Internal Revenue Code.
+16 (b) Notwithstanding paragraph (a) of this subsection, for a taxpayer with a dependent under the
+17 age of three at the close of the tax year, the credit allowed under this section shall be in an amount
+18 equal to [12] 17 percent of the earned income credit allowable to the individual for the same tax
+19 year under section 32 of the Internal Revenue Code.
+20 (2) A resident individual may claim a credit under this section, using either a Social Security
+21 number or an individual taxpayer identification number, if, but for section 32(m) of the Internal
+22 Revenue Code, the individual would otherwise be eligible to claim a credit under section 32 of the
+23 Internal Revenue Code. The credit allowed as provided in this subsection shall equal the percent-
+24 age, as stated in subsection (1) of this section, of the amount that would be allowed on a federal
+25 return, based on the amount of the individual’s earned income and the other provisions of section
+26 32 of the Internal Revenue Code.
+27 (3) An eligible nonresident individual shall be allowed the credit computed in the same manner
+28 and subject to the same limitations as the credit allowed a resident by subsection (1) or (2) of this
+29 section. However, the credit shall be prorated using the proportion provided in ORS 316.117.
+30 (4) If a change in the taxable year of a taxpayer occurs as described in ORS 314.085, or if the
+31 Department of Revenue terminates the taxpayer’s taxable year under ORS 314.440, the credit al-
+32 lowed by this section shall be prorated or computed in a manner consistent with ORS 314.085.
+33 (5) If a change in the status of a taxpayer from resident to nonresident or from nonresident to
+34 resident occurs, the credit allowed by this section shall be determined in a manner consistent with
+35 ORS 316.117.
+36 (6) If the amount allowable as a credit under this section, when added to the sum of the amounts
+37 allowable as payment of tax under ORS 316.187 or 316.583, other tax prepayment amounts and other
+38 refundable credit amounts, exceeds the taxes imposed by ORS chapters 314 and 316 for the tax year
+39 after application of any nonrefundable credits allowable for purposes of ORS chapter 316 for the tax
+40 year, the amount of the excess shall be refunded to the taxpayer as provided in ORS 316.502.
+41 (7) The Department of Revenue may adopt rules for purposes of this section, including but not
+42 limited to rules relating to proof of eligibility, the furnishing of information regarding the federal
+43 earned income credit claimed by the taxpayer for the tax year and policies and guidelines for the
+44 determination of the amount of credit allowed under subsection (2) of this section.
+45 (8) Refunds attributable to the earned income credit allowed under this section do not bear in-
+[47]
+
+MR A-Eng. SB 1507
+1 terest.
+2 SECTION 35. The amendments to ORS 315.266 by section 34 of this 2026 Act apply to tax
+3 years beginning on or after January 1, 2026.
+4 SECTION 36. This 2026 Act takes effect on the 91st day after the date on which the 2026
+5 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+6
+[48]

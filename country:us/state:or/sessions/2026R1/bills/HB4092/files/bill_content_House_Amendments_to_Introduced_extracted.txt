@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - House Amendments to Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+HOUSE AMENDMENTS TO
+HOUSE BILL 4092
+By COMMITTEE ON COMMERCE AND CONSUMER PROTECTION
+February 16
+1 On page 1 of the printed bill, line 2, after “systems” delete the rest of the line and insert a pe-
+2 riod.
+3 In line 6, delete “who weighs 80 pounds or less”.
+4 In line 10, after “the” delete the rest of the line and line 11 and insert “effective date of this
+5 2026 Act.”.
+6 Delete lines 17 through 22 and insert:
+7 “(f)(A) ‘Retail platform operator’ means a person that operates an online or other marketplace
+8 that enables purchasers to select, pay for and receive a child safety system and:
+9 “(i) Offers child safety systems for sale by the person or by other, third party sellers that offer
+10 goods through the marketplace for which the marketplace is the seller of record; or
+11 “(ii) Fulfills orders for child safety systems through a centralized fulfillment, distribution or
+12 warehouse network and from inventory that the person owns, leases or otherwise controls.
+13 “(B) ‘Retail platform operator’ does not include:
+14 “(i) A financial institution, as defined in ORS 706.008, a payment processor or payment clearance
+15 system operator; or
+16 “(ii) A person that facilitates transactions on behalf of a retailer that is the seller of record and
+17 fulfillment occurs from a physical retail location of the retailer.”.
+18 On page 2, line 1, after “not” insert “knowingly”.
+19 In line 2, after “not” insert “knowingly”.
+20 Delete lines 5 through 10.
+21 In line 11, delete “(4)” and insert “(3)”.
+22 Delete lines 17 through 45 and delete pages 3 through 5 and insert:
+23 “(4) A person that violates subsection (2) or (3) of this section shall, upon a written demand from
+24 a purchaser, cure the violation within 30 days after receiving the purchaser’s demand.
+25 “(5)(a) A purchaser who delivers a written demand under subsection (4) of this section may,
+26 within 30 days after the date of the purchaser’s demand, bring an action in a court of this state
+27 against a person that fails to cure a violation of subsection (2) or (3) of this section. The purchaser
+28 may obtain in the action:
+29 “(A) The greater of the purchaser’s actual damages or statutory damages of $500; and
+30 “(B) Such other equitable relief as the court may specify.
+31 “(b) The court may award attorney fees and costs at trial and on appeal to a prevailing
+32 plaintiff.”.
+33
+LC 285/HB 4092-2

@@ -1,0 +1,706 @@
+Title: 
+Official Title: 
+Source: versions - A-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+A-Engrossed
+Senate Bill 1601
+Ordered by the Senate March 4
+Including Senate Amendments dated March 4
+Sponsored by JOINT COMMITTEE ON WAYS AND MEANS (at the request of Senator Kate Lieber)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act makes changes to the law that are related to budget decisions. (Flesch
+Readability Score: 69.9).
+[Digest: The Act fixes an error in a law about judicial pay. (Flesch Readability Score: 72.6).]
+Amends an incorrect internal reference in a law relating to judicial compensation. Extends the
+deadline for sex offender classification. Modifies reporting requirements relating to summer
+learning grants. Eliminates references to monthly pay for certain state officials. Authorizes
+the use of certain funding for PCB testing.
+Transfers specified moneys to the General Fund for general governmental purposes.
+Transfers certain moneys and redirects certain revenues for Department of Transportation
+operations and maintenance.
+Removes the cap on transfers of lottery moneys to the County Fair Account.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to state financial administration; creating new provisions; amending ORS 292.010, 292.039,
+3 292.311, 292.411, 292.930, 327.342, 327.008 and 565.447 and section 7, chapter 708, Oregon Laws
+4 2013, and section 71d, chapter 750, Oregon Laws 2017; and declaring an emergency.
+5 Be It Enacted by the People of the State of Oregon:
+6
+7 JUDICIAL SALARIES
+8
+9 SECTION 1. ORS 292.411 is amended to read:
+10 292.411. (1)(a) The annual salary of the Chief Justice of the Supreme Court shall be $157,076 for
+11 the period beginning on January 1, 2019, and ending on June 30, 2020.
+12 (b) On July 1, 2020, the annual salary of the Chief Justice of the Supreme Court, as adjusted
+13 under ORS 292.428, shall be increased by $5,000.
+14 (c) On July 1, 2025, the annual salary of the Chief Justice of the Supreme Court shall be
+15 $224,784.
+16 (d) On July 1, 2027, the annual salary of the Chief Justice of the Supreme Court shall be 110
+17 percent of the salary specified in paragraph (c) of this subsection, as adjusted under ORS 292.428.
+18 (2)(a) The annual salary of each other judge of the Supreme Court shall be $154,040 for the pe-
+19 riod beginning on January 1, 2019, and ending on June 30, 2020.
+20 (b) On July 1, 2020, the annual salary of each other judge of the Supreme Court, as adjusted
+21 under ORS 292.428, shall be increased by $5,000.
+22 (c) On July 1, 2025, the annual salary of each other judge of the Supreme Court shall be
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 319
+
+A-Eng. SB 1601
+1 $220,596.
+2 (d) On July 1, 2027, the annual salary of each other judge of the Supreme Court shall be 110
+3 percent of the salary specified in [subsection (3) of this section] paragraph (c) of this subsection,
+4 as adjusted under ORS 292.428.
+5
+6 SEX OFFENDER CLASSIFICATION
+7
+8 SECTION 2. Section 7, chapter 708, Oregon Laws 2013, as amended by section 27, chapter 820,
+9 Oregon Laws 2015, section 31, chapter 442, Oregon Laws 2017, section 1, chapter 488, Oregon Laws
+10 2017, and section 1, chapter 430, Oregon Laws 2019, is amended to read:
+11 Sec. 7. (1) As used in this section and ORS 163A.200 to 163A.210:
+12 (a) “Event triggering the obligation to make an initial report” has the meaning given that term
+13 in ORS 163A.110.
+14 (b) “Existing registrant” means a person for whom the event triggering the obligation to make
+15 an initial report under ORS 163A.010 (3)(a)(A), 163A.015 (4)(a)(A) or 163A.020 (1)(a)(A), (2)(a)(A) or
+16 (3)(a)(A) occurs before January 1, 2014.
+17 (2)(a) No later than [December 1, 2026] June 30, 2030, the State Board of Parole and Post-Prison
+18 Supervision shall classify existing registrants in one of the levels described in ORS 163A.100. The
+19 Department of State Police shall enter the results of the classifications described in this section into
+20 the Law Enforcement Data System within a reasonable time after receipt.
+21 (b) The board shall classify an existing registrant as a level three sex offender under ORS
+22 163A.100 (3), if:
+23 (A) The person was previously designated a predatory sex offender and the designation was
+24 made after the person was afforded notice and an opportunity to be heard as to all factual questions
+25 at a meaningful time and in a meaningful manner; or
+26 (B) The person is a sexually violent dangerous offender under ORS 137.765.
+27 (c) The Psychiatric Security Review Board may complete the risk assessment of an existing
+28 registrant who is under the jurisdiction of the Psychiatric Security Review Board, regardless of
+29 whether the person has been found guilty except for insanity of a sex crime or was previously con-
+30 victed of a sex crime, if the State Board of Parole and Post-Prison Supervision and the Psychiatric
+31 Security Review Board mutually agree that the Psychiatric Security Review Board has adequate
+32 resources to perform the assessment and that the performance of the assessment by the Psychiatric
+33 Security Review Board would assist in classifying the existing registrant in a more timely manner.
+34 (3) As soon as practicable following the classification of an existing registrant under this sec-
+35 tion, the classifying board shall notify the person of the classification by mail.
+36 (4)(a) An existing registrant who seeks review of a classification made under this section as a
+37 level two or level three sex offender as described in ORS 163A.100 may petition the classifying board
+38 for review. The petition may be filed no later than 60 days after the board provides the notice de-
+39 scribed in subsection (3) of this section.
+40 (b) Upon receipt of a petition described in this subsection, the classifying board shall afford the
+41 person an opportunity to be heard as to all factual questions related to the classification.
+42 (c) After providing the person with notice and an opportunity to be heard in accordance with
+43 this subsection, the board shall classify the person in accordance with the classifications described
+44 in ORS 163A.100, based on all of the information available to the classifying board.
+45 (5) The boards shall adopt rules to carry out the provisions of this section.
+[2]
+
+A-Eng. SB 1601
+1 (6) An existing registrant may not petition for reclassification or relief from the obligation to
+2 report as a sex offender as provided in ORS 163A.125 until either all existing registrants have been
+3 classified in one of the levels described in ORS 163A.100 or December 1, 2018, whichever occurs
+4 first.
+5 (7) Notwithstanding ORS 163A.225 or any other provision of law, the Department of State Police
+6 may until December 1, 2018, continue to use the Internet to make information available to the public
+7 concerning any adult sex offender designated as predatory as authorized by the law in effect on
+8 December 31, 2013.
+9 (8)(a) If the State Board of Parole and Post-Prison Supervision or the Psychiatric Security Re-
+10 view Board does not classify an existing registrant under ORS 163A.100 because the person has
+11 failed or refused to participate in a sex offender risk assessment as directed by the State Board of
+12 Parole and Post-Prison Supervision or the Psychiatric Security Review Board, the appropriate board
+13 shall classify the person as a level three sex offender under ORS 163A.100 (3).
+14 (b) If an existing registrant classified as a level three sex offender under this subsection notifies
+15 the State Board of Parole and Post-Prison Supervision or the Psychiatric Security Review Board of
+16 the willingness to participate in a sex offender risk assessment, the appropriate board shall perform
+17 the assessment and classify the existing registrant in one of the levels described in ORS 163A.100.
+18 (9) The State Board of Parole and Post-Prison Supervision or the Psychiatric Security Review
+19 Board may reassess or reclassify an existing registrant placed in one of the levels described in ORS
+20 163A.100 under this section if the classifying board determines that a factual mistake caused an
+21 erroneous assessment or classification.
+22
+23 SUMMER LEARNING GRANT PROGRAM REPORTING
+24
+25 SECTION 3. ORS 327.342 is amended to read:
+26 327.342. (1) The Department of Education shall establish and administer the Summer Learning
+27 Grant program.
+28 (2)(a) Under the grant program, the department shall award grants for summer learning pro-
+29 grams that are provided to incoming kindergarten students through outgoing grade 12 students.
+30 (b) A summer learning program is eligible for a grant if the program focuses on improving a
+31 student’s reading proficiency by:
+32 (A) Prioritizing the improvement of student academic outcomes;
+33 (B) Incorporating evidence-based literacy instruction and interventions designed to support stu-
+34 dents who are reading below grade level; and
+35 (C) Using a variety of learning strategies that:
+36 (i) Align with academic content standards adopted under ORS 329.045;
+37 (ii) Are focused on evidence-based literacy, mathematics, science or language arts; and
+38 (iii) When appropriate, assist with credit recovery.
+39 (c) A summer learning program may include enrichment activities if the activities are designed
+40 to improve student academic outcomes and are combined with evidence-based interventions.
+41 (3) A summer learning program must be provided for a minimum of 80 total hours for each ses-
+42 sion of the program. Calculations made under this subsection may include hours provided by an
+43 entity with which a partnership has been entered into, as described in subsection (4)(c) of this sec-
+44 tion.
+45 (4)(a) Any school district, education service district, public charter school or federally recog-
+[3]
+
+A-Eng. SB 1601
+1 nized Indian tribe in this state, or any combination thereof, may apply to receive a grant under this
+2 section for a summer learning program.
+3 (b) The department shall award a grant to an applicant based on whether the applicant meets
+4 the requirements for the grant. An application for a grant must include:
+5 (A) A description of the summer learning program and how the program satisfies the require-
+6 ments described in subsections (2) and (3) of this section.
+7 (B) Documentation that the applicant has a plan for summer learning, which may include:
+8 (i) An early literacy success plan developed under ORS 327.831 to receive a grant under the
+9 Early Literacy Success School Grant program; or
+10 (ii) A plan developed under ORS 327.883 to receive a grant under the High School Graduation
+11 and College and Career Readiness Act.
+12 (C) An identification of the assessments that the applicant will provide at the beginning of the
+13 summer learning program and after the summer learning program. Assessments are subject to ap-
+14 proval by the department and shall be used for the purpose of the report described in subsection
+15 (7)(e) of this section.
+16 (D) A description of the budget for how the grant will be used, including the budget of the ap-
+17 plicant related to the provision of a summer learning program.
+18 (c)(A) An applicant for a grant may enter into a partnership with one or more entities as de-
+19 scribed in this paragraph to provide a summer learning program that is funded by a grant under this
+20 section.
+21 (B) Entities with which an applicant may enter into a partnership include a school district, an
+22 education service district, a public charter school, an institution of higher education, a unit of local
+23 government as defined in ORS 190.003, a local service district as defined in ORS 174.116, a federally
+24 recognized Indian tribe in this state, a community-based organization or a nonprofit entity.
+25 (C) An applicant may enter into a partnership with an entity identified in subparagraph (B) of
+26 this paragraph if the entity has demonstrated an ability to assist in literacy instruction and activ-
+27 ities or academic enrichment, as determined by the applicant.
+28 (D) If an applicant applies for a grant based on a plan that includes a partnership with an entity
+29 identified in subparagraph (B) of this paragraph, the applicant must provide with the application a
+30 written letter of support from the entity. The letter must include a description of services to be
+31 provided by the entity and the budget of the entity for the provision of those services.
+32 (5)(a) When awarding grants, the department shall prioritize applicants that:
+33 (A) Submit a summer learning plan that uses research-aligned literacy strategies, as defined in
+34 ORS 327.825.
+35 (B) Have the lowest rates of reading proficiency, as determined based on criteria provided by
+36 the department.
+37 (C) Have focused interventions that target students who have demonstrated academic needs,
+38 including students whose level of proficiency is not at grade level.
+39 (b) The department shall establish the process and timelines for awarding a grant under this
+40 section. The process must be communicated on the department’s website and be easily accessible
+41 by applicants.
+42 (6)(a) Grants awarded under this section may be used for all expenses related to:
+43 (A) Providing personnel and staffing for a summer learning program, including professional de-
+44 velopment.
+45 (B) Providing summer learning, including curriculum, technology and other supplies.
+[4]
+
+A-Eng. SB 1601
+1 (C) Contracting with third parties to provide a summer learning program.
+2 (D) Providing facilities that will support and accommodate a summer learning program.
+3 (E) Providing student transportation for a summer learning program.
+4 (F) Providing nutritious snacks and meals to participants of a summer learning program when
+5 snacks or meals are not provided through the United States Department of Agriculture’s Summer
+6 Food Service Program or through a summer meals program that is part of a national lunch program.
+7 (b) Expenses for allowed uses identified in paragraph (a) of this subsection may include the ad-
+8 ministrative expenses of an entity with which a recipient of a grant has entered into a partnership
+9 as described in subsection (4)(c) of this section.
+10 (c) A recipient of a grant received under this section may use a percentage of the grant moneys
+11 for the administrative expenses of the recipient as follows:
+12 (A) Five percent of the grant amount, excluding any amounts used for student transportation,
+13 if the recipient has entered into a partnership with an entity as described in subsection (4)(c) of this
+14 section to administer the summer learning program in its entirety, with the exception of the pro-
+15 vision of student transportation; or
+16 (B) Ten percent of the grant amount, excluding any amounts used for student transportation, for
+17 a recipient who has not entered into a partnership with an entity as described in subparagraph (A)
+18 of this paragraph.
+19 (7) Recipients of a grant must provide to the department a report that includes:
+20 (a) The number and demographics of students served by the summer learning program;
+21 (b) Activities of the summer learning program, including the number of hours for each activity;
+22 (c) Information regarding staffing levels of the summer learning program and training provided
+23 to staff of the summer learning program;
+24 (d) A description of how activities of the summer learning program supported the requirements
+25 described in subsections (2) and (3) of this section;
+26 (e) An evaluation of the assessments provided at the beginning of the summer learning program
+27 and at the end of the summer learning program to identify changes in students’ academic outcomes
+28 and to determine the effectiveness of the program;
+29 (f) The identification of any successful activities or strategies and of any activities or strategies
+30 that may need to be modified;
+31 (g) The identification of the number of credits earned by participants of the summer learning
+32 program, if applicable; and
+33 (h) A budget report on how the grant moneys were used.
+34 (8) Each year, the department shall prepare [reports that summarize] a report that summarizes
+35 the reports received from recipients of a grant under subsection (7) of this section. The department
+36 shall provide the report to [the subcommittee of] the Joint Committee on Ways and Means [related
+37 to education:] no later than January 30 of each year.
+38 [(a) A preliminary report no later than January 15 of each year.]
+39 [(b) A final report no later than February 15 of each year.]
+40 (9) Each biennium, the department shall review statewide student academic outcomes to deter-
+41 mine which academic content areas to prioritize for summer learning programs for the upcoming
+42 biennium.
+43 (10) The State Board of Education may adopt any rules necessary for the administration of this
+44 section.
+45
+[5]
+
+A-Eng. SB 1601
+1 PAY FREQUENCY
+2
+3 SECTION 4. ORS 292.010 is amended to read:
+4 292.010. The salaries of the Governor, Secretary of State, State Treasurer, Attorney General,
+5 judges of the Supreme and circuit courts, district attorneys, and all other state officers, and all
+6 persons employed by the state whose salary or compensation is payable by law out of the State
+7 Treasury, shall be paid [monthly or on a biweekly basis] at a frequency of at least once per
+8 month.
+9 SECTION 5. ORS 292.039 is amended to read:
+10 292.039. (1) The payment of the salary or compensation of the employees of the Department of
+11 Transportation and the officers and employees of any state agency, as defined in ORS 291.002, if
+12 such agency is authorized by the Director of the Oregon Department of Administrative Services,
+13 where such salary or compensation is payable out of the State Treasury and is fixed by law or the
+14 proper governing board or authority at a definite rate per day, week, month or year, shall be made
+15 [monthly] periodically, as provided in this section.
+16 (2) The superintendent, president or chief executive officer of the institutions, boards, commis-
+17 sions or state agencies listed in subsection (1) of this section, or such other officer thereof as may
+18 be, with the approval of the department, designated by the proper governing board or authority,
+19 shall, at the end of each [month] payroll period, make out, certify and transmit to the department,
+20 a payroll, duly verified by the superintendent, president or chief executive officer or designated
+21 other officer and approved by the proper auditing committee or officer, showing the names of the
+22 several officers and employees during the preceding payroll period, the rate of compensation of each
+23 by the day, week, month or year, the time employed, the amount due and any other facts the de-
+24 partment requires. The department, if it approves the payroll, shall draw a warrant on the State
+25 Treasurer for the aggregate amount allowed by it thereon, in favor of the superintendent, president
+26 or other officer of the institution, board, commission or state agency, who shall immediately pay
+27 over the moneys received thereon to the several parties entitled thereto, taking receipts therefor,
+28 which shall be transmitted to the department.
+29 SECTION 6. ORS 292.311 is amended to read:
+30 292.311. The incumbents of each of the following offices shall be paid an annual salary [on a
+31 monthly basis,] as follows:
+32 (1) Governor, $98,600 for the year beginning January 1, 2014, and for each year thereafter. The
+33 Governor shall also be paid $1,000 per month regularly for expenses necessarily incurred but not
+34 otherwise provided for.
+35 (2) Secretary of State, $77,000 for the year beginning January 1, 2014, and for each year there-
+36 after. The Secretary of State shall also be paid $250 per month regularly for expenses necessarily
+37 incurred but not otherwise provided for.
+38 (3) State Treasurer, $77,000 for the year beginning January 1, 2014, and for each year thereafter.
+39 The State Treasurer shall also be paid $250 per month regularly for expenses necessarily incurred
+40 but not otherwise provided for.
+41 (4) Attorney General, $82,200 for the year beginning January 1, 2014, and for each year there-
+42 after. The Attorney General shall also be paid $250 per month regularly for expenses necessarily
+43 incurred but not otherwise provided for.
+44 (5) Commissioner of the Bureau of Labor and Industries, $77,000 for the year beginning January
+45 1, 2014, and for each year thereafter. The commissioner shall also be paid $250 per month regularly
+[6]
+
+A-Eng. SB 1601
+1 for expenses necessarily incurred but not otherwise provided for.
+2 SECTION 7. ORS 292.930 is amended to read:
+3 292.930. Each of the following elective officers shall be paid an annual salary [on a monthly
+4 basis] as determined by the Legislative Assembly each biennium:
+5 (1) Governor.
+6 (2) Secretary of State.
+7 (3) State Treasurer.
+8 (4) Attorney General.
+9 (5) Commissioner of the Bureau of Labor and Industries.
+10 (6) Chief Judge of the Court of Appeals.
+11 (7) Court of Appeals Judge.
+12 (8) Chief Justice of the Supreme Court.
+13 (9) Supreme Court Judge.
+14 (10) Circuit Court Judge.
+15 (11) Tax Court Judge.
+16
+17 FUNDING FOR PCB TESTING
+18
+19 SECTION 8. ORS 327.008 is amended to read:
+20 327.008. (1)(a) There is established a State School Fund in the General Fund.
+21 (b) The Department of Education, on behalf of the State of Oregon, may solicit and accept gifts,
+22 grants, donations and other moneys from public and private sources for the State School Fund.
+23 Moneys received as provided in this paragraph shall be deposited into the State School Fund.
+24 (c) The State School Fund shall consist of moneys appropriated by the Legislative Assembly,
+25 moneys transferred from the Fund for Student Success, moneys transferred from the Education Sta-
+26 bility Fund and the Oregon Marijuana Account and moneys received as provided in paragraph (b)
+27 of this subsection.
+28 (d) The State School Fund is continuously appropriated to the Department of Education for the
+29 purposes of ORS 327.006 to 327.077, 327.095, 327.099, 327.101, 327.125, 327.137, 327.348, 327.356 to
+30 327.359, 336.575, 336.580, 336.635, 343.243, 343.533, 343.941 and 343.961.
+31 (2)(a) There shall be apportioned from the State School Fund to each school district a State
+32 School Fund grant, consisting of the positive amount equal to a general purpose grant and a trans-
+33 portation grant and a high cost disabilities grant minus local revenue, computed as provided in ORS
+34 327.011 and 327.013.
+35 (b) Each biennium, the Department of Education shall distribute amounts available for the gen-
+36 eral purpose grant and the transportation grant, based on calculations made prior to any modifica-
+37 tions made by the Emergency Board or the Legislative Assembly, as follows:
+38 (A) Forty-nine percent of the amounts available for distribution in the first year of the biennium;
+39 and
+40 (B) Fifty-one percent of the amounts available for distribution in the second year of the
+41 biennium.
+42 (3) For the first school year after a public charter school ceases to operate because of dissol-
+43 ution or closure or because of termination or nonrenewal of a charter, there shall be apportioned
+44 from the State School Fund to each school district that had sponsored a public charter school that
+45 ceased to operate an amount equal to the school district’s general purpose grant per extended
+[7]
+
+A-Eng. SB 1601
+1 ADMw multiplied by five percent of the ADM of the public charter school for the previous school
+2 year.
+3 (4) There shall be apportioned from the State School Fund to each education service district a
+4 State School Fund grant as calculated under ORS 327.019.
+5 (5) All figures used in the determination of the distribution of the State School Fund shall be
+6 estimates for the same year as the distribution occurs, unless otherwise specified.
+7 (6) Numbers of students in average daily membership used in the distribution formula shall be
+8 the numbers as of June of the year of distribution.
+9 (7) Each biennium, the Department of Education may expend from the State School Fund no
+10 more than $3 million for expenses incurred by the department in providing support to school dis-
+11 tricts, education service districts and public charter schools at any time before, during or after a
+12 threat or hazard that may affect a school district, an education service district or a public charter
+13 school and for the purpose of helping to improve the safety and security of students and staff.
+14 (8) Each biennium, the Department of Education may expend from the State School Fund no
+15 more than $10 million for expenses incurred by the Office of School Facilities under ORS 326.125
+16 (1)(b) to (g).
+17 (9) Each fiscal year, the Department of Education shall transfer to the Pediatric Nursing Facil-
+18 ity Account established in ORS 327.022 the amount necessary to pay the costs of educational ser-
+19 vices provided to students admitted to pediatric nursing facilities as provided in ORS 343.941.
+20 (10) Each fiscal year, the Department of Education shall transfer the amount of $55 million from
+21 the State School Fund to the High Cost Disabilities Account established in ORS 327.348.
+22 (11)(a) Each biennium, the Department of Education shall transfer $39.5 million from the State
+23 School Fund to the Educator Advancement Fund established under ORS 342.953.
+24 (b) For the purpose of making the transfer under this subsection:
+25 (A) The total amount available for all distributions from the State School Fund shall be reduced
+26 by $6 million;
+27 (B) The amount distributed to school districts from the State School Fund under this section and
+28 ORS 327.013 shall be reduced by $16.75 million; and
+29 (C) The amount distributed to education service districts from the State School Fund under this
+30 section and ORS 327.019 shall be reduced by $16.75 million.
+31 (c) For each biennium, the amounts identified in this subsection shall be adjusted by the same
+32 percentage by which the instructions furnished to state agencies by the Governor under ORS 291.204
+33 direct the state agencies to adjust their agency budget requests for special payments under ORS
+34 291.216 (6)(a)(C).
+35 (12) Each biennium, the Department of Education shall transfer $12.5 million from the State
+36 School Fund to the Statewide English Language Learner Program Account established under ORS
+37 327.344.
+38 (13) Each fiscal year, the Department of Education may expend up to $550,000 from the State
+39 School Fund for the contract described in ORS 329.488. The amount distributed to education service
+40 districts from the State School Fund under this section and ORS 327.019 shall be reduced by the
+41 amount expended by the department under this subsection.
+42 (14) Each biennium, the Department of Education may expend up to $350,000 from the State
+43 School Fund to provide administration of and support for the development of talented and gifted
+44 education under ORS 343.404.
+45 (15) Each biennium, the Department of Education may expend up to $150,000 from the State
+[8]
+
+A-Eng. SB 1601
+1 School Fund for the administration of a program to increase the number of licensed speech-language
+2 pathologists and certified speech-language pathology assistants under ORS 348.398.
+3 (16) Each biennium, the Department of Education shall transfer $2 million from the State School
+4 Fund for deposit to the Healthy School Facilities Fund established under ORS 332.337.
+5 Notwithstanding ORS 332.337, the department may expend moneys received in the Healthy School
+6 Facilities Fund under this subsection only as grants for costs associated with testing for elevated
+7 levels of lead in water used for drinking or food preparation and for testing for elevated levels
+8 of polychlorinated biphenyl exposure.
+9 (17) Each biennium, the Department of Education shall transfer an amount not to exceed
+10 $5,595,000 for the purpose of making tampons and sanitary pads available as provided by ORS
+11 326.545.
+12 (18) Each fiscal year, the Department of Education shall transfer the amount of $2.5 million from
+13 the State School Fund to the Small School District Supplement Fund established in ORS 327.359.
+14 (19) Each biennium, the Department of Education shall transfer to the Oregon Military Depart-
+15 ment the amount necessary to pay the costs of educational services provided to students admitted
+16 to programs operated by the military department for at-risk youth, as described in ORS 396.360, that
+17 are outstanding after any General Fund appropriations and the calculation of available federal funds
+18 for the programs.
+19
+20 TRANSFERS FOR GENERAL GOVERNMENTAL PURPOSES
+21
+22 SECTION 9. Notwithstanding ORS 276A.209, the amount of $23,000,000 is transferred from
+23 the State Information Technology Operating Fund to the General Fund for general govern-
+24 mental purposes. The transfer shall be made on May 31, 2027.
+25 SECTION 10. Notwithstanding ORS 285A.103, the amount of $29,700,000 is transferred
+26 from the Oregon Infrastructure Finance Fund to the General Fund for general governmental
+27 purposes. The transfer shall be made on May 31, 2027.
+28
+29 DEPARTMENT OF TRANSPORTATION
+30 OPERATIONS AND MAINTENANCE
+31
+32 SECTION 11. (1) Notwithstanding ORS 367.095 (4), the Department of Transportation
+33 shall expend $35,000,000 of the moneys described in ORS 367.095 (4) for operations and main-
+34 tenance.
+35 (2) Moneys described in ORS 367.095 (4) that are not expended for operations and main-
+36 tenance shall be allocated as described in ORS 367.095 (4).
+37 SECTION 12. Section 71d, chapter 750, Oregon Laws 2017, as amended by section 5, chapter
+38 93, Oregon Laws 2018, is amended to read:
+39 Sec. 71d. (1) On and after January 1, 2020, the Oregon Transportation Commission shall use the
+40 proceeds of bonds, as defined in ORS 367.010, authorized under ORS 367.620 (3)(d) to finance the
+41 transportation projects listed in this section. The commission shall determine the order of com-
+42 pletion for the projects listed in subsection (2) of this section.
+43 (2) No later than January 1, 2024, the commission shall allocate the following amounts to each
+44 region, as described in ORS 366.805, for the projects listed below, provided that the commission de-
+45 termines that the projects could constitutionally be funded by revenues described in Article IX,
+[9]
+
+A-Eng. SB 1601
+1 section 3a, of the Oregon Constitution:
+2 _______________________________________________________________________________________
+3
+4 (a) Region 1:............................ $ 249,700,000
+5 (A) State Highway 211
+6 improvements beginning where
+7 the highway intersects with
+8 State Highway 213 and ending
+9 where the highway intersects
+10 Molalla Avenue in the
+11 City of Molalla
+12 (B) WaNaPa Street improvements
+13 in the City of Cascade
+14 Locks
+15 (C) Port of Hood River bridge
+16 replacement environmental
+17 impact study
+18 (D) Columbia Boulevard
+19 pedestrian safety
+20 (E) Southeast Powell
+21 Boulevard jurisdiction
+22 transfer as described
+23 under ORS 366.483
+24 (F) Interstate 205 active traffic
+25 management project
+26 (G) Interstate 205 corridor
+27 bottleneck project
+28 (H) State Highway 217
+29 Northbound project
+30 (I) State Highway 217
+31 Southbound project
+32 (J) Improvements to Graham
+33 Road where it intersects
+34 with Interstate 84 in
+35 the City of Troutdale
+36 [(b) Region 2:............................ $ 201,950,000]
+37 (b) Region 2:..................... $ 195,950,000
+38 (A) Oregon Manufacturing
+39 Innovation Center
+40 Access Roads in Columbia
+41 County
+42 (B) Interstate 5 at the
+43 Aurora-Donald interchange,
+44 Phase I
+45 (C) State Highway 99E in
+[10]
+
+A-Eng. SB 1601
+1 the City of Halsey
+2 (D) State Highway 214
+3 pedestrian safety
+4 improvements at the
+5 intersection with
+6 Jefferson Street in the
+7 City of Silverton
+8 (E) Territorial Highway
+9 jurisdiction transfer
+10 as described under
+11 ORS 366.483
+12 (F) U.S. Highway 20 safety
+13 upgrades from the
+14 City of Albany to the
+15 City of Corvallis
+16 [(G) State Highway 58, adding]
+17 [passing lanes west of the]
+18 [City of Oakridge]
+19 [(H)](G) State Highway 22 and Center
+20 Street Bridge, seismic
+21 retrofit in the City
+22 of Salem
+23 [(I)] (H) State Highway 99 in
+24 City of Eugene
+25 jurisdiction transfer
+26 as described
+27 under ORS 366.483
+28 [(J)] (I) State Highway 126
+29 Florence-Eugene
+30 Highway for
+31 environmental impact study
+32 [(K)](J) 42nd Street in the City
+33 of Springfield
+34 [(L)] (K) Newberg and Dundee Bypass,
+35 State Highway 99W,
+36 Phase II, shovel ready
+37 preparations
+38 (c) Region 3:............................ $ 75 million
+39 (A) Scottsburg Bridge on
+40 State Highway 38 in
+41 Douglas County
+42 (B) Southern Oregon seismic
+43 triage transportation
+44 project
+45 (d) Region 4:............................ $ 76,493,000
+[11]
+
+A-Eng. SB 1601
+1 (A) U.S. Highway 97 Cooley
+2 Road mid-term
+3 improvements
+4 (B) U.S. Highway 97 at
+5 Terrebonne
+6 (C) Improvements to Alder
+7 Creek Road in
+8 Wheeler County
+9 (D) Pedestrian safety
+10 improvements
+11 in the City of Dufur
+12 (E) Pedestrian safety
+13 improvements in the
+14 City of Prineville
+15 (F) Tom McCall Road
+16 roundabout
+17 (G) Pedestrian safety
+18 improvements
+19 in the City of Arlington
+20 (e) Region 5:............................ $ 43,647,000
+21 (A) Port of Umatilla Road
+22 (B) Hermiston North First
+23 Place Project in the
+24 City of Hermiston
+25 (C) State Highway 30 and
+26 Hughes Lane intersection
+27 in Baker County
+28 (D) Eastern Oregon Trade and
+29 Event Center access road
+30 (E) Pedestrian safety
+31 improvements in the
+32 City of Heppner
+33 (F) Pedestrian safety
+34 improvements in the
+35 City of Milton-Freewater
+36 (G) Columbia Development
+37 Authority Access Road
+38 (H) Pedestrian safety
+39 improvements
+40 in the City of Burns
+41 (I) Pedestrian safety
+42 improvements
+43 in the City of Irrigon
+44 (J) U.S. Highway 20 freight
+45 mobility enhancements
+[12]
+
+A-Eng. SB 1601
+1 (K) Cedar Street and Hughes
+2 Lane enhancements in
+3 Baker County
+4 _______________________________________________________________________________________
+5
+6 (3)(a) When the commission determines that a project described in this section is completed, the
+7 commission shall reallocate any amount remaining from the allocation made under this section to
+8 another project described in the same region.
+9 (b) When the commission determines that all of the projects within a region are completed, the
+10 commission shall reallocate any amount remaining from the allocation made under this section to
+11 any other project listed in this section.
+12 (4) The amounts described in this section for jurisdiction transfers described in ORS 366.483 may
+13 not be allocated until after the transfer for which the allocation is dedicated occurs.
+14 SECTION 13. (1) The amendments to section 71d, chapter 750, Oregon Laws 2017, by
+15 section 12 of this 2026 Act are intended to cancel the project approved for State Highway 58.
+16 Such cancellation does not constitute completion of the project for purposes of section 71d
+17 (3)(a), chapter 750, Oregon Laws 2017.
+18 (2) The amount of $6,000,000 formerly approved under section 71d (2)(b), chapter 750,
+19 Oregon Laws 2017, for the State Highway 58 project shall be expended by the Department of
+20 Transportation for operations and maintenance.
+21 SECTION 14. The Department of Transportation may expend up to $85,000,000 of unobli-
+22 gated federal funds to finance projects described in section 71d, chapter 750, Oregon Laws
+23 2017, as amended by section 12 of this 2026 Act.
+24 SECTION 15. (1) Notwithstanding ORS 367.095 (4), the Department of Transportation
+25 shall expend $85,000,000 of the moneys described in ORS 367.095 (4) for operations and main-
+26 tenance.
+27 (2) Moneys described in ORS 367.095 (4) that are not expended for operations and main-
+28 tenance shall be allocated as described in ORS 367.095 (4).
+29 SECTION 16. Notwithstanding ORS 367.080, the amount of $35,000,000 is transferred from
+30 the Connect Oregon Fund to the State Highway Fund described in ORS 366.505, to be used
+31 for operations and maintenance. The transfer shall be made on the effective date of this 2026
+32 Act.
+33 SECTION 17. (1) Notwithstanding ORS 320.435 (2)(a)(B), and subject to subsection (2) of
+34 this section, during the biennium ending June 30, 2027, the Department of Revenue shall
+35 transfer the moneys attributable to the privilege tax imposed under ORS 320.405 that would
+36 otherwise be transferred to the Connect Oregon Fund under ORS 320.435 (2)(a)(B) to the
+37 State Highway Fund described in ORS 366.505, to be used for operations and maintenance.
+38 (2) Subsection (1) of this section applies only to the first $7,000,000 that would otherwise
+39 be transferred to the Connect Oregon Fund under ORS 320.435 (2)(a)(B).
+40 SECTION 18. Notwithstanding ORS 367.091, the amount of $6,000,000 is transferred from
+41 the Multimodal Active Transportation Fund to the State Highway Fund described in ORS
+42 366.505, to be used for operations and maintenance. The transfer shall be made on the ef-
+43 fective date of this 2026 Act.
+44 SECTION 19. (1) Notwithstanding ORS 367.081 (3), and subject to subsection (2) of this
+45 section, during the biennium ending June 30, 2027, the Department of Transportation shall
+[13]
+
+A-Eng. SB 1601
+1 transfer the moneys that would otherwise be transferred to the Multimodal Active Trans-
+2 portation Fund under ORS 367.081 (3) to the State Highway Fund described in ORS 366.505,
+3 to be used for operations and maintenance.
+4 (2) Subsection (1) of this section applies only to the first $2,000,000 that would otherwise
+5 be transferred to the Multimodal Active Transportation Fund under ORS 367.081 (3).
+6 SECTION 20. (1) Notwithstanding ORS 367.095 (2)(b), and subject to subsection (2) of this
+7 section, during the biennium ending June 30, 2027, the moneys that would otherwise be
+8 transferred to the Safe Routes to Schools Fund under ORS 367.095 (2)(b) shall be transferred
+9 to the State Highway Fund described in ORS 366.505, to be used for operations and mainte-
+10 nance.
+11 (2) Subsection (1) of this section applies only to the first $17,000,000 that would otherwise
+12 be transferred to the Safe Routes to Schools Fund under ORS 367.095 (2)(b).
+13 SECTION 21. Notwithstanding ORS 184.642, the amount of $2,000,000 is transferred from
+14 the Department of Transportation Operating Fund to the State Highway Fund described in
+15 ORS 366.505, to be used for operations and maintenance. The transferred amount must con-
+16 sist solely of revenues described in ORS 184.642 (2)(a). The transfer shall be made on the
+17 effective date of this 2026 Act.
+18 SECTION 22. (1) Notwithstanding ORS 184.643, and subject to subsection (2) of this sec-
+19 tion, during the biennium ending June 30, 2027, the Oregon Department of Administrative
+20 Services and the Department of Transportation shall transfer the moneys that would other-
+21 wise be transferred to the Department of Transportation Operating Fund under ORS 184.643
+22 to the State Highway Fund described in ORS 366.505, to be used for operations and mainte-
+23 nance.
+24 (2) Subsection (1) of this section applies only to the first $18,000,000 that would otherwise
+25 be transferred to the Department of Transportation Operating Fund under ORS 184.643.
+26 SECTION 23. Notwithstanding ORS 336.810, the amount of $5,000,000 is transferred from
+27 the Student Driver Training Fund to the State Highway Fund described in ORS 366.505, to
+28 be used for operations and maintenance. The transfer shall be made on the effective date of
+29 this 2026 Act.
+30
+31 COUNTY FAIR ACCOUNT ALLOCATION
+32
+33 SECTION 24. ORS 565.447 is amended to read:
+34 565.447. (1) Subject only to the availability of unobligated net lottery proceeds, there is allocated
+35 from the Administrative Services Economic Development Fund to the County Fair Account created
+36 under ORS 565.445 an amount equal to one percent of the net proceeds from the Oregon State
+37 Lottery[, but not to exceed $1.53 million annually, adjusted biennially pursuant to an inflation factor
+38 determined by dividing the Consumer Price Index for All Urban Consumers, West Region (All Items),
+39 as published by the Bureau of Labor Statistics of the United States Department of Labor, for January
+40 1 immediately preceding commencement of the biennium, by the Consumer Price Index for All Urban
+41 Consumers of the Portland, Oregon, Standard Metropolitan Statistical Area, as compiled by the United
+42 States Department of Labor, Bureau of Labor Statistics, for January 1, 2001].
+43 (2) The allocation of moneys from the Administrative Services Economic Development Fund un-
+44 der this section is subject to the requirements in section 4, Article XV of the Oregon Constitution,
+45 for deposit of specified amounts of the net proceeds from the Oregon State Lottery into the Educa-
+[14]
+
+A-Eng. SB 1601
+1 tion Stability Fund and into the Parks and Natural Resources Fund and shall be made only after
+2 satisfaction or payment of:
+3 (a) Amounts allocated to Westside lottery bonds issued under ORS 391.140 or to the reserves
+4 or any refunding related to the Westside lottery bonds in accordance with the priority for allocation
+5 and disbursement established by ORS 391.130;
+6 (b) All liens, pledges or other obligations relating to lottery bonds or refunding lottery bonds
+7 due or payable during the year for which an allocation is to be made; and
+8 (c) Amounts required by any other pledges of, or liens on, net proceeds from the Oregon State
+9 Lottery.
+10 SECTION 25. The amendments to ORS 565.447 by section 24 of this 2026 Act become op-
+11 erative on July 1, 2027.
+12
+13 CAPTIONS
+14
+15 SECTION 26. The unit captions used in this 2026 Act are provided only for the conven-
+16 ience of the reader and do not become part of the statutory law of this state or express any
+17 legislative intent in the enactment of this 2026 Act.
+18
+19 EMERGENCY CLAUSE
+20
+21 SECTION 27. This 2026 Act being necessary for the immediate preservation of the public
+22 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+23 on its passage.
+24
+[15]

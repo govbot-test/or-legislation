@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - HHOUSH Amendment -1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB 4120-1
+(LC 32)
+2/10/26 (RLM/ps)
+Requested by Representative EDWARDS
+PROPOSED AMENDMENTS TO
+HOUSE BILL 4120
+1 On page 1 of the printed bill, delete lines 24 through 27 and insert:
+2 “(B) The tenancy is in a dwelling unit developed under a development
+3 agreement under ORS 94.504 to 94.528 or that shares a wall with another
+4 unit;
+5 “(C) The tenancy is not within an accessible unit, as defined in ORS
+6 197A.421;”.
+7 In line 28, delete “(C)” and insert “(D)”.
+8 In line 29, delete “(D)” and insert “(E)”.
+9 On page 2, delete line 2 and insert:
+10 “(F) The landlord gives written notice at least 180 days before the change
+11 in policy.”.
+12 In line 18, delete the semicolon and delete lines 19 through 22 and insert
+13 “, ‘smoking’ means inhaling or possessing a lit tobacco product, as defined
+14 in ORS 431A.175.”.
+15

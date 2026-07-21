@@ -1,0 +1,753 @@
+Title: 
+Official Title: 
+Source: versions - Senate Amendments to A-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+SENATE AMENDMENTS TO
+A-ENGROSSED HOUSE BILL 4070
+By COMMITTEE ON EARLY CHILDHOOD AND BEHAVIORAL HEALTH
+February 27
+1 On page 1 of the printed A-engrossed bill, line 2, after “care;” delete the rest of the line and
+2 lines 3 through 5 and insert “creating new provisions; amending ORS 137.227, 137.228, 414.025,
+3 414.595, 414.723, 414.780, 430.010, 430.021, 430.215, 430.256, 430.265, 430.306, 430.342, 430.345, 430.350,
+4 430.359, 430.362, 430.364, 430.366, 430.380, 430.381, 430.401, 430.560, 430.610, 430.627, 430.630, 430.637,
+5 430.640, 430.644, 430.646, 430.695, 430.705, 430.709, 430.905, 471.810, 675.523, 743A.012 and 743A.168;
+6 repealing ORS 430.315, 430.368, 430.565 and 430.634; and prescribing an effective date.”.
+7 On page 27, after line 5, insert:
+8 “SECTION 35. ORS 414.025 is amended to read:
+9 “414.025. As used in this chapter and ORS chapters 411 and 413, unless the context or a spe-
+10 cially applicable statutory definition requires otherwise:
+11 “(1)(a) ‘Alternative payment methodology’ means a payment other than a fee-for-services pay-
+12 ment, used by coordinated care organizations as compensation for the provision of integrated and
+13 coordinated health care and services.
+14 “(b) ‘Alternative payment methodology’ includes, but is not limited to:
+15 “(A) Shared savings arrangements;
+16 “(B) Bundled payments; and
+17 “(C) Payments based on episodes.
+18 “(2) ‘Behavioral health assessment’ means an evaluation by a behavioral health clinician, in
+19 person or using telemedicine, to determine a patient’s need for immediate crisis stabilization.
+20 “(3) ‘Behavioral health clinician’ means:
+21 “(a) A licensed psychiatrist;
+22 “(b) A licensed psychologist;
+23 “(c) A licensed nurse practitioner with a specialty in psychiatric mental health;
+24 “(d) A licensed clinical social worker;
+25 “(e) A licensed professional counselor or licensed marriage and family therapist;
+26 “[(f) A certified clinical social work associate;]
+27 “[(g)] (f) An intern, associate or resident who is working under a board-approved supervisory
+28 contract in a clinical mental health field; or
+29 “[(h)] (g) Any other clinician who is credentialed by the state and whose authorized scope
+30 of practice includes mental health diagnosis and treatment.
+31 “(4) ‘Behavioral health crisis’ means a disruption in an individual’s mental or emotional stability
+32 or functioning resulting in an urgent need for immediate outpatient treatment in an emergency de-
+33 partment or admission to a hospital to prevent a serious deterioration in the individual’s mental or
+34 physical health.
+35 “(5) ‘Behavioral health home’ means a mental health disorder or substance use disorder treat-
+LC 202/HB 4070-A11
+
+1 ment organization, as defined by the Oregon Health Authority by rule, that provides integrated
+2 health care to individuals whose primary diagnoses are mental health disorders or substance use
+3 disorders.
+4 “(6) ‘Category of aid’ means assistance provided by the Oregon Supplemental Income Program,
+5 aid granted under ORS 411.877 to 411.896 and 412.001 to 412.069 or federal Supplemental Security
+6 Income payments.
+7 “(7) ‘Community health worker’ means an individual who meets qualification criteria adopted
+8 by the authority under ORS 414.665 and who:
+9 “(a) Has expertise or experience in public health;
+10 “(b) Works in an urban or rural community, either for pay or as a volunteer in association with
+11 a local health care system;
+12 “(c) To the extent practicable, shares ethnicity, language, socioeconomic status and life experi-
+13 ences with the residents of the community the worker serves;
+14 “(d) Assists members of the community to improve their health and increases the capacity of the
+15 community to meet the health care needs of its residents and achieve wellness;
+16 “(e) Provides health education and information that is culturally appropriate to the individuals
+17 being served;
+18 “(f) Assists community residents in receiving the care they need;
+19 “(g) May give peer counseling and guidance on health behaviors; and
+20 “(h) May provide direct services such as first aid or blood pressure screening.
+21 “(8) ‘Coordinated care organization’ means an organization meeting criteria adopted by the
+22 Oregon Health Authority under ORS 414.572.
+23 “(9) ‘Dental subcontractor’ means a prepaid managed care health services organization that en-
+24 ters into a noncomprehensive risk contract with a coordinated care organization or the Oregon
+25 Health Authority to provide dental services to medical assistance recipients.
+26 “(10) ‘Doula’ means a trained professional who provides continuous physical, emotional and in-
+27 formational support to an individual during pregnancy, labor and delivery or the postpartum period
+28 to help the individual achieve the healthiest and most satisfying experience possible.
+29 “(11) ‘Dually eligible for Medicare and Medicaid’ means, with respect to eligibility for enroll-
+30 ment in a coordinated care organization, that an individual is eligible for health services funded by
+31 Title XIX of the Social Security Act and is:
+32 “(a) Eligible for or enrolled in Part A of Title XVIII of the Social Security Act; or
+33 “(b) Enrolled in Part B of Title XVIII of the Social Security Act.
+34 “(12)(a) ‘Family support specialist’ means an individual who meets qualification criteria adopted
+35 by the authority under ORS 414.665 and who provides supportive services to and has experience
+36 parenting a child who:
+37 “(A) Is a current or former consumer of mental health or addiction treatment; or
+38 “(B) Is facing or has faced difficulties in accessing education, health and wellness services due
+39 to a mental health or behavioral health barrier.
+40 “(b) A ‘family support specialist’ may be a peer wellness specialist or a peer support specialist.
+41 “(13) ‘Global budget’ means a total amount established prospectively by the Oregon Health Au-
+42 thority to be paid to a coordinated care organization for the delivery of, management of, access to
+43 and quality of the health care delivered to members of the coordinated care organization.
+44 “(14) ‘Health insurance exchange’ or ‘exchange’ means an American Health Benefit Exchange
+45 described in 42 U.S.C. 18031, 18032, 18033 and 18041.
+SA to A-Eng. HB 4070 Page 2
+
+1 “(15) ‘Health services’ means at least so much of each of the following as are funded by the
+2 Legislative Assembly based upon the prioritized list of health services compiled by the Health Evi-
+3 dence Review Commission under ORS 414.690:
+4 “(a) Services required by federal law to be included in the state’s medical assistance program
+5 in order for the program to qualify for federal funds;
+6 “(b) Services provided by a physician as defined in ORS 677.010, a nurse practitioner licensed
+7 under ORS 678.375, a behavioral health clinician or other licensed practitioner within the scope of
+8 the practitioner’s practice as defined by state law, and ambulance services;
+9 “(c) Prescription drugs;
+10 “(d) Laboratory and X-ray services;
+11 “(e) Medical equipment and supplies;
+12 “(f) Mental health services;
+13 “(g) Chemical dependency services;
+14 “(h) Emergency dental services;
+15 “(i) Nonemergency dental services;
+16 “(j) Provider services, other than services described in paragraphs (a) to (i), (k), (L) and (m) of
+17 this subsection, defined by federal law that may be included in the state’s medical assistance pro-
+18 gram;
+19 “(k) Emergency hospital services;
+20 “(L) Outpatient hospital services; and
+21 “(m) Inpatient hospital services.
+22 “(16) ‘Income’ has the meaning given that term in ORS 411.704.
+23 “(17)(a) ‘Integrated health care’ means care provided to individuals and their families in a pa-
+24 tient centered primary care home or behavioral health home by licensed primary care clinicians,
+25 behavioral health clinicians and other care team members, working together to address one or more
+26 of the following:
+27 “(A) Mental illness.
+28 “(B) Substance use disorders.
+29 “(C) Health behaviors that contribute to chronic illness.
+30 “(D) Life stressors and crises.
+31 “(E) Developmental risks and conditions.
+32 “(F) Stress-related physical symptoms.
+33 “(G) Preventive care.
+34 “(H) Ineffective patterns of health care utilization.
+35 “(b) As used in this subsection, ‘other care team members’ includes but is not limited to:
+36 “(A) Qualified mental health professionals or qualified mental health associates meeting re-
+37 quirements adopted by the Oregon Health Authority by rule;
+38 “(B) Peer wellness specialists;
+39 “(C) Peer support specialists;
+40 “(D) Community health workers who have completed a state-certified training program;
+41 “(E) Personal health navigators; or
+42 “(F) Other qualified individuals approved by the Oregon Health Authority.
+43 “(18) ‘Investments and savings’ means cash, securities as defined in ORS 59.015, negotiable in-
+44 struments as defined in ORS 73.0104 and such similar investments or savings as the department or
+45 the authority may establish by rule that are available to the applicant or recipient to contribute
+SA to A-Eng. HB 4070 Page 3
+
+1 toward meeting the needs of the applicant or recipient.
+2 “(19) ‘Medical assistance’ means so much of the medical, mental health, preventive, supportive,
+3 palliative and remedial care and services as may be prescribed by the authority according to the
+4 standards established pursuant to ORS 414.065, including premium assistance under ORS 414.115 and
+5 414.117, payments made for services provided under an insurance or other contractual arrangement
+6 and money paid directly to the recipient for the purchase of health services and for services de-
+7 scribed in ORS 414.710.
+8 “(20) ‘Medical assistance’ includes any care or services for any individual who is a patient in
+9 a medical institution or any care or services for any individual who has attained 65 years of age
+10 or is under 22 years of age, and who is a patient in a private or public institution for mental dis-
+11 eases. Except as provided in ORS 411.439 and 411.447, ‘medical assistance’ does not include care or
+12 services for a resident of a nonmedical public institution.
+13 “(21) ‘Mental health drug’ means a type of legend drug, as defined in ORS 414.325, specified by
+14 the Oregon Health Authority by rule, including but not limited to:
+15 “(a) Therapeutic class 7 ataractics-tranquilizers; and
+16 “(b) Therapeutic class 11 psychostimulants-antidepressants.
+17 “(22) ‘Patient centered primary care home’ means a health care team or clinic that is organized
+18 in accordance with the standards established by the Oregon Health Authority under ORS 414.655
+19 and that incorporates the following core attributes:
+20 “(a) Access to care;
+21 “(b) Accountability to consumers and to the community;
+22 “(c) Comprehensive whole person care;
+23 “(d) Continuity of care;
+24 “(e) Coordination and integration of care; and
+25 “(f) Person and family centered care.
+26 “(23) ‘Peer support specialist’ means any of the following individuals who meet qualification
+27 criteria adopted by the authority under ORS 414.665 and who provide supportive services to a cur-
+28 rent or former consumer of mental health or addiction treatment:
+29 “(a) An individual who is a current or former consumer of mental health treatment; or
+30 “(b) An individual who is in recovery, as defined by the Oregon Health Authority by rule, from
+31 an addiction disorder.
+32 “(24) ‘Peer wellness specialist’ means an individual who meets qualification criteria adopted by
+33 the authority under ORS 414.665 and who is responsible for assessing mental health and substance
+34 use disorder service and support needs of a member of a coordinated care organization through
+35 community outreach, assisting members with access to available services and resources, addressing
+36 barriers to services and providing education and information about available resources for individ-
+37 uals with mental health or substance use disorders in order to reduce stigma and discrimination
+38 toward consumers of mental health and substance use disorder services and to assist the member
+39 in creating and maintaining recovery, health and wellness.
+40 “(25) ‘Person centered care’ means care that:
+41 “(a) Reflects the individual patient’s strengths and preferences;
+42 “(b) Reflects the clinical needs of the patient as identified through an individualized assessment;
+43 and
+44 “(c) Is based upon the patient’s goals and will assist the patient in achieving the goals.
+45 “(26) ‘Personal health navigator’ means an individual who meets qualification criteria adopted
+SA to A-Eng. HB 4070 Page 4
+
+1 by the authority under ORS 414.665 and who provides information, assistance, tools and support to
+2 enable a patient to make the best health care decisions in the patient’s particular circumstances and
+3 in light of the patient’s needs, lifestyle, combination of conditions and desired outcomes.
+4 “(27) ‘Prepaid managed care health services organization’ means a managed dental care, mental
+5 health or chemical dependency organization that contracts with the authority under ORS 414.654
+6 or with a coordinated care organization on a prepaid capitated basis to provide health services to
+7 medical assistance recipients.
+8 “(28) ‘Quality measure’ means the health outcome and quality measures and benchmarks identi-
+9 fied by the Health Plan Quality Metrics Committee and the metrics and scoring subcommittee in
+10 accordance with ORS 413.017 (4) and 413.022 and the quality metrics developed by the Behavioral
+11 Health Committee in accordance with ORS 413.017 (5).
+12 “(29)(a) ‘Quality of life in general measure’ means an assessment of the value, effectiveness or
+13 cost-effectiveness of a treatment that gives greater value to a year of life lived in perfect health than
+14 the value given to a year of life lived in less than perfect health.
+15 “(b) ‘Quality of life in general measure’ does not mean an assessment of the value, effectiveness
+16 or cost-effectiveness of a treatment during a clinical trial in which a study participant is asked to
+17 rate the participant’s physical function, pain, general health, vitality, social functions or other sim-
+18 ilar domains.
+19 “(30) ‘Resources’ has the meaning given that term in ORS 411.704. For eligibility purposes, ‘re-
+20 sources’ does not include charitable contributions raised by a community to assist with medical ex-
+21 penses.
+22 “(31) ‘Social determinants of health’ means:
+23 “(a) Nonmedical factors that influence health outcomes;
+24 “(b) The conditions in which individuals are born, grow, work, live and age; and
+25 “(c) The forces and systems that shape the conditions of daily life, such as economic policies
+26 and systems, development agendas, social norms, social policies, racism, climate change and political
+27 systems.
+28 “(32) ‘Tribal traditional health worker’ means an individual who meets qualification criteria
+29 adopted by the authority under ORS 414.665 and who:
+30 “(a) Has expertise or experience in public health;
+31 “(b) Works in a tribal community or an urban Indian community, either for pay or as a volunteer
+32 in association with a local health care system;
+33 “(c) To the extent practicable, shares ethnicity, language, socioeconomic status and life experi-
+34 ences with the residents of the community the worker serves;
+35 “(d) Assists members of the community to improve their health, including physical, behavioral
+36 and oral health, and increases the capacity of the community to meet the health care needs of its
+37 residents and achieve wellness;
+38 “(e) Provides health education and information that is culturally appropriate to the individuals
+39 being served;
+40 “(f) Assists community residents in receiving the care they need;
+41 “(g) May give peer counseling and guidance on health behaviors; and
+42 “(h) May provide direct services, such as tribal-based practices.
+43 “(33)(a) ‘Youth support specialist’ means an individual who meets qualification criteria adopted
+44 by the authority under ORS 414.665 and who, based on a similar life experience, provides supportive
+45 services to an individual who:
+SA to A-Eng. HB 4070 Page 5
+
+1 “(A) Is not older than 30 years of age; and
+2 “(B)(i) Is a current or former consumer of mental health or addiction treatment; or
+3 “(ii) Is facing or has faced difficulties in accessing education, health and wellness services due
+4 to a mental health or behavioral health barrier.
+5 “(b) A ‘youth support specialist’ may be a peer wellness specialist or a peer support specialist.
+6 “SECTION 36. ORS 743A.012 is amended to read:
+7 “743A.012. (1) As used in this section:
+8 “(a) ‘Behavioral health assessment’ means an evaluation by a behavioral health clinician, in
+9 person or using telemedicine, to determine a patient’s need for immediate crisis stabilization.
+10 “(b) ‘Behavioral health clinician’ means:
+11 “(A) A licensed psychiatrist;
+12 “(B) A licensed psychologist;
+13 “(C) A licensed nurse practitioner with a specialty in psychiatric mental health;
+14 “(D) A licensed clinical social worker;
+15 “(E) A licensed professional counselor or licensed marriage and family therapist;
+16 “[(F) A certified clinical social work associate;]
+17 “[(G)] (F) An intern, associate or resident who is working under a board-approved supervisory
+18 contract in a clinical mental health field; or
+19 “[(H)] (G) Any other clinician who is credentialed by the state and whose authorized scope
+20 of practice includes mental health diagnosis and treatment.
+21 “(c) ‘Behavioral health crisis’ means a disruption in an individual’s mental or emotional stability
+22 or functioning resulting in an urgent need for immediate outpatient treatment in an emergency de-
+23 partment or admission to a hospital to prevent a serious deterioration in the individual’s mental or
+24 physical health.
+25 “(d) ‘Emergency medical condition’ means a medical condition:
+26 “(A) That manifests itself by acute symptoms of sufficient severity, including severe pain, that
+27 a prudent layperson possessing an average knowledge of health and medicine would reasonably ex-
+28 pect that failure to receive immediate medical attention would:
+29 “(i) Place the health of a person, or an unborn child in the case of a pregnant woman, in serious
+30 jeopardy;
+31 “(ii) Result in serious impairment to bodily functions; or
+32 “(iii) Result in serious dysfunction of any bodily organ or part;
+33 “(B) With respect to a pregnant woman who is having contractions, for which there is inade-
+34 quate time to effect a safe transfer to another hospital before delivery or for which a transfer may
+35 pose a threat to the health or safety of the woman or the unborn child; or
+36 “(C) That is a behavioral health crisis.
+37 “(e) ‘Emergency medical screening exam’ means the medical history, examination, ancillary tests
+38 and medical determinations required to ascertain the nature and extent of an emergency medical
+39 condition.
+40 “(f) ‘Emergency medical service provider’ has the meaning given that term in ORS 682.025.
+41 “(g) ‘Emergency medical services transport’ means an emergency medical services provider’s
+42 evaluation and stabilization of an individual experiencing a medical emergency and the transporta-
+43 tion of the individual to the nearest medical facility capable of meeting the needs of the individual.
+44 “(h) ‘Emergency services’ means, with respect to an emergency medical condition:
+45 “(A) An emergency medical services transport;
+SA to A-Eng. HB 4070 Page 6
+
+1 “(B) An emergency medical screening exam or behavioral health assessment that is within the
+2 capability of the emergency department of a hospital, including ancillary services routinely available
+3 to the emergency department to evaluate such emergency medical condition; and
+4 “(C) Such further medical examination and treatment as are required under 42 U.S.C. 1395dd to
+5 stabilize a patient, to the extent the examination and treatment are within the capability of the staff
+6 and facilities available at a hospital.
+7 “(i) ‘Grandfathered health plan’ has the meaning given that term in ORS 743B.005.
+8 “(j) ‘Health benefit plan’ has the meaning given that term in ORS 743B.005.
+9 “(k) ‘Prior authorization’ has the meaning given that term in ORS 743B.001.
+10 “(L) ‘Stabilize’ means to provide medical treatment as necessary to:
+11 “(A) Ensure that, within reasonable medical probability, no material deterioration of an emer-
+12 gency medical condition is likely to occur during or to result from the transfer of the patient to or
+13 from a facility; and
+14 “(B) With respect to a pregnant woman who is in active labor, to perform the delivery, including
+15 the delivery of the placenta.
+16 “(2) All insurers offering a health benefit plan shall provide coverage without prior authori-
+17 zation for emergency services.
+18 “(3) A health benefit plan, other than a grandfathered health plan, must provide coverage re-
+19 quired by subsection (2) of this section:
+20 “(a) For the services of participating providers, without regard to any term or condition of
+21 coverage other than:
+22 “(A) The coordination of benefits;
+23 “(B) An affiliation period or waiting period permitted under part 7 of the Employee Retirement
+24 Income Security Act, part A of Title XXVII of the Public Health Service Act or chapter 100 of the
+25 Internal Revenue Code;
+26 “(C) An exclusion other than an exclusion of emergency services; or
+27 “(D) Applicable cost-sharing; and
+28 “(b) For the services of a nonparticipating provider:
+29 “(A) Without imposing any administrative requirement or limitation on coverage that is more
+30 restrictive than requirements or limitations that apply to participating providers;
+31 “(B) Without imposing a copayment amount or coinsurance rate that exceeds the amount or rate
+32 for participating providers;
+33 “(C) Without imposing a deductible, unless the deductible applies generally to nonparticipating
+34 providers; and
+35 “(D) Subject only to an out-of-pocket maximum that applies to all services from nonparticipating
+36 providers.
+37 “(4) All insurers offering a health benefit plan shall provide information to enrollees in plain
+38 language regarding:
+39 “(a) What constitutes an emergency medical condition;
+40 “(b) The coverage provided for emergency services;
+41 “(c) How and where to obtain emergency services; and
+42 “(d) The appropriate use of 9-1-1.
+43 “(5) An insurer offering a health benefit plan may not discourage appropriate use of 9-1-1 and
+44 may not deny coverage for emergency services when 9-1-1 is used.
+45 “(6) This section is exempt from ORS 743A.001.
+SA to A-Eng. HB 4070 Page 7
+
+1 “SECTION 37. ORS 414.723 is amended to read:
+2 “414.723. (1) As used in this section:
+3 “(a)(A) ‘Audio only’ means the use of audio telephone technology, permitting real-time commu-
+4 nication between a health care provider and a patient for the purpose of diagnosis, consultation or
+5 treatment.
+6 “(B) ‘Audio only’ does not include:
+7 “(i) The use of facsimile, electronic mail or text messages.
+8 “(ii) The delivery of health services that are customarily delivered by audio telephone technol-
+9 ogy and customarily not billed as separate services by a health care provider, such as the sharing
+10 of laboratory results.
+11 “(b) ‘Telemedicine’ means the mode of delivering health services using information and tele-
+12 communication technologies to provide consultation and education or to facilitate diagnosis, treat-
+13 ment, care management or self-management of a patient’s health care.
+14 “(2) To encourage the efficient use of resources and to promote cost-effective procedures in ac-
+15 cordance with ORS 413.011 (1)(L), the Oregon Health Authority shall reimburse the cost of health
+16 services delivered by the providers described in subsection (3) of this section using telemedicine,
+17 including but not limited to:
+18 “(a) Health services transmitted via landlines, wireless communications, the Internet and tele-
+19 phone networks;
+20 “(b) Synchronous or asynchronous transmissions using audio only, video only, audio and video
+21 and transmission of data from remote monitoring devices; and
+22 “(c) Communications between providers or between one or more providers and one or more pa-
+23 tients, family members, caregivers or guardians.
+24 “(3) The authority shall reimburse the cost of health services delivered using telemedi-
+25 cine by:
+26 “(a) A provider who is licensed or certified in this state;
+27 “(b) A provider who is unlicensed, practices in this state and is employed by an entity
+28 with a certificate of approval issued by the authority;
+29 “(c) A community mental health program;
+30 “(d) A hospital; or
+31 “(e) A federally qualified health center.
+32 “[(3)(a)] (4)(a) The authority shall pay the same reimbursement for a health service regardless
+33 of whether the service is provided in person or using any permissible telemedicine application or
+34 technology.
+35 “(b) Paragraph (a) of this subsection does not prohibit the use of value-based payment methods,
+36 including global budgets or capitated, bundled, risk-based or other value-based payment methods, and
+37 does not require that any value-based payment method reimburse telemedicine health services based
+38 on an equivalent fee-for-service rate.
+39 “[(4)] (5) The authority shall include the costs of telemedicine services in its rate assumptions
+40 for payments made to clinics or other providers on a prepaid capitated basis.
+41 “[(5)] (6) This section does not require the authority or a coordinated care organization to pay
+42 a provider for a service that is not included within the Healthcare Procedure Coding System or the
+43 American Medical Association’s Current Procedural Terminology codes.
+44 “[(6)] (7) The authority shall adopt rules to ensure that coordinated care organizations reim-
+45 burse the cost of health services delivered using telemedicine, consistent with subsections (2) [and
+SA to A-Eng. HB 4070 Page 8
+
+1 (3)] to (4) of this section.
+2 “SECTION 38. ORS 430.637 is amended to read:
+3 “430.637. (1) As used in this section:
+4 “(a) ‘Assessment’ means an on-site quality assessment of an organizational provider that is con-
+5 ducted:
+6 “(A) If the provider has not been accredited by a national organization meeting the quality
+7 standards of the Oregon Health Authority;
+8 “(B) By the Oregon Health Authority, another state agency or a contractor on behalf of the
+9 authority or another state agency; and
+10 “(C) For the purpose of issuing a certificate of approval.
+11 “(b) ‘Organizational provider’ means an organization that provides mental health or substance
+12 use disorder treatment [or chemical dependency treatment and is not a coordinated care
+13 organization] and that is:
+14 “(A) Located in this state; or
+15 “(B) Licensed and located in another state and accepts residents of this state for in-
+16 person treatment.
+17 “(2) The Oregon Health Authority shall convene a committee, in accordance with ORS 183.333,
+18 to advise the authority with respect to the adoption, by rule, of criteria for an assessment. The
+19 advisory committee shall advise the authority during the development of the criteria. The advisory
+20 committee shall be reconvened as needed to advise the authority with respect to updating the cri-
+21 teria to conform to changes in national accreditation standards or federal requirements for health
+22 plans and to advise the authority on opportunities to improve the assessment process. The advisory
+23 committee shall include, but is not limited to:
+24 “(a) A representative of each coordinated care organization certified by the authority;
+25 “(b) Representatives of organizational providers;
+26 “(c) Representatives of insurers and health care service contractors that have been accredited
+27 by the National Committee for Quality Assurance; and
+28 “(d) Representatives of insurers that offer Medicare Advantage Plans that have been accredited
+29 by the National Committee for Quality Assurance.
+30 “(3) The advisory committee described in subsection (2) of this section shall recommend:
+31 “(a) Objective criteria for a shared assessment tool that complies with national accreditation
+32 standards and federal requirements for health plans;
+33 “(b) Procedures for conducting an assessment;
+34 “(c) Procedures to eliminate redundant reporting requirements for organizational providers; and
+35 “(d) A process for addressing concerns that arise between assessments regarding compliance
+36 with quality standards.
+37 “(4) If another state agency, or a contractor on behalf of the state agency, conducts an assess-
+38 ment that meets the criteria adopted by the authority under subsection (2) of this section, the au-
+39 thority may rely on the assessment as evidence that the organizational provider meets the
+40 assessment requirement for receiving a certificate of approval.
+41 “(5) The authority shall provide a report of an assessment to the organizational provider that
+42 was assessed and, upon request, to a coordinated care organization, insurer or health care service
+43 contractor.
+44 “(6) If an organizational provider has not been accredited by a national organization that is
+45 acceptable to a coordinated care organization, the coordinated care organization shall rely on the
+SA to A-Eng. HB 4070 Page 9
+
+1 assessment conducted in accordance with the criteria adopted under subsection (2) of this section
+2 as evidence that the organizational provider meets the assessment requirement.
+3 “(7) This section does not:
+4 “(a) Prevent a coordinated care organization from requiring its own on-site quality assessment
+5 if the authority, another state agency or a contractor on behalf of the authority or another state
+6 agency has not conducted an assessment in the preceding 36-month period; or
+7 “(b) Require a coordinated care organization to contract with an organizational provider.
+8 “(8)(a) The authority shall adopt by rule standards for determining whether information re-
+9 quested by a coordinated care organization from an organizational provider is redundant with re-
+10 spect to the reporting requirements for an assessment or if the information is outside of the scope
+11 of the assessment criteria.
+12 “(b) A coordinated care organization may request additional information from an organizational
+13 provider, in addition to the report of the assessment, if the request:
+14 “(A) Is not redundant and is within the scope of the assessment according to standards adopted
+15 by the authority as described in this subsection; and
+16 “(B) Is necessary to resolve questions about whether an organizational provider meets the co-
+17 ordinated care organization’s policies and procedures for credentialing.
+18 “(c) The authority shall implement a process for resolving a complaint by an organizational
+19 provider that a reporting requirement imposed by a coordinated care organization is redundant or
+20 outside of the scope of the assessment criteria.
+21 “(9)(a) The authority shall establish and maintain a database containing the documents required
+22 by coordinated care organizations for the purpose of credentialing an organizational provider.
+23 “(b) With the advice of the committee described in subsection (2) of this section, the authority
+24 shall adopt by rule the content and operational function of the database including, at a minimum:
+25 “(A) The types of organizational providers for which information is stored in the database;
+26 “(B) The types and contents of documents that are stored in the database;
+27 “(C) The frequency by which the documents the authority shall obtain updated documents;
+28 “(D) The means by which the authority will obtain the documents; and
+29 “(E) The means by which coordinated care organizations can access the documents in the da-
+30 tabase.
+31 “(c) The authority shall provide training to coordinated care organization staff who are re-
+32 sponsible for processing credentialing requests on the use of the database.
+33 “SECTION 39. ORS 743A.168 is amended to read:
+34 “743A.168. (1) As used in this section:
+35 “(a) ‘Behavioral health assessment’ means an evaluation by a provider, in person or using tele-
+36 medicine, to determine a patient’s need for behavioral health treatment.
+37 “(b) ‘Behavioral health condition’ has the meaning prescribed by rule by the Department of
+38 Consumer and Business Services.
+39 “(c) ‘Behavioral health crisis’ means a disruption in an insured’s mental or emotional stability
+40 or functioning resulting in an urgent need for immediate outpatient treatment in an emergency de-
+41 partment or admission to a hospital to prevent a serious deterioration in the insured’s mental or
+42 physical health.
+43 “(d) ‘Facility’ means a [corporate or governmental entity or other provider of services for the
+44 treatment of behavioral health conditions] facility located in this state that provides mental
+45 health or substance use disorder treatment.
+SA to A-Eng. HB 4070 Page 10
+
+1 “(e) ‘Generally accepted standards of care’ means:
+2 “(A) Standards of care and clinical practice guidelines that:
+3 “(i) Are generally recognized by health care providers practicing in relevant clinical specialties;
+4 and
+5 “(ii) Are based on valid, evidence-based sources; and
+6 “(B) Products and services that:
+7 “(i) Address the specific needs of a patient for the purpose of screening for, preventing, diag-
+8 nosing, managing or treating an illness, injury or condition or symptoms of an illness, injury or
+9 condition;
+10 “(ii) Are clinically appropriate in terms of type, frequency, extent, site and duration; and
+11 “(iii) Are not primarily for the economic benefit of an insurer or payer or for the convenience
+12 of a patient, treating physician or other health care provider.
+13 “(f) ‘Group health insurer’ means an insurer, a health maintenance organization or a health care
+14 service contractor.
+15 “(g) ‘Median maximum allowable reimbursement rate’ means the median of all maximum allow-
+16 able reimbursement rates, minus incentive payments, paid for each billing code for each provider
+17 type during a calendar year.
+18 “(h) ‘Prior authorization’ has the meaning given that term in ORS 743B.001.
+19 “(i) ‘Program’ means a particular type or level of service that is organizationally distinct within
+20 a facility.
+21 “(j) ‘Provider’ means:
+22 “(A) A behavioral health professional or medical professional licensed or certified in this state
+23 who has met the credentialing requirement of a group health insurer or an issuer of an individual
+24 health benefit plan that is not a grandfathered health plan as defined in ORS 743B.005 and is oth-
+25 erwise eligible to receive reimbursement for coverage under the policy;
+26 “(B) A health care facility as defined in ORS 433.060;
+27 “(C) A residential facility as defined in ORS 430.010;
+28 “(D) A day or partial hospitalization program;
+29 “(E) An outpatient service, as defined in ORS 430.010, that provides treatment in this state;
+30 “(F) A licensed outpatient facility with a certified substance use disorder program that employs
+31 certified alcohol and drug counselor level providers; or
+32 “(G) A provider organization certified by the Oregon Health Authority under subsection (9) of
+33 this section.
+34 “(k) ‘Relevant clinical specialties’ includes but is not limited to:
+35 “(A) Psychiatry;
+36 “(B) Psychology;
+37 “(C) Clinical sociology;
+38 “(D) Addiction medicine and counseling; and
+39 “(E) Behavioral health treatment.
+40 “(L) ‘Standards of care and clinical practice guidelines’ includes but is not limited to:
+41 “(A) Patient placement criteria;
+42 “(B) Recommendations of agencies of the federal government; and
+43 “(C) Drug labeling approved by the United States Food and Drug Administration.
+44 “(m) ‘Utilization review’ has the meaning given that term in ORS 743B.001.
+45 “(n) ‘Valid, evidence-based sources’ includes but is not limited to:
+SA to A-Eng. HB 4070 Page 11
+
+1 “(A) Peer-reviewed scientific studies and medical literature;
+2 “(B) Recommendations of nonprofit health care provider professional associations; and
+3 “(C) Specialty societies.
+4 “(2) A group health insurance policy or an individual health benefit plan that is not a grandfa-
+5 thered health plan providing coverage for hospital or medical expenses, other than limited benefit
+6 coverage, shall provide coverage for expenses arising from the diagnosis of behavioral health con-
+7 ditions and medically necessary behavioral health treatment at the same level as, and subject to
+8 limitations no more restrictive than, those imposed on coverage or reimbursement of expenses aris-
+9 ing from treatment for other medical conditions. The following apply to coverage for behavioral
+10 health treatment:
+11 “(a) The coverage may be made subject to provisions of the policy that apply to other benefits
+12 under the policy, including but not limited to provisions relating to copayments, deductibles and
+13 coinsurance. Copayments, deductibles and coinsurance for treatment in health care facilities or
+14 residential facilities may not be greater than those under the policy for expenses of hospitalization
+15 in the treatment of other medical conditions. Copayments, deductibles and coinsurance for outpa-
+16 tient treatment may not be greater than those under the policy for expenses of outpatient treatment
+17 of other medical conditions.
+18 “(b) The coverage of behavioral health treatment may not be made subject to treatment limita-
+19 tions, limits on total payments for treatment, limits on duration of treatment or financial require-
+20 ments unless similar limitations or requirements are imposed on coverage of other medical
+21 conditions. The coverage of eligible expenses of behavioral health treatment may be limited to
+22 treatment that is medically necessary as determined in accordance with this section and no more
+23 stringently under the policy than for other medical conditions.
+24 “(c) The coverage of behavioral health treatment must include:
+25 “(A) A behavioral health assessment;
+26 “(B) No less than the level of services determined to be medically necessary in a behavioral
+27 health assessment of the specific needs of a patient or in a patient’s care plan:
+28 “(i) To effectively treat the patient’s underlying behavioral health condition rather than the
+29 mere amelioration of current symptoms such as suicidal ideation or psychosis; and
+30 “(ii) For care following a behavioral health crisis, to transition the patient to a lower level of
+31 care;
+32 “(C) Treatment of co-occurring behavioral health conditions or medical conditions in a coordi-
+33 nated manner;
+34 “(D) Treatment at the least intensive and least restrictive level of care that is safe and most
+35 effective and meets the needs of the insured’s condition;
+36 “(E) A lower level or less intensive care only if it is comparably as safe and effective as treat-
+37 ment at a higher level of service or intensity;
+38 “(F) Treatment to maintain functioning or prevent deterioration;
+39 “(G) Treatment for an appropriate duration based on the insured’s particular needs;
+40 “(H) Treatment appropriate to the unique needs of children and adolescents;
+41 “(I) Treatment appropriate to the unique needs of older adults; and
+42 “(J) Coordinated care and case management as defined by the Department of Consumer and
+43 Business Services by rule.
+44 “(d) The coverage of behavioral health treatment may not limit coverage for treatment of per-
+45 vasive or chronic behavioral health conditions to short-term or acute behavioral health treatment
+SA to A-Eng. HB 4070 Page 12
+
+1 at any level of care or placement.
+2 “(e) A group health insurer or an issuer of an individual health benefit plan other than a
+3 grandfathered health plan shall have a network of providers of behavioral health treatment suffi-
+4 cient to meet the standards described in ORS 743B.505. If there is no in-network provider qualified
+5 to timely deliver, as defined by rule, medically necessary behavioral treatment to an insured in a
+6 geographic area, the group health insurer or issuer of an individual health benefit plan shall provide
+7 coverage of out-of-network medically necessary behavioral health treatment without any additional
+8 out-of-pocket costs if provided by an available out-of-network provider that enters into an agreement
+9 with the insurer to be reimbursed at in-network rates.
+10 “(f) A provider is eligible for reimbursement under this section if:
+11 “(A) The provider is approved or certified by the Oregon Health Authority;
+12 “(B) The provider is accredited for the particular level of care for which reimbursement is being
+13 requested by the Joint Commission or the Commission on Accreditation of Rehabilitation Facilities;
+14 “(C) The patient is staying overnight at the facility and is involved in a structured program at
+15 least eight hours per day, five days per week; or
+16 “(D) The provider is providing a covered benefit under the policy.
+17 “(g) A group health insurer or an issuer of an individual health benefit plan other than a
+18 grandfathered health plan must use the same methodology to set reimbursement rates paid to be-
+19 havioral health treatment providers that the group health insurer or issuer of an individual health
+20 benefit plan uses to set reimbursement rates for medical and surgical treatment providers.
+21 “(h) A group health insurer or an issuer of an individual health benefit plan other than a
+22 grandfathered health plan must update the methodology and rates for reimbursing behavioral health
+23 treatment providers in a manner equivalent to the manner in which the group health insurer or
+24 issuer of an individual health benefit plan updates the methodology and rates for reimbursing med-
+25 ical and surgical treatment providers, unless otherwise required by federal law.
+26 “(i) A group health insurer or an issuer of an individual health benefit plan other than a
+27 grandfathered health plan that reimburses out-of-network providers for medical or surgical services
+28 must reimburse out-of-network behavioral health treatment providers on the same terms and at a
+29 rate that is in parity with the rate paid to medical or surgical treatment providers.
+30 “(j) Outpatient coverage of behavioral health treatment shall include follow-up in-home service
+31 or outpatient services if clinically indicated under criteria and guidelines described in subsection (5)
+32 of this section. The policy may limit coverage for in-home service to persons who are homebound
+33 under the care of a physician only if clinically indicated under criteria and guidelines described in
+34 subsection (5) of this section.
+35 “(k)(A) Subject to ORS 743A.171 and to the patient or client confidentiality provisions of ORS
+36 40.235 relating to physicians, ORS 40.240 relating to nurse practitioners, ORS 40.230 relating to
+37 psychologists, ORS 40.250 and 675.580 relating to licensed clinical social workers and ORS 40.262
+38 relating to licensed professional counselors and licensed marriage and family therapists, a group
+39 health insurer or issuer of an individual health benefit plan may provide for review for level of
+40 treatment of admissions and continued stays for treatment in health facilities, residential facilities,
+41 day or partial hospitalization programs and outpatient services by either staff of a group health
+42 insurer or issuer of an individual health benefit plan or personnel under contract to the group health
+43 insurer or issuer of an individual health benefit plan that is not a grandfathered health plan, or by
+44 a utilization review contractor, who shall have the authority to certify for or deny level of payment.
+45 “(B) Review shall be made according to criteria made available to providers in advance upon
+SA to A-Eng. HB 4070 Page 13
+
+1 request.
+2 “(C) Review shall be performed by or under the direction of a physician licensed under ORS
+3 677.100 to 677.228, a psychologist licensed by the Oregon Board of Psychology, a clinical social
+4 worker licensed by the State Board of Licensed Social Workers or a professional counselor or mar-
+5 riage and family therapist licensed by the Oregon Board of Licensed Professional Counselors and
+6 Therapists, in accordance with standards of the National Committee for Quality Assurance or
+7 Medicare review standards of the Centers for Medicare and Medicaid Services.
+8 “(D) Review may involve prior authorization, concurrent review of the continuation of treat-
+9 ment, post-treatment review or any combination of these. However, if prior authorization is required,
+10 provision shall be made to allow for payment of urgent or emergency admissions, subject to subse-
+11 quent review. If prior authorization is not required, group health insurers and issuers of individual
+12 health benefit plans that are not grandfathered health plans shall permit providers, policyholders
+13 or persons acting on their behalf to make advance inquiries regarding the appropriateness of a
+14 particular admission to a treatment program. Group health insurers and issuers of individual health
+15 benefit plans that are not grandfathered health plans shall provide a timely response to such in-
+16 quiries. Noncontracting providers must cooperate with these procedures to the same extent as con-
+17 tracting providers to be eligible for reimbursement.
+18 “(L) Health maintenance organizations may limit the receipt of covered services by enrollees to
+19 services provided by or upon referral by providers contracting with the health maintenance organ-
+20 ization. Health maintenance organizations and health care service contractors may create substan-
+21 tive plan benefit and reimbursement differentials at the same level as, and subject to limitations no
+22 more restrictive than, those imposed on coverage or reimbursement of expenses arising out of other
+23 medical conditions and apply them to contracting and noncontracting providers.
+24 “(3) Except as provided in ORS 743A.171, this section does not prohibit a group health insurer
+25 or issuer of an individual health benefit plan that is not a grandfathered health plan from managing
+26 the provision of benefits through common methods, including but not limited to selectively con-
+27 tracted panels, health plan benefit differential designs, preadmission screening, prior authorization
+28 of services, utilization review or other mechanisms designed to limit eligible expenses to those de-
+29 scribed in subsection (2)(b) of this section provided such methods comply with the requirements of
+30 this section.
+31 “(4) The Legislative Assembly finds that health care cost containment is necessary and intends
+32 to encourage health insurance plans designed to achieve cost containment by ensuring that re-
+33 imbursement is limited to appropriate utilization under criteria incorporated into the insurance, ei-
+34 ther directly or by reference, in accordance with this section.
+35 “(5)(a) Any medical necessity, utilization or other clinical review conducted for the diagnosis,
+36 prevention or treatment of behavioral health conditions or relating to service intensity, level of care
+37 placement, continued stay or discharge must be based solely on the following:
+38 “(A) The current generally accepted standards of care.
+39 “(B) For level of care placement decisions, the most recent version of the levels of care place-
+40 ment criteria developed by the nonprofit professional association for the relevant clinical specialty.
+41 “(C) For medical necessity, utilization or other clinical review conducted for the diagnosis,
+42 prevention or treatment of behavioral health conditions that does not involve level of care place-
+43 ment decisions, other criteria and guidelines may be utilized if such criteria and guidelines are based
+44 on the current generally accepted standards of care including valid, evidence-based sources and
+45 current treatment criteria or practice guidelines developed by the nonprofit professional association
+SA to A-Eng. HB 4070 Page 14
+
+1 for the relevant clinical specialty. Such other criteria and guidelines must be made publicly avail-
+2 able and made available to insureds upon request to the extent permitted by copyright laws.
+3 “(b) This subsection does not prevent a group health insurer or an issuer of an individual health
+4 benefit plan other than a grandfathered health plan from using criteria that:
+5 “(A) Are outside the scope of criteria and guidelines described in paragraph (a)(B) of this sub-
+6 section, if the guidelines were developed in accordance with the current generally accepted stan-
+7 dards of care; or
+8 “(B) Are based on advancements in technology of types of care that are not addressed in the
+9 most recent versions of sources specified in paragraph (a)(B) of this subsection, if the guidelines
+10 were developed in accordance with current generally accepted standards of care.
+11 “(c) For all level of care placement decisions, an insurer shall authorize placement at the level
+12 of care consistent with the insured’s score or assessment using the relevant level of care placement
+13 criteria and guidelines as specified in paragraph (a)(B) of this subsection. If the level of care indi-
+14 cated by the criteria and guidelines is not available, the insurer shall authorize the next higher level
+15 of care. If there is disagreement about the appropriate level of care, the insurer shall provide to the
+16 provider of the service the full details of the insurer’s scoring or assessment using the relevant level
+17 of care placement criteria and guidelines specified in paragraph (a)(B) of this subsection.
+18 “(6) To ensure the proper use of any criteria and guidelines described in subsection (5) of this
+19 section, a group health insurer or an issuer of an individual health benefit plan shall provide, at no
+20 cost:
+21 “(a) A formal education program, presented by nonprofit clinical specialty associations or other
+22 entities authorized by the department, to educate the insurer’s or the issuer’s staff and any individ-
+23 uals described in subsection (2)(k) of this section who conduct reviews.
+24 “(b) To stakeholders, including participating providers and insureds, the criteria and guidelines
+25 described in subsection (5) of this section and any education or training materials or resources re-
+26 garding the criteria and guidelines.
+27 “(7) This section does not prevent a group health insurer or issuer of an individual health ben-
+28 efit plan that is not a grandfathered health plan from contracting with providers of health care
+29 services to furnish services to policyholders or certificate holders according to ORS 743B.460 or
+30 750.005, subject to the following conditions:
+31 “(a) A group health insurer or issuer of an individual health benefit plan that is not a grandfa-
+32 thered health plan is not required to contract with all providers that are eligible for reimbursement
+33 under this section.
+34 “(b) An insurer or health care service contractor shall, subject to subsection (2) of this section,
+35 pay benefits toward the covered charges of noncontracting providers of services for behavioral
+36 health treatment. The insured shall, subject to subsection (2) of this section, have the right to use
+37 the services of a noncontracting provider of behavioral health treatment, whether or not the be-
+38 havioral health treatment is provided by contracting or noncontracting providers.
+39 “(8)(a) This section does not require coverage for:
+40 “(A) Educational or correctional services or sheltered living provided by a school or halfway
+41 house;
+42 “(B) A long-term residential mental health program that lasts longer than 45 days unless clin-
+43 ically indicated under criteria and guidelines described in subsection (5) of this section;
+44 “(C) Psychoanalysis or psychotherapy received as part of an educational or training program,
+45 regardless of diagnosis or symptoms that may be present;
+SA to A-Eng. HB 4070 Page 15
+
+1 “(D) A court-ordered sex offender treatment program; or
+2 “(E) Support groups.
+3 “(b) Notwithstanding paragraph (a)(A) of this subsection, an insured may receive covered out-
+4 patient services under the terms of the insured’s policy while the insured is living temporarily in a
+5 sheltered living situation.
+6 “(9) The Oregon Health Authority shall establish a process for the certification of an organiza-
+7 tion described in subsection (1)(j)(G) of this section that:
+8 “(a) Is not otherwise subject to licensing or certification by the authority; and
+9 “(b) Does not contract with the authority, a subcontractor of the authority or a community
+10 mental health program.
+11 “(10) The Oregon Health Authority shall adopt by rule standards for the certification provided
+12 under subsection (9) of this section to ensure that a certified provider organization offers a distinct
+13 and specialized program for the treatment of mental or nervous conditions.
+14 “(11) The Oregon Health Authority may adopt by rule an application fee or a certification fee,
+15 or both, to be imposed on any provider organization that applies for certification under subsection
+16 (9) of this section. Any fees collected shall be paid into the Oregon Health Authority Fund estab-
+17 lished in ORS 413.101 and shall be used only for carrying out the provisions of subsection (9) of this
+18 section.
+19 “(12) The intent of the Legislative Assembly in adopting this section is to reserve benefits for
+20 different types of care to encourage cost effective care and to ensure continuing access to levels
+21 of care most appropriate for the insured’s condition and progress in accordance with this section.
+22 This section does not prohibit an insurer from requiring a provider organization certified by the
+23 Oregon Health Authority under subsection (9) of this section to meet the insurer’s credentialing
+24 requirements as a condition of entering into a contract.
+25 “(13) The Director of the Department of Consumer and Business Services and the Oregon Health
+26 Authority, after notice and hearing, may adopt reasonable rules not inconsistent with this section
+27 that are considered necessary for the proper administration of this section. The director shall adopt
+28 rules making it a violation of this section for a group health insurer or issuer of an individual health
+29 benefit plan other than a grandfathered health plan to require providers to bill using a specific
+30 billing code or to restrict the reimbursement paid for particular billing codes other than on the basis
+31 of medical necessity.
+32 “(14) This section does not:
+33 “(a) Prohibit an insured from receiving behavioral health treatment from an out-of-network
+34 provider or prevent an out-of-network behavioral health provider from billing the insured for any
+35 unreimbursed cost of treatment.
+36 “(b) Prohibit the use of value-based payment methods, including global budgets or capitated,
+37 bundled, risk-based or other value-based payment methods.
+38 “(c) Require that any value-based payment method reimburse behavioral health services based
+39 on an equivalent fee-for-service rate.
+40 “SECTION 40. The amendments to ORS 414.025, 414.723, 430.637, 743A.012 and 743A.168
+41 by sections 35 to 39 of this 2026 Act become operative on January 1, 2027.
+42 “SECTION 41. This 2026 Act takes effect on the 91st day after the date on which the 2026
+43 regular session of the Eighty-third Legislative Assembly adjourns sine die.”.
+44
+SA to A-Eng. HB 4070 Page 16

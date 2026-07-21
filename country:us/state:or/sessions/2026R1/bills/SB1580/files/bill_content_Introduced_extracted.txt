@@ -1,0 +1,773 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1580
+Sponsored by Senator PHAM K, Representative GOMBERG, Senator GELSER BLOUIN; Senators FREDERICK,
+JAMA, NERON MISSLIN, Representatives CHAICHI, CHOTZEN, GAMBA, HARBICK, MCDONALD, MUNOZ,
+WISE (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Requires a covered platform to have an agreement in order to access the online content
+of a news provider. Creates a group for civic information to give grants. (Flesch Readability Score:
+62.7).
+Prohibits an online news aggregating platform from accessing for an Oregon audience the online
+content of a digital journalism provider without an agreement. Specifies requirements that an
+agreement must meet.
+Creates a private cause of action that a digital journalism provider may bring against a platform
+if the platform accesses for an Oregon audience the online content of the digital journalism provider
+without an agreement or fails to comply with an agreement. Allows for the recovery of the greater
+of statutory or actual damages, and for punitive damages.
+Bars a cause of action if the platform is participating in arbitration or in compliance with a
+final arbitration order, judgment or settlement agreement. Bars a cause of action for access that
+occurs between January 1, 2027, and December 31, 2028, if the platform elects to pay a certain sum
+amount.
+Allows a platform or group of digital journalism providers to initiate an arbitration process to
+determine a percentage of the platform’s advertising revenue to be remitted to the digital journalism
+providers.
+Requires platforms to report annually certain information about compensation paid to digital
+journalism providers.
+Establishes the Oregon Civic Information Consortium. Directs the consortium to award grants
+for applicants that seek to improve civic information.
+1 A BILL FOR AN ACT
+2 Relating to compensation for journalism.
+3 Whereas a free and diverse fourth estate was critical in the founding of American democracy
+4 and continues to be the lifeblood of a functional democratic society, and communities without local
+5 news lose touch with government, business, education and neighbors; and
+6 Whereas everyday journalism plays an essential role in Oregon life, and supporting the ability
+7 of local news organizations to continue to provide the public with critical information about their
+8 communities and enabling publishers to receive fair market value for their content that is monetized
+9 by platforms will preserve and ensure the sustainability of local and diverse news outlets; and
+10 Whereas two major technology platform companies, Google and Meta, currently crawl Oregon
+11 publishers’ news content and are being prosecuted by the federal government on allegations of op-
+12 erating as anticompetitive monopolies in violation of the federal Sherman Act, and Oregon has a
+13 compelling interest in protecting businesses that report and distribute news from unfair business
+14 practices; and
+15 Whereas in April 2025, U.S. District Judge Leonie M. Brinkema found that “Google has willfully
+16 engaged in a series of anticompetitive acts to acquire and maintain monopoly power” in digital ad-
+17 vertising markets and “substantially harmed Google’s publisher customers, the competitive process,
+18 and, ultimately, consumers of information on the open web” and, in August 2024, U.S. District Judge
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 272
+
+SB 1580
+1 Amit Mehta found that in the markets for general search services and general search ads, “Google
+2 is a monopolist, and it has acted as one to maintain its monopoly” and “earn monopoly profits”; and
+3 Whereas an antitrust complaint filed against Meta by the Federal Trade Commission in January
+4 2021 charged that “Facebook holds monopoly power in the market for personal social networking
+5 services . . . in the United States, which it enjoys primarily through its control of the largest and
+6 most profitable social network in the world”; and
+7 Whereas the bulk of advertising budgets are now going to platforms like Google and Meta in
+8 what has been described as a duopoly, which, coupled with the monopolization of the Internet search
+9 market, has directly caused harm to news outlets, as demonstrated and documented in numerous
+10 studies, including the United States House of Representatives Committee on the Judiciary, Subcom-
+11 mittee on Antitrust, Commercial and Administrative Law Majority Staff Report and Recommen-
+12 dations on Investigation of Competition in Digital Markets; “Addressing the Power Imbalance
+13 Between News Publishers and Digital Platforms: A Legislative Proposal for Effectuating Competitive
+14 Payments to Newspapers,” Hal J. Singer, Managing Director of Econ One and Adjunct Professor of
+15 Georgetown’s McDonough School of Business, Written Comments in Response to U.S. Copyright
+16 Office’s Publishers’ Protection Study; and “Paying for News: What Google and Meta Owe US Pub-
+17 lishers,” Initiative for Policy Dialogue, Columbia University, the final of which provides a basis for
+18 calculating the quantification of this harm to publishers and broadcasters serving an Oregon audi-
+19 ence; and
+20 Whereas according to a report by the University of Oregon School of Journalism and
+21 Communication’s Agora Journalism Center, 18 Oregon news outlets closed or went out of business
+22 between the years 2022 and 2025, and other Oregon news outlets have undergone corporate mergers,
+23 budget cuts and layoffs in newsrooms, and local news outlets have been destabilized both by the loss
+24 of advertising and by the way those platforms draw audiences away into other online content while
+25 algorithmically altering how readily local news appears in web searches and social media feeds; and
+26 Whereas Google agreed to a $391.5 million settlement with the State of Oregon in 2022 over the
+27 platform’s deceptive practices of tracking user location data even when a user turned a tracking
+28 setting off, and in 2025 Google will pay a $1.4 billion settlement to the State of Texas based on
+29 allegations that Google misled consumers about its data practices by continuing to collect and use
+30 sensitive information even when users believed they had opted out, and making misleading claims
+31 and misrepresentations about its practices, which follows previous settlements for $700 million and
+32 $8 million for anticompetitive and deceptive trade practices; and
+33 Whereas in 2023 the State of Oregon sued Meta for knowingly designing and deploying harmful
+34 features on its platforms that purposefully addict children and teens while falsely assuring the public
+35 that these features are safe and suitable for young users, and in 2025 Meta will pay a $1.4 billion
+36 settlement to the State of Texas for unlawfully collecting and using facial recognition data, the
+37 largest settlement ever obtained from an action brought by a single state; and
+38 Whereas in 2015 and 2016 Google created Google AMP as a competitor to Facebook Instant
+39 Articles, and Google placed itself in the middle of the relationship between news organizations and
+40 their users by marketing the benefits of AMP adoption to news organizations, resulting in the user
+41 no longer visiting news organizations’ websites directly, but instead viewing a copy of the article
+42 hosted on Google’s servers inside its “walled garden”; and
+43 Whereas many United States news publishers adopted Google AMP because Google locked
+44 non-AMP pages out of features like the “Top Stories” carousel and Google News, and, following
+45 adoption, some publishers reported that AMP pages generated less advertising revenue per page
+[2]
+
+SB 1580
+1 than non-AMP pages; and
+2 Whereas Google AMP preferential rankings have now been discontinued by the platform; now,
+3 therefore,
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. Definitions. As used in sections 1 to 11 of this 2026 Act:
+6 (1) “Access” means to acquire, crawl or index online content.
+7 (2) “Access for an Oregon audience” means to access online content for the purpose of
+8 monetizing the online content by aggregating, distributing, rendering or displaying the online
+9 content for an end user located in this state.
+10 (3) “Advertising revenue” means revenue generated through the sale of digital advertis-
+11 ing impressions that are served to end users in this state through an online platform.
+12 (4) “Broadcaster” means a person that:
+13 (a) Holds or operates under a license issued by the Federal Communications Commission
+14 under subchapter III, chapter 5, Title 47 of the United States Code, and has held or operated
+15 under the license for the previous two years;
+16 (b) Engages professionals to create, edit, produce and distribute original content con-
+17 cerning local, regional, national or international matters of public interest through activities,
+18 including conducting interviews, observing current events, analyzing documents and other
+19 information or fact-checking through multiple firsthand or secondhand news sources;
+20 (c) Provides information to an Oregon audience and has provided information to an
+21 Oregon audience for the previous two years;
+22 (d) Updates its content on at least a weekly basis; and
+23 (e) Uses an editorial process for error correction and clarification, including a transpar-
+24 ent process for reporting errors or complaints to the broadcaster.
+25 (5) “Covered platform” means a business that:
+26 (a) Operates one or more online platforms;
+27 (b) Accesses online content;
+28 (c) Aggregates, distributes, renders or displays online content that the covered platform
+29 accesses;
+30 (d) Earns less than 50 percent of its annual revenue, as calculated at the level of the
+31 ultimate corporate parent, from the manufacturing and sales to consumers of company-
+32 branded devices and hardware; and
+33 (e) At any point during the last 12-month period:
+34 (A) Had at least 50 million monthly active users or subscribers in the United States
+35 across the covered platform’s online platforms; and
+36 (B) Had or is owned or controlled by a parent corporation with:
+37 (i) Annual revenues or a market capitalization in the United States that is greater than
+38 $550 billion, adjusted annually for inflation since 2026 based on the Consumer Price Index for
+39 All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statis-
+40 tics of the United States Department of Labor; or
+41 (ii) At least one billion worldwide monthly active users across the covered platform’s or
+42 parent corporation’s online platforms.
+43 (6) “Digital journalism provider” means a publisher or broadcaster that publicly discloses
+44 its ownership.
+45 (7) “Freelancer” means an individual, or an organization composed of no more than one
+[3]
+
+SB 1580
+1 individual, hired or retained as a bona fide independent contractor by a digital journalism
+2 provider to perform one or more functions of a news journalist as described in subsection
+3 (8)(b) of this section for the primary purpose of producing content for an Oregon audience.
+4 (8) “News journalist” means an individual who is:
+5 (a) Employed for an average of at least 30 hours per week during a calendar quarter as
+6 an employee of a digital journalism provider to carry out the activities of gathering, devel-
+7 oping, preparing, directing the recording of, producing, collecting, photographing, recording,
+8 writing, editing, reporting, designing, presenting or publishing original news or information
+9 that concerns local, regional, national or international matters of public interest.
+10 (b) A member of a limited liability company that is a digital journalism provider and who
+11 carries out for an average of at least 30 hours per week during a calendar quarter the ac-
+12 tivities of gathering, developing, preparing, directing the recording of, producing, collecting,
+13 photographing, recording, writing, editing, reporting, designing, presenting or publishing or-
+14 iginal news or information that concerns local, regional, national or international matters
+15 of public interest.
+16 (9) “Online platform” includes an Internet website, online service, online application,
+17 mobile application or digital assistant.
+18 (10) “Publisher” means a person that publishes an Internet website, online or mobile ap-
+19 plication or other digital service that:
+20 (a) Provides information to an Oregon audience and has provided information to an
+21 Oregon audience for the previous two years;
+22 (b) Performs a public information function comparable to that traditionally served by
+23 newspapers and other periodical news publications;
+24 (c) Engages professionals to create, edit, produce and distribute original content or con-
+25 tent for which a valid license has been obtained concerning local, regional, national or
+26 international matters of public interest through activities, including conducting interviews,
+27 observing current events, analyzing documents and other information or fact-checking
+28 through multiple firsthand or secondhand news sources;
+29 (d) Updates its content on at least a weekly basis;
+30 (e) Has an editorial process for error correction and clarification, including a transparent
+31 process for reporting errors or complaints to the publication;
+32 (f) Meets one of the following criteria:
+33 (A) Has generated at least $100,000 in annual revenue from its content in the previous
+34 calendar year;
+35 (B) Had an International Standard Serial Number assigned to an affiliated periodical be-
+36 fore January 1, 2026; or
+37 (C) Is owned or controlled by an organization exempt from federal income taxation under
+38 section 501(c)(3) of the Internal Revenue Code, as amended;
+39 (g) Has at least 51 percent of its content consisting of information about topics of current
+40 local, regional, national or international public interest; and
+41 (h) Is not controlled or wholly or partially owned by one of the following:
+42 (A) An entity that is a foreign power or an agent of a foreign power, as defined in 50
+43 U.S.C. 1801;
+44 (B) An entity that is designated as a foreign terrorist organization pursuant to 8 U.S.C.
+45 1189;
+[4]
+
+SB 1580
+1 (C) An entity that is a terrorist organization, as defined in 8 U.S.C. 1182;
+2 (D) An entity that is designated as a specially designated global terrorist organization
+3 under federal Executive Order 13224;
+4 (E) An entity that is an affiliate of an entity described in subparagraph (A), (B), (C) or
+5 (D) of this paragraph; or
+6 (F) An entity that has been convicted of violating, or attempting to violate, 18 U.S.C.
+7 2332b or 2339A.
+8 (11) “Qualified arbitrator” means an arbitration organization that has arbitration rules
+9 and procedures established for at least one year prior to the initiation of the arbitration.
+10 (12) “Representative” means a labor organization designated as the exclusive bargaining
+11 representative of news journalists or support staff for the purposes of collective bargaining
+12 in accordance with applicable state or federal law.
+13 (13) “Support staff” means an individual who performs nonexecutive functions, such as
+14 payroll, human resources, fundraising and grant support, advertising and sales, community
+15 events and partnerships, technical support, sanitation or security.
+16 SECTION 2. Accessing online content of digital journalism provider; agreement required.
+17 (1) A covered platform may not access for an Oregon audience the online content of a digital
+18 journalism provider unless the covered platform and digital journalism provider have an
+19 agreement that meets the requirements of subsection (2) of this section and the covered
+20 platform is in compliance with the agreement.
+21 (2) An agreement between a covered platform and a digital journalism provider that al-
+22 lows for the covered platform to access for an Oregon audience the online content of the
+23 digital journalism provider must meet the following requirements:
+24 (a) Be in writing;
+25 (b) Be a standalone agreement that covers the compensation to be paid by the covered
+26 platform in exchange for accessing for an Oregon audience the online content of the digital
+27 journalism provider;
+28 (c) Require the covered platform to compensate the digital journalism provider for ac-
+29 cessing for an Oregon audience the online content of the digital journalism provider and
+30 specify the amount or rate of the compensation;
+31 (d) May not permit the covered platform to provide a service or added value in lieu of
+32 paying compensation for accessing for an Oregon audience the online content of the digital
+33 journalism provider;
+34 (e) May not be conditioned on or tied to any other products or services;
+35 (f) Provide for an audit of the covered platform’s access of the online content of the
+36 digital journalism provider; and
+37 (g) Prohibit the covered platform from selling or licensing to a third party:
+38 (A) The online content of the digital journalism provider that the covered platform ac-
+39 cesses; or
+40 (B) Any data the covered platform collects or maintains in accessing the online content
+41 of the digital journalism provider.
+42 SECTION 3. Civil action; accessing content without agreement; noncompliance with
+43 agreement; remedies. (1) A digital journalism provider may bring a civil action against a
+44 covered platform if:
+45 (a) The covered platform accesses for an Oregon audience the online content of a digital
+[5]
+
+SB 1580
+1 journalism provider without an agreement between the covered platform and digital
+2 journalism provider that meets the requirements of section 2 of this 2026 Act; or
+3 (b) The covered platform is not in compliance with an agreement between the covered
+4 platform and digital journalism provider that meets the requirements of section 2 of this 2026
+5 Act.
+6 (2) The digital journalism provider may recover actual damages or statutory damages of
+7 $1,000 per access that the covered platform carried out in violation of section 2 of this 2026
+8 Act, whichever is greater. The court or the jury may award punitive damages. The court
+9 may provide any equitable relief the court considers necessary or proper.
+10 (3) The court may award reasonable attorney fees and costs at trial and on appeal to a
+11 prevailing plaintiff in an action under this section. The court may award reasonable attorney
+12 fees and costs at trial and on appeal to a prevailing defendant only if the court finds that
+13 an objectively reasonable basis for bringing the action or asserting the ground for appeal did
+14 not exist.
+15 (4) The court may not award attorney fees to a prevailing defendant under the provisions
+16 of subsection (3) of this section if the action under this section is maintained as a class
+17 action pursuant to ORCP 32.
+18 (5) An action under this section must be commenced within one year from the discovery
+19 of the access that gave rise to the claim for relief.
+20 (6) The remedy provided under this section is in addition to, and not in lieu of, any other
+21 claim for relief that may be available at law.
+22 (7) Notwithstanding subsection (1) of this section, a digital journalism provider may not
+23 bring an action against a covered platform for accessing for an Oregon audience the online
+24 content of the digital journalism provider if the covered platform, on the date the access
+25 occurs, was:
+26 (a) Participating in an arbitration under section 7 of this 2026 Act; or
+27 (b) In compliance with:
+28 (A) A final arbitration order issued under section 7 of this 2026 Act;
+29 (B) A judgment in an appeal of an arbitration award issued under section 7 of this 2026
+30 Act; or
+31 (C) A settlement agreement that is approved by an arbitrator under section 7 of this 2026
+32 Act.
+33 SECTION 4. Two-year exemption from civil actions; fixed compensation. (1) A digital
+34 journalism provider may not bring an action under section 3 of this 2026 Act against a cov-
+35 ered platform for accessing for an Oregon audience the online content of the digital
+36 journalism provider if the access occurs between January 1, 2027, and December 31, 2028, and
+37 the covered platform elects to carry out one of the following:
+38 (a) For a covered platform with 6 billion or more worldwide active monthly users, the
+39 covered platform pays a total of at least $104 million each year to the digital journalism
+40 providers that produce online content that the covered platform accesses for an Oregon au-
+41 dience between January 1, 2027, and December 31, 2028; or
+42 (b) For a covered platform with less than 6 billion worldwide monthly active users, the
+43 covered platform pays a total of at least $18 million each year to the digital journalism pro-
+44 viders that produce online content that the covered platform accesses for an Oregon audi-
+45 ence between January 1, 2027, and December 31, 2028.
+[6]
+
+SB 1580
+1 (2) A covered platform that pays an amount under this section shall distribute 10 percent
+2 of the amount the covered platform pays to the Oregon Civic Information Consortium es-
+3 tablished under section 12 of this 2026 Act. The covered platform shall distribute the re-
+4 maining 90 percent of the amount the covered platform pays to the digital journalism
+5 providers as follows:
+6 (a) No less than one percent of the amount shall be paid to digital journalism providers
+7 that would receive less than $25,000 under paragraph (b) of this subsection, to be annually
+8 distributed in proportion to the number of news journalists and, subject to section 8 (1)(b)(B)
+9 of this 2026 Act, freelancers who, in the previous calendar year, were employed by each dig-
+10 ital journalism provider for the primary purpose of producing content for an Oregon audi-
+11 ence, in addition to the amount the digital journalism providers would receive pursuant to
+12 paragraph (b) of this subsection; and
+13 (b) The amount remaining after payment under paragraph (a) of this subsection shall be
+14 distributed annually to digital journalism providers in proportion to the number of news
+15 journalists who, in the previous calendar year, were employed by each digital journalism
+16 provider for the primary purpose of producing content for an Oregon audience.
+17 (3) A covered platform shall distribute amounts under this section in the manner pro-
+18 vided under section 5 of this 2026 Act.
+19 (4)(a) A digital journalism provider that wishes to receive an annual payment under this
+20 section shall provide the covered platform notice. The notice must include, at a minimum:
+21 (A) The name of the digital journalism provider;
+22 (B) The number of news journalists and freelancers employed or claimed under section
+23 8 of this 2026 Act; and
+24 (C) A contact person for the digital journalism provider.
+25 (b) A covered platform may take reasonable measures to verify that notice under this
+26 subsection originates from a genuine digital journalism provider.
+27 SECTION 5. Approved claims administrator; distribution of payments. (1)(a) A covered
+28 platform shall engage an approved claims administrator to distribute annual payments to
+29 digital journalism providers and the Oregon Civic Information Consortium established under
+30 section 12 of this 2026 Act in compliance with the following:
+31 (A) A final arbitration order issued under section 7 of this 2026 Act;
+32 (B) A judgment in an appeal of an arbitration award issued under section 7 of this 2026
+33 Act; or
+34 (C) A settlement agreement that is approved by an arbitrator under section 7 of this 2026
+35 Act.
+36 (b) In selecting an approved claims administrator, the covered platform shall ensure that
+37 the administrator is well qualified to perform the distribution and has administered multiple
+38 settlements in this state that comply with complex civil litigation class action settlement
+39 guidelines in at least three state or federal courts in this state.
+40 (c) The covered platform shall be responsible for covering the costs of the approved
+41 claims administrator.
+42 (2) An approved claims administrator distributing payments under this section shall:
+43 (a) Prepare an annual statement of account related to the distribution activities, that is
+44 certified by a certified public accountant;
+45 (b) Provide a point of contact that a digital journalism provider may use to submit in-
+[7]
+
+SB 1580
+1 quiries with timely redress;
+2 (c) Establish policies to resolve disputes, guard against fraud and abuse and ensure that
+3 any indistributable funds are reallocated among participating digital journalism providers
+4 after a reasonable holding period; and
+5 (d) Publish on the administrator’s website an annual report detailing nonconfidential op-
+6 erations of the distribution activities, including the digital journalism providers that received
+7 compensation and the amounts paid. The administrator shall provide the report to the cov-
+8 ered platform and the covered platform shall also publish the report on the covered
+9 platform’s website.
+10 (3) A covered platform shall identify a point of contact for electronic mail or other elec-
+11 tronically communicated inquiries by a digital journalism provider or the Oregon Civic In-
+12 formation Consortium established under section 12 of this 2026 Act.
+13 (4) Ten percent of a final arbitration award issued under section 7 of this 2026 Act shall
+14 be distributed to the Oregon Civil Information Consortium established under section 12 of
+15 this 2026 Act. The remaining 90 percent of a final arbitration award issued under section 7
+16 of this 2026 Act shall be distributed to participating digital journalism providers in proportion
+17 to the number of news journalists and, subject to section 8 (1)(b)(B) of this 2026 Act,
+18 freelancers, who, in the previous calendar year, were employed by each participating digital
+19 journalism provider for the primary purpose of producing content for an Oregon audience.
+20 (5)(a) The amount of any compensation received by a digital journalism provider through
+21 a commercial agreement for access to content by the covered platform that was offset pur-
+22 suant to section 7 (8)(c)(C) of this 2026 Act shall be deducted from its allocation accordingly.
+23 (b) A digital journalism provider may request payment under this section, or a grant
+24 under section 14 of this 2026 Act, but not both.
+25 (6)(a) A digital journalism provider that disagrees with the determination of its eligibility
+26 or the amount of compensation awarded may seek a review of the determination as follows:
+27 (A) The digital journalism provider shall seek redress through the dispute resolution
+28 process established pursuant to subsection (2)(c) of this section.
+29 (B) If the digital journalism provider disagrees with the result of the dispute resolution
+30 process, the digital journalism provider may initiate an arbitration of the dispute by a qual-
+31 ified arbitrator.
+32 (b) Any request for arbitration pursuant to paragraph (a) of this subsection shall be made
+33 within 10 days of receiving notice of the eligibility decision or compensation determination
+34 to be challenged.
+35 (c) In an arbitration held pursuant to paragraph (a) of this subsection, the approved
+36 claims administrator shall pay the costs of the qualified arbitrator.
+37 (7) A digital journalism provider may not be denied compensation under this section on
+38 the basis that the provider publishes or broadcasts, in whole or in part, in a language other
+39 than English.
+40 SECTION 6. Accessed content; biennial list. (1) No later than March 1 of each odd-
+41 numbered year, a covered platform shall compile and make public on the covered platform’s
+42 website a list of digital journalism providers that produced online content that the covered
+43 platform accessed for an Oregon audience during the prior two calendar years.
+44 (2) A covered platform shall:
+45 (a) Establish and maintain an electronic mail address that a digital journalism provider
+[8]
+
+SB 1580
+1 may use to submit a request to the covered platform to provide a copy of the list of digital
+2 journalism providers described in subsection (1) of this section; and
+3 (b) Upon request by a digital journalism provider, provide a copy of the list to the digital
+4 journalism provider within three days of the request.
+5 (3) A covered platform may not exclude a digital journalism provider from a list described
+6 in subsection (1) of this section on the basis that the digital journalism provider publishes
+7 or broadcasts, in whole or in part, in a language other than English.
+8 SECTION 7. Final offer arbitration; parties; procedures. (1)(a) A covered platform or
+9 group of digital journalism providers organized under subsection (3) of this section may ini-
+10 tiate an arbitration under this section to determine a percentage of the covered platform’s
+11 advertising revenue that the covered platform shall be required to remit on an annual basis
+12 for a two-year period to the digital journalism providers that participate in the arbitration.
+13 (b) The arbitration must be in the form of final offer arbitration.
+14 (c)(A) The covered platform shall participate in the arbitration as a single party and no
+15 other covered platform may participate in the arbitration.
+16 (B) The group of digital journalism providers shall participate jointly as a single party.
+17 However, each digital journalism provider may be individually represented during the arbi-
+18 tration or any appeal of the final arbitration order or settlement.
+19 (C) Only one group of digital journalism providers may initiate or participate in an arbi-
+20 tration under this section with a covered platform.
+21 (d) The parties shall engage a qualified arbitrator to carry out the arbitration. A panel
+22 of three arbitrators affiliated with the qualified arbitrator shall determine the arbitration
+23 procedures under the rules of the arbitrators. The arbitration procedures must be consistent
+24 with the provisions of this section.
+25 (2) Arbitration under this section may be initiated in the following manner:
+26 (a) A covered platform may initiate an arbitration under this section within the 30-day
+27 period immediately following the date the covered platform makes public on the covered
+28 platform’s website the list of digital journalism providers described in section 6 (1) of this
+29 2026 Act.
+30 (b) A group of digital journalism providers organized under subsection (3) of this section
+31 may initiate an arbitration under this section within the 30-day period immediately following
+32 the date the group adopts rules and procedures to govern how the group shall make deci-
+33 sions.
+34 (3)(a) Digital journalism providers may organize as a group under this subsection by
+35 adopting rules and procedures to govern how the group of digital journalism providers shall
+36 make decisions regarding the arbitration or any appeal of the final arbitration order or
+37 settlement.
+38 (b) Digital journalism providers may organize as a group under this subsection within the
+39 30-day period immediately following the date that:
+40 (A) A covered platform makes public on the covered platform’s website the list of digital
+41 journalism providers described in section 6 (1) of this 2026 Act; or
+42 (B) A covered platform initiates an arbitration under this section.
+43 (c) Any official decision or action by the group of participating digital journalism pro-
+44 viders requires a majority vote. Each digital journalism provider that is a member of the
+45 group is entitled to one vote.
+[9]
+
+SB 1580
+1 (4)(a) Within 10 days from the date that both parties have filed an appearance in an ar-
+2 bitration initiated under this section and prior to commencing the arbitration, the covered
+3 platform and group of digital journalism providers shall engage in mediation for a period of
+4 up to 60 days. The purpose of the mediation is to attempt to reach a settlement on the per-
+5 centage of the covered platform’s advertising revenue that the covered platform shall be
+6 required to remit on an annual basis for a two-year period to the digital journalism providers
+7 as compensation for accessing for an Oregon audience the online content of the digital
+8 journalism providers during the two-year period.
+9 (b) If the parties reach a settlement, the arbitrator may approve the settlement and the
+10 arbitration will conclude. Any proposed settlement may not seek to waive a digital journalism
+11 provider’s obligations under section 8 of this 2026 Act.
+12 (c) If the parties do not reach a settlement within 60 days, the parties shall commence
+13 with the arbitration within 10 days from the last day of the mediation period.
+14 (5) Each party shall pay one half of the costs of the arbitration. The one half of the costs
+15 that the group of digital journalism providers are required to pay shall be deducted from any
+16 amount awarded under this section and shall be deducted prior to any calculation made un-
+17 der section 5 (4) of this 2026 Act.
+18 (6) The following procedures shall apply to the arbitration:
+19 (a)(A) Each party may request the production of business records that are relevant to
+20 the percentage of the covered platform’s advertising revenue to be awarded to the partic-
+21 ipating digital journalism providers and that are nonprivileged, reasonably necessary and
+22 reasonably accessible without undue expense. A party that receives a request to produce
+23 business records shall provide the business records within 30 days from the date of the re-
+24 quest.
+25 (B) The covered platform is limited to one request for each participating digital
+26 journalism provider to produce business records. The covered platform shall reimburse a
+27 digital journalism provider for the digital journalism provider’s reasonable costs of producing
+28 business records, including attorney fees, within 10 days after receiving a request for re-
+29 imbursement from a digital journalism provider.
+30 (b) Each party shall submit a final offer proposal on the amount the covered platform
+31 shall be required to remit to the digital journalism providers on an annual basis for a two-
+32 year period as compensation for accessing for an Oregon audience the online content of the
+33 digital journalism providers during the two-year period. The amount must be based on the
+34 value that the covered platform receives for accessing for an Oregon audience the online
+35 content of the digital journalism providers. The final offer proposals must include backup
+36 materials sufficient to permit the other party to replicate the proffered valuation.
+37 (c) A party’s final offer proposal may not address whether or how the covered platform
+38 or any digital journalism provider ranks, distributes, suppresses, promotes, throttles, labels,
+39 filters or curates the online content of the digital journalism providers or any other person.
+40 (7) Not later than 60 days from the date arbitration commences, the arbitration panel
+41 shall accept without modification one of the parties’ final offer proposals. In making its de-
+42 termination on which final offer proposal to accept, the arbitration panel:
+43 (a) May not take into consideration any value that the covered platform confers upon any
+44 of the digital journalism providers for aggregating, distributing, rendering or displaying the
+45 online content of the digital journalism providers, unless the covered platform does not au-
+[10]
+
+SB 1580
+1 tomatically access the online content of the digital journalism provider; and
+2 (b) Shall:
+3 (A) If a commercial agreement exists between the covered platform and any of the digital
+4 journalism providers, consider the monetary compensation that the covered platform pays
+5 the digital journalism provider under the commercial agreement for the purpose of offsetting
+6 the value created by a digital journalism provider;
+7 (B) Consider past incremental revenue contributions as a guide to the future incremental
+8 revenue contribution by any of the digital journalism providers;
+9 (C) Consider the pricing, terms and conditions of any available or comparable commercial
+10 agreements between a covered platform and digital journalism provider that grants the cov-
+11 ered platform access to the online content of the digital journalism provider, including pric-
+12 ing, terms and conditions relating to price, duration, territory and the value of data
+13 generated directly or indirectly by the online content, taking in consideration any material
+14 disparities in the negotiating power between the parties to those commercial agreements;
+15 and
+16 (D) If submitted with a final offer proposal, consider a digital journalism provider’s pre-
+17 vious compliance with section 8 of this 2026 Act to the extent applicable.
+18 (8)(a) Within 15 days of accepting a final offer proposal, the arbitration panel shall issue
+19 an arbitration award and final arbitration order.
+20 (b) The arbitration award must set out the percentage of the covered platform’s adver-
+21 tising revenue that the covered platform shall be required to remit on an annual basis for a
+22 two-year period to the digital journalism providers that participate in the arbitration.
+23 (c) The final arbitration order must:
+24 (A) Set forth the amount of the final offer proposal accepted by the arbitration panel.
+25 (B) Require the covered platform to pay the final offer amount on an annual basis over
+26 a two-year period.
+27 (C) Authorize the covered platform to reduce the total amount the covered platform is
+28 obligated to pay under the arbitration award by the total amount the covered platform is
+29 obligated to pay under any commercial agreements the covered platform has with digital
+30 journalism providers that participated in the arbitration. To receive an offset under this
+31 subparagraph, the covered platform shall provide to the arbitration panel a copy of each
+32 commercial agreement for which the covered platform seeks an offset. The covered platform
+33 may offset only the amount that the covered platform actually pays under a commercial
+34 agreement.
+35 (D) Include the date of the order.
+36 (E) State the date that the order expires.
+37 (F) Set forth the process by which the parties may jointly request that the arbitration
+38 award be renewed by the arbitration panel.
+39 (9)(a) Any party to the arbitration proceeding may appeal the decision of the arbitration
+40 panel to a circuit court of competent jurisdiction for a trial de novo.
+41 (b) Notwithstanding ORCP 36, in a trial de novo under this subsection:
+42 (A) Production of documents or things is limited to any business records produced during
+43 the arbitration proceeding; and
+44 (B) Depositions of persons are limited to persons that a party designates as a trial wit-
+45 ness. A person that a party does not designate as a trial witness by pretrial court order may
+[11]
+
+SB 1580
+1 not provide testimony at trial.
+2 (c) In a trial de novo under this subsection, the circuit court shall review de novo the
+3 choice of the arbitration panel between the parties’ final offer proposals submitted under
+4 subsection (7) of this section using the standards set forth in subsections (6) and (7) of this
+5 section and applying the provisions of subsection (8)(c)(C) of this section.
+6 (10) No less than one percent of each arbitration award shall be paid to digital journalism
+7 providers that would receive less than $25,000 under the arbitration award, to be annually
+8 distributed in proportion to the number of news journalists and, subject to section 8 (1)(b)(B)
+9 of this 2026 Act, freelancers who, in the previous calendar year, were employed by each dig-
+10 ital journalism provider for the primary purpose of producing content for an Oregon audi-
+11 ence, in addition to the amount the digital journalism providers would receive under an
+12 arbitration award.
+13 (11) Ten percent of a final arbitration award issued under this section shall be distributed
+14 to the Oregon Civil Information Consortium established under section 12 of this 2026 Act.
+15 (12) An arbitration award and final arbitration order issued under this section expires
+16 within two years after an arbitration panel issues the order unless the arbitration panel re-
+17 news the award and order.
+18 (13) During the 90-day period immediately prior to the expiration of an arbitration award
+19 and final arbitration order, the parties may jointly request that the arbitration panel renew
+20 the award and order for an additional two years. The parties shall make the request in
+21 writing pursuant to the procedures set forth in the order. The award and order may be re-
+22 newed as often as the parties request that the award and order be renewed.
+23 SECTION 8. Digital journalism provider; use of funds to employ news journalists and
+24 support staff. (1)(a) Except as provided in paragraph (b) of this subsection, a digital
+25 journalism provider shall spend at least 70 percent of funds received under sections 1 to 11
+26 of this 2026 Act on news journalists and support staff employed by the digital journalism
+27 provider.
+28 (b)(A) A digital journalism provider with five or fewer employees shall spend at least 50
+29 percent of funds received pursuant to sections 1 to 11 of this 2026 Act on news journalists
+30 and support staff employed by the digital journalism provider.
+31 (B) For the purpose of calculating a distribution from a covered platform made pursuant
+32 to section 5 (4) of this 2026 Act, or for establishing a digital journalism provider’s minimum
+33 distribution to news journalists and support staff pursuant to this section, a digital
+34 journalism provider with five or fewer employees may elect to count dollars spent on the
+35 equivalent functions performed by news journalists as follows:
+36 (i) The digital journalism provider shall employ at least one news journalist for the pri-
+37 mary purpose of producing content for an Oregon audience.
+38 (ii) A digital journalism provider may elect to count each $40,000 spent by the provider
+39 in the previous calendar year to compensate freelancers performing the functions described
+40 in section 1 (8)(b) of this 2026 Act as employing the equivalent of one news journalist, up to
+41 a maximum of $160,000 or the equivalent of four news journalists, with those amounts ad-
+42 justed annually for inflation since 2026 based on the Consumer Price Index for All Urban
+43 Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the
+44 United States Department of Labor. In no instance may the total number of news journalists
+45 and freelancers claimed pursuant to this subparagraph exceed the number of individuals
+[12]
+
+SB 1580
+1 compensated by the digital journalism provider.
+2 (2) No later than 30 days after the entry of an arbitration award or judgment in an appeal
+3 of an arbitration award under section 7 of this 2026 Act or reaching a settlement in lieu of
+4 an arbitration proceeding, the digital journalism provider shall provide notification in writing
+5 of its plan to comply with subsection (1) of this section to the news journalists and support
+6 staff employed by the digital journalism provider and any representatives of those news
+7 journalists or support staff.
+8 (3) The digital journalism provider’s plan to comply with subsection (1) of this section
+9 shall include a good faith estimate of the number of news journalists and support staff, re-
+10 spectively, if any, expected to be hired, details regarding proposed compensation adjustments,
+11 if any, and a disclosure if either hiring or compensation adjustments are not expected.
+12 SECTION 9. Digital journalism provider annual report; attestation. (1) No later than one
+13 year after the issuance of an arbitration award or entry of a judgment in an appeal of an
+14 arbitration award under section 7 of this 2026 Act or reaching a settlement of claims under
+15 sections 1 to 11 of this 2026 Act, and each year thereafter, a digital journalism provider shall:
+16 (a) Compile a report that includes the following:
+17 (A) An attestation as to whether the digital journalism provider has complied with sec-
+18 tion 8 (1) of this 2026 Act;
+19 (B) The digital journalism provider’s plan to comply with section 8 (1) of this 2026 Act;
+20 (C) The total number of payments received from covered platforms under sections 1 to
+21 11 of this 2026 Act;
+22 (D) The name of each covered platform paying the digital journalism provider a payment
+23 under sections 1 to 11 of this 2026 Act and a description of how the digital journalism pro-
+24 vider spent the payment, including any amount of payments under sections 1 to 11 of this
+25 2026 Act remaining unspent; and
+26 (E) The total number of news journalists and support staff, respectively, employed by the
+27 digital journalism provider, including the number of news journalists and support staff hired
+28 or terminated, respectively, during the previous year;
+29 (b) Publish a copy of the report online in a text-searchable format; and
+30 (c) Provide a copy of the report to the news journalists and support staff employed by
+31 the digital journalism provider, to any representatives of the news journalists or support
+32 staff and to the covered platforms making payments under sections 1 to 11 of this 2026 Act
+33 to the digital journalism provider.
+34 (2) If a digital journalism provider fails to comply with this section, a covered platform
+35 may withhold payments under sections 1 to 11 of this 2026 Act until the digital journalism
+36 provider provides a copy of the report to the covered platform and publishes a copy of the
+37 report online in a text-searchable format.
+38 SECTION 10. Other remedies; injunctive relief. (1) Sections 1 to 11 of this 2026 Act shall
+39 not be construed as amending or repealing any other remedy available at law.
+40 (2) A digital journalism provider may obtain injunctive relief to compel compliance with
+41 sections 5, 6 or 7 of this 2026 Act. The court shall award a prevailing digital journalism pro-
+42 vider court costs and reasonable attorney fees.
+43 SECTION 11. Federal law; collective bargaining agreements. Sections 1 to 11 of this 2026
+44 Act do not:
+45 (1) Modify, impair, expand or in any way alter rights pertaining to Title 17 of the United
+[13]
+
+SB 1580
+1 States Code or the Lanham Act (15 U.S.C. 1051 et seq.); or
+2 (2) Abridge or impair rights otherwise reserved by news journalists, support staff or their
+3 representatives according to applicable law or existing collective bargaining agreements.
+4 SECTION 12. Oregon Civic Information Consortium; board of directors; annual report.
+5 (1) There is established the Oregon Civic Information Consortium as a nonprofit corporation.
+6 The purpose of the consortium is to provide grants described in section 14 of this 2026 Act
+7 to support Oregon news content providers, journalism, news, public information projects and
+8 public interest initiatives that address Oregonians’ civic information needs. The consortium
+9 shall be a collaborative effort among Oregon journalistic publications, news outlets, member
+10 universities and nonprofit and community organizations.
+11 (2) The consortium shall be governed by a board of directors. The board shall set stra-
+12 tegic priorities and metrics to guide the consortium’s initiatives and grant programs.
+13 (3) The board shall consist of 13 members appointed by the Governor and subject to
+14 confirmation by the Senate in the manner prescribed in ORS 171.562 and 171.565, as follows:
+15 (a) Five members employed in the news media industry or Oregon journalistic publica-
+16 tions;
+17 (b) Three members representing nonprofit or community organizations;
+18 (c) One member representing a labor union for working news journalists;
+19 (d) One member from a society of professional journalism;
+20 (e) One member representing the digital technology sector;
+21 (f) One member representing the University of Oregon; and
+22 (g) One member representing another public university listed in ORS 352.002.
+23 (4) The term of office of each member is four years. Before the expiration of the term
+24 of a member, the Governor shall appoint a successor whose term begins on January 1 of the
+25 following year. A member may be reappointed. If there is a vacancy for any cause, the
+26 Governor shall make an appointment to become immediately effective for the unexpired
+27 term.
+28 (5) The board shall select one of its members as chairperson and another as vice chair-
+29 person for such terms and with such duties and powers as the board considers necessary for
+30 performance of the functions of those offices.
+31 (6) A majority of members of the board constitutes a quorum for the transaction of
+32 business.
+33 (7) The board shall meet at times and places specified by the chairperson or by a majority
+34 of the members of the board.
+35 (8) The board shall hold public hearings annually in different geographical regions of this
+36 state. The public hearings shall provide a forum for the board to report on how the funds
+37 that the consortium receives are spent and to gather public input on what the consortium’s
+38 mission should be and whether the consortium is meeting its mission. Public input shall be
+39 used to assess whether the consortium’s grant-making metrics or process for issuing grants
+40 needs to be changed.
+41 (9) Members of the board are not entitled to compensation, but may be reimbursed for
+42 actual and necessary travel and other expenses incurred by them in the performance of their
+43 official duties. Claims for expenses shall be paid out of such funds as may be available to the
+44 board.
+45 (10) On or before September 1 of each year, the board shall submit a report on the ac-
+[14]
+
+SB 1580
+1 tivities of the consortium in the manner provided by ORS 192.245, and may include recom-
+2 mendations for legislation, regulations or policies, to the Governor and the interim
+3 committees of the Legislative Assembly related to higher education. The report must in-
+4 clude, at a minimum:
+5 (a) A list of all grant applicants and approved grant applicants;
+6 (b) The grant amounts distributed to approved grant applicants under section 14 of this
+7 2026 Act;
+8 (c) The amount of matching funds and types of in-kind contributions provided to ap-
+9 proved grant applicants; and
+10 (d) The status of the activities funded pursuant to approved grant applicant.
+11 (11) The University of Oregon shall provide the consortium with administrative and staff
+12 support and facilities.
+13 SECTION 13. Executive director; program officers; administrative staff. (1) The Oregon
+14 Civic Information Consortium board of directors shall appoint an executive director of the
+15 consortium and fix the executive director’s compensation and conditions of employment. The
+16 executive director is the chief executive, administrative and operational officer of the con-
+17 sortium and shall:
+18 (a) Direct and supervise the administrative affairs and general management of the con-
+19 sortium;
+20 (b) Oversee the consortium’s day-to-day operations;
+21 (c) Work with the board to meet the consortium’s goals and grant-making requirements;
+22 (d) Employ and manage program officers and administrative staff;
+23 (e) Serve as the consortium’s spokesperson;
+24 (f) Raise funds for the consortium from external sources; and
+25 (g) Attend all board meetings.
+26 (2)(a) The consortium’s program officers must be experienced practitioners with a strong
+27 understanding of the local journalism field, community-based organizations and fiscal and
+28 grant management. The executive director shall strive, as allowed by law, to appoint program
+29 officers that represent this state’s racial, ethnic, gender and geographic diversity.
+30 (b) Program officers shall manage the grant-making process in accordance with the
+31 consortium’s goals. The grant-making process includes soliciting, recommending and pro-
+32 cessing grant proposals, working with grantees to ensure the quality of work that is done
+33 on grant project ideas and directing public engagement and evaluation efforts.
+34 (3) The consortium’s administrative staff shall provide operational support for the con-
+35 sortium, including office management, support for the executive director and program offi-
+36 cers, coordination among member universities, payment to grantees, human resources and
+37 logistics.
+38 SECTION 14. Grants; grant agreements. (1) The Oregon Civic Information Consortium
+39 shall provide grants for projects that achieve the following goals:
+40 (a) Serve the public interest, improve civic information and increase availability of local
+41 news content in this state;
+42 (b) Enhance the quality and availability of timely, reliable local news and support local
+43 reporting and investigative journalism;
+44 (c) Address underserved areas, meet the information needs of low-income or racial, eth-
+45 nic or language minority communities and provide culturally specific and multilingual con-
+[15]
+
+SB 1580
+1 tent;
+2 (d) Develop stronger journalism networks through shared practices and partnerships,
+3 support training of journalism students and working professionals and support job creation
+4 and career advancement opportunities related to local journalism; and
+5 (e) Other related goals as determined by the consortium’s board of directors.
+6 (2) The consortium shall:
+7 (a) Establish criteria by which grants are awarded; and
+8 (b) Make available on the consortium’s website the grant criteria and other relevant
+9 documents.
+10 (3) A grant must be in the form of a grant agreement. A grant agreement must include
+11 the following:
+12 (a) A description of the project goals;
+13 (b) A set of metrics that parties will use to assess the project goals and evaluate how
+14 well those goals are met;
+15 (c) Any other accountability measures that the consortium requires;
+16 (d) Expectations between the consortium and grant recipient; and
+17 (e) Requirements that:
+18 (A) The grant recipient be independent from the influence of the state, any university
+19 that is a member of the consortium, any outside source and any other grantor or contributor
+20 of funds for the project; and
+21 (B) Any grantor or contributor of funds for the project shall acknowledge in writing that
+22 the grantor or contributor of funds does not have a right nor is entitled to dictate or influ-
+23 ence the content of any work that the grant recipient produces or may produce as part of
+24 the project.
+25 (4) The consortium’s board of directors, in coordination with the consortium’s executive
+26 director and program officers, shall establish the set of metrics that is included in a grant
+27 agreement.
+28 SECTION 15. Applicability. (1) Sections 2, 3, 5 and 7 of this 2026 Act apply to the access
+29 of online content of digital journalism providers by a covered platform that occurs on or af-
+30 ter the effective date of this 2026 Act.
+31 (2) Section 4 of this 2026 Act applies to the access of online content of digital journalism
+32 providers by a covered platform that occurs between January 1, 2027, and December 31, 2028.
+33 (3) A covered platform shall compile and make public the first list required under section
+34 6 (1) of this 2026 Act no later than March 1, 2027.
+35 SECTION 16. Captions. The section captions used in this 2026 Act are provided only for
+36 the convenience of the reader and do not become part of the statutory law of this state or
+37 express any legislative intent in the enactment of this 2026 Act.
+38
+[16]

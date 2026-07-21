@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - JWM Amendment -A12
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB 4018-A12
+(LC 162)
+2/26/26 (WJC/ps)
+Requested by JOINT COMMITTEE ON WAYS AND MEANS
+PROPOSED AMENDMENTS TO
+A-ENGROSSED HOUSE BILL 4018
+1 On page 50 of the printed A-engrossed bill, after line 30, insert:
+2 “SECTION 44. (1) Notwithstanding any other provision of law, the
+3 General Fund appropriation made to the Secretary of State by section
+4 1 (1), chapter 610, Oregon Laws 2025, for the biennium ending June 30,
+5 2027, for the Administrative Services Division, is increased by $710,874
+6 to implement this 2026 Act.
+7 “(2) Notwithstanding any other provision of law, the General Fund
+8 appropriation made to the Secretary of State by section 1 (2), chapter
+9 610, Oregon Laws 2025, for the biennium ending June 30, 2027, for the
+10 Elections Division, is increased by $841,646 to implement this 2026
+11 Act.”.
+12 In line 31, delete “44” and insert “45”.
+13

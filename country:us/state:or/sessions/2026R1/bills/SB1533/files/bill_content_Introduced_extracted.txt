@@ -1,0 +1,321 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1533
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Human Services)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes changes to the Oregon Foster Children’s Bill of Rights and the Oregon
+Foster Children’s Sibling Bill of Rights.
+The Act excludes a child’s parents from some laws about abuse of a child in care and requires
+DHS to tell some people that a DHS employee cannot give legal advice to them. (Flesch Readability
+Score: 65.0).
+Modifies the Oregon Foster Children’s Bill of Rights and the Oregon Foster Children’s Sibling
+Bill of Rights.
+Creates an exception to abuse of a child in care provisions when the suspected abuse was
+committed by the parent of the child in care.
+Requires the Department of Human Services to notify a child’s parents or guardians that the
+department representative is acting on behalf of the department and cannot give the parent or
+guardian legal advice.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to the rights of children in care; creating new provisions; amending ORS 409.185, 418.200,
+3 418.201, 418.257 and 418.607; and declaring an emergency.
+4 Be It Enacted by the People of the State of Oregon:
+5
+6 FOSTER CHILDREN
+7
+8 SECTION 1. The court, on its own motion or upon the motion of a party in the pro-
+9 ceeding, and after any hearing as the court may direct, may enter an order limiting, denying
+10 or prohibiting contact between a foster child and the foster child’s sibling to the extent
+11 necessary to ensure safe and appropriate contact between the foster child and the foster
+12 child’s sibling. If the court issues an order under this section, the court shall make written
+13 findings of fact in support of the order.
+14 SECTION 2. ORS 418.200 is amended to read:
+15 418.200. As used in ORS 418.200 to 418.202, “foster child” means a child who is in the legal or
+16 physical custody of the Department of Human Services pursuant to the provisions of ORS chapter
+17 418, 419B or 419C and who is or was placed or who is awaiting placement in substitute care with
+18 a foster parent, a child-caring agency as defined in ORS 418.205 or an independent residence facility
+19 established, licensed, certified or authorized by the department under ORS 418.475.
+20 SECTION 3. ORS 418.201 is amended to read:
+21 418.201. It is the intent of the Legislative Assembly that each foster child have certain essential
+22 rights, including but not limited to the following:
+23 (1) To have the ability to make oral and written complaints about care, placement or services
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 68
+
+SB 1533
+1 that are unsatisfactory or inappropriate, and to be provided with information about a formal process
+2 for making complaints without fear of retaliation, harassment or punishment.
+3 (2) To be notified of, and provided with transportation to, court hearings and reviews by local
+4 citizen review boards pertaining to the foster child’s case. [when the matters to be considered or de-
+5 cided upon at the hearings and reviews are appropriate for the foster child, taking into account the age
+6 and developmental stage of the foster child.]
+7 (3) To be provided with written contact information of specific individuals whom the foster child
+8 may contact regarding complaints, concerns or violations of rights, that is updated as necessary and
+9 kept current.
+10 (4) To be protected from abuse, exploitation, neglect, intimidation, retaliation and
+11 wrongful use of restraint or seclusion.
+12 (5) To regularly attend school and to have access to a free and appropriate public edu-
+13 cation.
+14 (6) To be assigned an attorney to represent the foster child’s interests and to have un-
+15 impeded and unmonitored contact with that attorney.
+16 (7) To have unimpeded and unmonitored contact, as applicable, with the Residential Fa-
+17 cilities Ombudsman, the Children’s Advocate or a foster care ombudsman who has been
+18 formally designated by the Children’s Advocate or the Department of Human Services.
+19 (8) To have an attorney or court-appointed advocate of the foster child’s choosing present
+20 for any interview with law enforcement or abuse investigators, regardless of whether the
+21 foster child is interviewed as a witness, a victim or a subject individual.
+22 (9) To maintain and have access to personal belongings including but not limited to
+23 clothing, books, toys, photographs and musical instruments.
+24 (10) To be present at court hearings, including to be present at all court hearings re-
+25 garding the child’s case.
+26 (11) To transport belongings and personal effects in an appropriate luggage carrier when
+27 entering into or transitioning or exiting from foster care.
+28 [(4)] (12) When a foster child is 14 years of age or older, to be provided with written information
+29 within 60 days of the date of any placement or any change in placement, regarding:
+30 (a) How to establish a bank account in the foster child’s name as allowed under state law;
+31 (b) How to acquire a driver license as allowed under state law;
+32 (c) How to remain in foster care after reaching 18 years of age;
+33 (d) The availability of a tuition and fee waiver for a current or former foster child under ORS
+34 350.300;
+35 (e) How to obtain a copy of the foster child’s credit report, if any;
+36 (f) How to obtain medical, dental, vision, mental health services or other treatment, including
+37 services and treatments available without parental consent under state law; and
+38 (g) A transition toolkit, including a comprehensive transition plan.
+39 [(5)] (13) With respect to a foster child’s rights under the federal and state constitutions, laws,
+40 including case law, rules and regulations:
+41 (a) To receive a document setting forth such rights that is age-appropriate and developmentally
+42 appropriate within [60] seven days of the date of any placement or any change in placement;
+43 (b) To have a document setting forth such rights that is age-appropriate and developmentally
+44 appropriate posted at the residences of all foster parents, child-caring agencies and independent
+45 resident facilities;
+[2]
+
+SB 1533
+1 (c) To have an annual review of such rights that is age-appropriate and developmentally appro-
+2 priate while the foster child is in substitute care; and
+3 (d) When the foster child is 14 years of age or older:
+4 (A) To receive a document setting forth such rights that is age-appropriate and developmentally
+5 appropriate; and
+6 (B) To acknowledge in writing receipt of the document and that the rights contained in the
+7 document were explained in an age-appropriate manner.
+8 [(6)] (14) To be provided with current and updated contact information for adults who are re-
+9 sponsible for the care of the foster child and who are involved in the foster child’s case, including
+10 but not limited to caseworkers, caseworker supervisors, attorneys, foster youth advocates and sup-
+11 porters, court appointed special advocates, local citizen review boards and employees of the De-
+12 partment of Human Services that provide certification of foster parents, child-caring agencies and
+13 independent resident facilities.
+14 [(7)] (15) To have a hotline phone number that is available to the foster child at all times for
+15 the purposes of enabling the foster child to make complaints and assert grievances regarding the
+16 foster child’s care, safety or well-being.
+17 SECTION 4. ORS 418.257 is amended to read:
+18 418.257. As used in ORS 418.257 to 418.259:
+19 (1) “Abuse” means one or more of the following:
+20 (a) Any physical injury to a child in care caused by other than accidental means, or that appears
+21 to be at variance with the explanation given of the injury.
+22 (b) Neglect of a child in care.
+23 (c) Abandonment, including desertion or willful forsaking of a child in care or the withdrawal
+24 or neglect of duties and obligations owed a child in care by a child-caring agency, caretaker, certi-
+25 fied foster home, developmental disabilities residential facility or other person.
+26 (d) Willful infliction of physical pain or injury upon a child in care.
+27 (e) An act that constitutes a crime under ORS 163.375, 163.405, 163.411, 163.415, 163.425, 163.427,
+28 163.465, 163.467 or 163.525.
+29 (f) Verbal abuse.
+30 (g) Financial exploitation.
+31 (h) Sexual abuse.
+32 (i) The use of restraint or involuntary seclusion of a child in care in violation of ORS 418.521
+33 or 418.523.
+34 (2) “Certified foster home” means a foster home certified by the Department of Human Services
+35 and subject to ORS 418.625 to 418.645.
+36 (3)(a) “Child in care” means a person under 21 years of age who is in the physical or legal
+37 custody of the department or who is residing in or receiving care or services from:
+38 (A) A child-caring agency or proctor foster home subject to ORS 418.205 to 418.327, 418.470,
+39 418.475 or 418.950 to 418.970;
+40 (B) A certified foster home; or
+41 (C) A developmental disabilities residential facility.
+42 (b) “Child in care” does not include a person under 21 years of age who is residing in any of
+43 the entities listed in paragraph (a) of this subsection when the care provided is in the home of the
+44 child by the child’s parent.
+45 (4) “Developmental disabilities residential facility” means a residential facility or foster home
+[3]
+
+SB 1533
+1 for children who are 17 years of age or younger and receiving developmental disability services that
+2 is subject to ORS 443.400 to 443.455, 443.830 and 443.835.
+3 (5)(a) “Financial exploitation” means:
+4 (A) Wrongfully taking the assets, funds or property belonging to or intended for the use of a
+5 child in care.
+6 (B) Alarming a child in care by conveying a threat to wrongfully take or appropriate moneys
+7 or property of the child in care if the child would reasonably believe that the threat conveyed would
+8 be carried out.
+9 (C) Misappropriating, misusing or transferring without authorization any moneys from any ac-
+10 count held jointly or singly by a child in care.
+11 (D) Failing to use the income or assets of a child in care effectively for the support and main-
+12 tenance of the child in care.
+13 (b) “Financial exploitation” does not include age-appropriate discipline that may involve the
+14 threat to withhold, or the withholding of, privileges.
+15 (6) “Intimidation” means compelling or deterring conduct by threat. “Intimidation” does not in-
+16 clude age-appropriate discipline that may involve the threat to withhold privileges.
+17 (7) “Involuntary seclusion” has the meaning given that term in ORS 418.519.
+18 (8) “Law enforcement agency” means:
+19 (a) Any city or municipal police department.
+20 (b) Any county sheriff’s office.
+21 (c) The Oregon State Police.
+22 (d) Any district attorney.
+23 (e) A police department established by a university under ORS 352.121 or 353.125.
+24 (9) “Neglect” means:
+25 (a) Failure to provide the care, supervision or services necessary to maintain the physical and
+26 mental health of a child in care; or
+27 (b) The failure of a child-caring agency, proctor foster home, certified foster home, develop-
+28 mental disabilities residential facility, caretaker or other person to make a reasonable effort to
+29 protect a child in care from abuse.
+30 (10) “Restraint” has the meaning given that term in ORS 418.519.
+31 (11) “Services” includes but is not limited to the provision of food, clothing, medicine, housing,
+32 medical services, assistance with bathing or personal hygiene or any other service essential to the
+33 well-being of a child in care.
+34 (12) “Sexual abuse” means:
+35 (a) Sexual harassment, sexual exploitation or inappropriate exposure to sexually explicit mate-
+36 rial or language;
+37 (b) Any sexual contact between a child in care and an employee of a child-caring agency,
+38 proctor foster home, certified foster home, developmental disabilities residential facility, caretaker
+39 or other person responsible for the provision of care or services to a child in care;
+40 (c) Any sexual contact between a person and a child in care that is unlawful under ORS chapter
+41 163 and not subject to a defense under that chapter; or
+42 (d) Any sexual contact that is achieved through force, trickery, threat or coercion.
+43 (13) “Sexual contact” has the meaning given that term in ORS 163.305.
+44 (14) “Sexual exploitation” means sexual exploitation as described in ORS 419B.005 (1)(a)(E).
+45 (15) “Verbal abuse” means to threaten significant physical or emotional harm to a child in care
+[4]
+
+SB 1533
+1 through the use of:
+2 (a) Derogatory or inappropriate names, insults, verbal assaults, profanity or ridicule; or
+3 (b) Harassment, coercion, threats, intimidation, humiliation, mental cruelty or inappropriate
+4 sexual comments.
+5 SECTION 5. ORS 418.607 is amended to read:
+6 418.607. It is the intent of the Legislative Assembly that siblings who are foster children have
+7 certain essential rights, including but not limited to the following:
+8 (1) To obtain substitute care placements together whenever safe and appropriate.
+9 (2) To maintain regular contact and visits with siblings while placed both in and out of substi-
+10 tute care placements, including regular in-person visits, contact by telephone and electronic
+11 communication[, as safe and appropriate], except as limited, denied or prohibited by court order
+12 under section 1 of this 2026 Act.
+13 (3) To be provided with transportation to maintain contact and have visits with siblings.
+14 (4) To be placed with foster parents and assigned caseworkers who have been provided with
+15 training on the importance of sibling relationships.
+16 (5) [To ensure that contact with siblings will be encouraged in any adoptive or guardianship
+17 placement, as safe and appropriate.] To ensure that contact with siblings will be regularly
+18 maintained, encouraged and facilitated in any adoptive or guardianship placement, except as
+19 limited, denied or prohibited by court order under section 1 of this 2026 Act.
+20 (6) To have a sibling contact plan that has been developed as a result of the active engagement
+21 and participation of siblings and that is complied with as part of any substitute care placement.
+22 (7) [To have more private or less restrictive communication with siblings as compared to commu-
+23 nications with others who are not siblings, as safe and appropriate.] To have private and unre-
+24 stricted communication with siblings except as limited, denied or prohibited by court order
+25 under section 1 of this 2026 Act.
+26 (8) To be immediately and timely notified of the birth of a sibling or placement changes or
+27 catastrophic events affecting a sibling, [as safe and appropriate] in a developmentally appropriate
+28 and trauma-responsive manner.
+29 (9) With respect to a foster child’s rights under this section:
+30 (a) To receive a document setting forth such rights as is age-appropriate and developmentally
+31 appropriate within [60] seven days of the date of any placement or any change in placement;
+32 (b) To have a document setting forth such rights that is age-appropriate and developmentally
+33 appropriate on each occasion that a foster child’s case plan is considered and reviewed;
+34 [(c) To have access to a document setting forth such rights that is age-appropriate and develop-
+35 mentally appropriate at the residence of all foster parents and child-caring agencies; and]
+36 (c) To have access to a document setting forth such rights that is developmentally ap-
+37 propriate and trauma responsive, and is prominently displayed at the residence of all foster
+38 parents and child-caring agencies in at least one location that children in care can readily
+39 access at all times; and
+40 (d) To be informed of such rights on at least an annual basis.
+41 [(10) To be provided with an explanation in an age-appropriate manner as to why contact with a
+42 sibling is or has been denied or prohibited.]
+43 (10) To be informed that the right to have contact and visitation with siblings is pre-
+44 sumed and may not be limited, denied or prohibited without written findings by the court
+45 detailing why restrictions are necessary to ensure safe and appropriate contact.
+[5]
+
+SB 1533
+1 (11) To be informed verbally and in writing, in a developmentally appropriate and
+2 trauma-responsive manner, as to why a specific request for communication or visitation with
+3 a sibling has been limited, denied or prohibited.
+4 [(11)] (12) To have the rights under this section apply regardless of whether the parental rights
+5 of one or more of the foster child’s parents have been terminated, as safe and appropriate.
+6 [(12)] (13) To request that the foster child’s attorney advocate on behalf of the foster child for
+7 contact and visits with siblings:
+8 (a) While the foster child is in foster care;
+9 (b) When the court is considering whether to order visitation between the foster child and the
+10 foster child’s siblings under ORS 419B.367; and
+11 (c) When decisions are made regarding post-adoption contact between the foster child and the
+12 foster child’s siblings.
+13
+14 CHILDREN IN CARE
+15
+16 SECTION 6. (1) The provisions of ORS 418.257 to 418.259 do not apply to investigations
+17 of reports of suspected abuse, as defined in ORS 418.257, of a child in care if the suspected
+18 abuse is committed by the child in care’s parent.
+19 (2) The provisions of ORS 418.521 and 418.523 do not apply to the restraint or involuntary
+20 seclusion of a child in care if the child in care is placed in the restraint or involuntary se-
+21 clusion by the parent of the child in care.
+22 (3) As used in this section, “child in care,” “involuntary seclusion” and “restraint” have
+23 the meanings given those terms in ORS 418.519.
+24 SECTION 7. ORS 409.185 is amended to read:
+25 409.185. (1) The Director of Human Services shall oversee the development of standards and
+26 procedures for assessment, investigation and enforcement of child protective services.
+27 (2)(a) The Department of Human Services shall take action to implement the provision of child
+28 protective services as outlined in ORS 417.705 to 417.800 and based on the recommendations in the
+29 1992 “Oregon Child Protective Services Performance Study” published by the University of Southern
+30 Maine.
+31 (b) In all substantiated cases of child abuse and neglect, the role of the department is to com-
+32 plete a comprehensive family assessment of risk of abuse or neglect, or both, assess service needs
+33 and provide immediate protective services as necessary.
+34 (c) The department shall provide remedial services needed to ensure the safety of the child.
+35 (d) In all cases of child abuse and neglect for which a criminal investigation is conducted, the
+36 role of law enforcement agencies is to provide a legally sound, child sensitive investigation of
+37 whether abuse or neglect or both have occurred and to gather other evidence and perform other
+38 responsibilities in accordance with interagency agreements.
+39 (e) The department and law enforcement agencies shall conduct the investigation and assess-
+40 ment concurrently, based upon the protocols and procedures of the county child abuse multidisci-
+41 plinary team in each jurisdiction.
+42 (f) When the department and law enforcement agencies conduct a joint investigation and as-
+43 sessment, the activities of the department and agencies are to be clearly differentiated by the pro-
+44 tocols of the county child abuse multidisciplinary team.
+45 (g) Nothing in this subsection is intended to be inconsistent with ORS 418.702, 418.747 and
+[6]
+
+SB 1533
+1 418.748 and ORS chapter 419B.
+2 (h) In all cases of child abuse for which an investigation is conducted, the department shall
+3 provide a child’s parent, guardian or caregiver with a clear written explanation of the investigation
+4 process, the court hearing process and the rights of the parent, guardian or caregiver in the abuse
+5 investigation and in the court proceedings related to the abuse investigation. When the depart-
+6 ment provides the written explanation under this paragraph to a child’s parent or guardian,
+7 the department shall include a disclosure that the representative of the department is acting
+8 on behalf of the department and cannot provide legal advice to the parent or guardian.
+9 (3) Upon receipt of a recommendation of the Children’s Advocate under ORS 417.815 (2)(e), the
+10 department shall implement the recommendation or give the Children’s Advocate written notice of
+11 an intent not to implement the recommendation.
+12
+13 MISCELLANEOUS
+14
+15 SECTION 8. The unit captions used in this 2026 Act are provided only for the convenience
+16 of the reader and do not become part of the statutory law of this state or express any leg-
+17 islative intent in the enactment of this 2026 Act.
+18 SECTION 9. This 2026 Act being necessary for the immediate preservation of the public
+19 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+20 on its passage.
+21
+[7]

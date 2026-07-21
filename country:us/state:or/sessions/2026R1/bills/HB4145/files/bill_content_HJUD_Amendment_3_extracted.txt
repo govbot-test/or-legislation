@@ -1,0 +1,237 @@
+Title: 
+Official Title: 
+Source: versions - HJUD Amendment -3
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB 4145-3
+(LC 273)
+2/13/26 (JLM/ps)
+Requested by Representative KROPF
+PROPOSED AMENDMENTS TO
+HOUSE BILL 4145
+1 On page 5 of the printed bill, delete lines 37 through 39 and insert:
+2 “(C) An identification card certifying that the cardholder is currently a
+3 qualified retired law enforcement officer as defined in 18 U.S.C. 926C;
+4 “(D) Current certification as a corrections officer as defined in ORS
+5 181A.355;”.
+6 In line 40, delete “(D)” and insert “(E)”.
+7 In line 41, delete “(E)” and insert “(F)”.
+8 In line 45, delete “(F)” and insert “(G)”.
+9 Delete pages 16 and 17.
+10 On page 18, delete lines 1 through 24 and insert:
+11 “SECTION 11. ORS 166.355 is amended to read:
+12 “166.355. (1) As used in this section:
+13 “(a) ‘Administrator of a decedent’s estate’ means a trustee as de-
+14 fined in ORS 130.010 if the settlor as defined in ORS 130.010 has died,
+15 a personal representative as defined in ORS 111.005 or an affiant as
+16 defined in ORS 114.505.
+17 “[(a)] (b) ‘Armed Forces of the United States’ has the meaning given that
+18 term in ORS [348.282] 352.313.
+19 “(c) ‘Beneficiary of the decedent’s estate’ means a permissible
+20 distributee as defined in ORS 130.010, a distributee as defined in ORS
+21 111.005 or a claiming successor as defined in ORS 114.505.
+
+1 “[(b)] (d) ‘Detachable magazine’ means an ammunition feeding device that
+2 can be loaded or unloaded while detached from a firearm and readily inserted
+3 in a firearm.
+4 “[(c)] (e) ‘Fixed magazine’ means an ammunition feeding device contained
+5 in or permanently attached to a firearm in such a manner that the device
+6 cannot be removed without disassembly of the firearm action.
+7 “[(d)] (f) ‘Large-capacity magazine’ means a fixed or detachable magazine,
+8 belt, drum, feed strip, helical feeding device, or similar device, including any
+9 such device joined or coupled with another in any manner, or a kit with such
+10 parts, that has an overall capacity of, or that can be readily restored,
+11 changed[,] or converted to accept, more than 10 rounds of ammunition and
+12 allows a shooter to keep firing without having to pause to reload, but does
+13 not include any of the following:
+14 “(A) An ammunition feeding device that has been permanently altered so
+15 that it is not capable, now or in the future, of accepting more than 10 rounds
+16 of ammunition;
+17 “(B) An attached tubular device designed to accept, and capable of oper-
+18 ating only with 0.22 caliber rimfire ammunition; or
+19 “(C) A tubular ammunition feeding device that is contained in a lever-
+20 action firearm.
+21 “(g) ‘Law enforcement agency’ means county sheriffs, municipal
+22 police departments, police departments established by a university
+23 under ORS 352.121 or 353.125, a county community corrections agency,
+24 the Department of State Police, the Department of Corrections, the
+25 Department of Justice or the Department of Public Safety Standards
+26 and Training.
+27 “[(e)] (h) ‘Loaded’ has the meaning given that term in ORS 166.360.
+28 “(i) ‘Parole and probation officer’ has the meaning given that term
+29 in ORS 181A.355.
+30 “(j) ‘Peace officer’ has the meaning given that term in ORS 133.005.
+HB 4145-3 2/13/26
+Proposed Amendments to HB 4145 Page 2
+
+1 “[(f)] (k) ‘Person’ means any natural person, corporation, partnership,
+2 [fire] firm or association.
+3 “(2) Notwithstanding ORS 166.250 to 166.470, and except as expressly
+4 provided in subsections (3) to (5) of this section, a person commits the crime
+5 of unlawful manufacture, importation, possession, use, purchase, sale or
+6 otherwise transferring of large-capacity magazines if the person manufac-
+7 tures, imports, possesses, uses, purchases, sells or otherwise transfers any
+8 large-capacity magazine in Oregon [on or after December 8, 2022].
+9 “[(3) Subsection (2) of this section does not apply during the first 180 days
+10 following December 8, 2022, with respect to:]
+11 “[(a) A licensed gun dealer that within 180 days of December 8, 2022:]
+12 “[(A) Transfers or sells the large-capacity magazines in the gun dealer’s
+13 inventory to a nonresident gun dealer or other transferee outside of this
+14 state;]
+15 “[(B) Purchases or acquires temporary custody from an owner of any
+16 large-capacity magazine for permanent removal from this state within 180 days
+17 of December 8, 2022;]
+18 “[(C) Permanently alters any large-capacity magazine in the gun dealer’s
+19 inventory or custody so that it is not capable, upon alteration or in the future,
+20 of accepting more than 10 rounds of ammunition or permanently alter the
+21 magazine so it is no longer a; or]
+22 “[(D) Permanently disposes of the large-capacity magazines in the gun
+23 dealer’s custody or inventory.]
+24 “[(b) A firearms manufacturer, properly licensed under federal, state and
+25 local law, that is a party to a contract, in existence and binding on December
+26 8, 2022, with an entity outside of this state, for the manufacture of large-
+27 capacity magazines, provided that:]
+28 “[(A) All manufacturing is completed no later than 180 days after December
+29 8, 2022; and]
+30 “[(B) The entity outside of Oregon receiving the large-capacity magazines
+HB 4145-3 2/13/26
+Proposed Amendments to HB 4145 Page 3
+
+1 is made aware in writing on or before the delivery of the ammunition devices
+2 of the restrictions pertaining to large-capacity magazines in this state as set
+3 forth in chapter 1, Oregon Laws 2023.]
+4 “[(4)] (3) Subsection (2) of this section does not apply at any time to:
+5 “(a) A firearms manufacturer properly licensed under federal, state and
+6 local law that manufactures large-capacity magazines, provided:
+7 “(A) The manufacturing is for exclusive sale or transfer to the Armed
+8 Forces of the United States or a law enforcement agency and solely for au-
+9 thorized use by that entity related to the official duties of the entity; and
+10 “(B) Any large-capacity magazine, permitted to be manufactured under
+11 paragraph (a)(A) of this subsection after December 8, 2022, shall include a
+12 permanent stamp or marking indicating that the large-capacity magazine was
+13 manufactured or assembled after December 8, 2022. The stamp or marking
+14 must be legibly and conspicuously engraved or cast upon the outer surface
+15 of the large-capacity magazine. The Department of State Police may
+16 promulgate such rules as may be necessary for the implementation of this
+17 section, including but not limited to rules requiring such large-capacity
+18 magazine be stamped with information indicating the limitation for use only
+19 by military and law enforcement or such other identification to distinguish
+20 clearly large-capacity magazines manufactured after December 8, 2022. [Ex-
+21 cept as provided in subsection (3)(b) of this section,] No large-capacity maga-
+22 zines without such stamp may be manufactured in this state after December
+23 8, 2022.
+24 “(b) A licensed gun dealer that sells or otherwise transfers large-capacity
+25 magazines to the Armed Forces of the United States or a law enforcement
+26 agency solely for authorized use by that entity, provided the large-capacity
+27 magazines have been engraved as provided in paragraph (a)(B) of this sub-
+28 section.
+29 “(c) Any government officer, agent or employee, member of the Armed
+30 Forces of the United States or peace officer, [as that term is defined in ORS
+HB 4145-3 2/13/26
+Proposed Amendments to HB 4145 Page 4
+
+1 133.005, that] who is authorized to acquire, possess or use a large-capacity
+2 magazine provided that any acquisition, possession or use is related
+3 [directly] to activities within the scope of that person’s official duties.
+4 “(d) A peace officer or a parole and probation officer, who acquires,
+5 possesses or uses a large-capacity magazine, regardless of whether the
+6 acquisition, possession or use is related to activities within the scope
+7 of the person’s official duties or occurs while the person is off duty.
+8 “(e) The importation, possession, use, purchase or transfer of a
+9 large-capacity magazine by a law enforcement agency for official use
+10 by the agency.
+11 “[(5) As of December 8, 2022, it shall be an affirmative defense, as provided
+12 in ORS 166.055, to the unlawful possession, use and transfer of a large-
+13 capacity magazine in this state by any person, provided that:]
+14 “[(a) The large-capacity magazine was owned by the person before December
+15 8, 2022, and maintained in the person’s control or possession; or]
+16 “[(b) The possession of a large-capacity magazine was obtained by a person
+17 who, on or after December 8, 2022, acquired possession of the large-capacity
+18 magazine by operation of law upon the death of a former owner who was in
+19 legal possession of the large-capacity magazine; and]
+20 “[(c) In addition to either paragraph (a) or (b) of this subsection the owner
+21 has not maintained the large-capacity magazine in a manner other than:]
+22 “[(A) On property owned or immediately controlled by the registered
+23 owner;]
+24 “[(B) On the premises of a gun dealer or gunsmith licensed under 18 U.S.C.
+25 923 for the purpose of lawful service or repair;]
+26 “[(C) While engaging in the legal use of the large-capacity magazine, at a
+27 public or private shooting range or shooting gallery or for recreational activ-
+28 ities such as hunting, to the extent permitted under state law; or]
+29 “[(D) While participating in firearms competition or exhibition, display or
+30 educational project about firearms sponsored, conducted by, approved or under
+HB 4145-3 2/13/26
+Proposed Amendments to HB 4145 Page 5
+
+1 the auspices of a law enforcement agency or a national or state-recognized en-
+2 tity that fosters proficiency in firearms use or promotes firearms education;
+3 and]
+4 “[(E) While transporting any large-capacity magazines in a vehicle to one
+5 of the locations authorized in paragraph (c)(A) to (D) of this subsection, the
+6 large-capacity magazine is not inserted into the firearm and is locked in a
+7 separate container.]
+8 “(4)(a) It is an affirmative defense, as provided in ORS 161.055, to a
+9 charge of unlawful possession or use of a large-capacity magazine if
+10 the defendant:
+11 “(A) Owned the large-capacity magazine before the earlier of:
+12 “(i) January 1, 2027; or
+13 “(ii) The date of a final appellate judgment reversing or vacating
+14 an injunction prohibiting the enforcement of ORS 166.355; or
+15 “(B) Acquired possession of the large-capacity magazine by opera-
+16 tion of law upon the death of the former owner who lawfully possessed
+17 the large-capacity magazine.
+18 “(b) It is an affirmative defense, as provided in ORS 161.055, to a
+19 charge of unlawful possession or transfer of a large-capacity magazine
+20 if the defendant, while performing the duties of the administrator of
+21 a decedent’s estate, possesses or transfers, but does not sell, a large-
+22 capacity magazine to a person who is a beneficiary of the decedent’s
+23 estate.
+24 “[(d)] (5) It is an affirmative defense, as provided in ORS 161.055, to
+25 the unlawful possession, use and transfer of a large-capacity magazine
+26 in this state by any person that the person has permanently and volun-
+27 tarily relinquished the large-capacity magazine to law enforcement or to a
+28 buyback or turn-in program approved by law enforcement, prior to the com-
+29 mencement of prosecution for the possession, use or transfer by arrest,
+30 citation or a formal charge.
+HB 4145-3 2/13/26
+Proposed Amendments to HB 4145 Page 6
+
+1 “(6) Unlawful manufacture, importation, possession, use, purchase, sale
+2 or otherwise transferring of a large-capacity magazine is a Class A
+3 misdemeanor.”.
+4 On page 22, delete lines 34 through 38 and insert:
+5 “(15) A valid permit to purchase a firearm issued under ORS 166.505 is
+6 not required for a firearm or unfinished frame or receiver purchase from a
+7 gun dealer under this section if the purchaser is a peace officer as defined
+8 in ORS 133.005 or a parole and probation officer as defined in ORS
+9 181A.355.”.
+10 On page 24, delete lines 29 through 33 and insert:
+11 “(6) A valid permit to purchase a firearm issued under ORS 166.505 is not
+12 required for a firearm transfer under this section if the transferee is a peace
+13 officer as defined in ORS 133.005 or a parole and probation officer as defined
+14 in ORS 181A.355.”.
+15 On page 27, delete lines 12 through 16 and insert:
+16 “(7) A valid permit to purchase a firearm issued under ORS 166.505 is not
+17 required for a firearm transfer under this section if the recipient is a peace
+18 officer as defined in ORS 133.005 or a parole and probation officer as defined
+19 in ORS 181A.355.”.
+20 After line 28, insert:
+21
+22 “EFFECT ON PENDING CASE
+23
+24 “SECTION 18a. The Legislative Assembly does not intend this 2026
+25 Act to render moot or otherwise affect any proceedings pending before
+26 the Oregon Supreme Court concerning the constitutionality of Ballot
+27 Measure 114 (2022), and the court has authority to issue a judgment
+28 on the issue of the constitutionality of Ballot Measure 114 (2022) not-
+29 withstanding any amendments to chapter 1, Oregon Laws 2023, by this
+30 2026 Act.”.
+HB 4145-3 2/13/26
+Proposed Amendments to HB 4145 Page 7
+
+1
+HB 4145-3 2/13/26
+Proposed Amendments to HB 4145 Page 8

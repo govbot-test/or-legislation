@@ -1,0 +1,444 @@
+Title: 
+Official Title: 
+Source: versions - HJUD Amendment -4
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB 4088-4
+(LC 49)
+2/5/26 (LAS/ps)
+Requested by Representative FRAGALA
+PROPOSED AMENDMENTS TO
+HOUSE BILL 4088
+1 On page 2 of the printed bill, line 17, after “(2)” insert “(a)”.
+2 After line 23, insert:
+3 “(b) Nothing in this subsection prohibits an officer, employee or agent of
+4 a public body from disclosing information that is responsive to an investi-
+5 gation or inquiry described in paragraph (a) of this subsection to the extent
+6 the information is available to the general public provided the disclosure is
+7 made under the same terms and conditions as the information is made
+8 available to the general public.”.
+9 On page 4, line 18, delete “oral or written”.
+10 In line 22, after “activities” insert a period and delete the rest of the line
+11 and delete line 23.
+12 In line 24, after “(2)” insert “Except to the extent an individual consents
+13 to the information’s disclosure, the individual’s”.
+14 On page 6, delete lines 11 through 45 and delete pages 7 through 11.
+15 On page 12, delete lines 1 to 33 and insert:
+16 “SECTION 13. ORS 192.345 is amended to read:
+17 “192.345. The following public records are exempt from disclosure under
+18 ORS 192.311 to 192.478 unless the public interest requires disclosure in the
+19 particular instance:
+20 “(1) Records of a public body pertaining to litigation to which the public
+21 body is a party if the complaint has been filed, or if the complaint has not
+
+1 been filed, if the public body shows that such litigation is reasonably likely
+2 to occur. This exemption does not apply to litigation which has been con-
+3 cluded, and nothing in this subsection shall limit any right or opportunity
+4 granted by discovery or deposition statutes to a party to litigation or po-
+5 tential litigation.
+6 “(2) Trade secrets. ‘Trade secrets,’ as used in this section, may include,
+7 but are not limited to, any formula, plan, pattern, process, tool, mechanism,
+8 compound, procedure, production data, or compilation of information which
+9 is not patented, which is known only to certain individuals within an or-
+10 ganization and which is used in a business it conducts, having actual or
+11 potential commercial value, and which gives its user an opportunity to ob-
+12 tain a business advantage over competitors who do not know or use it.
+13 “(3) Investigatory information compiled for criminal law purposes. The
+14 record of an arrest or the report of a crime shall be disclosed unless and only
+15 for so long as there is a clear need to delay disclosure in the course of a
+16 specific investigation, including the need to protect the complaining party
+17 or the victim. Nothing in this subsection shall limit any right constitu-
+18 tionally guaranteed, or granted by statute, to disclosure or discovery in
+19 criminal cases. For purposes of this subsection, the record of an arrest or the
+20 report of a crime includes, but is not limited to:
+21 “(a) The arrested person’s name, age, residence, employment, marital sta-
+22 tus and similar biographical information;
+23 “(b) The offense with which the arrested person is charged;
+24 “(c) The conditions of release pursuant to ORS 135.230 to 135.290;
+25 “(d) The identity of and biographical information concerning both com-
+26 plaining party and victim;
+27 “(e) The identity of the investigating and arresting agency and the length
+28 of the investigation;
+29 “(f) The circumstances of arrest, including time, place, resistance, pursuit
+30 and weapons used; and
+HB 4088-4 2/5/26
+Proposed Amendments to HB 4088 Page 2
+
+1 “(g) Such information as may be necessary to enlist public assistance in
+2 apprehending fugitives from justice.
+3 “(4) Test questions, scoring keys, and other data used to administer a li-
+4 censing examination, employment, academic or other examination or testing
+5 procedure before the examination is given and if the examination is to be
+6 used again. Records establishing procedures for and instructing persons ad-
+7 ministering, grading or evaluating an examination or testing procedure are
+8 included in this exemption, to the extent that disclosure would create a risk
+9 that the result might be affected.
+10 “(5) Information consisting of production records, sale or purchase records
+11 or catch records, or similar business records of a private concern or enter-
+12 prise, required by law to be submitted to or inspected by a governmental
+13 body to allow it to determine fees or assessments payable or to establish
+14 production quotas, and the amounts of such fees or assessments payable or
+15 paid, to the extent that such information is in a form that would permit
+16 identification of the individual concern or enterprise. This exemption does
+17 not include records submitted by long term care facilities as defined in ORS
+18 442.015 to the state for purposes of reimbursement of expenses or determining
+19 fees for patient care. Nothing in this subsection shall limit the use that can
+20 be made of such information for regulatory purposes or its admissibility in
+21 any enforcement proceeding.
+22 “(6) Information relating to the appraisal of real estate prior to its ac-
+23 quisition.
+24 “(7) The names and signatures of employees who sign authorization cards
+25 or petitions for the purpose of requesting representation or decertification
+26 elections.
+27 “(8) Investigatory information relating to any complaint filed under ORS
+28 659A.820 or 659A.825, until such time as the complaint is resolved under ORS
+29 659A.835, or a final order is issued under ORS 659A.850.
+30 “(9) Investigatory information relating to any complaint or charge filed
+HB 4088-4 2/5/26
+Proposed Amendments to HB 4088 Page 3
+
+1 under ORS 243.676 and 663.180.
+2 “(10) Records, reports and other information received or compiled by the
+3 Director of the Department of Consumer and Business Services under ORS
+4 697.732.
+5 “(11) Information concerning the location of archaeological sites or ob-
+6 jects as those terms are defined in ORS 358.905, except if the governing body
+7 of an Indian tribe requests the information and the need for the information
+8 is related to that Indian tribe’s cultural or religious activities. This ex-
+9 emption does not include information relating to a site that is all or part
+10 of an existing, commonly known and publicized tourist facility or attraction.
+11 “(12) A personnel discipline action, or materials or documents supporting
+12 that action.
+13 “(13) Fish and wildlife information developed pursuant to ORS 496.004,
+14 496.172 and 498.026 or ORS 496.192 and 564.100, regarding the habitat, lo-
+15 cation or population of any threatened species or endangered species.
+16 “(14) Writings prepared by or under the direction of faculty of public ed-
+17 ucational institutions, in connection with research, until publicly released,
+18 copyrighted or patented.
+19 “(15) Computer programs developed or purchased by or for any public
+20 body for its own use. As used in this subsection, ‘computer program’ means
+21 a series of instructions or statements which permit the functioning of a
+22 computer system in a manner designed to provide storage, retrieval and ma-
+23 nipulation of data from such computer system, and any associated documen-
+24 tation and source material that explain how to operate the computer
+25 program. ‘Computer program’ does not include:
+26 “(a) The original data, including but not limited to numbers, text, voice,
+27 graphics and images;
+28 “(b) Analyses, compilations and other manipulated forms of the original
+29 data produced by use of the program; or
+30 “(c) The mathematical and statistical formulas which would be used if the
+HB 4088-4 2/5/26
+Proposed Amendments to HB 4088 Page 4
+
+1 manipulated forms of the original data were to be produced manually.
+2 “(16) Data and information provided by participants to mediation under
+3 ORS 36.256.
+4 “(17) Investigatory information relating to any complaint or charge filed
+5 under ORS chapter 654, until a final administrative determination is made
+6 or, if a citation is issued, until an employer receives notice of any citation.
+7 “(18) Specific operational plans in connection with an anticipated threat
+8 to individual or public safety for deployment and use of personnel and
+9 equipment, prepared or used by a public body, if public disclosure of the
+10 plans would endanger an individual’s life or physical safety or jeopardize a
+11 law enforcement activity.
+12 “(19)(a) Audits or audit reports required of a telecommunications carrier.
+13 As used in this paragraph, ‘audit or audit report’ means any external or
+14 internal audit or audit report pertaining to a telecommunications carrier, as
+15 defined in ORS 133.721, or pertaining to a corporation having an affiliated
+16 interest, as defined in ORS 759.390, with a telecommunications carrier that
+17 is intended to make the operations of the entity more efficient, accurate or
+18 compliant with applicable rules, procedures or standards, that may include
+19 self-criticism and that has been filed by the telecommunications carrier or
+20 affiliate under compulsion of state law. ‘Audit or audit report’ does not mean
+21 an audit of a cost study that would be discoverable in a contested case pro-
+22 ceeding and that is not subject to a protective order; and
+23 “(b) Financial statements. As used in this paragraph, ‘financial
+24 statement’ means a financial statement of a nonregulated corporation having
+25 an affiliated interest, as defined in ORS 759.390, with a telecommunications
+26 carrier, as defined in ORS 133.721.
+27 “(20) The residence address of an elector if authorized under ORS 247.965
+28 and subject to ORS 247.967.
+29 “(21) The following records, communications and information submitted
+30 to a housing authority as defined in ORS 456.005, or to an urban renewal
+HB 4088-4 2/5/26
+Proposed Amendments to HB 4088 Page 5
+
+1 agency as defined in ORS 457.010, by applicants for and recipients of loans,
+2 grants and tax credits:
+3 “(a) Personal and corporate financial statements and information, in-
+4 cluding tax returns;
+5 “(b) Credit reports;
+6 “(c) Project appraisals, excluding appraisals obtained in the course of
+7 transactions involving an interest in real estate that is acquired, leased,
+8 rented, exchanged, transferred or otherwise disposed of as part of the project,
+9 but only after the transactions have closed and are concluded;
+10 “(d) Market studies and analyses;
+11 “(e) Articles of incorporation, partnership agreements and operating
+12 agreements;
+13 “(f) Commitment letters;
+14 “(g) Project pro forma statements;
+15 “(h) Project cost certifications and cost data;
+16 “(i) Audits;
+17 “(j) Project tenant correspondence requested to be confidential;
+18 “(k) Tenant files relating to certification; and
+19 “(L) Housing assistance payment requests.
+20 “(22) Records or information that, if disclosed, would allow a person to:
+21 “(a) Gain unauthorized access to buildings or other property;
+22 “(b) Identify those areas of structural or operational vulnerability that
+23 would permit unlawful disruption to, or interference with, services; or
+24 “(c) Disrupt, interfere with or gain unauthorized access to public funds
+25 or to information processing, communication or telecommunication systems,
+26 including the information contained in the systems, that are used or operated
+27 by a public body.
+28 “(23) Records or information that would reveal or otherwise identify se-
+29 curity measures, or weaknesses or potential weaknesses in security measures,
+30 taken or recommended to be taken to protect:
+HB 4088-4 2/5/26
+Proposed Amendments to HB 4088 Page 6
+
+1 “(a) An individual;
+2 “(b) Buildings or other property;
+3 “(c) Information processing, communication or telecommunication sys-
+4 tems, including the information contained in the systems; or
+5 “(d) Those operations of the Oregon State Lottery the security of which
+6 are subject to study and evaluation under ORS 461.180 (6).
+7 “(24) Personal information held by or under the direction of officials of
+8 the Oregon Health and Science University or a public university listed in
+9 ORS 352.002 about a person who has or who is interested in donating money
+10 or property to the Oregon Health and Science University or a public uni-
+11 versity, if the information is related to the family of the person, personal
+12 assets of the person or is incidental information not related to the donation.
+13 “(25) The home address, professional address and telephone number of a
+14 person who has or who is interested in donating money or property to a
+15 public university listed in ORS 352.002.
+16 “(26) Records of the name and address of a person who files a report with
+17 or pays an assessment to a commodity commission established under ORS
+18 576.051 to 576.455, the Oregon Beef Council created under ORS 577.210 or the
+19 Oregon Wheat Commission created under ORS 578.030.
+20 “(27) Information provided to, obtained by or used by a public body to
+21 authorize, originate, receive or authenticate a transfer of funds, including
+22 but not limited to a credit card number, payment card expiration date,
+23 password, financial institution account number and financial institution
+24 routing number.
+25 “(28) Social Security numbers as provided in ORS 107.840.
+26 “(29) The electronic mail address of a student who attends a public uni-
+27 versity listed in ORS 352.002 or Oregon Health and Science University.
+28 “(30) The name, home address, professional address or location of a person
+29 that is engaged in, or that provides goods or services for, medical research
+30 at Oregon Health and Science University that is conducted using animals
+HB 4088-4 2/5/26
+Proposed Amendments to HB 4088 Page 7
+
+1 other than rodents. This subsection does not apply to Oregon Health and
+2 Science University press releases, websites or other publications circulated
+3 to the general public.
+4 “(31) If requested by a public safety officer, as defined in ORS 181A.355,
+5 or a county juvenile department employee who is charged with and primarily
+6 performs duties related to the custody, control or supervision of adjudicated
+7 youths confined in a detention facility, as defined in ORS 419A.004:
+8 “(a) The home address and home telephone number of the public safety
+9 officer or county juvenile department employee contained in the voter reg-
+10 istration records for the officer or employee.
+11 “(b) The home address and home telephone number of the public safety
+12 officer or county juvenile department employee contained in records of the
+13 Department of Public Safety Standards and Training.
+14 “(c) The name of the public safety officer or county juvenile department
+15 employee contained in county real property assessment or taxation records.
+16 This exemption:
+17 “(A) Applies only to the name of the officer or employee and any other
+18 owner of the property in connection with a specific property identified by the
+19 officer or employee in a request for exemption from disclosure;
+20 “(B) Applies only to records that may be made immediately available to
+21 the public upon request in person, by telephone or using the Internet;
+22 “(C) Applies until the officer or employee requests termination of the ex-
+23 emption;
+24 “(D) Does not apply to disclosure of records among public bodies as de-
+25 fined in ORS 174.109 for governmental purposes; and
+26 “(E) May not result in liability for the county if the name of the officer
+27 or employee is disclosed after a request for exemption from disclosure is
+28 made under this subsection.
+29 “(32) Unless the public records request is made by a financial institution,
+30 as defined in ORS 706.008, consumer finance company licensed under ORS
+HB 4088-4 2/5/26
+Proposed Amendments to HB 4088 Page 8
+
+1 chapter 725, mortgage banker or mortgage broker licensed under ORS
+2 86A.095 to 86A.198, or title company for business purposes, records described
+3 in paragraph (a) of this subsection, if the exemption from disclosure of the
+4 records is sought by an individual described in paragraph (b) of this sub-
+5 section using the procedure described in paragraph (c) of this subsection:
+6 “(a) The home address, home or cellular telephone number or personal
+7 electronic mail address contained in the records of any public body that has
+8 received the request that is set forth in:
+9 “(A) A warranty deed, deed of trust, mortgage, lien, deed of reconveyance,
+10 release, satisfaction, substitution of trustee, easement, dog license, marriage
+11 license or military discharge record that is in the possession of the county
+12 clerk; or
+13 “(B) Any public record of a public body other than the county clerk.
+14 “(b) The individual claiming the exemption from disclosure must be a
+15 district attorney, a deputy district attorney, the Attorney General or an as-
+16 sistant attorney general, the United States Attorney for the District of
+17 Oregon or an assistant United States attorney for the District of Oregon, a
+18 city attorney who engages in the prosecution of criminal matters or a deputy
+19 city attorney who engages in the prosecution of criminal matters.
+20 “(c) The individual claiming the exemption from disclosure must do so by
+21 filing the claim in writing with the public body for which the exemption from
+22 disclosure is being claimed on a form prescribed by the public body. Unless
+23 the claim is filed with the county clerk, the claim form shall list the public
+24 records in the possession of the public body to which the exemption applies.
+25 The exemption applies until the individual claiming the exemption requests
+26 termination of the exemption or ceases to qualify for the exemption.
+27 “(33) The following voluntary conservation agreements and reports:
+28 “(a) Land management plans required for voluntary stewardship agree-
+29 ments entered into under ORS 541.973; and
+30 “(b) Written agreements relating to the conservation of greater sage
+HB 4088-4 2/5/26
+Proposed Amendments to HB 4088 Page 9
+
+1 grouse entered into voluntarily by owners or occupiers of land with a soil
+2 and water conservation district under ORS 568.550.
+3 “(34) Sensitive business records or financial or commercial information
+4 of the State Accident Insurance Fund Corporation that is not customarily
+5 provided to business competitors. This exemption does not:
+6 “(a) Apply to the formulas for determining dividends to be paid to em-
+7 ployers insured by the State Accident Insurance Fund Corporation;
+8 “(b) Apply to contracts for advertising, public relations or lobbying ser-
+9 vices or to documents related to the formation of such contracts;
+10 “(c) Apply to group insurance contracts or to documents relating to the
+11 formation of such contracts, except that employer account records shall re-
+12 main exempt from disclosure as provided in ORS 192.355 (35); or
+13 “(d) Provide the basis for opposing the discovery of documents in liti-
+14 gation pursuant to the applicable rules of civil procedure.
+15 “(35) Records of the Department of Public Safety Standards and Training
+16 relating to investigations conducted under ORS 181A.640 or 181A.870 (6),
+17 until the department issues the report described in ORS 181A.640 or 181A.870.
+18 “(36) A medical examiner’s report, autopsy report or laboratory test report
+19 ordered by a medical examiner under ORS 146.117.
+20 “(37) Any document or other information related to an audit of a public
+21 body, as defined in ORS 174.109, that is in the custody of an auditor or audit
+22 organization operating under nationally recognized government auditing
+23 standards, until the auditor or audit organization issues a final audit report
+24 in accordance with those standards or the audit is abandoned. This ex-
+25 emption does not prohibit disclosure of a draft audit report that is provided
+26 to the audited entity for the entity’s response to the audit findings.
+27 “(38)(a) Personally identifiable information collected as part of an elec-
+28 tronic fare collection system of a mass transit system.
+29 “(b) The exemption from disclosure in paragraph (a) of this subsection
+30 does not apply to public records that have attributes of anonymity that are
+HB 4088-4 2/5/26
+Proposed Amendments to HB 4088 Page 10
+
+1 sufficient, or that are aggregated into groupings that are broad enough, to
+2 ensure that persons cannot be identified by disclosure of the public records.
+3 “(c) As used in this subsection:
+4 “(A) ‘Electronic fare collection system’ means the software and hardware
+5 used for, associated with or relating to the collection of transit fares for a
+6 mass transit system, including but not limited to computers, radio commu-
+7 nication systems, personal mobile devices, wearable technology, fare instru-
+8 ments, information technology, data storage or collection equipment, or other
+9 equipment or improvements.
+10 “(B) ‘Mass transit system’ has the meaning given that term in ORS
+11 267.010.
+12 “(C) ‘Personally identifiable information’ means all information relating
+13 to a person that acquires or uses a transit pass or other fare payment me-
+14 dium in connection with an electronic fare collection system, including but
+15 not limited to:
+16 “(i) Customer account information, date of birth, telephone number,
+17 physical address, electronic mail address, credit or debit card information,
+18 bank account information, Social Security or taxpayer identification number
+19 or other identification number, transit pass or fare payment medium balances
+20 or history, or similar personal information; or
+21 “(ii) Travel dates, travel times, frequency of use, travel locations, service
+22 types or vehicle use, or similar travel information.
+23 “(39)(a) If requested by a civil code enforcement officer:
+24 “(A) The home address and home telephone number of the civil code
+25 enforcement officer contained in the voter registration records for the offi-
+26 cer.
+27 “(B) The name of the civil code enforcement officer contained in county
+28 real property assessment or taxation records. This exemption:
+29 “(i) Applies only to the name of the civil code enforcement officer and
+30 any other owner of the property in connection with a specific property
+HB 4088-4 2/5/26
+Proposed Amendments to HB 4088 Page 11
+
+1 identified by the officer in a request for exemption from disclosure;
+2 “(ii) Applies only to records that may be made immediately available to
+3 the public upon request in person, by telephone or using the Internet;
+4 “(iii) Applies until the civil code enforcement officer requests termination
+5 of the exemption;
+6 “(iv) Does not apply to disclosure of records among public bodies as de-
+7 fined in ORS 174.109 for governmental purposes; and
+8 “(v) May not result in liability for the county if the name of the civil code
+9 enforcement officer is disclosed after a request for exemption from disclosure
+10 is made under this subsection.
+11 “(b) As used in this subsection, ‘civil code enforcement officer’ means an
+12 employee of a public body, as defined in ORS 174.109, who is charged with
+13 enforcing laws or ordinances relating to land use, zoning, use of rights-of-
+14 way, solid waste, hazardous waste, sewage treatment and disposal or the
+15 state building code.
+16 “(40) Audio or video recordings, whether digital or analog, resulting from
+17 a law enforcement officer’s operation of a video camera worn upon the
+18 officer’s person that records the officer’s interactions with members of the
+19 public while the officer is on duty. When a recording described in this sub-
+20 section is subject to disclosure, the following apply:
+21 “(a) Recordings that have been sealed in a court’s record of a court pro-
+22 ceeding or otherwise ordered by a court not to be disclosed may not be dis-
+23 closed.
+24 “(b) A request for disclosure under this subsection must identify the ap-
+25 proximate date and time of an incident for which the recordings are re-
+26 quested and be reasonably tailored to include only that material for which
+27 a public interest requires disclosure.
+28 “(c) A video recording disclosed under this subsection must, prior to dis-
+29 closure, be edited in a manner as to render the faces of all persons within
+30 the recording unidentifiable.
+HB 4088-4 2/5/26
+Proposed Amendments to HB 4088 Page 12
+
+1 “(41) The contents of tips reported to a tip line, as defined in ORS 339.329.
+2 However, personally identifiable information, as defined in ORS 339.329, is
+3 not subject to public interest balancing under this section and remains ex-
+4 empt from disclosure except as provided in ORS 339.329.
+5 “(42) Residential addresses of individuals with intellectual or develop-
+6 mental disabilities residing in adult foster homes as defined in ORS 443.705
+7 or residential training facilities or residential training homes as those terms
+8 are defined in ORS 443.400.
+9 “(43) The name, image, home telephone number, home address, pro-
+10 fessional address or location of an individual who is [authorized to provide
+11 physical and behavioral health care services in this state and who provides]
+12 engaged in the provision of reproductive and gender-affirming health care
+13 services.”.
+14 On page 16, delete lines 18 through 30 and insert:
+15 “SECTION 17. Applicability. The amendments to ORS 33.420 and
+16 33.460 by sections 11 and 12 of this 2026 Act apply to an application for
+17 change of name, application for legal change of sex or application for
+18 simultaneous change of name and legal change of sex that is filed with
+19 the court on or after July 1, 2026, and, upon motion of the applicant,
+20 to an application for legal change of sex or application for simultane-
+21 ous change of name and legal change of sex that was filed with the
+22 court before July 1, 2026.
+23 “SECTION 18. Delayed operative date. (1) The amendments to ORS
+24 33.420 and 33.460 by sections 11 and 12 of this 2026 Act become operative
+25 on July 1, 2026.
+26 “(2) The Judicial Department may take any action before the oper-
+27 ative date specified in subsection (1) of this section that is necessary
+28 to enable the department to exercise, on and after the operative date
+29 specified in subsection (1) of this section, all of the duties, functions
+30 and powers conferred on the department by the amendments to ORS
+HB 4088-4 2/5/26
+Proposed Amendments to HB 4088 Page 13
+
+1 33.420 and 33.460 by sections 11 and 12 of this 2026 Act.
+2 “SECTION 19. Captions. The unit and section captions used in this
+3 2026 Act are provided only for the convenience of the reader and do
+4 not become part of the statutory law of this state or express any leg-
+5 islative intent in the enactment of this 2026 Act.
+6 “SECTION 20. Emergency. This 2026 Act being necessary for the
+7 immediate preservation of the public peace, health and safety, an
+8 emergency is declared to exist, and this 2026 Act takes effect on its
+9 passage.”.
+10
+HB 4088-4 2/5/26
+Proposed Amendments to HB 4088 Page 14

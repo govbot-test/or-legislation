@@ -1,0 +1,266 @@
+Title: 
+Official Title: 
+Source: versions - B-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+B-Engrossed
+House Bill 4128
+Ordered by the Senate February 25
+Including House Amendments dated February 16 and Senate Amendments
+dated February 25
+Sponsored by Representative BOWMAN, Senator FREDERICK, Representatives GRAYBER, WISE, Senator NERON
+MISSLIN; Representatives ANDERSEN, CHOTZEN, FRAGALA, GAMBA, GOMBERG, HELM, HUDSON,
+ISADORE, JAVADI, MUNOZ, NATHANSON, NOSSE, PHAM H, RIEKE SMITH, SOSA, TRAN, WATANABE,
+Senators PATTERSON, PHAM K, REYNOLDS (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: This Act bans some large entities from buying some houses until the houses have
+been listed for sale on the market for at least 90 days. This Act makes those entities give a
+notice form to the seller of the house and the Department of Justice. This Act allows the
+department to enforce the ban and notice form, including the power to impose civil penalties
+and seek attorney fees and costs in court. (Flesch Readability Score: 62.7).
+[Digest: This Act forbids some house purchases by large investors who do not wait 90 days and
+give notices and awards damages to those who sue law breakers. (Flesch Readability Score: 60.3).]
+Prohibits covered entities from purchasing, acquiring or offering to purchase or acquire a
+single-family residence unless the residence has been listed for sale to the general public for at least
+90 days.
+Requires a covered entity, upon making or accepting an offer to purchase or acquire a single-
+family residence, to submit a completed and notarized disclosure form to the seller or seller’s agent.
+Requires the covered entity to submit a copy of the form to the Department of Justice within three
+days of submitting the form to the seller or seller’s agent.
+[Authorizes any person to bring a civil action in circuit court against a covered entity for a vio-
+lation of the 90-day waiting period or disclosure form requirements or to otherwise compel compliance
+with those requirements. Provides for statutory damages.]
+Authorizes the Attorney General to bring a civil action in circuit court against a covered
+entity for declaratory relief, to restrain a threatened or actual violation of the 90-day waiting
+period or the disclosure form requirements or to otherwise compel compliance with those
+requirements.
+Authorizes the Attorney General to serve and enforce an investigative demand on a
+person with relevant information, or a person with information that could lead to the dis-
+covery of relevant information, in an investigation of a violation of the 90-day waiting period
+or the disclosure form requirements.
+Authorizes the Attorney General to impose a civil penalty against a covered entity upon
+finding a violation of the 90-day waiting period or the disclosure form requirements.
+Allows a court to award the costs of investigation and reasonable attorney fees if the
+Attorney General prevails in a civil action or imposes a civil penalty.
+1 A BILL FOR AN ACT
+2 Relating to sale of single-family residences; creating new provisions; and amending ORS 180.095.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. As used in this section and section 2 of this 2026 Act:
+5 (1)(a) “Covered entity” means an institutional real estate investor or an entity that re-
+6 ceives funding from an institutional real estate investor to purchase a single-family resi-
+7 dence.
+8 (b) “Covered entity” does not mean:
+9 (A) A nonprofit organization described in section 501(c)(3) of the Internal Revenue Code
+10 that is exempt from taxation under section 501(a) of the Internal Revenue Code;
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 264
+
+B-Eng. HB 4128
+1 (B) A creditor, or its loan servicer, that acquires ownership of real property in full or
+2 partial satisfaction of a secured debt;
+3 (C) An entity that receives a loan from an institutional real estate investor, or an entity
+4 that receives funding from an institutional real estate investor, in exchange for a mortgage
+5 on the residence to be purchased, provided that the mortgage is the type for which members
+6 of the general public may apply; or
+7 (D) A community land trust, land bank, public housing authority or resident-owned co-
+8 operative.
+9 (2) “Institutional real estate investor” means an entity, subsidiary of the entity or com-
+10 bined group of entities that, directly or indirectly:
+11 (a) Owns 2,500 or more single-family residences or has an ownership interest of at least
+12 10 percent in 2,500 or more single-family residences;
+13 (b) Serves as a fiduciary of funds pooled from investors; and
+14 (c) Manages $1 billion or more in net value or assets on any day in the current tax year,
+15 adjusted annually for inflation since 2026 pursuant to the Consumer Price Index for All Ur-
+16 ban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of
+17 the United States Department of Labor.
+18 (3) “Single-family residence” means a residence designed for occupation by a single family
+19 unit, not including any type of middle housing as defined in ORS 197A.420.
+20 SECTION 2. (1) Notwithstanding any other provision of law, a covered entity may not
+21 purchase, acquire or offer to purchase or acquire fee title to a single-family residence unless
+22 the residence:
+23 (a) Will be used as the principal residence of a person with an ownership interest in the
+24 covered entity;
+25 (b) Was constructed or will be purchased, acquired or operated with any funds from
+26 federal, state or local government;
+27 (c) Is occupied by a tenant as defined in ORS 90.100;
+28 (d) Was built for occupancy by a tenant as defined in ORS 90.100 and has never been
+29 occupied by a person other than a tenant;
+30 (e) Is not publicly listed for sale at the time the covered entity makes an offer;
+31 (f) Is acquired through a judicial or nonjudicial foreclosure sale, forfeiture, a deed in lieu
+32 of foreclosure or the enforcement of a judgment, lien, debt or property interest; or
+33 (g) Has been publicly listed for sale for at least 90 consecutive days immediately preced-
+34 ing the covered entity first offering or accepting an offer to purchase or acquire any interest
+35 in the single-family residence.
+36 (2) Upon making or accepting an offer to purchase or acquire a single-family residence
+37 under subsection (1)(g) of this section, a covered entity shall:
+38 (a) Submit to the seller or seller’s agent a completed and notarized disclosure form de-
+39 scribed in subsection (4) of this section.
+40 (b) Within three days of submitting the disclosure form under paragraph (a) of this sub-
+41 section, submit a copy of the completed and notarized disclosure form to the Department of
+42 Justice.
+43 (3) The department shall publicly post a copy of disclosure forms received under sub-
+44 section (2)(b) of this section on the department’s website and retain the posting for at least
+45 five years.
+[2]
+
+B-Eng. HB 4128
+1 (4) The disclosure form under subsection (2) of this section shall be in substantially the
+2 following form:
+3
+4
+5 DISCLOSURE OF STATUS AS COVERED ENTITY SUBJECT TO
+6 90-DAY WAITING PERIOD
+7
+8 Pursuant to section 2 of this 2026 Act, a covered entity may not purchase, acquire or
+9 offer to purchase or acquire any interest in a single-family residence unless the single-family
+10 residence has been listed for sale to the general public for at least 90 consecutive days im-
+11 mediately preceding an offer or an acceptance of an offer to purchase or acquire.
+12 Upon making an offer or accepting an offer to purchase or acquire a single-family resi-
+13 dence, a covered entity shall submit a completed and notarized version of this form or a
+14 substantially similar form to the seller or seller’s agent. Within three days of submitting the
+15 form to the seller or seller’s agent, a covered entity shall submit a copy of the completed
+16 and notarized form to the Department of Justice.
+17
+18 ATTENTION
+19
+20 The buyer of this single-family residence is a covered entity under section 2 of this 2026
+21 Act and is subject to the 90-day waiting period described above. Any covered entity that vi-
+22 olates the 90-day waiting period or fails to submit this form as required by statute may be
+23 liable for civil penalties.
+24
+25 IDENTIFYING INFORMATION OF BUYER(S) OF THIS
+26 SINGLE-FAMILY RESIDENCE
+27
+28 Printed Name and Mailing Address
+29
+30 Printed Name and Mailing Address
+31
+32 SIGNATURE OF BUYER(S) OR BUYER’S AGENT OF THIS
+33 SINGLE-FAMILY RESIDENCE
+34
+35 By signing this form, the buyer or buyer’s agent affirms that the statements herein are true
+36 under penalty of perjury.
+37
+38 Printed Name and Mailing Address
+39
+40 Printed Name and Mailing Address
+41
+42 NOTARIAL CERTIFICATE
+43
+44 State of
+45 County of
+[3]
+
+B-Eng. HB 4128
+1 Signed or attested before me on , 2 ,
+2 by .
+3
+4 Notary Public - State of Oregon
+5 My commission expires:
+6
+7
+8 SECTION 3. (1) The Attorney General may bring a civil action in the name of the State
+9 of Oregon against a covered entity to enforce section 2 of this 2026 Act, including an action
+10 for declaratory relief, an injunction to restrain a threatened or actual violation of section 2
+11 (1) or (2) of this 2026 Act or an action to otherwise compel compliance with section 2 of this
+12 2026 Act. The civil action must be brought in the Circuit Court of Marion County or the
+13 circuit court of the county in which a violation occurs.
+14 (2) The Attorney General may serve an investigative demand upon any person that pos-
+15 sess, controls or has custody of any information, document or other material that the At-
+16 torney General determines is relevant to an investigation of a violation of section 2 (1) or (2)
+17 of this 2026 Act or that could lead to the discovery of relevant information. An investigative
+18 demand may require the person to:
+19 (a) Appear and testify under oath at the time and place stated in the investigative de-
+20 mand;
+21 (b) Answer written interrogatories; or
+22 (c) Produce relevant documents or physical evidence for examination at the time and
+23 place stated in the investigative demand.
+24 (3) The Attorney General shall serve an investigative demand under this section as pro-
+25 vided in ORS 646.622 and may enforce the investigative demand as provided in ORS 646.626.
+26 (4) If, after an investigation, the Attorney General finds that a covered entity has vio-
+27 lated section 2 of this 2026 Act, the Attorney General may impose a civil penalty against the
+28 covered entity under ORS 183.745 of:
+29 (a) An amount not to exceed $250,000 for acquiring or purchasing property in violation
+30 of section 2 (1) of this 2026 Act; and
+31 (b) An amount not to exceed $10,000 for failure to submit any form required under sec-
+32 tion 2 (2) of this 2026 Act.
+33 (5) In any civil action brought under this section in which the Attorney General prevails
+34 or investigation in which civil penalties are imposed under this section, a court may award
+35 the Attorney General the costs of investigation and reasonable attorney fees upon sub-
+36 mission by the Attorney General of a petition to the court.
+37 (6) The Attorney General shall deposit any moneys recovered under this section into the
+38 Department of Justice Protection and Education Revolving Account created under ORS
+39 180.095.
+40 SECTION 4. ORS 180.095 is amended to read:
+41 180.095. (1) The Department of Justice Protection and Education Revolving Account is created
+42 in the General Fund. All moneys in the account are continuously appropriated to the Department
+43 of Justice and may be used to pay for only the following activities:
+44 (a) Restitution and refunds in proceedings described in paragraph (c) of this subsection;
+45 (b) Consumer and business education relating to the laws governing antitrust and unlawful trade
+[4]
+
+B-Eng. HB 4128
+1 practices; and
+2 (c) Personal services, travel, meals, lodging and all other costs and expenses incurred by the
+3 department in investigating, preparing, commencing and prosecuting the following actions and suits,
+4 and enforcing judgments, settlements, compromises and assurances of voluntary compliance arising
+5 out of the following actions and suits:
+6 (A) Actions and suits under the state and federal antitrust laws;
+7 (B) Actions and suits under ORS 336.184 and 646.605 to 646.656;
+8 (C) Actions commenced under ORS 59.331;
+9 (D) Actions and suits under ORS 180.750 to 180.785;
+10 (E) Actions and suits under ORS 646A.025;
+11 (F) Actions commenced under ORS 646A.589;
+12 (G) Actions and suits under ORS 646A.859; [and]
+13 (H) Actions and suits commenced under ORS 180.060[.]; and
+14 (I) Actions and suits under section 3 of this 2026 Act.
+15 (2) Moneys in the Department of Justice Protection and Education Revolving Account are not
+16 subject to allotment. Upon request of the Attorney General, the State Treasurer shall create sub-
+17 accounts within the account for the purposes of managing moneys in the account and allocating
+18 those moneys to the activities described in subsection (1) of this section.
+19 (3) Except as otherwise provided by law, all sums of money received by the Department of Jus-
+20 tice under a judgment, settlement, compromise or assurance of voluntary compliance, including
+21 damages, restitution, refunds, attorney fees, costs, disbursements and other recoveries, but excluding
+22 civil penalties under ORS 646.642, in proceedings described in subsection (1)(c) of this section shall,
+23 upon receipt, be deposited with the State Treasurer to the credit of the Department of Justice Pro-
+24 tection and Education Revolving Account. However, if the action or suit was based on an expendi-
+25 ture or loss from a public body or a dedicated fund, the amount of such expenditure or loss, after
+26 deduction of attorney fees and expenses awarded to the department by the court or agreed to by the
+27 parties, if any, shall be credited to the public body or dedicated fund and the remainder thereof
+28 credited to the Department of Justice Protection and Education Revolving Account.
+29 (4) If the Department of Justice recovers restitution or refunds in a proceeding described in
+30 subsection (1)(c) of this section, and the department cannot determine the persons to whom the
+31 restitution or refunds should be paid or the amount of the restitution or refund payable to individual
+32 claimants is de minimis, the restitution or refunds may not be deposited in the Department of Justice
+33 Protection and Education Revolving Account and shall be deposited in the General Fund.
+34 (5) Before April 1 of each odd-numbered year, the Department of Justice shall report to the Joint
+35 Committee on Ways and Means:
+36 (a) The department’s projection of the balance in the Department of Justice Protection and Ed-
+37 ucation Revolving Account at the end of the biennium in which the report is made and at the end
+38 of the following biennium;
+39 (b) The amount of the balance held for restitution and refunds;
+40 (c) An estimate of the department’s anticipated costs and expenses under subsection (1)(b) and
+41 (c) of this section for the biennium in which the report is made and for the following biennium; and
+42 (d) Any judgment, settlement, compromise or other recovery, the proceeds of which are used for
+43 purposes other than:
+44 (A) For deposit into the Department of Justice Protection and Education Revolving Account; or
+45 (B) For payment of legal costs related to the judgment, settlement, compromise or other recov-
+[5]
+
+B-Eng. HB 4128
+1 ery.
+2 (6) The Joint Committee on Ways and Means, after consideration of recommendations made by
+3 the Department of Justice, shall use the information reported under subsection (5) of this section to
+4 determine an appropriate balance for the revolving account.
+5 SECTION 5. Section 2 of this 2026 Act applies to offers to purchase or acquire a single-
+6 family residence conveyed by a covered entity on or after the effective date of this 2026 Act.
+7
+[6]

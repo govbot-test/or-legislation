@@ -1,0 +1,469 @@
+Title: 
+Official Title: 
+Source: versions - A-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+A-Engrossed
+House Bill 4104
+Ordered by the House February 16
+Including House Amendments dated February 16
+Sponsored by Representative NGUYEN D, Senators SOLLMAN, MEEK; Representatives ANDERSEN, BUNCH,
+ISADORE, JAVADI, LEVY B, RIEKE SMITH, WISE, Senators BROADMAN, FREDERICK, PATTERSON
+(Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act would let state CHIPS Fund grants be awarded to firms that could get federal
+semiconductor financial assistance under the CHIPS Act but have not applied for it. The Act would
+expand the kinds of businesses that may receive state CHIPS Fund grants. The Act would rename
+the Oregon CHIPS Fund as the Oregon Fostering Innovation Strength at Home and CHIPS Fund.
+(Flesch Readability Score: 61.9).
+Authorizes Oregon CHIPS Fund grants and loans to businesses that are eligible for federal
+semiconductor financial assistance under the CHIPS Act but have not applied for it. Expands the
+kinds of businesses that may receive Oregon CHIPS Fund grants and loans. Renames the Oregon
+CHIPS Fund as the Oregon Fostering Innovation Strength at Home and CHIPS Fund.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to economic development; creating new provisions; amending ORS 329A.743 and sections
+3 1, 2, 3, 4, 5, 6 and 7, chapter 25, Oregon Laws 2023; repealing section 10, chapter 81, Oregon
+4 Laws 2024; and declaring an emergency.
+5 Be It Enacted by the People of the State of Oregon:
+6 SECTION 1. Section 2 of this 2026 Act is added to and made a part of sections 1 to 6,
+7 chapter 25, Oregon Laws 2023.
+8 SECTION 2. Notwithstanding section 1 (2)(a) and (c) and (4)(a), chapter 25, Oregon Laws
+9 2023, but otherwise subject to sections 1 to 6, chapter 25, Oregon Laws 2023, the Oregon
+10 Business Development Department and the Governor may award grants and make loans
+11 from moneys in the Oregon Fostering Innovation Strength at Home and CHIPS Fund estab-
+12 lished under section 6, chapter 25, Oregon Laws 2023, to businesses that have not applied for
+13 federal semiconductor financial assistance but that meet the definition of a covered entity.
+14 SECTION 3. Section 1, chapter 25, Oregon Laws 2023, as amended by section 6, chapter 89,
+15 Oregon Laws 2024, is amended to read:
+16 Sec. 1. (1) As used in sections 1 to 6, chapter 25, Oregon Laws 2023:
+17 (a) “Covered entity” [has the meaning given that term by 15 U.S.C. 4651(2)] means a private
+18 entity, a consortium of private entities or a consortium of nonprofit, public and private en-
+19 tities with a demonstrated ability to substantially finance, construct, expand or modernize
+20 a facility relating to fabrication, assembly, testing, advanced packaging, production or re-
+21 search and development for targeted industries, materials used for manufacturing in tar-
+22 geted industries or manufacturing equipment for targeted industries.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 122
+
+A-Eng. HB 4104
+1 (b) “Covered incentive” has the meaning given that term by 15 U.S.C. 4651(3).
+2 (c) “Federal semiconductor financial assistance” means assistance available under the program
+3 established pursuant to 15 U.S.C. 4652(a)(1) or 15 U.S.C. 4656(c) for financial assistance to the
+4 semiconductor industry.
+5 (d) “Program grants and loans” means grants awarded and loans made under the program de-
+6 veloped by the Oregon Business Development Department pursuant to this section.
+7 (e) “Targeted industry” means industries identified by the Oregon Business Development
+8 Department as providing the State of Oregon with the best opportunities for growth, inno-
+9 vation, high wages, competitiveness and statewide prosperity.
+10 (2)(a) The Oregon Business Development Department shall develop a program to award grants
+11 and make loans from moneys in the Oregon Fostering Innovation Strength at Home and CHIPS
+12 Fund established under section 6, chapter 25, Oregon Laws 2023, to businesses applying for federal
+13 semiconductor financial assistance.
+14 (b)(A) The program shall be administered by the department and the Governor as set forth in
+15 this section.
+16 (B) Notwithstanding the duties and powers conferred respectively on the department and the
+17 Governor under sections 1 to 6, chapter 25, Oregon Laws 2023, the department and the Governor
+18 may consult each other with respect to any duty or power so conferred.
+19 (c) It is the intent of the Legislative Assembly that program grants and loans be treated by the
+20 United States Secretary of Commerce as covered incentives for purposes of the federal semicon-
+21 ductor financial assistance program.
+22 (3)(a) Program grant and loan proceeds may be used solely for:
+23 [(A) If a business’s application for federal semiconductor financial assistance is approved, activities
+24 undertaken in connection with the federal semiconductor financial assistance program; and]
+25 [(B) Regardless of whether a business’s application for federal semiconductor financial assistance
+26 is approved:]
+27 (A) If a business applies for federal semiconductor financial assistance and is approved,
+28 activities undertaken in connection with the federal semiconductor financial assistance pro-
+29 gram; and
+30 (B) Regardless of whether a business applies for federal semiconductor financial assist-
+31 ance or is approved:
+32 (i) The development of a site for a semiconductor or other [advanced manufacturing facility]
+33 targeted industry investment, including, but not limited to, the acquisition and aggregation of
+34 land;
+35 (ii) Research and development with respect to semiconductors or [advanced manufacturing] tar-
+36 geted industries; or
+37 (iii) Partnering with institutions of higher education, including, but not limited to, historically
+38 Black colleges and universities, career technical training institutions, regional collaborative groups,
+39 local workforce development boards as defined in ORS 660.300, programs funded through the federal
+40 Workforce Innovation and Opportunity Act (P.L. 113-128) and apprenticeship programs registered
+41 with the State Apprenticeship and Training Council for the purpose of workforce development and
+42 the creation of training, registered apprenticeship and internship opportunities, with respect to
+43 semiconductors or [advanced manufacturing] targeted industries.
+44 (b) Contractors and subcontractors on construction projects funded by program grant or loan
+45 proceeds must pay for such projects a rate of wage that meets or exceeds the greater of:
+[2]
+
+A-Eng. HB 4104
+1 (A) The prevailing rate of wage for workers in each trade or occupation in each locality as de-
+2 termined by the Commissioner of the Bureau of Labor and Industries under ORS 279C.815; or
+3 (B) The prevailing rate of wage as determined by the United States Secretary of Labor under
+4 the Davis-Bacon Act (40 U.S.C. 3141 et seq.).
+5 (4)(a) A business that is a covered entity may apply to the department under section 2, chapter
+6 25, Oregon Laws 2023, for a program grant or loan.
+7 (b)(A) Except as provided in subparagraph (B) of this paragraph, program grants and loans may
+8 not be awarded or made to any applicant in an amount greater than $50 million.
+9 (B) The Governor may approve a program grant or loan under section 3, chapter 25, Oregon
+10 Laws 2023, in an amount greater than $50 million only after having given the Legislative Assembly
+11 at least 30 calendar days’ notice of the amount of the program grant or loan the Governor intends
+12 to approve.
+13 (c)(A) Program loans:
+14 (i) May be made for a term not to exceed 10 years, as negotiated by the business and, in con-
+15 sultation with the Governor, the department; and
+16 (ii) Except as provided in section 5 (3), chapter 25, Oregon Laws 2023, shall be made at a zero
+17 rate of interest.
+18 (B) All amounts received by the department in repayment of a program loan shall be transferred
+19 to the Oregon Fostering Innovation Strength at Home and CHIPS Fund established under section
+20 6, chapter 25, Oregon Laws 2023.
+21 (d) Proceeds from a program grant or loan may be distributed in a single payment or in multiple,
+22 conditional payments, as specified in the program grant or loan agreement.
+23 (e)(A) Except as provided in paragraph (f) of this subsection, for every $1 million in program
+24 grant or loan proceeds received, the recipient business must, over the period of the grant or loan
+25 agreement, generate at least:
+26 (i) If the term of the agreement is not more than five years, $1.25 million in state and local re-
+27 venue; or
+28 (ii) If the term of the agreement is more than five years, $1.5 million in state and local revenue.
+29 (B) The department and the recipient business may specify in the program grant or loan agree-
+30 ment what the term “revenue” includes.
+31 (f) In lieu of the requirement under paragraph (e) of this subsection, a recipient business may
+32 instead commit to the creation of new jobs in Oregon:
+33 (A) At least 65 percent of which are permanent, full-time positions; and
+34 (B) That pay on average at least the average median income for the region of this state in which
+35 the services will be performed.
+36 [(g)(A) In addition to program grants and loans, an application assistance grant, in an amount not
+37 to exceed $50,000, may be awarded to a business whose application is approved under section 3, chapter
+38 25, Oregon Laws 2023, for the costs of preparing and submitting the business’s application for federal
+39 semiconductor financial assistance.]
+40 [(B) Application assistance grants may be made from moneys in the fund or from any other source
+41 of funding available for such purpose to the department or the Governor.]
+42 [(5) Program grants receiving federal semiconductor financial assistance under 15 U.S.C. 4656(c)
+43 are exempt from:]
+44 [(a) Subsection (4)(e) and (f) of this section;]
+45 [(b) Section 2 (1)(b)(G), chapter 25, Oregon Laws 2023; and]
+[3]
+
+A-Eng. HB 4104
+1 [(c) Section 5 (1)(a)(C), chapter 25, Oregon Laws 2023.]
+2 SECTION 4. Section 2, chapter 25, Oregon Laws 2023, is amended to read:
+3 Sec. 2. (1)(a) The Oregon Business Development Department shall prescribe an application pro-
+4 cess, including forms and deadlines, by which businesses may apply under this section for program
+5 grants and loans.
+6 (b) At a minimum, the application form must require the applicant business to:
+7 [(A) Establish its eligibility to be treated by the United States Secretary of Commerce as a covered
+8 entity;]
+9 [(B) Include its statement of interest or draft application for federal semiconductor financial as-
+10 sistance;]
+11 [(C)] (A) [Explain] Execute an affidavit attesting how the applicant business plans to comply
+12 with all applicable federal and state employment, labor and environmental standards;
+13 [(D)] (B) Explain how the proposed activities of the applicant business will promote the expan-
+14 sion and long-term economic viability of the [semiconductor] applicable targeted industry in Oregon,
+15 including research and development, manufacturing and other critical links in the [semiconductor]
+16 supply chain;
+17 [(E)] (C) State the amount of program grant or loan proceeds sought under this section along
+18 with a detailed description of the proposed expenditure of the proceeds;
+19 [(F) If the application includes a request for an application assistance grant, state the amount of
+20 the application assistance grant sought and demonstrate the applicant business’s need for the applica-
+21 tion assistance grant;]
+22 [(G)] (D) Explain how the applicant business will meet the requirements under section 1 (4)(e)
+23 or (f), chapter 25, Oregon Laws 2023 [of this 2023 Act], setting forth at a minimum such information
+24 as:
+25 (i) For state and local revenue, the kinds, amounts and timing of the revenue to be generated;
+26 or
+27 (ii) For job creation, [such information as] the number, job descriptions, weekly hours, pay scale
+28 and locations of the proposed jobs;
+29 [(H)] (E) Include any other information that the department or the Governor considers neces-
+30 sary or important for review of the application; and
+31 [(I)] (F) Sign the application through an authorized director, officer, employee or agent under
+32 penalties for false swearing.
+33 (2)(a) Upon request, the department may consult with an applicant business about the business’s
+34 application, before or after submission.
+35 (b) An applicant business may amend and resubmit its application at any time within the appli-
+36 cation period.
+37 (3) Trade secrets, as defined in ORS 646.461, that are submitted to the department as part of an
+38 application under this section shall be exempt from disclosure under ORS 192.311 to 192.478 until
+39 January 1, [2027] 2030.
+40 SECTION 5. Section 3, chapter 25, Oregon Laws 2023, is amended to read:
+41 Sec. 3. (1)(a) The Oregon Business Development Department and the Governor shall review all
+42 timely and complete applications for program grants and loans, with such distribution of duties and
+43 powers as the department and the Governor may arrange.
+44 (b) Within 90 days following receipt of an application, the department and the Governor shall:
+45 (A) Approve the application;
+[4]
+
+A-Eng. HB 4104
+1 (B) Approve the application for a program grant or loan[, or application assistance grant,] in an
+2 amount other than the amount requested; or
+3 (C) Reject the entire application [or only the request for an application assistance grant].
+4 [(c) For a program grant or loan in an amount greater than $50 million, the Governor shall provide
+5 notice to the Legislative Assembly in accordance with section 1 (4)(b)(B) of this 2023 Act.]
+6 [(d)] (c) The decisions made with respect to an application are not subject to appeal.
+7 (2) In approving applications and setting program grant and loan amounts, the department and
+8 the Governor shall give preference to:
+9 [(a) Projects that will promote the expansion and long-term economic viability of the semiconductor
+10 industry in Oregon, including research and development, manufacturing and other critical links in the
+11 semiconductor supply chain;]
+12 [(b) Projects that will promote and extend Oregon’s leadership in the field of technology;]
+13 (a) Projects that will promote the expansion and long-term economic viability of semi-
+14 conductors and targeted industries in Oregon, including research and development, manu-
+15 facturing and supply chains;
+16 (b) Projects that will promote and extend Oregon in the fields of technology and manu-
+17 facturing;
+18 (c) Projects that will attract manufacturing jobs to Oregon;
+19 (d) Projects that will secure supply in Oregon for [critical sectors of the state economy] semi-
+20 conductors or targeted industries;
+21 (e) Projects that reflect an applicant business’s established relationship, or commitment to build
+22 a relationship, with organizations focused on developing a diverse workforce pipeline;
+23 (f) Applicant businesses that have at least [10] five full-time employees in Oregon;
+24 (g) Applicant businesses that have formed partnerships for the purpose of workforce develop-
+25 ment or the creation of training, registered apprenticeship or internship opportunities; and
+26 [(h)(A) Applicant businesses that commit to generating a greater amount of state and local revenue
+27 in accordance with section 1 (4)(e) of this 2023 Act; or]
+28 [(B) Applicant businesses that commit to creating a higher percentage of new permanent full-time
+29 jobs in accordance with section 1 (4)(f) of this 2023 Act;]
+30 [(i) Applications that propose projects described in 15 U.S.C. 4652(a)(2)(B)(i) that will incorporate
+31 significant participation by businesses owned by members of underrepresented communities and eco-
+32 nomically disadvantaged individuals; and]
+33 [(j)] (h) Applications that, taken together, represent regional diversity in Oregon.
+34 (3)(a) As soon as practicable after making decisions under subsection (1) of this section, the
+35 department shall:
+36 (A) Notify the applicant business of the decision and the reasons for the decision; and
+37 (B) For an approved application, offer to the applicant business a program grant or loan agree-
+38 ment [and, if applicable, an application assistance grant].
+39 (b) Upon entering into a program grant or loan agreement with the applicant business, the de-
+40 partment shall distribute to the business from the Oregon Fostering Innovation Strength at Home
+41 and CHIPS Fund established under section 6, chapter 25, Oregon Laws 2023, [of this 2023 Act] the
+42 amount set forth in the agreement.
+43 (4)(a) If a business that has entered into an agreement pursuant to this section changes owner-
+44 ship during the term of the agreement, the department and the Governor may allow the continued
+45 use of the program grant or loan proceeds provided the business enters into a new agreement with
+[5]
+
+A-Eng. HB 4104
+1 the department that commits the business to continuing the project as proposed in the application
+2 approved under this section.
+3 (b) In the new agreement, the department may agree to minor changes in the terms of the ori-
+4 ginal agreement that the department and the Governor [considers] consider reasonable in the cir-
+5 cumstances and faithful to the purpose for which the business’s application was approved.
+6 SECTION 6. Section 4, chapter 25, Oregon Laws 2023, is amended to read:
+7 Sec. 4. (1) At least once every six months following the date on which a business enters into
+8 a program grant or loan agreement with the Oregon Business Development Department under sec-
+9 tion 3, chapter 25, Oregon Laws 2023 [of this 2023 Act], for as long as the agreement is in effect,
+10 the business shall report to the department the following:
+11 (a) The status of the business’s application for federal semiconductor financial assistance;
+12 (b) Progress on the project to construct, expand or modernize the facility for which the grant
+13 was awarded or the loan made, including, but not limited to, the acquisition or aggregation of land
+14 and the status of the permits required for the project;
+15 (c)(A) State and local revenue generated in accordance with section 1 (4)(e), chapter 25,
+16 Oregon Laws 2023 [of this 2023 Act], setting forth at a minimum the kinds, amounts and timing of
+17 the revenue generated, as well as of any proposed revenue yet to be generated; or
+18 (B) The number of jobs created in accordance with section 1 (4)(f), chapter 25, Oregon Laws
+19 2023, [of this 2023 Act] and the job descriptions, weekly hours, pay scale and locations of the jobs,
+20 as well as of jobs yet to be created;
+21 (d) Any research and development work conducted with respect to semiconductors or [advanced
+22 manufacturing] targeted industries;
+23 (e) Any partnerships the business has engaged in with institutions of higher education or re-
+24 gional workforce programs for the purpose of workforce development and the creation of training,
+25 registered apprenticeship and internship opportunities;
+26 (f) The status of any other consideration for which the business’s application was given prefer-
+27 ence under section 3 (2), chapter 25, Oregon Laws 2023 [of this 2023 Act];
+28 (g) The economic impact of the project on businesses in this state, including, but not limited to,
+29 the impact on supply chains;
+30 (h) The economic and environmental impact of the project on communities in this state; and
+31 (i) Any other information required by the department or the Governor.
+32 (2) Not later than March 15 and September 15 of each year in which any program grant or loan
+33 agreement remains in effect, the department shall submit to the Oregon Business Development
+34 Commission established under ORS 285A.040 a report summarizing the semiannual information re-
+35 ceived from businesses pursuant to subsection (1) of this section.
+36 (3) Not later than September 15 of each year in which any program grant or loan agreement
+37 remains in effect, the department shall submit, in the manner required under ORS 192.245, a report
+38 summarizing the information received from businesses pursuant to subsection (1) of this section, to
+39 the interim committees of the Legislative Assembly related to economic development.
+40 SECTION 7. Section 5, chapter 25, Oregon Laws 2023, is amended to read:
+41 Sec. 5. (1)(a) A business that received a program grant or loan[, including an application as-
+42 sistance grant,] shall become liable for immediate repayment of the full amount of the grant or the
+43 outstanding principal amount of the loan, if:
+44 (A) The business has not begun, on or before January 1, [2027] 2030, the process of applying for
+45 permits required for the project for which the grant was awarded or the loan made;
+[6]
+
+A-Eng. HB 4104
+1 (B) The project changes substantially from the project for which the business’s application was
+2 approved such that the project would not have been eligible for the program grant or loan;
+3 (C) On or before the earlier of a date, if any, specified in the program grant or loan agreement
+4 or January 1, [2033] 2036:
+5 (i) The business has not generated state and local revenue in accordance with section 1 (4)(e),
+6 chapter 25, Oregon Laws 2023 [of this 2023 Act]; or
+7 (ii) The business has not created new permanent full-time jobs in accordance with section 1
+8 (4)(f), chapter 25, Oregon Laws 2023 [of this 2023 Act];
+9 (D) The business has not complied with all environmental standards applicable to the project
+10 under law or has not cured its noncompliance within a reasonable time, as determined by the
+11 Oregon Business Development Department or the Governor; or
+12 (E) The business has not complied with all labor standards applicable to the project under law
+13 or the program grant or loan agreement or has not cured its noncompliance within a reasonable
+14 time, as determined by the department or the Governor.
+15 (b) If a project is suspended for a reason beyond the control of the business, as determined by
+16 the department or the Governor, the amount to be repaid shall be in proportion to the percentage
+17 of the project that has not been completed at the time of suspension.
+18 (2) Any and all amounts required to be repaid under this section shall be considered to be liq-
+19 uidated and delinquent, and the Oregon Business Development Department shall assign such
+20 amounts to the Department of Revenue for collection as provided in ORS 293.250.
+21 (3) If the Oregon Business Development Department or the Governor discovers that a business
+22 willfully made a false statement or misrepresentation, or willfully failed to report a material fact,
+23 to obtain a program grant or loan[, or an application assistance grant,] under sections 1 to 6,
+24 chapter 25, Oregon Laws 2023 [of this 2023 Act], the Oregon Business Development Department
+25 may add to the amount the business is obligated to repay a penalty not to exceed 20 percent of the
+26 principal amount of the program grant or loan so obtained, plus any applicable interest and fees
+27 associated with the Department of Revenue’s costs of collection.
+28 (4) Subject to ORS 293.250, all amounts repaid to the Oregon Business Development Department
+29 or the Department of Revenue under this section, including award amounts, penalties, interest, fees
+30 and any other charges, shall be transferred to the Oregon Fostering Innovation Strength at
+31 Home and CHIPS Fund established under section 6, chapter 25, Oregon Laws 2023 [of this 2023
+32 Act].
+33 SECTION 8. Section 6, chapter 25, Oregon Laws 2023, as amended by section 5, chapter 81,
+34 Oregon Laws 2024, and section 7, chapter 89, Oregon Laws 2024, is amended to read:
+35 Sec. 6. (1) The Oregon Fostering Innovation Strength at Home and CHIPS Fund is estab-
+36 lished in the State Treasury, separate and distinct from the General Fund. Interest earned by the
+37 Oregon Fostering Innovation Strength at Home and CHIPS Fund shall be credited to the fund.
+38 (2) Moneys in the fund shall consist of:
+39 (a) Amounts appropriated or otherwise transferred or credited to the fund by the Legislative
+40 Assembly;
+41 (b) Earnings received on moneys in the fund; and
+42 (c) Other moneys, or proceeds of property, from any public or private source that are trans-
+43 ferred, donated or otherwise credited to the fund.
+44 (3) Moneys in the Oregon Fostering Innovation Strength at Home and CHIPS Fund are
+45 continuously appropriated to the Oregon Business Development Department for the following pur-
+[7]
+
+A-Eng. HB 4104
+1 poses:
+2 (a) Paying the actual costs incurred by the department in developing and administering sections
+3 1 to 6, chapter 25, Oregon Laws 2023;
+4 (b) Carrying out the provisions of sections 1 to 6, chapter 25, Oregon Laws 2023;
+5 (c) Transferring moneys to the Semiconductor Talent Sustaining Fund established under section
+6 2, chapter 89, Oregon Laws 2024 [of this 2024 Act]; and
+7 (d) Transferring moneys to the CHIPS Child Care Fund established under [section 3 of this 2024
+8 Act] ORS 329A.743 for the purpose of carrying out [section 2 of this 2024 Act] ORS 329A.740.
+9 [(4) Moneys in the Oregon CHIPS Fund on June 30, 2023, shall be retained in the fund, and used
+10 for the purposes set forth in subsection (3) of this section, until June 30, 2025.]
+11 [(5) Any moneys remaining in the Oregon CHIPS Fund on June 30, 2025, shall be transferred to
+12 the General Fund.]
+13 SECTION 9. ORS 329A.743, as amended by section 3a, chapter 81, Oregon Laws 2024, is
+14 amended to read:
+15 329A.743. (1) The CHIPS Child Care Fund is established in the State Treasury, separate and
+16 distinct from the General Fund. Interest earned by the CHIPS Child Care Fund shall be credited
+17 to the fund.
+18 (2) Moneys in the fund are continuously appropriated to the Oregon Business Development De-
+19 partment for the following purposes:
+20 (a) Paying the actual costs incurred by the department to develop and administer this section
+21 and ORS 329A.740; and
+22 (b) Carrying out this section and ORS 329A.740, including transferring moneys to the Bureau
+23 of Labor and Industries to develop and administer the program described in ORS 329A.740.
+24 (3) The Oregon Business Development Department may transfer moneys deposited in the fund
+25 to the Child Care Infrastructure Fund established under ORS 329A.725. Moneys transferred under
+26 this subsection shall be used by the department to provide financial assistance under ORS 329A.727
+27 for the purposes of increasing child care infrastructure in geographic areas in this state
+28 where semiconductor or other targeted industry facilities are presently located or scheduled
+29 to be constructed under sections 1 to 6, chapter 25, Oregon Laws 2023.
+30 (4) The Oregon Business Development Department shall administer the CHIPS Child Care Fund
+31 in consultation with the Bureau of Labor and Industries.
+32 (5) The fund shall consist of moneys credited to the fund, including:
+33 (a) Moneys appropriated to the fund by the Legislative Assembly;
+34 (b) Moneys transferred to the fund by the Oregon Business Development Department;
+35 (c) Moneys transferred from the Oregon Fostering Innovation Strength at Home and
+36 CHIPS Fund established in section 6, chapter 25, Oregon Laws 2023;
+37 [(c)] (d) Moneys contributed to the CHIPS Child Care Fund by businesses that receive a pro-
+38 gram grant or loan under section 3, chapter 25, Oregon Laws 2023, [and] or federal semiconductor
+39 financial assistance, as defined in section 1, chapter 25, Oregon Laws 2023;
+40 [(d)] (e) Earnings on moneys in the fund;
+41 [(e)] (f) Moneys received from the federal or state government; and
+42 [(f)] (g) Moneys from any other public or private source.
+43 SECTION 10. ORS 329A.743, as amended by section 3a, chapter 81, Oregon Laws 2024, and
+44 section 9 of this 2026 Act, is amended to read:
+45 329A.743. (1) The CHIPS Child Care Fund is established in the State Treasury, separate and
+[8]
+
+A-Eng. HB 4104
+1 distinct from the General Fund. Interest earned by the CHIPS Child Care Fund shall be credited
+2 to the fund.
+3 (2) Moneys in the fund are continuously appropriated to the Oregon Business Development De-
+4 partment for the following purposes:
+5 (a) Paying the actual costs incurred by the department to develop and administer this section
+6 and ORS 329A.740; and
+7 (b) Carrying out this section and ORS 329A.740, including transferring moneys to the Bureau
+8 of Labor and Industries to develop and administer the program described in ORS 329A.740.
+9 (3) The Oregon Business Development Department may transfer moneys deposited in the fund
+10 to the Child Care Infrastructure Fund established under ORS 329A.725. Moneys transferred under
+11 this subsection shall be used by the department to provide financial assistance under ORS 329A.727
+12 [for the purposes of increasing child care infrastructure in geographic areas in this state where semi-
+13 conductor or other targeted industry facilities are presently located or scheduled to be constructed un-
+14 der sections 1 to 6, chapter 25, Oregon Laws 2023].
+15 (4) The Oregon Business Development Department shall administer the CHIPS Child Care Fund
+16 in consultation with the Bureau of Labor and Industries.
+17 (5) The fund shall consist of moneys credited to the fund, including:
+18 (a) Moneys appropriated to the fund by the Legislative Assembly;
+19 (b) Moneys transferred to the fund by the Oregon Business Development Department;
+20 [(c) Moneys transferred from the Oregon Fostering Innovation Strength at Home and CHIPS Fund
+21 established in section 6, chapter 25, Oregon Laws 2023;]
+22 [(d) Moneys contributed to the CHIPS Child Care Fund by businesses that receive a program grant
+23 or loan under section 3, chapter 25, Oregon Laws 2023, or federal semiconductor financial assistance,
+24 as defined in section 1, chapter 25, Oregon Laws 2023;]
+25 [(e)] (c) Earnings on moneys in the fund;
+26 [(f)] (d) Moneys received from the federal or state government; and
+27 [(g)] (e) Moneys from any other public or private source.
+28 SECTION 11. The amendments to ORS 329A.743 by section 10 of this 2026 Act become
+29 operative on January 1, 2036.
+30 SECTION 12. Section 10, chapter 81, Oregon Laws 2024, is repealed.
+31 SECTION 13. Section 7, chapter 25, Oregon Laws 2023, is amended to read:
+32 Sec. 7. [Sections 1 to 6 of this 2023 Act are repealed on January 2, 2033.]
+33 (1) Section 1, chapter 25, Oregon Laws 2023, as amended by section 6, chapter 89, Oregon
+34 Laws 2024, and section 3 of this 2026 Act, is repealed on January 2, 2036.
+35 (2) Section 1a, chapter 25, Oregon Laws 2023, is repealed on January 2, 2036.
+36 (3) Section 2, chapter 25, Oregon Laws 2023, as amended by section 4 of this 2026 Act, is
+37 repealed on January 2, 2036.
+38 (4) Section 3, chapter 25, Oregon Laws 2023, as amended by section 5 of this 2026 Act, is
+39 repealed on January 2, 2036.
+40 (5) Section 4, chapter 25, Oregon Laws 2023, as amended by section 6 of this 2026 Act, is
+41 repealed on January 2, 2036.
+42 (6) Section 5, chapter 25, Oregon Laws 2023, as amended by section 7 of this 2026 Act, is
+43 repealed on January 2, 2036.
+44 (7) Section 6, chapter 25, Oregon Laws 2023, as amended by section 5, chapter 81, Oregon
+45 Laws 2024, section 7, chapter 89, Oregon Laws 2024, and section 8 of this 2026 Act, is repealed
+[9]
+
+A-Eng. HB 4104
+1 on January 2, 2036.
+2 (8) Section 2 of this 2026 Act is repealed on January 2, 2036.
+3 SECTION 14. Section 2 of this 2026 Act and the amendments to sections 1, 2, 3, 4, 5 and
+4 6, chapter 25, Oregon Laws 2023, by sections 3 to 8 of this 2026 Act apply to applications for
+5 grants and loans filed under section 2, chapter 25, Oregon Laws 2023, on or after the effective
+6 date of this 2026 Act.
+7 SECTION 15. (1) The amendments to section 6, chapter 25, Oregon Laws 2023, by section
+8 8 of this 2026 Act are intended to change the name of the “Oregon CHIPS Fund” to the
+9 “Oregon Fostering Innovation Strength at Home and CHIPS Fund.”
+10 (2) For the purpose of harmonizing and clarifying statutory law, the Legislative Counsel
+11 may substitute for words designating the “Oregon CHIPS Fund,” wherever they occur in
+12 statutory law, other words designating the “Oregon Fostering Innovation Strength at Home
+13 and CHIPS Fund.”
+14 SECTION 16. There is appropriated to the Oregon Business Development Department, for
+15 the biennium ending June 30, 2027, out of the General Fund, the amount of $4,000,000 for
+16 deposit in the Oregon Fostering Innovation Strength at Home and CHIPS Fund established
+17 under section 6, chapter 25, Oregon Laws 2023, to be used for any purpose for which moneys
+18 in the fund may be used.
+19 SECTION 17. There is allocated for the biennium ending June 30, 2027, from the Admin-
+20 istrative Services Economic Development Fund, to the Oregon Business Development De-
+21 partment, the amount of $6,000,000 for deposit in the Oregon Fostering Innovation Strength
+22 at Home and CHIPS Fund established under section 6, chapter 25, Oregon Laws 2023, to be
+23 used for any purpose for which moneys in the fund may be used.
+24 SECTION 18. This 2026 Act being necessary for the immediate preservation of the public
+25 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+26 on its passage.
+27
+[10]

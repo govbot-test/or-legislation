@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - House Amendments to Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+HOUSE AMENDMENTS TO
+HOUSE BILL 4139
+By COMMITTEE ON ECONOMIC DEVELOPMENT, SMALL BUSINESS, AND TRADE
+February 16
+1 On page 1 of the printed bill, line 2, after “cannabis;” delete the rest of the line and delete lines
+2 3 through 5 and insert “amending ORS 475C.728 and 475C.777; repealing ORS 475C.913; and pre-
+3 scribing an effective date.”.
+4 Delete lines 7 through 21 and delete pages 2 through 20 and insert:
+5 “SECTION 1. ORS 475C.728 is amended to read:
+6 “475C.728. Notwithstanding ORS 475C.726, before making any other distribution from the
+7 Oregon Marijuana Account established under ORS 475C.726, the Department of Revenue shall first
+8 distribute quarterly from the account the following:
+9 “(1) $875,000 to the Oregon Liquor and Cannabis Commission for deposit in the Marijuana
+10 Control and Regulation Fund established under ORS 475C.297; and
+11 “(2) [$750,000] $3 million to the Oregon Criminal Justice Commission for deposit into the Illegal
+12 Marijuana Market Enforcement Grant Program Fund established under ORS 475C.535 for the pur-
+13 poses of paying the costs incurred by the commission in carrying out the provisions of ORS
+14 475C.531.
+15 “SECTION 2. ORS 475C.777 is amended to read:
+16 “475C.777. As used in ORS 475C.770 to 475C.919:
+17 “(1) ‘Attending provider’ means one of the following health care providers who has primary re-
+18 sponsibility for the care and treatment of a person diagnosed with a debilitating medical condition:
+19 “(a) A physician licensed under ORS chapter 677;
+20 “(b) A physician associate licensed under ORS 677.505 to 677.525;
+21 “(c) A nurse practitioner licensed under ORS 678.375 to 678.390;
+22 “(d) A clinical nurse specialist licensed under ORS 678.370 and 678.372;
+23 “(e) A certified registered nurse anesthetist as defined in ORS 678.010; or
+24 “(f) A naturopathic physician licensed under ORS chapter 685.
+25 “(2) ‘Cannabinoid’ means any of the chemical compounds that are the active constituents of
+26 marijuana.
+27 “(3) ‘Cannabinoid concentrate’ means a substance obtained by separating cannabinoids from
+28 marijuana by:
+29 “(a) A mechanical extraction process;
+30 “(b) A chemical extraction process using a nonhydrocarbon-based solvent, such as vegetable
+31 glycerin, vegetable oils, animal fats, isopropyl alcohol or ethanol;
+32 “(c) A chemical extraction process using the hydrocarbon-based solvent carbon dioxide, provided
+33 that the process does not involve the use of high heat or pressure; or
+34 “(d) Any other process identified by the Oregon Health Authority, in consultation with the
+35 Oregon Liquor and Cannabis Commission, by rule.
+LC 6/HB 4139-3
+
+1 “(4) ‘Cannabinoid edible’ means food or potable liquid into which a cannabinoid concentrate,
+2 cannabinoid extract or dried leaves or flowers of marijuana have been incorporated.
+3 “(5) ‘Cannabinoid extract’ means a substance obtained by separating cannabinoids from
+4 marijuana by:
+5 “(a) A chemical extraction process using a hydrocarbon-based solvent, such as butane, hexane
+6 or propane;
+7 “(b) A chemical extraction process using the hydrocarbon-based solvent carbon dioxide, if the
+8 process uses high heat or pressure; or
+9 “(c) Any other process identified by the Oregon Health Authority, in consultation with the
+10 Oregon Liquor and Cannabis Commission, by rule.
+11 “(6) ‘Debilitating medical condition’ means:
+12 “(a) Cancer, glaucoma, a degenerative or pervasive neurological condition, positive status for
+13 human immunodeficiency virus or acquired immune deficiency syndrome, or a side effect related to
+14 the treatment of those medical conditions;
+15 “(b) A medical condition or treatment for a medical condition that produces, for a specific pa-
+16 tient, one or more of the following:
+17 “(A) Cachexia;
+18 “(B) Severe pain;
+19 “(C) Severe nausea;
+20 “(D) Seizures, including seizures caused by epilepsy; or
+21 “(E) Persistent muscle spasms, including spasms caused by multiple sclerosis;
+22 “(c) Post-traumatic stress disorder; or
+23 “(d) Any other medical condition or side effect related to the treatment of a medical condition
+24 [adopted by the Oregon Health Authority by rule or approved by the authority pursuant to a petition
+25 filed under ORS 475C.913] that an attending provider determines, in accordance with
+26 evidence-based practice and professional judgment, might be mitigated by the medical use
+27 of marijuana.
+28 “(7)(a) ‘Delivery’ has the meaning given that term in ORS 475.005.
+29 “(b) ‘Delivery’ does not include transfer of marijuana by a registry identification cardholder to
+30 another registry identification cardholder if no consideration is paid for the transfer.
+31 “(8)(a) ‘Designated primary caregiver’ means an individual:
+32 “(A) Who is 18 years of age or older;
+33 “(B) Who has significant responsibility for managing the well-being of a person who has been
+34 diagnosed with a debilitating medical condition; and
+35 “(C) Who is designated as the person responsible for managing the well-being of a person who
+36 has been diagnosed with a debilitating medical condition on that person’s application for a registry
+37 identification card or in other written notification submitted to the authority.
+38 “(b) ‘Designated primary caregiver’ does not include a person’s attending provider.
+39 “(9) ‘High heat’ means a temperature exceeding 180 degrees.
+40 “(10) ‘Immature marijuana plant’ means a marijuana plant that is not flowering.
+41 “(11)(a) ‘Marijuana’ means the plant Cannabis family Cannabaceae, any part of the plant
+42 Cannabis family Cannabaceae and the seeds of the plant Cannabis family Cannabaceae.
+43 “(b) ‘Marijuana’ does not include:
+44 “(A) Industrial hemp, as defined in ORS 571.269; or
+45 “(B) Prescription drugs, as that term is defined in ORS 689.005, including those containing one
+HA to HB 4139 Page 2
+
+1 or more cannabinoids, that are approved by the United States Food and Drug Administration and
+2 dispensed by a pharmacy, as defined in ORS 689.005.
+3 “(12) ‘Marijuana grow site’ means a location registered under ORS 475C.792 where marijuana
+4 is produced for use by a registry identification cardholder.
+5 “(13) ‘Marijuana processing site’ means a marijuana processing site registered under ORS
+6 475C.815 or a site for which an applicant has submitted an application for registration under ORS
+7 475C.815.
+8 “(14) ‘Mature marijuana plant’ means a marijuana plant that is not an immature marijuana
+9 plant.
+10 “(15)(a) ‘Medical cannabinoid product’ means a cannabinoid edible and any other product in-
+11 tended for human consumption or use, including a product intended to be applied to a person’s skin
+12 or hair, that contains cannabinoids or dried leaves or flowers of marijuana.
+13 “(b) ‘Medical cannabinoid product’ does not include:
+14 “(A) Usable marijuana by itself;
+15 “(B) A cannabinoid concentrate by itself;
+16 “(C) A cannabinoid extract by itself; or
+17 “(D) Industrial hemp, as defined in ORS 571.269.
+18 “(16) ‘Medical marijuana dispensary’ means a medical marijuana dispensary registered under
+19 ORS 475C.833 or a site for which an applicant has submitted an application for registration under
+20 ORS 475C.833.
+21 “(17) ‘Medical use of marijuana’ means the production, processing, possession, delivery or ad-
+22 ministration of marijuana, or use of paraphernalia used to administer marijuana, to mitigate the
+23 symptoms or effects of a debilitating medical condition.
+24 “(18) ‘Person designated to produce marijuana by a registry identification cardholder’ means a
+25 person designated to produce marijuana by a registry identification cardholder under ORS 475C.792
+26 who produces marijuana for a registry identification cardholder at an address other than the address
+27 where the registry identification cardholder resides or at an address where more than 12 mature
+28 marijuana plants are produced.
+29 “(19) ‘Process’ means the compounding or conversion of marijuana into medical cannabinoid
+30 products, cannabinoid concentrates or cannabinoid extracts.
+31 “(20) ‘Production’ means:
+32 “(a) Planting, cultivating, growing, trimming or harvesting marijuana; or
+33 “(b) Drying marijuana leaves or flowers.
+34 “(21) ‘Registry identification card’ means a document issued by the Oregon Health Authority
+35 under ORS 475C.783 that identifies a person authorized to engage in the medical use of marijuana
+36 and, if the person has a designated primary caregiver under ORS 475C.789, the person’s designated
+37 primary caregiver.
+38 “(22) ‘Registry identification cardholder’ means a person to whom a registry identification card
+39 has been issued under ORS 475C.783.
+40 “(23)(a) ‘Usable marijuana’ means the dried leaves and flowers of marijuana.
+41 “(b) ‘Usable marijuana’ does not include:
+42 “(A) The seeds, stalks and roots of marijuana; or
+43 “(B) Waste material that is a by-product of producing marijuana.
+44 “(24) ‘Written documentation’ means a statement signed by the attending provider of a person
+45 diagnosed with a debilitating medical condition or copies of the person’s relevant medical records.
+HA to HB 4139 Page 3
+
+1 “SECTION 3. ORS 475C.913 is repealed.
+2 “SECTION 4. This 2026 Act takes effect on the 91st day after the date on which the 2026
+3 regular session of the Eighty-third Legislative Assembly adjourns sine die.”.
+4
+HA to HB 4139 Page 4

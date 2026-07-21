@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - JWM Amendment -A7
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB 4086-A7
+(LC 127)
+2/25/26 (ASD/ps)
+Requested by JOINT COMMITTEE ON WAYS AND MEANS
+PROPOSED AMENDMENTS TO
+A-ENGROSSED HOUSE BILL 4086
+1 On page 2 of the printed A-engrossed bill, after line 35, insert:
+2 “SECTION 3a. In addition to and not in lieu of any other appropri-
+3 ation, there is appropriated to the Oregon Business Development De-
+4 partment, for the biennium ending June 30, 2027, out of the General
+5 Fund, the amount of $250,000, for business, innovation and trade, for
+6 the development of the Industrial Symbiosis Roadmap under section 1
+7 (2) of this 2026 Act.”.
+8 Delete lines 40 through 45.
+9 On page 3, delete lines 1 through 3.
+10 In line 4, delete “7” and insert “5”.
+11 In line 21, delete “8” and insert “6”.
+12

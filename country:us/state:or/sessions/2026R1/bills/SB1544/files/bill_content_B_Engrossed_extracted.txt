@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - B-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+B-Engrossed
+Senate Bill 1544
+Ordered by the Senate February 27
+Including Senate Amendments dated February 19 and February 27
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Transportation)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act changes laws about dismantlers. The Act alters a defined term used in
+laws about funding public transit. (Flesch Readability Score: 68.0).
+[Digest: The Act tells ODOT to report on its progress with current requirements. The Act tells
+ODOT to create a database like WDOT has and create a transportation university like other states
+have. The Act tells the director of ODOT to use the central office for project delivery work instead of
+the regional offices. The Act ends the JCT. The Act changes laws about dismantlers. The Act says
+certain entities may get funds to provide public transportation services. (Flesch Readability Score:
+60.8).]
+[Directs the Department of Transportation to report on a required audit, progress in implementing
+design practices, establishing a transportation university and the creation of a database equivalent to
+one created by the State of Washington.]
+[Directs the Director of Transportation to centralize project delivery efforts.]
+[Eliminates the Joint Committee on Transportation.]
+Makes changes to laws regulating dismantlers.
+Expands the definition of “qualified entity” for purposes of public transportation funding.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to transportation; creating new provisions; amending ORS 184.752, 822.125 and 822.140; and
+3 prescribing an effective date.
+4 Be It Enacted by the People of the State of Oregon:
+5
+6 DISMANTLERS
+7
+8 SECTION 1. ORS 822.140 is amended to read:
+9 822.140. (1) To meet the requirement for local government approval of a dismantler certificate
+10 under ORS 822.110 or a supplemental certificate under ORS 822.125, an applicant must comply with
+11 any regulations established by a city or county under this section and must obtain the approval of
+12 the governing body of the:
+13 (a) City, if the business is or will be carried on within an incorporated city of less than 100,000
+14 population.
+15 (b) County, if the business is or will be carried on outside of any incorporated city.
+16 (2) A city or county governing body shall grant approval of a dismantler certificate [or
+17 renewal] or a supplemental certificate when requested under this section if the governing body:
+18 (a) Approves the applicant as being suitable to establish, maintain or operate a motor vehicle
+19 dismantling business;
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 279
+
+B-Eng. SB 1544
+1 (b) Determines that the location or proposed location meets the requirements for location under
+2 ORS 822.110;
+3 (c) Determines that the location does not violate any prohibition under ORS 822.135; and
+4 (d) Approves the location and determines that the location complies with any regulations
+5 adopted by a city or county under this section.
+6 (3) The governing body of a city or county may regulate the expansion of premises or the es-
+7 tablishment of premises at a new location under a dismantler certificate. An applicant must comply
+8 with the regulations before the Department of Transportation may issue a supplemental dismantler
+9 certificate. In adopting regulations under this subsection, a governing body:
+10 (a) Shall consider the extent of development of surrounding property as a residential area;
+11 (b) Shall consider the proximity of churches, schools, hospitals, public buildings or other places
+12 of public gathering;
+13 (c) Shall consider the sufficiency in number of other motor vehicle dismantling businesses in the
+14 vicinity;
+15 (d) Shall consider the health, safety and general welfare of the public;
+16 (e) May establish zones in which motor vehicle dismantling businesses are permissible and other
+17 zones where they are prohibited; and
+18 (f) May prescribe limitations on the dimensions of the premises on which motor vehicle dis-
+19 mantling businesses are conducted.
+20 (4) Regulations of a city governing body that are adopted under this section apply to motor ve-
+21 hicle dismantling businesses located outside of and within six miles of the boundaries of the city
+22 unless the county governing body in which the area is located has adopted regulations under this
+23 section that are applicable in the area.
+24 (5) Before granting approval for a supplemental dismantler certificate, the governing body of a
+25 city or county shall notify all property owners that are or that will be adjacent to the motor vehicle
+26 dismantling business once the business moves, expands or opens an additional place of business.
+27 SECTION 2. ORS 822.125 is amended to read:
+28 822.125. (1) The holder of a current, valid dismantler certificate issued under ORS 822.110 is not
+29 subject to the prohibitions and penalties under ORS 822.100 as long as the holder’s motor vehicle
+30 dismantling business is conducted in the location approved under the certificate.
+31 (2) The holder of a dismantler certificate may expand the dimensions or move a place of business
+32 approved under the dismantler certificate or open an additional place of business under the certif-
+33 icate upon issuance of a supplemental dismantler certificate by the Department of Transportation.
+34 The following apply to supplemental certificates issued under this subsection:
+35 (a) The department shall grant a supplemental certificate upon request of an applicant under
+36 this subsection if the applicant obtains local government permission for the supplemental certificate
+37 under ORS 822.140.
+38 [(b) Upon application for renewal of the supplemental certificate, the department may waive the
+39 requirement that an applicant for renewal under this subsection obtain local government approval un-
+40 der ORS 822.140 of the suitability of the applicant to establish, maintain or operate a motor vehicle
+41 dismantling business.]
+42 [(c)] (b) A fee shall be charged for a supplemental dismantler certificate under ORS 822.700.
+43 (3) A dismantler certificate is valid for a two-year period and may be renewed as provided by
+44 the department. The department shall only renew the certificate of any certificate holder who does
+45 all of the following:
+[2]
+
+B-Eng. SB 1544
+1 (a) Pays the required fee for renewal under ORS 822.700.
+2 (b) Completes the application described in ORS 822.115.
+3 [(c) Obtains local government approval under ORS 822.140. The department may waive the re-
+4 quirement that an applicant for renewal obtain local government approval under ORS 822.140 of the
+5 suitability of the applicant to establish, maintain or operate a motor vehicle dismantling business.]
+6 [(d)] (c) Maintains a current bond that meets the requirements under ORS 822.120.
+7 (4) The department may provide the holder of a dismantler certificate with identification cards
+8 in the names of the owners of the business or in the names of authorized employees of the business.
+9 (5) The department may adopt suitable rules for the issuance and renewal of dismantler certif-
+10 icates and identification cards.
+11
+12 PUBLIC TRANSPORTATION PROVIDERS
+13
+14 SECTION 3. ORS 184.752 is amended to read:
+15 184.752. As used in ORS 184.752 to 184.766:
+16 (1) “Public transportation service provider” includes a qualified entity and a city, county, special
+17 district, intergovernmental entity or any other political subdivision or municipal or public corpo-
+18 ration that provides public transportation services and is not otherwise described in subsection (2)
+19 of this section.
+20 (2) “Qualified entity” means the following:
+21 (a)(A) Counties in which no part of a mass transit district or transportation district exists; or
+22 (B) Intergovernmental entities who are providing public transportation services on behalf
+23 of a county;
+24 (b) Mass transit districts organized under ORS 267.010 to 267.394;
+25 (c) Transportation districts organized under ORS 267.510 to 267.650; and
+26 (d)(A) Federally recognized Indian tribes; or
+27 (B) Intergovernmental entities who are providing public transportation services on behalf
+28 of a tribe.
+29
+30 CAPTIONS
+31
+32 SECTION 4. The unit captions used in this 2026 Act are provided only for the convenience
+33 of the reader and do not become part of the statutory law of this state or express any leg-
+34 islative intent in the enactment of this 2026 Act.
+35
+36 EFFECTIVE DATE
+37
+38 SECTION 5. This 2026 Act takes effect on the 91st day after the date on which the 2026
+39 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+40
+[3]

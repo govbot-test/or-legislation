@@ -1,0 +1,1292 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1572
+Sponsored by Senator DRAZAN, Representatives WRIGHT, BUNCH; Senators SMITH DB, WEBER, Representatives
+BOICE, DIEHL, HARBICK, LEVY B, SCHARF (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Makes changes in the law related to school discipline, high school diplomas and third
+grade reading. (Flesch Readability Score: 63.6).
+Authorizes a teacher to immediately remove from the classroom setting a student who repeat-
+edly interferes with the teacher’s ability to communicate effectively with the students in the class
+or with the ability of the students to learn. Prescribes requirements for the return of a student to
+the classroom setting. Requires a school district to convene a placement review committee when
+a student is removed from a classroom setting.
+Requires a student to demonstrate proficiency in specified Essential Learning Skills prior to the
+student being awarded a high school diploma or a modified diploma.
+Directs the State Board of Education to adopt academic content standards for language arts
+based on the science of reading and writing. Prohibits school districts from advancing students who
+are not able to demonstrate third-grade reading proficiency. Provides exceptions.
+Takes effect July 1, 2026.
+1 A BILL FOR AN ACT
+2 Relating to education; creating new provisions; amending ORS 327.164, 329.007, 329.045, 329.451,
+3 336.585, 336.590, 336.680, 339.250 and 343.331; and prescribing an effective date.
+4 Be It Enacted by the People of the State of Oregon:
+5
+6 STUDENT DISCIPLINE
+7
+8 SECTION 1. ORS 339.250 is amended to read:
+9 339.250. (1) Public school students shall comply with rules for the government of such schools,
+10 pursue the prescribed course of study, use the prescribed textbooks and submit to the teachers’ au-
+11 thority.
+12 (2) Each district school board shall adopt written policies for the discipline, suspension or ex-
+13 pulsion of any refractory student. The policies:
+14 (a) May allow discipline, suspension or expulsion for conduct that includes, but is not limited
+15 to:
+16 (A) Willful disobedience;
+17 (B) Open defiance of the authority of a school employee;
+18 (C) Disruptive behavior;
+19 [(C)] (D) Possession or distribution of tobacco, alcohol, drugs or other controlled substances;
+20 [(D)] (E) Use or display of profane or obscene language;
+21 [(E)] (F) Willful damage or injury to school property;
+22 [(F)] (G) Use of threats, intimidation, harassment or coercion against a student or a school
+23 employee;
+24 [(G)] (H) Assault of a school employee or another student; or
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 199
+
+SB 1572
+1 [(H)] (I) Intentional attempts, by word or conduct, to place a school employee or another student
+2 in fear of imminent serious physical injury.
+3 (b) Must establish procedures to address behavior or circumstances that pose a threat
+4 to the safety of students or employees of the school, including:
+5 (A) The methods for reporting a threat;
+6 (B) The authorization for teachers and administrators to immediately remove from the
+7 classroom setting a student who threatened to injure another person or to severely damage
+8 school property; and
+9 (C) The authorization for an administrator to place the student in a setting where the
+10 behavior will receive immediate attention, including the office of a school administrator,
+11 school counselor or school psychologist or the office of any licensed mental health profes-
+12 sional.
+13 (c) Must allow teachers and administrators to immediately remove from the classroom
+14 setting a student who repeatedly interferes with the teacher’s ability to communicate effec-
+15 tively with the students in the class or with the ability of the students to learn.
+16 (d) Must provide for the establishment of a placement review committee for each school
+17 of the school district that:
+18 (A) Provides for the placement of a student when:
+19 (i) The student has been removed from the classroom; and
+20 (ii) The teacher for the classroom has not provided written consent for the return of the
+21 student to the classroom; and
+22 (B) Includes one administrator, one teacher and one parent.
+23 [(b)] (e) Must require consideration of the age of a student and the past pattern of behavior of
+24 a student prior to imposing the suspension or expulsion of a student.
+25 [(c)] (f) Must limit the use of expulsion to the following circumstances:
+26 (A) For conduct that poses a threat to the health or safety of students or school employees;
+27 (B) When other strategies to change student conduct have been ineffective, except that expul-
+28 sion may not be used to address truancy; or
+29 (C) When the expulsion is required by law.
+30 [(d)] (g) In addition to any limitations imposed by paragraph [(c)] (f) of this subsection, for a
+31 student who is in fifth grade or lower, must limit the use of out-of-school suspension or of expulsion
+32 to the following circumstances:
+33 (A) For nonaccidental conduct causing serious physical harm to a student or school employee;
+34 (B) When a school administrator determines, based upon the administrator’s observation or upon
+35 a report from a school employee, that the student’s conduct poses a direct threat to the health or
+36 safety of students or school employees; or
+37 (C) When the suspension or expulsion is required by law.
+38 [(e)] (h) When an out-of-school suspension is imposed as provided under paragraph [(d)] (g) of
+39 this subsection, must require the school district to take steps to prevent the recurrence of the be-
+40 havior that led to the out-of-school suspension and return the student to a classroom setting so that
+41 the disruption of the student’s academic instruction is minimized.
+42 [(f)] (i) Must be limited so that:
+43 (A) The duration of an expulsion may not be more than one calendar year.
+44 (B) The duration of a suspension may not be more than 10 school days.
+45 [(g)] (j) Notwithstanding ORS 336.010, may require a student to attend school during nonschool
+[2]
+
+SB 1572
+1 hours as an alternative to suspension if the total number of hours does not exceed the equivalent
+2 of 10 school days.
+3 (3) Pursuant to the policies adopted as provided by subsection (2) of this section, each school
+4 district shall develop a student handbook, code of conduct or other document that:
+5 (a) Defines and helps create a learning environment that students respect;
+6 (b) Defines acceptable norms of behavior for students and the types of behavior that are subject
+7 to discipline;
+8 [(c) Establishes procedures to address behavior or circumstances that pose a threat to the safety
+9 of students or employees of the school;]
+10 (c) Describes the procedures described in subsection (2)(b) of this section;
+11 (d) Establishes a system of consequences that are designed to correct student misconduct and
+12 promote behavior within acceptable norms; and
+13 (e) Makes the system of consequences established under paragraph (d) of this subsection
+14 known to the school community through the dissemination of information to students, parents, legal
+15 guardians and school district employees.
+16 [(4) Each district school board shall adopt written policies on managing students who threaten vi-
+17 olence or harm in public schools. The policies adopted by a district school board under this section
+18 shall include all of the following:]
+19 [(a) Staff reporting methods.]
+20 [(b) Provisions that allow an administrator to consider and implement any of the following
+21 options:]
+22 [(A) Immediately removing from the classroom setting any student who has threatened to injure
+23 another person or to severely damage school property.]
+24 [(B) Placing the student in a setting where the behavior will receive immediate attention, including,
+25 but not limited to, the office of the school principal, vice principal, assistant principal, counselor or a
+26 school psychologist licensed by the Teacher Standards and Practices Commission or the office of any
+27 licensed mental health professional.]
+28 (4) Each district school board shall adopt written policies for managing students who
+29 have been removed from the classroom setting. The policies adopted by a district school
+30 board under this subsection shall include all of the following:
+31 (a) The requirement that an administrator provide to the parent or legal guardian of the
+32 student notification that describes the student’s behavior and the school’s response.
+33 (b) The prohibition against returning a student to a classroom setting until:
+34 (A) The teacher of the classroom provides written consent for the return; or
+35 (B) A written plan is developed as provided by paragraph (c) of this subsection.
+36 (c) If a teacher does not provide written consent for the return of a student to the
+37 classroom, the requirement that the school convene the placement review committee de-
+38 scribed in subsection (2)(d) of this section within three school days of the removal. The
+39 committee must:
+40 (A) Allow the student to provide a response regarding the circumstances of the removal;
+41 (B) Allow the teacher of the classroom to provide input regarding the circumstances of
+42 the removal;
+43 (C) Consider any mitigating factors, including any behavior intervention plans and any
+44 evaluations conducted as provided by paragraph (d) of this subsection; and
+45 (D) Develop a plan for returning a student to the classroom setting.
+[3]
+
+SB 1572
+1 [(C)] (d) [Requiring] An allowance for an administrator to consider and implement a re-
+2 quirement that a school obtain an evaluation of a student by a licensed mental health professional
+3 before allowing the student to return to the classroom setting if the student had been removed
+4 for threatening to injure another person or to severely damage school property. A student
+5 who is removed from the classroom setting for an evaluation may not be removed for more than 10
+6 school days unless the administrator is able to show good cause that an evaluation could not be
+7 completed in that time period. The policy must describe the circumstances under which the district
+8 school board may enter into contracts with licensed mental health professionals to perform any
+9 evaluations required under this subparagraph.
+10 [(c) The requirement that an administrator provide to the parent or legal guardian of the student
+11 notification that describes the student’s behavior and the school’s response.]
+12 [(d)] (e) A provision for the allocation of any funds necessary for the school district to imple-
+13 ment the policies described in this subsection.
+14 (5) In establishing and enforcing discipline, suspension and expulsion policies, a district school
+15 board shall ensure that the policy is designed to:
+16 (a) Protect students and school employees from harm;
+17 (b) Provide opportunities for students to learn from their mistakes;
+18 (c) Foster positive learning communities;
+19 (d) Keep students in school and attending class;
+20 (e) Impose disciplinary sanctions without bias against students from a protected class, as defined
+21 in ORS 339.351;
+22 (f) Implement a graduated set of age-appropriate responses to misconduct that are fair,
+23 nondiscriminatory and proportionate in relation to each student’s individual conduct;
+24 (g) Employ a range of strategies for prevention, intervention and discipline that take into ac-
+25 count a student’s developmental capacities and that are proportionate to the degree and severity
+26 of the student’s misbehavior;
+27 (h) Propose, prior to a student’s expulsion or leaving school, alternative programs of instruction
+28 or instruction combined with counseling for the student that are appropriate and accessible to the
+29 student in the following circumstances:
+30 (A) Following a second or subsequent occurrence within any three-year period of a severe dis-
+31 ciplinary problem with the student; or
+32 (B) When a parent or legal guardian applies for the student’s exemption from compulsory at-
+33 tendance on a semiannual basis as provided in ORS 339.030 (2);
+34 (i) To the extent practicable, use approaches that are shown through research to be effective in
+35 reducing student misbehavior and promoting safe and productive social behavior; and
+36 (j) Ensure that school conduct and discipline codes comply with all state and federal laws con-
+37 cerning the education of students with disabilities.
+38 (6) Except for policies adopted under subsection (7) of this section, any policies adopted under
+39 this section must provide for the dissemination of information about alternative programs of in-
+40 struction or instruction combined with counseling, as described in subsection (5)(h) of this section,
+41 in writing to the student and the parent, legal guardian or person in parental relationship with the
+42 student at least once every six months, unless the information has changed because of the avail-
+43 ability of new programs.
+44 (7) Each district school board shall adopt a written policy involving firearms, as defined in 18
+45 U.S.C. 921. The policy shall:
+[4]
+
+SB 1572
+1 (a) Require expulsion from school for a period of not less than one year of any student who is
+2 determined to have:
+3 (A) Brought a firearm to a school, to school property under the jurisdiction of the school district
+4 or to an activity under the jurisdiction of the school district;
+5 (B) Possessed, concealed or used a firearm in a school, on school property under the jurisdiction
+6 of the school district or at an activity under the jurisdiction of the school district; or
+7 (C) Brought to or possessed, concealed or used a firearm at an interscholastic activity adminis-
+8 tered by a voluntary organization.
+9 (b) Allow exceptions:
+10 (A) For courses, programs and activities approved by the school district that are conducted on
+11 school property, including, but not limited to, hunter safety courses, Reserve Officer Training Corps
+12 programs, firearm-related sports or firearm-related vocational courses; and
+13 (B) Identified by and adopted by the State Board of Education by rule.
+14 (c) Allow a superintendent of a school district to:
+15 (A) Modify the expulsion requirement for a student on a case-by-case basis.
+16 (B) Propose alternative programs of instruction or instruction combined with counseling for a
+17 student that are appropriate and accessible to the student. If alternative programs are appropriate
+18 for a student, the superintendent shall ensure that information about programs of instruction or in-
+19 struction combined with counseling is provided in writing to the student and the parent, legal
+20 guardian or person in parental relationship with the student at least once every six months, or at
+21 any time the information changes because of the availability of new programs.
+22 (d) Require a referral to the appropriate law enforcement agency of any student who is expelled
+23 under this subsection.
+24 (e) Require an annual reporting to the Department of Education of the name of each school that
+25 had an expulsion under this subsection and the number of students expelled from each school.
+26 (8) Each district school board shall adopt and disseminate written policies for the use of physical
+27 force upon a student. The policies must allow an individual who is a teacher, administrator, school
+28 employee or school volunteer to use reasonable physical force upon a student when and to the ex-
+29 tent the application of force is consistent with ORS 339.285 to 339.303.
+30 (9)(a) A school administrator, teacher or other school employee is not liable in a criminal
+31 action or for civil damages for the imposition of discipline that is imposed in a manner con-
+32 sistent with state and federal law, the requirements of this section and policies and proce-
+33 dures adopted by the district school board.
+34 [(9)(a)] (b) The authority to discipline a student does not authorize the infliction of corporal
+35 punishment. Every resolution, bylaw, rule, ordinance or other act of a district school board, a public
+36 charter school or the Department of Education that permits or authorizes the infliction of corporal
+37 punishment upon a student is void and unenforceable.
+38 [(b)] (c) As used in this subsection:
+39 (A) “Corporal punishment” means the willful infliction of, or willfully causing the infliction of,
+40 physical pain on a student.
+41 (B) “Corporal punishment” does not include:
+42 (i) The use of physical force authorized by ORS 161.205 (2), (4) or (5) for the reasons specified
+43 therein; or
+44 (ii) Physical pain or discomfort resulting from or caused by participation in athletic competition
+45 or other such recreational activity, voluntarily engaged in by a student.
+[5]
+
+SB 1572
+1 (10) For purposes of this section, calculations of the number of school days that a student is
+2 removed from a classroom setting shall be as follows:
+3 (a) As a half day if the student is out of school for half, or less than half, of the scheduled school
+4 day; and
+5 (b) As a full day if the student is out of school for more than half of the scheduled school day.
+6 SECTION 2. The amendments to ORS 339.250 by section 1 of this 2026 Act first apply to
+7 the 2026-2027 school year.
+8
+9 ESSENTIAL LEARNING SKILLS REQUIRED FOR GRADUATION
+10
+11 SECTION 3. ORS 329.007 is amended to read:
+12 329.007. As used in this chapter, unless the context requires otherwise:
+13 (1) “Academic content standards” means expectations of student knowledge and skills adopted
+14 by the State Board of Education under ORS 329.045.
+15 (2) “Administrator” includes all persons whose duties require an administrative license.
+16 [(3) “Board” or “state board” means the State Board of Education.]
+17 [(4)] (3) “Community learning center” means a school-based or school-linked program providing
+18 informal meeting places and coordination for community activities, adult education, child care, in-
+19 formation and referral and other services as described in ORS 329.157. “Community learning
+20 center” includes, but is not limited to, a community school program as defined in ORS 336.505,
+21 family resource centers as described in ORS 417.725, full service schools, lighted schools and 21st
+22 century community learning centers.
+23 [(5) “Department” means the Department of Education.]
+24 (4) “Essential Learning Skills” means process skills, as identified by the State Board of
+25 Education by rule, that:
+26 (a) Cross academic disciplines;
+27 (b) Can be applied in a variety of courses, subjects and settings; and
+28 (c) Are embedded in academic content standards.
+29 [(6)] (5) “Higher education and career path skills” means instruction that provides guidance on:
+30 (a) Applying for jobs, including preparing a resume or filling out a job application and develop-
+31 ing job interview skills;
+32 (b) Applying for admission to a post-secondary institution of education, including applying for
+33 financial aid and scholarships;
+34 (c) Applying for post-secondary learning and job training opportunities and programs that do not
+35 require a four-year degree, including apprenticeships and how to meet the prerequisites for those
+36 opportunities and programs;
+37 (d) Developing career-related skills, including improving employability skills, taking advantage
+38 of community-based experiential learning and gaining knowledge of career opportunities; and
+39 (e) Seeking assistance, including accessing community resources and acting as a self-advocate
+40 for mental, physical and financial well-being.
+41 [(7)] (6) “History, geography, economics and civics” includes, but is not limited to, Oregon
+42 Studies.
+43 [(8)] (7) “Language arts” includes reading, writing and other communications in any language,
+44 including English.
+45 [(9)] (8) “Oregon Studies” means history, geography, economics and civics specific to the State
+[6]
+
+SB 1572
+1 of Oregon. Oregon Studies instruction in Oregon government shall include municipal, county, tribal
+2 and state government, as well as the electoral and legislative processes.
+3 [(10)] (9) “Parents” means parents or guardians of students who are covered by this chapter.
+4 [(11)] (10) “Personal financial education” means instruction that provides guidance on:
+5 (a) Credit scores, including how to build credit, the costs and benefits of borrowing money on
+6 credit and the long-term impacts of high or low credit scores;
+7 (b) Investments, asset building and debt, including how to open a bank account, different types
+8 of bank accounts, compound interest, the total cost of loan repayment, comparing investment options
+9 and types of investments and understanding different types of retirement accounts;
+10 (c) Strategies for creating a budget, tracking and modifying spending patterns and understanding
+11 insurance products, including exploring common costs associated with rentals and home ownership;
+12 (d) Taxes, including accessing tax credits, understanding tax cycles, being familiar with state
+13 and federal tax forms and being familiar with federal, state, regional and local taxes; and
+14 (e) Building financial well-being, including evaluating the impact of behavioral economics and
+15 the psychology of money, explaining trends in financial health and evaluating consumer skills, in-
+16 cluding fraud and identity theft prevention.
+17 [(12)] (11) “Public charter school” has the meaning given that term in ORS 338.005.
+18 [(13)] (12) “School district” means a school district as defined in ORS 332.002, a state-operated
+19 school or any legally constituted combination of such entities.
+20 [(14)] (13) “Teacher” means any licensed employee of a school district who has direct responsi-
+21 bility for instruction, coordination of educational programs or supervision of students and who is
+22 compensated for such services from public funds. “Teacher” does not include a school nurse, as
+23 defined in ORS 342.455, or a person whose duties require an administrative license.
+24 [(15)] (14) “The arts” includes, but is not limited to, literary arts, performing arts and visual
+25 arts.
+26 [(16)] (15) “World languages” includes sign language, heritage languages and languages other
+27 than a student’s primary language.
+28 [(17)] (16) “21st Century Schools Council” means a council established pursuant to ORS 329.704.
+29 SECTION 4. ORS 329.007, as amended by section 6, chapter 253, Oregon Laws 2019, section 3,
+30 chapter 178, Oregon Laws 2021, and section 4, chapter 564, Oregon Laws 2023, is amended to read:
+31 329.007. As used in this chapter, unless the context requires otherwise:
+32 (1) “Academic content standards” means expectations of student knowledge and skills adopted
+33 by the State Board of Education under ORS 329.045.
+34 (2) “Administrator” includes all persons whose duties require an administrative license.
+35 [(3) “Board” or “state board” means the State Board of Education.]
+36 [(4)] (3) “Community learning center” means a school-based or school-linked program providing
+37 informal meeting places and coordination for community activities, adult education, child care, in-
+38 formation and referral and other services as described in ORS 329.157. “Community learning
+39 center” includes, but is not limited to, a community school program as defined in ORS 336.505,
+40 family resource centers as described in ORS 417.725, full service schools, lighted schools and 21st
+41 century community learning centers.
+42 [(5) “Department” means the Department of Education.]
+43 (4) “Essential Learning Skills” means process skills, as identified by the State Board of
+44 Education by rule, that:
+45 (a) Cross academic disciplines;
+[7]
+
+SB 1572
+1 (b) Can be applied in a variety of courses, subjects and settings; and
+2 (c) Are embedded in academic content standards.
+3 [(6)] (5) “Higher education and career path skills” means instruction that provides guidance on:
+4 (a) Applying for jobs, including preparing a resume or filling out a job application and develop-
+5 ing job interview skills;
+6 (b) Applying for admission to a post-secondary institution of education, including applying for
+7 financial aid and scholarships;
+8 (c) Applying for post-secondary learning and job training opportunities and programs that do not
+9 require a four-year degree, including apprenticeships and how to meet the prerequisites for those
+10 opportunities and programs;
+11 (d) Developing career-related skills, including improving employability skills, taking advantage
+12 of community-based experiential learning and gaining knowledge of career opportunities; and
+13 (e) Seeking assistance, including accessing community resources and acting as a self-advocate
+14 for mental, physical and financial well-being.
+15 [(7)] (6) “History, geography, economics and civics” includes, but is not limited to, Holocaust
+16 and genocide studies and Oregon Studies.
+17 [(8)] (7) “Holocaust and genocide studies” means studies on the Holocaust, genocide and other
+18 acts of mass violence that comply with the requirements described in ORS 329.494.
+19 [(9)] (8) “Language arts” includes reading, writing and other communications in any language,
+20 including English.
+21 [(10)] (9) “Oregon Studies” means history, geography, economics and civics specific to the State
+22 of Oregon. Oregon Studies instruction in Oregon government shall include municipal, county, tribal
+23 and state government, as well as the electoral and legislative processes.
+24 [(11)] (10) “Parents” means parents or guardians of students who are covered by this chapter.
+25 [(12)] (11) “Personal financial education” means instruction that provides guidance on:
+26 (a) Credit scores, including how to build credit, the costs and benefits of borrowing money on
+27 credit and the long-term impacts of high or low credit scores;
+28 (b) Investments, asset building and debt, including how to open a bank account, different types
+29 of bank accounts, compound interest, the total cost of loan repayment, comparing investment options
+30 and types of investments and understanding different types of retirement accounts;
+31 (c) Strategies for creating a budget, tracking and modifying spending patterns and understanding
+32 insurance products, including exploring common costs associated with rentals and home ownership;
+33 (d) Taxes, including accessing tax credits, understanding tax cycles, being familiar with state
+34 and federal tax forms and being familiar with federal, state, regional and local taxes; and
+35 (e) Building financial well-being, including evaluating the impact of behavioral economics and
+36 the psychology of money, explaining trends in financial health and evaluating consumer skills, in-
+37 cluding fraud and identity theft prevention.
+38 [(13)] (12) “Public charter school” has the meaning given that term in ORS 338.005.
+39 [(14)] (13) “School district” means a school district as defined in ORS 332.002, a state-operated
+40 school or any legally constituted combination of such entities.
+41 [(15)] (14) “Teacher” means any licensed employee of a school district who has direct responsi-
+42 bility for instruction, coordination of educational programs or supervision of students and who is
+43 compensated for such services from public funds. “Teacher” does not include a school nurse, as
+44 defined in ORS 342.455, or a person whose duties require an administrative license.
+45 [(16)] (15) “The arts” includes, but is not limited to, literary arts, performing arts and visual
+[8]
+
+SB 1572
+1 arts.
+2 [(17)] (16) “World languages” includes sign language, heritage languages and languages other
+3 than a student’s primary language.
+4 [(18)] (17) “21st Century Schools Council” means a council established pursuant to ORS 329.704.
+5 SECTION 5. ORS 329.451 is amended to read:
+6 329.451. (1)(a) At or before grade 12, a school district or public charter school shall award a high
+7 school diploma to a student who completes the requirements established by [subsection (2)] sub-
+8 sections (2) and (3) of this section.
+9 (b) A school district or public charter school shall award a modified diploma to a student who
+10 satisfies the requirements established by [subsection (7)] subsections (3) and (7) of this section, an
+11 extended diploma to a student who satisfies the requirements established by subsection (8) of this
+12 section or a certificate of attendance to a student who satisfies the requirements established by
+13 subsection (9) of this section.
+14 (c) A school district or public charter school may not deny a student who has the documented
+15 history described in subsection (7)(b) or (8)(b) of this section the opportunity to pursue a diploma
+16 with more stringent requirements than a modified diploma or an extended diploma.
+17 (d) A school district or public charter school may award a modified diploma or extended diploma
+18 to a student only upon receiving consent as provided by subsection (6) of this section.
+19 (2)(a) In order to receive a high school diploma from a school district or public charter school,
+20 a student must satisfy the requirements established by the State Board of Education and the school
+21 district or public charter school and, while in grades 9 through 12, must complete at least 24 total
+22 credits, which must include at least:
+23 (A) Three credits of mathematics;
+24 (B) Four credits of language arts; and
+25 (C) One half-credit of civics.
+26 (b) If a school district or public charter school requires a student to complete more than 24 total
+27 credits, as provided by paragraph (a) of this subsection, the school district or public charter school
+28 may only require the student to complete additional credits for:
+29 (A) Subjects for which the State Board of Education has established academic content standards
+30 under ORS 329.045;
+31 (B) Courses provided as part of a career and technical education program; or
+32 (C) Courses that provide, or qualify to provide, credit at post-secondary institutions of education.
+33 (c)(A) A school district or public charter school that requires students to satisfy any require-
+34 ments not specified by paragraph (a) of this subsection or by rule of the State Board of Education
+35 must grant to a student a waiver of the requirements established by the school district or public
+36 charter school if the student is or, at any time from grade 9 to 12, was:
+37 (i) A foster child, as defined in ORS 30.297;
+38 (ii) Homeless, as determined under rules adopted by the State Board of Education based on
+39 standards adopted by the Department of Human Services;
+40 (iii) A runaway, as determined under rules adopted by the State Board of Education based on
+41 standards adopted by the Department of Human Services;
+42 (iv) A child in a military family covered by the Interstate Compact on Educational Opportunity
+43 for Military Children, as determined under rules adopted by the State Board of Education;
+44 (v) A child of a migrant worker, as determined under rules adopted by the State Board of Edu-
+45 cation;
+[9]
+
+SB 1572
+1 (vi) Enrolled in the Youth Corrections Education Program or the Juvenile Detention Education
+2 Program; or
+3 (vii) Enrolled in an approved recovery school under ORS 336.680.
+4 (B)(i) For any student identified under subparagraph (A) of this paragraph, a school district or
+5 public charter school must accept any credits earned by the student in an educational program in
+6 this state and apply those credits toward requirements specified by paragraph (a) of this subsection
+7 or by rule of the State Board of Education if the credits satisfied those requirements in that edu-
+8 cational program in this state.
+9 (ii) As used in this subparagraph, “educational program in this state” means an educational
+10 program that is:
+11 (I) Provided by a school district, a public charter school, an approved recovery school, the
+12 Youth Corrections Education Program or the Juvenile Detention Education Program; or
+13 (II) Funded as provided by ORS 343.243 for students in a long term care or treatment facility
+14 described in ORS 343.961 or a hospital identified in ORS 343.261.
+15 (d)(A) The State Board of Education shall adopt rules by which a student who has completed
+16 an International Baccalaureate program may satisfy the credit requirements prescribed by para-
+17 graph (a) of this subsection and any or all of the requirements established by rule of the State Board
+18 of Education under paragraph (a) of this subsection. The rules:
+19 (i) Must provide that the student has satisfied those requirements if the student has satisfied:
+20 (I) All of the requirements for an International Baccalaureate Diploma Programme or an Inter-
+21 national Baccalaureate Career-related Programme; and
+22 (II) Any other requirements prescribed by the board by rule for a student who has completed
+23 an International Baccalaureate program.
+24 (ii) May provide that, only for the purpose of satisfying requirements as provided by this para-
+25 graph, a person who is not an external International Baccalaureate examiner may grade assessments
+26 or examinations for either program.
+27 (B) Nothing in this paragraph prohibits a school district or public charter school from estab-
+28 lishing requirements that are in addition to the credit requirements prescribed by paragraph (a) of
+29 this subsection or any requirements established by rule under paragraph (a) of this subsection or
+30 subparagraph (A) of this paragraph.
+31 (C) When establishing requirements under this paragraph, the board or a school district or
+32 public charter school shall attempt not to establish requirements that may discourage access to or
+33 participation in the International Baccalaureate program.
+34 (3)(a) In addition to the credit requirements described in subsection (2) of this section
+35 and any other requirements established by the State Board of Education or by a school dis-
+36 trict or public charter school, the board shall adopt proficiency standards for Essential
+37 Learning Skills that must be demonstrated before a student is awarded a high school diploma
+38 or a modified diploma. The proficiency standards must be demonstrated for, at a minimum,
+39 the following:
+40 (A) Reading and comprehending a variety of text;
+41 (B) Writing clearly and accurately; and
+42 (C) Applying mathematics in a variety of settings.
+43 (b) The board shall adopt by rule assessment options for students to demonstrate profi-
+44 ciency in Essential Learning Skills, as provided by paragraph (a) of this subsection.
+45 [(3)] (c) A student providing work samples to demonstrate proficiency in Essential Learning
+[10]
+
+SB 1572
+1 Skills [as may be required under subsection (2) of this section] must be allowed to use accommodations
+2 described in the student’s individualized education program or the student’s plan developed in ac-
+3 cordance with section 504 of the Rehabilitation Act of 1973, 29 U.S.C. 794. As used in this
+4 [subsection] paragraph, the term “accommodations”:
+5 [(a)] (A) Includes, but is not limited to:
+6 [(A)] (i) Additional time to demonstrate proficiency.
+7 [(B)] (ii) The ability to demonstrate proficiency in an alternative location that is secure and
+8 proctored.
+9 [(C)] (iii) The use of text-to-speech or speech-to-text technology or other assistive technology.
+10 [(b)] (B) Does not include modifications that lower the proficiency standards or that are used
+11 solely to earn modified credit.
+12 (4) A student may satisfy the requirements of [subsection (2)] subsections (2) and (3) of this
+13 section in less than four years. If a student satisfies the requirements of [subsection (2)] subsections
+14 (2) and (3) of this section and a school district or public charter school has received consent as
+15 provided by subsection (6) of this section, the school district or public charter school shall award
+16 a high school diploma to the student.
+17 (5) If a school district or public charter school has received consent as provided by subsection
+18 (6) of this section, the school district or public charter school may advance the student to the next
+19 grade level if the student has satisfied the requirements for the student’s current grade level.
+20 (6)(a) For the purpose of receiving consent as provided by subsections (1)(d), (4) and (5) of this
+21 section, consent shall be provided by:
+22 (A) The parent or guardian of the student, if the student:
+23 (i) Is under 18 years of age and is not emancipated pursuant to ORS 419B.550 to 419B.558; or
+24 (ii) Has been determined not to have the ability to give informed consent regarding the student’s
+25 education pursuant to a protective proceeding under ORS chapter 125; or
+26 (B) The student, if the student is 18 years of age or older or is emancipated pursuant to ORS
+27 419B.550 to 419B.558.
+28 (b) For the purpose of awarding a modified diploma or extended diploma as provided by sub-
+29 section (1)(d) of this section or of awarding a high school diploma as provided by subsection (4) of
+30 this section, consent must be received during the school year for which the diploma will be awarded.
+31 (7) A school district or public charter school shall award a modified diploma only to students
+32 who have demonstrated the inability to meet the full set of academic content standards for a high
+33 school diploma with reasonable modifications and accommodations. To be eligible for a modified di-
+34 ploma, a student must:
+35 (a) Satisfy the requirements for a modified diploma established by this section and the State
+36 Board of Education; and
+37 (b) Have a documented history of an inability to maintain grade level achievement due to sig-
+38 nificant learning and instructional barriers or have a documented history of a medical condition that
+39 creates a barrier to achievement.
+40 (8) A school district or public charter school shall award an extended diploma only to students
+41 who have demonstrated the inability to meet the full set of academic content standards for a high
+42 school diploma with reasonable modifications and accommodations. To be eligible for an extended
+43 diploma, a student must:
+44 (a) While in grade nine through completion of high school, complete 12 credits, which may not
+45 include more than six credits earned in a self-contained special education classroom and shall in-
+[11]
+
+SB 1572
+1 clude:
+2 (A) Two credits of mathematics;
+3 (B) Two credits of language arts;
+4 (C) Two credits of science;
+5 (D) Three credits of history, geography, economics or civics;
+6 (E) One credit of health;
+7 (F) One credit of physical education; and
+8 (G) One credit of the arts or a world language; and
+9 (b) Have a documented history of:
+10 (A) An inability to maintain grade level achievement due to significant learning and instruc-
+11 tional barriers;
+12 (B) A medical condition that creates a barrier to achievement; or
+13 (C) A change in the student’s ability to participate in grade level activities as a result of a se-
+14 rious illness or injury that occurred after grade eight.
+15 (9) A school district or public charter school shall award a certificate of attendance to a student
+16 who does not satisfy the requirements for a high school diploma, a modified diploma or an extended
+17 diploma if the student has maintained regular full-time attendance for at least four years beginning
+18 in grade nine and meets requirements established by the board of the school district or public
+19 charter school.
+20 (10) A student shall have the opportunity to satisfy the requirements of subsection (7), (8) or (9)
+21 of this section by the later of:
+22 (a) Four years after starting grade nine; or
+23 (b) The student reaching the age of 21 years, if the student is entitled to a public education until
+24 the age of 21 years under state or federal law.
+25 (11)(a) A student may satisfy the requirements described in subsection (7), (8) or (9) of this sec-
+26 tion in less than four years if consent is provided in the manner described in subsection (6)(a) of this
+27 section.
+28 (b) The consent provided under this subsection must be written and must clearly state that the
+29 parent, guardian or student is waiving the time allowed under subsection (10) of this section. A
+30 consent may not be used to allow a student to satisfy the requirements of subsection (7), (8) or (9)
+31 of this section in less than three years.
+32 (c) A copy of all consents provided under this subsection for students in a school district must
+33 be forwarded to the district superintendent.
+34 (d) Each school district must provide to the Superintendent of Public Instruction information
+35 about the number of consents provided during a school year.
+36 (12)(a) A student who qualifies to receive or receives a modified diploma, an extended diploma
+37 or a certificate of attendance shall:
+38 (A) Have the option of participating in a high school graduation ceremony with the class of the
+39 student; and
+40 (B) Have access to instructional hours, hours of transition services and hours of other services
+41 that are designed to:
+42 (i) Meet the unique needs of the student; and
+43 (ii) When added together, provide a total number of hours of instruction and services to the
+44 student that equals at least the total number of instructional hours that is required to be provided
+45 to students who are attending a public high school.
+[12]
+
+SB 1572
+1 (b) A school district may not unilaterally decrease the total number of hours of instruction and
+2 services to which the student has access under paragraph (a)(B) of this subsection, regardless of the
+3 age of the student.
+4 (c) For purposes of paragraph (a)(B) of this subsection, transition services and other services
+5 designed to meet the unique needs of the student may be provided to the student through an inter-
+6 agency agreement entered into by the school district if the individualized education program devel-
+7 oped for the student indicates that the services may be provided by another agency. A school
+8 district that enters into an interagency agreement as allowed under this paragraph retains the re-
+9 sponsibility for ensuring that the student has access to the number of service hours required to be
+10 provided to the student under this subsection. An agency is not required to change any eligibility
+11 criteria or enrollment standards prior to entering into an interagency agreement as provided by this
+12 paragraph.
+13 (13) A school district or public charter school shall:
+14 (a) Ensure that all students have on-site access to the appropriate resources and courses to
+15 achieve high school diplomas, modified diplomas and extended diplomas at each high school in the
+16 school district or at the public charter school.
+17 (b) Provide literacy instruction to all students until graduation.
+18 (c)(A) Provide to the parents or guardians of a student who has the documented history de-
+19 scribed in subsection (8)(b) of this section:
+20 (i) Information about the availability of high school diplomas, modified diplomas and extended
+21 diplomas and the requirements for the diplomas; and
+22 (ii) A disclosure that a student awarded a certificate of attendance will not be counted as a high
+23 school graduate in any reporting for the state or school district and that a student awarded a cer-
+24 tificate of attendance may not indicate that the student received a high school diploma on applica-
+25 tions for employment, military service, financial aid, admittance to an institution of higher education
+26 or any other purpose.
+27 (B) The information and disclosure required under subparagraph (A) of this paragraph must be
+28 provided annually:
+29 (i) Beginning in grade five; or
+30 (ii) Beginning after a documented history described in subsection (8)(b) of this section has been
+31 established.
+32 (14) A school district or public charter school shall allow a student to participate in the high
+33 school graduation ceremony with the class of the student and to wear:
+34 (a) Native American items of cultural significance as provided by ORS 332.112; or
+35 (b) A dress uniform issued to the student by a branch of the Armed Forces of the United States
+36 if the student:
+37 (A) Qualifies to receive a high school diploma, a modified diploma, an extended diploma or a
+38 certificate of attendance under this section; and
+39 (B) Has completed basic training for, and is an active member of, a branch of the Armed Forces
+40 of the United States.
+41 SECTION 6. ORS 329.451, as amended by section 1, chapter 564, Oregon Laws 2023, and section
+42 3, chapter 4, Oregon Laws 2024, is amended to read:
+43 329.451. (1)(a) At or before grade 12, a school district or public charter school shall award a high
+44 school diploma to a student who completes the requirements established by [subsection (2)] sub-
+45 sections (2) and (3) of this section.
+[13]
+
+SB 1572
+1 (b) A school district or public charter school shall award a modified diploma to a student who
+2 satisfies the requirements established by [subsection (7)] subsections (3) and (7) of this section, an
+3 extended diploma to a student who satisfies the requirements established by subsection (8) of this
+4 section or a certificate of attendance to a student who satisfies the requirements established by
+5 subsection (9) of this section.
+6 (c) A school district or public charter school may not deny a student who has the documented
+7 history described in subsection (7)(b) or (8)(b) of this section the opportunity to pursue a diploma
+8 with more stringent requirements than a modified diploma or an extended diploma.
+9 (d) A school district or public charter school may award a modified diploma or extended diploma
+10 to a student only upon receiving consent as provided by subsection (6) of this section.
+11 (2)(a) In order to receive a high school diploma from a school district or public charter school,
+12 a student must satisfy the requirements established by the State Board of Education and the school
+13 district or public charter school and, while in grades 9 through 12, must complete at least 24 total
+14 credits, which must include at least:
+15 (A) Three credits of mathematics;
+16 (B) Four credits of language arts;
+17 (C) One half-credit of civics;
+18 (D) One half-credit of higher education and career path skills; and
+19 (E) One half-credit of personal financial education.
+20 (b) If a school district or public charter school requires a student to complete more than 24 total
+21 credits, as provided by paragraph (a) of this subsection, the school district or public charter school
+22 may only require the student to complete additional credits for:
+23 (A) Subjects for which the State Board of Education has established academic content standards
+24 under ORS 329.045;
+25 (B) Courses provided as part of a career and technical education program; or
+26 (C) Courses that provide, or qualify to provide, credit at post-secondary institutions of education.
+27 (c)(A) A school district or public charter school that requires students to satisfy any require-
+28 ments not specified by paragraph (a) of this subsection or by rule of the State Board of Education
+29 must grant to a student a waiver of the requirements established by the school district or public
+30 charter school if the student is or, at any time from grade 9 to 12, was:
+31 (i) A foster child, as defined in ORS 30.297;
+32 (ii) Homeless, as determined under rules adopted by the State Board of Education based on
+33 standards adopted by the Department of Human Services;
+34 (iii) A runaway, as determined under rules adopted by the State Board of Education based on
+35 standards adopted by the Department of Human Services;
+36 (iv) A child in a military family covered by the Interstate Compact on Educational Opportunity
+37 for Military Children, as determined under rules adopted by the State Board of Education;
+38 (v) A child of a migrant worker, as determined under rules adopted by the State Board of Edu-
+39 cation;
+40 (vi) Enrolled in the Youth Corrections Education Program or the Juvenile Detention Education
+41 Program; or
+42 (vii) Enrolled in an approved recovery school under ORS 336.680.
+43 (B)(i) For any student identified under subparagraph (A) of this paragraph, a school district or
+44 public charter school must accept any credits earned by the student in an educational program in
+45 this state and apply those credits toward requirements specified by paragraph (a) of this subsection
+[14]
+
+SB 1572
+1 or by rule of the State Board of Education if the credits satisfied those requirements in that edu-
+2 cational program in this state.
+3 (ii) As used in this subparagraph, “educational program in this state” means an educational
+4 program that is:
+5 (I) Provided by a school district, a public charter school, an approved recovery school, the
+6 Youth Corrections Education Program or the Juvenile Detention Education Program; or
+7 (II) Funded as provided by ORS 343.243 for students in a long term care or treatment facility
+8 described in ORS 343.961 or a hospital identified in ORS 343.261.
+9 (d) The State Board of Education may adopt by rule requirements for courses, including teachers
+10 of courses, related to higher education and career path skills and personal financial education that
+11 allow the courses to satisfy multiple credit requirements for a high school diploma, including math-
+12 ematics.
+13 (e)(A) The State Board of Education shall adopt rules by which a student who has completed
+14 an International Baccalaureate program may satisfy the credit requirements prescribed by para-
+15 graph (a) of this subsection and any or all of the requirements established by rule of the State Board
+16 of Education under paragraph (a) of this subsection. The rules:
+17 (i) Must provide that the student has satisfied those requirements if the student has satisfied:
+18 (I) All of the requirements for an International Baccalaureate Diploma Programme or an Inter-
+19 national Baccalaureate Career-related Programme; and
+20 (II) Any other requirements prescribed by the board by rule for a student who has completed
+21 an International Baccalaureate program.
+22 (ii) May provide that, only for the purpose of satisfying requirements as provided by this para-
+23 graph, a person who is not an external International Baccalaureate examiner may grade assessments
+24 or examinations for either program.
+25 (B) Nothing in this paragraph prohibits a school district or public charter school from estab-
+26 lishing requirements that are in addition to the credit requirements prescribed by paragraph (a) of
+27 this subsection or any requirements established by rule under paragraph (a) of this subsection or
+28 subparagraph (A) of this paragraph.
+29 (C) When establishing requirements under this paragraph, the board or a school district or
+30 public charter school shall attempt not to establish requirements that may discourage access to or
+31 participation in the International Baccalaureate program.
+32 (3)(a) In addition to the credit requirements described in subsection (2) of this section
+33 and any other requirements established by the State Board of Education or by a school dis-
+34 trict or public charter school, the board shall adopt proficiency standards for Essential
+35 Learning Skills that must be demonstrated before a student is awarded a high school diploma
+36 or a modified diploma. The proficiency standards must be demonstrated for, at a minimum,
+37 the following:
+38 (A) Reading and comprehending a variety of text;
+39 (B) Writing clearly and accurately; and
+40 (C) Applying mathematics in a variety of settings.
+41 (b) The board shall adopt by rule assessment options for students to demonstrate profi-
+42 ciency in Essential Learning Skills, as provided by paragraph (a) of this subsection.
+43 [(3)] (c) A student providing work samples to demonstrate proficiency in Essential Learning
+44 Skills [as may be required under subsection (2) of this section] must be allowed to use accommodations
+45 described in the student’s individualized education program or the student’s plan developed in ac-
+[15]
+
+SB 1572
+1 cordance with section 504 of the Rehabilitation Act of 1973, 29 U.S.C. 794. As used in this
+2 [subsection] paragraph, the term “accommodations”:
+3 [(a)] (A) Includes, but is not limited to:
+4 [(A)] (i) Additional time to demonstrate proficiency.
+5 [(B)] (ii) The ability to demonstrate proficiency in an alternative location that is secure and
+6 proctored.
+7 [(C)] (iii) The use of text-to-speech or speech-to-text technology or other assistive technology.
+8 [(b)] (B) Does not include modifications that lower the proficiency standards or that are used
+9 solely to earn modified credit.
+10 (4) A student may satisfy the requirements of [subsection (2)] subsections (2) and (3) of this
+11 section in less than four years. If a student satisfies the requirements of [subsection (2)] subsections
+12 (2) and (3) of this section and a school district or public charter school has received consent as
+13 provided by subsection (6) of this section, the school district or public charter school shall award
+14 a high school diploma to the student.
+15 (5) If a school district or public charter school has received consent as provided by subsection
+16 (6) of this section, the school district or public charter school may advance the student to the next
+17 grade level if the student has satisfied the requirements for the student’s current grade level.
+18 (6)(a) For the purpose of receiving consent as provided by subsections (1)(d), (4) and (5) of this
+19 section, consent shall be provided by:
+20 (A) The parent or guardian of the student, if the student:
+21 (i) Is under 18 years of age and is not emancipated pursuant to ORS 419B.550 to 419B.558; or
+22 (ii) Has been determined not to have the ability to give informed consent regarding the student’s
+23 education pursuant to a protective proceeding under ORS chapter 125; or
+24 (B) The student, if the student is 18 years of age or older or is emancipated pursuant to ORS
+25 419B.550 to 419B.558.
+26 (b) For the purpose of awarding a modified diploma or extended diploma as provided by sub-
+27 section (1)(d) of this section or of awarding a high school diploma as provided by subsection (4) of
+28 this section, consent must be received during the school year for which the diploma will be awarded.
+29 (7) A school district or public charter school shall award a modified diploma only to students
+30 who have demonstrated the inability to meet the full set of academic content standards for a high
+31 school diploma with reasonable modifications and accommodations. To be eligible for a modified di-
+32 ploma, a student must:
+33 (a) Satisfy the requirements for a modified diploma established by this section and the State
+34 Board of Education; and
+35 (b) Have a documented history of an inability to maintain grade level achievement due to sig-
+36 nificant learning and instructional barriers or have a documented history of a medical condition that
+37 creates a barrier to achievement.
+38 (8) A school district or public charter school shall award an extended diploma only to students
+39 who have demonstrated the inability to meet the full set of academic content standards for a high
+40 school diploma with reasonable modifications and accommodations. To be eligible for an extended
+41 diploma, a student must:
+42 (a) While in grade nine through completion of high school, complete 12 credits, which may not
+43 include more than six credits earned in a self-contained special education classroom and shall in-
+44 clude:
+45 (A) Two credits of mathematics;
+[16]
+
+SB 1572
+1 (B) Two credits of language arts;
+2 (C) Two credits of science;
+3 (D) Three credits of history, geography, economics or civics;
+4 (E) One credit of health;
+5 (F) One credit of physical education; and
+6 (G) One credit of the arts or a world language; and
+7 (b) Have a documented history of:
+8 (A) An inability to maintain grade level achievement due to significant learning and instruc-
+9 tional barriers;
+10 (B) A medical condition that creates a barrier to achievement; or
+11 (C) A change in the student’s ability to participate in grade level activities as a result of a se-
+12 rious illness or injury that occurred after grade eight.
+13 (9) A school district or public charter school shall award a certificate of attendance to a student
+14 who does not satisfy the requirements for a high school diploma, a modified diploma or an extended
+15 diploma if the student has maintained regular full-time attendance for at least four years beginning
+16 in grade nine and meets requirements established by the board of the school district or public
+17 charter school.
+18 (10) A student shall have the opportunity to satisfy the requirements of subsection (7), (8) or (9)
+19 of this section by the later of:
+20 (a) Four years after starting grade nine; or
+21 (b) The student reaching the age of 21 years, if the student is entitled to a public education until
+22 the age of 21 years under state or federal law.
+23 (11)(a) A student may satisfy the requirements described in subsection (7), (8) or (9) of this sec-
+24 tion in less than four years if consent is provided in the manner described in subsection (6)(a) of this
+25 section.
+26 (b) The consent provided under this subsection must be written and must clearly state that the
+27 parent, guardian or student is waiving the time allowed under subsection (10) of this section. A
+28 consent may not be used to allow a student to satisfy the requirements of subsection (7), (8) or (9)
+29 of this section in less than three years.
+30 (c) A copy of all consents provided under this subsection for students in a school district must
+31 be forwarded to the district superintendent.
+32 (d) Each school district must provide to the Superintendent of Public Instruction information
+33 about the number of consents provided during a school year.
+34 (12)(a) A student who qualifies to receive or receives a modified diploma, an extended diploma
+35 or a certificate of attendance shall:
+36 (A) Have the option of participating in a high school graduation ceremony with the class of the
+37 student; and
+38 (B) Have access to instructional hours, hours of transition services and hours of other services
+39 that are designed to:
+40 (i) Meet the unique needs of the student; and
+41 (ii) When added together, provide a total number of hours of instruction and services to the
+42 student that equals at least the total number of instructional hours that is required to be provided
+43 to students who are attending a public high school.
+44 (b) A school district may not unilaterally decrease the total number of hours of instruction and
+45 services to which the student has access under paragraph (a)(B) of this subsection, regardless of the
+[17]
+
+SB 1572
+1 age of the student.
+2 (c) For purposes of paragraph (a)(B) of this subsection, transition services and other services
+3 designed to meet the unique needs of the student may be provided to the student through an inter-
+4 agency agreement entered into by the school district if the individualized education program devel-
+5 oped for the student indicates that the services may be provided by another agency. A school
+6 district that enters into an interagency agreement as allowed under this paragraph retains the re-
+7 sponsibility for ensuring that the student has access to the number of service hours required to be
+8 provided to the student under this subsection. An agency is not required to change any eligibility
+9 criteria or enrollment standards prior to entering into an interagency agreement as provided by this
+10 paragraph.
+11 (13) A school district or public charter school shall:
+12 (a) Ensure that all students have on-site access to the appropriate resources and courses to
+13 achieve high school diplomas, modified diplomas and extended diplomas at each high school in the
+14 school district or at the public charter school.
+15 (b) Provide literacy instruction to all students until graduation.
+16 (c)(A) Provide to the parents or guardians of a student who has the documented history de-
+17 scribed in subsection (8)(b) of this section:
+18 (i) Information about the availability of high school diplomas, modified diplomas and extended
+19 diplomas and the requirements for the diplomas; and
+20 (ii) A disclosure that a student awarded a certificate of attendance will not be counted as a high
+21 school graduate in any reporting for the state or school district and that a student awarded a cer-
+22 tificate of attendance may not indicate that the student received a high school diploma on applica-
+23 tions for employment, military service, financial aid, admittance to an institution of higher education
+24 or any other purpose.
+25 (B) The information and disclosure required under subparagraph (A) of this paragraph must be
+26 provided annually:
+27 (i) Beginning in grade five; or
+28 (ii) Beginning after a documented history described in subsection (8)(b) of this section has been
+29 established.
+30 (14) A school district or public charter school shall allow a student to participate in the high
+31 school graduation ceremony with the class of the student and to wear:
+32 (a) Native American items of cultural significance as provided by ORS 332.112; or
+33 (b) A dress uniform issued to the student by a branch of the Armed Forces of the United States
+34 if the student:
+35 (A) Qualifies to receive a high school diploma, a modified diploma, an extended diploma or a
+36 certificate of attendance under this section; and
+37 (B) Has completed basic training for, and is an active member of, a branch of the Armed Forces
+38 of the United States.
+39 SECTION 7. ORS 327.164 is amended to read:
+40 327.164. As used in ORS 327.164 to 327.173:
+41 (1) “Disaggregated” means separated based on student group.
+42 (2) “Eighth-grade mathematics proficiency rate” means the percentage of students in the eighth
+43 grade who are determined to be proficient or above in mathematics, as determined under rules
+44 adopted by the State Board of Education.
+45 (3) “Five-year completion rate” means the percentage of students who received a high school
+[18]
+
+SB 1572
+1 diploma, a modified diploma or an extended diploma or who received a certificate for passing an
+2 approved high school equivalency test such as the General Educational Development test (GED)
+3 within five years of the student beginning the ninth grade.
+4 (4) “High school diploma” means a diploma that is awarded to a student upon satisfaction of the
+5 requirements prescribed by ORS 329.451 (2) and (3).
+6 (5) “Local metric rate” means the percentage of students who meet or exceed an indicator of a
+7 measurable student performance outcome.
+8 (6) “Ninth-grade on-track rate” means the percentage of students who, at the end of the summer
+9 following the year the students began ninth grade, completed one quarter of the credits required for
+10 high school graduation.
+11 (7) “On-time graduation rate” means the percentage of students who received a high school di-
+12 ploma or a modified diploma within four years of the students beginning the ninth grade.
+13 (8) “Regular attendance rate” means the percentage of students who are absent, as determined
+14 by Department of Education policy, for less than 10 percent of the school days for which the stu-
+15 dents are enrolled.
+16 (9) “Regular early-grade attendance rate” means the percentage of students in kindergarten
+17 through grade two who are absent, as determined by Department of Education policy, for less than
+18 10 percent of the school days for which the students are enrolled.
+19 (10) “School district” means:
+20 (a) A common school district or a union high school district;
+21 (b) An education service district that has enrolled students in any grade from kindergarten
+22 through grade 12 for specialized services;
+23 (c) A public charter school;
+24 (d) An approved recovery school;
+25 (e) The Youth Corrections Education Program;
+26 (f) The Juvenile Detention Education Program;
+27 (g) The Oregon School for the Deaf; or
+28 (h) Eligible day treatment programs and eligible residential treatment programs for education
+29 services to children who are in treatment programs as described in ORS 343.961.
+30 (11) “Student group” means the following student groups:
+31 (a) Economically disadvantaged students, as determined based on rules adopted by the State
+32 Board of Education;
+33 (b) Students from racial or ethnic groups that have historically experienced academic disparities,
+34 as determined under rules adopted by the State Board of Education;
+35 (c) Students with disabilities;
+36 (d) Students who are English language learners;
+37 (e) Students who are foster children, as defined in ORS 30.297;
+38 (f) Students who are homeless, as determined under rules adopted by the State Board of Edu-
+39 cation; and
+40 (g) Any other student groups that have historically experienced academic disparities, as deter-
+41 mined by the State Board of Education by rule.
+42 (12) “Third-grade reading proficiency rate” means the percentage of students in the third grade
+43 who are determined to be proficient or above in English language arts, as determined under rules
+44 adopted by the State Board of Education.
+45 SECTION 8. ORS 336.585 is amended to read:
+[19]
+
+SB 1572
+1 336.585. (1) As used in this section:
+2 (a) “Juvenile Detention Education Program” means the program defined in ORS 326.695.
+3 (b) “Resident district” means the school district in which the parents or legal guardian, if any,
+4 of a child resided at the time of the child’s enrollment in the Juvenile Detention Education Program.
+5 If the child has no parents or legal guardian, or none can be located, the resident district is the
+6 school district in which the child is physically located.
+7 (2)(a) The Department of Education shall provide or cause to be provided appropriate education
+8 for children enrolled in an educational program under the Juvenile Detention Education Program.
+9 The Superintendent of Public Instruction may contract with a school district or education service
+10 district to provide or cause to be provided appropriate education to children enrolled in an educa-
+11 tional program under the Juvenile Detention Education Program. For the purpose of this section,
+12 an appropriate education includes transition services from the Juvenile Detention Education Pro-
+13 gram into school settings and workforce preparation programs and any necessary ongoing support
+14 for a transition.
+15 (b) An education service district that provides education as provided by this subsection and that
+16 awards high school diplomas:
+17 (A) May not impose requirements for a high school diploma that are in addition to the require-
+18 ments prescribed by ORS 329.451 (2)(a) [or] and (3) and by rule of the State Board of Education;
+19 and
+20 (B) Must accept any credits previously earned by children in another school or educational
+21 program in this state and apply those credits toward the requirements prescribed by ORS 329.451
+22 (2)(a) [or] and (3) and by rule of the State Board of Education.
+23 (3) The superintendent shall pay the costs of providing education to children enrolled in an ed-
+24 ucational program under the Juvenile Detention Education Program from the State School Fund
+25 grant allocated for that purpose under ORS 327.026.
+26 (4) The State Board of Education shall adopt by rule standards to be applied to the operation
+27 of the Juvenile Detention Education Program, including standards that allow a school district or an
+28 education service district under contract with the superintendent to:
+29 (a) Implement an assessment system as provided by ORS 329.485.
+30 (b) Administer a nationally normed assessment as provided by ORS 329.488.
+31 (c) Participate in the beginning teacher and administrator mentorship program established by
+32 ORS 329.788 to 329.820.
+33 (d) Receive funds under ORS chapter 329.
+34 (5) The superintendent shall ensure that the resident district of each child enrolled in an edu-
+35 cational program under the Juvenile Detention Education Program is notified, if the resident district
+36 can be reasonably identified. The purposes of the notification include, but are not limited to:
+37 (a) Removing the child from the resident district’s census;
+38 (b) Facilitating transfers of the child’s educational records; and
+39 (c) Facilitating planning for the child’s possible return to the resident district.
+40 SECTION 9. ORS 336.590 is amended to read:
+41 336.590. (1) As used in this section, “Youth Corrections Education Program” means the program
+42 defined in ORS 326.695.
+43 (2) The Department of Education shall provide or cause to be provided appropriate education
+44 for children enrolled in an educational program under the Youth Corrections Education
+45 Program. The Superintendent of Public Instruction may contract with a school district or education
+[20]
+
+SB 1572
+1 service district to provide or cause to be provided appropriate education to children enrolled in an
+2 educational program under the Youth Corrections Education Program. For the purpose of this sec-
+3 tion, an appropriate education includes transition services from the Youth Corrections Education
+4 Program into school settings and workforce preparation programs and any necessary ongoing sup-
+5 port for a transition.
+6 (3) The superintendent shall pay the costs of providing education to children enrolled in an ed-
+7 ucational program under the Youth Corrections Education Program from the State School Fund
+8 grant allocated for that purpose under ORS 327.026.
+9 (4) The State Board of Education shall adopt by rule standards to be applied to the operation
+10 of the Youth Corrections Education Program, including standards that allow a school district or an
+11 education service district under contract with the superintendent to:
+12 (a) Award high school diplomas, modified diplomas, extended diplomas and certificates of at-
+13 tendance as provided by ORS 329.451 and 339.877. An education service district that awards high
+14 school diplomas as provided by this paragraph:
+15 (A) May not impose requirements for a high school diploma that are in addition to the require-
+16 ments prescribed by ORS 329.451 (2)(a) [or] and (3) and by rule of the State Board of Education;
+17 and
+18 (B) Must accept any credits previously earned by children in another school or educational
+19 program in this state and apply those credits toward the requirements prescribed by ORS 329.451
+20 (2)(a) [or] and (3) and by rule of the State Board of Education.
+21 (b) Implement an assessment system as provided by ORS 329.485.
+22 (c) Administer a nationally normed assessment as provided by ORS 329.488.
+23 (d) Participate in the beginning teacher and administrator mentorship program established by
+24 ORS 329.788 to 329.820.
+25 (e) Receive funds under ORS chapter 329.
+26 SECTION 10. ORS 336.680 is amended to read:
+27 336.680. (1) As used in this section, “approved recovery school” means a school that is under
+28 an agreement with the Department of Education to provide students enrolled in the school with a
+29 holistic approach to:
+30 (a) Educational services for grades 9 through 12; and
+31 (b) Health care services related to recovery from substance use disorders.
+32 (2) The department shall provide or cause to be provided appropriate education for students
+33 enrolled in an approved recovery school. For the purpose of paying the costs of providing education
+34 to students enrolled in an approved recovery school, the Superintendent of Public Instruction shall
+35 make the following:
+36 (a) Payments from amounts available from the State School Fund under ORS 327.029.
+37 (b) Payments from the Statewide Education Initiatives Account, as provided by rule adopted by
+38 the State Board of Education in collaboration with the advisory committee convened under ORS
+39 336.685. The rules adopted as provided by this paragraph may include a minimum amount, a maxi-
+40 mum amount or both for approved recovery schools.
+41 (3) The Superintendent of Public Instruction may contract with a school district, an education
+42 service district or a public charter school to provide or cause to be provided appropriate education
+43 to students enrolled in an approved recovery school. Unless otherwise specified, any educational
+44 services provided under a contract entered into under this subsection shall be paid as described in
+45 this section and not by any other state moneys distributed based on average daily membership that
+[21]
+
+SB 1572
+1 are available to the school district, education service district or public charter school for the pur-
+2 pose of providing educational services.
+3 (4) The State Board of Education shall adopt by rule the standards for a recovery school to
+4 become and operate as an approved recovery school. The standards must provide that:
+5 (a) The recovery school must align, to the extent identified by the board, with standards for
+6 accreditation established by a nonprofit accrediting organization composed of representatives of re-
+7 covery schools and individuals who support the growth of recovery schools. The standards must in-
+8 clude requirements that:
+9 (A) The recovery school, in compliance with timelines established by the department, be ac-
+10 credited by a nonprofit accrediting organization that establishes standards for recovery schools.
+11 Nothing in this subparagraph requires the recovery school to be accredited at the time the super-
+12 intendent first enters into a contract with the recovery school.
+13 (B) Student enrollment in the recovery school is voluntary. No school district or state or local
+14 agency may compel or otherwise require a student to enroll in a recovery school. Students enrolled
+15 in an approved recovery school may not be counted in determining the number of pupils in average
+16 daily membership for purposes of ORS 334.175 (5).
+17 (C) All students who reside in this state and who meet the eligibility criteria established under
+18 subsection (8) of this section may enroll in an approved recovery school if space is available. If
+19 space is not available, the approved recovery school may prioritize for enrollment student groups
+20 identified in ORS 327.164 (11).
+21 (D) The school district, education service district or public charter school with which the de-
+22 partment has entered into a contract for a recovery school must agree to award high school diplo-
+23 mas, modified diplomas, extended diplomas and alternative certificates as provided by ORS 329.451
+24 and 339.877. An entity that awards high school diplomas as provided by this subparagraph:
+25 (i) May not impose requirements for a high school diploma that are in addition to the require-
+26 ments prescribed by ORS 329.451 (2)(a) [or] and (3) and by rule of the State Board of Education;
+27 and
+28 (ii) Must accept any credits previously earned by students in another school or educational
+29 program in this state and apply those credits toward the requirements prescribed by ORS 329.451
+30 (2)(a) [or] and (3) and by rule of the State Board of Education.
+31 (E) Except as provided by subparagraphs (F) and (G) of this paragraph, the recovery school must
+32 satisfy the same laws that apply to public charter schools under ORS 338.115.
+33 (F) All administrators and teachers at the recovery school must be licensed by the Teacher
+34 Standards and Practices Commission.
+35 (G) An approved recovery school is not required to comply with the enrollment requirements
+36 prescribed by ORS 338.115 (1)(bb) or (5).
+37 (H) An approved recovery school must comply with the requirements of the uniform budget and
+38 accounting system adopted by rule of the State Board of Education under ORS 327.511.
+39 (b) Recovery schools will be approved, to the greatest extent practicable, in a manner that:
+40 (A) Represents a geographic distribution across this state; and
+41 (B) Takes into consideration the needs for services by the community in which the recovery
+42 school would be located.
+43 (5) Any school that provides the services of a recovery school may enter into a contract with
+44 the superintendent to become an approved recovery school, including schools already providing the
+45 services of a recovery school and schools that are proposing to provide the services of a recovery
+[22]
+
+SB 1572
+1 school.
+2 (6) An approved recovery school may enter into agreements with other entities, including
+3 community-based organizations and federally recognized tribes of this state, for the purposes of
+4 providing educational and health care services to students enrolled in the approved recovery school.
+5 (7)(a) The department shall be responsible for:
+6 (A) Identifying, locating and evaluating students enrolled in an approved recovery school who
+7 may be in need of special education and related services; and
+8 (B) Ensuring that eligible students receive special education and related services.
+9 (b) For the purpose of this subsection, the department may enter into a contract with a school
+10 district or an education service district.
+11 (8) The department shall establish eligibility criteria for students to enroll in an approved re-
+12 covery school, based on input from the advisory committee convened under ORS 336.685 and based
+13 on research from a nonprofit organization composed of representatives of recovery schools and in-
+14 dividuals who support the growth of recovery schools and other relevant organizations.
+15 (9) For the purposes of administering this section:
+16 (a) The State Board of Education shall adopt any necessary rules.
+17 (b) The department shall collaborate with the Oregon Health Authority, the Youth Development
+18 Division, the Alcohol and Drug Policy Commission, the Oregon Youth Authority, the Department
+19 of Human Services and local public health and mental health authorities or providers and shall co-
+20 ordinate, to the greatest extent practicable, funding of services provided in relation to approved
+21 recovery schools.
+22 (10) Each biennium, the Department of Education shall prepare a report on the progress, suc-
+23 cesses and challenges of approved recovery schools and submit that report to:
+24 (a) The interim committees of the Legislative Assembly related to education; and
+25 (b) The advisory committee convened under ORS 336.685.
+26 SECTION 11. ORS 343.331 is amended to read:
+27 343.331. ORS 343.322, 343.324, 343.326 and 343.328 do not apply to any of the following:
+28 (1) Any abbreviated school days that are a component of discipline imposed in compliance with
+29 ORS 339.250, 339.252 or 343.155 (5) or that are the result of a placement made as provided by ORS
+30 343.177.
+31 (2) A student’s exclusion from schools due to the student’s immunization status or due to the
+32 student’s exposure to a restrictable disease, as provided by ORS 433.235 to 433.284.
+33 (3) The exclusion of a student from schools or the closure or restriction of access to schools due
+34 to actions taken under a public health emergency authorized under ORS 433.441 to 433.452.
+35 (4) A student who has fulfilled all state requirements for graduation with a high school diploma,
+36 as described in ORS 329.451 (2) and (3), when the parent or foster parent has agreed to the abbre-
+37 viated school day program.
+38 (5) A student enrolled in a program described in ORS 336.585, 336.590, 339.129, 343.261, 343.961
+39 (1)(c)(A)(i) or 346.010, if the student has meaningful access to the same number of hours of instruc-
+40 tion and educational services as the majority of other students enrolled in the same program as the
+41 student.
+42 (6) A student whose parent or foster parent has notified an education service district that the
+43 student is being taught by a parent, legal guardian or private teacher under ORS 339.035.
+44 (7) A student who is excluded from, or limited access to, school due to a court order.
+45 (8) A student who is voluntarily enrolled in a public charter school in compliance with ORS
+[23]
+
+SB 1572
+1 chapter 338 when:
+2 (a) The majority of the students enrolled in the public charter school are not students with
+3 disabilities;
+4 (b) The public charter school is not designed for the purpose of serving students with challeng-
+5 ing behaviors or complex medical needs;
+6 (c) The public charter school has a longer school year than the school year for the school dis-
+7 trict in which the public charter school is located;
+8 (d) As calculated for the school year, the regular schedule of the public charter school provides
+9 at least 95 percent of the total number of hours provided to the majority of other students who are
+10 in the same grade within the student’s resident school district; and
+11 (e) The student is not restricted to attending fewer hours of instruction and educational services
+12 than the number of hours of instruction and educational services attended by the majority of stu-
+13 dents without disabilities who are in the same grade and who attend the same public charter school.
+14 (9) A high school student who is voluntarily enrolled in an alternative education program in
+15 compliance with ORS 336.635, the Expanded Options Program under ORS 340.005 to 340.090 or an
+16 accelerated college credit program as defined in ORS 340.300, when:
+17 (a) The majority of the students of the program are not students with disabilities;
+18 (b) The student is not restricted to attending fewer hours of instruction and educational services
+19 than the number of hours of instruction and educational services attended by the majority of stu-
+20 dents without disabilities who are in the same grade and who attend the same program; and
+21 (c) For an alternative education program in which the student is enrolled under ORS 336.635,
+22 the school district informs the parent or foster parent, in writing and in a language and format ac-
+23 cessible to the parent or foster parent, that upon written request of the parent or foster parent, the
+24 student will be immediately restored to a school that allows the student to access the same number
+25 of hours of instruction and educational services that are provided to the majority of other students
+26 who are in the same grade within the student’s resident school district.
+27 (10) A student who, when registering for classes for a term or semester of a school year, vol-
+28 untarily does not schedule a class for one or more class periods. The provisions of this subsection
+29 apply only if the student is:
+30 (a) In grade 11 or 12 and is on track to fulfill all state requirements for graduation with a high
+31 school diploma, as described in ORS 329.451 (2) and (3), or a modified diploma, as described in ORS
+32 329.451 (3) and (7), within four years of starting grade 9; or
+33 (b) On track to fulfill all state requirements for graduation with a high school diploma, as de-
+34 scribed in ORS 329.451 (2) and (3), or a modified diploma, as described in ORS 329.451 (3) and (7),
+35 by the end of the school year in which the student voluntarily does not schedule a class for one or
+36 more class periods.
+37 (11) Asynchronous instruction if the instruction:
+38 (a) Is for only one class per term or semester;
+39 (b) Satisfies a credit requirement for a high school diploma, as described in ORS 329.451 (2) and
+40 (3), or a modified diploma, as described in ORS 329.451 (3) and (7);
+41 (c) Is a credit recovery class or is a class not otherwise available to the student;
+42 (d) Is offered to students on a voluntary basis and is not restricted to only students with a dis-
+43 ability; and
+44 (e) Is accessible to a student while the student is at school and while staff of the school are
+45 immediately available to the student.
+[24]
+
+SB 1572
+1 SECTION 12. (1) The amendments to ORS 327.164, 329.007, 329.451, 336.585, 336.590, 336.680
+2 and 343.331 by sections 3 to 11 of this 2026 Act become operative on January 1, 2027.
+3 (2) The amendments to ORS 327.164, 329.007, 329.451, 336.585, 336.590, 336.680 and 343.331
+4 by sections 3 to 11 of this 2026 Act apply to diplomas awarded on or after January 1, 2027.
+5 (3) Notwithstanding the operative date set forth in subsection (1) of this section, the
+6 State Board of Education, the Department of Education and any entity that awards high
+7 school diplomas and modified diplomas may take any action before the operative date set
+8 forth in subsection (1) of this section that is necessary for the board, department or entity
+9 to exercise, on and after the operative date set forth in subsection (1) of this section, all of
+10 the duties, functions and powers necessary to award diplomas as provided by ORS 329.451.
+11
+12 READING STANDARDS
+13
+14 SECTION 13. ORS 329.045, as amended by section 1, chapter 202, Oregon Laws 2019, section
+15 6, chapter 178, Oregon Laws 2021, section 1, chapter 328, Oregon Laws 2023, section 7, chapter 564,
+16 Oregon Laws 2023, and section 2, chapter 445, Oregon Laws 2025, is amended to read:
+17 329.045. (1)(a) In order to achieve the goals contained in ORS 329.025, the State Board of Edu-
+18 cation shall regularly and periodically review and revise its Common Curriculum Goals, performance
+19 indicators and diploma requirements.
+20 (b) The review and revision conducted under this section shall:
+21 (A) Include Essential Learning Skills and rigorous academic content standards in mathematics,
+22 science, language arts, history, geography, economics, civics, higher education and career path
+23 skills, personal financial education, physical education, health, the arts and world languages.
+24 (B) Ensure that the academic content standards for language arts use teaching strate-
+25 gies derived from the science of reading and writing, as defined in ORS 327.825.
+26 [(B)] (C) Ensure that the academic content standards for history, geography, economics and
+27 civics include sufficient instruction on the histories, contributions and perspectives of individuals
+28 who:
+29 (i) Are Native American;
+30 (ii) Are of African, Asian, Pacific Island, Chicano, Latino, Middle Eastern or Jewish descent;
+31 (iii) Are women;
+32 (iv) Have disabilities;
+33 (v) Are immigrants or refugees; or
+34 (vi) Are lesbian, gay, bisexual or transgender.
+35 [(C)] (D) Ensure that any revisions to the academic content standards for science, health, his-
+36 tory, geography, economics and civics include standards that address the causes and effects of cli-
+37 mate change and strategies for mitigating, adapting to and strengthening community resilience to
+38 those causes and effects.
+39 [(D)] (E) Involve teachers and other educators, parents of students and other citizens and shall
+40 provide ample opportunity for public comment.
+41 [(E)] (F) Encourage increased learning time. As used in this subparagraph, “increased learning
+42 time” means a schedule that encompasses a longer school day, week or year for the purpose of in-
+43 creasing the total number of school hours available to provide:
+44 (i) Students with instruction in core academic subjects, including mathematics, science, language
+45 arts, history, geography, economics, civics, higher education and career path skills, personal finan-
+[25]
+
+SB 1572
+1 cial education, the arts and world languages;
+2 (ii) Students with instruction in subjects other than the subjects identified in sub-subparagraph
+3 (i) of this subparagraph, including health and physical education;
+4 (iii) Students with the opportunity to participate in enrichment activities that contribute to a
+5 well-rounded education, including learning opportunities that may be based on service, experience
+6 or work and that may be provided through partnerships with other organizations; and
+7 (iv) Teachers with the opportunity to collaborate, plan and engage in professional development
+8 within and across grades and subjects.
+9 (c) Nothing in this subsection prevents a school district or public charter school from main-
+10 taining control over course content, format, materials and teaching methods.
+11 (2) The State Board of Education shall continually review and revise all adopted academic con-
+12 tent standards necessary for students to successfully transition to the next phase of their education.
+13 (3)(a) School districts and public charter schools must offer students instruction in mathematics,
+14 science, language arts, history, geography, economics, civics, higher education and career path
+15 skills, personal financial education, physical education, health, the arts and world languages.
+16 (b) Instruction required under paragraph (a) of this subsection must:
+17 (A) Meet the academic content standards adopted by the State Board of Education; and
+18 (B) Meet the requirements adopted by the State Board of Education and the board of the school
+19 district or public charter school.
+20 SECTION 14. (1) The amendments to ORS 329.045 by section 13 of this 2026 Act become
+21 operative on July 1, 2029.
+22 (2) The academic content standards prescribed by ORS 329.045 (1)(b)(B), as amended by
+23 section 13 of this 2026 Act, first apply to the 2029-2030 school year.
+24 (3) Notwithstanding the operative date specified in subsection (1) of this section, the
+25 State Board of Education shall adopt academic content standards as provided by ORS 329.045
+26 (1)(b)(B), as amended by section 13 of this 2026 Act, in a manner to ensure that school dis-
+27 tricts can implement the standards beginning with the 2029-2030 school year.
+28 SECTION 15. Section 16 of this 2026 Act is added to and made a part of ORS chapter 329.
+29 SECTION 16. (1) As used in this section:
+30 (a) “Early elementary grade” means any grade from prekindergarten through grade
+31 three.
+32 (b) “High-dosage tutoring” has the meaning given that term in ORS 327.825.
+33 (c) “Third-grade reading proficiency” means proficiency in reading, as determined under
+34 rules of the State Board of Education, by the end of the third grade.
+35 (2) Each school district board shall adopt policies to achieve third-grade reading profi-
+36 ciency. The policies must provide that:
+37 (a) When a student in any early elementary grade is found to be below grade level in
+38 reading, the school district shall ensure that:
+39 (A) The student is provided immediate and intensive reading instruction, which may in-
+40 clude high-dosage tutoring; and
+41 (B) The parent or guardian of the student is immediately notified that the student is
+42 below grade level in reading and is provided with information about the intensive reading
+43 instruction being provided to the student.
+44 (b) A student who has not achieved third-grade reading proficiency is not allowed to ad-
+45 vance to the next grade level as provided by subsection (3) of this section.
+[26]
+
+SB 1572
+1 (c) A student who is not allowed to advance to the next grade level as provided by sub-
+2 section (3) of this section is provided high-dosage tutoring in language arts during regular
+3 instructional hours until the student achieves third-grade reading proficiency.
+4 (3)(a) Except as provided by paragraph (b) of this subsection, a school district may not
+5 advance a student to the next grade level when the student is found to have not achieved
+6 third-grade reading proficiency, as determined by the school district under rules adopted by
+7 the State Board of Education.
+8 (b) A school district may advance a student to the next grade level even if the student
+9 has not achieved third-grade reading proficiency only for good cause, as determined by the
+10 school district based on rules adopted by the State Board of Education. Good cause may not
+11 include consideration of the student’s age.
+12 (c) A student who is found to have not achieved third-grade reading proficiency may ad-
+13 vance to the next grade level if, at any time, the student demonstrates that the student has
+14 achieved third-grade reading proficiency. For the purpose of this paragraph, a school district
+15 shall provide the opportunity to demonstrate third-grade reading proficiency:
+16 (A) At least once after a finding has been made that the student has not achieved
+17 third-grade reading proficiency but before the end of the school year in which the student
+18 is in the third grade; and
+19 (B) At least once before the beginning of the school year after which the finding was
+20 made that the student has not achieved third-grade proficiency.
+21 (4) When adopting rules under this section, the State Board of Education shall ensure
+22 to the greatest extent practicable alignment with the requirements and goals of the Early
+23 Literacy Success Initiative established by ORS 327.825 to 327.845.
+24 SECTION 17. Section 16 of this 2026 Act first applies to the 2026-2027 school year.
+25
+26 MISCELLANEOUS
+27
+28 SECTION 18. The unit captions used in this 2026 Act are provided only for the conven-
+29 ience of the reader and do not become part of the statutory law of this state or express any
+30 legislative intent in the enactment of this 2026 Act.
+31 SECTION 19. This 2026 Act takes effect on July 1, 2026.
+32
+[27]

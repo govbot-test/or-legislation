@@ -1,0 +1,208 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4011
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Labor and Workforce Development for Oregon Education Association)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would make changes to laws with respect to school district collective bargain-
+ing. (Flesch Readability Score: 65.7).
+Expands the requirement to discuss class size and caseload as mandatory subjects of bargaining
+for purposes of school district collective bargaining.
+1 A BILL FOR AN ACT
+2 Relating to mandatory subjects of collective bargaining for school districts; amending ORS 243.650.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. ORS 243.650 is amended to read:
+5 243.650. As used in ORS 243.650 to 243.809, unless the context requires otherwise:
+6 (1) “Appropriate bargaining unit” means the unit designated by the Employment Relations Board
+7 or voluntarily recognized by the public employer to be appropriate for collective bargaining. How-
+8 ever, an appropriate bargaining unit may not include both academically licensed and unlicensed or
+9 nonacademically licensed school employees. Academically licensed units may include but are not
+10 limited to teachers, nurses, counselors, therapists, psychologists, child development specialists and
+11 similar positions. This limitation does not apply to any bargaining unit certified or recognized prior
+12 to June 6, 1995, or to any school district with fewer than 50 employees.
+13 (2) “Board” means the Employment Relations Board.
+14 (3) “Certification” means official recognition by the board that a labor organization is the ex-
+15 clusive representative for all of the employees in the appropriate bargaining unit.
+16 (4) “Collective bargaining” means the performance of the mutual obligation of a public employer
+17 and the representative of its employees to meet at reasonable times and confer in good faith with
+18 respect to employment relations for the purpose of negotiations concerning mandatory subjects of
+19 bargaining, to meet and confer in good faith in accordance with law with respect to any dispute
+20 concerning the interpretation or application of a collective bargaining agreement, and to execute
+21 written contracts incorporating agreements that have been reached on behalf of the public employer
+22 and the employees in the bargaining unit covered by such negotiations. The obligation to meet and
+23 negotiate does not compel either party to agree to a proposal or require the making of a concession.
+24 This subsection may not be construed to prohibit a public employer and a certified or recognized
+25 representative of its employees from discussing or executing written agreements regarding matters
+26 other than mandatory subjects of bargaining that are not prohibited by law as long as there is mu-
+27 tual agreement of the parties to discuss these matters, which are permissive subjects of bargaining.
+28 (5) “Compulsory arbitration” means the procedure whereby parties involved in a labor dispute
+29 are required by law to submit their differences to a third party for a final and binding decision.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 141
+
+HB 4011
+1 (6) “Confidential employee” means one who assists and acts in a confidential capacity to a per-
+2 son who formulates, determines and effectuates management policies in the area of collective bar-
+3 gaining.
+4 (7)(a) “Employment relations” includes, but is not limited to, matters concerning direct or indi-
+5 rect monetary benefits, hours, vacations, sick leave, labor organization access to and communication
+6 with represented employees, grievance procedures and other conditions of employment.
+7 (b) “Employment relations” does not include subjects determined to be permissive, nonmanda-
+8 tory subjects of bargaining by the Employment Relations Board prior to June 6, 1995.
+9 (c) After June 6, 1995, “employment relations” does not include subjects that the Employment
+10 Relations Board determines to have a greater impact on management’s prerogative than on employee
+11 wages, hours, or other terms and conditions of employment.
+12 (d) “Employment relations” does not include subjects that have an insubstantial or de minimis
+13 effect on public employee wages, hours, and other terms and conditions of employment.
+14 (e) For school district bargaining:
+15 (A) “Employment relations” includes class size and caseload limits [in schools that qualify for
+16 assistance under Title I of the federal Elementary and Secondary Education Act of 1965].
+17 (B) “Employment relations” excludes the school or educational calendar, standards of perform-
+18 ance or criteria for evaluation of teachers, the school curriculum, reasonable dress, grooming and
+19 at-work personal conduct requirements respecting smoking, gum chewing and similar matters of
+20 personal conduct, the standards and procedures for student discipline, the time between student
+21 classes, the selection, agendas and decisions of 21st Century Schools Councils established under ORS
+22 329.704, requirements for expressing milk under ORS 653.077, and any other subject proposed that
+23 is permissive under paragraphs (b), (c) and (d) of this subsection.
+24 (f) For employee bargaining involving employees covered by ORS 243.736 and employees of the
+25 Department of Corrections who have direct contact with adults in custody, “employment relations”
+26 includes safety issues that have an impact on the on-the-job safety of the employees or staffing levels
+27 that have a significant impact on the on-the-job safety of the employees.
+28 (g) For all other employee bargaining except school district bargaining and except as provided
+29 in paragraph (f) of this subsection, “employment relations” excludes staffing levels and safety issues
+30 (except those staffing levels and safety issues that have a direct and substantial effect on the on-
+31 the-job safety of public employees), scheduling of services provided to the public, determination of
+32 the minimum qualifications necessary for any position, criteria for evaluation or performance ap-
+33 praisal, assignment of duties, workload when the effect on duties is insubstantial, reasonable dress,
+34 grooming, and at-work personal conduct requirements respecting smoking, gum chewing, and similar
+35 matters of personal conduct at work, and any other subject proposed that is permissive under par-
+36 agraphs (b), (c) and (d) of this subsection.
+37 (8) “Exclusive representative” means the labor organization that, as a result of certification by
+38 the board or recognition by the employer, has the right to be the collective bargaining agent of all
+39 employees in an appropriate bargaining unit.
+40 (9) “Fact-finding” means identification of the major issues in a particular labor dispute by one
+41 or more impartial individuals who review the positions of the parties, resolve factual differences and
+42 make recommendations for settlement of the dispute.
+43 (10) “Fair-share agreement” means an agreement between the public employer and the recog-
+44 nized or certified bargaining representative of public employees whereby employees who are not
+45 members of the employee organization are required to make an in-lieu-of-dues payment to an em-
+[2]
+
+HB 4011
+1 ployee organization except as provided in ORS 243.666. Upon the filing with the board of a petition
+2 by 30 percent or more of the employees in an appropriate bargaining unit covered by such union
+3 security agreement declaring they desire that the agreement be rescinded, the board shall take a
+4 secret ballot of the employees in the unit and certify the results thereof to the recognized or certi-
+5 fied bargaining representative and to the public employer. Unless a majority of the votes cast in an
+6 election favor the union security agreement, the board shall certify deauthorization of the agree-
+7 ment. A petition for deauthorization of a union security agreement must be filed not more than 90
+8 calendar days after the collective bargaining agreement is executed. Only one such election may be
+9 conducted in any appropriate bargaining unit during the term of a collective bargaining agreement
+10 between a public employer and the recognized or certified bargaining representative.
+11 (11) “Final offer” means the proposed contract language and cost summary submitted to the
+12 mediator within seven days of the declaration of impasse.
+13 (12) “Labor dispute” means any controversy concerning employment relations or concerning the
+14 association or representation of persons in negotiating, fixing, maintaining, changing, or seeking to
+15 arrange terms or conditions of employment relations, regardless of whether the disputants stand in
+16 the proximate relation of employer and employee.
+17 (13) “Labor organization” means any organization that has as one of its purposes representing
+18 employees in their employment relations with public employers.
+19 (14) “Last best offer package” means the offer exchanged by parties not less than 14 days prior
+20 to the date scheduled for an interest arbitration hearing.
+21 (15) “Legislative body” means the Legislative Assembly, the city council, the county commission
+22 and any other board or commission empowered to levy taxes.
+23 (16) “Managerial employee” means an employee of the State of Oregon or a public university
+24 listed in ORS 352.002 who possesses authority to formulate and carry out management decisions or
+25 who represents management’s interest by taking or effectively recommending discretionary actions
+26 that control or implement employer policy, and who has discretion in the performance of these
+27 management responsibilities beyond the routine discharge of duties. A “managerial employee” need
+28 not act in a supervisory capacity in relation to other employees. Notwithstanding this subsection,
+29 “managerial employee” does not include faculty members at a community college, college or uni-
+30 versity.
+31 (17) “Mediation” means assistance by an impartial third party in reconciling a labor dispute
+32 between the public employer and the exclusive representative regarding employment relations.
+33 (18) “Payment-in-lieu-of-dues” means an assessment to defray the cost for services by the exclu-
+34 sive representative in negotiations and contract administration of all persons in an appropriate
+35 bargaining unit who are not members of the organization serving as exclusive representative of the
+36 employees. The payment must be equivalent to regular union dues and assessments, if any, or must
+37 be an amount agreed upon by the public employer and the exclusive representative of the employees.
+38 (19) “Public employee” means an employee of a public employer but does not include elected
+39 officials, persons appointed to serve on boards or commissions, incarcerated persons working under
+40 Article I, section 41, of the Oregon Constitution, or persons who are confidential employees, super-
+41 visory employees or managerial employees.
+42 (20) “Public employer” means the State of Oregon, and the following political subdivisions:
+43 Cities, counties, community colleges, school districts, special districts, mass transit districts, metro-
+44 politan service districts, public service corporations or municipal corporations and public and
+45 quasi-public corporations.
+[3]
+
+HB 4011
+1 (21) “Public employer representative” includes any individual or individuals specifically desig-
+2 nated by the public employer to act in its interests in all matters dealing with employee represen-
+3 tation, collective bargaining and related issues.
+4 (22) “Strike” means a public employee’s refusal in concerted action with others to report for
+5 duty, or his or her willful absence from his or her position, or his or her stoppage of work, or his
+6 or her absence in whole or in part from the full, faithful or proper performance of his or her duties
+7 of employment, for the purpose of inducing, influencing or coercing a change in the conditions,
+8 compensation, rights, privileges or obligations of public employment; however, nothing shall limit
+9 or impair the right of any public employee to lawfully express or communicate a complaint or
+10 opinion on any matter related to the conditions of employment.
+11 (23)(a) “Supervisory employee” means any individual having authority in the interest of the
+12 employer to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward or discipline
+13 other employees, or responsibly to direct them, or to adjust their grievances, or effectively to re-
+14 commend such action, if in connection therewith, the exercise of the authority is not of a merely
+15 routine or clerical nature but requires the use of independent judgment. Failure to assert supervi-
+16 sory status in any Employment Relations Board proceeding or in negotiations for any collective
+17 bargaining agreement does not thereafter prevent assertion of supervisory status in any subsequent
+18 board proceeding or contract negotiation.
+19 (b) “Supervisory employee” includes:
+20 (A) A faculty member of a public university listed in ORS 352.002 or the Oregon Health and
+21 Science University who:
+22 (i) Is employed as a president, vice president, provost, vice provost, dean, associate dean, as-
+23 sistant dean, head or equivalent position; or
+24 (ii) Is employed in an administrative position without a reasonable expectation of teaching, re-
+25 search or other scholarly accomplishments.
+26 (B) A guard at a correctional institution or mental hospital or a police officer who serves in the
+27 rank of lieutenant or higher except for those lieutenant guards or police officers who were included
+28 in an appropriate bargaining unit for purposes of collective bargaining on or before April 4, 2024.
+29 (C) An employee of the Criminal Justice Division of the Department of Justice who manages
+30 police officers of the division.
+31 (c) “Supervisory employee” does not include:
+32 (A) A nurse, charge nurse or nurse holding a similar position if that position has not tradi-
+33 tionally been classified as supervisory;
+34 (B) A firefighter or an emergency communications worker prohibited from striking by ORS
+35 243.736 who assigns, transfers or directs the work of other employees but does not have the au-
+36 thority to hire, discharge or impose economic discipline on those employees;
+37 (C) A guard at a correctional institution or mental hospital or a police officer who:
+38 (i) Serves in a rank equivalent to or below the rank of sergeant;
+39 (ii) Is prohibited from striking by ORS 243.736; and
+40 (iii) Assigns, transfers or directs the work of other employees but does not have the authority
+41 to hire, discharge or impose economic discipline on those employees;
+42 (D) A faculty member of a public university listed in ORS 352.002 or the Oregon Health and
+43 Science University who is not a faculty member described in paragraph (b) of this subsection; or
+44 (E) An employee of the Oregon State Police who:
+45 (i) Serves in a rank equivalent to or below the rank of sergeant;
+[4]
+
+HB 4011
+1 (ii) Is prohibited from striking by ORS 243.736; and
+2 (iii) Assigns, transfers or directs the work of other employees but does not hire, discharge or
+3 impose economic discipline on those employees.
+4 (24) “Unfair labor practice” means the commission of an act designated an unfair labor practice
+5 in ORS 243.672.
+6 (25) “Voluntary arbitration” means the procedure whereby parties involved in a labor dispute
+7 mutually agree to submit their differences to a third party for a final and binding decision.
+8
+[5]

@@ -1,0 +1,708 @@
+Title: 
+Official Title: 
+Source: versions - A-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+A-Engrossed
+House Bill 4029
+Ordered by the House February 11
+Including House Amendments dated February 11
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Climate, Energy, and Environment for Representative John Lively)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: Says what a person must tell a resident before selling or leasing a solar energy system
+to the resident. Says what must be in a contract for a sale or lease of a solar energy system. (Flesch
+Readability Score: 64.0).
+Requires a solar energy contractor or person that installs a solar energy system to have a li-
+cense appropriate for the scope of work the solar energy contractor or person will perform.
+Specifies disclosures required in purchase agreements, lease agreements and power purchase
+agreements related to solar energy systems. Specifies elements and provisions that an installation
+contract for a solar energy system must have.
+Prohibits deceptive statements concerning the provisions of an installation contract. Punishes
+a violation or a failure to comply with the provisions of the Act as an unlawful practice under the
+Unlawful Trade Practices Act.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to solar energy systems; creating new provisions; amending ORS 646.608; and prescribing
+3 an effective date.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. As used in sections 1 to 6 of this 2026 Act:
+6 (1) “Customer” means a resident that owns or leases residential real property and re-
+7 ceives a solicitation from, or executes a contract with, a solar energy contractor to purchase
+8 and install a solar energy system on residential real property that the resident owns or
+9 leases.
+10 (2) “Dealer fee” means an amount that a solar energy contractor or sales agent pays to
+11 a lender in order to offer a customer credit to finance a purchase and installation of a solar
+12 energy system.
+13 (3) “Electric utility” has the meaning given that term in ORS 757.300.
+14 (4) “Installation contract” means an agreement between a solar energy contractor and
+15 a customer, or a sales agent and a customer, the purpose of which is to provide for installing
+16 a solar energy system on the customer’s residential real property for a total cost that ex-
+17 ceeds $1,000.
+18 (5) “License” means a license the Department of Consumer and Business Services issues
+19 under ORS 479.630 or 479.910 to authorize a person to engage in business or employment as
+20 an electrical contractor, a limited renewable energy contractor, a general supervising
+21 electrician, a limited supervising electrician, a limited residential electrician, a general
+22 journeyman electrician, a limited energy technician or a limited renewable energy technician.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 283
+
+A-Eng. HB 4029
+1 (6) “Major component” means an inverter, power module, solar panel, rack or battery
+2 or other energy storage system included in a solar energy system.
+3 (7) “Nameplate rating” means a solar energy system’s normal maximum operating ca-
+4 pacity at full load, measured, as appropriate, in watts, kilowatts or other applicable meas-
+5 urements.
+6 (8) “Net metering” has the meaning given that term in ORS 757.300.
+7 (9) “Power purchase agreement” means an agreement between a resident and another
+8 person under the terms of which the other person:
+9 (a) Arranges for a solar energy contractor to supply and install a solar energy system
+10 on residential real property at little or no cost to the resident; and
+11 (b) Sells the power generated from the solar energy system to the resident.
+12 (10) “Resident” means an individual natural person who resides in this state.
+13 (11) “Sales agent” means a person that solicits, negotiates or executes an installation
+14 contract with a resident on behalf of a solar energy contractor.
+15 (12)(a) “Solar energy contractor” means a person that engages in the business of:
+16 (A) Selling or leasing solar energy systems to customers;
+17 (B) Installing solar energy systems on residential real property on behalf of another
+18 person; or
+19 (C) Selling power from solar energy systems installed on residential real property to
+20 residents under the terms and conditions of power purchase agreements.
+21 (b) “Solar energy contractor” does not include:
+22 (A) A resident who installs a solar energy system on the resident’s own property; or
+23 (B) A person from which a resident may purchase a solar energy system at retail that
+24 the resident may install or have a third party install on residential real property the resident
+25 owns or leases.
+26 (13) “Solar energy system” means an assembly of wiring, equipment, devices and com-
+27 ponents that has the primary purpose of converting sunlight into electricity by photovoltaic
+28 effect for a resident’s use for personal, family or household purposes, that may have the
+29 capacity to store and transfer the electricity and that could qualify as a net metering facility.
+30 (14) “Solicitation” means communication with a resident for the purpose of offering, ne-
+31 gotiating or executing an installation contract that involves contact by any of the following
+32 methods:
+33 (a) In person;
+34 (b) A telephone call or text message;
+35 (c) An advertisement through the Internet, television, radio or printed publication;
+36 (d) Direct mail or flyers left at a resident’s property; or
+37 (e) Other methods that attract a resident’s attention and cause the resident to contact
+38 the sales agent.
+39 SECTION 2. A sales agent or solar energy contractor may not execute or perform an
+40 installation contract with a resident unless the sales agent or solar energy contractor and
+41 any person that under the terms of the installation contract installs, repairs, replaces or
+42 maintains a solar energy system on the sales agent’s or solar energy contractor’s behalf has
+43 a license that is necessary and appropriate for the scope of work the person will perform.
+44 SECTION 3. (1)(a) Before concluding a sale or lease of a solar energy system to a resident
+45 or before entering into a power purchase agreement with a resident, a sales agent or solar
+[2]
+
+A-Eng. HB 4029
+1 energy contractor shall provide the resident with the following disclosures:
+2 (A) A disclosure with the elements listed in subsection (2) of this section if the sales
+3 agent or solar energy contractor sells a solar energy system to a resident;
+4 (B) A disclosure with the elements listed in subsection (3) of this section if the sales
+5 agent or solar energy contractor leases a solar energy system to a resident; or
+6 (C) A disclosure with the elements listed in subsection (4) of this section if the sales
+7 agent or solar energy contractor enters into a power purchase agreement with the resident.
+8 (b) A disclosure described in paragraph (a) of this subsection must be written in plain
+9 language, may not exceed four pages in length and must consist of text that is not smaller
+10 than the equivalent of a 10-point printed typeface. A written disclosure must provide spaces
+11 after each required element of the disclosure in which a resident may acknowledge reading
+12 and understanding each element by signing the resident’s initials or by making or adopting
+13 another written acknowledgement.
+14 (c) A sales agent or solar energy contractor may make a disclosure described in para-
+15 graph (a) of this subsection orally, but must include the same elements and use the same
+16 language the sales agent or solar energy contractor must use in a written disclosure under
+17 paragraph (a) of this subsection.
+18 (2) A disclosure for a sale of a solar energy system must:
+19 (a) State a name, telephone number, business address and any available electronic con-
+20 tact information for the sales agent or solar energy contractor and for the person that will
+21 install the solar energy system, if the solar energy contractor will not install the solar en-
+22 ergy system.
+23 (b) List the name and license number of the limited renewable energy technician or
+24 electrician that will install, maintain, replace or repair the solar energy system and the li-
+25 cense number of the limited renewable energy contractor or electrical contractor that em-
+26 ploys the limited renewable energy technician or electrician.
+27 (c) State the purchase price of the solar energy system, including as separate items any
+28 and all one-time or recurring applicable fees, taxes, installation charges, surcharges or other
+29 costs and expenses that the resident would pay for the complete solar energy system as in-
+30 stalled on the resident’s property.
+31 (d) State the exact amount the sales agent or solar energy contractor paid as a dealer
+32 fee or other inducement to a lender to obtain financing, even if the financing is not incor-
+33 porated directly into the installation contract.
+34 (e) State all amounts due upon execution of the contract of sale and at the time instal-
+35 lation of the solar energy system begins or ends.
+36 (f) Estimate the dates on which installation of the solar energy system will begin and
+37 end.
+38 (g) Describe the solar energy system with the following details:
+39 (A) All major components that will compose the solar energy system;
+40 (B) The capacity of the solar energy system measured in direct current kilowatts, if ap-
+41 propriate, and the estimated production of electricity during the first year of use;
+42 (C) Whether the solar energy system includes an energy storage component and, if so,
+43 the capacity of the energy storage component measured in kilowatt hours; and
+44 (D) An estimate of the expected degradation in electricity generation capacity per year
+45 of use.
+[3]
+
+A-Eng. HB 4029
+1 (h) Estimate the amount of electrical energy the solar energy system will produce in the
+2 first year of operation, measured in kilowatt hours, and describe the methodology used in
+3 determining the estimate, which must:
+4 (A) Use a nationally recognized industry-standard tool;
+5 (B) Consider the site-specific characteristics of the solar energy system, such as the lo-
+6 cation, orientation and angle of the solar energy system’s photovoltaic panels and any shade
+7 that affects the reception of sunlight;
+8 (C) Account, at a minimum, for differences in electric energy production during the
+9 month of June and the month of December; and
+10 (D) Not exceed the optimal performance rating that the manufacturer specifies for the
+11 inverter incorporated into the solar energy system.
+12 (i) Explain the annual accounting for, or disposition of, any unused net metering credits
+13 or other applicable credits.
+14 (j) Estimate in good faith the electric energy cost savings the resident will realize by
+15 using electricity generated from the solar energy system during the first 12 months after the
+16 solar energy system is interconnected with the local electric utility’s power grid. The esti-
+17 mate must calculate savings using the electric utility’s current policy, billing rate and
+18 method of valuing excess kilowatt hours that applies to the resident’s electricity use unless
+19 an updated policy, billing rate and method of valuing excess kilowatt hours has been ap-
+20 proved and finalized and will apply during the 12-month period. The estimate may use a de-
+21 tailed history of the resident’s electricity use for the calculation if the resident agrees.
+22 (k) State that the solar energy system does not provide backup electric power unless the
+23 system has an energy storage component.
+24 (L) State whether and the extent to which the purchase of the solar energy system in-
+25 cludes maintenance or repairs for the solar energy system and the annual or per-incident
+26 cost of the maintenance or repairs, as appropriate, to the resident.
+27 (m) State whether and the extent to which the solar energy contractor or the person
+28 that installs the solar energy system provides an allowance or warranty for repairs to the
+29 resident’s property as a consequence of the installation or removal of the solar energy sys-
+30 tem.
+31 (n) Describe any performance or production guarantee for the solar energy system.
+32 (o) Describe the basis for any estimates of savings in the resident’s monthly or annual
+33 cost of energy, which must include:
+34 (A) The current rate at which the resident receives electricity from the resident’s elec-
+35 tric utility;
+36 (B) The assumptions used in estimating any projected increases in the rate;
+37 (C) Which fixed costs to the resident will not change in proportion to or in connection
+38 with the resident’s use of electricity or the solar energy system’s generation of electricity;
+39 and
+40 (D) An estimate of the solar energy system’s production of electricity that will exceed
+41 the resident’s needs and an estimated rate or amount of compensation the resident can ex-
+42 pect to receive from the electric utility as compensation for the excess electricity.
+43 (p) State contact information for the utility department that will approve any intercon-
+44 nection of the solar energy system with the power grid of the resident’s local electric utility.
+45 (q) State who will receive any available renewable energy tax credits, any unused appli-
+[4]
+
+A-Eng. HB 4029
+1 cable bill credits from on-site generation or other credits.
+2 (r) Include a statement with substantially the following language:
+3
+4
+5 If your solar energy system is installed on residential property, your tax liability must
+6 be sufficiently large to use any renewable energy tax credits that allow you to offset taxes
+7 that you owe to the federal government but do not provide money directly to you. IF YOU
+8 ARE PARTICIPATING IN GOVERNMENT ASSISTANCE PROGRAMS OR ARE ON A FIXED
+9 INCOME, YOU MIGHT NOT BE ELIGIBLE FOR RENEWABLE ENERGY TAX CREDITS.
+10 Related items may not be eligible for a tax credit, including the cost of repairs to your roof
+11 and financing fees. You should consult an independent tax professional if you are relying on
+12 a tax credit to afford the cost of the solar energy system installation. For more information,
+13 contact the Internal Revenue Service.
+14
+15
+16 (s) Include a separate statement with substantially the following language:
+17
+18
+19 It is important to understand that electric utility rates and net metering program rates
+20 may go up or down and actual savings may vary. Historical data are not necessarily repre-
+21 sentative of future results. For further information about rates, contact your local electric
+22 utility or the Public Utility Commission. Tax incentives and other incentives available from
+23 a state government or the federal government are subject to change, expiration or termi-
+24 nation, which may affect estimates of savings. Please read your contract carefully for more
+25 details.
+26
+27
+28 (t) Include a recommendation, written all in capital letters, that reads:
+29
+30
+31 IF YOU INTEND TO GET A LOAN TO PAY FOR ALL OR PART OF AMOUNTS DUE
+32 UNDER THIS CONTRACT, YOU SHOULD WAIT UNTIL YOU RECEIVE APPROVAL FOR
+33 THE LOAN BEFORE YOU SIGN THIS CONTRACT AND YOU SHOULD VERIFY WHETHER
+34 LOAN PAYMENTS WILL BE DUE BEFORE THE SOLAR ENERGY SYSTEM IS OPERA-
+35 TIONAL. THIS CONTRACT WILL NOT ALTER YOUR OBLIGATION TO PAY YOUR ELEC-
+36 TRIC UTILITY FOR AMOUNTS DUE ON YOUR ELECTRICAL BILL.
+37
+38
+39 (u) Include an explanation of the customer’s rescission rights, written all in capital let-
+40 ters, that notes that the date on which the customer sends a cancellation notice by elec-
+41 tronic mail is the date of record and that includes space for the customer to initial a written
+42 acknowledgement of having read and understood the explanation. The explanation must read:
+43
+44
+45 YOU HAVE THE RIGHT TO CANCEL THIS CONTRACT WITHIN THREE BUSINESS
+[5]
+
+A-Eng. HB 4029
+1 DAYS AFTER YOU SIGN THIS CONTRACT. TO CANCEL, YOU MUST NOTIFY IN WRITING
+2 THE PERSON IDENTIFIED FOR THIS PURPOSE IN THIS CONTRACT AND YOU MUST
+3 SEND THE NOTICE TO THE PERSON BY E-MAIL OR BY CERTIFIED POSTAL MAIL NO
+4 MORE THAN THREE BUSINESS DAYS AFTER SIGNING THE CONTRACT. IF YOU SEND
+5 A CANCELLATION NOTICE BY E-MAIL, FOR THE PURPOSE OF DETERMINING YOUR
+6 RIGHT TO CANCEL THE DATE ON WHICH YOU SEND THE E-MAIL IS THE DATE OF
+7 YOUR NOTICE OF CANCELLATION.
+8
+9
+10 (3) A disclosure for a lease of a solar energy system, in addition to including all applicable
+11 disclosures listed in subsection (2) of this section, must:
+12 (a) State the lease term;
+13 (b) State the monthly payments due from the resident during the first year of the lease
+14 term;
+15 (c) State the rate or rates at which monthly payments will increase and the first date
+16 on which an increase will occur;
+17 (d) Estimate the total number of lease payments the resident will make during the entire
+18 term of the lease and the total amount the resident will pay under the lease;
+19 (e) State the dates on which payments will be due under the lease and the manner in
+20 which the resident will receive invoices for payment;
+21 (f) List any applicable fees, including recurring fees, such as fees for late payments, au-
+22 tomated clearing house (ACH) fees, fees to remove the solar energy system from the
+23 resident’s property, fees to file or perfect a security interest in the solar energy system, fees
+24 to process payments or fees to connect the solar energy system to the Internet;
+25 (g) State whether the lessor will record a fixture filing, as defined in ORS 72A.3090, for
+26 the solar energy system;
+27 (h) Describe any restrictions or permissions given with respect to an assignment or del-
+28 egation of the lease or with respect to ownership or retention of the solar energy system if
+29 the resident sells the property upon which the solar energy system is installed; and
+30 (i) Describe the extent to which the lease is transferable and state any conditions that
+31 affect the transferability of the lease in connection with a sale of the lessee’s residential
+32 property.
+33 (4) A disclosure for a power purchase agreement with a resident, in addition to including
+34 all applicable disclosures listed in subsection (2) of this section, must:
+35 (a) State the term of the power purchase agreement;
+36 (b) State the monthly payments due from the resident during the first year of the power
+37 purchase agreement;
+38 (c) State the rate or rates at which monthly payments will increase and the first date
+39 on which an increase will occur;
+40 (d) Estimate the total number of payments the resident will make during the entire term
+41 of the power purchase agreement and the total amount the resident will pay under the power
+42 purchase agreement;
+43 (e) State the dates on which payments will be due under the power purchase agreement
+44 and the manner in which the resident will receive invoices for payment;
+45 (f) List any and all one-time or recurring applicable fees, such as fees for late payments,
+[6]
+
+A-Eng. HB 4029
+1 fees to remove the solar energy system from the resident’s property, fees to file or perfect
+2 a security interest in the solar energy system, fees to process payments or fees to connect
+3 the solar energy system to the Internet;
+4 (g) State whether the lessor will record a fixture filing, as defined in ORS 72A.3090, for
+5 the solar energy system; and
+6 (h) Describe any restrictions or permissions given with respect to an assignment or del-
+7 egation of the power purchase agreement or with respect to ownership or retention of the
+8 solar energy system if the resident sells the property upon which the solar energy system
+9 is installed.
+10 (5) A sales agent or solar energy contractor shall submit to a resident’s local electric
+11 utility a written disclosure with the resident’s signature that is appropriate for the type of
+12 transaction in which the resident will engage, along with other materials needed for an ap-
+13 plication for interconnection with the local electric utility’s power grid.
+14 (6) If a solar energy contractor or the person that installs a solar energy system provides
+15 a warranty under subsection (2)(m) of this section, the warranty must transfer to a pur-
+16 chaser of the residential real property to which the warranty applies and remain in effect for
+17 the duration of the warranty term.
+18 SECTION 4. (1) An installation contract must:
+19 (a) Be legibly printed or written;
+20 (b) Use the same language used in any solicitation made to the customer that executes
+21 the installation contract;
+22 (c) Incorporate provisions that are substantially similar to any material promises or
+23 provisions included in the solicitation; and
+24 (d) List the name, license number, telephone number, business address, electronic mail
+25 address or other electronic contact information for the sales agent or solar energy contrac-
+26 tor that executes the installation contract.
+27 (2) The terms and conditions of an installation contract must have, at a minimum, the
+28 following provisions:
+29 (a) An itemized list of the work or labor necessary for the installation, repair, replace-
+30 ment or maintenance of the solar energy system, including any known or anticipated up-
+31 grades needed for the electrical system or electric utility equipment on the customer’s real
+32 property.
+33 (b) The total cost to the customer of the solar energy system, including:
+34 (A) All work described in paragraph (a) of this subsection;
+35 (B) The cost per watt to the customer, calculated as the total cost of the solar energy
+36 system and all work described in paragraph (a) of this subsection divided by the total
+37 nameplate rating for the solar energy system; and
+38 (C) Any differences between this element of the installation contract and the cost of the
+39 solar energy system as disclosed under section 3 (2)(c) of this 2026 Act.
+40 (c) A list of the operating costs, costs of maintenance and costs of warranty service for
+41 the solar energy system that the customer is liable for under the installation contract.
+42 (d) A detailed payment schedule that lists all anticipated project milestones for the in-
+43 stallation, explains when payments are due at each identified milestone and notes any points
+44 at which the customer may cancel the installation, specifying the amount of any refund due
+45 to the customer upon cancellation and any fee the solar energy contractor or sales agent
+[7]
+
+A-Eng. HB 4029
+1 may charge the customer for the cancellation.
+2 (e) A list of the model and brand name of each major component of the solar energy
+3 system, noting if necessary that a model or brand name may change after the execution of
+4 the installation contract and providing that the solar energy contractor or sales agent will
+5 amend the installation contract with the customer’s consent to reflect any changes.
+6 (f) A description of the duration and coverage of each manufacturer’s warranty, and any
+7 other warranty the solar energy contractor provides, for the solar energy system and each
+8 major component.
+9 (g) A list of all maintenance activities, including but not limited to replacing the inverter,
+10 that the customer must perform to ensure that the solar energy system functions as in-
+11 tended and to ensure coverage under the terms of the manufacturer’s or solar energy
+12 contractor’s warranty.
+13 (h) A description of the amount and the terms and conditions of any financing incorpo-
+14 rated directly within the installation contract. The description must include a disclosure that
+15 conforms to all applicable federal and state disclosure laws for loans and includes, at a min-
+16 imum, a statement of the interest rate, annual percentage rate, amortization schedule and
+17 security that applies to the loan.
+18 (i) The exact amount the solar energy contractor or sales agent paid as a dealer fee or
+19 other inducement to a lender to obtain financing, even if the financing is not incorporated
+20 directly into the installation contract.
+21 (j) An estimate of the amount of electrical energy the solar energy system will produce
+22 in the first year of operation, measured in kilowatt hours, and a description of the method-
+23 ology used in determining the estimate, which must:
+24 (A) Use a nationally recognized industry-standard tool;
+25 (B) Consider the site-specific characteristics of the solar energy system, such as the lo-
+26 cation, orientation and angle of the solar energy system’s photovoltaic panels and any shade
+27 that affects the reception of sunlight;
+28 (C) Account, at a minimum, for differences in electric energy production during the
+29 month of June and the month of December; and
+30 (D) Not exceed the optimal performance rating that the manufacturer specifies for the
+31 inverter incorporated into the solar energy system.
+32 (k) An explanation of the annual accounting for, or disposition of, any unused net me-
+33 tering credits, unused applicable bill credits from on-site generation or other applicable
+34 credits.
+35 (L) A good-faith estimate of the electric energy cost savings the customer will realize
+36 by using electricity generated from the solar energy system during the first 12 months after
+37 the solar energy system is interconnected with the local electric utility’s power grid. The
+38 estimate must calculate savings using the electric utility’s current policy, billing rate and
+39 method of valuing excess kilowatt hours that applies to the customer’s electricity use unless
+40 an updated policy, billing rate and method of valuing excess kilowatt hours has been ap-
+41 proved and finalized and will apply during the 12-month period. The estimate may use a de-
+42 tailed history of the customer’s electricity use for the calculation if the customer agrees.
+43 (m) A list of the names of and contact information for any subcontractor that will per-
+44 form work under the installation contract on the solar energy contractor’s behalf.
+45 (n) A recommendation, written all in capital letters, that includes space for the customer
+[8]
+
+A-Eng. HB 4029
+1 to initial a written acknowledgement of having read and understood the recommendation and
+2 that reads:
+3
+4
+5 IF YOU INTEND TO GET A LOAN TO PAY FOR ALL OR PART OF AMOUNTS DUE
+6 UNDER THIS CONTRACT, YOU SHOULD WAIT UNTIL YOU RECEIVE APPROVAL FOR
+7 THE LOAN BEFORE YOU SIGN THIS CONTRACT AND YOU SHOULD VERIFY WHETHER
+8 LOAN PAYMENTS WILL BE DUE BEFORE THE SOLAR ENERGY SYSTEM IS OPERA-
+9 TIONAL. THIS CONTRACT DOES NOT ALTER YOUR OBLIGATION TO PAY YOUR ELEC-
+10 TRIC UTILITY FOR AMOUNTS DUE ON YOUR ELECTRICAL BILL.
+11
+12
+13 (o) An explanation of the customer’s rescission rights, written all in capital letters, that
+14 notes that the date on which the customer sends a cancellation notice by electronic mail is
+15 the date of record and that includes space for the customer to initial a written acknowl-
+16 edgement of having read and understood the explanation. The explanation must read:
+17
+18
+19 YOU HAVE THE RIGHT TO CANCEL THIS CONTRACT WITHIN THREE BUSINESS
+20 DAYS AFTER YOU SIGN THIS CONTRACT. TO CANCEL, YOU MUST NOTIFY IN WRITING
+21 THE PERSON IDENTIFIED FOR THIS PURPOSE IN THIS CONTRACT AND YOU MUST
+22 SEND THE NOTICE TO THE PERSON BY E-MAIL OR BY CERTIFIED POSTAL MAIL NO
+23 MORE THAN THREE BUSINESS DAYS AFTER SIGNING THE CONTRACT. IF YOU SEND
+24 A CANCELLATION NOTICE BY E-MAIL, FOR THE PURPOSE OF DETERMINING YOUR
+25 RIGHT TO CANCEL THE DATE ON WHICH YOU SEND THE E-MAIL IS THE DATE OF
+26 YOUR NOTICE OF CANCELLATION.
+27
+28
+29 (p) A notice that states whether the installation contract provides for removing and
+30 reinstalling the solar energy system if the solar energy system is installed on the roof of the
+31 customer’s property and the customer repairs or replaces the roof or has the roof repaired
+32 or replaced. If the installation contract does not provide for removing and reinstalling the
+33 solar energy system, the installation contract must include a notice that includes space for
+34 the customer to initial a written acknowledgement of having read and understood the notice
+35 and that reads:
+36
+37
+38 Before you repair or replace your roof, review the warranties for your solar energy sys-
+39 tem that are included in this contract and ensure that you comply with the terms of the
+40 warranties. You are responsible for all costs and work needed to remove and reinstall the
+41 solar energy system and interconnect it with your electric utility.
+42
+43
+44 (q) A notice that includes space for the customer to initial a written acknowledgement
+45 of having read and understood the notice and that reads:
+[9]
+
+A-Eng. HB 4029
+1
+2
+3 If your solar energy system is installed on residential property, your tax liability must
+4 be sufficiently large to use any renewable tax credits that allow you to offset taxes that you
+5 owe to the federal government but do not provide money directly to you. IF YOU ARE
+6 PARTICIPATING IN GOVERNMENT ASSISTANCE PROGRAMS OR ARE ON A FIXED IN-
+7 COME, YOU MIGHT NOT BE ELIGIBLE FOR RENEWABLE ENERGY TAX CREDITS. Re-
+8 lated items may not be eligible for a tax credit, including the cost of repairs to your roof and
+9 financing fees. You should consult an independent tax professional if you are relying on a tax
+10 credit to afford the cost of the solar energy system installation. For more information, con-
+11 tact the Internal Revenue Service.
+12
+13
+14 (r) A notice that states that the solar energy contractor must install the solar energy
+15 system in accordance with the manufacturer’s instructions and in compliance with statewide
+16 or local building codes, with the national electrical code, as enforced by the local govern-
+17 ment, and with the interconnection standards of the local electric utility.
+18 (s) A copy of, or a website address for or electronic link to, the local electric utility’s
+19 application for interconnection.
+20 (t) A notice that identifies the party that has responsibility for obtaining permission from
+21 the electric utility to operate the solar energy system.
+22 (u) A notice that states that an installation of a solar energy system may affect the value
+23 the county assessor assigns to the property on which the solar energy system is installed
+24 and that the change in value might affect the customer’s property taxes.
+25 (v) A warning that the solar energy system may disconnect from the electric utility’s
+26 power grid during a power outage. This warning need not be included in the installation
+27 contract if the solar energy system includes a battery or other energy storage system or
+28 power conversion and control technology that is designed and installed to provide backup
+29 electricity during a power outage. The warning must read:
+30
+31
+32 Your solar energy system will automatically disconnect from your electric utility’s power
+33 grid if a power outage occurs. This disconnection occurs so that workers making repairs on
+34 the power grid do not risk a shock from electricity your solar energy system generates. If
+35 this automatic disconnection occurs, YOUR SOLAR ENERGY SYSTEM WILL NOT PRO-
+36 VIDE ELECTRICITY TO YOU DURING THE POWER OUTAGE.
+37
+38
+39 (w) A separate statement with substantially the following language:
+40
+41
+42 It is important to understand that electric utility rates and net metering program rates
+43 may go up or down and actual savings may vary. Historical data are not necessarily repre-
+44 sentative of future results. For further information about rates, contact your local electric
+45 utility or the Public Utility Commission. Tax incentives and other incentives available from
+[10]
+
+A-Eng. HB 4029
+1 a state government or the federal government are subject to change, expiration or termi-
+2 nation, which may affect estimates of savings. Please read your contract carefully for more
+3 details.
+4
+5
+6 (3) The solar energy contractor or sales agent must give a complete and accurate copy
+7 of the installation contract to the customer at the time the customer executes the installa-
+8 tion contract.
+9 (4) If a solar energy contractor or the person that installs a solar energy system provides
+10 a warranty for repairs to a resident’s property as a consequence of the installation or re-
+11 moval of the solar energy system, the warranty must transfer to a purchaser of the resi-
+12 dential real property to which the warranty applies and remain in effect for the duration of
+13 the warranty term.
+14 SECTION 5. (1) If a customer chooses to rescind an installation contract with a sales
+15 agent or solar energy contractor within three business days following the date on which the
+16 customer executes the installation contract, the sales agent or solar energy contractor may
+17 not enforce any of the terms of the installation contract against the customer, may not
+18 make any claims for labor and materials, may not charge any cancellation fee and must
+19 terminate any security interest or release any lien against the customer’s property that the
+20 sales agent or solar energy contractor recorded. The termination or release must occur
+21 within 20 days after the sales agent, solar energy contractor or any agent or designee of the
+22 sales agent or solar energy contractor receives written notice, by electronic mail or certified
+23 mail, of the customer’s rescission.
+24 (2) A sales agent or solar energy contractor may not charge or collect any fee or pay-
+25 ment from a customer and need not begin performing the installation contract or ordering
+26 equipment or materials for the installation until after the expiration of the period during
+27 which the customer may rescind the installation contract as provided in subsection (1) of
+28 this section.
+29 (3) An electric utility must approve an application to interconnect a customer’s solar
+30 energy system with the electric utility’s power grid before a solar energy contractor may
+31 begin installing the solar energy system. If the electric utility disapproves the intercon-
+32 nection, the solar energy contractor shall modify the solar energy system to meet the elec-
+33 tric utility’s requirements before the solar energy contractor may install the solar energy
+34 system. An electric utility may waive the requirement for approval if the electric utility
+35 certifies the solar energy contractor as qualified to install solar energy systems that meet
+36 the electric utility’s requirements. The solar energy contractor shall notify the electric util-
+37 ity of any design changes or changes in major components or equipment that occur as the
+38 solar energy contractor performs the installation contract.
+39 (4) If a solar energy contractor must remove, repair, replace, reinstall or otherwise alter
+40 the roof on a customer’s property while installing a solar energy system, the installation
+41 contract must separately describe the required work and itemize the costs of the work. The
+42 solar energy contractor shall invoice the customer separately for any work on the roof of
+43 the customer’s property that is related to the installation.
+44 (5) A person that purchases or receives an assignment of an installation contract is liable
+45 for all claims and subject to all defenses that the customer could assert under the installa-
+[11]
+
+A-Eng. HB 4029
+1 tion contract against the seller or assignor. A person that sells or assigns an installation
+2 contract must provide the buyer or assignee with a prominent notice that describes the po-
+3 tential liability.
+4 SECTION 6. (1) A person may not conduct a solicitation using any deceptive statement
+5 or representation concerning the costs, financing or terms and conditions of an installation
+6 contract or with respect to a purchase or installation of a solar energy system.
+7 (2) A sales agent’s or solar energy contractor’s violation of subsection (1) of this section
+8 or failure to comply with section 1, 2, 3, 4 or 5 of this 2026 Act is an unlawful practice under
+9 ORS 646.608.
+10 SECTION 7. ORS 646.608 is amended to read:
+11 646.608. (1) A person engages in an unlawful practice if in the course of the person’s business,
+12 vocation or occupation the person does any of the following:
+13 (a) Passes off real estate, goods or services as the real estate, goods or services of another.
+14 (b) Causes likelihood of confusion or of misunderstanding as to the source, sponsorship, ap-
+15 proval, or certification of real estate, goods or services.
+16 (c) Causes likelihood of confusion or of misunderstanding as to affiliation, connection, or asso-
+17 ciation with, or certification by, another.
+18 (d) Uses deceptive representations or designations of geographic origin in connection with real
+19 estate, goods or services.
+20 (e) Represents that real estate, goods or services have sponsorship, approval, characteristics,
+21 ingredients, uses, benefits, quantities or qualities that the real estate, goods or services do not have
+22 or that a person has a sponsorship, approval, status, qualification, affiliation, or connection that the
+23 person does not have.
+24 (f) Represents that real estate or goods are original or new if the real estate or goods are de-
+25 teriorated, altered, reconditioned, reclaimed, used or secondhand.
+26 (g) Represents that real estate, goods or services are of a particular standard, quality, or grade,
+27 or that real estate or goods are of a particular style or model, if the real estate, goods or services
+28 are of another.
+29 (h) Disparages the real estate, goods, services, property or business of a customer or another
+30 by false or misleading representations of fact.
+31 (i) Advertises real estate, goods or services with intent not to provide the real estate, goods or
+32 services as advertised, or with intent not to supply reasonably expectable public demand, unless the
+33 advertisement discloses a limitation of quantity.
+34 (j) Makes false or misleading representations of fact concerning the reasons for, existence of,
+35 or amounts of price reductions.
+36 (k) Makes false or misleading representations concerning credit availability or the nature of the
+37 transaction or obligation incurred.
+38 (L) Makes false or misleading representations relating to commissions or other compensation to
+39 be paid in exchange for permitting real estate, goods or services to be used for model or demon-
+40 stration purposes or in exchange for submitting names of potential customers.
+41 (m) Performs service on or dismantles any goods or real estate if the owner or apparent owner
+42 of the goods or real estate does not authorize the service or dismantling.
+43 (n) Solicits potential customers by telephone or door to door as a seller unless the person pro-
+44 vides the information required under ORS 646.611.
+45 (o) In a sale, rental or other disposition of real estate, goods or services, gives or offers to give
+[12]
+
+A-Eng. HB 4029
+1 a rebate or discount or otherwise pays or offers to pay value to the customer in consideration of
+2 the customer giving to the person the names of prospective purchasers, lessees, or borrowers, or
+3 otherwise aiding the person in making a sale, lease, or loan to another person, if earning the rebate,
+4 discount or other value is contingent upon an event occurring after the time the customer enters
+5 into the transaction.
+6 (p) Makes any false or misleading statement about a prize, contest or promotion used to publi-
+7 cize a product, business or service.
+8 (q) Promises to deliver real estate, goods or services within a certain period of time with intent
+9 not to deliver the real estate, goods or services as promised.
+10 (r) Organizes or induces or attempts to induce membership in a pyramid club.
+11 (s) Makes false or misleading representations of fact concerning the offering price of, or the
+12 person’s cost for real estate, goods or services.
+13 (t) Concurrent with tender or delivery of any real estate, goods or services, fails to disclose any
+14 known material defect or material nonconformity.
+15 (u) Engages in any other unfair or deceptive conduct in trade or commerce.
+16 (v) Violates any of the provisions relating to auction sales, consignment sales, auctioneers,
+17 consignees or auction marts under ORS 698.640, whether in a commercial or noncommercial situ-
+18 ation.
+19 (w) Manufactures mercury fever thermometers.
+20 (x) Sells or supplies mercury fever thermometers unless the thermometer is required by federal
+21 law, or is:
+22 (A) Prescribed by a person licensed under ORS chapter 677; and
+23 (B) Supplied with instructions on the careful handling of the thermometer to avoid breakage and
+24 on the proper cleanup of mercury should breakage occur.
+25 (y) Sells a thermostat that contains mercury, unless the thermostat is labeled in a manner to
+26 inform the purchaser that mercury is present in the thermostat and that the thermostat may not be
+27 disposed of until the mercury is removed, reused, recycled or otherwise managed to ensure that the
+28 mercury does not become part of the solid waste stream or wastewater. For purposes of this para-
+29 graph, “thermostat” means a device commonly used to sense and, through electrical communication
+30 with heating, cooling or ventilation equipment, control room temperature.
+31 (z) Sells or offers for sale a motor vehicle manufactured after January 1, 2006, that contains
+32 mercury light switches.
+33 (aa) Violates the provisions of ORS 803.375, 803.385 or 815.410 to 815.430.
+34 (bb) Violates ORS 646A.070 (1).
+35 (cc) Violates any requirement of ORS 646A.030 to 646A.040.
+36 (dd) Violates the provisions of ORS 128.801 to 128.898.
+37 (ee) Violates ORS 646.883 or 646.885.
+38 (ff) Violates ORS 646.569 or 646A.374.
+39 (gg) Violates the provisions of ORS 646A.142.
+40 (hh) Violates ORS 646A.360.
+41 (ii) Violates ORS 646.553 or 646.557 or any rule adopted pursuant thereto.
+42 (jj) Violates ORS 646.563.
+43 (kk) Violates ORS 759.680 or any rule adopted pursuant thereto.
+44 (LL) Violates the provisions of ORS 759.705, 759.710 and 759.720 or any rule adopted pursuant
+45 thereto.
+[13]
+
+A-Eng. HB 4029
+1 (mm) Violates ORS 646A.210 or 646A.214.
+2 (nn) Violates any provision of ORS 646A.124 to 646A.134.
+3 (oo) Violates ORS 646A.095.
+4 (pp) Violates ORS 822.046.
+5 (qq) Violates ORS 128.001.
+6 (rr) Violates ORS 646A.800 (2) to (4).
+7 (ss) Violates ORS 646A.090.
+8 (tt) Violates ORS 87.686.
+9 (uu) Violates ORS 646A.803.
+10 (vv) Violates ORS 646A.362.
+11 (ww) Violates ORS 646A.052 or any rule adopted under ORS 646A.052 or 646A.054.
+12 (xx) Violates ORS 180.440 (1) or 180.486 (1).
+13 (yy) Commits the offense of acting as a vehicle dealer without a certificate under ORS 822.005.
+14 (zz) Violates ORS 87.007 (2) or (3).
+15 (aaa) Violates ORS 92.405 (1), (2) or (3).
+16 (bbb) Engages in an unlawful practice under ORS 646.648.
+17 (ccc) Violates ORS 646A.365.
+18 (ddd) Violates ORS 98.853, 98.854, 98.856 or 98.858.
+19 (eee) Sells a gift card in violation of ORS 646A.276.
+20 (fff) Violates ORS 646A.102, 646A.106 or 646A.108.
+21 (ggg) Violates ORS 646A.430 to 646A.450.
+22 (hhh) Violates a provision of ORS 744.318 to 744.384.
+23 (iii) Violates a provision of ORS 646A.702 to 646A.720.
+24 (jjj) Violates ORS 646A.530 30 or more days after a recall notice, warning or declaration de-
+25 scribed in ORS 646A.530 is issued for the children’s product, as defined in ORS 646A.525, that is the
+26 subject of the violation.
+27 (kkk) Violates a provision of ORS 697.612, 697.642, 697.652, 697.662, 697.682, 697.692 or 697.707.
+28 (LLL) Violates the consumer protection provisions of the Servicemembers Civil Relief Act, 50
+29 U.S.C. 3901 et seq., as in effect on January 1, 2010.
+30 (mmm) Violates a provision of ORS 646A.480 to 646A.495.
+31 (nnn) Violates ORS 646A.082.
+32 (ooo) Violates ORS 646.647.
+33 (ppp) Violates ORS 646A.115.
+34 (qqq) Violates a provision of ORS 646A.405.
+35 (rrr) Violates ORS 646A.092.
+36 (sss) Violates a provision of ORS 646.644.
+37 (ttt) Violates a provision of ORS 646A.295.
+38 (uuu) Engages in the business of, or acts in the capacity of, an immigration consultant, as de-
+39 fined in ORS 9.280, in this state and for compensation, unless federal law authorizes the person to
+40 do so or unless the person is an active licensee of the Oregon State Bar.
+41 (vvv) Violates ORS 702.012, 702.029 or 702.054.
+42 (www) Violates ORS 646A.806.
+43 (xxx) Violates ORS 646A.810 (2).
+44 (yyy) Violates ORS 443.376.
+45 (zzz) Violates a provision of ORS 646A.770 to 646A.787.
+[14]
+
+A-Eng. HB 4029
+1 (aaaa) Violates ORS 815.077.
+2 (bbbb) Violates a provision of ORS 83.710 to 83.750.
+3 (cccc) Violates ORS 646A.087.
+4 (dddd) Violates ORS 646A.815.
+5 (eeee) Violates ORS 646A.677 (11)(a) or (12).
+6 (ffff) Violates section 6 (1) of this 2026 Act or fails to comply with section 1, 2, 3, 4 or 5
+7 of this 2026 Act.
+8 (2) A representation under subsection (1) of this section or ORS 646.607 may be any manifesta-
+9 tion of any assertion by words or conduct, including, but not limited to, a failure to disclose a fact.
+10 (3) In order to prevail in an action or suit under ORS 336.184 and 646.605 to 646.652, a prose-
+11 cuting attorney need not prove competition between the parties or actual confusion or misunder-
+12 standing.
+13 (4) An action or suit may not be brought under subsection (1)(u) of this section unless the At-
+14 torney General has first established a rule in accordance with the provisions of ORS chapter 183
+15 declaring the conduct to be unfair or deceptive in trade or commerce.
+16 (5) Notwithstanding any other provision of ORS 336.184 and 646.605 to 646.652, if an action or
+17 suit is brought under subsection (1)(xx) of this section by a person other than a prosecuting attor-
+18 ney, relief is limited to an injunction, and the prevailing party may be awarded reasonable attorney
+19 fees.
+20 SECTION 8. Sections 1 to 6 of this 2026 Act and the amendments to ORS 646.608 by sec-
+21 tion 7 of this 2026 Act apply to solicitations for a solar energy system made and installation
+22 contracts that a customer executes on or after the effective date of this 2026 Act.
+23 SECTION 9. This 2026 Act takes effect on the 91st day after the date on which the 2026
+24 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+25
+[15]

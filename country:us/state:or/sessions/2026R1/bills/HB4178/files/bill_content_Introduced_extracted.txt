@@ -1,0 +1,212 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4178
+Sponsored by COMMITTEE ON RULES (at the request of Northwest Grocery Retail Association)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act allows places of public accommodation to round some transactions to the
+nearest five cents. Says it is an emergency. (Flesch Readability Score: 63.2).
+Allows a place of public accommodation offering goods or services to adopt a rounding policy
+under which the final digit of the total amount due or remaining amount due in certain in-person
+transactions will be rounded to the nearest five-cent increment. Provides an exception for a buyer
+who pays in exact change. Requires a place of public accommodation to post signs giving notice
+of the rounding policy. Declares that rounding done in accordance with the Act is not an unlawful
+distinction, discrimination or restriction against United States coins or currency under ORS chapter
+659A or price misrepresentation under ORS 618.236. Exempts from liability as an unlawful trade or
+business practice any rounding done in accordance with the Act.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to rounding procedures in transactions; creating new provisions; amending ORS 659A.410;
+3 and declaring an emergency.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. (1) As used in this section:
+6 (a) “Cash transaction” means a purchase of goods or services by a buyer from a seller
+7 for which the buyer pays the total amount due in cash.
+8 (b) “Internet-based transaction” has the meaning given that term in ORS 659A.410.
+9 (c) “Mixed-tender transaction” means a purchase of goods or services by a buyer from
+10 a seller for which the buyer pays the total amount due with a combination of cash and one
+11 or more non-cash payment instruments.
+12 (d)(A) “Non-cash payment instrument” means any demand or negotiable instrument,
+13 electronic fund transfer, money order, credit card, debit card, electronic payment or other
+14 like instrument.
+15 (B) “Non-cash payment instrument” does not mean United States coin or United States
+16 currency.
+17 (e) “Remaining amount due” means the combined sales price for the purchase of goods
+18 or services, after any discounts or adjustments are made by the seller, and less any amount
+19 already paid by the buyer to the seller for the purchase.
+20 (f) “Total amount due” means the combined sales price for the purchase of goods or
+21 services, after any discounts or adjustments are made by the seller.
+22 (2) A place of public accommodation offering goods or services may adopt a rounding
+23 policy for in-person cash transactions or mixed-tender transactions in accordance with the
+24 provisions of this section. If a rounding policy is adopted under this section, the policy must
+25 be applied consistently to all transactions and rounding shall be as follows:
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 334
+
+HB 4178
+1 (a) For cash transactions:
+2 (A) If the final digit of the total amount due ends in one cent, two cents, six cents or
+3 seven cents, the final digit shall be rounded down to the nearest amount divisible by five
+4 cents;
+5 (B) If the final digit of the total amount due ends in three cents, four cents, eight cents
+6 or nine cents, the final digit shall be rounded up to the nearest amount divisible by five
+7 cents; or
+8 (C) If the final digit of the total amount due ends in zero cents or five cents, the final
+9 digit may not be rounded up or down.
+10 (b) For mixed-tender transactions:
+11 (A) If the buyer first pays a portion of the total amount due in cash and then pays the
+12 remaining amount due with a non-cash payment instrument, rounding may not be applied
+13 to any portion of the transaction.
+14 (B) If the buyer first pays a portion of the total amount due with a non-cash payment
+15 instrument and then pays the remaining amount due in cash, any rounding of the final digit
+16 of the remaining amount due shall be in accordance with paragraph (a)(A) to (C) of this
+17 subsection.
+18 (c) Notwithstanding paragraphs (a) and (b) of this subsection, a buyer in an in-person
+19 cash transaction or mixed-tender transaction may pay the total amount due or remaining
+20 amount due in exact change and rounding may not be applied to the transaction.
+21 (3) A place of public accommodation offering goods or services that adopts a rounding
+22 policy under this section shall post signs in sufficient number to give notice to members of
+23 the public entering onto or leaving the business premises of the rounding policy, including
+24 the specific rounding procedures described in subsection (2) of this section.
+25 (4) Rounding done in accordance with the provisions of this section does not constitute
+26 a violation of ORS 618.236.
+27 (5) A place of public accommodation offering goods or services that engages in rounding
+28 under this section may not be held liable for the rounding under any provision of ORS 646.605
+29 to 646.652 if the rounding is done in accordance with the provisions of this section.
+30 (6) This section does not apply to:
+31 (a) Retail transactions that occur entirely over the telephone or by mail; or
+32 (b) Internet-based transactions.
+33 SECTION 2. ORS 659A.410 is amended to read:
+34 659A.410. (1) Except as provided in subsections (2) and (4) of this section, it is an unlawful
+35 practice under ORS chapter 659A for a place of public accommodation offering goods or services,
+36 or any person acting on behalf of such place, to:
+37 (a) Refuse to accept from a customer or patron, as payment for goods and services, any of the
+38 following:
+39 (A) United States coins.
+40 (B) United States currency, including federal reserve bank notes and circulating notes of federal
+41 reserve banks and national banks.
+42 (b) Make any distinction, discrimination or restriction because a customer or patron offers any
+43 of the following as payment for goods and services:
+44 (A) United States coins.
+45 (B) United States currency, including federal reserve bank notes and circulating notes of federal
+[2]
+
+HB 4178
+1 reserve banks and national banks.
+2 (2) Notwithstanding subsection (1) of this section, a place of public accommodation, or any per-
+3 son acting on behalf of such place, may refuse to accept as payment for goods and services:
+4 (a) United States coins, in any combination, in an amount equal to or greater than $100; or
+5 (b) United States currency in denominations of $50 or $100.
+6 (3) This section does not apply to:
+7 (a) Farmers’ markets or roadside stands;
+8 (b) Transactions occurring on aircraft;
+9 (c) Transactions for goods or services involving a place or service offering goods, services,
+10 transient lodging or transportation, when the transaction or a portion of the transaction requires
+11 a customer or patron to deposit moneys or sign an agreement to rent or lease consumer goods;
+12 (d) Any establishment that is owned by or operated under the control of the United States
+13 Government or an agency of the United States;
+14 (e) Retail transactions that occur entirely over the telephone or by mail;
+15 (f) Internet-based transactions;
+16 (g) The purchase of diesel fuel or Class 1 flammable liquids at a filling station, service station,
+17 garage or other dispensary where diesel fuel or Class 1 flammable liquids are dispensed and sold
+18 at retail, during the hours in which the filling station, service station, garage or dispensary is un-
+19 attended by an owner, operator or other employee to dispense the fuel or liquids or is attended by
+20 only one owner, operator or other employee to dispense the fuel or liquids;
+21 (h) Electric vehicle charging stations;
+22 (i) Transactions that occur in a micro market, including purchases from a vending machine;
+23 (j) Purchases from a vending machine, unless the vending machine is located within a concen-
+24 tration or cluster of more than eight vending machines that do not accept coins or currency as
+25 payment for purchases;
+26 (k) Activities for which a license or certificate is required to transact insurance;
+27 (L) A place of public accommodation that provides hospital or medical services and that bills
+28 or invoices a person after such services are rendered, provided that the place of public accommo-
+29 dation accepts coins and currency as payment for the bill or invoice by mail or at a designated lo-
+30 cation other than the location where the services are rendered;
+31 (m) Any regional office of the Department of Revenue;
+32 (n) A place of public accommodation that is a branch or office of a bank holding company, fi-
+33 nancial holding company, financial institution or trust company or an affiliate of a bank holding
+34 company, financial holding company, financial institution or trust company;
+35 (o) Transactions for which a license is required under ORS 59.165;
+36 (p) Transactions for which a license is required under ORS 86A.095 to 86A.198, 86A.200 to
+37 86A.239 or 86A.303 to 86A.339;
+38 (q) Escrow transactions for which a license is required under ORS 696.511;
+39 (r) A licensee under ORS chapter 725;
+40 (s) A membership-only retail establishment where goods and services are sold to members who
+41 pay a recurring membership fee;
+42 (t) On-street and off-street parking pay stations that accept either coins or currency as one
+43 method of payment; or
+44 (u) On-street and off-street parking pay stations that do not accept coins or currency, provided
+45 that access to another pay station that accepts coins or currency as payment for the parking is
+[3]
+
+HB 4178
+1 made readily available to patrons.
+2 (4) It is not a violation of subsection (1) of this section for:
+3 (a) A place of public accommodation, including a venue or facility used for live entertainment
+4 or sporting events, to require patrons or event attendees to make purchases at different points of
+5 sale within the place of public accommodation using a payment system that transfers or converts
+6 cash into a cashless payment instrument, including, but not limited to, tokens, cards, wristbands or
+7 other instruments that are preloaded with funds, provided that the place of public accommodation
+8 does not charge a transaction fee for the conversion or transfer of cash to the cashless payment
+9 instrument or to refund any balance that remains on the cashless payment instrument back to the
+10 patron or event attendee[.]; or
+11 (b) A place of public accommodation to engage in rounding in accordance with section 1
+12 of this 2026 Act.
+13 (5) Nothing in this section may be construed to prohibit, restrict or otherwise interfere with the
+14 ability of a place of public accommodation to:
+15 (a) Accept, in addition to the forms of payment described under subsection (1) of this section,
+16 as payment for goods or services any other form of payment, provided that such payment is not
+17 prohibited under federal or state law;
+18 (b) After services are rendered, invoice or bill a customer or patron, or submit a claim to a third
+19 party to receive payment for the services; or
+20 (c) Offer a customer or patron an incentive for paying for goods or services in coin or currency.
+21 (6) A person who alleges a violation of subsection (1) of this section may file a complaint with
+22 the Commissioner of the Bureau of Labor and Industries in the manner provided by ORS 659A.820.
+23 (7) The Bureau of Labor and Industries shall conduct an ongoing advertising and education ef-
+24 fort to publicize and explain the obligations set forth in subsection (1) of this section to places of
+25 public accommodation, to persons acting on behalf of places of public accommodation and to the
+26 public. The bureau’s effort shall use such methods and media as the bureau determines will in a
+27 cost-effective manner reach the largest number of places of public accommodation and residents of
+28 this state. The bureau shall continue the effort described in this subsection until the bureau deter-
+29 mines that a high level of compliance exists among places of public accommodation and persons
+30 acting on behalf of places of public accommodation.
+31 (8) As used in this section:
+32 (a) “Affiliate” means any company that controls, is controlled by or is under common control
+33 of another company.
+34 (b) “Bank holding company,” “financial holding company,” “financial institution” and “trust
+35 company” have the meanings given those terms in ORS 706.008.
+36 (c) “Class 1 flammable liquids” has the meaning given that term in ORS 480.310.
+37 (d) “Consumer goods” has the meaning given that term in ORS 79A.1020.
+38 (e) “Escrow” has the meaning given that term in ORS 696.505.
+39 (f)(A) “Internet-based transaction” means a transaction that occurs over the Internet and that
+40 involves a sale, purchase or reservation of or deposit for goods or services to be picked up by, de-
+41 livered to, shipped to or consumed by a customer or patron.
+42 (B) “Internet-based transaction” does not mean an in-person transaction.
+43 (g) “Micro market” means an unattended retail establishment to which access by the general
+44 public is restricted that offers whole or fresh-cut fruit and vegetables, packaged foods or beverages
+45 for purchase through an automated payment processing system.
+[4]
+
+HB 4178
+1 (h) “Place of public accommodation” has the meaning given that term in ORS 659A.400.
+2 (i) “Regional office” means an office of the Department of Revenue other than a central office
+3 or headquarters building located in Salem.
+4 (j) “Transact insurance” has the meaning given that term in ORS 731.146.
+5 (k) “Transient lodging” has the meaning given that term in ORS 699.005.
+6 (L) “Vending machine” has the meaning given that term in ORS 624.310.
+7 SECTION 3. This 2026 Act being necessary for the immediate preservation of the public
+8 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+9 on its passage.
+10
+[5]

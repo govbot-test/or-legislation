@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Senate Amendments to Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+SENATE AMENDMENTS TO
+SENATE BILL 1570
+By COMMITTEE ON HEALTH CARE
+February 20
+1 In line 2 of the printed bill, after “facilities” insert “; and prescribing an effective date”.
+2 Delete lines 4 through 8 and insert:
+3 “SECTION 1. (1) As used in this section:
+4 “(a) ‘Hospital’ has the meaning given that term in ORS 442.015.
+5 “(b) ‘Individually identifiable health information’ has the meaning given that term in ORS
+6 192.556.
+7 “(c) ‘Information concerning a person’s citizenship or immigration status’ has the
+8 meaning given that term in ORS 180.805.
+9 “(d) ‘Law enforcement authority’ includes a federal, state and local law enforcement au-
+10 thority.
+11 “(2) A hospital shall designate which areas of the hospital are not open to the
+12 public. Areas designated as not open to the public must include any area:
+13 “(a) Where entry or access to the area is controlled; or
+14 “(b) That is a patient room.
+15 “(3) A hospital may not disclose for the purpose of law enforcement individually identifi-
+16 able health information or information concerning a person’s citizenship or immigration
+17 status unless disclosure is:
+18 “(a) Required by state or federal law or an order of a court of competent jurisdiction,
+19 including a judicial warrant; or
+20 “(b) For the purpose of ensuring continuity of care.
+21 “(4) A hospital shall adopt and maintain written policies and procedures that:
+22 “(a) Address how the hospital will respond if a law enforcement authority arrives at the
+23 hospital; and
+24 “(b) Identify for the hospital at least one administrator in a supervisory role who is
+25 designated to respond when a law enforcement authority arrives at the hospital.
+26 “SECTION 2. (1) As used in this section, ‘health care facility’ means:
+27 “(a) A hospital as defined in ORS 442.015.
+28 “(b) A federally qualified health center as defined in 42 U.S.C. 1396d(l)(2).
+29 “(2) It is an unlawful employment practice for a health care facility to retaliate or take
+30 disciplinary action against an employee of the health care facility because the employee has
+31 distributed informational or educational materials concerning immigrant rights and available
+32 immigration legal services if the materials are published or otherwise made available by a
+33 state agency.
+34 “(3) An employee who alleges a violation of this section may file a complaint with the
+35 Commissioner of the Bureau of Labor and Industries in the manner provided by ORS
+LC 290/SB 1570-5
+
+1 659A.820.
+2 “(4) Nothing in this section prohibits a collective bargaining agreement from establishing
+3 terms that are more protective than the requirements under this section.
+4 “SECTION 3. Section 4 of this 2026 Act is added to and made a part of ORS 192.553 to
+5 192.581.
+6 “SECTION 4. (1) As used in this section:
+7 “(a) ‘Health care facility’ means:
+8 “(A) A hospital as defined in ORS 442.015.
+9 “(B) A federally qualified health center as defined in 42 U.S.C. 1396d(l)(2).
+10 “(b) ‘Information concerning a person’s citizenship or immigration status’ has the
+11 meaning given that term in ORS 180.805.
+12 “(2) A health care provider that is a health care facility shall treat information con-
+13 cerning a person’s citizenship or immigration status or a person’s country of birth in the
+14 same manner that the health care provider is required to treat protected health information
+15 under state law.
+16 “SECTION 5. This 2026 Act takes effect on the 91st day after the date on which the 2026
+17 regular session of the Eighty-third Legislative Assembly adjourns sine die.”.
+18
+SA to SB 1570 Page 2

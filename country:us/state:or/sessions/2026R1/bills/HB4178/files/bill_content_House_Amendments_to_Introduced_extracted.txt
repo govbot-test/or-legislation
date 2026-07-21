@@ -1,0 +1,73 @@
+Title: 
+Official Title: 
+Source: versions - House Amendments to Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+HOUSE AMENDMENTS TO
+HOUSE BILL 4178
+By COMMITTEE ON RULES
+February 25
+1 On page 1 of the printed bill, after line 16, insert:
+2 “(e) ‘Place of public accommodation’ has the meaning given that term in ORS 659A.400, except
+3 that ‘place of public accommodation’ does not mean:
+4 “(A) Any place that is open to the public and owned or maintained by a public body; or
+5 “(B) Any service to the public that is provided by a public body.
+6 “(f) ‘Public body’ has the meaning given that term in ORS 174.109.”.
+7 In line 17, delete “(e)” and insert “(g)”.
+8 In line 20, delete “(f)” and insert “(h)”.
+9 In line 25, after “all” insert “in-person cash transactions and mixed-tender”.
+10 On page 2, after line 32, insert:
+11 “SECTION 2. (1) As used in this section:
+12 “(a) ‘Cash transaction’ means:
+13 “(A) A transaction in which, in exchange for commodities received from or services
+14 rendered by a public body, a person pays the total amount due in cash.
+15 “(B) A transaction involving the payment of a debt, fee or tax owed by a person to a
+16 public body for which the person pays the total amount due in cash.
+17 “(b) ‘Internet-based transaction’ has the meaning given that term in ORS 659A.410.
+18 “(c) ‘Mixed-tender transaction’ means:
+19 “(A) A transaction in which, in exchange for commodities received from or services
+20 rendered by a public body, a person pays the total amount due with a combination of cash
+21 and one or more non-cash payment instruments.
+22 “(B) A transaction involving the payment of a debt, fee or tax owed by a person to a
+23 public body for which the person pays the total amount due with a combination of cash and
+24 one or more non-cash payment instruments.
+25 “(d)(A) ‘Non-cash payment instrument’ means any demand or negotiable instrument,
+26 electronic fund transfer, money order, credit card, debit card, electronic payment or other
+27 like instrument.
+28 “(B) ‘Non-cash payment instrument’ does not mean United States coin or United States
+29 currency.
+30 “(e) ‘Public body’ has the meaning given that term in ORS 174.109.
+31 “(2) A public body may establish a reasonable rounding policy for in-person cash trans-
+32 actions or mixed-tender transactions conducted by the public body, under which the final
+33 digit of the total amount due or remaining amount due in an in-person cash transaction or
+34 mixed-tender transaction may be rounded to the nearest amount divisible by five cents. A
+35 rounding policy established by a public body under this section must be in accordance with
+LC 334/HB 4178-3
+
+1 the provisions of this section.
+2 “(3) A public body that establishes a rounding policy under this section shall:
+3 “(a) Apply the rounding policy consistently to all in-person cash transactions and
+4 mixed-tender transactions.
+5 “(b) Post signs in sufficient number to give notice of the rounding policy, including spe-
+6 cific rounding procedures, to persons entering onto or leaving locations where persons may
+7 conduct in-person cash transactions or mixed-tender transactions with the public body.
+8 “(c) Publicize the rounding policy and any changes to the rounding policy.
+9 “(4) Rounding done in accordance with the provisions of this section does not constitute
+10 a violation of ORS 618.236.
+11 “(5) This section does not apply to:
+12 “(a) Retail transactions that occur entirely over the telephone or by mail; or
+13 “(b) Internet-based transactions.”.
+14 In line 33, delete “2” and insert “3”.
+15 On page 4, line 10, after the semicolon delete the rest of the line and delete lines 11 and 12 and
+16 insert:
+17 “(b) A place of public accommodation, as defined in section 1 of this 2026 Act, to engage in
+18 rounding in accordance with section 1 of this 2026 Act; or
+19 “(c) A public body, as defined in ORS 174.109, to engage in rounding in accordance with section
+20 2 of this 2026 Act.”.
+21 On page 5, line 7, delete “3” and insert “4”.
+22
+HA to HB 4178 Page 2
