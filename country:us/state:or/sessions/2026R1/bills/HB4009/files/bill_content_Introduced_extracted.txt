@@ -1,0 +1,574 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4009
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Transportation)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would phase in a mandatory per-mile road usage charge for owners and lessees
+of electric and hybrid cars and delivery vans engaged in e-commerce. The Act would allow a flat
+annual fee in lieu of the per-mile road usage charge.
+The Act would have ODOT biennially recommend a rate for the per-mile road usage charge that
+would raise the money needed to keep up the highways in this state.
+The Act would pause an EV rebate and limit another EV rebate to one per household. (Flesch
+Readability Score: 62.2).
+Phases in a mandatory per-mile road usage charge for registered owners and lessees of electric
+and hybrid passenger vehicles and delivery vehicles engaged in e-commerce. Allows an annual flat
+fee in lieu of the mandatory per-mile road usage charge.
+Requires the Department of Transportation to submit a biennial report to the Legislative As-
+sembly recommending a rate for the per-mile road usage charge that would sustainably raise the
+revenue necessary to maintain the public highways in this state.
+Prohibits the Department of Environmental Quality from providing certain zero-emission and
+electric vehicle rebates for a period of time. Limits the charge ahead rebate to one per household.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to transportation; creating new provisions; amending ORS 319.883, 319.885, 319.910, 319.915,
+3 319.920, 319.925, 319.930 and 468.446; repealing sections 31 and 33, chapter 1, Oregon Laws 2025
+4 (special session); and prescribing an effective date.
+5 Be It Enacted by the People of the State of Oregon:
+6 SECTION 1. ORS 319.883, as amended by sections 30 and 32, chapter 1, Oregon Laws 2025
+7 (special session), is amended to read:
+8 319.883. As used in ORS 319.883 to 319.946:
+9 [(1) “Electric vehicle” means a motor vehicle that uses electricity as its only source of motive
+10 power.]
+11 [(2)] (1) “Fuel taxes” means motor vehicle fuel taxes imposed under ORS 319.010 to 319.420 and
+12 taxes imposed on the use of fuel in a motor vehicle under ORS 319.510 to 319.880.
+13 [(3)] (2) “Highway” has the meaning given that term in ORS 801.305.
+14 [(4)(a) “Hybrid electric vehicle” means a motor vehicle that:]
+15 [(A) Is powered by an internal combustion engine in combination with one or more electric motors
+16 that use energy stored in batteries; and]
+17 [(B) Is not recharged from an external electric power source.]
+18 [(b) The Department of Transportation may adopt rules that clarify the definition in paragraph (a)
+19 of this subsection to account for changes in the technology or nomenclature of hybrid electric
+20 vehicles.]
+21 [(5)] (3) “Lessee” means a person that leases a motor vehicle that is required to be registered
+22 in Oregon.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 258
+
+HB 4009
+1 [(6)(a)] (4)(a) “Motor vehicle” has the meaning given that term in ORS 801.360.
+2 (b) “Motor vehicle” does not mean a motor vehicle designed to travel with fewer than four
+3 wheels in contact with the ground.
+4 [(7) “Motor vehicle rental company” means a person whose primary business is renting motor ve-
+5 hicles to consumers under rental agreements for terms of 90 days or less.]
+6 [(8)(a) “Plug-in hybrid electric vehicle” means a motor vehicle that:]
+7 [(A) Is powered by an electric motor that uses batteries as well as motor vehicle fuel, as defined
+8 in ORS 319.010, to power an internal combustion engine or other source of propulsion;]
+9 [(B) Is equipped with an onboard charger; and]
+10 [(C) Is rechargeable from a connection to an external electric power source.]
+11 [(b) The Department of Transportation may adopt rules that clarify the definition in paragraph (a)
+12 of this subsection to account for changes in the technology or nomenclature of plug-in hybrid electric
+13 vehicles.]
+14 [(9)] (5) “Registered owner” means a person, other than a vehicle dealer that holds a certificate
+15 issued under ORS 822.020, that is required to register a motor vehicle in Oregon.
+16 [(10)] (6) “Subject vehicle” means a motor vehicle that is the subject of an application ap-
+17 proved pursuant to ORS 319.890. [or will be classified as a passenger vehicle by the Department
+18 of Transportation and that is:]
+19 [(a) An electric vehicle; or]
+20 [(b) A hybrid electric vehicle or a plug-in hybrid electric vehicle.]
+21 [(11)] (7) “Vehicle dealer” means a person engaged in business in this state that is required to
+22 obtain a vehicle dealer certificate under ORS 822.005.
+23 SECTION 2. ORS 319.883, as amended by sections 30 and 32, chapter 1, Oregon Laws 2025
+24 (special session), and section 1 of this 2026 Act, is amended to read:
+25 319.883. As used in ORS 319.883 to 319.946:
+26 (1) “Delivery vehicle” means a motor vehicle that:
+27 (a) Has a gross vehicle weight rating greater than 8,000 pounds and not more than 26,000
+28 pounds;
+29 (b) Is operated by a person required to be licensed under ORS 825.100;
+30 (c) Is used for the delivery of e-commerce property from a fulfillment center to addresses
+31 in Oregon; and
+32 (d) Uses any source of motive power.
+33 (2) “E-commerce property” means tangible personal property purchased through elec-
+34 tronic commerce.
+35 (3)(a) “Electric delivery vehicle” means a delivery vehicle that uses electricity as its only
+36 source of motive power.
+37 (b) “Electric delivery vehicle” does not include any delivery vehicle that is used exclu-
+38 sively to deliver medical goods or supplies.
+39 (4) “Electric vehicle” means a motor vehicle that uses electricity as its only source of
+40 motive power.
+41 (5) “Electronic commerce” means engaging in commercial or retail transactions pre-
+42 dominantly over the Internet or a computer network, using the Internet as a platform for
+43 transacting business or facilitating the use of the Internet by other persons for transacting
+44 business and may be further defined by the Department of Transportation by rule.
+45 [(1)] (6) “Fuel taxes” means motor vehicle fuel taxes imposed under ORS 319.010 to 319.430 and
+[2]
+
+HB 4009
+1 taxes imposed on the use of fuel in a motor vehicle under ORS 319.510 to 319.880.
+2 [(2)] (7) “Highway” has the meaning given that term in ORS 801.305.
+3 (8)(a) “Hybrid electric vehicle” means a motor vehicle that:
+4 (A) Is powered by an internal combustion engine in combination with one or more elec-
+5 tric motors that use energy stored in batteries; and
+6 (B) Is not recharged from an external electric power source.
+7 (b) The Department of Transportation may adopt rules that clarify the definition in par-
+8 agraph (a) of this subsection to account for changes in the technology or nomenclature of
+9 hybrid electric vehicles.
+10 [(3)] (9) “Lessee” means a person that leases a motor vehicle that is required to be registered
+11 in Oregon.
+12 [(4)(a)] (10)(a) “Motor vehicle” has the meaning given that term in ORS 801.360.
+13 (b) “Motor vehicle” does not mean a motor vehicle designed to travel with fewer than four
+14 wheels in contact with the ground.
+15 (11) “Motor vehicle rental company” means a person whose primary business is renting
+16 motor vehicles to consumers under rental agreements for terms of 90 days or less.
+17 (12)(a) “Plug-in hybrid electric vehicle” means a motor vehicle that:
+18 (A) Is powered by an electric motor that uses batteries as well as motor vehicle fuel, as
+19 defined in ORS 319.010, to power an internal combustion engine or other source of propulsion;
+20 (B) Is equipped with an onboard charger; and
+21 (C) Is rechargeable from a connection to an external electric power source.
+22 (b) The Department of Transportation may adopt rules that clarify the definition in par-
+23 agraph (a) of this subsection to account for changes in the technology or nomenclature of
+24 plug-in hybrid electric vehicles.
+25 [(5)] (13) “Registered owner” means a person, other than a vehicle dealer that holds a certificate
+26 issued under ORS 822.020, that is required to register a motor vehicle in Oregon.
+27 [(6)] (14) “Subject vehicle” means a motor vehicle that: [is the subject of an application approved
+28 pursuant to ORS 319.890.]
+29 (a) Is or will be classified as a passenger vehicle by the Department of Transportation
+30 and that is:
+31 (A) For reporting periods beginning on or after July 1, 2027, an electric vehicle that is
+32 not a new electric vehicle;
+33 (B) For reporting periods beginning on or after January 1, 2028:
+34 (i) A motor vehicle described in subparagraph (A) of this paragraph; or
+35 (ii) A new electric vehicle;
+36 (C) For reporting periods beginning on or after July 1, 2028:
+37 (i) A motor vehicle described in subparagraph (A) or (B) of this paragraph; or
+38 (ii) A hybrid electric vehicle or a plug-in hybrid electric vehicle; or
+39 (D) For reporting periods beginning before July 1, 2031:
+40 (i) A motor vehicle described in subparagraph (A), (B) or (C) of this paragraph; or
+41 (ii) The subject of an application approved pursuant to ORS 319.890; or
+42 (b) For reporting periods beginning on or after July 1, 2027, is an electric delivery vehicle.
+43 (15) “Taxpayer” means:
+44 (a) The registered owner of a subject vehicle;
+45 (b) The lessee of a subject vehicle; or
+[3]
+
+HB 4009
+1 (c) The owner or operator of an electric delivery vehicle.
+2 [(7)] (16) “Vehicle dealer” means a person engaged in business in this state that is required to
+3 obtain a vehicle dealer certificate under ORS 822.005.
+4 SECTION 3. The amendments to ORS 319.883 by section 2 of this 2026 Act become oper-
+5 ative on July 1, 2027.
+6 SECTION 4. ORS 319.883, as amended by sections 30 and 32, chapter 1, Oregon Laws 2025
+7 (special session), and sections 1 and 2 of this 2026 Act, is amended to read:
+8 319.883. As used in ORS 319.883 to 319.946:
+9 (1) “Delivery vehicle” means a motor vehicle that:
+10 (a) Has a gross vehicle weight rating greater than 8,000 pounds and not more than 26,000
+11 pounds;
+12 (b) Is operated by a person required to be licensed under ORS 825.100;
+13 (c) Is used for the delivery of e-commerce property from a fulfillment center to addresses in
+14 Oregon; and
+15 (d) Uses any source of motive power.
+16 (2) “E-commerce property” means tangible personal property purchased through electronic
+17 commerce.
+18 (3)(a) “Electric delivery vehicle” means a delivery vehicle that uses electricity as its only source
+19 of motive power.
+20 (b) “Electric delivery vehicle” does not include any delivery vehicle that is used exclusively to
+21 deliver medical goods or supplies.
+22 (4) “Electric vehicle” means a motor vehicle that uses electricity as its only source of motive
+23 power.
+24 (5) “Electronic commerce” means engaging in commercial or retail transactions predominantly
+25 over the Internet or a computer network, using the Internet as a platform for transacting business
+26 or facilitating the use of the Internet by other persons for transacting business and may be further
+27 defined by the Department of Transportation by rule.
+28 (6) “Fuel taxes” means motor vehicle fuel taxes imposed under ORS 319.010 to 319.430 and taxes
+29 imposed on the use of fuel in a motor vehicle under ORS 319.510 to 319.880.
+30 (7) “Highway” has the meaning given that term in ORS 801.305.
+31 (8)(a) “Hybrid electric vehicle” means a motor vehicle that:
+32 (A) Is powered by an internal combustion engine in combination with one or more electric mo-
+33 tors that use energy stored in batteries; and
+34 (B) Is not recharged from an external electric power source.
+35 (b) The Department of Transportation may adopt rules that clarify the definition in paragraph
+36 (a) of this subsection to account for changes in the technology or nomenclature of hybrid electric
+37 vehicles.
+38 (9) “Lessee” means a person that leases a motor vehicle that is required to be registered in
+39 Oregon.
+40 (10)(a) “Motor vehicle” has the meaning given that term in ORS 801.360.
+41 (b) “Motor vehicle” does not mean a motor vehicle designed to travel with fewer than four
+42 wheels in contact with the ground.
+43 (11) “Motor vehicle rental company” means a person whose primary business is renting motor
+44 vehicles to consumers under rental agreements for terms of 90 days or less.
+45 (12)(a) “Plug-in hybrid electric vehicle” means a motor vehicle that:
+[4]
+
+HB 4009
+1 (A) Is powered by an electric motor that uses batteries as well as motor vehicle fuel, as defined
+2 in ORS 319.010, to power an internal combustion engine or other source of propulsion;
+3 (B) Is equipped with an onboard charger; and
+4 (C) Is rechargeable from a connection to an external electric power source.
+5 (b) The Department of Transportation may adopt rules that clarify the definition in paragraph
+6 (a) of this subsection to account for changes in the technology or nomenclature of plug-in hybrid
+7 electric vehicles.
+8 (13) “Registered owner” means a person, other than a vehicle dealer that holds a certificate is-
+9 sued under ORS 822.020, that is required to register a motor vehicle in Oregon.
+10 (14) “Subject vehicle” means a motor vehicle that:
+11 (a) Is or will be classified as a passenger vehicle by the Department of Transportation and that
+12 is:
+13 (A) [For reporting periods beginning on or after July 1, 2027,] An electric vehicle [that is not a
+14 new electric vehicle]; or
+15 [(B) For reporting periods beginning on or after January 1, 2028:]
+16 [(i) A motor vehicle described in subparagraph (A) of this paragraph; or]
+17 [(ii) A new electric vehicle;]
+18 [(C) For reporting periods beginning on or after July 1, 2028:]
+19 [(i) A motor vehicle described in subparagraph (A) or (B) of this paragraph; or]
+20 [(ii)] (B) A hybrid electric vehicle or a plug-in hybrid electric vehicle; or
+21 [(D) For reporting periods beginning before July 1, 2031:]
+22 [(i) A motor vehicle described in subparagraph (A), (B) or (C) of this paragraph; or]
+23 [(ii) The subject of an application approved pursuant to ORS 319.890; or]
+24 (b) [For reporting periods beginning on or after July 1, 2027,] Is an electric delivery vehicle.
+25 (15) “Taxpayer” means:
+26 (a) The registered owner of a subject vehicle;
+27 (b) The lessee of a subject vehicle; or
+28 (c) The owner or operator of an electric delivery vehicle.
+29 [(7)] (16) “Vehicle dealer” means a person engaged in business in this state that is required to
+30 obtain a vehicle dealer certificate under ORS 822.005.
+31 SECTION 5. The amendments to ORS 319.883 by section 4 of this 2026 Act become oper-
+32 ative on July 1, 2031.
+33 SECTION 6. Sections 31 and 33, chapter 1, Oregon Laws 2025 (special session), are re-
+34 pealed.
+35 SECTION 7. ORS 319.885, as amended by section 34, chapter 1, Oregon Laws 2025 (special
+36 session), is amended to read:
+37 319.885. (1)(a) Except as provided in paragraph (b) of this subsection, the registered owner of a
+38 subject vehicle shall pay a per-mile road usage charge for metered use by the subject vehicle of the
+39 highways in Oregon.
+40 (b) During the term of a lease, the lessee of a subject vehicle shall pay the per-mile road usage
+41 charge for metered use by the subject vehicle of the highways in Oregon.
+42 (2)[(a)] The rate of the per-mile road usage charge is five percent of the rate of the per-gallon
+43 license tax provided in ORS 319.020 (1)(b) in effect at the time the charge becomes due.
+44 [(b) Notwithstanding paragraph (a) of this subsection, instead of paying the per-mile rate under
+45 paragraph (a) of this subsection, a registered owner or lessee may elect to pay a flat annual fee of
+[5]
+
+HB 4009
+1 $340.]
+2 [(3) A subject vehicle is not subject to the additional amount of registration fees imposed under
+3 ORS 803.422.]
+4 SECTION 8. ORS 319.885, as amended by section 34, chapter 1, Oregon Laws 2025 (special
+5 session), and section 7 of this 2026 Act, is amended to read:
+6 319.885. (1)(a) Except as provided in paragraph (b) of this subsection, the registered owner of a
+7 subject vehicle shall pay a per-mile road usage charge for metered use by the subject vehicle of the
+8 highways in Oregon.
+9 (b) During the term of a lease, the lessee of a subject vehicle shall pay the per-mile road usage
+10 charge for metered use by the subject vehicle of the highways in Oregon.
+11 (2)(a) The rate of the per-mile road usage charge is five percent of the rate of the per-gallon
+12 license tax provided in ORS 319.020 (1)(b) in effect at the time the charge becomes due.
+13 (b) Notwithstanding paragraph (a) of this subsection, instead of paying the per-mile rate
+14 under paragraph (a) of this subsection, a registered owner or lessee may elect to pay a flat
+15 annual fee of $ .
+16 (3) A subject vehicle is not subject to the additional amount of registration fees imposed
+17 under ORS 803.422.
+18 SECTION 9. The amendments to ORS 319.885 by section 8 of this 2026 Act become oper-
+19 ative on July 1, 2027.
+20 SECTION 10. ORS 319.910 is amended to read:
+21 319.910. (1) The Department of Transportation shall establish by rule reporting periods for the
+22 road usage charges imposed under ORS 319.885.
+23 (2) Reporting periods established under this section may vary according to the facts and cir-
+24 cumstances applicable to classes of [registered owners, lessees] taxpayers and subject vehicles.
+25 (3) In establishing reporting periods, the department shall consider:
+26 (a) The effort required by [registered owners or lessees] taxpayers to report metered use and to
+27 pay the per-mile road usage charge;
+28 (b) The amount of the per-mile road usage charge owed;
+29 (c) The cost to the [registered owner or lessee] taxpayer of reporting metered use and of paying
+30 the per-mile road usage charge;
+31 (d) The administrative cost to the department; and
+32 (e) Other relevant factors that the department deems important.
+33 SECTION 11. ORS 319.915 is amended to read:
+34 319.915. (1) As used in this section:
+35 (a) “Certified service provider” means an entity that has entered into an agreement with the
+36 Department of Transportation under ORS 367.806 for reporting metered use by a subject vehicle or
+37 for administrative services related to the collection of per-mile road usage charges and authorized
+38 employees of the entity.
+39 (b) “Personally identifiable information” means any information that identifies or describes a
+40 person, including, but not limited to, the person’s travel pattern data, per-mile road usage charge
+41 account number, address, telephone number, electronic mail address, driver license or identification
+42 card number, registration plate number, photograph, recorded images, bank account information and
+43 credit card number.
+44 (c) “VIN summary report” means a monthly report by the department or a certified service
+45 provider that includes a summary of all vehicle identification numbers of subject vehicles and asso-
+[6]
+
+HB 4009
+1 ciated total metered use during the month. The report may not include location information.
+2 (2) Except as provided in subsections (3) and (4) of this section, personally identifiable informa-
+3 tion used for reporting metered use or for administrative services related to the collection of the
+4 per-mile road usage charge imposed under ORS 319.885 is confidential within the meaning of ORS
+5 192.355 (9)(a) and is a public record exempt from disclosure under ORS 192.311 to 192.478.
+6 (3)(a) The department, a certified service provider or a contractor for a certified service pro-
+7 vider may not disclose personally identifiable information used or developed for reporting metered
+8 use by a subject vehicle or for administrative services related to the collection of per-mile road us-
+9 age charges to any person except:
+10 (A) The [registered owner or lessee] taxpayer;
+11 (B) A financial institution, for the purpose of collecting per-mile road usage charges owed;
+12 (C) Employees of the department;
+13 (D) A certified service provider;
+14 (E) A contractor for a certified service provider, but only to the extent the contractor provides
+15 services directly related to the certified service provider’s agreement with the department;
+16 (F) An entity expressly approved by the taxpayer to receive the information [by the registered
+17 owner or lessee of the subject vehicle]; or
+18 (G) A police officer pursuant to a valid court order based on probable cause and issued at the
+19 request of a federal, state or local law enforcement agency in an authorized criminal investigation
+20 involving a person to whom the requested information pertains.
+21 (b) Disclosure under paragraph (a) of this subsection is limited to personally identifiable infor-
+22 mation necessary to the respective recipient’s function under ORS 319.883 to 319.946.
+23 (4)(a) Not later than 30 days after completion of payment processing, dispute resolution for a
+24 single reporting period or a noncompliance investigation, whichever is latest, the department and
+25 certified service providers shall destroy records of the location and daily metered use of subject
+26 vehicles.
+27 (b) Notwithstanding paragraph (a) of this subsection:
+28 (A) For purposes of traffic management and research, the department and certified service pro-
+29 viders may retain, aggregate and use information in the records after removing personally identifi-
+30 able information.
+31 (B) A certified service provider may retain the records if the [registered owner or lessee] tax-
+32 payer consents to the retention. Consent under this subparagraph does not entitle the department
+33 to obtain or use the records or the information contained in the records.
+34 (C) Monthly summaries of metered use by subject vehicles may be retained in VIN summary
+35 reports by the department and certified service providers.
+36 (5) The department, in any agreement with a certified service provider, shall provide for penal-
+37 ties if the certified service provider violates this section.
+38 SECTION 12. ORS 319.915, as amended by section 42, chapter 1, Oregon Laws 2025 (special
+39 session), is amended to read:
+40 319.915. (1) As used in this section:
+41 (a) “Certified service provider” means an entity that has entered into an agreement with the
+42 Department of Transportation under ORS 367.806 for reporting metered use by a subject vehicle or
+43 for administrative services related to the collection of per-mile road usage charges and authorized
+44 employees of the entity.
+45 (b) “Personally identifiable information” means any information that identifies or describes a
+[7]
+
+HB 4009
+1 person, including, but not limited to, the person’s travel pattern data, per-mile road usage charge
+2 account number, address, telephone number, electronic mail address, driver license or identification
+3 card number, registration plate number, photograph, recorded images, bank account information and
+4 credit card number.
+5 (c) “VIN summary report” means a monthly report by the department or a certified service
+6 provider that includes a summary of all vehicle identification numbers of subject vehicles and asso-
+7 ciated total metered use during the month. The report may not include location information.
+8 (2) Except as provided in subsections (3) and (4) of this section, personally identifiable informa-
+9 tion used for reporting metered use or for administrative services related to the collection of the
+10 per-mile road usage charge imposed under ORS 319.885 is confidential within the meaning of ORS
+11 192.355 (9)(a) and is a public record exempt from disclosure under ORS 192.311 to 192.478.
+12 (3)(a) The department, a certified service provider or a contractor for a certified service pro-
+13 vider may not disclose personally identifiable information used or developed for reporting metered
+14 use by a subject vehicle or for administrative services related to the collection of per-mile road us-
+15 age charges to any person except:
+16 (A) The [registered owner or lessee] taxpayer;
+17 (B) A financial institution, for the purpose of collecting per-mile road usage charges owed;
+18 (C) Employees of the department;
+19 (D) A certified service provider;
+20 (E) A contractor for a certified service provider, but only to the extent the contractor provides
+21 services directly related to the certified service provider’s agreement with the department;
+22 (F) An entity expressly approved by the taxpayer to receive the information [by the registered
+23 owner or lessee of the subject vehicle]; or
+24 (G) A police officer pursuant to a valid court order based on probable cause and issued at the
+25 request of a federal, state or local law enforcement agency in an authorized criminal investigation
+26 involving a person to whom the requested information pertains.
+27 (b) Disclosure under paragraph (a) of this subsection is limited to personally identifiable infor-
+28 mation necessary to the respective recipient’s function under ORS 319.883 to 319.946.
+29 (4)(a) Not later than 30 days after completion of payment processing, dispute resolution for a
+30 single reporting period or a noncompliance investigation, whichever is latest, the department and
+31 certified service providers shall destroy records of the location and daily metered use of subject
+32 vehicles.
+33 (b) Notwithstanding paragraph (a) of this subsection:
+34 (A) For purposes of traffic management and research, the department and certified service pro-
+35 viders may retain, aggregate and use information in the records after removing personally identifi-
+36 able information.
+37 (B) A certified service provider may retain the records if the [registered owner or lessee] tax-
+38 payer consents to the retention. Consent under this subparagraph does not entitle the department
+39 to obtain or use the records or the information contained in the records.
+40 (C) Monthly summaries of metered use by subject vehicles may be retained in VIN summary
+41 reports by the department and certified service providers.
+42 (5) In any agreement with a certified service provider, the department:
+43 (a) May not agree to the certified service provider retaining for administrative costs more than
+44 10 percent of any per-mile road usage charges the certified service provider collects under the
+45 agreement; and
+[8]
+
+HB 4009
+1 (b) Shall provide for penalties if the certified service provider violates this section.
+2 SECTION 13. ORS 319.920 is amended to read:
+3 319.920. (1) On a date determined by the Department of Transportation under ORS 319.910, [the
+4 registered owner or lessee of a subject vehicle] a taxpayer shall report the metered use by the subject
+5 vehicle and pay to the department the per-mile road usage charge due under ORS 319.885 for the
+6 reporting period.
+7 (2) Unless a [registered owner or lessee] taxpayer presents evidence in a manner approved by
+8 the department by rule that the subject vehicle has been driven outside this state, the department
+9 shall assume that all metered use reported represents miles driven by the subject vehicle on the
+10 highways in Oregon.
+11 SECTION 14. ORS 319.925 is amended to read:
+12 319.925. (1) The Department of Transportation shall provide a refund to a [registered owner or
+13 lessee] taxpayer that has overpaid the per-mile road usage charge imposed under ORS 319.885.
+14 (2) The department may provide by rule that the refund under this section be granted as a credit
+15 against future per-mile road usage charges incurred by the [registered owner or lessee] taxpayer.
+16 SECTION 15. ORS 319.930 is amended to read:
+17 319.930. (1) A [registered owner or lessee] taxpayer that has paid the per-mile road usage charge
+18 imposed under ORS 319.885 may apply to the Department of Transportation for a refund for metered
+19 use of a road, thoroughfare or property in private ownership.
+20 (2) An application for a refund under this section must be submitted to the department within
+21 15 months after the date on which the per-mile road usage charge for which a refund is claimed is
+22 paid.
+23 (3) The application required under this section shall be in a form prescribed by the department
+24 by rule and must include a signed statement by the applicant indicating the number of miles for
+25 which the refund is claimed.
+26 (4) The department may require the applicant for a refund under this section to furnish any in-
+27 formation the department considers necessary for processing the application.
+28 SECTION 16. The amendments to ORS 319.910, 319.915, 319.920, 319.925 and 319.930 by
+29 sections 10 to 15 of this 2026 Act become operative on July 1, 2027.
+30 SECTION 17. Section 18 of this 2026 Act is added to and made a part of ORS 319.883 to
+31 319.946.
+32 SECTION 18. (1) Not later than the date on which the report of the highway cost allo-
+33 cation study is due under ORS 366.506 (5), the Department of Transportation shall submit a
+34 report, in the manner provided in ORS 192.245, to the interim committees of the Legislative
+35 Assembly related to revenue and transportation, that recommends a rate for the per-mile
+36 road usage charge that would sustainably raise the revenue necessary to maintain the public
+37 highways of this state.
+38 (2) The report must include:
+39 (a) The total estimated cost for maintenance and preservation of Oregon’s transportation
+40 system, including for local systems; and
+41 (b) An estimate of the total vehicle miles driven on the public highways of this state
+42 based on the most recently available data on vehicle miles traveled.
+43 (3) For purposes of subsection (2)(a) of this section, the department shall establish met-
+44 rics by which maintenance and preservation needs are evaluated and reported, including but
+45 not limited to:
+[9]
+
+HB 4009
+1 (a) The desired pavement condition index for each road type;
+2 (b) Striping and painting standards;
+3 (c) Bridge replacement timelines; and
+4 (d) The department’s administrative costs associated with these maintenance and pres-
+5 ervation needs.
+6 SECTION 19. (1) Notwithstanding ORS 468.444, the Department of Environmental Quality
+7 may not provide a rebate under ORS 468.444 to any person.
+8 (2) Notwithstanding ORS 468.449:
+9 (a) The department shall allocate all moneys deposited in the Zero-Emission Incentive
+10 Fund to the provision of rebates through the Charge Ahead Oregon Program established
+11 under ORS 468.446.
+12 (b) The amount allocated under paragraph (a) of this subsection need not be reduced by
+13 any amount deposited in the Charge Ahead Zero-Emission Incentive Fund established under
+14 ORS 468.447.
+15 (3) Notwithstanding ORS 468.448, the department need not, as provided in ORS 468.448,
+16 audit, analyze or report upon the program established under ORS 468.444.
+17 SECTION 20. Section 19 of this 2026 Act is repealed on January 2, 2040.
+18 SECTION 21. ORS 468.446 is amended to read:
+19 468.446. (1) As used in this section:
+20 (a) “Charge ahead rebate” means a rebate for the purchase or lease of a new or used light-duty
+21 zero-emission vehicle or plug-in hybrid electric vehicle issued through the Charge Ahead Oregon
+22 Program established under this section.
+23 (b) “Low-income service provider” means an organization that provides health, dental, social,
+24 financial, energy conservation or other assistive services to low or moderate income individuals or
+25 low or moderate income households, as further defined by the Environmental Quality Commission
+26 by rule.
+27 (c) “Qualifying household” means a household with income that does not exceed 400 percent of
+28 federal poverty guidelines.
+29 (2) The Department of Environmental Quality shall establish a Charge Ahead Oregon Program
+30 for providing charge ahead rebates to qualifying households and low-income service providers. The
+31 Director of the Department of Environmental Quality may hire or contract with a third-party or-
+32 ganization to implement and serve as the administrator of the program required by this section.
+33 (3) The department may:
+34 (a) Specify design features for the program; and
+35 (b) Establish procedures to:
+36 (A) Prioritize available moneys to specific income levels or geographic areas; and
+37 (B) Limit the number of charge ahead rebates available.
+38 (4) An eligible purchaser or lessee of a new or used light-duty zero-emission vehicle or plug-in
+39 hybrid electric vehicle may apply for a charge ahead rebate for a portion of the purchase price or
+40 may choose to assign the charge ahead rebate to a vehicle dealer or lessor.
+41 (5) Rebates under the Charge Ahead Oregon Program shall be made from moneys credited to
+42 or deposited in the Zero-Emission Incentive Fund established under ORS 468.449 or the Charge
+43 Ahead Zero-Emission Incentive Fund established under ORS 468.447. A rebate may not be made un-
+44 less there are sufficient moneys available to make the rebate.
+45 (6) The department shall prescribe the rebate application procedure for eligible purchasers and
+[10]
+
+HB 4009
+1 lessees. All rebate applications must include a declaration under penalty of perjury in the form re-
+2 quired by ORCP 1 E.
+3 (7) Charge ahead rebates shall be:
+4 (a) Up to $7,500 for the purchase or lease of a new light-duty zero-emission vehicle or plug-in
+5 hybrid electric vehicle, but not less than $2,500; or
+6 (b) Up to $5,000 for the purchase or lease of a used light-duty zero-emission vehicle or plug-in
+7 hybrid electric vehicle, but not less than $2,500.
+8 (8)(a) To be eligible for a charge ahead rebate, a person requesting a rebate under the program
+9 must:
+10 [(a)] (A) Be a member of a qualifying household or be a low-income service provider.
+11 [(b)] (B) Purchase or lease a new or used light-duty zero-emission vehicle or plug-in hybrid
+12 electric vehicle. A lease must have a minimum term of 24 months.
+13 [(c)] (C) Provide proof of an intent to use the light-duty zero-emission vehicle or plug-in hybrid
+14 electric vehicle primarily on the public highways of this state, which may be satisfied by providing
+15 proof of registration of the vehicle in Oregon.
+16 [(d)] (D) Submit an application for a charge ahead rebate to the administrator of the program
+17 within six months of the date of purchase or six months from the date the lease begins.
+18 [(e)] (E) Retain registration of the light-duty zero-emission vehicle for a minimum of 24 consec-
+19 utive months following the date of purchase or following the date the lease begins.
+20 (b) An individual is not eligible for a charge ahead rebate if the individual, or a member
+21 of the individual’s qualifying household, has received a rebate under this section on or after
+22 the effective date of this 2026 Act.
+23 (9) A person that receives a charge ahead rebate may not make or allow any modifications to
+24 the vehicle’s emissions control systems, hardware, software calibrations or hybrid system.
+25 (10)(a) If a charge ahead rebate recipient sells the vehicle or terminates the vehicle lease before
+26 the end of 24 months, the charge ahead rebate recipient shall:
+27 (A) Notify the administrator of the program of the sale or termination; and
+28 (B) Reimburse the administrator for the rebate in a prorated amount based on the number of
+29 months that the rebate recipient owned or leased the qualifying vehicle.
+30 (b) The administrator may waive the reimbursement requirement under paragraph (a) of this
+31 subsection if the administrator determines that a waiver is appropriate given unforeseeable or una-
+32 voidable circumstances that gave rise to a need for the rebate recipient to sell the qualifying vehicle
+33 or terminate the qualifying vehicle lease before the end of 24 months.
+34 (11) Charge ahead rebate recipients may be requested to participate in ongoing research efforts.
+35 (12) The administrator of the program shall work to ensure timely payment of charge ahead re-
+36 bates with a goal of paying rebates within 60 days of receiving an application for a charge ahead
+37 rebate.
+38 (13) In establishing the Charge Ahead Oregon Program, the department shall provide opportu-
+39 nities for public comment by qualifying households, low-income service providers and other
+40 community-based organizations that are located in areas of this state that have elevated concen-
+41 trations of air contaminants attributable to motor vehicle emissions, relative to other areas of the
+42 state. The department shall use the comments received pursuant to this subsection to inform, eval-
+43 uate and strengthen the design of the program in order to increase the usage of light-duty zero-
+44 emission vehicles and plug-in hybrid electric vehicles.
+45 (14) The administrator of the program shall, throughout the course of implementing the program,
+[11]
+
+HB 4009
+1 conduct community outreach to qualifying households, low-income service providers and other
+2 community-based organizations that are located in areas of this state that have elevated concen-
+3 trations of air contaminants attributable to motor vehicle emissions, relative to other areas of the
+4 state, in order to:
+5 (a) Solicit feedback on program implementation; and
+6 (b) Take steps to ensure that the program is promoted effectively.
+7 (15) A vehicle dealer may advertise the Charge Ahead Oregon Program on the premises owned
+8 or operated by the vehicle dealer. If no moneys are available from the program or the program
+9 otherwise changes, a vehicle dealer who advertises the program may not be held liable for adver-
+10 tising false or misleading information.
+11 (16) A charge ahead rebate may not be combined with a rebate described in ORS 468.444.
+12 (17) An organization that the department has hired or contracted with to implement and serve
+13 as the administrator of the program may offer expanded financing mechanisms for program partic-
+14 ipants, including, but not limited to, a loan or loan-loss reserve credit enhancement program to in-
+15 crease consumer access to new or used light-duty zero-emission vehicles and plug-in hybrid electric
+16 vehicles.
+17 (18) The Environmental Quality Commission may adopt any rules necessary to carry out the
+18 provisions of this section.
+19 SECTION 22. No later than six months following the close of the third consecutive year
+20 in which moneys available to the Charge Ahead Oregon Program established under ORS
+21 468.446 are sufficient to provide a charge ahead rebate to each eligible person that applied for
+22 a rebate under the program, the Department of Environmental Quality shall provide a report
+23 to the committees or interim committees of the Legislative Assembly related to transporta-
+24 tion, in the manner provided in ORS 192.245, that includes:
+25 (1) A progress report on the Charge Ahead Oregon Program established under ORS
+26 468.446;
+27 (2) A recommendation on whether the moratorium on rebates provided under ORS
+28 468.444 should be lifted; and
+29 (3) A recommendation on whether the limit on charge ahead rebates imposed by the
+30 amendments to ORS 468.446 by section 21 of this 2026 Act should be revised or repealed.
+31 SECTION 23. This 2026 Act takes effect on the 91st day after the date on which the 2026
+32 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+33
+[12]

@@ -1,0 +1,2163 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4119
+Sponsored by Representative MUNOZ (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act would make it so that an MCO plan could not discriminate against any willing
+provider in its area. The Act would expand the kinds of providers who may treat injured workers
+as attending physicians. (Flesch Readability Score: 61.6).
+Requires for the certification of a managed care provider plan that the plan not discriminate
+against any willing provider within the geographical service area of the managed care organization.
+Includes nurse practitioners, physician associates, chiropractic physicians and naturopathic
+physicians in the definition of “attending physician” for purposes of the treatment of workers’
+compensable injuries.
+1 A BILL FOR AN ACT
+2 Relating to workers’ compensation; amending ORS 656.005, 656.214, 656.245, 656.250, 656.252, 656.260,
+3 656.262, 656.268, 656.325, 656.340, 656.726, 656.797, 657.170, 659A.043, 659A.046, 659A.049 and
+4 659A.063.
+5 Be It Enacted by the People of the State of Oregon:
+6 SECTION 1. ORS 656.260 is amended to read:
+7 656.260. (1) Any health care provider or group of medical service providers may make written
+8 application to the Director of the Department of Consumer and Business Services to become certi-
+9 fied to provide managed care to injured workers for injuries and diseases compensable under this
+10 chapter. However, nothing in this section authorizes an organization that is formed, owned or op-
+11 erated by an insurer or employer other than a health care provider to become certified to provide
+12 managed care.
+13 (2) Each application for certification shall be accompanied by a reasonable fee prescribed by the
+14 director. A certificate is valid for such period as the director may prescribe unless sooner revoked
+15 or suspended.
+16 (3) Application for certification shall be made in such form and manner and shall set forth such
+17 information regarding the proposed plan for providing services as the director may prescribe. The
+18 information shall include, but not be limited to:
+19 (a) A list of the names of all individuals who will provide services under the managed care plan,
+20 together with appropriate evidence of compliance with any licensing or certification requirements
+21 for that individual to practice in this state.
+22 (b) A description of the times, places and manner of providing services under the plan.
+23 (c) A description of the times, places and manner of providing other related optional services
+24 the applicants wish to provide.
+25 (d) Satisfactory evidence of ability to comply with any financial requirements to ensure delivery
+26 of service in accordance with the plan which the director may prescribe.
+27 (4) The director shall certify a health care provider or group of medical service providers to
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 13
+
+HB 4119
+1 provide managed care under a plan if the director finds that the plan:
+2 (a) Proposes to provide medical and health care services required by this chapter in a manner
+3 that:
+4 (A) Meets quality, continuity and other treatment standards adopted by the health care provider
+5 or group of medical service providers in accordance with processes approved by the director; and
+6 (B) Is timely, effective and convenient for the worker.
+7 (b) Subject to any other provision of law, and with no effect on the provisions of ORS 441.055
+8 relating to the granting of medical staff privileges, does not discriminate against or exclude from
+9 participation in the plan:
+10 (A) Any category of medical service provider [providers and includes an adequate number of
+11 each category of medical service providers to give workers adequate flexibility to choose medical service
+12 providers from among those individuals who provide services under the plan. However, nothing in the
+13 requirements of this paragraph shall affect the provisions of ORS 441.055 relating to the granting of
+14 medical staff privileges]; or
+15 (B) Any provider located within the geographical service area of the managed care or-
+16 ganization who is willing to meet all the rules, terms and conditions regarding services per-
+17 formed by the managed care organization.
+18 (c) Provides appropriate financial incentives to reduce service costs and utilization without
+19 sacrificing the quality of service.
+20 (d) Provides adequate methods of peer review, service utilization review, quality assurance,
+21 contract review and dispute resolution to ensure appropriate treatment or to prevent inappropriate
+22 or excessive treatment, to exclude from participation in the plan those individuals who violate these
+23 treatment standards and to provide for the resolution of such medical disputes as the director con-
+24 siders appropriate. A majority of the members of each peer review, quality assurance, service utili-
+25 zation and contract review committee shall be physicians licensed to practice medicine by the
+26 Oregon Medical Board. As used in this paragraph:
+27 (A) “Contract review” means the methods and processes whereby the managed care organization
+28 monitors and enforces its contracts with participating providers for matters other than matters
+29 enumerated in subparagraphs (C), (D) and (E) of this paragraph.
+30 (B) “Dispute resolution” includes the resolution of disputes arising under peer review, service
+31 utilization review and quality assurance activities between insurers, self-insured employers, workers
+32 and medical and health care service providers, as required under the certified plan.
+33 (C) “Peer review” means evaluation or review of the performance of colleagues by a panel with
+34 similar types and degrees of expertise. Peer review requires participation of at least three physicians
+35 prior to final determination.
+36 (D) “Quality assurance” means activities to safeguard or improve the quality of medical care
+37 by assessing the quality of care or service and taking action to improve it.
+38 (E) “Service utilization review” means evaluation and determination of the reasonableness, ne-
+39 cessity and appropriateness of a worker’s use of medical care resources and the provision of any
+40 needed assistance to clinician or member, or both, to ensure appropriate use of resources. “Service
+41 utilization review” includes prior authorization, concurrent review, retrospective review, discharge
+42 planning and case management activities.
+43 (e) Provides a program involving cooperative efforts by the workers, the employer and the
+44 managed care organizations to promote workplace health and safety consultative and other services
+45 and early return to work for injured workers.
+[2]
+
+HB 4119
+1 (f) Provides a timely and accurate method of reporting to the director necessary information
+2 regarding medical and health care service cost and utilization to enable the director to determine
+3 the effectiveness of the plan.
+4 (g)(A) Authorizes workers to receive compensable medical treatment from a primary care phy-
+5 sician or chiropractic physician who is not a member of the managed care organization, but who
+6 maintains the worker’s medical records and is a physician with whom the worker has a documented
+7 history of treatment, if:
+8 (i) The primary care physician or chiropractic physician agrees to refer the worker to the
+9 managed care organization for any specialized treatment, including physical therapy, to be furnished
+10 by another provider that the worker may require;
+11 (ii) The primary care physician or chiropractic physician agrees to comply with all the rules,
+12 terms and conditions regarding services performed by the managed care organization; and
+13 (iii) The treatment is determined to be medically appropriate according to the service utilization
+14 review process of the managed care organization.
+15 (B) Nothing in this paragraph is intended to limit the worker’s right to change primary care
+16 physicians or chiropractic physicians prior to the filing of a workers’ compensation claim.
+17 (C) A chiropractic physician authorized to provide compensable medical treatment under this
+18 paragraph may provide services and authorize temporary disability compensation as provided in ORS
+19 656.005 [(12)(b)(B)] (12) [and 656.245 (2)(b). However, the managed care organization may authorize
+20 chiropractic physicians to provide medical services and authorize temporary disability payments beyond
+21 the periods established in ORS 656.005 (12)(b)(B) and 656.245 (2)(b)].
+22 (D) As used in this paragraph, “primary care physician” means a physician who is qualified to
+23 be an attending physician [referred to] as defined in ORS 656.005 [(12)(b)(A)] (12)(b) and who is a
+24 family practitioner, a general practitioner or an internal medicine practitioner.
+25 (h) Provides a written explanation for denial of participation in the managed care organization
+26 plan to any licensed health care provider that has been denied participation in the managed care
+27 organization plan.
+28 (i) Does not prohibit the injured worker’s attending physician from advocating for medical ser-
+29 vices and temporary disability benefits for the injured worker that are supported by the medical
+30 record.
+31 (j) Complies with any other requirement the director determines is necessary to provide quality
+32 medical services and health care to injured workers.
+33 (5)(a) Notwithstanding ORS 656.245 (5) and subsection (4)(g) of this section, a managed care or-
+34 ganization may deny or terminate the authorization of a primary care physician or chiropractic
+35 physician to serve as an attending physician under subsection (4)(g) of this section or of a nurse
+36 practitioner or physician associate to provide medical services as provided in ORS 656.245 (5) if the
+37 physician, nurse practitioner or physician associate, within two years prior to the worker’s enroll-
+38 ment in the plan:
+39 (A) Has been terminated from serving as an attending physician, nurse practitioner or physician
+40 associate for a worker enrolled in the plan for failure to meet the requirements of subsection (4)(g)
+41 of this section or of ORS 656.245 (5); or
+42 (B) Has failed to satisfy the credentialing standards for participating in the managed care or-
+43 ganization.
+44 (b) The director shall adopt by rule reporting standards for managed care organizations to re-
+45 port denials and terminations of the authorization of primary care physicians, chiropractic physi-
+[3]
+
+HB 4119
+1 cians, nurse practitioners and physician associates who are not members of the managed care
+2 organization to provide compensable medical treatment under ORS 656.245 (5) and subsection (4)(g)
+3 of this section. The director shall annually report to the Workers’ Compensation Management-Labor
+4 Advisory Committee the information reported to the director by managed care organizations under
+5 this paragraph.
+6 (6) The director shall refuse to certify or may revoke or suspend the certification of any health
+7 care provider or group of medical service providers to provide managed care if the director finds
+8 that:
+9 (a) The plan for providing medical or health care services fails to meet the requirements of this
+10 section.
+11 (b) Service under the plan is not being provided in accordance with the terms of a certified plan.
+12 (7) Any issue concerning the provision of medical services to injured workers subject to a
+13 managed care contract and service utilization review, quality assurance, dispute resolution, contract
+14 review and peer review activities as well as authorization of medical services to be provided by
+15 other than an attending physician pursuant to ORS 656.245 (2)(b) shall be subject to review by the
+16 director or the director’s designated representatives. The decision of the director is subject to re-
+17 view under ORS 656.704. Data generated by or received in connection with these activities, includ-
+18 ing written reports, notes or records of any such activities, or of any review thereof, shall be
+19 confidential, and shall not be disclosed except as considered necessary by the director in the ad-
+20 ministration of this chapter. The director may report professional misconduct to an appropriate li-
+21 censing board.
+22 (8) No data generated by service utilization review, quality assurance, dispute resolution or peer
+23 review activities and no physician profiles or data used to create physician profiles pursuant to this
+24 section or a review thereof shall be used in any action, suit or proceeding except to the extent
+25 considered necessary by the director in the administration of this chapter. The confidentiality pro-
+26 visions of this section shall not apply in any action, suit or proceeding arising out of or related to
+27 a contract between a managed care organization and a health care provider whose confidentiality
+28 is protected by this section.
+29 (9) A person participating in service utilization review, quality assurance, dispute resolution or
+30 peer review activities pursuant to this section shall not be examined as to any communication made
+31 in the course of such activities or the findings thereof, nor shall any person be subject to an action
+32 for civil damages for affirmative actions taken or statements made in good faith.
+33 (10) No person who participates in forming consortiums, collectively negotiating fees or other-
+34 wise solicits or enters into contracts in a good faith effort to provide medical or health care services
+35 according to the provisions of this section shall be examined or subject to administrative or civil
+36 liability regarding any such participation except pursuant to the director’s active supervision of
+37 such activities and the managed care organization. Before engaging in such activities, the person
+38 shall provide notice of intent to the director in a form prescribed by the director.
+39 (11) The provisions of this section shall not affect the confidentiality or admission in evidence
+40 of a claimant’s medical treatment records.
+41 (12) In consultation with the committees referred to in ORS 656.790 and 656.794, the director
+42 shall adopt such rules as may be necessary to carry out the provisions of this section.
+43 (13) As used in this section and ORS 656.245, 656.248 and 656.327, “medical service provider”
+44 means a person duly licensed to practice one or more of the healing arts in any country or in any
+45 state or territory or possession of the United States.
+[4]
+
+HB 4119
+1 (14) Notwithstanding ORS 656.005 (12) or subsection (4)(b) of this section, a managed care or-
+2 ganization contract may designate any medical service provider or category of providers as attend-
+3 ing physicians.
+4 (15) If a worker, insurer, self-insured employer, the attending physician or an authorized health
+5 care provider is dissatisfied with an action of the managed care organization regarding the provision
+6 of medical services pursuant to this chapter, peer review, service utilization review or quality as-
+7 surance activities, that person or entity must first apply to the director for administrative review
+8 of the matter before requesting a hearing. Such application must be made not later than the 60th
+9 day after the date the managed care organization has completed and issued its final decision.
+10 (16) Upon a request for administrative review, the director shall create a documentary record
+11 sufficient for judicial review. The director shall complete administrative review and issue a pro-
+12 posed order within a reasonable time. The proposed order of the director issued pursuant to this
+13 section shall become final and not subject to further review unless a written request for a hearing
+14 is filed with the director within 30 days of the mailing of the order to all parties.
+15 (17) At the contested case hearing, the order may be modified only if it is not supported by
+16 substantial evidence in the record or reflects an error of law. No new medical evidence or issues
+17 shall be admitted. The dispute may also be remanded to the managed care organization for further
+18 evidence taking, correction or other necessary action if the Administrative Law Judge or director
+19 determines the record has been improperly, incompletely or otherwise insufficiently developed. De-
+20 cisions by the director regarding medical disputes are subject to review under ORS 656.704.
+21 (18) Any person who is dissatisfied with an action of a managed care organization other than
+22 regarding the provision of medical services pursuant to this chapter, peer review, service utilization
+23 review or quality assurance activities may request review under ORS 656.704.
+24 (19) Notwithstanding any other provision of law, original jurisdiction over contract review dis-
+25 putes is with the director. The director may resolve the matter by issuing an order subject to re-
+26 view under ORS 656.704, or the director may determine that the matter in dispute would be best
+27 addressed in another forum and so inform the parties.
+28 (20) The director shall conduct such investigations, audits and other administrative oversight in
+29 regard to managed care as the director deems necessary to carry out the purposes of this chapter.
+30 (21)(a) Except as otherwise provided in this chapter, only a managed care organization certified
+31 by the director may:
+32 (A) Restrict the choice of a health care provider or medical service provider by a worker;
+33 (B) Restrict the access of a worker to any category of medical service providers;
+34 (C) Restrict the ability of a medical service provider to refer a worker to another provider;
+35 (D) Require preauthorization or precertification to determine the necessity of medical services
+36 or treatment; or
+37 (E) Restrict treatment provided to a worker by a medical service provider to specific treatment
+38 guidelines, protocols or standards.
+39 (b) The provisions of paragraph (a) of this subsection do not apply to:
+40 (A) A medical service provider who refers a worker to another medical service provider;
+41 (B) Use of an on-site medical service facility by the employer to assess the nature or extent of
+42 a worker’s injury; or
+43 (C) Treatment provided by a medical service provider or transportation of a worker in an
+44 emergency or trauma situation.
+45 (c) Except as provided in paragraph (b) of this subsection, if the director finds that a person has
+[5]
+
+HB 4119
+1 violated a provision of paragraph (a) of this subsection, the director may impose a sanction that may
+2 include a civil penalty not to exceed $2,000 for each violation.
+3 (d) If violation of paragraph (a) of this subsection is repeated or willful, the director may order
+4 the person committing the violation to cease and desist from making any future communications
+5 with injured workers or medical service providers or from taking any other actions that directly or
+6 indirectly affect the delivery of medical services provided under this chapter.
+7 (e)(A) Penalties imposed under this subsection are subject to ORS 656.735 (4) to (6) and 656.740.
+8 (B) Cease and desist orders issued under this subsection are subject to ORS 656.740.
+9 SECTION 2. ORS 656.005 is amended to read:
+10 656.005. (1) “Average weekly wage” means the Oregon average weekly wage in covered em-
+11 ployment, as determined by the Employment Department, for the last quarter of the calendar year
+12 preceding the fiscal year in which the injury occurred.
+13 (2)(a) “Beneficiary” means an injured worker, and the spouse in a marriage, child or dependent
+14 of a worker, who is entitled to receive payments under this chapter.
+15 (b) “Beneficiary” does not include a person who intentionally causes the compensable injury to
+16 or death of an injured worker.
+17 (3) “Board” means the Workers’ Compensation Board.
+18 (4) “Carrier-insured employer” means an employer who provides workers’ compensation cover-
+19 age with the State Accident Insurance Fund Corporation or an insurer authorized under ORS
+20 chapter 731 to transact workers’ compensation insurance in this state.
+21 (5) “Child” means a child of an injured worker, including:
+22 (a) A posthumous child;
+23 (b) A child legally adopted before the injury;
+24 (c) A child toward whom the worker stands in loco parentis;
+25 (d) A child born out of wedlock;
+26 (e) A stepchild, if the stepchild was, at the time of the injury, a member of the worker’s family
+27 and substantially dependent upon the worker for support; and
+28 (f) A child of any age who was incapacitated at the time of the accident and thereafter remains
+29 incapacitated and substantially dependent on the worker for support.
+30 (6) “Claim” means a written request for compensation from a subject worker or someone on the
+31 worker’s behalf, or any compensable injury of which a subject employer has notice or knowledge.
+32 (7)(a) A “compensable injury” is an accidental injury, or accidental injury to prosthetic appli-
+33 ances, arising out of and in the course of employment requiring medical services or resulting in
+34 disability or death. An injury is accidental if the result is an accident, whether or not due to acci-
+35 dental means, if it is established by medical evidence supported by objective findings, subject to the
+36 following limitations:
+37 (A) An injury or disease is not compensable as a consequence of a compensable injury unless
+38 the compensable injury is the major contributing cause of the consequential condition.
+39 (B) If an otherwise compensable injury combines at any time with a preexisting condition to
+40 cause or prolong disability or a need for treatment, the combined condition is compensable only if,
+41 so long as and to the extent that the otherwise compensable injury is the major contributing cause
+42 of the disability of the combined condition or the major contributing cause of the need for treatment
+43 of the combined condition.
+44 (b) “Compensable injury” does not include:
+45 (A) Injury to any active participant in assaults or combats that are not connected to the job
+[6]
+
+HB 4119
+1 assignment and that amount to a deviation from customary duties;
+2 (B) Injury incurred while engaging in or performing, or as the result of engaging in or per-
+3 forming, any recreational or social activities primarily for the worker’s personal pleasure; or
+4 (C) Injury the major contributing cause of which is demonstrated to be by a preponderance of
+5 the evidence the injured worker’s consumption of alcoholic beverages or cannabis or the unlawful
+6 consumption of any controlled substance, unless the employer permitted, encouraged or had actual
+7 knowledge of such consumption.
+8 (c) A “disabling compensable injury” is an injury that entitles the worker to compensation for
+9 disability or death. An injury is not disabling if no temporary benefits are due and payable, unless
+10 there is a reasonable expectation that permanent disability will result from the injury.
+11 (d) A “nondisabling compensable injury” is any injury that requires medical services only.
+12 (8) “Compensation” includes all benefits, including medical services, provided for a compensable
+13 injury to a subject worker or the worker’s beneficiaries by an insurer or self-insured employer pur-
+14 suant to this chapter.
+15 (9) “Department” means the Department of Consumer and Business Services.
+16 (10) “Dependent” means any of the following individuals who, at the time of an accident, de-
+17 pended in whole or in part for the individual’s support on the earnings of a worker who dies as a
+18 result of an injury:
+19 (a) A parent of a worker or the parent’s spouse or domestic partner;
+20 (b) A grandparent of a worker or the grandparent’s spouse or domestic partner;
+21 (c) A grandchild of a worker or the grandchild’s spouse or domestic partner;
+22 (d) A sibling or stepsibling of a worker or the sibling’s or stepsibling’s spouse or domestic
+23 partner; and
+24 (e) Any individual related by blood or affinity whose close association with a worker is the
+25 equivalent of a family relationship.
+26 (11) “Director” means the Director of the Department of Consumer and Business Services.
+27 (12)(a) [“Doctor” or “physician” ] “Doctor,” “physician,” “nurse practitioner” or “physician
+28 associate” means a person duly licensed to practice one or more of the healing arts in any country
+29 or in any state, territory or possession of the United States within the limits of the license of the
+30 licensee.
+31 (b) Except as otherwise provided for workers subject to a managed care contract, “attending
+32 physician” means a doctor, physician, nurse practitioner or physician associate who is primarily
+33 responsible for the treatment of a worker’s compensable injury and who is:
+34 (A) A physician licensed under ORS 677.100 to 677.228 by the Oregon Medical Board;[, or]
+35 (B) A podiatric physician and surgeon licensed under ORS 677.805 to 677.840 by the Oregon
+36 Medical Board;[,]
+37 (C) An oral and maxillofacial surgeon licensed by the Oregon Board of Dentistry; [or]
+38 (D) A nurse practitioner licensed under ORS 678.375 to 678.390 or a similarly licensed
+39 nurse practitioner in any country or in any state, territory or possession of the United
+40 States;
+41 (E) A physician associate licensed by the Oregon Medical Board in accordance with ORS
+42 677.505 to 677.525 or a similarly licensed physician associate in any country or in any state,
+43 territory or possession of the United States;
+44 (F) A doctor or physician licensed by the State Board of Chiropractic Examiners for the
+45 State of Oregon under ORS chapter 684 or a similarly licensed doctor or physician in any
+[7]
+
+HB 4119
+1 country or in any state, territory or possession of the United States;
+2 (G) A doctor of naturopathy or naturopathic physician licensed by the Oregon Board of
+3 Naturopathic Medicine under ORS chapter 685 or a similarly licensed doctor or physician in
+4 any country or in any state, territory or possession of the United States; or
+5 (H) A similarly licensed doctor in any country or in any state, territory or possession of the
+6 United States.[;]
+7 [(B) For a cumulative total of 60 days from the first visit on the initial claim or for a cumulative
+8 total of 18 visits, whichever occurs first, to any of the medical service providers listed in this subpar-
+9 agraph, a:]
+10 [(i) Doctor or physician licensed by the State Board of Chiropractic Examiners for the State of
+11 Oregon under ORS chapter 684 or a similarly licensed doctor or physician in any country or in any
+12 state, territory or possession of the United States; or]
+13 [(ii) Doctor of naturopathy or naturopathic physician licensed by the Oregon Board of Naturopathic
+14 Medicine under ORS chapter 685 or a similarly licensed doctor or physician in any country or in any
+15 state, territory or possession of the United States; or]
+16 [(C) For a cumulative total of 180 days from the first visit on the initial claim, a physician associate
+17 licensed by the Oregon Medical Board in accordance with ORS 677.505 to 677.525 or a similarly li-
+18 censed physician associate in any country or in any state, territory or possession of the United
+19 States.]
+20 (c) Except as otherwise provided for workers subject to a managed care contract, “attending
+21 physician” does not include a physician who provides care in a hospital emergency room and refers
+22 the injured worker to a primary care physician for follow-up care and treatment.
+23 (d) “Consulting physician” means a doctor or physician who examines a worker or the worker’s
+24 medical record to advise the attending physician [or nurse practitioner authorized to provide
+25 compensable medical services under ORS 656.245] regarding treatment of a worker’s compensable
+26 injury.
+27 (13)(a) “Employer” means any person, including receiver, administrator, executor or trustee, and
+28 the state, state agencies, counties, municipal corporations, school districts and other public corpo-
+29 rations or political subdivisions, that contracts to pay a remuneration for the services of any
+30 worker.
+31 (b) Notwithstanding paragraph (a) of this subsection, for purposes of this chapter, the client of
+32 a temporary service provider is not the employer of temporary workers provided by the temporary
+33 service provider.
+34 (c) As used in paragraph (b) of this subsection, “temporary service provider” has the meaning
+35 given that term in ORS 656.850.
+36 (d) For the purposes of this chapter, “subject employer” means an employer that is subject to
+37 this chapter as provided in ORS 656.023.
+38 (14) “Insurer” means the State Accident Insurance Fund Corporation or an insurer authorized
+39 under ORS chapter 731 to transact workers’ compensation insurance in this state or an assigned
+40 claims agent selected by the director under ORS 656.054.
+41 (15) “Consumer and Business Services Fund” means the fund created by ORS 705.145.
+42 (16) “Incapacitated” means an individual is physically or mentally unable to earn a livelihood.
+43 (17) “Medically stationary” means that no further material improvement would reasonably be
+44 expected from medical treatment or the passage of time.
+45 (18) “Noncomplying employer” means a subject employer that has failed to comply with ORS
+[8]
+
+HB 4119
+1 656.017.
+2 (19) “Objective findings” in support of medical evidence are verifiable indications of injury or
+3 disease that may include, but are not limited to, range of motion, atrophy, muscle strength and
+4 palpable muscle spasm. “Objective findings” does not include physical findings or subjective re-
+5 sponses to physical examinations that are not reproducible, measurable or observable.
+6 (20) “Palliative care” means medical service rendered to reduce or moderate temporarily the
+7 intensity of an otherwise stable medical condition, but does not include those medical services ren-
+8 dered to diagnose, heal or permanently alleviate or eliminate a medical condition.
+9 (21) “Party” means a claimant for compensation, the employer of the injured worker at the time
+10 of injury and the insurer, if any, of the employer.
+11 (22) “Payroll” means a record of wages payable to workers for their services and includes
+12 commissions, value of exchange labor and the reasonable value of board, rent, housing, lodging or
+13 similar advantage received from the employer. However, “payroll” does not include overtime pay,
+14 vacation pay, bonus pay, tips, amounts payable under profit-sharing agreements or bonus payments
+15 to reward workers for safe working practices. Bonus pay is limited to payments that are not antic-
+16 ipated under the contract of employment and that are paid at the sole discretion of the employer.
+17 The exclusion from payroll of bonus payments to reward workers for safe working practices is only
+18 for the purpose of calculations based on payroll to determine premium for workers’ compensation
+19 insurance, and does not affect any other calculation or determination based on payroll for the pur-
+20 poses of this chapter.
+21 (23) “Person” includes a partnership, joint venture, association, limited liability company and
+22 corporation.
+23 (24)(a) “Preexisting condition” means, for all industrial injury claims, any injury, disease, con-
+24 genital abnormality, personality disorder or similar condition that contributes to disability or need
+25 for treatment, provided that:
+26 (A) Except for claims in which a preexisting condition is arthritis or an arthritic condition, the
+27 worker has been diagnosed with the condition, or has obtained medical services for the symptoms
+28 of the condition regardless of diagnosis; and
+29 (B)(i) In claims for an initial injury or omitted condition, the diagnosis or treatment precedes
+30 the initial injury;
+31 (ii) In claims for a new medical condition, the diagnosis or treatment precedes the onset of the
+32 new medical condition; or
+33 (iii) In claims for a worsening pursuant to ORS 656.273 or 656.278, the diagnosis or treatment
+34 precedes the onset of the worsened condition.
+35 (b) “Preexisting condition” means, for all occupational disease claims, any injury, disease, con-
+36 genital abnormality, personality disorder or similar condition that contributes to disability or need
+37 for treatment and that precedes the onset of the claimed occupational disease, or precedes a claim
+38 for worsening in such claims pursuant to ORS 656.273 or 656.278.
+39 (c) For the purposes of industrial injury claims, a condition does not contribute to disability or
+40 need for treatment if the condition merely renders the worker more susceptible to the injury.
+41 (25) “Self-insured employer” means an employer or group of employers certified under ORS
+42 656.430 as meeting the qualifications set out by ORS 656.407.
+43 (26) “State Accident Insurance Fund Corporation” and “corporation” mean the State Accident
+44 Insurance Fund Corporation created under ORS 656.752.
+45 (27) “Wages” means the money rate at which the service rendered is recompensed under the
+[9]
+
+HB 4119
+1 contract of hiring in force at the time of the accident, including reasonable value of board, rent,
+2 housing, lodging or similar advantage received from the employer, and includes the amount of tips
+3 required to be reported by the employer pursuant to section 6053 of the Internal Revenue Code of
+4 1954, as amended, and the regulations promulgated pursuant thereto, or the amount of actual tips
+5 reported, whichever amount is greater. The State Accident Insurance Fund Corporation may estab-
+6 lish assumed minimum and maximum wages, in conformity with recognized insurance principles, at
+7 which any worker shall be carried upon the payroll of the employer for the purpose of determining
+8 the premium of the employer.
+9 (28)(a) “Worker” means any person, other than an independent contractor, who engages to fur-
+10 nish services for a remuneration, including a minor whether lawfully or unlawfully employed and
+11 salaried, elected and appointed officials of the state, state agencies, counties, cities, school districts
+12 and other public corporations, but does not include any person whose services are performed as an
+13 adult in custody or ward of a state institution or as part of the eligibility requirements for a general
+14 or public assistance grant.
+15 (b) For the purpose of determining entitlement to temporary disability benefits or permanent
+16 total disability benefits under this chapter, “worker” does not include a person who has withdrawn
+17 from the workforce during the period for which such benefits are sought.
+18 (c) For the purposes of this chapter, “subject worker” means a worker who is subject to this
+19 chapter as provided in ORS 656.027.
+20 (29) “Independent contractor” has the meaning given that term in ORS 670.600.
+21 SECTION 3. ORS 656.005, as amended by section 22, chapter 78, Oregon Laws 2025, is amended
+22 to read:
+23 656.005. (1) “Average weekly wage” means the Oregon average weekly wage in covered em-
+24 ployment, as determined by the Employment Department, for the last quarter of the calendar year
+25 preceding the fiscal year in which the injury occurred.
+26 (2)(a) “Beneficiary” means an injured worker, and the spouse in a marriage, child or dependent
+27 of a worker, who is entitled to receive payments under this chapter.
+28 (b) “Beneficiary” does not include a person who intentionally causes the compensable injury to
+29 or death of an injured worker.
+30 (3) “Board” means the Workers’ Compensation Board.
+31 (4) “Carrier-insured employer” means an employer who provides workers’ compensation cover-
+32 age with the State Accident Insurance Fund Corporation or an insurer authorized under ORS
+33 chapter 731 to transact workers’ compensation insurance in this state.
+34 (5) “Child” means a child of an injured worker, including:
+35 (a) A posthumous child;
+36 (b) A child legally adopted before the injury;
+37 (c) A child toward whom the worker stands in loco parentis;
+38 (d) A child born out of wedlock;
+39 (e) A stepchild, if the stepchild was, at the time of the injury, a member of the worker’s family
+40 and substantially dependent upon the worker for support; and
+41 (f) A child of any age who was incapacitated at the time of the accident and thereafter remains
+42 incapacitated and substantially dependent on the worker for support.
+43 (6) “Claim” means a written request for compensation from a subject worker or someone on the
+44 worker’s behalf, or any compensable injury of which a subject employer has notice or knowledge.
+45 (7)(a) A “compensable injury” is an accidental injury, or accidental injury to prosthetic appli-
+[10]
+
+HB 4119
+1 ances, arising out of and in the course of employment requiring medical services or resulting in
+2 disability or death. An injury is accidental if the result is an accident, whether or not due to acci-
+3 dental means, if it is established by medical evidence supported by objective findings, subject to the
+4 following limitations:
+5 (A) An injury or disease is not compensable as a consequence of a compensable injury unless
+6 the compensable injury is the major contributing cause of the consequential condition.
+7 (B) If an otherwise compensable injury combines at any time with a preexisting condition to
+8 cause or prolong disability or a need for treatment, the combined condition is compensable only if,
+9 so long as and to the extent that the otherwise compensable injury is the major contributing cause
+10 of the disability of the combined condition or the major contributing cause of the need for treatment
+11 of the combined condition.
+12 (b) “Compensable injury” does not include:
+13 (A) Injury to any active participant in assaults or combats that are not connected to the job
+14 assignment and that amount to a deviation from customary duties;
+15 (B) Injury incurred while engaging in or performing, or as the result of engaging in or per-
+16 forming, any recreational or social activities primarily for the worker’s personal pleasure; or
+17 (C) Injury the major contributing cause of which is demonstrated to be by a preponderance of
+18 the evidence the injured worker’s consumption of alcoholic beverages or cannabis or the unlawful
+19 consumption of any controlled substance, unless the employer permitted, encouraged or had actual
+20 knowledge of such consumption.
+21 (c) A “disabling compensable injury” is an injury that entitles the worker to compensation for
+22 disability or death. An injury is not disabling if no temporary benefits are due and payable, unless
+23 there is a reasonable expectation that permanent disability will result from the injury.
+24 (d) A “nondisabling compensable injury” is any injury that requires medical services only.
+25 (8) “Compensation” includes all benefits, including medical services, provided for a compensable
+26 injury to a subject worker or the worker’s beneficiaries by an insurer or self-insured employer pur-
+27 suant to this chapter.
+28 (9) “Department” means the Department of Consumer and Business Services.
+29 (10) “Dependent” means any of the following individuals who, at the time of an accident, de-
+30 pended in whole or in part for the individual’s support on the earnings of a worker who dies as a
+31 result of an injury:
+32 (a) A parent of a worker or the parent’s spouse or domestic partner;
+33 (b) A grandparent of a worker or the grandparent’s spouse or domestic partner;
+34 (c) A grandchild of a worker or the grandchild’s spouse or domestic partner;
+35 (d) A sibling or stepsibling of a worker or the sibling’s or stepsibling’s spouse or domestic
+36 partner; and
+37 (e) Any individual related by blood or affinity whose close association with a worker is the
+38 equivalent of a family relationship.
+39 (11) “Director” means the Director of the Department of Consumer and Business Services.
+40 (12)(a) [“Doctor” or “physician” ] “Doctor,” “physician,” “nurse practitioner” or “physician
+41 associate” means a person duly licensed to practice one or more of the healing arts in any country
+42 or in any state, territory or possession of the United States within the limits of the license of the
+43 licensee.
+44 (b) Except as otherwise provided for workers subject to a managed care contract, “attending
+45 physician” means a doctor, physician, nurse practitioner or physician associate who is primarily
+[11]
+
+HB 4119
+1 responsible for the treatment of a worker’s compensable injury and who is:
+2 (A) A physician licensed under ORS 677.100 to 677.228 by the Oregon Medical Board;[, or]
+3 (B) A podiatric physician and surgeon licensed under ORS 677.805 to 677.840 by the Oregon
+4 Medical Board;[,]
+5 (C) An oral and maxillofacial surgeon licensed by the Oregon Board of Dentistry; [or]
+6 (D) A nurse practitioner licensed under ORS 678.375 to 678.390 or a similarly licensed
+7 nurse practitioner in any country or in any state, territory or possession of the United
+8 States;
+9 (E) A physician associate licensed by the Oregon Medical Board in accordance with ORS
+10 677.505 to 677.525 or a similarly licensed physician associate in any country or in any state,
+11 territory or possession of the United States;
+12 (F) A doctor or physician licensed by the State Board of Chiropractic Examiners for the
+13 State of Oregon under ORS chapter 684 or a similarly licensed doctor or physician in any
+14 country or in any state, territory or possession of the United States;
+15 (G) A doctor of naturopathy or naturopathic physician licensed by the Oregon Board of
+16 Naturopathic Medicine under ORS chapter 685 or a similarly licensed doctor or physician in
+17 any country or in any state, territory or possession of the United States; or
+18 (H) A similarly licensed doctor in any country or in any state, territory or possession of the
+19 United States.[;]
+20 [(B) For a cumulative total of 60 days from the first visit on the initial claim or for a cumulative
+21 total of 18 visits, whichever occurs first, to any of the medical service providers listed in this subpar-
+22 agraph, a:]
+23 [(i) Doctor or physician licensed by the State Board of Chiropractic Examiners for the State of
+24 Oregon under ORS chapter 684 or a similarly licensed doctor or physician in any country or in any
+25 state, territory or possession of the United States; or]
+26 [(ii) Doctor of naturopathy or naturopathic physician licensed by the Oregon Board of Naturopathic
+27 Medicine under ORS chapter 685 or a similarly licensed doctor or physician in any country or in any
+28 state, territory or possession of the United States; or]
+29 [(C) For a cumulative total of 180 days from the first visit on the initial claim, a physician associate
+30 licensed by the Oregon Medical Board in accordance with ORS 677.505 to 677.525 or a similarly li-
+31 censed physician associate in any country or in any state, territory or possession of the United
+32 States.]
+33 (c) Except as otherwise provided for workers subject to a managed care contract, “attending
+34 physician” does not include a physician who provides care in a hospital emergency room and refers
+35 the injured worker to a primary care physician for follow-up care and treatment.
+36 (d) “Consulting physician” means a doctor or physician who examines a worker or the worker’s
+37 medical record to advise the attending physician [or nurse practitioner authorized to provide
+38 compensable medical services under ORS 656.245] regarding treatment of a worker’s compensable
+39 injury.
+40 (13)(a) “Employer” means any person, including receiver, administrator, executor or trustee, and
+41 the state, state agencies, counties, municipal corporations, school districts and other public corpo-
+42 rations or political subdivisions, that contracts to pay a remuneration for the services of any
+43 worker.
+44 (b) Notwithstanding paragraph (a) of this subsection, for purposes of this chapter, the client of
+45 a temporary service provider is not the employer of temporary workers provided by the temporary
+[12]
+
+HB 4119
+1 service provider.
+2 (c) As used in paragraph (b) of this subsection, “temporary service provider” has the meaning
+3 given that term in ORS 656.849.
+4 (d) For the purposes of this chapter, “subject employer” means an employer that is subject to
+5 this chapter as provided in ORS 656.023.
+6 (14) “Insurer” means the State Accident Insurance Fund Corporation or an insurer authorized
+7 under ORS chapter 731 to transact workers’ compensation insurance in this state or an assigned
+8 claims agent selected by the director under ORS 656.054.
+9 (15) “Consumer and Business Services Fund” means the fund created by ORS 705.145.
+10 (16) “Incapacitated” means an individual is physically or mentally unable to earn a livelihood.
+11 (17) “Medically stationary” means that no further material improvement would reasonably be
+12 expected from medical treatment or the passage of time.
+13 (18) “Noncomplying employer” means a subject employer that has failed to comply with ORS
+14 656.017.
+15 (19) “Objective findings” in support of medical evidence are verifiable indications of injury or
+16 disease that may include, but are not limited to, range of motion, atrophy, muscle strength and
+17 palpable muscle spasm. “Objective findings” does not include physical findings or subjective re-
+18 sponses to physical examinations that are not reproducible, measurable or observable.
+19 (20) “Palliative care” means medical service rendered to reduce or moderate temporarily the
+20 intensity of an otherwise stable medical condition, but does not include those medical services ren-
+21 dered to diagnose, heal or permanently alleviate or eliminate a medical condition.
+22 (21) “Party” means a claimant for compensation, the employer of the injured worker at the time
+23 of injury and the insurer, if any, of the employer.
+24 (22) “Payroll” means a record of wages payable to workers for their services and includes
+25 commissions, value of exchange labor and the reasonable value of board, rent, housing, lodging or
+26 similar advantage received from the employer. However, “payroll” does not include overtime pay,
+27 vacation pay, bonus pay, tips, amounts payable under profit-sharing agreements or bonus payments
+28 to reward workers for safe working practices. Bonus pay is limited to payments that are not antic-
+29 ipated under the contract of employment and that are paid at the sole discretion of the employer.
+30 The exclusion from payroll of bonus payments to reward workers for safe working practices is only
+31 for the purpose of calculations based on payroll to determine premium for workers’ compensation
+32 insurance, and does not affect any other calculation or determination based on payroll for the pur-
+33 poses of this chapter.
+34 (23) “Person” includes a partnership, joint venture, association, limited liability company and
+35 corporation.
+36 (24)(a) “Preexisting condition” means, for all industrial injury claims, any injury, disease, con-
+37 genital abnormality, personality disorder or similar condition that contributes to disability or need
+38 for treatment, provided that:
+39 (A) Except for claims in which a preexisting condition is arthritis or an arthritic condition, the
+40 worker has been diagnosed with the condition, or has obtained medical services for the symptoms
+41 of the condition regardless of diagnosis; and
+42 (B)(i) In claims for an initial injury or omitted condition, the diagnosis or treatment precedes
+43 the initial injury;
+44 (ii) In claims for a new medical condition, the diagnosis or treatment precedes the onset of the
+45 new medical condition; or
+[13]
+
+HB 4119
+1 (iii) In claims for a worsening pursuant to ORS 656.273 or 656.278, the diagnosis or treatment
+2 precedes the onset of the worsened condition.
+3 (b) “Preexisting condition” means, for all occupational disease claims, any injury, disease, con-
+4 genital abnormality, personality disorder or similar condition that contributes to disability or need
+5 for treatment and that precedes the onset of the claimed occupational disease, or precedes a claim
+6 for worsening in such claims pursuant to ORS 656.273 or 656.278.
+7 (c) For the purposes of industrial injury claims, a condition does not contribute to disability or
+8 need for treatment if the condition merely renders the worker more susceptible to the injury.
+9 (25) “Self-insured employer” means an employer or group of employers certified under ORS
+10 656.430 as meeting the qualifications set out by ORS 656.407.
+11 (26) “State Accident Insurance Fund Corporation” and “corporation” mean the State Accident
+12 Insurance Fund Corporation created under ORS 656.752.
+13 (27) “Wages” means the money rate at which the service rendered is recompensed under the
+14 contract of hiring in force at the time of the accident, including reasonable value of board, rent,
+15 housing, lodging or similar advantage received from the employer, and includes the amount of tips
+16 required to be reported by the employer pursuant to section 6053 of the Internal Revenue Code of
+17 1954, as amended, and the regulations promulgated pursuant thereto, or the amount of actual tips
+18 reported, whichever amount is greater. The State Accident Insurance Fund Corporation may estab-
+19 lish assumed minimum and maximum wages, in conformity with recognized insurance principles, at
+20 which any worker shall be carried upon the payroll of the employer for the purpose of determining
+21 the premium of the employer.
+22 (28)(a) “Worker” means any person, other than an independent contractor, who engages to fur-
+23 nish services for a remuneration, including a minor whether lawfully or unlawfully employed and
+24 salaried, elected and appointed officials of the state, state agencies, counties, cities, school districts
+25 and other public corporations, but does not include any person whose services are performed as an
+26 adult in custody or ward of a state institution or as part of the eligibility requirements for a general
+27 or public assistance grant.
+28 (b) For the purpose of determining entitlement to temporary disability benefits or permanent
+29 total disability benefits under this chapter, “worker” does not include a person who has withdrawn
+30 from the workforce during the period for which such benefits are sought.
+31 (c) For the purposes of this chapter, “subject worker” means a worker who is subject to this
+32 chapter as provided in ORS 656.027.
+33 (29) “Independent contractor” has the meaning given that term in ORS 670.600.
+34 SECTION 4. ORS 656.214 is amended to read:
+35 656.214. (1) As used in this section:
+36 (a) “Impairment” means the loss of use or function of a body part or system due to the
+37 compensable industrial injury or occupational disease determined in accordance with the standards
+38 provided under ORS 656.726, expressed as a percentage of the whole person.
+39 (b) “Loss” includes permanent and complete or partial loss of use.
+40 (c) “Permanent partial disability” means:
+41 (A) Permanent impairment resulting from the compensable industrial injury or occupational
+42 disease; or
+43 (B) Permanent impairment and work disability resulting from the compensable industrial injury
+44 or occupational disease.
+45 (d) “Regular work” means the job the worker held at injury.
+[14]
+
+HB 4119
+1 (e) “Work disability” means impairment modified by age, education and adaptability to perform
+2 a given job.
+3 (2) When permanent partial disability results from a compensable injury or occupational disease,
+4 benefits shall be awarded as follows:
+5 (a) If the worker has been released to regular work by the attending physician [or nurse prac-
+6 titioner authorized to provide compensable medical services under ORS 656.245] or has returned to
+7 regular work [at the job held at the time of injury], the award shall be for impairment only. Impair-
+8 ment shall be determined in accordance with the standards provided by the Director of the Depart-
+9 ment of Consumer and Business Services pursuant to ORS 656.726 (4). Impairment benefits are
+10 determined by multiplying the impairment value times 100 times the average weekly wage as defined
+11 by ORS 656.005.
+12 (b) If the worker has not been released to regular work by the attending physician [or nurse
+13 practitioner authorized to provide compensable medical services under ORS 656.245] or has not re-
+14 turned to regular work [at the job held at the time of injury], the award shall be for impairment and
+15 work disability. Work disability shall be determined in accordance with the standards provided by
+16 the director pursuant to ORS 656.726 (4). Impairment shall be determined as provided in paragraph
+17 (a) of this subsection. Work disability benefits shall be determined by multiplying the impairment
+18 value, as modified by the factors of age, education and adaptability to perform a given job, times
+19 150 times the worker’s weekly wage for the job at injury as calculated under ORS 656.210 (2). The
+20 factor for the worker’s weekly wage used for the determination of the work disability may be no
+21 more than 133 percent or no less than 50 percent of the average weekly wage as defined in ORS
+22 656.005.
+23 (3) Impairment benefits awarded under subsection (2)(a) of this section shall be expressed as a
+24 percentage of the whole person. Impairment benefits for the following body parts may not exceed:
+25 (a) For the loss of one arm at or above the elbow joint, 60 percent.
+26 (b) For the loss of one forearm at or above the wrist joint, or the loss of one hand, 47 percent.
+27 (c) For the loss of one leg, at or above the knee joint, 47 percent.
+28 (d) For the loss of one foot, 42 percent.
+29 (e) For the loss of a great toe, six percent; for loss of any other toe, one percent.
+30 (f) For partial or complete loss of hearing in one ear, that proportion of 19 percent which the
+31 loss bears to normal monaural hearing.
+32 (g) For partial or complete loss of hearing in both ears, that proportion of 60 percent which the
+33 combined binaural hearing loss bears to normal combined binaural hearing. For the purpose of this
+34 paragraph, combined binaural hearing loss shall be calculated by taking seven times the hearing loss
+35 in the less damaged ear plus the hearing loss in the more damaged ear and dividing that amount
+36 by eight. In the case of individuals with compensable hearing loss involving both ears, either the
+37 method of calculation for monaural hearing loss or that for combined binaural hearing loss shall be
+38 used, depending upon which allows the greater award of impairment.
+39 (h) For partial or complete loss of vision of one eye, that proportion of 31 percent which the loss
+40 of monocular vision bears to normal monocular vision. For the purposes of this paragraph, the term
+41 “normal monocular vision” shall be considered as Snellen 20/20 for distance and Snellen 14/14 for
+42 near vision with full sensory field.
+43 (i) For partial loss of vision in both eyes, that proportion of 94 percent which the combined
+44 binocular visual loss bears to normal combined binocular vision. In all cases of partial loss of sight,
+45 the percentage of said loss shall be measured with maximum correction. For the purpose of this
+[15]
+
+HB 4119
+1 paragraph, combined binocular visual loss shall be calculated by taking three times the visual loss
+2 in the less damaged eye plus the visual loss in the more damaged eye and dividing that amount by
+3 four. In the case of individuals with compensable visual loss involving both eyes, either the method
+4 of calculation for monocular visual loss or that for combined binocular visual loss shall be used,
+5 depending upon which allows the greater award of impairment.
+6 (j) For the loss of a thumb, 15 percent.
+7 (k) For the loss of a first finger, eight percent; of a second finger, seven percent; of a third fin-
+8 ger, three percent; of a fourth finger, two percent.
+9 (4) The loss of one phalange of a thumb, including the adjacent epiphyseal region of the proximal
+10 phalange, is considered equal to the loss of one-half of a thumb. The loss of one phalange of a finger,
+11 including the adjacent epiphyseal region of the middle phalange, is considered equal to the loss of
+12 one-half of a finger. The loss of two phalanges of a finger, including the adjacent epiphyseal region
+13 of the proximal phalange of a finger, is considered equal to the loss of 75 percent of a finger. The
+14 loss of more than one phalange of a thumb, excluding the epiphyseal region of the proximal
+15 phalange, is considered equal to the loss of an entire thumb. The loss of more than two phalanges
+16 of a finger, excluding the epiphyseal region of the proximal phalange of a finger, is considered equal
+17 to the loss of an entire finger. A proportionate loss of use may be allowed for an uninjured finger
+18 or thumb where there has been a loss of effective opposition.
+19 (5) A proportionate loss of the hand may be allowed where impairment extends to more than one
+20 digit, in lieu of ratings on the individual digits.
+21 (6) All permanent disability contemplates future waxing and waning of symptoms of the condi-
+22 tion. The results of waxing and waning of symptoms may include, but are not limited to, loss of
+23 earning capacity, periods of temporary total or temporary partial disability, or inpatient
+24 hospitalization.
+25 SECTION 5. ORS 656.245 is amended to read:
+26 656.245. (1)(a) For every compensable injury, the insurer or the self-insured employer shall cause
+27 to be provided medical services for conditions caused in material part by the injury for such period
+28 as the nature of the injury or the process of the recovery requires, subject to the limitations in ORS
+29 656.225, including such medical services as may be required after a determination of permanent
+30 disability. In addition, for consequential and combined conditions described in ORS 656.005 (7), the
+31 insurer or the self-insured employer shall cause to be provided only those medical services directed
+32 to medical conditions caused in major part by the injury.
+33 (b) Compensable medical services shall include medical, surgical, hospital, nursing, ambulances
+34 and other related services, and drugs, medicine, crutches and prosthetic appliances, braces and
+35 supports and where necessary, physical restorative services. A pharmacist or dispensing physician
+36 shall dispense generic drugs to the worker in accordance with ORS 689.515. The duty to provide
+37 such medical services continues for the life of the worker.
+38 (c) Notwithstanding any other provision of this chapter, medical services after the worker’s
+39 condition is medically stationary are not compensable except for the following:
+40 (A) Services provided to a worker who has been determined to be permanently and totally dis-
+41 abled.
+42 (B) Prescription medications.
+43 (C) Services necessary to administer prescription medication or monitor the administration of
+44 prescription medication.
+45 (D) Prosthetic devices, braces and supports.
+[16]
+
+HB 4119
+1 (E) Services necessary to monitor the status, replacement or repair of prosthetic devices, braces
+2 and supports.
+3 (F) Services provided pursuant to an accepted claim for aggravation under ORS 656.273.
+4 (G) Services provided pursuant to an order issued under ORS 656.278.
+5 (H) Services that are necessary to diagnose the worker’s condition.
+6 (I) Life-preserving modalities similar to insulin therapy, dialysis and transfusions.
+7 (J) With the approval of the insurer or self-insured employer, palliative care that the worker’s
+8 attending physician [referred to] as defined in ORS 656.005 [(12)(b)(A)] (12)(b) prescribes and that
+9 is necessary to enable the worker to continue current employment or a vocational training program.
+10 If the insurer or self-insured employer does not approve, the attending physician or the worker may
+11 request approval from the Director of the Department of Consumer and Business Services for such
+12 treatment. The director may order a medical review by a physician or panel of physicians pursuant
+13 to ORS 656.327 (3) to aid in the review of such treatment. The decision of the director is subject to
+14 review under ORS 656.704.
+15 (K) With the approval of the director, curative care arising from a generally recognized, non-
+16 experimental advance in medical science since the worker’s claim was closed that is highly likely
+17 to improve the worker’s condition and that is otherwise justified by the circumstances of the claim.
+18 The decision of the director is subject to review under ORS 656.704.
+19 (L) Curative care provided to a worker to stabilize a temporary and acute waxing and waning
+20 of symptoms of the worker’s condition.
+21 (d) When the medically stationary date in a disabling claim is established by the insurer or
+22 self-insured employer and is not based on the findings of the attending physician, the insurer or
+23 self-insured employer is responsible for reimbursement to affected medical service providers for
+24 otherwise compensable services rendered until the insurer or self-insured employer provides written
+25 notice to the attending physician of the worker’s medically stationary status.
+26 (e) Except for services provided under a managed care contract, out-of-pocket expense re-
+27 imbursement to receive care from the attending physician [or nurse practitioner] authorized to pro-
+28 vide compensable medical services under this section shall not exceed the amount required to seek
+29 care from an [appropriate nurse practitioner or] attending physician of the same specialty who is in
+30 a medical community geographically closer to the worker’s home. For the purposes of this para-
+31 graph, all attending physicians [and nurse practitioners] within a metropolitan area are considered
+32 to be part of the same medical community.
+33 (2)(a) The worker may choose an attending [doctor, physician or nurse practitioner] physician
+34 within the State of Oregon. The worker may choose the initial attending physician [or nurse practi-
+35 tioner] and may subsequently change attending physician [or nurse practitioner] two times without
+36 approval from the director. If the worker thereafter selects another attending physician [or nurse
+37 practitioner], the insurer or self-insured employer may require the director’s approval of the se-
+38 lection. The decision of the director is subject to review under ORS 656.704. The worker also may
+39 choose an attending doctor or physician in another country or in any state or territory or possession
+40 of the United States with the prior approval of the insurer or self-insured employer.
+41 (b) A medical service provider who is not a member of a managed care organization is subject
+42 to the following provisions:
+43 (A) A medical service provider who is not qualified to be an attending physician may provide
+44 compensable medical service to an injured worker for a period of 30 days from the date of the first
+45 visit on the initial claim or for 12 visits, whichever first occurs, without the authorization of an
+[17]
+
+HB 4119
+1 attending physician. Thereafter, medical service provided to an injured worker without the written
+2 authorization of an attending physician is not compensable.
+3 (B) A medical service provider who is not an attending physician cannot authorize the payment
+4 of temporary disability compensation. However, an emergency room physician who is not authorized
+5 to serve as an attending physician under ORS 656.005 (12)(c) may authorize temporary disability
+6 benefits for a maximum of 14 days. [A medical service provider qualified to serve as an attending
+7 physician under ORS 656.005 (12)(b)(B) may authorize the payment of temporary disability compen-
+8 sation for a period not to exceed 30 days from the date of the first visit on the initial claim.]
+9 (C) Except as otherwise provided in this chapter, only a physician qualified to serve as an at-
+10 tending physician under ORS 656.005 (12) [(12)(b)(A) or (B)(i) ] who is serving as the attending
+11 physician at the time of claim closure may make findings regarding the worker’s impairment for the
+12 purpose of evaluating the worker’s disability.
+13 [(D) Notwithstanding subparagraphs (A) and (B) of this paragraph, a nurse practitioner licensed
+14 under ORS 678.375 to 678.390 or a physician associate licensed by the Oregon Medical Board in ac-
+15 cordance with ORS 677.505 to 677.525 or a similarly licensed physician associate in any country or in
+16 any state, territory or possession of the United States:]
+17 [(i) May provide compensable medical services for 180 days from the date of the first visit on the
+18 initial claim;]
+19 [(ii) May authorize the payment of temporary disability benefits for a period not to exceed 180 days
+20 from the date of the first visit on the initial claim; and]
+21 [(iii) When an injured worker treating with a nurse practitioner or physician associate authorized
+22 to provide compensable services under this section becomes medically stationary within the 180-day
+23 period in which the nurse practitioner or physician associate is authorized to treat the injured worker,
+24 shall refer the injured worker to a physician qualified to be an attending physician as defined in ORS
+25 656.005 for the purpose of making findings regarding the worker’s impairment for the purpose of
+26 evaluating the worker’s disability. If a worker returns to the nurse practitioner or physician associate
+27 after initial claim closure for evaluation of a possible worsening of the worker’s condition, the nurse
+28 practitioner or physician associate shall refer the worker to an attending physician and the insurer
+29 shall compensate the nurse practitioner or physician associate for the examination performed.]
+30 (3) Notwithstanding any other provision of this chapter, the director, by rule, upon the advice
+31 of the committee created by ORS 656.794 and upon the advice of the professional licensing boards
+32 of practitioners affected by the rule, may exclude from compensability any medical treatment the
+33 director finds to be unscientific, unproven, outmoded or experimental. The decision of the director
+34 is subject to review under ORS 656.704.
+35 (4) Notwithstanding subsection (2)(a) of this section, when a self-insured employer or the insurer
+36 of an employer contracts with a managed care organization certified pursuant to ORS 656.260 for
+37 medical services required by this chapter to be provided to injured workers:
+38 (a) Those workers who are subject to the contract shall receive medical services in the manner
+39 prescribed in the contract. Workers subject to the contract include those who are receiving medical
+40 treatment for an accepted compensable injury or occupational disease, regardless of the date of in-
+41 jury or medically stationary status, on or after the effective date of the contract. If the managed
+42 care organization determines that the change in provider would be medically detrimental to the
+43 worker, the worker shall not become subject to the contract until the worker is found to be med-
+44 ically stationary, the worker changes attending physicians [or nurse practitioners], or the managed
+45 care organization determines that the change in provider is no longer medically detrimental,
+[18]
+
+HB 4119
+1 whichever event first occurs. A worker becomes subject to the contract upon the worker’s receipt
+2 of actual notice of the worker’s enrollment in the managed care organization, or upon the third day
+3 after the notice was sent by regular mail by the insurer or self-insured employer, whichever event
+4 first occurs. A worker shall not be subject to a contract after it expires or terminates without re-
+5 newal. A worker may continue to treat with the attending physician [or nurse practitioner] author-
+6 ized to provide compensable medical services under this section under an expired or terminated
+7 managed care organization contract if the attending physician [or nurse practitioner] agrees to
+8 comply with the rules, terms and conditions regarding services performed under any subsequent
+9 managed care organization contract to which the worker is subject. A worker shall not be subject
+10 to a contract if the worker’s primary residence is more than 100 miles outside the managed care
+11 organization’s certified geographical area. Each such contract must comply with the certification
+12 standards provided in ORS 656.260. However, a worker may receive immediate emergency medical
+13 treatment that is compensable from a medical service provider who is not a member of the managed
+14 care organization. Insurers or self-insured employers who contract with a managed care organization
+15 for medical services shall give notice to the workers of eligible medical service providers and such
+16 other information regarding the contract and manner of receiving medical services as the director
+17 may prescribe. Notwithstanding any provision of law or rule to the contrary, a worker of a non-
+18 complying employer is considered to be subject to a contract between the State Accident Insurance
+19 Fund Corporation as a processing agent or the assigned claims agent and a managed care organ-
+20 ization.
+21 (b)(A) For initial or aggravation claims filed after June 7, 1995, the insurer or self-insured em-
+22 ployer may require an injured worker, on a case-by-case basis, immediately to receive medical ser-
+23 vices from the managed care organization.
+24 (B) If the insurer or self-insured employer gives notice that the worker is required to receive
+25 treatment from the managed care organization, the insurer or self-insured employer must guarantee
+26 that any reasonable and necessary services so received, that are not otherwise covered by health
+27 insurance, will be paid as provided in ORS 656.248, even if the claim is denied, until the worker
+28 receives actual notice of the denial or until three days after the denial is mailed, whichever event
+29 first occurs. The worker may elect to receive care from a primary care physician, nurse practitioner
+30 or physician associate authorized to provide compensable medical services under this section who
+31 agrees to the conditions of ORS 656.260 (4)(g). However, guarantee of payment is not required by the
+32 insurer or self-insured employer if this election is made.
+33 (C) If the insurer or self-insured employer does not give notice that the worker is required to
+34 receive treatment from the managed care organization, the insurer or self-insured employer is under
+35 no obligation to pay for services received by the worker unless the claim is later accepted.
+36 (D) If the claim is denied, the worker may receive medical services after the date of denial from
+37 sources other than the managed care organization until the denial is reversed. Reasonable and
+38 necessary medical services received from sources other than the managed care organization after
+39 the date of claim denial must be paid as provided in ORS 656.248 by the insurer or self-insured em-
+40 ployer if the claim is finally determined to be compensable.
+41 (5)(a) A nurse practitioner[,] or a physician associate described in ORS 656.005 [(12)(b)(C),]
+42 (12)(b)(D) or (E) who is not a member of the managed care organization is authorized to provide
+43 the same level of services as a primary care physician as established by ORS 656.260 (4) if the nurse
+44 practitioner or physician associate:
+45 (A) Maintains the worker’s medical records;
+[19]
+
+HB 4119
+1 (B) Has a documented history of treatment with the worker;
+2 (C) Agrees to refer the worker to the managed care organization for any specialized treatment,
+3 including physical therapy, to be furnished by another provider that the worker may require; and
+4 (D) Agrees to comply with all the rules, terms and conditions regarding services performed by
+5 the managed care organization.
+6 (b)[(A)] A nurse practitioner or physician associate authorized to provide medical services to a
+7 worker enrolled in the managed care organization may:
+8 [(i)] (A) Provide medical treatment to the worker if the treatment is determined to be medically
+9 appropriate according to the service utilization review process of the managed care organization;
+10 and
+11 [(ii)] (B) Authorize temporary disability payments [as provided in subsection (2)(b)(D) of this
+12 section].
+13 [(B) The managed care organization may also authorize the nurse practitioner or physician asso-
+14 ciate to provide medical services and authorize temporary disability payments beyond the periods es-
+15 tablished in subsection (2)(b)(D) of this section.]
+16 (6) Subject to the provisions of ORS 656.704, if a claim for medical services is disapproved, the
+17 injured worker, insurer or self-insured employer may request administrative review by the director
+18 pursuant to ORS 656.260 or 656.327.
+19 SECTION 6. ORS 656.250 is amended to read:
+20 656.250. A physical therapist [shall] may not provide compensable services to injured workers
+21 governed by this chapter except as allowed by a governing managed care organization contract or
+22 as authorized by the worker’s attending physician [or nurse practitioner authorized to provide
+23 compensable medical services under ORS 656.245].
+24 SECTION 7. ORS 656.252 is amended to read:
+25 656.252. (1) In order to ensure the prompt and correct reporting and payment of compensation
+26 in compensable injuries, the Director of the Department of Consumer and Business Services shall
+27 make rules governing audits of medical service bills and reports by attending and consulting physi-
+28 cians and other personnel of all medical information relevant to the determination of a claim to the
+29 injured worker’s representative, the worker’s employer, the employer’s insurer and the Department
+30 of Consumer and Business Services. Such rules shall include, but not necessarily be limited to:
+31 (a) Requiring attending physicians [and nurse practitioners authorized to provide compensable
+32 medical services under ORS 656.245] to make the insurer or self-insured employer a first report of
+33 injury within 72 hours after the first service rendered.
+34 (b) Requiring attending physicians [and nurse practitioners authorized to provide compensable
+35 medical services under ORS 656.245] to submit follow-up reports within specified time limits or upon
+36 the request of an interested party.
+37 (c) Requiring examining physicians [and nurse practitioners authorized to provide compensable
+38 medical services under ORS 656.245] to submit their reports, and to whom, within a specified time.
+39 (d) Such other reporting requirements as the director may deem necessary to insure that pay-
+40 ments of compensation be prompt and that all interested parties be given information necessary to
+41 the prompt determination of claims.
+42 (e) Requiring insurers and self-insured employers to audit billings for all medical services, in-
+43 cluding hospital services.
+44 (2) The attending physician [or nurse practitioner authorized to provide compensable medical ser-
+45 vices under ORS 656.245] shall do the following:
+[20]
+
+HB 4119
+1 (a) Cooperate with the insurer or self-insured employer to expedite diagnostic and treatment
+2 procedures and with efforts to return injured workers to appropriate work.
+3 (b) Advise the insurer or self-insured employer of the anticipated date for release of the injured
+4 worker to return to employment, the anticipated date that the worker will be medically stationary,
+5 and the next appointment date. Except when the attending physician [or nurse practitioner author-
+6 ized to provide compensable medical services under ORS 656.245] has previously indicated that tem-
+7 porary disability will not exceed 14 days, the insurer or self-insured employer may request a medical
+8 report every 15 days, and the attending physician [or nurse practitioner] shall forward such reports.
+9 (c) Advise the insurer or self-insured employer within five days of the date the injured worker
+10 is released to return to work. Under no circumstances shall the attending physician [or nurse
+11 practitioner authorized to provide compensable medical services under ORS 656.245] notify the insurer
+12 or employer of the worker’s release to return to work without notifying the worker at the same
+13 time.
+14 (d) After a claim has been closed, advise the insurer or self-insured employer within five days
+15 after the treatment is resumed or the reopening of a claim is recommended. The attending physician
+16 under this paragraph need not be the same attending physician who released the worker when the
+17 claim was closed.
+18 (3) In promulgating the rules regarding medical reporting the director may consult and confer
+19 with physicians and members of medical associations and societies.
+20 (4) No person who reports medical information to a person referred to in subsection (1) of this
+21 section, in accordance with department rules, shall incur any legal liability for the disclosure of
+22 such information.
+23 (5) Whenever an injured worker changes attending [physicians or nurse practitioners authorized
+24 to provide compensable medical services under ORS 656.245] physicians, the newly selected attending
+25 physician [or nurse practitioner] shall so notify the responsible insurer or self-insured employer not
+26 later than five days after the date of the change or the date of first treatment. Every attending
+27 physician [or nurse practitioner authorized to provide compensable medical services under ORS
+28 656.245] who refers a worker to a consulting physician promptly shall notify the responsible insurer
+29 or self-insured employer of the referral.
+30 (6) A provider of medical services, including hospital services, that submits a billing to the
+31 insurer or self-insured employer shall also submit a copy of the billing to the worker for whom the
+32 service was performed after receipt from the injured worker of a written request for such a copy.
+33 SECTION 8. ORS 656.262 is amended to read:
+34 656.262. (1) Processing of claims and providing compensation for a worker shall be the respon-
+35 sibility of the insurer or self-insured employer. All employers shall assist their insurers in processing
+36 claims as required in this chapter.
+37 (2) The compensation due under this chapter shall be paid periodically, promptly and directly
+38 to the person entitled thereto upon the employer’s receiving notice or knowledge of a claim, except
+39 where the right to compensation is denied by the insurer or self-insured employer.
+40 (3)(a) Employers shall, immediately and not later than five days after notice or knowledge of any
+41 claims or accidents which may result in a compensable injury claim, report the same to their
+42 insurer. The report shall include:
+43 (A) The date, time, cause and nature of the accident and injuries.
+44 (B) Whether the accident arose out of and in the course of employment.
+45 (C) Whether the employer recommends or opposes acceptance of the claim, and the reasons
+[21]
+
+HB 4119
+1 therefor.
+2 (D) The name and address of any health insurance provider for the injured worker.
+3 (E) Any other details the insurer may require.
+4 (b) Failure to so report subjects the offending employer to a charge for reimbursing the insurer
+5 for any penalty the insurer is required to pay under subsection (11) of this section because of such
+6 failure. As used in this subsection, “health insurance” has the meaning for that term provided in
+7 ORS 731.162.
+8 (4)(a) The first installment of temporary disability compensation shall be paid no later than the
+9 14th day after the subject employer has notice or knowledge of the claim and of the worker’s disa-
+10 bility, if the attending physician [or nurse practitioner authorized to provide compensable medical
+11 services under ORS 656.245] authorizes the payment of temporary disability compensation. There-
+12 after, temporary disability compensation shall be paid at least once each two weeks, except where
+13 the Director of the Department of Consumer and Business Services determines that payment in in-
+14 stallments should be made at some other interval. The director may by rule convert monthly benefit
+15 schedules to weekly or other periodic schedules.
+16 (b) Notwithstanding any other provision of this chapter, if a self-insured employer pays to an
+17 injured worker who becomes disabled the same wage at the same pay interval that the worker re-
+18 ceived at the time of injury, such payment shall be deemed timely payment of temporary disability
+19 payments pursuant to ORS 656.210 and 656.212 during the time the wage payments are made.
+20 (c) Notwithstanding any other provision of this chapter, when the holder of a public office is
+21 injured in the course and scope of that public office, full official salary paid to the holder of that
+22 public office shall be deemed timely payment of temporary disability payments pursuant to ORS
+23 656.210 and 656.212 during the time the wage payments are made. As used in this subsection, “public
+24 office” has the meaning for that term provided in ORS 260.005.
+25 (d) Temporary disability compensation is not due and payable for any period of time for which
+26 the insurer or self-insured employer has requested from the worker’s attending physician [or nurse
+27 practitioner authorized to provide compensable medical services under ORS 656.245] verification of the
+28 worker’s inability to work resulting from the claimed injury or disease and the attending physician
+29 [or nurse practitioner] cannot verify the worker’s inability to work, unless the worker has been un-
+30 able to receive treatment for reasons beyond the worker’s control.
+31 (e) If a worker fails to appear at an appointment with the worker’s attending physician [or nurse
+32 practitioner authorized to provide compensable medical services under ORS 656.245], the insurer or
+33 self-insured employer shall notify the worker by certified mail that temporary disability benefits may
+34 be suspended after the worker fails to appear at a rescheduled appointment. If the worker fails to
+35 appear at a rescheduled appointment, the insurer or self-insured employer may suspend payment of
+36 temporary disability benefits to the worker until the worker appears at a subsequent rescheduled
+37 appointment.
+38 (f) If the insurer or self-insured employer has requested and failed to receive from the worker’s
+39 attending physician [or nurse practitioner authorized to provide compensable medical services under
+40 ORS 656.245] verification of the worker’s inability to work resulting from the claimed injury or
+41 disease, medical services provided by the attending physician [or nurse practitioner] are not
+42 compensable until the attending physician [or nurse practitioner] submits such verification.
+43 (g)(A) Temporary disability compensation is not due and payable pursuant to ORS 656.268 after
+44 the worker’s attending physician [or nurse practitioner authorized to provide compensable medical
+45 services under ORS 656.245] ceases to authorize temporary disability or for any period of time not
+[22]
+
+HB 4119
+1 authorized by the attending physician [or nurse practitioner]. No authorization of temporary disabil-
+2 ity compensation by the attending physician [or nurse practitioner] under ORS 656.268 shall be ef-
+3 fective to retroactively authorize the payment of temporary disability more than 45 days prior to its
+4 issuance.
+5 (B) Subparagraph (A) of this paragraph does not apply:
+6 (i) During periods in which there is a denial under the jurisdiction of the Workers’ Compen-
+7 sation Board that affects the worker’s ability to obtain authorization of temporary disability;
+8 (ii) During periods in which there is a dispute over the identity of, or treatment by, an attending
+9 physician [or nurse practitioner] that affects the worker’s ability to obtain authorization of temporary
+10 disability; or
+11 (iii) When notice has not been given pursuant to paragraph (j) of this subsection.
+12 (h) The worker’s disability may be authorized only by [a person described] an attending physi-
+13 cian as defined in ORS 656.005 [(12)(b)(B)] (12)(b), or a person described in ORS 656.245 for the
+14 period of time permitted by [those sections] that section. The insurer or self-insured employer may
+15 unilaterally suspend payment of temporary disability benefits to the worker at the expiration of the
+16 period until temporary disability is reauthorized by [an] the attending physician [or nurse practi-
+17 tioner authorized to provide compensable medical services under ORS 656.245].
+18 (i) The insurer or self-insured employer may unilaterally suspend payment of all compensation
+19 to a worker enrolled in a managed care organization if the worker continues to seek care from an
+20 attending physician [or nurse practitioner authorized to provide compensable medical services under
+21 ORS 656.245] that is not authorized by the managed care organization more than seven days after
+22 the mailing of notice by the insurer or self-insured employer.
+23 (j)(A) The insurer or self-insured employer may not end temporary disability benefits until writ-
+24 ten notice has been mailed or delivered to the worker and the worker’s attorney, if the worker is
+25 represented. The notice must state the reason that temporary disability benefits are no longer due
+26 and payable.
+27 (B) The worker’s attending physician [or nurse practitioner] may retroactively authorize tempo-
+28 rary disability for up to 45 days prior to the date of the notice.
+29 (C) If the notice required under subparagraph (A) of this paragraph is given more than 45 days
+30 after the worker was no longer eligible for benefits, the attending physician [or nurse practitioner]
+31 may retroactively authorize temporary disability back to the date on which benefits were no longer
+32 due and payable, provided the authorization is made within 30 days following the earlier of the date
+33 of mailing or delivery of the written notice that the eligibility ended to the worker and the worker’s
+34 attorney, if the worker is represented.
+35 (5)(a) Payment of compensation under subsection (4) of this section or payment, in amounts per
+36 claim not to exceed the maximum amount established annually by the Director of the Department
+37 of Consumer and Business Services, for medical services for nondisabling claims, may be made by
+38 the subject employer if the employer so chooses. The making of such payments does not constitute
+39 a waiver or transfer of the insurer’s duty to determine entitlement to benefits. If the employer
+40 chooses to make such payment, the employer shall report the injury to the insurer in the same
+41 manner that other injuries are reported. However, an insurer shall not modify an employer’s expe-
+42 rience rating or otherwise make charges against the employer for any medical expenses paid by the
+43 employer pursuant to this subsection.
+44 (b) To establish the maximum amount an employer may pay for medical services for nondisabling
+45 claims under paragraph (a) of this subsection, the director shall use $1,500 as the base compensation
+[23]
+
+HB 4119
+1 amount and shall adjust the base compensation amount annually to reflect changes in the United
+2 States City Average Consumer Price Index for All Urban Consumers for Medical Care for July of
+3 each year as published by the Bureau of Labor Statistics of the United States Department of Labor.
+4 The adjustment shall be rounded to the nearest multiple of $100.
+5 (c) The adjusted amount established under paragraph (b) of this subsection shall be effective on
+6 January 1 following the establishment of the amount and shall apply to claims with a date of injury
+7 on or after the effective date of the adjusted amount.
+8 (6)(a) Written notice of acceptance or denial of the claim shall be furnished to the claimant by
+9 the insurer or self-insured employer within 60 days after the employer has notice or knowledge of
+10 the claim. Once the claim is accepted, the insurer or self-insured employer shall not revoke accept-
+11 ance except as provided in this section. The insurer or self-insured employer may revoke acceptance
+12 and issue a denial at any time when the denial is for fraud, misrepresentation or other illegal ac-
+13 tivity by the worker. If the worker requests a hearing on any revocation of acceptance and denial
+14 alleging fraud, misrepresentation or other illegal activity, the insurer or self-insured employer has
+15 the burden of proving, by a preponderance of the evidence, such fraud, misrepresentation or other
+16 illegal activity. Upon such proof, the worker then has the burden of proving, by a preponderance
+17 of the evidence, the compensability of the claim. If the insurer or self-insured employer accepts a
+18 claim in good faith, in a case not involving fraud, misrepresentation or other illegal activity by the
+19 worker, and later obtains evidence that the claim is not compensable or evidence that the insurer
+20 or self-insured employer is not responsible for the claim, the insurer or self-insured employer may
+21 revoke the claim acceptance and issue a formal notice of claim denial, if such revocation of ac-
+22 ceptance and denial is issued no later than two years after the date of the initial acceptance. If the
+23 worker requests a hearing on such revocation of acceptance and denial, the insurer or self-insured
+24 employer must prove, by a preponderance of the evidence, that the claim is not compensable or that
+25 the insurer or self-insured employer is not responsible for the claim. Notwithstanding any other
+26 provision of this chapter, if a denial of a previously accepted claim is set aside by an Administrative
+27 Law Judge, the Workers’ Compensation Board or the court, temporary total disability benefits are
+28 payable from the date any such benefits were terminated under the denial. Except as provided in
+29 ORS 656.247, pending acceptance or denial of a claim, compensation payable to a claimant does not
+30 include the costs of medical benefits or funeral expenses. The insurer shall also furnish the employer
+31 a copy of the notice of acceptance.
+32 (b) The notice of acceptance shall:
+33 (A) Specify what conditions are compensable.
+34 (B) Advise the claimant whether the claim is considered disabling or nondisabling.
+35 (C) Inform the claimant of the Expedited Claim Service and of the hearing and aggravation
+36 rights concerning nondisabling injuries, including the right to object to a decision that the injury
+37 of the claimant is nondisabling by requesting reclassification pursuant to ORS 656.277.
+38 (D) Inform the claimant of employment reinstatement rights and responsibilities under ORS
+39 chapter 659A.
+40 (E) Inform the claimant of assistance available to employers and workers from the Reemploy-
+41 ment Assistance Program under ORS 656.622.
+42 (F) Be modified by the insurer or self-insured employer from time to time as medical or other
+43 information changes a previously issued notice of acceptance.
+44 (c) An insurer’s or self-insured employer’s acceptance of a combined or consequential condition
+45 under ORS 656.005 (7), whether voluntary or as a result of a judgment or order, shall not preclude
+[24]
+
+HB 4119
+1 the insurer or self-insured employer from later denying the combined or consequential condition if
+2 the otherwise compensable injury ceases to be the major contributing cause of the combined or
+3 consequential condition.
+4 (d) An injured worker who believes that a condition has been incorrectly omitted from a notice
+5 of acceptance, or that the notice is otherwise deficient, first must communicate in writing to the
+6 insurer or self-insured employer the worker’s objections to the notice pursuant to ORS 656.267. The
+7 insurer or self-insured employer has 60 days from receipt of the communication from the worker to
+8 revise the notice or to make other written clarification in response. A worker who fails to comply
+9 with the communication requirements of this paragraph or ORS 656.267 may not allege at any
+10 hearing or other proceeding on the claim a de facto denial of a condition based on information in
+11 the notice of acceptance from the insurer or self-insured employer. Notwithstanding any other pro-
+12 vision of this chapter, the worker may initiate objection to the notice of acceptance at any time.
+13 (7)(a) After claim acceptance, written notice of acceptance or denial of claims for aggravation
+14 or new medical or omitted condition claims properly initiated pursuant to ORS 656.267 shall be
+15 furnished to the claimant by the insurer or self-insured employer within 60 days after the insurer
+16 or self-insured employer receives written notice of such claims. A worker who fails to comply with
+17 the communication requirements of subsection (6) of this section or ORS 656.267 may not allege at
+18 any hearing or other proceeding on the claim a de facto denial of a condition based on information
+19 in the notice of acceptance from the insurer or self-insured employer.
+20 (b) Once a worker’s claim has been accepted, the insurer or self-insured employer must issue a
+21 written denial to the worker when the accepted injury is no longer the major contributing cause
+22 of the worker’s combined condition before the claim may be closed.
+23 (c) When an insurer or self-insured employer determines that the claim qualifies for claim clo-
+24 sure, the insurer or self-insured employer shall issue at claim closure an updated notice of accept-
+25 ance that specifies which conditions are compensable. The procedures specified in subsection (6)(d)
+26 of this section apply to this notice. Any objection to the updated notice or appeal of denied condi-
+27 tions shall not delay claim closure pursuant to ORS 656.268. If a condition is found compensable
+28 after claim closure, the insurer or self-insured employer shall reopen the claim for processing re-
+29 garding that condition.
+30 (8) The assigned claims agent in processing claims under ORS 656.054 shall send notice of ac-
+31 ceptance or denial to the noncomplying employer.
+32 (9) If an insurer or any other duly authorized agent of the employer for such purpose, on record
+33 with the Director of the Department of Consumer and Business Services denies a claim for com-
+34 pensation, written notice of such denial, stating the reason for the denial, and informing the worker
+35 of the Expedited Claim Service and of hearing rights under ORS 656.283, shall be given to the
+36 claimant. The insurer shall issue a copy of the notice of denial to the employer. The insurer shall
+37 notify the director of the denial in the manner the director prescribes by rule. The worker may re-
+38 quest a hearing pursuant to ORS 656.319.
+39 (10) Merely paying or providing compensation shall not be considered acceptance of a claim or
+40 an admission of liability, nor shall mere acceptance of such compensation be considered a waiver
+41 of the right to question the amount thereof. Payment of permanent disability benefits pursuant to a
+42 notice of closure, reconsideration order or litigation order, or the failure to appeal or seek review
+43 of such an order or notice of closure, shall not preclude an insurer or self-insured employer from
+44 subsequently contesting the compensability of the condition rated therein, unless the condition has
+45 been formally accepted.
+[25]
+
+HB 4119
+1 (11)(a) If the insurer or self-insured employer unreasonably delays or unreasonably refuses to
+2 pay compensation, attorney fees or costs, or unreasonably delays acceptance or denial of a claim,
+3 the insurer or self-insured employer shall be liable for an additional amount up to 25 percent of the
+4 amounts then due plus any attorney fees assessed under this section. The fees assessed by the di-
+5 rector, an Administrative Law Judge, the board or the court under this section shall be reasonable
+6 attorney fees. In assessing fees, the director, an Administrative Law Judge, the board or the court
+7 shall consider the proportionate benefit to the injured worker. The board shall adopt rules for es-
+8 tablishing the amount of the attorney fee, giving primary consideration to the results achieved and
+9 to the time devoted to the case. An attorney fee awarded pursuant to this subsection may not exceed
+10 $4,000 absent a showing of extraordinary circumstances. The maximum attorney fee awarded under
+11 this paragraph shall be adjusted annually on July 1 by the same percentage increase as made to the
+12 average weekly wage defined in ORS 656.211, if any. Notwithstanding any other provision of this
+13 chapter, the director shall have exclusive jurisdiction over proceedings regarding solely the assess-
+14 ment and payment of the additional amount and attorney fees described in this subsection. The
+15 action of the director and the review of the action taken by the director shall be subject to review
+16 under ORS 656.704.
+17 (b) When the director does not have exclusive jurisdiction over proceedings regarding the as-
+18 sessment and payment of the additional amount and attorney fees described in this subsection, the
+19 provisions of this subsection shall apply in the other proceeding.
+20 (12)(a) If payment is due on a disputed claim settlement authorized by ORS 656.289 and the
+21 insurer or self-insured employer has failed to make the payment in accordance with the requirements
+22 specified in the disputed claim settlement, the claimant or the claimant’s attorney shall clearly no-
+23 tify the insurer or self-insured employer in writing that the payment is past due. If the required
+24 payment is not made within five business days after receipt of the notice by the insurer or self-
+25 insured employer, the director may assess a penalty and attorney fee in accordance with a matrix
+26 adopted by the director by rule.
+27 (b) The director shall adopt by rule a matrix for the assessment of the penalties and attorney
+28 fees authorized under this subsection. The matrix shall provide for penalties based on a percentage
+29 of the settlement proceeds allocated to the claimant and for attorney fees based on a percentage of
+30 the settlement proceeds allocated to the claimant’s attorney as an attorney fee.
+31 (13) The insurer may authorize an employer to pay compensation to injured workers and shall
+32 reimburse employers for compensation so paid.
+33 (14)(a) Injured workers have the duty to cooperate and assist the insurer or self-insured em-
+34 ployer in the investigation of claims for compensation. Injured workers shall submit to and shall
+35 fully cooperate with personal and telephonic interviews and other formal or informal information
+36 gathering techniques. Injured workers who are represented by an attorney shall have the right to
+37 have the attorney present during any personal or telephonic interview or deposition. If the injured
+38 worker is represented by an attorney, the insurer or self-insured employer shall pay the attorney a
+39 reasonable attorney fee based upon an hourly rate for actual time spent during the personal or
+40 telephonic interview or deposition. After consultation with the Board of Governors of the Oregon
+41 State Bar, the Workers’ Compensation Board shall adopt rules for the establishment, assessment and
+42 enforcement of an hourly attorney fee rate specified in this subsection.
+43 (b) If the attorney is not willing or available to participate in an interview at a time reasonably
+44 chosen by the insurer or self-insured employer within 14 days of the request for interview and the
+45 insurer or self-insured employer has cause to believe that the attorney’s unwillingness or unavail-
+[26]
+
+HB 4119
+1 ability is unreasonable and is preventing the worker from complying within 14 days of the request
+2 for interview, the insurer or self-insured employer shall notify the director. If the director deter-
+3 mines that the attorney’s unwillingness or unavailability is unreasonable, the director shall assess
+4 a civil penalty against the attorney of not more than $1,000.
+5 (15) If the director finds that a worker fails to reasonably cooperate with an investigation in-
+6 volving an initial claim to establish a compensable injury or an aggravation claim to reopen the
+7 claim for a worsened condition, the director shall suspend all or part of the payment of compen-
+8 sation after notice to the worker. If the worker does not cooperate for an additional 30 days after
+9 the notice, the insurer or self-insured employer may deny the claim because of the worker’s failure
+10 to cooperate. The obligation of the insurer or self-insured employer to accept or deny the claim
+11 within 60 days is suspended during the time of the worker’s noncooperation. After such a denial, the
+12 worker shall not be granted a hearing or other proceeding under this chapter on the merits of the
+13 claim unless the worker first requests and establishes at an expedited hearing under ORS 656.291
+14 that the worker fully and completely cooperated with the investigation, that the worker failed to
+15 cooperate for reasons beyond the worker’s control or that the investigative demands were unrea-
+16 sonable. If the Administrative Law Judge finds that the worker has not fully cooperated, the Ad-
+17 ministrative Law Judge shall affirm the denial, and the worker’s claim for injury shall remain
+18 denied. If the Administrative Law Judge finds that the worker has cooperated, or that the investi-
+19 gative demands were unreasonable, the Administrative Law Judge shall set aside the denial, order
+20 the reinstatement of interim compensation if appropriate and remand the claim to the insurer or
+21 self-insured employer to accept or deny the claim.
+22 (16) In accordance with ORS 656.283 (3), the Administrative Law Judge assigned a request for
+23 hearing for a claim for compensation involving more than one potentially responsible employer or
+24 insurer may specify what is required of an injured worker to reasonably cooperate with the inves-
+25 tigation of the claim as required by subsection (14) of this section.
+26 SECTION 9. ORS 656.268 is amended to read:
+27 656.268. (1) One purpose of this chapter is to restore the injured worker as soon as possible and
+28 as near as possible to a condition of self support and maintenance as an able-bodied worker. The
+29 insurer or self-insured employer shall close the worker’s claim, as prescribed by the Director of the
+30 Department of Consumer and Business Services, and determine the extent of the worker’s permanent
+31 disability, provided the worker is not enrolled and actively engaged in training according to rules
+32 adopted by the director pursuant to ORS 656.340 and 656.726, when one of the following conditions
+33 is met:
+34 (a) The worker has become medically stationary and there is sufficient information to determine
+35 permanent disability. Notwithstanding any other provision of this chapter, [a] an attending physi-
+36 cian [or nurse practitioner] may not retroactively determine a worker to be medically stationary
+37 more than 60 days prior to the date of the determination except in the case of claims that are sub-
+38 ject to subsection (13) of this section. An insurer or self-insured employer must mail or deliver
+39 written notice to a worker and to the worker’s attorney, if the worker is represented, within seven
+40 days following receipt of information that the worker is medically stationary.
+41 (b) The accepted injury is no longer the major contributing cause of the worker’s combined or
+42 consequential condition or conditions pursuant to ORS 656.005 (7). When the claim is closed because
+43 the accepted injury is no longer the major contributing cause of the worker’s combined or conse-
+44 quential condition or conditions, and there is sufficient information to determine permanent disabil-
+45 ity, the likely permanent disability that would have been due to the current accepted condition shall
+[27]
+
+HB 4119
+1 be estimated.
+2 (c) Without the approval of the attending physician [or nurse practitioner authorized to provide
+3 compensable medical services under ORS 656.245], the worker fails to seek medical treatment for a
+4 period of 30 days or the worker fails to attend a closing examination, unless the worker
+5 affirmatively establishes that such failure is attributable to reasons beyond the worker’s control.
+6 (d) An insurer or self-insured employer finds that a worker who has been receiving permanent
+7 total disability benefits has materially improved and is capable of regularly performing work at a
+8 gainful and suitable occupation.
+9 (2) If the worker is enrolled and actively engaged in training according to rules adopted pursu-
+10 ant to ORS 656.340 and 656.726, the temporary disability compensation shall be proportionately re-
+11 duced by any sums earned during the training.
+12 (3) A copy of all medical reports and reports of vocational rehabilitation agencies or counselors
+13 shall be furnished to the worker, if requested by the worker.
+14 (4) Temporary total disability benefits shall continue until whichever of the following events
+15 first occurs:
+16 (a) The worker returns to regular or modified employment;
+17 (b) The attending physician [or nurse practitioner who has authorized temporary disability benefits
+18 for the worker under ORS 656.245] advises the worker and documents in writing that the worker is
+19 released to return to regular employment;
+20 (c) The attending physician [or nurse practitioner who has authorized temporary disability benefits
+21 for the worker under ORS 656.245] advises the worker and documents in writing that the worker is
+22 released to return to modified employment, such employment is offered in writing to the worker and
+23 the worker fails to begin such employment. However, an offer of modified employment may be re-
+24 fused by the worker without the termination of temporary total disability benefits if the offer:
+25 (A) Requires a commute that is beyond the physical capacity of the worker according to the
+26 worker’s attending physician [or the nurse practitioner who may authorize temporary disability under
+27 ORS 656.245];
+28 (B) Is at a work site more than 50 miles one way from where the worker was injured unless the
+29 site is less than 50 miles from the worker’s residence or the intent of the parties at the time of hire
+30 or as established by the pattern of employment prior to the injury was that the employer had mul-
+31 tiple or mobile work sites and the worker could be assigned to any such site;
+32 (C) Is not with the employer at injury;
+33 (D) Is not at a work site of the employer at injury;
+34 (E) Is not consistent with the existing written shift change policy or is not consistent with
+35 common practice of the employer at injury or aggravation; or
+36 (F) Is not consistent with an existing shift change provision of an applicable collective bar-
+37 gaining agreement;
+38 (d) Any other event that causes temporary disability benefits to be lawfully suspended, withheld
+39 or terminated under ORS 656.262 (4) or other provisions of this chapter; or
+40 (e) Notwithstanding paragraph (c)(C), (D), (E) and (F) of this subsection, the attending physician
+41 [or nurse practitioner who has authorized temporary disability benefits under ORS 656.245] for a home
+42 care worker or a personal support worker who has been made a subject worker pursuant to ORS
+43 656.039 advises the home care worker or personal support worker and documents in writing that the
+44 home care worker or personal support worker is released to return to modified employment, appro-
+45 priate modified employment is offered in writing by the Home Care Commission or a designee of the
+[28]
+
+HB 4119
+1 commission to the home care worker or personal support worker for any client of the Department
+2 of Human Services who employs a home care worker or personal support worker and the worker
+3 fails to begin the employment.
+4 (5)(a) Findings by the insurer or self-insured employer regarding the extent of the worker’s dis-
+5 ability in closure of the claim shall be pursuant to the standards prescribed by the director.
+6 (b) The insurer or self-insured employer shall issue a notice of closure of the claim to the worker
+7 and to the worker’s attorney if the worker is represented. The insurer or self-insured employer shall
+8 notify the director of the closure in the manner the director prescribes by rule. If the worker is
+9 deceased at the time the notice of closure is issued, the insurer or self-insured employer shall mail
+10 the worker’s copy of the notice of closure, addressed to the estate of the worker, to the worker’s last
+11 known address and may mail copies of the notice of closure to any known or potential beneficiaries
+12 to the estate of the deceased worker.
+13 (c) The notice of closure must inform:
+14 (A) The parties, in boldfaced type, of the proper manner in which to proceed if they are dissat-
+15 isfied with the terms of the notice of closure;
+16 (B) The worker of:
+17 (i) The amount of any further compensation, including permanent disability compensation to be
+18 awarded;
+19 (ii) The duration of temporary total or temporary partial disability compensation;
+20 (iii) The right of the worker or beneficiaries of the worker who were mailed a copy of the notice
+21 of closure under paragraph (b) of this subsection to request reconsideration by the director under
+22 this section within 60 days of the date of the notice of closure;
+23 (iv) The right of beneficiaries who were not mailed a copy of the notice of closure under para-
+24 graph (b) of this subsection to request reconsideration by the director under this section within one
+25 year of the date the notice of closure was mailed to the estate of the worker under paragraph (b)
+26 of this subsection;
+27 (v) The right of the insurer or self-insured employer to request reconsideration by the director
+28 under this section within seven days of the date of the notice of closure;
+29 (vi) The aggravation rights; and
+30 (vii) Any other information as the director may require; and
+31 (C) Any beneficiaries of death benefits to which they may be entitled pursuant to ORS 656.204
+32 and 656.208.
+33 (d) If the insurer or self-insured employer has not issued a notice of closure, the worker may
+34 request closure. Within 10 days of receipt of a written request from the worker, the insurer or
+35 self-insured employer shall issue a notice of closure if the requirements of this section have been
+36 met or a notice of refusal to close if the requirements of this section have not been met. A notice
+37 of refusal to close shall advise the worker of:
+38 (A) The decision not to close;
+39 (B) The right of the worker to request a hearing pursuant to ORS 656.283 within 60 days of the
+40 date of the notice of refusal to close;
+41 (C) The right to be represented by an attorney; and
+42 (D) Any other information as the director may require.
+43 (e) If a worker, a worker’s beneficiary, an insurer or a self-insured employer objects to the no-
+44 tice of closure, the objecting party first must request reconsideration by the director under this
+45 section. A worker’s request for reconsideration must be made within 60 days of the date of the no-
+[29]
+
+HB 4119
+1 tice of closure. If the worker is deceased at the time the notice of closure is issued, a request for
+2 reconsideration by a beneficiary of the worker who was mailed a copy of the notice of closure under
+3 paragraph (b) of this subsection must be made within 60 days of the date of the notice of closure.
+4 A request for reconsideration by a beneficiary to the estate of a deceased worker who was not
+5 mailed a copy of the notice of closure under paragraph (b) of this subsection must be made within
+6 one year of the date the notice of closure was mailed to the estate of the worker under paragraph
+7 (b) of this subsection. A request for reconsideration by an insurer or self-insured employer may be
+8 based only on disagreement with the findings used to rate impairment and must be made within
+9 seven days of the date of the notice of closure.
+10 (f) If an insurer or self-insured employer has closed a claim or refused to close a claim pursuant
+11 to this section, if the correctness of that notice of closure or refusal to close is at issue in a hearing
+12 on the claim and if a finding is made at the hearing that the notice of closure or refusal to close
+13 was not reasonable, a penalty shall be assessed against the insurer or self-insured employer and paid
+14 to the worker in an amount equal to 25 percent of all compensation determined to be then due the
+15 claimant.
+16 (g) If, upon reconsideration of a claim closed by an insurer or self-insured employer, the director
+17 orders an increase by 25 percent or more of the amount of compensation to be paid to the worker
+18 for permanent disability and the worker is found upon reconsideration to be at least 20 percent
+19 permanently disabled, a penalty shall be assessed against the insurer or self-insured employer and
+20 paid to the worker in an amount equal to 25 percent of all compensation determined to be then due
+21 the claimant. If the increase in compensation results from information that the insurer or self-
+22 insured employer demonstrates the insurer or self-insured employer could not reasonably have
+23 known at the time of claim closure, from new information obtained through a medical arbiter ex-
+24 amination or from a determination order issued by the director that addresses the extent of the
+25 worker’s permanent disability that is not based on the standards adopted pursuant to ORS 656.726
+26 (4)(f), the penalty shall not be assessed.
+27 (6)(a) Notwithstanding any other provision of law, only one reconsideration proceeding may be
+28 held on each notice of closure. At the reconsideration proceeding:
+29 (A) A deposition arranged by the worker, limited to the testimony and cross-examination of the
+30 worker about the worker’s condition at the time of claim closure, shall become part of the recon-
+31 sideration record. The deposition must be conducted subject to the opportunity for cross-examination
+32 by the insurer or self-insured employer and in accordance with rules adopted by the director. The
+33 cost of the court reporter, interpreter services, if necessary, and one original of the transcript of the
+34 deposition for the Department of Consumer and Business Services and one copy of the transcript
+35 of the deposition for each party shall be paid by the insurer or self-insured employer. The recon-
+36 sideration proceeding may not be postponed to receive a deposition taken under this subparagraph.
+37 A deposition taken in accordance with this subparagraph may be received as evidence at a hearing
+38 even if the deposition is not prepared in time for use in the reconsideration proceeding.
+39 (B) Pursuant to rules adopted by the director, the worker or the insurer or self-insured employer
+40 may correct information in the record that is erroneous and may submit any medical evidence that
+41 should have been but was not submitted by the attending physician [or nurse practitioner authorized
+42 to provide compensable medical services under ORS 656.245] at the time of claim closure.
+43 (C) If the director determines that a claim was not closed in accordance with subsection (1) of
+44 this section, the director may rescind the closure.
+45 (b) If necessary, the director may require additional medical or other information with respect
+[30]
+
+HB 4119
+1 to the claims and may postpone the reconsideration for not more than 60 additional calendar days.
+2 (c) In any reconsideration proceeding under this section in which the worker was represented
+3 by an attorney, the director shall order the insurer or self-insured employer to pay to the attorney,
+4 out of the additional compensation awarded, an amount equal to 10 percent of any additional com-
+5 pensation awarded to the worker.
+6 (d) Except as provided in subsection (7) of this section, the reconsideration proceeding shall be
+7 completed within 18 working days from the date the reconsideration proceeding begins, and shall
+8 be performed by a special evaluation appellate unit within the department. The deadline of 18
+9 working days may be postponed by an additional 60 calendar days if within the 18 working days the
+10 department mails notice of review by a medical arbiter. If an order on reconsideration has not been
+11 mailed on or before 18 working days from the date the reconsideration proceeding begins, or within
+12 18 working days plus the additional 60 calendar days where a notice for medical arbiter review was
+13 timely mailed or the director postponed the reconsideration pursuant to paragraph (b) of this sub-
+14 section, or within such additional time as provided in subsection (8) of this section when reconsid-
+15 eration is postponed further because the worker has failed to cooperate in the medical arbiter
+16 examination, reconsideration shall be deemed denied and any further proceedings shall occur as
+17 though an order on reconsideration affirming the notice of closure was mailed on the date the order
+18 was due to issue.
+19 (e) The period for completing the reconsideration proceeding described in paragraph (d) of this
+20 subsection begins upon receipt by the director of a worker’s or a beneficiary’s request for recon-
+21 sideration pursuant to subsection (5)(e) of this section. If the insurer or self-insured employer re-
+22 quests reconsideration, the period for reconsideration begins upon the earlier of the date of the
+23 request for reconsideration by the worker or beneficiary, the date of receipt of a waiver from the
+24 worker or beneficiary of the right to request reconsideration or the date of expiration of the right
+25 of the worker or beneficiary to request reconsideration. If a party elects not to file a separate re-
+26 quest for reconsideration, the party does not waive the right to fully participate in the reconsider-
+27 ation proceeding, including the right to proceed with the reconsideration if the initiating party
+28 withdraws the request for reconsideration.
+29 (f) Any medical arbiter report may be received as evidence at a hearing even if the report is
+30 not prepared in time for use in the reconsideration proceeding.
+31 (g) If any party objects to the reconsideration order, the party may request a hearing under ORS
+32 656.283 within 30 days from the date of the reconsideration order.
+33 (7)(a) The director may delay the reconsideration proceeding and toll the reconsideration
+34 timeline established under subsection (6) of this section for up to 45 calendar days if:
+35 (A) A request for reconsideration of a notice of closure has been made to the director within
+36 60 days of the date of the notice of closure;
+37 (B) The parties are actively engaged in settlement negotiations that include issues in dispute
+38 at reconsideration;
+39 (C) The parties agree to the delay; and
+40 (D) Both parties notify the director before the 18th working day after the reconsideration pro-
+41 ceeding has begun that they request a delay under this subsection.
+42 (b) A delay of the reconsideration proceeding granted by the director under this subsection ex-
+43 pires:
+44 (A) If a party requests the director to resume the reconsideration proceeding before the expi-
+45 ration of the delay period;
+[31]
+
+HB 4119
+1 (B) If the parties reach a settlement and the director receives a copy of the approved settlement
+2 documents before the expiration of the delay period; or
+3 (C) On the next calendar day following the expiration of the delay period authorized by the di-
+4 rector.
+5 (c) Upon expiration of a delay granted under this subsection, the timeline for the completion of
+6 the reconsideration proceeding shall resume as if the delay had never been granted.
+7 (d) Compensation due the worker shall continue to be paid during the period of delay authorized
+8 under this subsection.
+9 (e) The director may authorize only one delay period for each reconsideration proceeding.
+10 (8)(a) If the basis for objection to a notice of closure issued under this section is disagreement
+11 with the impairment used in rating of the worker’s disability, the director shall refer the claim to
+12 a medical arbiter appointed by the director.
+13 (b) If the director determines that insufficient medical information is available to determine
+14 disability, the director may appoint, and refer the claim to, a medical arbiter.
+15 (c) At the request of either of the parties, the director shall appoint a panel of as many as three
+16 medical arbiters in accordance with criteria that the director sets by rule.
+17 (d) The arbiter, or panel of medical arbiters, must be chosen from among a list of physicians
+18 qualified to be attending physicians [referred to] as defined in ORS 656.005 [(12)(b)(A)] (12)(b) whom
+19 the director selected in consultation with the Oregon Medical Board and the committee referred to
+20 in ORS 656.790.
+21 (e)(A) The medical arbiter or panel of medical arbiters may examine the worker and perform
+22 such tests as may be reasonable and necessary to establish the worker’s impairment.
+23 (B) If the director determines that the worker failed to attend the examination without good
+24 cause or failed to cooperate with the medical arbiter, or panel of medical arbiters, the director shall
+25 postpone the reconsideration proceedings for up to 60 days from the date of the determination that
+26 the worker failed to attend or cooperate, and shall suspend all disability benefits resulting from this
+27 or any prior opening of the claim until such time as the worker attends and cooperates with the
+28 examination or the request for reconsideration is withdrawn. Any additional evidence regarding
+29 good cause must be submitted prior to the conclusion of the 60-day postponement period.
+30 (C) At the conclusion of the 60-day postponement period, if the worker has not attended and
+31 cooperated with a medical arbiter examination or established good cause, the worker may not attend
+32 a medical arbiter examination for this claim closure. The reconsideration record must be closed, and
+33 the director shall issue an order on reconsideration based upon the existing record.
+34 (D) All disability benefits suspended under this subsection, including all disability benefits
+35 awarded in the order on reconsideration, or by an Administrative Law Judge, the Workers’ Com-
+36 pensation Board or upon court review, are not due and payable to the worker.
+37 (f) The insurer or self-insured employer shall pay the costs of examination and review by the
+38 medical arbiter or panel of medical arbiters.
+39 (g) The findings of the medical arbiter or panel of medical arbiters must be submitted to the
+40 director for reconsideration of the notice of closure.
+41 (h) After reconsideration, no subsequent medical evidence of the worker’s impairment is admis-
+42 sible before the director, the Workers’ Compensation Board or the courts for purposes of making
+43 findings of impairment on the claim closure.
+44 (i)(A) If the basis for objection to a notice of closure issued under this section is a disagreement
+45 with the impairment used in rating the worker’s disability, and the director determines that the
+[32]
+
+HB 4119
+1 worker is not medically stationary at the time of the reconsideration or that the closure was not
+2 made pursuant to this section, the director is not required to appoint a medical arbiter before
+3 completing the reconsideration proceeding.
+4 (B) If the worker’s condition has substantially changed since the notice of closure, upon the
+5 consent of all the parties to the claim, the director shall postpone the proceeding until the worker’s
+6 condition is appropriate for claim closure under subsection (1) of this section.
+7 (9) No hearing shall be held on any issue that was not raised and preserved before the director
+8 at reconsideration. However, issues arising out of the reconsideration order may be addressed and
+9 resolved at hearing.
+10 (10) If, after the notice of closure issued pursuant to this section, the worker becomes enrolled
+11 and actively engaged in training according to rules adopted pursuant to ORS 656.340 and 656.726,
+12 any permanent disability payments due for work disability under the closure shall be suspended, and
+13 the worker shall receive temporary disability compensation and any permanent disability payments
+14 due for impairment while the worker is enrolled and actively engaged in the training. When the
+15 worker ceases to be enrolled and actively engaged in the training, the insurer or self-insured em-
+16 ployer shall again close the claim pursuant to this section if the worker is medically stationary or
+17 if the worker’s accepted injury is no longer the major contributing cause of the worker’s combined
+18 or consequential condition or conditions pursuant to ORS 656.005 (7). The closure shall include the
+19 duration of temporary total or temporary partial disability compensation. Permanent disability
+20 compensation shall be redetermined for work disability only. If the worker has returned to work or
+21 the worker’s attending physician has released the worker to return to regular or modified employ-
+22 ment, the insurer or self-insured employer shall again close the claim. This notice of closure may
+23 be appealed only in the same manner as are other notices of closure under this section.
+24 (11) If the attending physician [or nurse practitioner authorized to provide compensable medical
+25 services under ORS 656.245] has approved the worker’s return to work and there is a labor dispute
+26 in progress at the place of employment, the worker may refuse to return to that employment without
+27 loss of reemployment rights or any vocational assistance provided by this chapter.
+28 (12) Any notice of closure made under this section may include necessary adjustments in com-
+29 pensation paid or payable prior to the notice of closure, including disallowance of permanent disa-
+30 bility payments prematurely made, crediting temporary disability payments against current or future
+31 permanent or temporary disability awards or payments and requiring the payment of temporary
+32 disability payments which were payable but not paid.
+33 (13) An insurer or self-insured employer may take a credit or offset of previously paid workers’
+34 compensation benefits or payments against any further workers’ compensation benefits or payments
+35 due a worker from that insurer or self-insured employer when the worker admits to having obtained
+36 the previously paid benefits or payments through fraud, or a civil judgment or criminal conviction
+37 is entered against the worker for having obtained the previously paid benefits through fraud. Bene-
+38 fits or payments obtained through fraud by a worker may not be included in any data used for
+39 ratemaking or individual employer rating or dividend calculations by an insurer, a rating organiza-
+40 tion licensed pursuant to ORS chapter 737, the State Accident Insurance Fund Corporation or the
+41 director.
+42 (14)(a) An insurer or self-insured employer may offset any compensation payable to the worker
+43 to recover an overpayment from a claim with the same insurer or self-insured employer. When
+44 overpayments are recovered from temporary disability or permanent total disability benefits, the
+45 amount recovered from each payment shall not exceed 25 percent of the payment, without prior
+[33]
+
+HB 4119
+1 authorization from the worker.
+2 (b) An insurer or self-insured employer may suspend and offset any compensation payable to the
+3 beneficiary of the worker, and recover an overpayment of permanent total disability benefits caused
+4 by the failure of the worker’s beneficiaries to notify the insurer or self-insured employer about the
+5 death of the worker.
+6 (15) Conditions that are direct medical sequelae to the original accepted condition shall be in-
+7 cluded in rating permanent disability of the claim unless they have been specifically denied.
+8 (16)(a) Except as provided under subsection (13) of this section, an insurer or self-insured em-
+9 ployer may not recover an overpayment from a worker’s permanent partial disability compensation
+10 for overpayments, offsets or credits of wage loss in an amount that exceeds 50 percent of the total
+11 compensation awarded to the worker.
+12 (b) An insurer or self-insured employer may not declare an overpayment of any compensation
+13 that was paid more than two years prior to the date of the declaration.
+14 SECTION 10. ORS 656.325 is amended to read:
+15 656.325. (1)(a) Any worker entitled to receive compensation under this chapter is required, if
+16 requested by the Director of the Department of Consumer and Business Services, the insurer or
+17 self-insured employer, to submit to a medical examination at a time reasonably convenient for the
+18 worker as may be provided by the rules of the director. No more than three independent medical
+19 examinations may be requested except after notification to and authorization by the director. If the
+20 worker refuses to submit to any such examination, or obstructs the same, the rights of the worker
+21 to compensation shall be suspended with the consent of the director until the examination has taken
+22 place, and no compensation shall be payable during or for account of such period. The provisions
+23 of this paragraph are subject to the limitations on medical examinations provided in ORS 656.268.
+24 (b) When a worker is requested by the director, the insurer or self-insured employer to attend
+25 an independent medical examination, the examination must be conducted by a physician selected
+26 from a list of qualified physicians established by the director under ORS 656.328.
+27 (c) The director shall adopt rules applicable to independent medical examinations conducted
+28 pursuant to paragraph (a) of this subsection that:
+29 (A) Provide a worker the opportunity to request review by the director of the reasonableness
+30 of the location selected for an independent medical examination. Upon receipt of the request for
+31 review, the director shall conduct an expedited review of the location selected for the independent
+32 medical examination and issue an order on the reasonableness of the location of the examination.
+33 The director shall determine if there is substantial evidence for the objection to the location for the
+34 independent medical examination based on a conclusion that the required travel is medically
+35 contraindicated or other good cause establishing that the required travel is unreasonable. The de-
+36 terminations of the director about the location of independent medical examinations are not subject
+37 to review.
+38 (B) Impose a monetary penalty against a worker who fails to attend an independent medical
+39 examination without prior notification or without justification for not attending the examination. A
+40 penalty imposed under this subparagraph may be imposed only on a worker who is not receiving
+41 temporary disability benefits under ORS 656.210 or 656.212. An insurer or self-insured employer may
+42 offset any future compensation payable to the worker to recover any penalty imposed under this
+43 subparagraph from a claim with the same insurer or self-insured employer. When a penalty is re-
+44 covered from temporary disability or permanent total disability benefits, the amount recovered from
+45 each payment may not exceed 25 percent of the benefit payment without prior authorization from
+[34]
+
+HB 4119
+1 the worker.
+2 (C) Impose a sanction against a medical service provider that unreasonably fails to provide in
+3 a timely manner diagnostic records required for an independent medical examination.
+4 (d) Notwithstanding ORS 656.262 (6), if the director determines that the location selected for an
+5 independent medical examination is unreasonable, the insurer or self-insured employer shall accept
+6 or deny the claim within 90 days after the employer has notice or knowledge of the claim.
+7 (e) If the worker has made a timely request for a hearing on a denial of compensability as re-
+8 quired by ORS 656.319 (1)(a) that is based on one or more reports of examinations conducted pur-
+9 suant to paragraph (a) of this subsection and the worker’s attending physician [or nurse practitioner
+10 authorized to provide compensable medical services under ORS 656.245] does not concur with the re-
+11 port or reports, the worker may request an examination to be conducted by a physician selected by
+12 the director from the list described in ORS 656.328. The cost of the examination and the examination
+13 report shall be paid by the insurer or self-insured employer.
+14 (f) The insurer or self-insured employer shall pay the costs of the medical examination and re-
+15 lated services which are reasonably necessary to allow the worker to submit to any examination
+16 requested under this section. As used in this paragraph, “related services” includes, but is not lim-
+17 ited to, child care, travel, meals, lodging and an amount equivalent to the worker’s net lost wages
+18 for the period during which the worker is absent if the worker does not receive benefits pursuant
+19 to ORS 656.210 (4) during the period of absence. A claim for “related services” described in this
+20 paragraph shall be made in the manner prescribed by the director.
+21 (g) A worker who objects to the location of an independent medical examination must request
+22 review by the director under paragraph (c)(A) of this subsection within six business days of the date
+23 the notice of the independent medical examination was mailed.
+24 (2) For any period of time during which any worker commits insanitary or injurious practices
+25 which tend to either imperil or retard recovery of the worker, or refuses to submit to such medical
+26 or surgical treatment as is reasonably essential to promote recovery, or fails to participate in a
+27 program of physical rehabilitation, the right of the worker to compensation shall be suspended with
+28 the consent of the director and no payment shall be made for such period. The period during which
+29 such worker would otherwise be entitled to compensation may be reduced with the consent of the
+30 director to such an extent as the disability has been increased by such refusal.
+31 (3) A worker who has received an award for permanent total or permanent partial disability
+32 should be encouraged to make a reasonable effort to reduce the disability; and the award shall be
+33 subject to periodic examination and adjustment in conformity with ORS 656.268.
+34 (4) When the employer of an injured worker, or the employer’s insurer determines that the in-
+35 jured worker has failed to follow medical advice from the attending physician [or nurse practitioner
+36 authorized to provide compensable medical services under ORS 656.245] or has failed to participate
+37 in or complete physical restoration or vocational rehabilitation programs prescribed for the worker
+38 pursuant to this chapter, the employer or insurer may petition the director for reduction of any
+39 benefits awarded the worker. Notwithstanding any other provision of this chapter, if the director
+40 finds that the worker has failed to accept treatment as provided in this subsection, the director may
+41 reduce any benefits awarded the worker by such amount as the director considers appropriate.
+42 (5)(a) Except as provided by ORS 656.268 (4)(c) and (11), an insurer or self-insured employer shall
+43 cease making payments pursuant to ORS 656.210 and shall commence making payment of such
+44 amounts as are due pursuant to ORS 656.212 when an injured worker refuses wage earning em-
+45 ployment prior to claim determination and the worker’s attending physician [or nurse practitioner
+[35]
+
+HB 4119
+1 authorized to provide compensable medical services under ORS 656.245], after being notified by the
+2 employer of the specific duties to be performed by the injured worker, agrees that the injured
+3 worker is capable of performing the employment offered.
+4 (b) If the worker has been terminated for violation of work rules or other disciplinary reasons,
+5 the insurer or self-insured employer shall cease payments pursuant to ORS 656.210 and commence
+6 payments pursuant to ORS 656.212 when the attending physician [or nurse practitioner authorized to
+7 provide compensable medical services under ORS 656.245] approves employment in a modified job that
+8 would have been offered to the worker if the worker had remained employed, provided that the
+9 employer has a written policy of offering modified work to injured workers.
+10 (c) If the worker is a person present in the United States in violation of federal immigration
+11 laws, the insurer or self-insured employer shall cease payments pursuant to ORS 656.210 and com-
+12 mence payments pursuant to ORS 656.212 when the attending physician [or nurse practitioner au-
+13 thorized to provide compensable medical services under ORS 656.245] approves employment in a
+14 modified job whether or not such a job is available.
+15 (6) Any party may request a hearing on any dispute under this section pursuant to ORS 656.283.
+16 SECTION 11. ORS 656.340 is amended to read:
+17 656.340. (1)(a) The insurer or self-insured employer shall cause vocational assistance to be pro-
+18 vided to an injured worker who is eligible for assistance in returning to work.
+19 (b) For this purpose the insurer or self-insured employer shall contact a worker with a claim for
+20 a disabling compensable injury or claim for aggravation for evaluation of the worker’s eligibility for
+21 vocational assistance within five days of:
+22 (A) Having knowledge of the worker’s likely eligibility for vocational assistance, from a medical
+23 or investigation report, notification from the worker, or otherwise; or
+24 (B) The time the worker is medically stationary, if the worker has not returned to or been re-
+25 leased for the worker’s regular employment or has not returned to other suitable employment with
+26 the employer at the time of injury or aggravation and the worker is not receiving vocational as-
+27 sistance.
+28 (c) Eligibility may be redetermined by the insurer or self-insured employer upon receipt of new
+29 information that would change the eligibility determination.
+30 (2) Contact under subsection (1) of this section shall include informing the worker about reem-
+31 ployment rights, the responsibility of the worker to request reemployment, and wage subsidy and job
+32 site modification assistance and the provisions of the preferred worker program pursuant to rules
+33 adopted by the Director of the Department of Consumer and Business Services.
+34 (3) Within five days after notification that the attending physician [or nurse practitioner author-
+35 ized to provide compensable medical services under ORS 656.245] has released a worker to return to
+36 work, the insurer or self-insured employer shall inform the worker about the opportunity to seek
+37 reemployment or reinstatement under ORS 659A.043 and 659A.046. The insurer shall inform the
+38 employer of the worker’s reemployment rights, wage subsidy and the job site modification assistance
+39 and the provisions of the preferred worker program.
+40 (4) As soon as possible, and not more than 30 days after the contact required by subsection (1)
+41 of this section, the insurer or self-insured employer shall cause an individual certified by the direc-
+42 tor to provide vocational assistance to determine whether the worker is eligible for vocational as-
+43 sistance. The insurer or self-insured employer shall notify the worker of the decision regarding the
+44 worker’s eligibility for vocational assistance. If the insurer or self-insured employer decides that the
+45 worker is not eligible, the worker may apply to the director for review of the decision as provided
+[36]
+
+HB 4119
+1 in subsection (16) of this section. A worker determined ineligible upon evaluation under subsection
+2 (1)(b)(B) of this section, or because the worker’s eligibility has fully and finally expired under stan-
+3 dards prescribed by the director, may not be found eligible thereafter unless that eligibility deter-
+4 mination is rejected by the director under subsection (16) of this section or the worker’s condition
+5 worsens so as to constitute an aggravation claim under ORS 656.273. A worker is not entitled to
+6 vocational assistance benefits when possible eligibility for such benefits arises from a worsening of
+7 the worker’s condition that occurs after the expiration of the worker’s aggravation rights under ORS
+8 656.273.
+9 (5) The objectives of vocational assistance are to return the worker to employment which is as
+10 close as possible to the worker’s regular employment at a wage as close as possible to the weekly
+11 wage currently being paid for employment which was the worker’s regular employment even though
+12 the wage available following employment may be less than the wage prescribed by subsection (6)
+13 of this section. As used in this subsection and subsection (6) of this section, “regular employment”
+14 means the employment the worker held at the time of the injury or the claim for aggravation under
+15 ORS 656.273, whichever gave rise to the potential eligibility for vocational assistance; or, for a
+16 worker not employed at the time of the aggravation, the employment the worker held on the last
+17 day of work prior to the aggravation.
+18 (6)(a) A worker is eligible for vocational assistance if the worker will not be able to return to
+19 the previous employment or to any other available and suitable employment with the employer at
+20 the time of injury or aggravation, and the worker has a substantial handicap to employment.
+21 (b) As used in this subsection:
+22 (A) A “substantial handicap to employment” exists when the worker, because of the injury or
+23 aggravation, lacks the necessary physical capacities, knowledge, skills and abilities to be employed
+24 in suitable employment.
+25 (B) “Suitable employment” means:
+26 (i) Employment of the kind for which the worker has the necessary physical capacity, knowl-
+27 edge, skills and abilities;
+28 (ii) Employment that is located where the worker customarily worked or is within reasonable
+29 commuting distance of the worker’s residence; and
+30 (iii) Employment that produces a weekly wage within 20 percent of that currently being paid for
+31 employment that was the worker’s regular employment as defined in subsection (5) of this section.
+32 The director shall adopt rules providing methods of calculating the weekly wage currently being
+33 paid for the worker’s regular employment for use in determining eligibility and for providing as-
+34 sistance to eligible workers. If the worker’s regular employment was seasonal or temporary, the
+35 worker’s wage shall be averaged based on a combination of the worker’s earned income and any
+36 unemployment insurance payments. Only earned income evidenced by verifiable documentation such
+37 as federal or state tax returns shall be used in the calculation. Earned income does not include
+38 fringe benefits or reimbursement of the worker’s employment expenses.
+39 (7) Vocational evaluation, help in directly obtaining employment and training shall be available
+40 under conditions prescribed by the director. The director may establish other conditions for pro-
+41 viding vocational assistance, including those relating to the worker’s availability for assistance,
+42 participation in previous assistance programs connected with the same claim and the nature and
+43 extent of assistance that may be provided. Such conditions shall give preference to direct employ-
+44 ment assistance over training.
+45 (8) An insurer or self-insured employer may utilize its own staff or may engage any other indi-
+[37]
+
+HB 4119
+1 vidual certified by the director to perform the vocational evaluation required by subsection (4) of
+2 this section.
+3 (9) The director shall adopt rules providing:
+4 (a) Standards for and methods of certifying individuals qualified by education, training and ex-
+5 perience to provide vocational assistance to injured workers;
+6 (b) Standards for registration of vocational assistance providers;
+7 (c) Conditions and procedures under which the certification of an individual to provide voca-
+8 tional assistance services or the registration of a vocational assistance provider may be suspended
+9 or revoked for failure to maintain compliance with the certification or registration standards;
+10 (d) Standards for the nature and extent of services a worker may receive, for plans for return
+11 to work and for determining when the worker has returned to work; and
+12 (e) Procedures, schedules and conditions relating to the payment for services performed by a
+13 vocational assistance provider, that are based on payment for specific services performed and not
+14 fees for services performed on an hourly basis. Fee schedules shall reflect a reasonable rate for
+15 direct worker purchases and for all vocational assistance providers and shall be the same within
+16 suitable geographic areas.
+17 (10) Insurers and self-insured employers shall maintain records and make reports to the director
+18 of vocational assistance actions at times and in the manner as the director may prescribe. The re-
+19 quirements prescribed shall be for the purpose of assisting the Department of Consumer and Busi-
+20 ness Services in monitoring compliance with this section to insure that workers receive timely and
+21 appropriate vocational assistance. The director shall minimize to the greatest extent possible the
+22 number, extent and kinds of reports required. The director shall compile a list of organizations or
+23 agencies registered to provide vocational assistance. A current list shall be distributed by the di-
+24 rector to all insurers and self-insured employers. The insurer shall send the list to each worker with
+25 the notice of eligibility.
+26 (11) When a worker is eligible to receive vocational assistance, the worker and the insurer or
+27 self-insured employer shall attempt to agree on the choice of a vocational assistance provider. If the
+28 worker agrees, the insurer or self-insured employer may utilize its own staff to provide vocational
+29 assistance. If they are unable to agree on a vocational assistance provider, the insurer or self-
+30 insured employer shall notify the director and the director shall select a provider. Any change in
+31 the choice of vocational assistance provider is subject to the approval of the director.
+32 (12) Notwithstanding ORS 656.268, a worker actively engaged in training may receive temporary
+33 disability compensation for a maximum of 16 months. The insurer or self-insured employer may vol-
+34 untarily extend the payment of temporary disability compensation to a maximum of 21 months. The
+35 director may order the payment of temporary disability compensation for up to 21 months upon good
+36 cause shown by the injured worker. The costs related to vocational assistance training programs
+37 may be paid for periods longer than 21 months, but in no event may temporary disability benefits
+38 be paid for a period longer than 21 months.
+39 (13) As used in this section, “vocational assistance provider” means a public or private organ-
+40 ization or agency that provides vocational assistance to injured workers.
+41 (14)(a) Determination of eligibility for vocational assistance does not entitle all workers to the
+42 same type or extent of assistance.
+43 (b) Training shall not be provided to an eligible worker solely because the worker cannot obtain
+44 employment, otherwise suitable, that will produce the wage prescribed in subsection (6) of this sec-
+45 tion unless such training will enable the worker to find employment which will produce a wage
+[38]
+
+HB 4119
+1 significantly closer to that prescribed in subsection (6) of this section.
+2 (c) Nothing in this section shall be interpreted to expand the availability of training under this
+3 section.
+4 (15) A physical capacities evaluation shall be performed in conjunction with vocational assist-
+5 ance or determination of eligibility for such assistance at the request of the insurer or self-insured
+6 employer or worker. The request shall be made to the attending physician [or nurse practitioner
+7 authorized to provide compensable medical services under ORS 656.245]. [The attending physician or
+8 nurse practitioner,] Within 20 days of the request, the attending physician shall perform a physical
+9 capacities evaluation or refer the worker for such evaluation or advise the insurer or self-insured
+10 employer and the worker in writing that the injured worker is incapable of participating in a phys-
+11 ical capacities evaluation.
+12 (16)(a) The Legislative Assembly finds that vocational rehabilitation of injured workers requires
+13 a high degree of cooperation between all of the participants in the vocational assistance process.
+14 Based on this finding, the Legislative Assembly concludes that disputes regarding eligibility for and
+15 extent of vocational assistance services should be resolved through nonadversarial procedures to the
+16 greatest extent possible consistent with constitutional principles. The director shall adopt by rule
+17 a procedure for resolving vocational assistance disputes in the manner provided in this subsection.
+18 (b) If a worker is dissatisfied with an action of the insurer or self-insured employer regarding
+19 vocational assistance, the worker must apply to the director for administrative review of the matter.
+20 Application for review must be made not later than the 60th day after the date the worker was
+21 notified of the action. The director shall complete the review within a reasonable time.
+22 (c) If the worker’s dissatisfaction is resolved by agreement of the parties, the agreement shall
+23 be reduced to writing, and the director and the parties shall review the agreement and either ap-
+24 prove or disapprove it. The agreement is subject to reconsideration by the director under limitations
+25 prescribed by the director, but is not subject to review by any other forum.
+26 (d) If the worker’s dissatisfaction is not resolved by agreement of the parties, the director shall
+27 resolve the matter in a written order based on a record sufficient to permit review. The order is
+28 subject to review under ORS 656.704. The request for a hearing must be filed within 60 days of the
+29 date the order was issued. At the hearing, the order of the director shall be modified only if it:
+30 (A) Violates a statute or rule;
+31 (B) Exceeds the statutory authority of the agency;
+32 (C) Was made upon unlawful procedure; or
+33 (D) Was characterized by abuse of discretion or clearly unwarranted exercise of discretion.
+34 (e) For purposes of this subsection, the term “parties” does not include a noncomplying em-
+35 ployer.
+36 SECTION 12. ORS 656.726 is amended to read:
+37 656.726. (1) The Workers’ Compensation Board in its name and the Director of the Department
+38 of Consumer and Business Services in the director’s name as director may sue and be sued, and each
+39 shall have a seal.
+40 (2) The board hereby is charged with reviewing appealed orders of Administrative Law Judges
+41 in controversies concerning a claim arising under this chapter, exercising own motion jurisdiction
+42 under this chapter and providing such policy advice as the director may request, and providing such
+43 other review functions as may be prescribed by law. To that end any of its members or assistants
+44 authorized thereto by the members shall have power to:
+45 (a) Hold sessions at any place within the state.
+[39]
+
+HB 4119
+1 (b) Administer oaths.
+2 (c) Issue and serve by the board’s representatives, or by any sheriff, subpoenas for the attend-
+3 ance of witnesses and the production of papers, contracts, books, accounts, documents and testimony
+4 before any hearing under ORS 654.001 to 654.295, 654.412 to 654.423, 654.750 to 654.780 and this
+5 chapter.
+6 (d) Generally provide for the taking of testimony and for the recording of proceedings.
+7 (3) The board chairperson is hereby charged with the administration of and responsibility for the
+8 Hearings Division.
+9 (4) The director hereby is charged with duties of administration, regulation and enforcement of
+10 ORS 654.001 to 654.295, 654.412 to 654.423, 654.750 to 654.780 and this chapter. To that end the di-
+11 rector may:
+12 (a) Make and declare all rules and issue orders which are reasonably required in the perform-
+13 ance of the director’s duties. Unless otherwise specified by law, all reports, claims or other docu-
+14 ments shall be deemed timely provided to the director or board if mailed by regular mail or
+15 delivered within the time required by law. Notwithstanding any other provision of this chapter, the
+16 director may adopt rules to allow for the electronic transmission and filing of reports, claims or
+17 other documents required to be filed under this chapter and to require the electronic transmission
+18 and filing of proof of coverage required under ORS 656.419, 656.423 and 656.427. Notwithstanding
+19 ORS 183.310 to 183.410, if a matter comes before the director that is not addressed by rule and the
+20 director finds that adoption of a rule to accommodate the matter would be inefficient, unreasonable
+21 or unnecessarily burdensome to the public, the director may resolve the matter by issuing an order,
+22 subject to review under ORS 656.704. Such order shall not have precedential effect as to any other
+23 situation.
+24 (b) Hold sessions at any place within the state.
+25 (c) Administer oaths.
+26 (d) Issue and serve by representatives of the director, or by any sheriff, subpoenas for the at-
+27 tendance of witnesses and the production of papers, contracts, books, accounts, documents and tes-
+28 timony in any inquiry, investigation, proceeding or rulemaking hearing conducted by the director
+29 or the director’s representatives. The director may require the attendance and testimony of em-
+30 ployers, their officers and representatives in any inquiry under this chapter, and the production by
+31 employers of books, records, papers and documents without the payment or tender of witness fees
+32 on account of such attendance.
+33 (e) Generally provide for the taking of testimony and for the recording of such proceedings.
+34 (f) Provide standards for the evaluation of disabilities. The following provisions apply to the
+35 standards:
+36 (A) The criterion for evaluation of permanent impairment under ORS 656.214 is the loss of use
+37 or function of a body part or system due to the compensable industrial injury or occupational dis-
+38 ease. Permanent impairment is expressed as a percentage of the whole person. The impairment value
+39 may not exceed 100 percent of the whole person.
+40 (B) Impairment is established by a preponderance of medical evidence based upon objective
+41 findings.
+42 (C) The criterion for evaluation of work disability under ORS 656.214 is permanent impairment
+43 as modified by the factors of age, education and adaptability to perform a given job.
+44 (D) When, upon reconsideration of a notice of closure pursuant to ORS 656.268, it is found that
+45 the worker’s disability is not addressed by the standards adopted pursuant to this paragraph,
+[40]
+
+HB 4119
+1 notwithstanding ORS 656.268, the director shall, in the order on reconsideration, determine the ex-
+2 tent of permanent disability that addresses the worker’s impairment.
+3 (E) Notwithstanding any other provision of this section, only impairment benefits shall be
+4 awarded under ORS 656.214 if the worker has been released to regular work by the attending phy-
+5 sician [or nurse practitioner authorized to provide compensable medical services under ORS 656.245]
+6 or has returned to regular work at the job held at the time of injury.
+7 (g) Prescribe procedural rules for and conduct hearings, investigations and other proceedings
+8 pursuant to ORS 654.001 to 654.295, 654.412 to 654.423, 654.750 to 654.780 and this chapter regarding
+9 all matters other than those specifically allocated to the board or the Hearings Division.
+10 (h) Participate fully in any proceeding before the Hearings Division, board or Court of Appeals
+11 in which the director determines that the proceeding involves a matter that affects or could affect
+12 the discharge of the director’s duties of administration, regulation and enforcement of ORS 654.001
+13 to 654.295, 654.412 to 654.423, 654.750 to 654.780 and this chapter.
+14 (5)(a) The board may make and declare all rules which are reasonably required in the perform-
+15 ance of its duties, including but not limited to rules of practice and procedure in connection with
+16 hearing and review proceedings and exercising its authority under ORS 656.278. The board shall
+17 adopt standards governing the format and timing of the evidence. The standards shall be uniformly
+18 followed by all Administrative Law Judges and practitioners. The rules may provide for informal
+19 prehearing conferences in order to expedite claim adjudication, amicably dispose of controversies,
+20 if possible, narrow issues and simplify the method of proof at hearings. The rules shall specify who
+21 may appear with parties at prehearing conferences and hearings.
+22 (b) Notwithstanding any other provision of this chapter, the board may adopt rules to allow for
+23 the electronic transmission of filings, reports, notices and other documents required to be filed under
+24 the board’s authority.
+25 (6) The director and the board chairperson may incur such expenses as they respectively de-
+26 termine are reasonably necessary to perform their authorized functions.
+27 (7) The director, the board chairperson and the State Accident Insurance Fund Corporation shall
+28 have the right, not subject to review, to contract for the exchange of, or payment for, such services
+29 between them as will reduce the overall cost of administering this chapter.
+30 (8) The director shall have lien and enforcement powers regarding assessments to be paid by
+31 subject employers in the same manner and to the same extent as is provided for lien and enforce-
+32 ment of collection of premiums and assessments by the corporation under ORS 656.552 to 656.566.
+33 (9) The director shall have the same powers regarding inspection of books, records and payrolls
+34 of employers as are granted the corporation under ORS 656.758. The director may disclose infor-
+35 mation obtained from such inspections to the Director of the Department of Revenue to the extent
+36 the Director of the Department of Revenue requires such information to determine that a person
+37 complies with the revenue and tax laws of this state and to the Director of the Employment De-
+38 partment to the extent the Director of the Employment Department requires such information to
+39 determine that a person complies with ORS chapter 657.
+40 (10) The director shall collect hours-worked data information in addition to total payroll for
+41 workers engaged in various jobs in the construction industry classifications described in the job
+42 classification portion of the Workers’ Compensation and Employers Liability Manual and the Oregon
+43 Special Rules Section published by the National Council on Compensation Insurance. The informa-
+44 tion shall be collected in the form and format necessary for the National Council on Compensation
+45 Insurance to analyze premium equity.
+[41]
+
+HB 4119
+1 SECTION 13. ORS 656.797 is amended to read:
+2 656.797. On or after October 1, 2004, prior to providing compensable medical services or
+3 authorizing temporary disability benefits, a nurse practitioner licensed under ORS 678.375 to
+4 678.390[, prior to providing compensable medical services or authorizing temporary disability benefits
+5 under ORS 656.245,] must certify in a form acceptable to the Director of the Department of Con-
+6 sumer and Business Services that the nurse practitioner has reviewed the materials developed under
+7 ORS 656.795.
+8 SECTION 14. ORS 659A.043 is amended to read:
+9 659A.043. (1) A worker who has sustained a compensable injury shall be reinstated by the
+10 worker’s employer to the worker’s former position of employment upon demand for such rein-
+11 statement, if the position exists and is available and the worker is not disabled from performing the
+12 duties of such position. A worker’s former position is available even if that position has been filled
+13 by a replacement while the injured worker was absent. If the former position is not available, the
+14 worker shall be reinstated in any other existing position that is vacant and suitable. A certificate
+15 by the attending physician, as defined in ORS 656.005 (12)(b), [or a nurse practitioner authorized
+16 to provide compensable medical services under ORS 656.245] that the attending physician [or nurse
+17 practitioner] approves the worker’s return to the worker’s regular employment or other suitable
+18 employment shall be prima facie evidence that the worker is able to perform such duties.
+19 (2) Such right of reemployment shall be subject to the provisions for seniority rights and other
+20 employment restrictions contained in a valid collective bargaining agreement between the employer
+21 and a representative of the employer’s employees.
+22 (3) Notwithstanding subsection (1) of this section:
+23 (a) The right to reinstatement to the worker’s former position under this section terminates
+24 when whichever of the following events first occurs:
+25 [(A) A medical determination by the attending physician or, after an appeal of such determination
+26 to a medical arbiter or panel of medical arbiters pursuant to ORS chapter 656, has been made that the
+27 worker cannot return to the former position of employment.]
+28 (A) The worker cannot return to the former position of employment according to:
+29 (i) The medical determination of the attending physician; or
+30 (ii) Upon appeal of the attending physician’s determination, the determination of a med-
+31 ical arbiter or panel of medical arbiters pursuant to ORS chapter 656.
+32 (B) The worker is eligible and participates in vocational assistance under ORS 656.340.
+33 (C) The worker accepts suitable employment with another employer after becoming medically
+34 stationary.
+35 (D) The worker refuses a bona fide offer from the employer of light duty or modified employment
+36 that is suitable prior to becoming medically stationary.
+37 (E) Seven days elapse from the date that the worker is notified by the insurer or self-insured
+38 employer by certified mail that the worker’s attending physician [or a nurse practitioner authorized
+39 to provide compensable medical services under ORS 656.245] has released the worker for employment
+40 unless the worker requests reinstatement within that time period.
+41 (F) Three years elapse from the date of injury.
+42 (b) The right to reinstatement under this section does not apply to:
+43 (A) A worker hired on a temporary basis as a replacement for an injured worker.
+44 (B) A seasonal worker employed to perform less than six months’ work in a calendar year.
+45 (C) A worker whose employment at the time of injury resulted from referral from a hiring hall
+[42]
+
+HB 4119
+1 operating pursuant to a collective bargaining agreement.
+2 (D) A worker whose employer employs 20 or fewer workers at the time of the worker’s injury
+3 and at the time of the worker’s demand for reinstatement.
+4 (4) Notwithstanding ORS 659A.165, a worker who refuses an offer of employment under sub-
+5 section (3)(a)(D) of this section and who otherwise is entitled to family leave under ORS 659A.150
+6 to 659A.186:
+7 (a) Automatically commences a period of family leave under ORS 659A.150 to 659A.186 upon
+8 refusing the offer of employment; and
+9 (b) Need not give additional written or oral notice to the employer that the employee is com-
+10 mencing a period of family leave.
+11 (5) Any violation of this section is an unlawful employment practice.
+12 SECTION 15. ORS 659A.046 is amended to read:
+13 659A.046. (1) A worker who has sustained a compensable injury and is disabled from performing
+14 the duties of the worker’s former regular employment shall, upon demand, be reemployed by the
+15 worker’s employer at employment which is available and suitable.
+16 (2) A certificate of the worker’s attending physician, as defined in ORS 656.005 (12)(b), [or a
+17 nurse practitioner authorized to provide compensable medical services under ORS 656.245] that the
+18 worker is able to perform described types of work shall be prima facie evidence of such ability.
+19 (3) Notwithstanding subsection (1) of this section, the right to reemployment under this section
+20 terminates when whichever of the following events first occurs:
+21 [(a) The worker cannot return to reemployment at any position with the employer either by deter-
+22 mination of the attending physician or a nurse practitioner authorized to provide compensable medical
+23 services under ORS 656.245 or upon appeal of that determination, by determination of a medical arbiter
+24 or panel of medical arbiters pursuant to ORS chapter 656.]
+25 (a) The worker cannot return to reemployment at any position with the employer ac-
+26 cording to:
+27 (A) The determination of the attending physician; or
+28 (B) Upon appeal of the attending physician’s determination, the determination of a med-
+29 ical arbiter or panel of medical arbiters pursuant to ORS chapter 656.
+30 (b) The worker is eligible and participates in vocational assistance under ORS 656.340.
+31 (c) The worker accepts suitable employment with another employer after becoming medically
+32 stationary.
+33 (d) The worker refuses a bona fide offer from the employer of light duty or modified employment
+34 that is suitable prior to becoming medically stationary.
+35 (e) Seven days elapse from the date that the worker is notified by the insurer or self-insured
+36 employer by certified mail that the worker’s attending physician [or a nurse practitioner authorized
+37 to provide compensable medical services under ORS 656.245] has released the worker for reemploy-
+38 ment unless the worker requests reemployment within that time period.
+39 (f) Three years elapse from the date of injury.
+40 (4) Such right of reemployment shall be subject to the provisions for seniority rights and other
+41 employment restrictions contained in a valid collective bargaining agreement between the employer
+42 and a representative of the employer’s employees.
+43 (5) Notwithstanding ORS 659A.165, a worker who refuses an offer of employment under sub-
+44 section (3)(d) of this section and who otherwise is entitled to family leave under ORS 659A.150 to
+45 659A.186:
+[43]
+
+HB 4119
+1 (a) Automatically commences a period of family leave under ORS 659A.150 to 659A.186 upon
+2 refusing the offer of employment; and
+3 (b) Need not give additional written or oral notice to the employer that the employee is com-
+4 mencing a period of family leave.
+5 (6) Any violation of this section is an unlawful employment practice.
+6 (7) This section applies only to employers who employ six or more persons.
+7 SECTION 16. ORS 659A.049 is amended to read:
+8 659A.049. The rights of reinstatement and reemployment afforded by ORS 659A.043 and
+9 659A.046 shall not be forfeited if the worker refuses to return to the worker’s regular or other of-
+10 fered employment without release to such employment by the worker’s attending physician as de-
+11 fined in ORS 656.005 (12) [or a nurse practitioner authorized to provide compensable medical services
+12 under ORS 656.245].
+13 SECTION 17. ORS 659A.063 is amended to read:
+14 659A.063. (1) The State of Oregon shall cause group health benefits to continue in effect with
+15 respect to that worker and any covered dependents or family members by timely payment of the
+16 premium that includes the contribution due from the state under the applicable benefit plan, subject
+17 to any premium contribution due from the worker that the worker paid before the occurrence of the
+18 injury or illness. If the premium increases or decreases, the State of Oregon and worker contribu-
+19 tions shall be adjusted to remain consistent with similarly situated active employees. The State of
+20 Oregon shall continue the worker’s health benefits in effect until whichever of the following events
+21 occurs first:
+22 (a) The worker’s attending physician as defined in ORS 656.005 (12)(b) [or a nurse practitioner
+23 authorized to provide compensable medical services under ORS 656.245] has determined the worker
+24 to be medically stationary and a notice of closure has been entered;
+25 (b) The worker returns to work for the State of Oregon, after a period of continued coverage
+26 under this section, and satisfies any probationary or minimum work requirement to be eligible for
+27 group health benefits;
+28 (c) The worker takes full- or part-time employment with another employer that is comparable in
+29 terms of the number of hours per week the worker was employed with the State of Oregon or the
+30 worker retires;
+31 (d) Twelve months have elapsed since the date the State of Oregon received notice that the
+32 worker filed a workers’ compensation claim pursuant to ORS chapter 656;
+33 (e) The claim is denied and the claimant fails to appeal within the time provided by ORS 656.319
+34 or the Workers’ Compensation Board or a workers’ compensation hearings referee or a court issues
+35 an order finding the claim is not compensable;
+36 (f) The worker does not pay the required premium or portion thereof in a timely manner in ac-
+37 cordance with the terms and conditions under this section;
+38 (g) The worker elects to discontinue coverage under this section and notifies the State of
+39 Oregon in writing of this election;
+40 (h) The worker’s attending physician [or a nurse practitioner authorized to provide compensable
+41 medical services under ORS 656.245] has released the worker to modified or regular work, the work
+42 has been offered to the worker and the worker refuses to return to work; or
+43 (i) The worker has been terminated from employment for reasons unrelated to the workers’
+44 compensation claim.
+45 (2) If the workers’ compensation claim of a worker for whom health benefits are provided pur-
+[44]
+
+HB 4119
+1 suant to subsection (1) of this section is denied and the worker does not appeal or the worker ap-
+2 peals and does not prevail, the State of Oregon may recover from the worker the amount of the
+3 premiums plus interest at the rate authorized by ORS 82.010. The State of Oregon may recover the
+4 payments through a payroll deduction not to exceed 10 percent of gross pay for each pay period.
+5 (3) The State of Oregon shall notify the worker of the provisions of ORS 659A.060 to 659A.069,
+6 and of the remedies available for breaches of ORS 659A.060 to 659A.069, within a reasonable time
+7 after the State of Oregon receives notice that the worker will be absent from work as a result of
+8 an injury or illness for which a workers’ compensation claim has been filed pursuant to ORS chapter
+9 656. The notice from the State of Oregon shall include the terms and conditions of the continuation
+10 of health benefits and what events will terminate the coverage.
+11 (4) If the worker fails to make timely payment of any premium contribution owing, the State of
+12 Oregon shall notify the worker of impending cancellation of the health benefits and provide the
+13 worker with 30 days to pay the required premium prior to canceling the policy.
+14 (5) It is an unlawful employment practice for the State of Oregon to discriminate against a
+15 worker, as defined in ORS 659A.060, by terminating the worker’s group health benefits while that
+16 worker is absent from the place of employment as a result of an injury or illness for which a
+17 workers’ compensation claim has been filed pursuant to ORS chapter 656, except as provided for in
+18 this section.
+19 SECTION 18. ORS 657.170 is amended to read:
+20 657.170. (1) If the Director of the Employment Department finds that during the base year of the
+21 individual any individual has been incapable of work during the greater part of any calendar quar-
+22 ter, such base year shall be extended a calendar quarter. Except as provided in subsection (2) of
+23 this section, no such extension of an individual’s base year shall exceed four calendar quarters.
+24 (2) If the director finds that during and prior to the individual’s base year the individual has
+25 had a period of temporary total disability caused by illness or injury and has received compensation
+26 under ORS chapter 656 for a period of temporary total disability during the greater part of any
+27 calendar quarter, the individual’s base year shall be extended as many calendar quarters as neces-
+28 sary to establish a valid claim, up to a maximum of four calendar quarters prior to the quarter in
+29 which the illness or injury occurred, if the individual:
+30 (a) Files a claim for benefits not later than the fourth calendar week of unemployment following
+31 whichever is the latest of the following dates:
+32 (A) The date the individual is released to return to work by the attending physician[, as defined
+33 in ORS chapter 656, or a nurse practitioner authorized to provide compensable medical services under
+34 ORS 656.245] as defined in ORS 656.005 (12)(b); or
+35 (B) The date of mailing of a notice of claim closure pursuant to ORS chapter 656; and
+36 (b) Files such a claim within the three-year period immediately following the commencement of
+37 such period of illness or injury.
+38 (3) Notwithstanding the provisions of this section, benefits payable as a result of the use of
+39 wages paid in a calendar quarter prior to the individual’s current base year shall not exceed one-
+40 third of such wages less benefits paid previously as a result of the use of such wages in computing
+41 a previous benefit determination.
+42
+[45]

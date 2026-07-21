@@ -1,0 +1,120 @@
+Title: 
+Official Title: 
+Source: versions - House Amendments to Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+HOUSE AMENDMENTS TO
+HOUSE BILL 4037
+By COMMITTEE ON HOUSING AND HOMELESSNESS
+February 16
+1 On page 1 of the printed bill, line 3, delete “197A.805, 215.427, 227.178,”.
+2 On page 6, delete lines 40 through 45.
+3 On page 7, delete lines 1 through 7 and insert:
+4 “(3)(a) Except as provided in paragraph (b) of this subsection, upon entering into a project
+5 funding agreement with a developer, a sponsoring jurisdiction shall adopt an ordinance or resolution
+6 setting forth the details of the eligible housing project that is the subject of the project funding
+7 agreement, including but not limited to:
+8 “(A) A description of the eligible housing project;
+9 “(B) A statement indicating whether the eligible housing project property is exempt from prop-
+10 erty taxation under ORS 307.227;
+11 “(C) An itemized description of the eligible costs;
+12 “(D) The amount and terms of the grant project award or project loan principal; and
+13 “(E) A statement declaring that the project funding has been awarded in response to the housing
+14 needs of communities within the sponsoring jurisdiction.
+15 “(b) A sponsoring jurisdiction is not required to adopt an ordinance or resolution under para-
+16 graph (a) of this subsection if:
+17 “(A) The ordinance or resolution adopted under ORS 307.214 delegates authority to review de-
+18 veloper applications under ORS 307.216 to a designated authority;
+19 “(B) The sponsoring jurisdiction has agreed to repay the agency loan in accordance with ORS
+20 307.223; and
+21 “(C) The eligible housing project property will not be exempt from property taxation under ORS
+22 307.227.”.
+23 On page 12, line 7, delete “may” and insert “shall”.
+24 In line 13, delete “low or moderate income household” and insert “household with an income
+25 less than or equal to 120 percent and greater than 60 percent of the area median income, as defined
+26 in ORS 456.270”.
+27 Delete lines 18 through 45.
+28 On page 13, delete lines 1 through 40 and insert:
+29 “NOTE: Section 14 was deleted by amendment. Subsequent sections were not renumbered.
+30
+31 “LAND CONSERVATION AND DEVELOPMENT
+32 COMMISSION ORDERS”.
+33
+34 On page 15, delete lines 16 through 45 and delete pages 16 through 20.
+35 On page 21, delete line 1 and insert:
+LC 222/HB 4037-10
+
+1 “SECTION 17. ORS 197A.400 is amended to read:
+2 “197A.400. (1)(a) Except as provided in subsection (3) of this section, a local government may
+3 adopt and apply only clear and objective standards, conditions and procedures regulating:
+4 “(A) The development of housing; and
+5 “(B) Tree removal [codes] related to the development of housing.
+6 “(b) The standards, conditions and procedures:
+7 “(A) May include, but are not limited to, one or more provisions regulating the density or height
+8 of a development.
+9 “(B) May not have the effect, either in themselves or cumulatively, of discouraging needed
+10 housing through unreasonable cost or delay.
+11 “(C) May be contained in a comprehensive plan, land use regulation or an ordinance relating
+12 to housing adopted by a city that adopts, including by reference, a model ordinance adopted by the
+13 Land Conservation and Development Commission that comports with any qualifications, conditions
+14 or applicability of the model ordinance.
+15 “(c) This subsection applies only within:
+16 “(A) An urban growth boundary;
+17 “(B) An unincorporated community designated in a county’s acknowledged comprehensive plan
+18 after December 5, 1994;
+19 “(C) Nonresource land; or
+20 “(D) An area zoned for rural residential use as defined in ORS 215.501.
+21 “(2) The provisions of subsection (1) of this section do not apply to:
+22 “(a) An application or permit for residential development in an area identified in a formally
+23 adopted central city plan, or a regional center as defined by Metro, in a city with a population of
+24 500,000 or greater.
+25 “(b) An application or permit for residential development in historic areas designated for pro-
+26 tection under a land use planning goal protecting historic areas.
+27 “(3) In addition to an approval process for needed housing based on clear and objective stan-
+28 dards, conditions and procedures as provided in subsection (1) of this section, a local government
+29 may adopt and apply an alternative approval process for applications and permits for residential
+30 development based on approval criteria that are not clear and objective if:
+31 “(a) The applicant retains the option of proceeding under the approval process that meets the
+32 requirements of subsection (1) of this section;
+33 “(b) The approval criteria for the alternative approval process comply with applicable statewide
+34 land use planning goals and rules; and
+35 “(c) The approval criteria for the alternative approval process authorize a density at or above
+36 the density level authorized in the zone under the approval process provided in subsection (1) of this
+37 section.
+38 “(4) Subject to [subsection (1)] subsections (1) and (5) of this section, this section does not in-
+39 fringe on a local government’s prerogative to:
+40 “(a) Set approval standards under which a particular housing type is permitted outright;
+41 “(b) Impose special conditions upon approval of a specific development proposal; or
+42 “(c) Establish approval procedures.
+43 “(5) For applications subject to subsection (1) of this section, the local government:
+44 “(a) May provide notice of the application only to owners of record of property on the
+45 most recent property tax assessment roll where such property is located within 100 feet, or
+HA to HB 4037 Page 2
+
+1 within 500 feet for developments of 20 units or more, of the property that is the subject of
+2 the notice;
+3 “(b) May not require a public hearing prior to making a decision on the application; and
+4 “(c) May provide an opportunity for a local appeal only to the applicant.
+5 “(6) Notwithstanding ORS 197.825, only the applicant may appeal a decision made under
+6 subsection (5) of this section to the Land Use Board of Appeals.
+7 “SECTION 18. The amendments to ORS 197A.400 by section 17 of this 2026 Act become
+8 operative on July 1, 2026.
+9 “NOTE: Section 19 was deleted by amendment. Subsequent sections were not renumbered.”.
+10 Delete lines 19 through 22 and insert:
+11 “(2) If an occupant or tenant remains in the dwelling unit following termination of the tenancy
+12 under subsection (1) of this section, the landlord may issue a termination notice in the manner
+13 provided by ORS 90.380 (5)(b).
+14 “(3) A tenant does not owe rent while the dwelling unit is inaccessible due to the natural dis-
+15 aster or the destruction of the dwelling unit. A dwelling unit is considered inaccessible while a
+16 governmental agency has posted the dwelling unit as unsafe or unlawful to occupy.”.
+17 On page 22, line 6, after “(2)” insert “To the extent consistent with applicable trust responsi-
+18 bilities,”.
+19 In line 19, after “organizations” insert “or housing authorities as defined in ORS 456.005”.
+20 On page 23, line 22, delete “(4)”.
+21 In line 34, restore “ORS”.
+22
+HA to HB 4037 Page 3

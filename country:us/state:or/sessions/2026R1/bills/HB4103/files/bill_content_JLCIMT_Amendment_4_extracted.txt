@@ -1,0 +1,199 @@
+Title: 
+Official Title: 
+Source: versions - JLCIMT Amendment -4
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB 4103-4
+(LC 120)
+2/18/26 (SCT/ps)
+Requested by Representative NGUYEN D
+PROPOSED AMENDMENTS TO
+HOUSE BILL 4103
+1 On page 1 of the printed bill, delete lines 4 through 24 and delete pages
+2 2 through 4 and insert:
+3 “SECTION 1. (1) The Senator Aaron Woods Commission on Artifi-
+4 cial Intelligence is established within the office of Enterprise Infor-
+5 mation Services. The purpose of the commission is to identify and
+6 report on long-term policy implications in the use of artificial intelli-
+7 gence technologies by the state government of Oregon to assist
+8 policymakers in making strategic, well-informed decisions that foster
+9 innovation while safeguarding the well-being of Oregonians.
+10 “(2) The commission shall:
+11 “(a) Conduct literature reviews of public policy issues around the
+12 use by state government of artificial intelligence technologies, includ-
+13 ing the benefits and risks to the broader public and historically dis-
+14 advantaged communities, taking into consideration equity, workforce
+15 impacts and ethical concerns;
+16 “(b) Conduct reviews of existing protections under federal and state
+17 laws of individuals’ data and privacy rights, civil rights, intellectual
+18 property rights and safety, and how federal and state laws that apply
+19 to artificial intelligence technologies align, differ, conflict or interact;
+20 “(c) Identify uses of artificial intelligence systems by the state that
+21 present or create a high risk to individuals, such as risks to
+
+1 individuals’ safety, employment rights, civil rights or constitutional
+2 rights;
+3 “(d) Provide recommendations on the use of artificial intelligence
+4 by the state;
+5 “(e) Identify impacts from the use of artificial intelligence systems
+6 by the state on privacy interests of individuals in this state and what
+7 policies are needed to protect individuals’ privacy interests from any
+8 diminution caused by the use of artificial intelligence systems in the
+9 public sector;
+10 “(f) Identify impacts and opportunities related to the use of artifi-
+11 cial intelligence systems on public sector jobs and incomes in this
+12 state and recommend policies to protect public sector jobs and incomes
+13 from adverse effects from the use of artificial intelligence systems by
+14 the state;
+15 “(g) Conduct a review of issues around unlawful discrimination, on
+16 the basis of race, color, national origin, creed, religion, sex, sexual
+17 orientation, gender identity, disability, age, veteran or military status,
+18 marital status, family status or any other protected class, from the
+19 use of artificial intelligence systems by the state and provide recom-
+20 mendations for mitigating or protecting against such discrimination;
+21 “(h) Provide recommendations on prioritizing transparency to im-
+22 prove the understanding of the behavior and functional components
+23 of artificial intelligence systems used by the state and enable the
+24 identification of performance issues, safety and privacy concerns, bi-
+25 ases, exclusionary practices and unintended outcomes;
+26 “(i) Conduct a review of legal and contractual protections for indi-
+27 vidual personhood, including for individuals employed by the state,
+28 against the use of artificial intelligence systems to create an artificial
+29 replica, including an artificial replica of a person’s voice, image or
+30 likeness; and
+HB 4103-4 2/18/26
+Proposed Amendments to HB 4103 Page 2
+
+1 “(j) Conduct a review on the use of artificial intelligence systems
+2 by the state to support or make decisions around employment.
+3 “(3) The commission shall consist of 10 voting members and six
+4 nonvoting members as follows:
+5 “(a) The Governor shall appoint, from among persons jointly re-
+6 commended by the President of the Senate and the Speaker of the
+7 House of Representatives, the following voting members:
+8 “(A) One member who represents public sector employees, including
+9 public sector employees who are members of organized labor unions.
+10 “(B) One member who represents labor, trade or professional or-
+11 ganizations.
+12 “(C) One member who represents the public universities listed in
+13 ORS 352.002 and community colleges, as defined in ORS 341.005, and
+14 who has expertise in the design, effects and ethical use of artificial
+15 intelligence systems.
+16 “(D) One member who has expertise or a professional background
+17 in artificial intelligence technology.
+18 “(E) One member who has expertise in data security.
+19 “(F) One member who can reflect the interests and needs of the
+20 nine federally recognized Indian tribes in Oregon, appointed in con-
+21 sultation with the Commission on Indian Services.
+22 “(G) One member who has expertise in energy systems and natural
+23 resource management.
+24 “(H) One member who has lived experience with a multimodal
+25 communication disorder and with the use of artificial intelligence.
+26 “(b) The Governor shall appoint, subject to confirmation by the
+27 Senate in the manner prescribed in ORS 171.562 and 171.565, the fol-
+28 lowing voting members:
+29 “(A) One member who represents communities that are dispropor-
+30 tionately vulnerable to being harmed by algorithmic bias.
+HB 4103-4 2/18/26
+Proposed Amendments to HB 4103 Page 3
+
+1 “(B) One member who represents public safety.
+2 “(c) The nonvoting members shall be:
+3 “(A) The designee of the State Chief Information Officer, who spe-
+4 cializes in artificial intelligence strategy and privacy concerns.
+5 “(B) The Commissioner of the Bureau of Labor and Industries or
+6 the commissioner’s designee.
+7 “(C) The Attorney General or the Attorney General’s designee.
+8 “(D) The Secretary of State or the secretary’s designee.
+9 “(E) The State Treasurer or the State Treasurer’s designee.
+10 “(F) A representative from the Judicial Department, appointed by
+11 the Chief Justice of the Supreme Court.
+12 “(4) The term of office of each voting member is three years. A
+13 voting member serves at the pleasure of the appointing authority.
+14 Before the expiration of the term of a voting member, the appointing
+15 authority shall appoint a successor whose term begins on January 1
+16 of the following year. A voting member may be reappointed. If there
+17 is a vacancy for any cause, the appointing authority shall make an
+18 appointment to become immediately effective for the unexpired term.
+19 “(5)(a) The commission may establish one or more advisory com-
+20 mittees to advise in an area impacted by artificial intelligence used
+21 by the state. An advisory committee may be established for an ongoing
+22 or limited duration. In establishing an advisory committee, the com-
+23 mission shall define the advisory committee’s charge, subject area of
+24 focus and scope of activity.
+25 “(b) Members of an advisory committee are appointed from among
+26 the voting members of the commission by the chairperson of the
+27 commission, subject to approval by a majority of the voting members
+28 of the commission.
+29 “(c) An advisory committee shall consist of no more than seven
+30 members.
+HB 4103-4 2/18/26
+Proposed Amendments to HB 4103 Page 4
+
+1 “(d) Members of an advisory committee must represent a broad and
+2 diverse cross section of stakeholders in the area advised on by the
+3 advisory committee.
+4 “(e) One voting member of the commission may serve on an advi-
+5 sory committee established under this subsection, as the chair of the
+6 advisory committee.
+7 “(6) All agencies of state government, as defined in ORS 174.111, are
+8 directed to assist the commission in the performance of the duties of
+9 the commission and, to the extent permitted by laws relating to
+10 confidentiality, to provide information and advice that the members
+11 of the commission consider necessary to perform their duties.
+12 “(7) On or before September 1 of each year, the commission shall
+13 submit a report in the manner provided by ORS 192.245, and may in-
+14 clude recommendations for legislation, regulations or policies, to the
+15 Legislative Assembly related to information management and tech-
+16 nology.
+17 “(8) A majority of voting members of the commission constitutes a
+18 quorum for the transaction of business.
+19 “(9) The commission shall elect one of its voting members to serve
+20 as chairperson of the commission.
+21 “(10) The commission shall meet at least once every three months
+22 at times and places specified by the call of the chairperson or of a
+23 majority of the voting members of the commission.
+24 “(11) Members of the commission shall be paid compensation and
+25 expenses as provided in ORS 292.495 from such funds as may be avail-
+26 able to the commission.
+27 “(12) The designee of the State Chief Information Officer shall pro-
+28 vide resources and staffing required by the commission to carry out
+29 the commission’s duties.
+30 “SECTION 2. Notwithstanding the term of office specified in section
+HB 4103-4 2/18/26
+Proposed Amendments to HB 4103 Page 5
+
+1 1 (4) of this 2026 Act, of the voting members first appointed to the
+2 Senator Aaron Woods Commission on Artificial Intelligence:
+3 “(1) Four shall serve for a term ending December 31, 2027.
+4 “(2) Three shall serve for a term ending December 31, 2028.
+5 “(3) Three shall serve for a term ending December 31, 2029.
+6 “SECTION 3. (1) The Oregon Department of Administrative Services
+7 shall employ, at the appointment of the State Chief Information Offi-
+8 cer, an individual responsible for developing the strategic vision for
+9 the state relating to privacy, data protection and artificial intelligence.
+10 “(2) The individual employed under subsection (1) of this section
+11 shall:
+12 “(a) Assist and advise the Senator Aaron Woods Commission on
+13 Artificial Intelligence established under section 1 of this 2026 Act; and
+14 “(b) Provide policy and support staff to the commission to assist the
+15 commission in carrying out the commission’s duties.
+16 “SECTION 4. The Oregon Department of Administrative Services
+17 may charge a fee to a state agency, officer, board or commission for
+18 the cost incurred by the department or the Senator Aaron Woods
+19 Commission on Artificial Intelligence in providing services related to
+20 artificial intelligence systems requested by a state agency, officer,
+21 board or commission.
+22 “SECTION 5. In addition to and not in lieu of any other appropri-
+23 ation, there is appropriated to the Oregon Department of Administra-
+24 tive Services, for the biennium beginning July 1, 2025, out of the
+25 General Fund, the amount of $_______, which may be expended by the
+26 department to hire additional full-time employees to enable the indi-
+27 vidual employed under section 3 of this 2026 Act to carry out the
+28 individual’s duties under sections 1 and 3 of this 2026 Act.”.
+29
+HB 4103-4 2/18/26
+Proposed Amendments to HB 4103 Page 6

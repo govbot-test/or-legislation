@@ -1,0 +1,771 @@
+Title: 
+Official Title: 
+Source: versions - A-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+A-Engrossed
+House Bill 4088
+Ordered by the House February 11
+Including House Amendments dated February 11
+Sponsored by Representative FRAGALA, Senators REYNOLDS, PROZANSKI, Representatives CHAICHI,
+CHOTZEN, DOBSON, RIEKE SMITH, VALDERRAMA, Senators GELSER BLOUIN, MANNING JR,
+PATTERSON, PHAM K; Representatives ANDERSEN, GOMBERG, GRAYBER, HUDSON, KROPF,
+MCDONALD, MCLAIN, MUNOZ, NOSSE, PHAM H, WALTERS, WISE, Senators CAMPOS, FREDERICK,
+JAMA, NERON MISSLIN (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act says that it is the policy of this state to make sure people are allowed to get
+certain kinds of health care, including care for their bodies and gender identity. The Act also makes
+changes to laws about helping the federal government and other states in cases arising involving
+this kind of care, makes some records and information private and says that midwives who give this
+kind of care will not get in trouble if they follow the rules. The new law starts right away. (Flesch
+Readability Score: 60.7).
+Declares this state’s policy to protect engagement in certain activities relating to reproductive
+health care and gender-affirming treatment.
+Prohibits cooperation with law enforcement agencies of the federal government or other states
+in actions involving legally-protected reproductive or gender-affirming health care activities.
+Modifies provisions regarding interstate actions involving legally-protected reproductive or
+gender-affirming health care activities.
+Makes specified records and information confidential.
+Provides protection from disciplinary action for direct entry midwives who provide reproductive
+health care and gender-affirming treatment under specified circumstances.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to health; creating new provisions; amending ORS 15.430, 24.500, 33.420, 33.460, 192.345,
+3 435.190, 676.612 and 687.445; and declaring an emergency.
+4 Be It Enacted by the People of the State of Oregon:
+5
+6 INTERSTATE ACTIONS
+7
+8 SECTION 1. Policy regarding legal protections for reproductive or gender-affirming
+9 health care activities. (1) “Gender-affirming treatment” and “reproductive health care” have
+10 the meanings given those terms in ORS 24.500.
+11 (2) It is the policy of this state that people should be protected under state law to engage
+12 in the following activities related to reproductive health care or gender-affirming treatment
+13 that is provided by a health care provider who is licensed in this state, who is acting within
+14 the health care provider’s scope of practice and who provides or attempts to provide the
+15 reproductive health care or gender-affirming treatment to a patient who is physically located
+16 in this state:
+17 (a) The receipt or attempted receipt of reproductive health care or gender-affirming
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 49
+
+A-Eng. HB 4088
+1 treatment that is lawful in this state.
+2 (b) The provision or attempted provision of reproductive health care or gender-affirming
+3 treatment that is lawful in this state.
+4 (c) The assistance or attempted assistance in the receipt or provision of reproductive
+5 health care or gender-affirming treatment that is lawful in this state.
+6 SECTION 2. Nonfugitive extradition. (1) As used in this section, “legally-protected re-
+7 productive or gender-affirming health care activities” means one or more of the activities
+8 described in section 1 of this 2026 Act.
+9 (2) Except as required by federal law and notwithstanding ORS 133.767, the Governor of
+10 this state may not surrender, on demand of the executive authority of any other state, a
+11 person in this state charged in such other state for engaging in legally-protected reproduc-
+12 tive or gender-affirming health care activities if the Governor is not otherwise required to
+13 surrender the person under ORS 133.747.
+14 SECTION 3. Cooperation with federal and interstate investigations. (1) As used in this
+15 section:
+16 (a) “Legally-protected reproductive or gender-affirming health care activities” means one
+17 or more of the activities described in section 1 of this 2026 Act.
+18 (b) “Public body” means a public body as defined in ORS 174.109 and the Oregon Health
+19 and Science University.
+20 (2)(a) Except as provided in ORS 24.500 and 133.747, or as required by federal law, an of-
+21 ficer, employee or agent of a public body may not cooperate with, provide information to or
+22 otherwise expend or use time, moneys, facilities, property, equipment, personnel or other
+23 resources to assist a federal law enforcement agency, a law enforcement agency of another
+24 state, a private citizen or a quasi-law enforcement agent in relation to an investigation or
+25 inquiry into a legally-protected reproductive or gender-affirming health care activity, if such
+26 activity would be lawful if it occurred entirely in this state.
+27 (b) Nothing in this subsection prohibits an officer, employee or agent of a public body
+28 from disclosing information that is responsive to an investigation or inquiry described in
+29 paragraph (a) of this subsection to the extent the information is available to the general
+30 public provided the disclosure is made under the same terms and conditions as the informa-
+31 tion is made available to the general public.
+32 SECTION 4. ORS 15.430 is amended to read:
+33 15.430. Notwithstanding ORS 15.440, 15.445 and 15.455, Oregon law governs noncontractual
+34 claims in the following actions:
+35 (1) Actions in which, after the events giving rise to the dispute, the parties agree to the appli-
+36 cation of Oregon law.
+37 (2) Actions in which none of the parties raises the issue of applicability of foreign law.
+38 (3) Actions in which the party or parties who rely on foreign law fail to assist the court in es-
+39 tablishing the relevant provisions of foreign law after being requested by the court to do so.
+40 (4) Actions filed against a public body of the State of Oregon, unless the application of Oregon
+41 law is waived by a person authorized by Oregon law to make the waiver on behalf of the public
+42 body.
+43 (5) Actions against an owner, lessor or possessor of land, buildings or other real property situ-
+44 ated in Oregon that seek to recover for, or to prevent, injury on that property and arising out of
+45 conduct that occurs in Oregon.
+[2]
+
+A-Eng. HB 4088
+1 (6) Actions between an employer and an employee who is primarily employed in Oregon that
+2 arise out of an injury that occurs in Oregon.
+3 (7) Actions for professional malpractice arising from services rendered entirely in Oregon by
+4 personnel licensed to perform those services under Oregon law.
+5 (8)(a) Actions against a provider of reproductive health care or gender-affirming treatment[, as
+6 those terms are defined in ORS 24.500,] if the reproductive health care or gender-affirming treatment
+7 at issue was provided or attempted to be provided in this state.
+8 (b) Actions against a patient receiving or attempting to receive reproductive health care or
+9 gender-affirming treatment if the reproductive health care or gender-affirming treatment at issue
+10 was [received] provided or attempted to be provided in this state.
+11 (c) Actions against any person who provides or attempts to provide aid, assistance,
+12 resources, encouragement or support to a person in providing or receiving or attempting to
+13 provide or receive reproductive health care or gender-affirming treatment provided in this state.
+14 (d) For purposes of this subsection, reproductive health care or gender-affirming treat-
+15 ment is provided in the state in which the patient is physically located at the time the ser-
+16 vices are provided.
+17 (e) As used in this subsection, “reproductive health care” and “gender-affirming treat-
+18 ment” have the meanings given those terms in ORS 24.500.
+19 SECTION 5. ORS 24.500 is amended to read:
+20 24.500. (1) As used in this section:
+21 (a) “Gender-affirming treatment” means a procedure, service, drug, device or product that a
+22 physical or behavioral health care provider prescribes to treat an individual for incongruence be-
+23 tween the individual’s gender identity and the individual’s sex assignment at birth.
+24 (b) “Reproductive health” means reproductive processes, functions and systems at all stages of
+25 life.
+26 (c) “Reproductive health care” includes family planning and contraception, pregnancy termi-
+27 nation services, prenatal, postnatal and delivery care, miscarriage management, fertility care,
+28 sterilization services, treatments for sexually transmitted infections and reproductive cancers and
+29 any other health care and medical services related to reproductive health.
+30 (2) A law of another state that authorizes a person to bring a civil or criminal action against
+31 [a person that] another person who does any of the following is contrary to the public policy of this
+32 state:
+33 (a) [Receive] Receives or attempts to receive reproductive health care or gender-affirming
+34 treatment;
+35 (b) [Provide or attempt] Provides or attempts to provide reproductive health care or gender-
+36 affirming treatment; or
+37 (c) Knowingly [engage in conduct that aids or abets] engages in conduct that aids or encour-
+38 ages or attempts to aid or encourage the provision of reproductive health care or gender-
+39 affirming treatment.
+40 (3) Notwithstanding ORCP 38 C, a person may not request that a clerk of court issue a subpoena
+41 for service upon a person to whom a foreign subpoena is directed if the foreign subpoena relates to
+42 gender-affirming treatment or reproductive health care services that are permitted under the laws
+43 of this state, unless the person requesting the subpoena provides a written declaration that the
+44 foreign subpoena relates to:
+45 (a) An out-of-state action founded in tort, contract or statute, for which a similar claim would
+[3]
+
+A-Eng. HB 4088
+1 exist under the laws of this state, brought by a patient or the patient’s authorized legal represen-
+2 tative, for damages suffered by the patient; or
+3 (b) An out-of-state action founded in contract, and for which a similar claim would exist under
+4 the laws of this state, brought or sought to be enforced by a party with a contractual relationship
+5 with the person that is the subject of the subpoena.
+6
+7 CONFIDENTIALITY
+8 (Individually Identifiable Information)
+9
+10 SECTION 6. Section 7 of this 2026 Act is added to and made a part of ORS 40.225 to 40.295.
+11 SECTION 7. Privilege regarding reproductive or gender-affirming health care. (1) As used
+12 in this section:
+13 (a) “Individually identifiable information” has the meaning given that term in section 9
+14 of this 2026 Act.
+15 (b) “Proceeding” means a judicial or administrative proceeding, other than a proceeding
+16 directly related to the Oregon Health Authority’s administration of the state medical as-
+17 sistance program or the programs described in ORS 435.230.
+18 (2)(a) The authority or an agent or employee of the authority may not be examined in a
+19 proceeding as to the individually identifiable information of an individual that is acquired by
+20 the authority in the course of carrying out its duties and responsibilities in administering
+21 the state medical assistance program or the programs described in ORS 435.230.
+22 (b) This section does not apply if the individual consents to the examination described in
+23 paragraph (a) of this subsection.
+24 SECTION 8. Section 9 of this 2026 Act is added to and made a part of ORS 435.190 to
+25 435.245.
+26 SECTION 9. Confidentiality of individually identifiable information. (1) As used in this
+27 section, “individually identifiable information” means any health information in any form or
+28 medium that is identifiable to an individual, including demographic information that identi-
+29 fies the individual, or for which there is a reasonable basis to believe the information can
+30 be used to identify an individual, and that relates to applications for or receipt of legally-
+31 protected reproductive or gender-affirming health care activities.
+32 (2) Except to the extent an individual consents to the information’s disclosure, the
+33 individual’s individually identifiable information obtained by the authority:
+34 (a) Is confidential and not subject to disclosure under ORS 192.311 to 192.478;
+35 (b) May be disclosed only as necessary and directly connected with the administration
+36 of the state medical assistance program or the authority’s duties and responsibilities under
+37 ORS 435.230; and
+38 (c) Is confidential, nondiscoverable and inadmissible in any judicial or administrative
+39 proceeding that is not directly connected with the authority’s administration of the state
+40 medical assistance program or the programs described in ORS 435.230.
+41 SECTION 10. ORS 435.190 is amended to read:
+42 435.190. As used in ORS 435.190 to 435.245:
+43 (1) “Contraception” includes:
+44 (a) Steroidal, chemical, physical or barrier, natural or permanent methods for preventing the
+45 union of an ovum with the spermatozoon, or for preventing the subsequent implantation of the fer-
+[4]
+
+A-Eng. HB 4088
+1 tilized ovum in the uterus;
+2 (b) All postcoital methods, drugs or devices to prevent pregnancy; and
+3 (c) Any other process, device or method to prevent pregnancy.
+4 (2) “Legally-protected reproductive or gender-affirming health care activities” means one
+5 or more of the activities described in section 1 of this 2026 Act.
+6 [(2)] (3) “Public body” means a public body as defined in ORS 174.109 and the Oregon Health
+7 and Science University.
+8 [(3)] (4) “Reproductive health” means reproductive processes, functions and systems at all stages
+9 of life.
+10 [(4)] (5) “Reproductive health care” includes family planning and contraception, pregnancy ter-
+11 mination services, prenatal, postnatal and delivery care, miscarriage management, fertility care,
+12 sterilization services, treatments for sexually transmitted infections and reproductive cancers and
+13 any other health care and medical services related to reproductive health.
+14
+15 (Court Records)
+16
+17 SECTION 11. ORS 33.420 is amended to read:
+18 33.420. (1) Except as provided in ORS 109.360, before entering a judgment for a change of name
+19 in the case of a minor child, the court shall require that written notice of the application for the
+20 change of name of the minor child be given to the parents of the child, both custodial and non-
+21 custodial, and to any legal guardian of the child.
+22 (2) Notwithstanding subsection (1) of this section, notice of an application for the change of
+23 name of a minor child does not need to be given to a parent of the child if the other parent of the
+24 child files a verified statement in the change of name proceeding that asserts that the minor child
+25 has not resided with the other parent and that the other parent has not contributed or has not tried
+26 to contribute to the support of the child.
+27 (3)(a) In a case to determine an application for change of name of a person under ORS 33.410,
+28 if an applicant who is a certified adult program participant in the Address Confidentiality Program
+29 under ORS 192.826 requests the court to seal the record of the case, the court shall seal the record
+30 of the case unless the court issues an order pursuant to a finding of good cause under ORS 192.848.
+31 (b) This subsection does not apply to an adult applicant appearing as a guardian ad litem for a
+32 minor child.
+33 [(4) In a case to determine an application for legal change of sex of a person under ORS 33.460,
+34 if an applicant requests the court to seal the record of the case, the court shall seal the record of the
+35 case.]
+36 SECTION 12. ORS 33.460 is amended to read:
+37 33.460. (1) Application for legal change of sex of a person may be heard and determined by any
+38 circuit court in this state. A circuit court may order a legal change of sex and enter a judgment
+39 indicating the change of sex if the individual attests that the individual has undergone surgical,
+40 hormonal or other treatment appropriate for the individual for the purpose of affirming gender
+41 identity.
+42 (2) The court may order a legal change of sex and enter the judgment in the same manner as
+43 that provided for change of name of a person under ORS 33.410.
+44 (3) Application for simultaneous change of name and legal change of sex may be heard and de-
+45 termined by any circuit court in this state. If a person applies for a change of name under ORS
+[5]
+
+A-Eng. HB 4088
+1 33.410 at the time the person applies for a legal change of sex under this section, the court may
+2 order change of name and legal change of sex at the same time and in the same proceeding.
+3 (4)(a) Except as provided in paragraph (b) of this subsection, a case to determine an ap-
+4 plication for legal change of sex, including an application for simultaneous change of name
+5 and legal change of sex, is confidential, exempt from public disclosure under ORS 192.311 to
+6 192.478 and may not be disclosed except:
+7 (A) To a party in the case or the party’s attorney;
+8 (B) To the court;
+9 (C) Pursuant to a court order for good cause shown, and subject to the provisions of ORS
+10 192.324; or
+11 (D) As required by the court to comply with the notice requirement under ORS 33.420.
+12 (b) An applicant may move the court to make the case public or to make the register
+13 and certain records in the case public.
+14 (c) The court, upon the motion of the applicant, shall make confidential a case described
+15 in this subsection or a register and certain records in the case described in this subsection,
+16 if the case or register and records are not already confidential.
+17
+18 (Public Records Exemptions)
+19
+20 SECTION 13. ORS 192.345 is amended to read:
+21 192.345. The following public records are exempt from disclosure under ORS 192.311 to 192.478
+22 unless the public interest requires disclosure in the particular instance:
+23 (1) Records of a public body pertaining to litigation to which the public body is a party if the
+24 complaint has been filed, or if the complaint has not been filed, if the public body shows that such
+25 litigation is reasonably likely to occur. This exemption does not apply to litigation which has been
+26 concluded, and nothing in this subsection shall limit any right or opportunity granted by discovery
+27 or deposition statutes to a party to litigation or potential litigation.
+28 (2) Trade secrets. “Trade secrets,” as used in this section, may include, but are not limited to,
+29 any formula, plan, pattern, process, tool, mechanism, compound, procedure, production data, or
+30 compilation of information which is not patented, which is known only to certain individuals within
+31 an organization and which is used in a business it conducts, having actual or potential commercial
+32 value, and which gives its user an opportunity to obtain a business advantage over competitors who
+33 do not know or use it.
+34 (3) Investigatory information compiled for criminal law purposes. The record of an arrest or the
+35 report of a crime shall be disclosed unless and only for so long as there is a clear need to delay
+36 disclosure in the course of a specific investigation, including the need to protect the complaining
+37 party or the victim. Nothing in this subsection shall limit any right constitutionally guaranteed, or
+38 granted by statute, to disclosure or discovery in criminal cases. For purposes of this subsection, the
+39 record of an arrest or the report of a crime includes, but is not limited to:
+40 (a) The arrested person’s name, age, residence, employment, marital status and similar bi-
+41 ographical information;
+42 (b) The offense with which the arrested person is charged;
+43 (c) The conditions of release pursuant to ORS 135.230 to 135.290;
+44 (d) The identity of and biographical information concerning both complaining party and victim;
+45 (e) The identity of the investigating and arresting agency and the length of the investigation;
+[6]
+
+A-Eng. HB 4088
+1 (f) The circumstances of arrest, including time, place, resistance, pursuit and weapons used; and
+2 (g) Such information as may be necessary to enlist public assistance in apprehending fugitives
+3 from justice.
+4 (4) Test questions, scoring keys, and other data used to administer a licensing examination,
+5 employment, academic or other examination or testing procedure before the examination is given
+6 and if the examination is to be used again. Records establishing procedures for and instructing
+7 persons administering, grading or evaluating an examination or testing procedure are included in
+8 this exemption, to the extent that disclosure would create a risk that the result might be affected.
+9 (5) Information consisting of production records, sale or purchase records or catch records, or
+10 similar business records of a private concern or enterprise, required by law to be submitted to or
+11 inspected by a governmental body to allow it to determine fees or assessments payable or to estab-
+12 lish production quotas, and the amounts of such fees or assessments payable or paid, to the extent
+13 that such information is in a form that would permit identification of the individual concern or en-
+14 terprise. This exemption does not include records submitted by long term care facilities as defined
+15 in ORS 442.015 to the state for purposes of reimbursement of expenses or determining fees for pa-
+16 tient care. Nothing in this subsection shall limit the use that can be made of such information for
+17 regulatory purposes or its admissibility in any enforcement proceeding.
+18 (6) Information relating to the appraisal of real estate prior to its acquisition.
+19 (7) The names and signatures of employees who sign authorization cards or petitions for the
+20 purpose of requesting representation or decertification elections.
+21 (8) Investigatory information relating to any complaint filed under ORS 659A.820 or 659A.825,
+22 until such time as the complaint is resolved under ORS 659A.835, or a final order is issued under
+23 ORS 659A.850.
+24 (9) Investigatory information relating to any complaint or charge filed under ORS 243.676 and
+25 663.180.
+26 (10) Records, reports and other information received or compiled by the Director of the De-
+27 partment of Consumer and Business Services under ORS 697.732.
+28 (11) Information concerning the location of archaeological sites or objects as those terms are
+29 defined in ORS 358.905, except if the governing body of an Indian tribe requests the information and
+30 the need for the information is related to that Indian tribe’s cultural or religious activities. This
+31 exemption does not include information relating to a site that is all or part of an existing, commonly
+32 known and publicized tourist facility or attraction.
+33 (12) A personnel discipline action, or materials or documents supporting that action.
+34 (13) Fish and wildlife information developed pursuant to ORS 496.004, 496.172 and 498.026 or
+35 ORS 496.192 and 564.100, regarding the habitat, location or population of any threatened species or
+36 endangered species.
+37 (14) Writings prepared by or under the direction of faculty of public educational institutions, in
+38 connection with research, until publicly released, copyrighted or patented.
+39 (15) Computer programs developed or purchased by or for any public body for its own use. As
+40 used in this subsection, “computer program” means a series of instructions or statements which
+41 permit the functioning of a computer system in a manner designed to provide storage, retrieval and
+42 manipulation of data from such computer system, and any associated documentation and source
+43 material that explain how to operate the computer program. “Computer program” does not include:
+44 (a) The original data, including but not limited to numbers, text, voice, graphics and images;
+45 (b) Analyses, compilations and other manipulated forms of the original data produced by use of
+[7]
+
+A-Eng. HB 4088
+1 the program; or
+2 (c) The mathematical and statistical formulas which would be used if the manipulated forms of
+3 the original data were to be produced manually.
+4 (16) Data and information provided by participants to mediation under ORS 36.256.
+5 (17) Investigatory information relating to any complaint or charge filed under ORS chapter 654,
+6 until a final administrative determination is made or, if a citation is issued, until an employer re-
+7 ceives notice of any citation.
+8 (18) Specific operational plans in connection with an anticipated threat to individual or public
+9 safety for deployment and use of personnel and equipment, prepared or used by a public body, if
+10 public disclosure of the plans would endanger an individual’s life or physical safety or jeopardize a
+11 law enforcement activity.
+12 (19)(a) Audits or audit reports required of a telecommunications carrier. As used in this para-
+13 graph, “audit or audit report” means any external or internal audit or audit report pertaining to a
+14 telecommunications carrier, as defined in ORS 133.721, or pertaining to a corporation having an af-
+15 filiated interest, as defined in ORS 759.390, with a telecommunications carrier that is intended to
+16 make the operations of the entity more efficient, accurate or compliant with applicable rules, pro-
+17 cedures or standards, that may include self-criticism and that has been filed by the telecommuni-
+18 cations carrier or affiliate under compulsion of state law. “Audit or audit report” does not mean an
+19 audit of a cost study that would be discoverable in a contested case proceeding and that is not
+20 subject to a protective order; and
+21 (b) Financial statements. As used in this paragraph, “financial statement” means a financial
+22 statement of a nonregulated corporation having an affiliated interest, as defined in ORS 759.390,
+23 with a telecommunications carrier, as defined in ORS 133.721.
+24 (20) The residence address of an elector if authorized under ORS 247.965 and subject to ORS
+25 247.967.
+26 (21) The following records, communications and information submitted to a housing authority
+27 as defined in ORS 456.005, or to an urban renewal agency as defined in ORS 457.010, by applicants
+28 for and recipients of loans, grants and tax credits:
+29 (a) Personal and corporate financial statements and information, including tax returns;
+30 (b) Credit reports;
+31 (c) Project appraisals, excluding appraisals obtained in the course of transactions involving an
+32 interest in real estate that is acquired, leased, rented, exchanged, transferred or otherwise disposed
+33 of as part of the project, but only after the transactions have closed and are concluded;
+34 (d) Market studies and analyses;
+35 (e) Articles of incorporation, partnership agreements and operating agreements;
+36 (f) Commitment letters;
+37 (g) Project pro forma statements;
+38 (h) Project cost certifications and cost data;
+39 (i) Audits;
+40 (j) Project tenant correspondence requested to be confidential;
+41 (k) Tenant files relating to certification; and
+42 (L) Housing assistance payment requests.
+43 (22) Records or information that, if disclosed, would allow a person to:
+44 (a) Gain unauthorized access to buildings or other property;
+45 (b) Identify those areas of structural or operational vulnerability that would permit unlawful
+[8]
+
+A-Eng. HB 4088
+1 disruption to, or interference with, services; or
+2 (c) Disrupt, interfere with or gain unauthorized access to public funds or to information pro-
+3 cessing, communication or telecommunication systems, including the information contained in the
+4 systems, that are used or operated by a public body.
+5 (23) Records or information that would reveal or otherwise identify security measures, or
+6 weaknesses or potential weaknesses in security measures, taken or recommended to be taken to
+7 protect:
+8 (a) An individual;
+9 (b) Buildings or other property;
+10 (c) Information processing, communication or telecommunication systems, including the infor-
+11 mation contained in the systems; or
+12 (d) Those operations of the Oregon State Lottery the security of which are subject to study and
+13 evaluation under ORS 461.180 (6).
+14 (24) Personal information held by or under the direction of officials of the Oregon Health and
+15 Science University or a public university listed in ORS 352.002 about a person who has or who is
+16 interested in donating money or property to the Oregon Health and Science University or a public
+17 university, if the information is related to the family of the person, personal assets of the person or
+18 is incidental information not related to the donation.
+19 (25) The home address, professional address and telephone number of a person who has or who
+20 is interested in donating money or property to a public university listed in ORS 352.002.
+21 (26) Records of the name and address of a person who files a report with or pays an assessment
+22 to a commodity commission established under ORS 576.051 to 576.455, the Oregon Beef Council
+23 created under ORS 577.210 or the Oregon Wheat Commission created under ORS 578.030.
+24 (27) Information provided to, obtained by or used by a public body to authorize, originate, re-
+25 ceive or authenticate a transfer of funds, including but not limited to a credit card number, payment
+26 card expiration date, password, financial institution account number and financial institution routing
+27 number.
+28 (28) Social Security numbers as provided in ORS 107.840.
+29 (29) The electronic mail address of a student who attends a public university listed in ORS
+30 352.002 or Oregon Health and Science University.
+31 (30) The name, home address, professional address or location of a person that is engaged in,
+32 or that provides goods or services for, medical research at Oregon Health and Science University
+33 that is conducted using animals other than rodents. This subsection does not apply to Oregon Health
+34 and Science University press releases, websites or other publications circulated to the general pub-
+35 lic.
+36 (31) If requested by a public safety officer, as defined in ORS 181A.355, or a county juvenile
+37 department employee who is charged with and primarily performs duties related to the custody,
+38 control or supervision of adjudicated youths confined in a detention facility, as defined in ORS
+39 419A.004:
+40 (a) The home address and home telephone number of the public safety officer or county juvenile
+41 department employee contained in the voter registration records for the officer or employee.
+42 (b) The home address and home telephone number of the public safety officer or county juvenile
+43 department employee contained in records of the Department of Public Safety Standards and Train-
+44 ing.
+45 (c) The name of the public safety officer or county juvenile department employee contained in
+[9]
+
+A-Eng. HB 4088
+1 county real property assessment or taxation records. This exemption:
+2 (A) Applies only to the name of the officer or employee and any other owner of the property in
+3 connection with a specific property identified by the officer or employee in a request for exemption
+4 from disclosure;
+5 (B) Applies only to records that may be made immediately available to the public upon request
+6 in person, by telephone or using the Internet;
+7 (C) Applies until the officer or employee requests termination of the exemption;
+8 (D) Does not apply to disclosure of records among public bodies as defined in ORS 174.109 for
+9 governmental purposes; and
+10 (E) May not result in liability for the county if the name of the officer or employee is disclosed
+11 after a request for exemption from disclosure is made under this subsection.
+12 (32) Unless the public records request is made by a financial institution, as defined in ORS
+13 706.008, consumer finance company licensed under ORS chapter 725, mortgage banker or mortgage
+14 broker licensed under ORS 86A.095 to 86A.198, or title company for business purposes, records de-
+15 scribed in paragraph (a) of this subsection, if the exemption from disclosure of the records is sought
+16 by an individual described in paragraph (b) of this subsection using the procedure described in par-
+17 agraph (c) of this subsection:
+18 (a) The home address, home or cellular telephone number or personal electronic mail address
+19 contained in the records of any public body that has received the request that is set forth in:
+20 (A) A warranty deed, deed of trust, mortgage, lien, deed of reconveyance, release, satisfaction,
+21 substitution of trustee, easement, dog license, marriage license or military discharge record that is
+22 in the possession of the county clerk; or
+23 (B) Any public record of a public body other than the county clerk.
+24 (b) The individual claiming the exemption from disclosure must be a district attorney, a deputy
+25 district attorney, the Attorney General or an assistant attorney general, the United States Attorney
+26 for the District of Oregon or an assistant United States attorney for the District of Oregon, a city
+27 attorney who engages in the prosecution of criminal matters or a deputy city attorney who engages
+28 in the prosecution of criminal matters.
+29 (c) The individual claiming the exemption from disclosure must do so by filing the claim in
+30 writing with the public body for which the exemption from disclosure is being claimed on a form
+31 prescribed by the public body. Unless the claim is filed with the county clerk, the claim form shall
+32 list the public records in the possession of the public body to which the exemption applies. The ex-
+33 emption applies until the individual claiming the exemption requests termination of the exemption
+34 or ceases to qualify for the exemption.
+35 (33) The following voluntary conservation agreements and reports:
+36 (a) Land management plans required for voluntary stewardship agreements entered into under
+37 ORS 541.973; and
+38 (b) Written agreements relating to the conservation of greater sage grouse entered into volun-
+39 tarily by owners or occupiers of land with a soil and water conservation district under ORS 568.550.
+40 (34) Sensitive business records or financial or commercial information of the State Accident In-
+41 surance Fund Corporation that is not customarily provided to business competitors. This exemption
+42 does not:
+43 (a) Apply to the formulas for determining dividends to be paid to employers insured by the State
+44 Accident Insurance Fund Corporation;
+45 (b) Apply to contracts for advertising, public relations or lobbying services or to documents re-
+[10]
+
+A-Eng. HB 4088
+1 lated to the formation of such contracts;
+2 (c) Apply to group insurance contracts or to documents relating to the formation of such con-
+3 tracts, except that employer account records shall remain exempt from disclosure as provided in
+4 ORS 192.355 (35); or
+5 (d) Provide the basis for opposing the discovery of documents in litigation pursuant to the ap-
+6 plicable rules of civil procedure.
+7 (35) Records of the Department of Public Safety Standards and Training relating to investi-
+8 gations conducted under ORS 181A.640 or 181A.870 (6), until the department issues the report de-
+9 scribed in ORS 181A.640 or 181A.870.
+10 (36) A medical examiner’s report, autopsy report or laboratory test report ordered by a medical
+11 examiner under ORS 146.117.
+12 (37) Any document or other information related to an audit of a public body, as defined in ORS
+13 174.109, that is in the custody of an auditor or audit organization operating under nationally re-
+14 cognized government auditing standards, until the auditor or audit organization issues a final audit
+15 report in accordance with those standards or the audit is abandoned. This exemption does not pro-
+16 hibit disclosure of a draft audit report that is provided to the audited entity for the entity’s response
+17 to the audit findings.
+18 (38)(a) Personally identifiable information collected as part of an electronic fare collection sys-
+19 tem of a mass transit system.
+20 (b) The exemption from disclosure in paragraph (a) of this subsection does not apply to public
+21 records that have attributes of anonymity that are sufficient, or that are aggregated into groupings
+22 that are broad enough, to ensure that persons cannot be identified by disclosure of the public re-
+23 cords.
+24 (c) As used in this subsection:
+25 (A) “Electronic fare collection system” means the software and hardware used for, associated
+26 with or relating to the collection of transit fares for a mass transit system, including but not limited
+27 to computers, radio communication systems, personal mobile devices, wearable technology, fare in-
+28 struments, information technology, data storage or collection equipment, or other equipment or im-
+29 provements.
+30 (B) “Mass transit system” has the meaning given that term in ORS 267.010.
+31 (C) “Personally identifiable information” means all information relating to a person that ac-
+32 quires or uses a transit pass or other fare payment medium in connection with an electronic fare
+33 collection system, including but not limited to:
+34 (i) Customer account information, date of birth, telephone number, physical address, electronic
+35 mail address, credit or debit card information, bank account information, Social Security or taxpayer
+36 identification number or other identification number, transit pass or fare payment medium balances
+37 or history, or similar personal information; or
+38 (ii) Travel dates, travel times, frequency of use, travel locations, service types or vehicle use,
+39 or similar travel information.
+40 (39)(a) If requested by a civil code enforcement officer:
+41 (A) The home address and home telephone number of the civil code enforcement officer con-
+42 tained in the voter registration records for the officer.
+43 (B) The name of the civil code enforcement officer contained in county real property assessment
+44 or taxation records. This exemption:
+45 (i) Applies only to the name of the civil code enforcement officer and any other owner of the
+[11]
+
+A-Eng. HB 4088
+1 property in connection with a specific property identified by the officer in a request for exemption
+2 from disclosure;
+3 (ii) Applies only to records that may be made immediately available to the public upon request
+4 in person, by telephone or using the Internet;
+5 (iii) Applies until the civil code enforcement officer requests termination of the exemption;
+6 (iv) Does not apply to disclosure of records among public bodies as defined in ORS 174.109 for
+7 governmental purposes; and
+8 (v) May not result in liability for the county if the name of the civil code enforcement officer
+9 is disclosed after a request for exemption from disclosure is made under this subsection.
+10 (b) As used in this subsection, “civil code enforcement officer” means an employee of a public
+11 body, as defined in ORS 174.109, who is charged with enforcing laws or ordinances relating to land
+12 use, zoning, use of rights-of-way, solid waste, hazardous waste, sewage treatment and disposal or the
+13 state building code.
+14 (40) Audio or video recordings, whether digital or analog, resulting from a law enforcement
+15 officer’s operation of a video camera worn upon the officer’s person that records the officer’s inter-
+16 actions with members of the public while the officer is on duty. When a recording described in this
+17 subsection is subject to disclosure, the following apply:
+18 (a) Recordings that have been sealed in a court’s record of a court proceeding or otherwise or-
+19 dered by a court not to be disclosed may not be disclosed.
+20 (b) A request for disclosure under this subsection must identify the approximate date and time
+21 of an incident for which the recordings are requested and be reasonably tailored to include only that
+22 material for which a public interest requires disclosure.
+23 (c) A video recording disclosed under this subsection must, prior to disclosure, be edited in a
+24 manner as to render the faces of all persons within the recording unidentifiable.
+25 (41) The contents of tips reported to a tip line, as defined in ORS 339.329. However, personally
+26 identifiable information, as defined in ORS 339.329, is not subject to public interest balancing under
+27 this section and remains exempt from disclosure except as provided in ORS 339.329.
+28 (42) Residential addresses of individuals with intellectual or developmental disabilities residing
+29 in adult foster homes as defined in ORS 443.705 or residential training facilities or residential
+30 training homes as those terms are defined in ORS 443.400.
+31 (43) The name, image, home telephone number, home address, professional address or location
+32 of an individual who is [authorized to provide physical and behavioral health care services in this state
+33 and who provides] engaged in the provision of reproductive and gender-affirming health care ser-
+34 vices.
+35
+36 MALPRACTICE INSURANCE AND LICENSING
+37
+38 SECTION 14. ORS 676.612, as operative until July 1, 2026, is amended to read:
+39 676.612. (1) Subject to ORS 676.616 and 687.445, and in the manner prescribed in ORS chapter
+40 183 for contested cases and as specified in ORS 675.385, 676.660, 676.685, 676.745, 676.777, 676.825,
+41 678.780, 680.535, 681.733, 681.755, 687.445, 688.734, 688.836, 690.167, 690.407, 691.477, 694.147 and
+42 700.111, the Health Licensing Office may refuse to issue or renew, may suspend or revoke or may
+43 otherwise condition or limit an authorization or may discipline or place on probation an authori-
+44 zation holder for commission of the prohibited acts listed in subsection (2) of this section.
+45 (2) A person subject to the authority of a board, council or program listed in ORS 676.565
+[12]
+
+A-Eng. HB 4088
+1 commits a prohibited act if the person engages in:
+2 (a) Fraud, misrepresentation, concealment of material facts or deception in applying for or ob-
+3 taining an authorization to practice in this state, or in any written or oral communication to the
+4 office concerning the issuance or retention of the authorization.
+5 (b) Using, causing or promoting the use of any advertising matter, promotional literature, testi-
+6 monial, guarantee, warranty, label, insignia or any other representation, however disseminated or
+7 published, that is false, misleading or deceptive.
+8 (c) Making a representation that the authorization holder knew or should have known is false
+9 or misleading regarding skill or the efficacy or value of treatment or remedy administered by the
+10 authorization holder.
+11 (d) Practicing under a false, misleading or deceptive name, or impersonating another authori-
+12 zation holder.
+13 (e) Permitting a person other than the authorization holder to use the authorization.
+14 (f) Practicing with a physical or mental condition that presents an unreasonable risk of harm
+15 to the authorization holder or to the person or property of others in the course of performing the
+16 authorization holder’s duties.
+17 (g) Practicing while under the influence of alcohol, cannabis, controlled substances or other
+18 skill-impairing substances, or engaging in the illegal use of controlled substances or other skill-
+19 impairing substances so as to create a risk of harm to the person or property of others in the course
+20 of performing the duties of an authorization holder.
+21 (h) Failing to properly and reasonably accept responsibility for the actions of employees.
+22 (i) Employing, directly or indirectly, any suspended, uncertified, unlicensed or unregistered per-
+23 son to practice a regulated occupation or profession subject to the authority of the boards, councils
+24 and programs listed in ORS 676.565.
+25 (j) Unprofessional conduct, negligence, incompetence, repeated violations or any departure from
+26 or failure to conform to standards of practice in performing services or practicing in a regulated
+27 occupation or profession subject to the authority of the boards, councils and programs listed under
+28 ORS 676.565.
+29 (k) Except as provided in ORS 687.445, conviction of any criminal offense, subject to ORS
+30 670.280. A copy of the record of conviction, certified by the clerk of the court entering the con-
+31 viction, is conclusive evidence of the conviction. A plea of no contest or an admission of guilt is a
+32 conviction for purposes of this paragraph.
+33 (L) Failing to report any adverse action, as required by statute or rule, taken against the au-
+34 thorization holder by another regulatory jurisdiction or any peer review body, health care institu-
+35 tion, professional association, governmental agency, law enforcement agency or court for acts or
+36 conduct similar to acts or conduct that would constitute grounds for disciplinary action as described
+37 in this section.
+38 (m) Violation of a statute regulating an occupation or profession subject to the authority of the
+39 boards, councils and programs listed in ORS 676.565.
+40 (n) Violation of any rule regulating an occupation or profession subject to the authority of the
+41 boards, councils and programs listed in ORS 676.565.
+42 (o) Failing to cooperate with the office in any investigation, inspection or request for informa-
+43 tion.
+44 (p) Selling or fraudulently obtaining or furnishing an authorization to practice in a regulated
+45 occupation or profession subject to the authority of the boards, councils and programs listed in ORS
+[13]
+
+A-Eng. HB 4088
+1 676.565, or aiding or abetting such an act.
+2 (q) Selling or fraudulently obtaining or furnishing any record related to practice in a regulated
+3 occupation or profession subject to the authority of the boards, councils and programs listed in ORS
+4 676.565, or aiding or abetting such an act.
+5 (r) Failing to pay an outstanding civil penalty or fee that is due or failing to meet the terms of
+6 any order issued by the office that has become final.
+7 (3) For the purpose of requesting a state or nationwide criminal records check under ORS
+8 181A.195, the office may require the fingerprints of a person who is:
+9 (a) Applying for an authorization;
+10 (b) Applying for renewal of an authorization; or
+11 (c) Under investigation by the office.
+12 (4) If the office places an authorization holder on probation under subsection (1) of this section,
+13 the office, in consultation with the appropriate board, council or program, may determine and at any
+14 time modify the conditions of the probation.
+15 (5) If an authorization is suspended, the authorization holder may not practice during the term
+16 of suspension. Upon the expiration of the term of suspension, the authorization may be reinstated
+17 by the office if the conditions of suspension no longer exist and the authorization holder has satis-
+18 fied all requirements in the relevant statutes or administrative rules for issuance, renewal or rein-
+19 statement.
+20 SECTION 15. ORS 676.612 is amended to read:
+21 676.612. (1) Subject to ORS 676.616 and 687.445, and in the manner prescribed in ORS chapter
+22 183 for contested cases and as specified in ORS 675.385, 676.660, 676.685, 676.745, 676.777, 676.825,
+23 678.780, 679.720, 680.535, 681.733, 681.755, 687.445, 688.734, 688.836, 690.167, 690.407, 691.477, 694.147
+24 and 700.111, the Health Licensing Office may refuse to issue or renew, may suspend or revoke or
+25 may otherwise condition or limit an authorization or may discipline or place on probation an au-
+26 thorization holder for commission of the prohibited acts listed in subsection (2) of this section.
+27 (2) A person subject to the authority of a board, council or program listed in ORS 676.565
+28 commits a prohibited act if the person engages in:
+29 (a) Fraud, misrepresentation, concealment of material facts or deception in applying for or ob-
+30 taining an authorization to practice in this state, or in any written or oral communication to the
+31 office concerning the issuance or retention of the authorization.
+32 (b) Using, causing or promoting the use of any advertising matter, promotional literature, testi-
+33 monial, guarantee, warranty, label, insignia or any other representation, however disseminated or
+34 published, that is false, misleading or deceptive.
+35 (c) Making a representation that the authorization holder knew or should have known is false
+36 or misleading regarding skill or the efficacy or value of treatment or remedy administered by the
+37 authorization holder.
+38 (d) Practicing under a false, misleading or deceptive name, or impersonating another authori-
+39 zation holder.
+40 (e) Permitting a person other than the authorization holder to use the authorization.
+41 (f) Practicing with a physical or mental condition that presents an unreasonable risk of harm
+42 to the authorization holder or to the person or property of others in the course of performing the
+43 authorization holder’s duties.
+44 (g) Practicing while under the influence of alcohol, cannabis, controlled substances or other
+45 skill-impairing substances, or engaging in the illegal use of controlled substances or other skill-
+[14]
+
+A-Eng. HB 4088
+1 impairing substances so as to create a risk of harm to the person or property of others in the course
+2 of performing the duties of an authorization holder.
+3 (h) Failing to properly and reasonably accept responsibility for the actions of employees.
+4 (i) Employing, directly or indirectly, any suspended, uncertified, unlicensed or unregistered per-
+5 son to practice a regulated occupation or profession subject to the authority of the boards, councils
+6 and programs listed in ORS 676.565.
+7 (j) Unprofessional conduct, negligence, incompetence, repeated violations or any departure from
+8 or failure to conform to standards of practice in performing services or practicing in a regulated
+9 occupation or profession subject to the authority of the boards, councils and programs listed under
+10 ORS 676.565.
+11 (k) Except as provided in ORS 687.445, conviction of any criminal offense, subject to ORS
+12 670.280. A copy of the record of conviction, certified by the clerk of the court entering the con-
+13 viction, is conclusive evidence of the conviction. A plea of no contest or an admission of guilt is a
+14 conviction for purposes of this paragraph.
+15 (L) Failing to report any adverse action, as required by statute or rule, taken against the au-
+16 thorization holder by another regulatory jurisdiction or any peer review body, health care institu-
+17 tion, professional association, governmental agency, law enforcement agency or court for acts or
+18 conduct similar to acts or conduct that would constitute grounds for disciplinary action as described
+19 in this section.
+20 (m) Violation of a statute regulating an occupation or profession subject to the authority of the
+21 boards, councils and programs listed in ORS 676.565.
+22 (n) Violation of any rule regulating an occupation or profession subject to the authority of the
+23 boards, councils and programs listed in ORS 676.565.
+24 (o) Failing to cooperate with the office in any investigation, inspection or request for informa-
+25 tion.
+26 (p) Selling or fraudulently obtaining or furnishing an authorization to practice in a regulated
+27 occupation or profession subject to the authority of the boards, councils and programs listed in ORS
+28 676.565, or aiding or abetting such an act.
+29 (q) Selling or fraudulently obtaining or furnishing any record related to practice in a regulated
+30 occupation or profession subject to the authority of the boards, councils and programs listed in ORS
+31 676.565, or aiding or abetting such an act.
+32 (r) Failing to pay an outstanding civil penalty or fee that is due or failing to meet the terms of
+33 any order issued by the office that has become final.
+34 (3) For the purpose of requesting a state or nationwide criminal records check under ORS
+35 181A.195, the office may require the fingerprints of a person who is:
+36 (a) Applying for an authorization;
+37 (b) Applying for renewal of an authorization; or
+38 (c) Under investigation by the office.
+39 (4) If the office places an authorization holder on probation under subsection (1) of this section,
+40 the office, in consultation with the appropriate board, council or program, may determine and at any
+41 time modify the conditions of the probation.
+42 (5) If an authorization is suspended, the authorization holder may not practice during the term
+43 of suspension. Upon the expiration of the term of suspension, the authorization may be reinstated
+44 by the office if the conditions of suspension no longer exist and the authorization holder has satis-
+45 fied all requirements in the relevant statutes or administrative rules for issuance, renewal or rein-
+[15]
+
+A-Eng. HB 4088
+1 statement.
+2 SECTION 16. ORS 687.445 is amended to read:
+3 687.445. (1) In the manner prescribed in ORS chapter 183 for contested cases and in consultation
+4 with the Health Licensing Office and subject to subsection (2) of this section, the State Board
+5 of Direct Entry Midwifery may impose a form of discipline specified in ORS 676.612 and 676.992 (1)
+6 and (2) against any person practicing direct entry midwifery for any of the grounds listed in ORS
+7 676.612 and for any violation of the provisions of ORS 687.405 to 687.495 or the rules adopted under
+8 ORS 687.405 to 687.495.
+9 (2) The board may not suspend or revoke a person’s license to practice direct entry
+10 midwifery, or refuse to grant a license to a person to practice direct entry midwifery, be-
+11 cause of a conviction or disciplinary action resulting solely from the person’s provision of a
+12 reproductive or gender-affirming health care service that is otherwise lawful in this state
+13 but unlawful in the jurisdiction in which the person provided the service, so long as the
+14 service provided was performed in accordance with the standard of care applicable to the
+15 service.
+16
+17 MISCELLANEOUS
+18
+19 SECTION 17. Applicability. The amendments to ORS 33.420 and 33.460 by sections 11 and
+20 12 of this 2026 Act apply to an application for change of name, application for legal change
+21 of sex or application for simultaneous change of name and legal change of sex that is filed
+22 with the court on or after July 1, 2026, and, upon motion of the applicant, to an application
+23 for legal change of sex or application for simultaneous change of name and legal change of
+24 sex that was filed with the court before July 1, 2026.
+25 SECTION 18. Delayed operative date. (1) The amendments to ORS 33.420 and 33.460 by
+26 sections 11 and 12 of this 2026 Act become operative on July 1, 2026.
+27 (2) The Judicial Department may take any action before the operative date specified in
+28 subsection (1) of this section that is necessary to enable the department to exercise, on and
+29 after the operative date specified in subsection (1) of this section, all of the duties, functions
+30 and powers conferred on the department by the amendments to ORS 33.420 and 33.460 by
+31 sections 11 and 12 of this 2026 Act.
+32 SECTION 19. Captions. The unit and section captions used in this 2026 Act are provided
+33 only for the convenience of the reader and do not become part of the statutory law of this
+34 state or express any legislative intent in the enactment of this 2026 Act.
+35 SECTION 20. Emergency. This 2026 Act being necessary for the immediate preservation
+36 of the public peace, health and safety, an emergency is declared to exist, and this 2026 Act
+37 takes effect on its passage.
+38
+[16]

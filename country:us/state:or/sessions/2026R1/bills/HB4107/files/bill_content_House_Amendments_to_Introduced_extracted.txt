@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - House Amendments to Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+HOUSE AMENDMENTS TO
+HOUSE BILL 4107
+By COMMITTEE ON HEALTH CARE
+February 16
+1 On page 1 of the printed bill, delete lines 18 through 24 and insert:
+2 “(d) ‘Specialty urgent care center’ means a facility or portion of a facility that provides to in-
+3 dividuals, on a walk-in and episodic basis:
+4 “(A) For illnesses or injuries that are acute but not life-threatening or that do not require
+5 emergency medical services, medical care related only to a specific body system; or
+6 “(B) Behavioral health care services only.
+7 “(e)(A) ‘Urgent care center’ means a facility or portion of a facility that:
+8 “(i) Uses the term ‘urgent’ or ‘urgent care’ to describe the facility or portion of the facility; and
+9 “(ii) Provides medical care to individuals only on a walk-in and episodic basis for illnesses or
+10 injuries that are acute but not life-threatening or that do not require emergency medical
+11 services.”.
+12 On page 3, delete line 11 and insert “an emergency department of a hospital licensed under ORS
+13 441.025.”.
+14
+LC 310/HB 4107-3

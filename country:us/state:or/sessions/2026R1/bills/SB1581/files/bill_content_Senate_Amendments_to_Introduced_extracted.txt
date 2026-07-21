@@ -1,0 +1,163 @@
+Title: 
+Official Title: 
+Source: versions - Senate Amendments to Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+SENATE AMENDMENTS TO
+SENATE BILL 1581
+By COMMITTEE ON EDUCATION
+February 11
+1 On page 1 of the printed bill, delete line 26 and delete pages 2 through 4.
+2 On page 5, delete lines 1 through 10 and insert:
+3 “SECTION 1. ORS 327.531 is amended to read:
+4 “327.531. (1)(a) A school or school district that meets the eligibility requirements of the special
+5 provisions of the United States Department of Agriculture’s National School Lunch Program or
+6 School Breakfast Program [may] must apply to the Department of Education to offer
+7 reimbursable breakfasts, lunches or both at no charge and without consideration of individual el-
+8 igibility [by applying to the Department of Education].
+9 “(b) If the school or school district is approved under paragraph (a) of this subsection, the school
+10 or school district must offer breakfasts, lunches or both to all students of the school or school dis-
+11 trict at no charge to the student.
+12 “(c) For each breakfast or lunch that a school or school district provides at no charge as de-
+13 scribed in this subsection, the Department of Education shall provide reimbursement pursuant to
+14 ORS 327.545 (2).
+15 “(2)(a) If a school or school district does not offer reimbursable breakfasts or lunches as de-
+16 scribed in subsection (1) of this section, the school district must [ensure] require that each school
+17 of the school district:
+18 “(A) Offers lunch at no charge to students [from households with incomes that do not exceed 300
+19 percent of the federal poverty guidelines].
+20 “(B) Offers breakfast at no charge to students [from households with incomes that do not exceed
+21 300 percent of the federal poverty guidelines], if breakfast must be offered pursuant to ORS 327.535.
+22 “(b) For each breakfast or lunch that a school or school district provides at no charge as de-
+23 scribed in this subsection, the Department of Education shall provide reimbursement pursuant to
+24 ORS 327.545 (3).
+25 “(3) Notwithstanding subsections (1) and (2) of this section, a school or school district is not
+26 required to provide breakfast or lunch at no charge to students if:
+27 “(a) The Department of Education has insufficient funds to provide reimbursement pursuant to
+28 ORS 327.545 (2) or (3). The State Board of Education shall adopt rules that describe:
+29 “[(a)] (A) The method for determining when the department has insufficient funds[;].
+30 “(B) The criteria for determining when a breakfast or lunch must still be provided at no
+31 charge to students based on the funds that are available to provide reimbursement. When
+32 possible, the criteria must prioritize the offering of breakfast or lunch at no charge to stu-
+33 dents from households with incomes that do not exceed 300 percent of the federal poverty
+34 guidelines.
+35 “[(b)] (C) The content and timing of the notice to be provided to school districts when the de-
+LC 113/SB 1581-2
+
+1 partment determines that the department has insufficient funds[; and].
+2 “[(c)] (D) The procedures the school or school district must follow upon receiving notice of in-
+3 sufficient funds.
+4 “(b) The school site operates on a schedule that does not include a traditional service
+5 time for breakfast or lunch, as determined by the Department of Education based on criteria
+6 established by the State Board of Education by rule.
+7 “(4) The Department of Education shall provide technical assistance to schools and
+8 school districts to meet the requirements of this section.
+9 “SECTION 2. ORS 327.535 is amended to read:
+10 “327.535. (1) As used in this section, ‘eligible student’ means a student who is eligible for free
+11 or reduced price meals under the United States Department of Agriculture’s National School Lunch
+12 Program or School Breakfast Program.
+13 “[(2) A school district may make breakfast accessible at any school site and shall make breakfast
+14 accessible if required by this section.]
+15 “[(3) Subject to subsections (4) and (5) of this section, a school district that provides lunch at any
+16 school site shall make breakfast accessible as part of a breakfast program if 25 percent or more of the
+17 students at the school site are eligible students or the school site qualifies for assistance under Chapter
+18 I of Title I of the federal Elementary and Secondary Education Act of 1965.]
+19 “[(4) A school district that makes breakfast accessible as provided under subsection (3) of this
+20 section may apply to the Department of Education for a waiver for all or for particular grade levels
+21 if the school district is financially unable to implement a breakfast program. The department may grant
+22 a waiver to the school district for a period not to exceed two years, after which the school district must
+23 reestablish its claim of financial hardship if the waiver is to be extended.]
+24 “[(5) If the per meal federal reimbursement for the breakfast program falls below the 1991 re-
+25 imbursement levels, a school district may elect to discontinue the program until federal funding is re-
+26 stored to those levels. No waiver is required for such election.]
+27 “(2) Except as provided by subsection (3) of this section, a school district must make
+28 breakfast accessible at every school site.
+29 “(3) A school district is not required to make breakfast accessible at every school site if
+30 the school district qualifies for a waiver from the Department of Education under this sub-
+31 section. A school district may qualify for a waiver as follows:
+32 “(a) The school district may apply for a waiver for all or for particular grade levels if the
+33 school district is financially unable to implement a breakfast program. The department may
+34 grant a waiver to the school district for a period not to exceed two years, after which the
+35 waiver may be extended only if the school district reestablishes a claim of financial hardship.
+36 “(b) The school district may apply for a waiver for all or for particular grade levels if the
+37 school district is unable to implement a breakfast program due to reasons identified by the
+38 State Board of Education by rule, including operating on a schedule that does not include a
+39 traditional service time for breakfast. The waiver shall be for a period identified by the de-
+40 partment based on criteria established by the state board, and may be extended as provided
+41 by the criteria.
+42 “[(6)] (4) A school district that makes breakfast accessible at any school site shall make break-
+43 fast accessible at that school site at no charge as provided by ORS 327.531 (1) or (2). The department
+44 shall provide reimbursement to the school district for each breakfast provided at no charge as pro-
+45 vided by ORS 327.545.
+SA to SB 1581 Page 2
+
+1 “[(7)(a)] (5)(a) Except as provided by [subsection (8) of this section] paragraph (b) of this sub-
+2 section, a school district that makes breakfast accessible at a school site [may choose to make
+3 breakfast accessible at that school site after the beginning of the school day.] must ensure that
+4 breakfast is accessible to all students after the beginning of the school day, regardless of
+5 grade or arrival time.
+6 “(b) If a school district can demonstrate that 70 percent or more of the students at a
+7 school site who regularly receive lunch at the school site also regularly receive breakfast at
+8 the school site without the school district complying with paragraph (a) of this subsection,
+9 the school district is not required to comply with paragraph (a) of this subsection.
+10 “[(b)] (6) Time spent by students consuming breakfast is considered instructional time when
+11 students consume breakfast in the students’ classroom and instruction is being provided while stu-
+12 dents are consuming breakfast. No more than 15 minutes may be considered instructional time when
+13 students are consuming breakfast.
+14 “[(8)(a) If 70 percent or more of the students at a school site are eligible students, the school district
+15 must make breakfast accessible at that school site after the beginning of the school day.]
+16 “[(b) A school district that is required to make breakfast accessible as prescribed by paragraph (a)
+17 of this subsection must ensure that breakfast is:]
+18 “[(A) Accessible to all students after the beginning of the school day, regardless of grade or arrival
+19 time; and]
+20 “[(B) Provided at no charge to all students, regardless of whether a student is an eligible
+21 student.]
+22 “[(c)] (7) The department shall provide technical assistance to school districts to meet the re-
+23 quirements of this [subsection] section. Technical assistance:
+24 “(a) Must include assisting school districts in maximizing to the greatest extent practi-
+25 cable the amounts received for reimbursement under federal law.
+26 “(b) May include the development of breakfast delivery models.
+27 “[(d) Notwithstanding paragraph (a) of this subsection, If a school district can demonstrate that
+28 70 percent or more of the eligible students at a school site regularly receive breakfast at the school site
+29 without the school district complying with paragraph (a) of this subsection, the school district is not
+30 required to comply with paragraph (a) of this subsection.]
+31 “[(9)(a)] (8)(a) The department may award grants or enter into contracts to enable school dis-
+32 tricts to make breakfast accessible as required under [subsection (8) of] this section. Each grant or
+33 contract may not exceed $5,000 per school site and must be used to purchase or upgrade necessary
+34 equipment required to provide breakfast after the beginning of the school day.
+35 “(b) The department may enter into a contract with a public or private entity for the purposes
+36 of the entity providing:
+37 “(A) Technical assistance to applicants for and recipients of grants; and
+38 “(B) Administration of the grant program.
+39 “[(10)] (9) The State Board of Education may adopt any rules necessary for the implementation
+40 of this section.
+41 “SECTION 3. ORS 327.545 is amended to read:
+42 “327.545. (1) For school districts with schools that provide [United States Department of Agri-
+43 culture reimbursable] meals to students as described in ORS 327.531 and 327.535, the Department of
+44 Education shall reimburse the school districts for costs incurred by the school districts [in providing
+45 the meals. The amounts of the reimbursements may not exceed the amounts prescribed by subsections
+SA to SB 1581 Page 3
+
+1 (2) and (3) of this section] as provided by this section.
+2 “(2) For schools that offer reimbursable breakfast and lunch at no charge to all students of the
+3 school without consideration of individual eligibility for free or reduced price meals as described in
+4 ORS 327.531 (1), the amount of reimbursements provided under this section [may not exceed] shall
+5 equal the difference between:
+6 “(a) The free reimbursement rate established by the United States Department of Agriculture for
+7 reimbursable meals; and
+8 “(b) Any amounts otherwise reimbursed or paid by state, federal or other sources.
+9 “(3) For schools that offer [reimbursable] breakfast and lunch at no charge to students [from
+10 households with incomes that do not exceed 300 percent of the federal poverty guidelines] as described
+11 in ORS 327.531 (2), the amount of reimbursements provided under this section [may not exceed] shall
+12 equal the difference between:
+13 “(a) Any amounts available as the free reimbursement rate established by the United States
+14 Department of Agriculture for reimbursable meals; and
+15 “(b) Any amounts otherwise reimbursed or paid by state, federal or other sources.
+16 “(4) The State Board of Education may adopt any rules necessary for making reimbursements
+17 under this section.”.
+18
+SA to SB 1581 Page 4

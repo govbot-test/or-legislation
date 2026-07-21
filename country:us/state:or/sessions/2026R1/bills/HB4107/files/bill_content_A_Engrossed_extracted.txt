@@ -1,0 +1,122 @@
+Title: 
+Official Title: 
+Source: versions - A-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+A-Engrossed
+House Bill 4107
+Ordered by the House February 16
+Including House Amendments dated February 16
+Sponsored by Representative NATHANSON, Senator PROZANSKI; Representatives ANDERSEN, BOWMAN,
+FRAGALA, JAVADI, MCDONALD, MUNOZ, WALTERS, Senator PATTERSON (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: The Act says an urgent care center has to make some information public and has to
+offer certain health care services. (Flesch Readability Score: 64.6).
+Requires an urgent care center to make publicly available specified information about the ur-
+gent care center, offer specified services and, except in certain circumstances, have at least one li-
+censed health care provider on site during the hours of operation. Defines “urgent care center.”
+1 A BILL FOR AN ACT
+2 Relating to urgent care centers.
+3 Be It Enacted by the People of the State of Oregon:
+4 SECTION 1. (1) As used in this section:
+5 (a) “Health care facility” has the meaning given that term in ORS 442.015.
+6 (b) “Health system” means:
+7 (A) A parent corporation of one or more health care facilities, urgent care centers or
+8 other entities that provide health care services, and any entity affiliated with the parent
+9 corporation through ownership, governance, control or membership; or
+10 (B) A health care facility, urgent care center or other entity that provides health care
+11 services, and any entity affiliated with the health care facility, urgent care center or other
+12 entity that provides health care services through ownership, governance, control or mem-
+13 bership.
+14 (c) “Licensed health care provider” means:
+15 (A) A physician licensed under ORS chapter 677;
+16 (B) A physician associate licensed under ORS 677.505 to 677.525; or
+17 (C) A nurse practitioner licensed under ORS 678.375 to 678.390.
+18 (d) “Specialty urgent care center” means a facility or portion of a facility that provides
+19 to individuals, on a walk-in and episodic basis:
+20 (A) For illnesses or injuries that are acute but not life-threatening or that do not require
+21 emergency medical services, medical care related only to a specific body system; or
+22 (B) Behavioral health care services only.
+23 (e)(A) “Urgent care center” means a facility or portion of a facility that:
+24 (i) Uses the term “urgent” or “urgent care” to describe the facility or portion of the fa-
+25 cility; and
+26 (ii) Provides medical care to individuals only on a walk-in and episodic basis for illnesses
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 310
+
+A-Eng. HB 4107
+1 or injuries that are acute but not life-threatening or that do not require emergency medical
+2 services.
+3 (B) “Urgent care center” does not include a specialty urgent care center.
+4 (2)(a) Except as provided in paragraph (b) of this subsection, a person or government
+5 entity that does not meet the requirements of subsections (3) to (5) of this section may not:
+6 (A) Establish, conduct, maintain, manage or operate itself under a business or trade
+7 name, assumed business name, fictitious business name or other designation that includes
+8 the terms “urgent” or “urgent care”; or
+9 (B) Use the term “urgent” or “urgent care” in any external sign or advertisement.
+10 (b) The prohibitions described in paragraph (a) of this subsection do not apply to a spe-
+11 cialty urgent care center that uses the term “urgent” or “urgent care” in conjunction with
+12 the term for the specialty medical care that the specialty urgent care center provides.
+13 (3) An urgent care center shall publish on a website operated by or on behalf of the ur-
+14 gent care center, and post near the main public entrance of the urgent care center in a
+15 manner that is conspicuous, accessible and legible, the following information:
+16 (a) The legal name of the urgent care center and any name under which the urgent care
+17 center does business;
+18 (b) The street address of the urgent care center;
+19 (c) Any health care facility or health system affiliated with the urgent care center;
+20 (d) The hours and days of operation for the urgent care center;
+21 (e) The types of payment and types of payers accepted by the urgent care center;
+22 (f) The services offered at the urgent care center and whether X-ray or laboratory ser-
+23 vices are available at the urgent care center;
+24 (g) The limitations on the availability of services;
+25 (h) The types of licensed health care providers that are available at the urgent care
+26 center;
+27 (i) Whether the urgent care center serves patients only by walk-in or by either appoint-
+28 ment or walk-in;
+29 (j) The diagnostic capabilities available at the urgent care center, at a facility adjacent
+30 or in close proximity to the urgent care center or by referral to another facility with the
+31 location of that facility or the distance of that facility from the urgent care center; and
+32 (k) Any telemedicine services offered by the urgent care center.
+33 (4)(a) Except as provided in paragraph (b) of this subsection, an urgent care center shall,
+34 at a minimum, have one licensed health care provider on site during the hours that the ur-
+35 gent care center is open and be capable of providing on site the following services:
+36 (A) Tests for common respiratory diseases;
+37 (B) 12-lead electrocardiogram (ECG);
+38 (C) Splints for strains, sprains and fractures; and
+39 (D) Sutures for simple lacerations.
+40 (b) An urgent care center may operate temporarily without a licensed health care pro-
+41 vider on site if:
+42 (A) A licensed health care provider is unavailable to be on site due to illness, emergency
+43 or similar circumstance;
+44 (B) A licensed health care provider is available to offer services through telemedicine;
+45 and
+[2]
+
+A-Eng. HB 4107
+1 (C) The urgent care center notifies a patient at the first point of contact with the patient
+2 that services will be provided through telemedicine.
+3 (5) If an urgent care center refers a patient to an emergency department, the urgent
+4 care center shall provide the emergency department with the patient’s records that include
+5 the clinical reason for the referral. The urgent care center may provide the records:
+6 (a) By using a health information exchange; or
+7 (b) If the urgent care center does not participate in a health information exchange, by:
+8 (A) Providing the patient with a physical copy of the records, including the clinical reason
+9 for the referral; or
+10 (B) Other immediate means, including a telephone call, facsimile or electronic trans-
+11 mission.
+12 (6) An urgent care center may not:
+13 (a) Hold the urgent care center out to the public as providing emergency department
+14 services; or
+15 (b) Use the word “emergency” or the letters “E.R.” or “E.D.” or any derivative of the
+16 word “emergency” that would lead a reasonable person to believe an urgent care center is
+17 an emergency department of a hospital licensed under ORS 441.025.
+18
+[3]

@@ -1,0 +1,479 @@
+Title: 
+Official Title: 
+Source: versions - A-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+A-Engrossed
+Senate Bill 1523
+Ordered by the Senate February 13
+Including Senate Amendments dated February 13
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Housing and Development)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: This Act allows a tenant or applicant for housing to opt not to use a tenant portal or
+to pay by card or electronic means. (Flesch Readability Score: 63.0).
+Defines “tenant portal” for the purposes of residential tenancies. Requires landlords to provide
+an alternative to a tenant portal in response to a request from an applicant or tenant under certain
+circumstances. Prohibits landlords from requiring payments via a tenant portal, card or electronic
+means. Requires landlords to provide an alternative to a tenant portal to access common areas of
+the premises. Allows landlords to charge tenants for payment processing fees for payments made by
+credit card or tenant portal.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to electronic access to residential tenancies; creating new provisions; amending ORS
+3 90.100, 90.302 and 90.320; and prescribing an effective date.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. Sections 2 and 3 of this 2026 Act are added to and made a part of ORS
+6 chapter 90.
+7 SECTION 2. (1) A landlord who uses a tenant portal to accept an application shall:
+8 (a)(A) Post a printable copy of the application on the landlord’s website; or
+9 (B) Within seven days following receipt of a written request by any prospective applicant,
+10 provide a printed or printable copy of the application to the prospective applicant by mail or
+11 electronic mail.
+12 (b) Process all applications whether received through the tenant portal or outside of the
+13 portal.
+14 (2) If an applicant or tenant requests an alternative in writing, a landlord may not re-
+15 quire a tenant to use a tenant portal as the sole means to:
+16 (a) Verify identification;
+17 (b) Review and sign addenda or other legal agreements; or
+18 (c) Submit documents relating to the tenancy.
+19 (3) This section does not prohibit a landlord from entering tenant information into a
+20 tenant portal or otherwise using a tenant portal.
+21 (4) If a landlord fails to comply with this section, an individual who applied as described
+22 in subsection (1)(b) of this section or requested an alternative to the tenant portal under
+23 subsection (1)(a) or (2) of this section is entitled to any damages sustained, or $100, which-
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 287
+
+A-Eng. SB 1523
+1 ever is greater.
+2 SECTION 3. (1) A landlord shall allow a tenant to make payments by check or other
+3 commercially reasonable methods.
+4 (2) A landlord may not require a tenant to make payments by debit card, credit card,
+5 electronic check, tenant portal or any other form of electronic payment.
+6 (3) A landlord may not charge a late fee or terminate a tenancy based on nonpayment
+7 of rent or other charge if a landlord refuses to allow a payment offered by the tenant under
+8 subsection (1) of this section.
+9 SECTION 4. ORS 90.100 is amended to read:
+10 90.100. As used in this chapter, unless the context otherwise requires:
+11 (1) “Accessory building or structure” means any portable, demountable or permanent structure,
+12 including but not limited to cabanas, ramadas, storage sheds, garages, awnings, carports, decks,
+13 steps, ramps, piers and pilings, that is:
+14 (a) Owned and used solely by a tenant of a manufactured dwelling or floating home; or
+15 (b) Provided pursuant to a written rental agreement for the sole use of and maintenance by a
+16 tenant of a manufactured dwelling or floating home.
+17 (2) “Action” includes recoupment, counterclaim, setoff, suit in equity and any other proceeding
+18 in which rights are determined, including an action for possession.
+19 (3) “Applicant screening charge” means any payment of money required by a landlord of an
+20 applicant prior to entering into a rental agreement with that applicant for a residential dwelling
+21 unit, the purpose of which is to pay the cost of processing an application for a rental agreement for
+22 a residential dwelling unit.
+23 (4) “Attorney” includes an associate licensee of the Oregon State Bar practicing law within the
+24 licensee’s approved scope of practice.
+25 (5) “Bias crime” has the meaning given that term in ORS 147.380.
+26 (6) “Building and housing codes” includes any law, ordinance or governmental regulation con-
+27 cerning fitness for habitation, or the construction, maintenance, operation, occupancy, use or ap-
+28 pearance of any premises or dwelling unit.
+29 (7) “Carbon monoxide alarm” has the meaning given that term in ORS 105.836.
+30 (8) “Carbon monoxide source” has the meaning given that term in ORS 105.836.
+31 (9) “Conduct” means the commission of an act or the failure to act.
+32 (10) “DBH” means the diameter at breast height, which is measured as the width of a standing
+33 tree at four and one-half feet above the ground on the uphill side.
+34 (11) “Dealer” means any person in the business of selling, leasing or distributing new or used
+35 manufactured dwellings or floating homes to persons who purchase or lease a manufactured dwelling
+36 or floating home for use as a residence.
+37 (12) “Domestic violence” means:
+38 (a) Abuse between family or household members, as those terms are defined in ORS 107.705; or
+39 (b) Abuse, as defined in ORS 107.705, between partners in a dating relationship.
+40 (13) “Drug and alcohol free housing” means a dwelling unit described in ORS 90.243.
+41 (14) “Dwelling unit” means a structure or the part of a structure that is used as a home, resi-
+42 dence or sleeping place by one person who maintains a household or by two or more persons who
+43 maintain a common household. “Dwelling unit” regarding a person who rents a space for a manu-
+44 factured dwelling or recreational vehicle or regarding a person who rents moorage space for a
+45 floating home as defined in ORS 830.700, but does not rent the home, means the space rented and
+[2]
+
+A-Eng. SB 1523
+1 not the manufactured dwelling, recreational vehicle or floating home itself.
+2 (15) “Essential service” means:
+3 (a) For a tenancy not consisting of rental space for a manufactured dwelling, floating home or
+4 recreational vehicle owned by the tenant and not otherwise subject to ORS 90.505 to 90.850:
+5 (A) Heat, plumbing, hot and cold running water, gas, electricity, light fixtures, locks for exterior
+6 doors, latches for windows and any cooking appliance or refrigerator supplied or required to be
+7 supplied by the landlord; and
+8 (B) Any other service or habitability obligation imposed by the rental agreement or ORS 90.320,
+9 the lack or violation of which creates a serious threat to the tenant’s health, safety or property or
+10 makes the dwelling unit unfit for occupancy.
+11 (b) For a tenancy consisting of rental space for a manufactured dwelling, floating home or rec-
+12 reational vehicle owned by the tenant or that is otherwise subject to ORS 90.505 to 90.850:
+13 (A) Sewage disposal, water supply, electrical supply and, if required by applicable law, any
+14 drainage system; and
+15 (B) Any other service or habitability obligation imposed by the rental agreement or ORS 90.730,
+16 the lack or violation of which creates a serious threat to the tenant’s health, safety or property or
+17 makes the rented space unfit for occupancy.
+18 (16) “Facility” means a manufactured dwelling park or a marina.
+19 (17) “Fee” means a nonrefundable payment of money.
+20 (18) “First class mail” does not include certified or registered mail, or any other form of mail
+21 that may delay or hinder actual delivery of mail to the recipient.
+22 (19) “Fixed term tenancy” means a tenancy that has a fixed term of existence, continuing to a
+23 specific ending date and terminating on that date without requiring further notice to effect the ter-
+24 mination.
+25 (20) “Floating home” has the meaning given that term in ORS 830.700. “Floating home” includes
+26 an accessory building or structure.
+27 (21) “Good faith” means honesty in fact in the conduct of the transaction concerned.
+28 (22) “Hazard tree” means a tree that:
+29 (a) Is located on a rented space in a manufactured dwelling park;
+30 (b) Measures at least eight inches DBH; and
+31 (c) Is considered, by an arborist licensed as a landscape construction professional pursuant to
+32 ORS 671.560 and certified by the International Society of Arboriculture, to pose an unreasonable
+33 risk of causing serious physical harm or damage to individuals or property in the near future.
+34 (23) “Hotel or motel” means “hotel” as that term is defined in ORS 699.005.
+35 (24) “Informal dispute resolution” includes voluntary consultation between the landlord or
+36 landlord’s agent and one or more tenants or voluntary mediation utilizing the services of a third
+37 party, but does not include mandatory mediation or arbitration.
+38 (25) “Landlord” means the owner, lessor or sublessor of the dwelling unit or the building or
+39 premises of which it is a part. “Landlord” includes a person who is authorized by the owner, lessor
+40 or sublessor to manage the premises or to enter into a rental agreement.
+41 (26) “Landlord’s agent” means a person who has oral or written authority, either express or
+42 implied, to act for or on behalf of a landlord.
+43 (27) “Last month’s rent deposit” means a type of security deposit, however designated, the pri-
+44 mary function of which is to secure the payment of rent for the last month of the tenancy.
+45 (28) “Manufactured dwelling” means a residential trailer, a mobile home or a manufactured
+[3]
+
+A-Eng. SB 1523
+1 home as those terms are defined in ORS 446.003 or a prefabricated structure. “Manufactured
+2 dwelling” includes an accessory building or structure.
+3 (29) “Manufactured dwelling park” means a place where four or more manufactured dwellings
+4 are located, the primary purpose of which is to rent space or keep space for rent to any person for
+5 a charge or fee.
+6 (30) “Marina” means a moorage of contiguous dwelling units that may be legally transferred as
+7 a single unit and are owned by one person where four or more floating homes are secured, the pri-
+8 mary purpose of which is to rent space or keep space for rent to any person for a charge or fee.
+9 (31) “Marina purchase association” means a group of three or more tenants who reside in a
+10 marina and have organized for the purpose of eventual purchase of the marina.
+11 (32) “Month-to-month tenancy” means a tenancy that automatically renews and continues for
+12 successive monthly periods on the same terms and conditions originally agreed to, or as revised by
+13 the parties, until terminated by one or both of the parties.
+14 (33) “Organization” includes a corporation, government, governmental subdivision or agency,
+15 business trust, estate, trust, partnership or association, two or more persons having a joint or com-
+16 mon interest, and any other legal or commercial entity.
+17 (34) “Owner” includes a mortgagee in possession and means one or more persons, jointly or se-
+18 verally, in whom is vested:
+19 (a) All or part of the legal title to property; or
+20 (b) All or part of the beneficial ownership and a right to present use and enjoyment of the
+21 premises.
+22 (35) “Person” includes an individual or organization.
+23 (36) “Prefabricated structure” means a structure that is substantially constructed or assembled
+24 using closed construction at an off-site location in compliance with the state building code and that
+25 is sited and occupied by the owner in compliance with local codes.
+26 (37) “Premises” means:
+27 (a) A dwelling unit and the structure of which it is a part and facilities and appurtenances
+28 therein;
+29 (b) Grounds, areas and facilities held out for the use of tenants generally or the use of which
+30 is promised to the tenant; and
+31 (c) A facility for manufactured dwellings or floating homes.
+32 (38) “Prepaid rent” means any payment of money to the landlord for a rent obligation not yet
+33 due. In addition, “prepaid rent” means rent paid for a period extending beyond a termination date.
+34 (39) “Recreational vehicle” has the meaning given that term in ORS 174.101.
+35 (40) “Recreational vehicle park” has the meaning given that term in ORS 197.492.
+36 (41)(a) “Rent” means any payment to be made to the landlord under the rental agreement, peri-
+37 odic or otherwise, in exchange for the right of a tenant and any permitted pet to occupy a dwelling
+38 unit to the exclusion of others and to use the premises.
+39 (b) “Rent” does not include security deposits, fees or utility or service charges as described in
+40 ORS 90.315 (4) and 90.562.
+41 (42) “Rental agreement” means all agreements, written or oral, and valid rules and regulations
+42 adopted under ORS 90.262 or 90.510 (6) embodying the terms and conditions concerning the use and
+43 occupancy of a dwelling unit and premises. “Rental agreement” includes a lease. A rental agreement
+44 is either a week-to-week tenancy, month-to-month tenancy or fixed term tenancy.
+45 (43) “Roomer” means a person occupying a dwelling unit that does not include a toilet and ei-
+[4]
+
+A-Eng. SB 1523
+1 ther a bathtub or a shower and a refrigerator, stove and kitchen, all provided by the landlord, and
+2 where one or more of these facilities are used in common by occupants in the structure.
+3 (44) “Screening or admission criteria” means a written statement of any factors a landlord
+4 considers in deciding whether to accept or reject an applicant and any qualifications required for
+5 acceptance. “Screening or admission criteria” includes, but is not limited to, the rental history,
+6 character references, public records, criminal records, credit reports, credit references and incomes
+7 or resources of the applicant.
+8 (45) “Security deposit” means a refundable payment or deposit of money, however designated,
+9 the primary function of which is to secure the performance of a rental agreement or any part of a
+10 rental agreement. “Security deposit” does not include a fee.
+11 (46) “Sexual assault” has the meaning given that term in ORS 147.450.
+12 (47)(a) “Squatter” means a person occupying a dwelling unit, or occupying any other property
+13 and using it for dwelling purposes, who is not so entitled under a rental agreement or who is not
+14 authorized by the tenant to occupy that dwelling unit.
+15 (b) “Squatter” does not include a tenant who holds over as described in ORS 90.427 (11).
+16 (48) “Stalking” means the behavior described in ORS 163.732.
+17 (49) “Statement of policy” means the summary explanation of information and facility policies
+18 to be provided to prospective and existing tenants under ORS 90.510.
+19 (50) “Surrender” means an agreement, express or implied, as described in ORS 90.148 between
+20 a landlord and tenant to terminate a rental agreement that gave the tenant the right to occupy a
+21 dwelling unit.
+22 (51) “Tenant”:
+23 (a) Except as provided in paragraph (b) of this subsection:
+24 (A) Means a person, including a roomer, entitled under a rental agreement to occupy a dwelling
+25 unit to the exclusion of others, including a dwelling unit owned, operated or controlled by a public
+26 housing authority.
+27 (B) Means a minor, as defined and provided for in ORS 109.697.
+28 (b) For purposes of ORS 90.505 to 90.850, means only a person who owns and occupies as a
+29 residence a manufactured dwelling or a floating home in a facility and persons residing with that
+30 tenant under the terms of the rental agreement.
+31 (c) Does not mean a guest or temporary occupant.
+32 (52)(a) “Tenant portal” means any electronic application, software, website or digital
+33 platform provided by or on behalf of a landlord that a tenant, applicant or prospective ap-
+34 plicant uses in connection with applying for, establishing, maintaining or terminating a
+35 tenancy.
+36 (b) “Tenant portal” does not include communications with the landlord or landlord’s
+37 agent via email or text message.
+38 [(52)] (53) “Transient lodging” means a room or a suite of rooms.
+39 [(53)] (54) “Transient occupancy” means occupancy in transient lodging that has all of the fol-
+40 lowing characteristics:
+41 (a) Occupancy is charged on a daily basis and is not collected more than six days in advance;
+42 (b) The lodging operator provides maid and linen service daily or every two days as part of the
+43 regularly charged cost of occupancy; and
+44 (c) The period of occupancy does not exceed 30 days.
+45 [(54)] (55) “Vacation occupancy” means occupancy in a dwelling unit, not including transient
+[5]
+
+A-Eng. SB 1523
+1 occupancy in a hotel or motel, that:
+2 (a) Has all of the following characteristics:
+3 (A) The occupant rents the unit for vacation purposes only, not as a principal residence;
+4 (B) The occupant has a principal residence other than at the unit; and
+5 (C) The period of authorized occupancy does not exceed 45 days; or
+6 (b) Is for the rental of a space in a recreational vehicle park on which a recreational vehicle
+7 owned by the occupant will be located and for which:
+8 (A) The occupant rents the unit for vacation purposes only, not as a principal residence;
+9 (B) The occupant has a principal residence other than at the space;
+10 (C) The period of authorized occupancy does not exceed 90 days;
+11 (D) The recreational vehicle is required to be removed from the park at the end of the occu-
+12 pancy period before a new occupancy may begin; and
+13 (E) A written agreement is signed by the occupant that substantially states: “Your occupancy
+14 of this recreational vehicle park is a vacation occupancy and is NOT subject to the Oregon Resi-
+15 dential Landlord and Tenant Act (ORS chapter 90).”
+16 [(55)] (56) “Victim” means:
+17 (a) The person against whom an incident related to domestic violence, sexual assault, bias crime
+18 or stalking is perpetrated; or
+19 (b) The parent or guardian of a minor household member against whom an incident related to
+20 domestic violence, sexual assault, bias crime or stalking is perpetrated, unless the parent or guard-
+21 ian is the perpetrator.
+22 [(56)] (57) “Week-to-week tenancy” means a tenancy that has all of the following characteristics:
+23 (a) Occupancy is charged on a weekly basis and is payable no less frequently than every seven
+24 days;
+25 (b) There is a written rental agreement that defines the landlord’s and the tenant’s rights and
+26 responsibilities under this chapter; and
+27 (c) There are no fees or security deposits, although the landlord may require the payment of an
+28 applicant screening charge, as provided in ORS 90.295.
+29 SECTION 5. ORS 90.302 is amended to read:
+30 90.302. (1) A landlord may not charge a fee at the beginning of the tenancy for an anticipated
+31 landlord expense and may not require the payment of any fee except as provided in this section.
+32 A fee must be described in a written rental agreement.
+33 (2) A landlord may charge a tenant a fee for each occurrence of the following:
+34 (a) A late rent payment, pursuant to ORS 90.260.
+35 (b) A dishonored check, pursuant to ORS 30.701 (5). The amount of the fee may not exceed the
+36 amount described in ORS 30.701 (5) plus any amount that a bank has charged the landlord for pro-
+37 cessing the dishonored check.
+38 (c) Removal or tampering with a properly functioning smoke alarm, smoke detector or carbon
+39 monoxide alarm, as provided in ORS 90.325 (2). The landlord may charge a fee of up to $250 unless
+40 the State Fire Marshal assesses the tenant a civil penalty for the conduct under ORS 479.990 or
+41 under ORS 105.836 to 105.842 and 476.725.
+42 (d) The violation of a written pet agreement or of a rule relating to pets in a facility, pursuant
+43 to ORS 90.530.
+44 (e) The abandonment or relinquishment of a dwelling unit during a fixed term tenancy without
+45 cause. The fee may not exceed one and one-half times the monthly rent. A landlord may not assess
+[6]
+
+A-Eng. SB 1523
+1 a fee under this paragraph if the abandonment or relinquishment is pursuant to ORS 90.453 (2),
+2 90.472 or 90.475. If the landlord assesses a fee under this paragraph:
+3 (A) The landlord may not recover unpaid rent for any period of the fixed term tenancy beyond
+4 the date that the landlord knew or reasonably should have known of the abandonment or
+5 relinquishment;
+6 (B) The landlord may not recover damages related to the cost of renting the dwelling unit to a
+7 new tenant; and
+8 (C) ORS 90.410 (3) does not apply to the abandonment or relinquishment.
+9 (3)(a) A landlord may charge a tenant a fee under this subsection for a second noncompliance
+10 or for a subsequent noncompliance with written rules or policies that describe the prohibited con-
+11 duct and the fee for a second noncompliance, and for any third or subsequent noncompliance, that
+12 occurs within one year after a written warning notice described in subparagraph (A) of this para-
+13 graph. Except as provided in paragraph (b)(G) or (H) of this subsection, the fee may not exceed $50
+14 for the second noncompliance within one year after the warning notice for the same or a similar
+15 noncompliance or $50 plus five percent of the rent payment for the current rental period for a third
+16 or subsequent noncompliance within one year after the warning notice for the same or a similar
+17 noncompliance. The landlord:
+18 (A) Shall give a tenant a written warning notice that describes:
+19 (i) A specific noncompliance before charging a fee for a second or subsequent noncompliance for
+20 the same or similar conduct; and
+21 (ii) The amount of the fee for a second noncompliance, and for any subsequent noncompliance,
+22 that occurs within one year after the warning notice.
+23 (B) Shall give a tenant a written notice describing the noncompliance when assessing a fee for
+24 a second or subsequent noncompliance that occurs within one year after the warning notice.
+25 (C) Shall give a warning notice for a noncompliance or assess a fee for a second or subsequent
+26 noncompliance within 30 days after the act constituting noncompliance.
+27 (D) May terminate a tenancy for a noncompliance consistent with this chapter instead of as-
+28 sessing a fee under this subsection, but may not assess a fee and terminate a tenancy for the same
+29 noncompliance.
+30 (E) May not deduct a fee assessed pursuant to this subsection from a rent payment for the
+31 current or a subsequent rental period.
+32 (b) A landlord may charge a tenant a fee for occurrences of noncompliance with written rules
+33 or policies as provided in paragraph (a) of this subsection for the following types of noncompliance:
+34 (A) The late payment of a utility or service charge that the tenant owes the landlord as de-
+35 scribed in ORS 90.315.
+36 (B) Failure to clean up pet waste from a part of the premises other than the dwelling unit.
+37 (C) Failure to clean up the waste of a service animal or a companion animal from a part of the
+38 premises other than the dwelling unit.
+39 (D) Failure to clean up garbage, rubbish and other waste from a part of the premises other than
+40 the dwelling unit.
+41 (E) Parking violations.
+42 (F) The improper use of vehicles within the premises.
+43 (G) Smoking in a clearly designated nonsmoking unit or area of the premises. The fee for a
+44 second or any subsequent noncompliance under this subparagraph may not exceed $250. A landlord
+45 may not assess this fee before 24 hours after the required warning notice to the tenant.
+[7]
+
+A-Eng. SB 1523
+1 (H) Keeping on the premises an unauthorized pet capable of causing damage to persons or
+2 property, as described in ORS 90.405. The fee for a second or any subsequent noncompliance under
+3 this subparagraph may not exceed $250. A landlord may not assess this fee before 48 hours after the
+4 required warning notice to the tenant.
+5 (4) A landlord may not be required to account for or return to the tenant any fee.
+6 (5) Except as provided in subsection (2)(e) of this section, a landlord may not charge a tenant
+7 any form of liquidated damages, however designated.
+8 (6) Nonpayment of a fee is not grounds for termination of a rental agreement for nonpayment
+9 of rent under ORS 90.394, but is grounds for termination of a rental agreement for cause under ORS
+10 90.392 or 90.630 (1).
+11 (7) This section does not apply to:
+12 (a) Attorney fees awarded pursuant to ORS 90.255;
+13 (b) Applicant screening charges paid pursuant to ORS 90.295;
+14 (c) Charges for improvements or other actions that are requested by the tenant and are not re-
+15 quired of the landlord by the rental agreement or by law, including the cost to replace a key lost
+16 by a tenant;
+17 [(d) Processing fees charged to the landlord by a credit card company and passed through to the
+18 tenant for the use of a credit card by the tenant to make a payment when:]
+19 [(A) The credit card company allows processing fees to be passed through to the credit card holder;
+20 and]
+21 [(B) The landlord allows the tenant to pay in cash or by check;]
+22 (d) Processing fees charged to the landlord, for a payment made by a tenant by credit
+23 or debit card or through a tenant portal or other electronic means, and passed through to
+24 the tenant, provided that:
+25 (A) The payment processing company allows fees to be passed to the payor;
+26 (B) The landlord allows the tenant to pay by nonelectronic means as required under
+27 section 3 (1) of this 2026 Act; and
+28 (C) Records of fees charged to the landlord and passed through to the tenant are made
+29 available to the tenant upon written request within a reasonable time;
+30 (e) A requirement by a landlord in a written rental agreement that a tenant obtain and maintain
+31 renter’s liability insurance pursuant to ORS 90.222; or
+32 (f) Assessments, as defined in ORS 94.550 and 100.005, for a dwelling unit that is within a
+33 homeowners association organized under ORS 94.625 or an association of unit owners organized
+34 under ORS 100.405, respectively, if:
+35 (A) The assessments are imposed by the association on a landlord who owns a dwelling unit
+36 within the association and the landlord passes the assessments through to a tenant of the unit;
+37 (B) The assessments are imposed by the association on any person for expenses related to
+38 moving into or out of a unit located within the association;
+39 (C) The landlord sets forth the assessment requirement in the written rental agreement at the
+40 commencement of the tenancy; and
+41 (D) The landlord gives a copy of the assessment the landlord receives from the association to
+42 the tenant before or at the time the landlord charges the tenant.
+43 (8) If a landlord charges a tenant a fee in violation of this section, the tenant may recover twice
+44 the actual damages of the tenant or $300, whichever is greater. This penalty does not apply to fees
+45 described in subsection (2) of this section.
+[8]
+
+A-Eng. SB 1523
+1 (9) The landlord may unilaterally amend a rental agreement for a facility subject to ORS 90.505
+2 to 90.850 to impose fees authorized by subsection (3) of this section upon a 90-day written notice to
+3 the tenant, except that a marina landlord may not impose a noncompliance fee for parking under
+4 subsection (3)(b)(E) of this section.
+5 SECTION 6. ORS 90.320 is amended to read:
+6 90.320. (1) A landlord shall at all times during the tenancy maintain the dwelling unit in a
+7 habitable condition. For purposes of this section, a dwelling unit shall be considered unhabitable if
+8 it substantially lacks:
+9 (a) Effective waterproofing and weather protection of roof and exterior walls, including windows
+10 and doors;
+11 (b) Plumbing facilities that conform to applicable law in effect at the time of installation and
+12 are maintained in good working order;
+13 (c) A water supply approved under applicable law that is:
+14 (A) Under the control of the tenant or landlord and is capable of producing hot and cold running
+15 water;
+16 (B) Furnished to appropriate fixtures;
+17 (C) Connected to a sewage disposal system approved under applicable law; and
+18 (D) Maintained so as to provide safe drinking water and to be in good working order to the
+19 extent that the system can be controlled by the landlord;
+20 (d) Adequate heating facilities that conform to applicable law at the time of installation and are
+21 maintained in good working order;
+22 (e) Electrical lighting with wiring and electrical equipment that conform to applicable law at the
+23 time of installation and are maintained in good working order;
+24 (f) Buildings, grounds and appurtenances at the time of the commencement of the rental agree-
+25 ment in every part safe for normal and reasonably foreseeable uses, clean, sanitary and free from
+26 all accumulations of debris, filth, rubbish, garbage, rodents and vermin, and all areas under control
+27 of the landlord kept in every part safe for normal and reasonably foreseeable uses, clean, sanitary
+28 and free from all accumulations of debris, filth, rubbish, garbage, rodents and vermin;
+29 (g) Except as otherwise provided by local ordinance or by written agreement between the land-
+30 lord and the tenant, an adequate number of appropriate receptacles for garbage and rubbish in clean
+31 condition and good repair at the time of the commencement of the rental agreement, and the land-
+32 lord shall provide and maintain appropriate serviceable receptacles thereafter and arrange for their
+33 removal;
+34 (h) Floors, walls, ceilings, stairways and railings maintained in good repair;
+35 (i) Ventilating, air conditioning and other facilities and appliances, including elevators, main-
+36 tained in good repair if supplied or required to be supplied by the landlord;
+37 (j) Safety from fire hazards, including a working smoke alarm or smoke detector, with working
+38 batteries if solely battery-operated, provided only at the beginning of any new tenancy when the
+39 tenant first takes possession of the premises, as provided in ORS 479.270, but not to include the
+40 tenant’s testing of the smoke alarm or smoke detector as provided in ORS 90.325 (1);
+41 (k) A carbon monoxide alarm, and the dwelling unit:
+42 (A) Contains a carbon monoxide source; or
+43 (B) Is located within a structure that contains a carbon monoxide source and the dwelling unit
+44 is connected to the room in which the carbon monoxide source is located by a door, ductwork or a
+45 ventilation shaft;
+[9]
+
+A-Eng. SB 1523
+1 (L) Working locks for all dwelling entrance doors and latches for all windows, by which access
+2 may be had to the dwelling unit;
+3 (m) A means of unlocking locks under paragraph (L) of this subsection, [including access control
+4 systems operated by a software application operated on a tenant’s mobile phone or other electronic de-
+5 vice, provided that the landlord also offers the tenant at least one alternative means of access,
+6 including] and of unlocking or otherwise accessing all common areas or common facilities of
+7 the premises to which the tenant has access, such as an access code or a fob, key card or other
+8 tangible key which must include at least one means other than a tenant portal; or
+9 (n) For a dwelling unit in a building where building permits for its construction were issued on
+10 or after April 1, 2024, adequate cooling facilities that:
+11 (A) Provide cooling in at least one room of the dwelling unit, not including a bathroom;
+12 (B) Conform to applicable law at the time of installation and are maintained in good working
+13 order; and
+14 (C) May include central air conditioning, an air-source or ground-source heat pump or a portable
+15 air conditioning device that is provided by the landlord.
+16 (2) The landlord and tenant may agree in writing that the tenant is to perform specified repairs,
+17 maintenance tasks and minor remodeling only if:
+18 (a) The agreement of the parties is entered into in good faith and not for the purpose of evading
+19 the obligations of the landlord;
+20 (b) The agreement does not diminish the obligations of the landlord to other tenants in the
+21 premises; and
+22 (c) The terms and conditions of the agreement are clearly and fairly disclosed and adequate
+23 consideration for the agreement is specifically stated.
+24 (3) Any provisions of this section that reasonably apply only to a structure that is used as a
+25 home, residence or sleeping place do not apply to a manufactured dwelling, recreational vehicle or
+26 floating home where the tenant owns the manufactured dwelling, recreational vehicle or floating
+27 home, rents the space and, in the case of a dwelling or home, the space is not in a facility. Manu-
+28 factured dwelling or floating home tenancies in which the tenant owns the dwelling or home and
+29 rents space in a facility are governed by ORS 90.730 and not by this section.
+30 SECTION 7. (1) Sections 2 and 3 of this 2026 Act and the amendments to ORS 90.302 and
+31 90.320 by sections 5 and 6 of this 2026 Act apply to rental agreements entered into before,
+32 on or after the effective date of this 2026 Act.
+33 (2) Section 2 of this 2026 Act applies to applications for a rental agreement screened on
+34 or after the effective date of this 2026 Act.
+35 SECTION 8. This 2026 Act takes effect on the 91st day after the date on which the 2026
+36 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+37
+[10]

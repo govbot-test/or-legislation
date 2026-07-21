@@ -1,0 +1,157 @@
+Title: 
+Official Title: 
+Source: versions - Minority Report A-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Minority Report
+A-Engrossed
+Senate Bill 1598
+Ordered by the House February 27
+Including House Minority Report Amendments dated February 27
+Sponsored by nonconcurring members of the House Committee on Health Care: Representatives DIEHL, HARBICK
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: Updates the preventive health services that must be covered by some health benefit
+plans. Gives the Public Health Officer the power to make some health benefit plans provide coverage
+for vaccines. Gives the Public Health Officer the power to issue a standing order for a prescription.
+Takes effect when the Governor signs it. (Flesch Readability Score: 62.4).
+Requires certain health benefit plans to provide coverage for preventive health services in ac-
+cordance with federal rules in effect on June 30, 2025, and immunizations recommended by the
+Public Health Officer in the future.
+Authorizes the Public Health Officer, or designated physician, to issue a standing order for a
+prescription to control, prevent, mitigate or treat any infectious or noninfectious disease or other
+significant public health concern.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to access to health services; creating new provisions; amending ORS 743A.262; and declar-
+3 ing an emergency.
+4 Be It Enacted by the People of the State of Oregon:
+5
+6 COMMERCIAL COVERAGE OF PREVENTIVE HEALTH SERVICES
+7
+8 SECTION 1. ORS 743A.262 is amended to read:
+9 743A.262. (1) Notwithstanding any other provision of law, a health benefit plan that is not a
+10 grandfathered health plan must provide coverage of the following:
+11 [(1)] (a) [Must provide coverage of preventive health services as] Preventive health services
+12 prescribed by the United States Department of Health and Human Services pursuant to 42 U.S.C.
+13 300gg-13 in rules adopted and in effect on [January 1, 2023; and] June 30, 2025.
+14 [(2) May not impose cost-sharing requirements on an enrollee for preventive health services, except
+15 as allowed by federal law.]
+16 (b) Immunizations recommended by the Public Health Officer appointed under ORS
+17 431.045 pursuant to subsection (2) of this section.
+18 (2)(a) In order to promote a legitimate medical purpose, the Public Health Officer may
+19 issue evidence-based recommendations for immunizations.
+20 (b) In issuing the recommendations, the Public Health Officer shall consider evidence-
+21 based guidance and recommendations from medical and scientific organizations.
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 316
+
+MR A-Eng. SB 1598
+1 (3) A health benefit plan described under subsection (1) of this section may not impose
+2 cost-sharing requirements on an enrollee for the preventive health services or immuniza-
+3 tions described under subsection (1) of this section, except as allowed by federal law.
+4 (4)(a) The Oregon Health Authority shall publish on its website any recommendations
+5 issued by the Public Health Officer under subsection (2) of this section, specifying the legit-
+6 imate medical purpose promoted by the recommendation, the class of individuals for whom
+7 the recommendation is intended to benefit and any special instructions for health care pro-
+8 fessionals to administer, deliver or dispense the recommended immunization.
+9 (b) A health benefit plan described under subsection (1) of this section must provide
+10 coverage of a recommended immunization no later than 15 business days following the date
+11 of publication.
+12
+13 AUTHORITY TO ISSUE STANDING ORDERS
+14
+15 SECTION 2. (1) As used in this section:
+16 (a) “Administer” means the direct application of a drug or device whether by injection,
+17 inhalation, ingestion or other means, to the body of a patient by:
+18 (A) A practitioner or practitioner’s authorized agent; or
+19 (B) The patient at the direction of the practitioner.
+20 (b) “Deliver” or “delivery” means the actual, constructive or attempted transfer of a
+21 drug or device other than by administration from one person to another, whether or not for
+22 a consideration.
+23 (c) “Device” means an instrument, apparatus, implement, machine, contrivance, implant,
+24 in vitro reagent or other similar or related article, including any component part or acces-
+25 sory, that is required under federal or state law to be prescribed by a practitioner and dis-
+26 pensed by a pharmacist.
+27 (d) “Dispense” means the preparation and delivery of a prescription drug, pursuant to a
+28 lawful order of a practitioner, in a suitable container appropriately labeled for subsequent
+29 administration to or use by a patient or other individual entitled to receive the prescription
+30 drug.
+31 (e) “Drug” means:
+32 (A) Articles recognized as drugs in the official United States Pharmacopoeia, official
+33 National Formulary, official Homeopathic Pharmacopoeia, other drug compendium or any
+34 supplement to any of them;
+35 (B) Articles intended for use in the diagnosis, cure, mitigation, treatment or prevention
+36 of disease in a human or other animal;
+37 (C) Articles, other than food, intended to affect the structure or any function of the body
+38 of humans or other animals; and
+39 (D) Articles intended for use as a component of any articles specified in subparagraph
+40 (A), (B) or (C) of this paragraph.
+41 (f) “Practitioner” means a person licensed and operating within the scope of such license
+42 to prescribe, dispense or administer drugs or devices in the course of professional practice.
+43 (2)(a) The Public Health Officer appointed under ORS 431.045, or a physician licensed
+44 under ORS chapter 677 who is employed by the Oregon Health Authority and designated by
+45 the Public Health Officer, may issue a standing order to prescribe a drug or device to con-
+[2]
+
+MR A-Eng. SB 1598
+1 trol, prevent, mitigate or treat any infectious or noninfectious disease or other significant
+2 public health concern.
+3 (b) In developing a standing order, the Public Health Officer shall rely upon evidence and
+4 consider guidance and recommendations from medical and scientific organizations.
+5 (3)(a) A standing order issued under this section must:
+6 (A) Promote a legitimate medical purpose.
+7 (B) Specify the class of individuals for whom the order is intended to benefit.
+8 (C) Describe any special instructions for use of the drug or device prescribed by the
+9 standing order.
+10 (D) Describe any special instructions for practitioners to administer, deliver or dispense
+11 the drug or device prescribed by the standing order.
+12 (E) Specify whether the standing order applies statewide or to a specific geographic area
+13 in this state.
+14 (F) Comply with accepted medical standards in this state.
+15 (b) A standing order issued under this section may include appropriate recommendations
+16 for follow-up care.
+17 (4) The Public Health Officer or the physician described in subsection (2) of this section
+18 may withdraw a standing order at any time.
+19 (5)(a) Except as provided in paragraph (b) of this subsection, the Public Health Officer
+20 or the physician described in subsection (2) of this section shall, before issuing a standing
+21 order under this section, solicit input from the local health officers, as defined by ORS
+22 431.003, for the geographic area to which the standing order will apply, and may solicit input
+23 from other stakeholders.
+24 (b) The Public Health Officer or the physician described in subsection (2) of this section
+25 is not required to solicit input under paragraph (a) of this subsection if the Public Health
+26 Officer or physician determines that soliciting input would result in a delay that is likely to
+27 endanger the public health.
+28 (6)(a) Notwithstanding any other provision of law, the state, the Public Health Officer and
+29 the physician described in subsection (2) of this section are immune from civil or criminal
+30 liability or professional disciplinary action related to the issuance of a standing order, except
+31 for acts or omissions constituting gross negligence or willful or wanton misconduct.
+32 (b) A practitioner who prescribes, dispenses or administers drugs or devices in good faith
+33 under a standing order issued under this section is immune from civil or criminal liability.
+34 (c) This section does not create a private cause of action.
+35 (7) The authority may adopt rules necessary to carry out this section.
+36 (8) A standing order issued under this section shall not require a person to receive, use
+37 or administer a drug or device or withhold a drug or device from a person.
+38
+39 CAPTIONS
+40
+41 SECTION 3. The unit captions used in this 2026 Act are provided only for the convenience
+42 of the reader and do not become part of the statutory law of this state or express any leg-
+43 islative intent in the enactment of this 2026 Act.
+44
+45 EFFECTIVE DATE
+[3]
+
+MR A-Eng. SB 1598
+1 SECTION 4. This 2026 Act being necessary for the immediate preservation of the public
+2 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+3 on its passage.
+4
+[4]

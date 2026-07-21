@@ -1,0 +1,284 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1510
+Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with pre-
+session filing rules, indicating neither advocacy nor opposition on the part of the President (at the request
+of Senate Interim Committee on Finance and Revenue)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act makes technical fixes and slight policy updates to some tax statutes. (Flesch
+Readability Score: 63.4).
+Updates the terminology used to describe certain income earned by multinational corporations
+to reflect a change in the term used in federal law. Aligns sunset dates for earned income tax credit
+provisions with the underlying sunset date for the credit.
+Expands the tax credit for certified film production development contributions to allow the use
+of contributions for the production of commercials. Applies to fiscal years beginning on or after July
+1, 2026.
+Provides an exception from the annual filing requirement for the property tax exemption for
+property burdened by an affordable housing covenant used for owner-occupied housing. Applies to
+property tax years beginning on or after July 1, 2027.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to taxation; creating new provisions; amending ORS 284.368, 307.162, 314.698 and 317.267
+3 and section 32a, chapter 579, Oregon Laws 2019; and prescribing an effective date.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 314.698 is amended to read:
+6 314.698. For purposes of ORS 317.267, amounts of [global intangible low-taxed] net controlled
+7 foreign corporation tested income described in section 951A of the Internal Revenue Code and
+8 included in gross income shall be treated in the same manner as a dividend.
+9 SECTION 2. ORS 317.267 is amended to read:
+10 317.267. (1) To derive Oregon taxable income, there shall be added to federal taxable income:
+11 (a) Amounts received as dividends from corporations deducted for federal purposes pursuant to
+12 section 243 or 245 of the Internal Revenue Code, except section 245(c) of the Internal Revenue Code;
+13 (b) Amounts deducted for income repatriated, deemed or otherwise, under section 965 of the
+14 Internal Revenue Code;
+15 (c) Amounts deducted as [global intangible low-taxed] net controlled foreign corporation
+16 tested income pursuant to section 250 of the Internal Revenue Code;
+17 (d) Amounts paid as dividends by a public utility or telecommunications utility and deducted for
+18 federal purposes pursuant to section 247 of the Internal Revenue Code; or
+19 (e) Dividends eliminated under Treasury Regulations adopted under section 1502 of the Internal
+20 Revenue Code that are paid by members of an affiliated group that are eliminated from a consol-
+21 idated federal return pursuant to ORS 317.715 (2).
+22 (2) To derive Oregon taxable income, after the modification prescribed under subsection (1) of
+23 this section, there shall be subtracted from federal taxable income an amount equal to 70 percent
+24 of dividends (determined without regard to section 78 of the Internal Revenue Code) received or
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 254
+
+SB 1510
+1 deemed received from corporations if such dividends are included in federal taxable income. How-
+2 ever:
+3 (a) In the case of any dividend on debt-financed portfolio stock as described in section 246A of
+4 the Internal Revenue Code, the subtraction allowed under this subsection shall be reduced under the
+5 same conditions and in same amount as the dividends received deduction otherwise allowable for
+6 federal income tax purposes is reduced under section 246A of the Internal Revenue Code.
+7 (b) In the case of any dividend received from a 20 percent owned corporation, as defined in
+8 section 243(c) of the Internal Revenue Code, or [global intangible low-taxed] net controlled foreign
+9 corporation tested income included in gross income pursuant to section 951A of the Internal Re-
+10 venue Code, this subsection shall be applied by substituting “80 percent” for “70 percent.”
+11 (c) A dividend that is not treated as a dividend under section 243(d) of the Internal Revenue
+12 Code may not be treated as a dividend for purposes of this subsection.
+13 (d) If a dividends received deduction is not allowed for federal tax purposes because of section
+14 246(a) or (c) of the Internal Revenue Code, a subtraction may not be made under this subsection for
+15 received dividends that are described in section 246(a) or (c) of the Internal Revenue Code.
+16 (e) In the case of any dividend received from an alien, domestic or foreign insurer, as defined
+17 in ORS 731.082, that would be included in the taxpayer’s consolidated Oregon return but for the
+18 application of ORS 317.710 (5) or (7), this subsection shall be applied by substituting “100 percent”
+19 for “70 percent.”
+20 (f) A subtraction under this subsection is not allowed for any amount of foreign-source dividend
+21 income, as described in section 245A of the Internal Revenue Code, that is included in gross income.
+22 (3) There shall be excluded from the sales factor of any apportionment formula employed to at-
+23 tribute income to this state any amount subtracted from federal taxable income under subsection (2)
+24 of this section or deducted under section 245A of the Internal Revenue Code. The amount of any
+25 dividend or of any global intangible low-taxed income that is apportionable shall be determined as
+26 provided by the apportionment formula applicable to the taxpayer, as provided in ORS 314.280 and
+27 314.605 to 314.675, but may not include any amount subtracted under subsection (2) of this section.
+28 SECTION 3. Section 32a, chapter 579, Oregon Laws 2019, is amended to read:
+29 Sec. 32a. The amendments to ORS 315.266 by section 31, chapter 579, Oregon Laws 2019, [of
+30 this 2019 Act] apply to tax years beginning on or after January 1, 2020[, and before January 1,
+31 2026].
+32 SECTION 4. ORS 284.368 is amended to read:
+33 284.368. (1) As used in this section:
+34 (a) “Actual Oregon expenses” means the costs paid in Oregon for principal photography, pro-
+35 duction or postproduction in Oregon of a film, or for media production services, including but not
+36 limited to the purchase or rental cost of equipment, food, lodging, real property and permits and
+37 payments made for salaries, wages and benefits for work in Oregon.
+38 (b) “Film” means a television movie or one or more episodes of a single television series, [or]
+39 a movie produced for release to theaters, video or the Internet or a commercial. “Film” does not
+40 include the production of [a commercial or] one or more segments of a newscast or sporting event.
+41 (c) “Filmmaker” means a person who owns a television or film production company.
+42 (d) “Local filmmaker” means a person who owns a television or film production company that
+43 has its principal place of business in this state.
+44 (e) “Local media production project” means, if made or performed by a local media production
+45 services company, a single interactive video game or a portion thereof, a commercial or
+[2]
+
+SB 1510
+1 postproduction services for a single film.
+2 (f) “Local media production services company” means a media production services company that
+3 has its principal place of business in this state.
+4 (g) “Media production services” includes postproduction services and interactive video game
+5 development. “Media production services” does not include the production of [a commercial or] one
+6 or more segments of a newscast or sporting event.
+7 (h) “Media production services company” means a person who is engaged in media production
+8 services.
+9 (i) “Portland metropolitan zone” means the area within a 30-mile radius of the center of the
+10 Burnside Bridge in Portland.
+11 (j) “Resident of this state” has the meaning given that term in ORS 316.027.
+12 (2)(a) The Oregon Business Development Department may reimburse a filmmaker or local media
+13 production services company for a portion of the actual Oregon expenses incurred by the filmmaker
+14 or local media production services company.
+15 (b) Maximum reimbursement for a single film or a single local media production project shall
+16 be the total of:
+17 (A) 20 percent of payments made for employee salaries, wages and benefits for work done in
+18 Oregon; and
+19 (B) 25 percent of all other actual Oregon expenses.
+20 (c) Notwithstanding paragraph (b) of this subsection, maximum reimbursement for a single film
+21 may not exceed 50 percent of total moneys received by the Oregon Production Investment Fund
+22 during the biennium in which the actual Oregon expenses are incurred.
+23 (d) To qualify for reimbursement under this subsection, total actual Oregon expenses for a film
+24 or a local media production project must equal or exceed $1 million.
+25 (3)(a) The department may reimburse a local filmmaker or local media production services
+26 company for all or a portion of the actual Oregon expenses, up to $1 million, incurred by the local
+27 filmmaker or local media production services company.
+28 (b) To qualify for reimbursement under this subsection:
+29 (A) Total actual Oregon expenses paid for the film or media production services must be at least
+30 $75,000;
+31 (B) The local filmmaker or local media production services company must have spent 80 percent
+32 of the film’s payroll on employees who are residents of this state; and
+33 (C) The local filmmaker or local media production services company may have employed or
+34 contracted with a certified public accountant licensed by the Oregon Board of Accountancy for the
+35 provision of payroll services.
+36 (4) In combination with the reimbursements allowed under subsections (2) and (3) of this section,
+37 the department may make an additional payment to a filmmaker for one of the following:
+38 (a) A travel and living expenses rebate of $200 per employee per day, for any day that a film is
+39 shot in Oregon but entirely outside the Portland metropolitan zone, not to exceed $10,000 per day
+40 or $50,000 per film; or
+41 (b) An increase of 10 percent of the amount otherwise allowable under subsections (2) and (3)
+42 of this section, if for at least six days and at least one day more than half of its total shoot days in
+43 Oregon the film is shot entirely outside the Portland metropolitan zone.
+44 (5) Reimbursement under this section shall be made from moneys credited to or deposited in the
+45 Oregon Production Investment Fund during the biennium in which the actual Oregon expenses were
+[3]
+
+SB 1510
+1 paid or any prior biennium. A reimbursement may not be made to the extent funds are not available
+2 in the fund to make the reimbursement.
+3 (6)(a) Total actual Oregon expenses supporting a claim for reimbursement under this section
+4 must be verified by the Oregon Film and Video Office. The filmmaker or local media production
+5 services company must submit to the office proof of the actual Oregon expenses. The proof must
+6 include any documentation that may be required by the office in its discretion to verify the actual
+7 Oregon expenses.
+8 (b) The office may charge the filmmaker or local media production services company for costs
+9 reasonably incurred to verify the actual Oregon expenses, including but not limited to the cost for
+10 a review or audit of the supporting documentation by an accountant or auditor. The office may re-
+11 quire the department to deduct the costs incurred by the office in performing its review or audit
+12 from any reimbursement made to the filmmaker or local media production services company under
+13 this section.
+14 (c) The office may adopt rules that establish a procedure for the submission and verification of
+15 actual Oregon expenses.
+16 SECTION 5. The amendments to ORS 284.368 by section 4 of this 2026 Act apply to fiscal
+17 years beginning on or after July 1, 2026.
+18 SECTION 6. ORS 307.162 is amended to read:
+19 307.162. (1)(a) Before any real or personal property may be exempted from taxation under ORS
+20 307.092, 307.110 (3)(h), 307.115, 307.118, 307.130 to 307.140, 307.145, 307.147, 307.150, 307.160, 307.181
+21 (3), 307.513, 307.555 or 307.580 for any tax year, the institution, organization or person entitled to
+22 claim the exemption must file a claim with the county assessor, on or before April 1 preceding the
+23 tax year for which the exemption is claimed. The claim must contain statements, verified by the
+24 oath or affirmation of the president or other proper officer of the institution or organization or the
+25 person, that:
+26 (A) List all real property claimed to be exempt and show the purpose for which the real property
+27 is used; and
+28 (B) Cite the statutes under which exemption for personal property is claimed.
+29 (b)(A) Notwithstanding paragraph (a) of this subsection, a claim for an initial year of exemption
+30 under ORS 307.140 (4) must be filed with the Department of Revenue.
+31 (B) If the ownership of all property, other than property described in ORS 307.110 (3)(h)[,] or
+32 307.140 (4) [or 307.555], included in the claim filed with the county assessor for a prior year remains
+33 unchanged, a new claim is not required.
+34 (c) When the property designated in the claim for exemption is acquired after March 1 and be-
+35 fore July 1, the claim for that year must be filed within 30 days from the date of acquisition of the
+36 property.
+37 (2)(a) Notwithstanding subsection (1) of this section, a claim may be filed under this section for
+38 the current tax year:
+39 (A) On or before December 31 of the tax year, if the claim is accompanied by a late filing fee
+40 of the greater of $200, or one-tenth of one percent of the real market value as of the most recent
+41 assessment date of the property to which the claim pertains.
+42 (B) On or before April 1 of the tax year, if the claim is accompanied by a late filing fee of $200
+43 and the claimant demonstrates good and sufficient cause for failing to file a timely claim, is a
+44 first-time filer or is a public entity described in ORS 307.090.
+45 (b)(A) Notwithstanding subsection (1) of this section, a claimant that demonstrates good and
+[4]
+
+SB 1510
+1 sufficient cause for failing to file a timely claim, is a first-time filer or is a public entity described
+2 in ORS 307.090 may file a claim under this section for the five tax years prior to the current tax
+3 year:
+4 (i) Within 60 days after the date on which the county assessor mails notice of additional taxes
+5 owing under ORS 311.206 for the property to which the claim filed under this subparagraph pertains;
+6 or
+7 (ii) At any time if no notice is mailed.
+8 (B) A claim filed under this paragraph must be accompanied by a late filing fee of the greater
+9 of $200, or one-tenth of one percent of the real market value as of the most recent assessment date
+10 of the property to which the claim pertains, multiplied by the number of prior tax years for which
+11 exemption is claimed.
+12 (c) If a claim filed under this subsection is not accompanied by the late filing fee or if the late
+13 filing fee is not otherwise paid, an exemption may not be allowed for the tax years sought by the
+14 claim. A claim may be filed under this subsection notwithstanding that there are no grounds for
+15 hardship as required for late filing under ORS 307.475.
+16 (d) The value of the property used to determine the late filing fee under this subsection and the
+17 determination of the county assessor relative to a claim of good and sufficient cause are appealable
+18 in the same manner as other acts of the county assessor.
+19 (e) A late filing fee collected under this subsection must be deposited in the county general fund.
+20 (3)(a) In a claim for exemption of property described in ORS 307.110 (3)(h), the county or city,
+21 town or other municipal corporation or political subdivision of this state that is filing the claim must
+22 substantiate that the property is used for affordable housing or that it is leased or rented to persons
+23 of lower income, as applicable.
+24 (b) A claim filed under this subsection must be filed annually on a form prescribed by the De-
+25 partment of Revenue.
+26 (4) As used in this section:
+27 (a) “First-time filer” means a claimant that:
+28 (A) Has never filed a claim for the property that is the subject of the current claim; and
+29 (B) Did not receive notice from the county assessor on or before December 1 of the tax year for
+30 which exemption is claimed regarding the potential property tax liability of the property.
+31 (b)(A) “Good and sufficient cause” means an extraordinary circumstance beyond the control of
+32 the taxpayer or the taxpayer’s agent or representative that causes the failure to file a timely claim.
+33 (B) “Good and sufficient cause” does not include hardship, reliance on misleading information
+34 unless the information is provided by an authorized tax official in the course of the official’s duties,
+35 lack of knowledge, oversight or inadvertence.
+36 (c) “Ownership” means legal and equitable title.
+37 (5)(a) Notwithstanding subsection (1) of this section, if an institution or organization owns
+38 property that is exempt from taxation under a provision of law listed in subsection (1) of this section
+39 and fails to file a timely claim for exemption under subsection (1) of this section for additions or
+40 improvements to the exempt property, the additions or improvements may nevertheless qualify for
+41 exemption.
+42 (b) The organization must file a claim for exemption with the county assessor to have the addi-
+43 tions or improvements to the exempt property be exempt from taxation. The claim must:
+44 (A) Describe the additions or improvements to the exempt property;
+45 (B) Describe the current use of the property that is the subject of the application;
+[5]
+
+SB 1510
+1 (C) Identify the tax year and any preceding tax years for which the exemption is sought;
+2 (D) Contain any other information required by the department; and
+3 (E) Be accompanied by a late filing fee equal to the product of the number of tax years for
+4 which exemption is sought multiplied by the greater of $200 or one-tenth of one percent of the real
+5 market value as of the most recent assessment date of the property that is the subject of the claim.
+6 (c) Upon the county assessor’s receipt of a completed claim and late filing fee, the assessor shall
+7 determine for each tax year for which exemption is sought whether the additions or improvements
+8 that are the subject of the claim would have qualified for exemption had a timely claim been filed
+9 under subsection (1) of this section. Any property that would have qualified for exemption had a
+10 timely claim been filed under subsection (1) of this section is exempt from taxation for each tax year
+11 for which the property would have qualified.
+12 (d) A claim for exemption under this subsection may be filed only for tax years for which the
+13 time for filing a claim under subsections (1) and (2)(a) of this section has expired. A claim filed under
+14 this subsection, however, may serve as the claim required under subsection (1) of this section for
+15 the current tax year.
+16 (e) A late filing fee collected under this subsection must be deposited in the county general fund.
+17 (6) For each tax year for which an exemption granted pursuant to subsection (2) or (5) of this
+18 section applies:
+19 (a) Any tax, or interest attributable thereto, that was paid with respect to the property that is
+20 declared exempt from taxation must be refunded. Refunds must be made without interest from the
+21 unsegregated tax collections account established under ORS 311.385.
+22 (b) Any tax, or interest attributable thereto, that remains unpaid as of the date the exemption
+23 is granted must be abated.
+24 (7) If an institution, organization or person owns property that is exempt from taxation under
+25 a provision of law listed in subsection (1) of this section and changes the use of the property to a
+26 use that would not entitle the property to exemption from taxation, the institution or organization
+27 must notify the county assessor of the change to a taxable use within 30 days.
+28 SECTION 7. The amendments to ORS 307.162 by section 6 of this 2026 Act apply to
+29 property tax years beginning on or after July 1, 2027.
+30 SECTION 8. This 2026 Act takes effect on the 91st day after the date on which the 2026
+31 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+32
+[6]

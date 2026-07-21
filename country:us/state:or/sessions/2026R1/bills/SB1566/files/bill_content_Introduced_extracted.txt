@@ -1,0 +1,186 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+Senate Bill 1566
+Sponsored by Senator ANDERSON, Representative BREESE-IVERSON (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: Says that a public agency does not need to set a certain wage level for a project that
+is affordable housing. (Flesch Readability Score: 60.6).
+Exempts certain projects for public works, primarily related to affordable housing, from the re-
+quirement to pay a prevailing rate of wage.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to the prevailing rate of wage; creating new provisions; amending ORS 279C.810; and pre-
+3 scribing an effective date.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. ORS 279C.810 is amended to read:
+6 279C.810. (1) As used in this section:
+7 (a) “Funds of a public agency” does not include:
+8 (A) Funds provided in the form of a government grant to a nonprofit organization, unless the
+9 government grant is issued for the purpose of construction, reconstruction, major renovation or
+10 painting;
+11 (B) Building and development permit fees paid or waived by the public agency;
+12 (C) Tax credits or tax abatements;
+13 (D) Land that a public agency sells to a private entity at fair market value;
+14 (E) The difference between:
+15 (i) The value of land that a public agency sells to a private entity as determined at the time of
+16 the sale after taking into account any plan, requirement, covenant, condition, restriction or other
+17 limitation, exclusive of zoning or land use regulations, that the public agency imposes on the de-
+18 velopment or use of the land; and
+19 (ii) The fair market value of the land if the land is not subject to the limitations described in
+20 sub-subparagraph (i) of this subparagraph;
+21 (F) Staff resources of the public agency used to manage a project or to provide a principal
+22 source of supervision, coordination or oversight of a project;
+23 (G) Staff resources of the public agency used to design or inspect one or more components of
+24 a project;
+25 (H) Any loan from a public agency to a private entity, including moneys derived from the
+26 sale of bonds that [are loaned by] a state agency lends to a private entity[, unless the moneys will
+27 be used for a public improvement];
+28 (I) Value added to land as a consequence of a public agency’s site preparation, demolition of real
+29 property, [or] remediation or removal of environmental contamination, or provision of
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 31
+
+SB 1566
+1 infrastructure that includes but is not limited to road construction or utilities, except for
+2 value added in excess of the expenses the public agency incurred in the site preparation,
+3 demolition, [or] remediation or removal or provision of infrastructure when the land is sold for
+4 use in a project otherwise subject to ORS 279C.800 to 279C.870; or
+5 (J) Bonds, or loans from the proceeds of bonds, issued in accordance with ORS chapter 289 or
+6 ORS 441.525 to 441.595[, unless the bonds or loans will be used for a public improvement].
+7 (b) “Nonprofit organization” means an organization or group of organizations described in sec-
+8 tion 501(c)(3) of the Internal Revenue Code that is exempt from income tax under section 501(a) of
+9 the Internal Revenue Code.
+10 (2) ORS 279C.800 to 279C.870 do not apply to:
+11 (a) [Projects] A project in Clackamas, Lane, Marion, Multnomah, Polk, Washington or
+12 Yamhill counties for which the contract price does not exceed $50,000 or a project elsewhere
+13 within this state for which the contract price does not exceed $250,000. In determining the
+14 price of a project, a public agency:
+15 (A) May not include the value of donated materials or work performed on the project by indi-
+16 viduals volunteering to the public agency without pay; and
+17 (B) Shall include the value of work performed by every person paid by a contractor or subcon-
+18 tractor in any manner for the person’s work on the project.
+19 (b) [Projects] A project for which no funds of a public agency are directly or indirectly used.
+20 In accordance with ORS chapter 183, the Commissioner of the Bureau of Labor and Industries shall
+21 adopt rules to carry out the provisions of this paragraph.
+22 (c) [Projects] A project:
+23 (A) That [are] is privately owned;
+24 (B) That [use] uses funds of a private entity;
+25 (C) In which a public agency will occupy or use less than 25 percent of the square footage
+26 of [a] the completed project [will be occupied or used by a public agency]; and
+27 (D) [For which] That uses less than $750,000 of funds of a public agency [are used].
+28 [(d) Projects for residential construction that are privately owned and that predominantly provide
+29 affordable housing. As used in this paragraph:]
+30 [(A) “Affordable housing” means housing that serves occupants whose incomes are no greater than
+31 60 percent of the area median income or, if the occupants are owners, whose incomes are no greater
+32 than 80 percent of the area median income.]
+33 [(B) “Predominantly” means 60 percent or more.]
+34 [(C) “Privately owned” includes:]
+35 [(i) Affordable housing provided on real property owned by a public agency if the real property
+36 and related structures are leased to a private entity for 50 or more years; and]
+37 [(ii) Affordable housing owned by a partnership, nonprofit corporation or limited liability company
+38 in which a housing authority, as defined in ORS 456.005, is a general partner, director or managing
+39 member and the housing authority is not a majority owner in the partnership, nonprofit corporation
+40 or limited liability company.]
+41 [(D) “Residential construction” includes the construction, reconstruction, major renovation or
+42 painting of single-family houses or apartment buildings not more than four stories in height and all
+43 incidental items, such as site work, parking areas, utilities, streets and sidewalks, pursuant to the
+44 United States Department of Labor’s “All Agency Memorandum No. 130: Application of the Standard
+45 of Comparison “Projects of a Character Similar” Under Davis-Bacon and Related Acts,” dated March
+[2]
+
+SB 1566
+1 17, 1978. However, the commissioner may consider different definitions of residential construction in
+2 determining whether a project is a residential construction project for purposes of this paragraph, in-
+3 cluding definitions that:]
+4 [(i) Exist in local ordinances or codes; or]
+5 [(ii) Differ, in the prevailing practice of a particular trade or occupation, from the United States
+6 Department of Labor’s description of residential construction.]
+7 (d) A privately owned project that is constructed, reconstructed or renovated for resi-
+8 dential use and in which 60 percent or more of the dwelling units are affordable housing:
+9 (A) If the project meets the following criteria, as appropriate for the project:
+10 (i) The project is:
+11 (I) Privately owned in fee simple;
+12 (II) Land, or land and improvements, that are leased from a public agency for 50 years
+13 or more; or
+14 (III) Owned by a partnership, nonprofit corporation or limited liability company in which
+15 a housing authority, as defined in ORS 456.005, is a general partner, director or managing
+16 member and the housing authority is not a majority owner in the partnership, nonprofit
+17 corporation or limited liability company.
+18 (ii) The project is housing that:
+19 (I) The state acquires, constructs, remodels, repairs, equips or furnishes and owns or
+20 operates with funding provided under ORS 458.480 to 458.490;
+21 (II) Serves occupants whose incomes do not exceed 120 percent of the area median in-
+22 come if the housing is a public works or uses funds of a public agency in an amount that
+23 exceeds $750,000, as adjusted annually by the commissioner in accordance with the Consumer
+24 Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau
+25 of Labor Statistics of the United States Department of Labor;
+26 (III) Requires, for the purpose of serving occupants whose incomes do not exceed 120
+27 percent of the area median income, demolition or removal of hazardous waste that uses
+28 $750,000 or more in funds of a public agency and that occurs on real property that a state
+29 agency owns but that does not involve constructing, reconstructing, renovating or painting
+30 a road, highway, building, structure or improvement;
+31 (IV) Serves occupants whose incomes do not exceed 60 percent of the area median in-
+32 come if the project involves construction, reconstruction, painting, demolition, removal of
+33 hazardous waste from, or major renovation of an improvement that occurs, with or without
+34 using funds of a public agency, on real property that a public university listed in ORS 352.002
+35 owns; or
+36 (V) Otherwise serves occupants whose incomes do not exceed 60 percent of the area
+37 median income or, if the occupants are owners, whose incomes do not exceed 80 percent of
+38 the area median income.
+39 (B) If the project constructs, reconstructs, performs a major renovation of or paints
+40 single-family houses or apartments, together with incidental items such as site work, park-
+41 ing areas, utilities and streets and sidewalks, that, except as provided in subparagraph (C)
+42 of this paragraph:
+43 (i) In Clackamas, Lane, Marion, Multnomah, Polk, Washington or Yamhill counties are
+44 not more than seven stories in height; and
+45 (ii) In all other areas of the state are not more than four stories in height and are con-
+[3]
+
+SB 1566
+1 structed, reconstructed, renovated or painted in accordance with the United States Depart-
+2 ment of Labor’s “All Agency Memorandum No. 130: Application of the Standard of
+3 Comparison “Projects of a Character Similar” Under Davis-Bacon and Related Acts,” dated
+4 March 17, 1978.
+5 (C) If the project is residential construction under a definition that the commissioner
+6 adopts after considering definitions that:
+7 (i) Exist in local ordinances or codes; or
+8 (ii) Differ, in the prevailing practice of a particular trade or occupation, from the United
+9 States Department of Labor’s description of residential construction.
+10 (D) Even if the project includes any of the following elements:
+11 (i) An on-site child care facility operated as a not-for-profit enterprise.
+12 (ii) Commercial use in not more than 15 percent of the available ground floor space in
+13 the project.
+14 (E) Even if the project was previously used or occupied for a purpose other than resi-
+15 dential use.
+16 SECTION 2. The amendments to ORS 279C.810 by section 1 of this 2026 Act apply to
+17 procurements that a contracting agency advertises or otherwise solicits or, if the contract-
+18 ing agency does not advertise or solicit the procurement, to a contract for public works or
+19 public improvement contract into which the contracting agency enters on or after the oper-
+20 ative date specified in section 3 of this 2026 Act.
+21 SECTION 3. (1) The amendments to ORS 279C.810 by section 1 of this 2026 Act become
+22 operative on January 1, 2027.
+23 (2) The Attorney General, the Commissioner of the Bureau of Labor and Industries, the
+24 Director of the Oregon Department of Administrative Services, the Director of Transporta-
+25 tion and a contracting agency that adopts rules under ORS 279A.065 or 279A.070 may adopt
+26 rules and take any other action before the operative date specified in subsection (1) of this
+27 section that is necessary to enable the Attorney General, the commissioner, the directors
+28 and the contracting agency to undertake and exercise, on and after the operative date spec-
+29 ified in subsection (1) of this section, all of the duties, functions and powers conferred on the
+30 Attorney General, the commissioner, the directors and the contracting agency by the
+31 amendments to ORS 279C.810 by section 1 of this 2026 Act.
+32 SECTION 4. This 2026 Act takes effect on the 91st day after the date on which the 2026
+33 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+34
+[4]

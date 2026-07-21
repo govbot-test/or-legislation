@@ -1,0 +1,179 @@
+Title: 
+Official Title: 
+Source: versions - Senate Amendments to Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+SENATE AMENDMENTS TO
+SENATE BILL 1528
+By COMMITTEE ON HEALTH CARE
+February 20
+1 In line 2 of the printed bill, after “care” insert “; creating new provisions; and amending ORS
+2 646A.689”.
+3 Delete lines 4 through 8 and insert:
+4 “SECTION 1. ORS 646A.689 is amended to read:
+5 “646A.689. (1) As used in ORS 646A.680 to 646A.697:
+6 “(a) ‘Drug’ has the meaning given that term in ORS 689.005.
+7 “(b) ‘Health care facility’ has the meaning given that term in ORS 442.015.
+8 “(c) ‘Health care service contractor’ has the meaning given that term in ORS 750.005.
+9 “(d)(A) ‘Manufacture’ means:
+10 “(i) The production, preparation, propagation, compounding, conversion or processing of a drug,
+11 either directly or indirectly by extraction from substances of natural origin or independently by
+12 means of chemical synthesis, or by a combination of extraction and chemical synthesis; and
+13 “(ii) The packaging or repackaging of a drug or labeling or relabeling of a drug container.
+14 “(B) ‘Manufacture’ does not include the preparation or compounding of a drug by an individual
+15 for the individual’s own use or the preparation, compounding, packaging or labeling of a drug:
+16 “(i) By a health care practitioner incidental to administering or dispensing a drug in the course
+17 of professional practice;
+18 “(ii) By a health care practitioner or at the practitioner’s authorization and supervision for the
+19 purpose of or incidental to research, teaching or chemical analysis activities and not for sale;
+20 “(iii) By a health care service contractor for dispensing to a subscriber or delivery to a health
+21 care facility or outpatient clinic owned or operated by the health care service contractor or an af-
+22 filiate of the health care service contractor;
+23 “(iv) By a centralized repackaging operation for distribution to subscribers of health care ser-
+24 vice contractors or to pharmacies, health care facilities or outpatient clinics operated by or affil-
+25 iated with a health care service contractor; or
+26 “(v) By a health care facility for dispensing to a patient or other person.
+27 “(e) ‘Manufacturer’ means a person that manufactures a prescription drug that is sold in this
+28 state.
+29 “(f) ‘New prescription drug’ has the meaning prescribed by the Department of Consumer and
+30 Business Services by rule.
+31 “(g) ‘Patient assistance program’ means a program that a manufacturer offers to the general
+32 public in which a consumer may reduce the consumer’s out-of-pocket costs for prescription drugs
+33 by using coupons or discount cards, receiving copayment assistance or by other means.
+34 “(h) ‘Prescription drug’ means a drug that must:
+35 “(A) Under federal law, be labeled ‘Caution: Federal law prohibits dispensing without pre-
+LC 101/SB 1528-2
+
+1 scription’ prior to being dispensed or delivered; or
+2 “(B) Under any applicable federal or state law or regulation, be dispensed only by prescription
+3 or restricted to use only by health care practitioners.
+4 “(i) ‘Price’ means the wholesale acquisition cost as defined in 42 U.S.C. 1395w-3a(c)(6)(B).
+5 “(2) No later than March 15 of each year, a manufacturer shall report the information described
+6 in subsection (3) of this section to the department regarding each prescription drug for which:
+7 “(a) The price was $100 or more for a one-month supply or for a course of treatment lasting less
+8 than one month; and
+9 “(b) There was a net increase of 10 percent or more in the price of the prescription drug de-
+10 scribed in paragraph (a) of this subsection over the course of the previous calendar year.
+11 “(3) For each prescription drug described in subsection (2) of this section, a manufacturer shall
+12 report to the department, in the form and manner prescribed by the department:
+13 “(a) The name and price of the prescription drug and the net increase, expressed as a percent-
+14 age, in the price of the drug over the course of the previous calendar year;
+15 “(b) The length of time the prescription drug has been on the market;
+16 “(c) The factors that contributed to the price increase;
+17 “(d) The name of any generic version of the prescription drug available on the market;
+18 “(e) The research and development costs associated with the prescription drug that were paid
+19 using public funds;
+20 “(f) The direct costs incurred by the manufacturer:
+21 “(A) To manufacture the prescription drug;
+22 “(B) To market the prescription drug;
+23 “(C) To distribute the prescription drug; and
+24 “(D) For ongoing safety and effectiveness research associated with the prescription drug;
+25 “(g) The total sales revenue for the prescription drug during the previous calendar year;
+26 “(h) The manufacturer’s profit attributable to the prescription drug during the previous calendar
+27 year;
+28 “(i) The introductory price of the prescription drug when it was approved for marketing by the
+29 United States Food and Drug Administration and the net yearly increase, by calendar year, in the
+30 price of the prescription drug during the previous five years;
+31 “(j) The 10 highest prices paid for the prescription drug during the previous calendar year in
+32 any country other than the United States;
+33 “(k) Any other information that the manufacturer deems relevant to the price increase described
+34 in subsection (2)(b) of this section; and
+35 “(L) The documentation necessary to support the information reported under this subsection.
+36 “(4) The department may use any prescription drug price information the department deems
+37 appropriate to verify that manufacturers have properly reported price increases as required by
+38 subsections (2) and (3) of this section.
+39 “(5) [A manufacturer shall accompany the report provided under subsection (2) of this section with
+40 the following information about each patient assistance program offered by the manufacturer to con-
+41 sumers residing in this state for the prescription drugs described in subsection (2) of this section] No
+42 later than March 15 of each year, a manufacturer shall, in addition to the information re-
+43 quired under subsection (2) of this section, report the following information about each pa-
+44 tient assistance program offered or funded by the manufacturer that provided assistance to
+45 consumers residing in this state during the previous calendar year:
+SA to SB 1528 Page 2
+
+1 “(a) The number of consumers who participated in the program;
+2 “(b) The total value of the coupons, discounts, copayment assistance or other reduction in costs
+3 provided to consumers in this state who participated in the program;
+4 “(c) For each drug, the number of refills that qualify for the program, if applicable;
+5 “(d) If the program expires after a specified period of time, the period of time that the program
+6 is available to each consumer; and
+7 “(e) The eligibility criteria for the program and how eligibility is verified for accuracy.
+8 “(6) No later than 30 days after a manufacturer introduces a new prescription drug for sale in
+9 the United States at a price that exceeds the threshold established by the Centers for Medicare and
+10 Medicaid Services for specialty drugs in the Medicare Part D program, the manufacturer shall notify
+11 the department, in the form and manner prescribed by the department, of all the following informa-
+12 tion:
+13 “(a) A description of the marketing used in the introduction of the new prescription drug;
+14 “(b) The methodology used to establish the price of the new prescription drug;
+15 “(c) Whether the United States Food and Drug Administration granted the new prescription
+16 drug a breakthrough therapy designation or a priority review;
+17 “(d) If the new prescription drug was not developed by the manufacturer, the date of and the
+18 price paid for acquisition of the new prescription drug by the manufacturer;
+19 “(e) The manufacturer’s estimate of the average number of patients who will be prescribed the
+20 new prescription drug each month; and
+21 “(f) The research and development costs associated with the new prescription drug that were
+22 paid using public funds.
+23 “(7)(a) After receiving the report or information described in subsection (2), (3), (5) or (6) of this
+24 section, the department may make a written request to the manufacturer for supporting documen-
+25 tation or additional information concerning the report. The department shall prescribe by rule the
+26 periods:
+27 “(A) Following the receipt of the report or information during which the department may re-
+28 quest additional information; and
+29 “(B) Following a request by the department for additional information during which a manufac-
+30 turer may respond to the request.
+31 “(b) The department may extend the period prescribed under paragraph (a)(B) of this subsection,
+32 as necessary, on a case-by-case basis.
+33 “(8) A manufacturer may be subject to a civil penalty, as provided in ORS 646A.692, for:
+34 “(a) Failing to submit timely reports or notices as required by this section;
+35 “(b) Failing to provide information required under this section;
+36 “(c) Failing to respond in a timely manner to a written request by the department for additional
+37 information under subsection (7) of this section; or
+38 “(d) Providing inaccurate or incomplete information under this section.
+39 “(9) Except as provided in subsection (10) of this section, the department shall post to its
+40 website all of the following information:
+41 “(a) A list of the prescription drugs reported under subsection (2) of this section and the man-
+42 ufacturers of those prescription drugs;
+43 “(b) Information reported to the department under subsections (3) and (5) to (7) of this section;
+44 and
+45 “(c) Written requests by the department for additional information under subsection (7) of this
+SA to SB 1528 Page 3
+
+1 section.
+2 “(10)(a) The department may not post to its website any information described in subsection (9)
+3 of this section if:
+4 “(A) The information is conditionally exempt from disclosure under ORS 192.345 as a trade se-
+5 cret; and
+6 “(B) The public interest does not require disclosure of the information.
+7 “(b) If the department withholds any information from public disclosure pursuant to this sub-
+8 section, the department shall post to its website a report describing the nature of the information
+9 and the department’s basis for withholding the information from disclosure.
+10 “(c) A person may petition the Attorney General, as provided in ORS 192.411, to review a deci-
+11 sion by the department to withhold information pursuant to paragraph (a) of this subsection.
+12 “(11) In accordance with ORS 646A.694, the department shall provide to the Prescription Drug
+13 Affordability Board established in ORS 646A.693:
+14 “(a) Each calendar year, a list of prescription drugs included in reports submitted under sub-
+15 sections (2) and (6) of this section; and
+16 “(b) Access to pricing information submitted to the department under subsections (3), (6) and (7)
+17 of this section.
+18 “(12) The department shall make available to consumers, online and by telephone, a process for
+19 consumers to notify the department about an increase in the price of a prescription drug. Any
+20 personally identifiable information about a consumer included in a notification provided to the de-
+21 partment under this subsection, such as a consumer’s name, address, telephone number or electronic
+22 mail address, is confidential and not subject to disclosure under ORS 192.311 to 192.478.
+23 “(13) The department may adopt rules as necessary for carrying out the provisions of this sec-
+24 tion.
+25 “(14) No later than December 15 of each year, the department shall compile and report the in-
+26 formation collected by the department under this section to the interim committees of the Legisla-
+27 tive Assembly related to health. The report shall include recommendations for legislative changes,
+28 if any, to contain the cost of prescription drugs and reduce the impact of price increases on con-
+29 sumers, the Department of Corrections, the Public Employees’ Benefit Board, the Oregon Health
+30 Authority, the Department of Human Services, the Oregon Educators Benefit Board and health in-
+31 surance premiums in the commercial market.
+32 “SECTION 2. The amendments to ORS 646A.689 by section 1 of this 2026 Act become op-
+33 erative on January 1, 2028.”.
+34
+SA to SB 1528 Page 4

@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - JWM Amendment -1
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB 4062-1
+(LC 197)
+2/24/26 (ASD/ps)
+Requested by JOINT COMMITTEE ON WAYS AND MEANS
+PROPOSED AMENDMENTS TO
+HOUSE BILL 4062
+1 After line 19 of the printed bill, insert:
+2 “SECTION 2. Notwithstanding any other law limiting expenditures,
+3 the limitation on expenditures established by section 11 (1), chapter
+4 616, Oregon Laws 2025, for the biennium ending June 30, 2027, as the
+5 maximum limit for payment of expenses from lottery moneys allocated
+6 from the Administrative Services Economic Development Fund to the
+7 Oregon Business Development Department, is increased by $350,000 for
+8 expenses related to implementation of section 1 of this 2026 Act.”.
+9 In line 20, delete “2” and insert “3”.
+10

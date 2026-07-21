@@ -1,0 +1,20 @@
+Title: 
+Official Title: 
+Source: versions - House Amendments to Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+HOUSE AMENDMENTS TO
+HOUSE BILL 4123
+By COMMITTEE ON HOUSING AND HOMELESSNESS
+February 12
+1 On page 1 of the printed bill, after line 28, insert:
+2 “(e) As necessary to share a phone number or electronic email address for repair, maintenance
+3 or utilities or services as defined in ORS 90.315 (1);”.
+4 On page 2, line 1, delete “(e)” and insert “(f)”.
+5 In line 2, delete “(f)” and insert “(g)”.
+6
+LC 165/HB 4123-1

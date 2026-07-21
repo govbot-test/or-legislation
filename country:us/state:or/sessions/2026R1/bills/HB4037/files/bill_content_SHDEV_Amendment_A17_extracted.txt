@@ -1,0 +1,190 @@
+Title: 
+Official Title: 
+Source: versions - SHDEV Amendment -A17
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB 4037-A17
+(LC 222)
+2/26/26 (RLM/ps)
+Requested by Senator BROADMAN
+PROPOSED AMENDMENTS TO
+A-ENGROSSED HOUSE BILL 4037
+1 On page 18 of the printed A-engrossed bill, after line 23, insert:
+2
+3 “URBAN RESERVES
+4
+5 “SECTION 25. (1) On or before January 1, 2027, the Land Conser-
+6 vation and Development Commission shall amend its rules related to
+7 the prioritization of lands being added to an urban reserve in order to
+8 allow local governments to assign lower priority to land for which the
+9 provision of future urban services, as defined in ORS 195.065, is not
+10 reasonable or cost effective due to existing topographical or other
+11 physical constraints including built constraints.
+12 “(2) Notwithstanding any provision in ORS 183.325 to 183.410, rules
+13 adopted under this section shall be adopted without an advisory com-
+14 mittee.
+15
+16 “RESIDENTIAL DEVELOPMENT ON COMMERCIAL LANDS
+17
+18 “SECTION 26. ORS 197A.445 is amended to read:
+19 “197A.445. (1) As used in this section:
+20 “(a) ‘Affordable housing’ means residential property:
+21 “(A) In which:
+
+1 “(i) Each unit on the property is made available to own or rent to families
+2 with incomes of 80 percent or less of the area median income;
+3 “(ii) The average of all units on the property is made available to families
+4 with incomes of 60 percent or less of the area median income; or
+5 “(iii) A manufactured dwelling park is operated that serves only house-
+6 holds with incomes of 120 percent or less of the area median income; and
+7 “(B) Whose affordability, including affordability under a covenant as de-
+8 scribed in ORS 456.270 to 456.295, is enforceable for a duration of no less
+9 than 30 years.
+10 “(b) ‘Area median income’ means the median income for the metropolitan
+11 statistical area in which housing is located as determined by the Housing
+12 and Community Services Department and adjusted for household size based
+13 on information from the United States Department of Housing and Urban
+14 Development.
+15 “(2) A local government shall allow affordable housing if the proposed
+16 affordable housing is on property that is:
+17 “(a) Owned by:
+18 “(A) A public body, as defined in ORS 174.109;
+19 “(B) A nonprofit corporation that is organized as a religious corporation;
+20 “(C) A nonprofit corporation that is organized as a public benefit corpo-
+21 ration whose primary purpose is the development of affordable housing;
+22 “(D) A housing authority, as defined in ORS 456.005; or
+23 “(E) A manufactured dwelling park nonprofit cooperative, as defined in
+24 ORS 62.803; or
+25 “(b) Zoned:
+26 “(A) For commercial uses;
+27 “(B) To allow religious assembly; or
+28 “(C) As public lands.
+29 “(3) A local government shall allow the conversion of a building or a
+30 portion of a building from a commercial use to a residential use.
+HB 4037-A17 2/26/26
+Proposed Amendments to A-Eng. HB 4037 Page 2
+
+1 “(4) Subsections (2) and (3) of this section:
+2 “(a) Prohibit the local government from requiring a zone change or con-
+3 ditional use permit before allowing the use.
+4 “(b) Do not trigger any requirement that a local government consider or
+5 update an analysis as required by a statewide planning goal relating to eco-
+6 nomic development.
+7 “(c) Except as provided in paragraph (d) of this subsection, do not apply
+8 on lands where the local government determines that:
+9 “(A) The development on the property cannot be adequately served by
+10 water, sewer, storm water drainage or streets, or will not be adequately
+11 served at the time that development on the lot is complete;
+12 “(B) The property contains a slope of 25 percent or greater;
+13 “(C) The property is within a 100-year floodplain; or
+14 “(D) The development of the property is constrained by land use regu-
+15 lations based on statewide land use planning goals relating to:
+16 “(i) Natural disasters and hazards; or
+17 “(ii) Natural resources, including air, water, land or natural areas, but
+18 not including open spaces or historic resources.
+19 “(d) Do apply to property described in paragraph (c)(C) and (D)(i) of this
+20 subsection if more than 60 percent of the lands within the urban growth
+21 boundary that the property is within are located within a tsunami
+22 inundation zone or if more than 30 percent of the lands within the urban
+23 growth boundary that the property is within are located within a 100-year
+24 floodplain.
+25 “(5) The development of housing under subsection (2) of this section may
+26 occur only:
+27 “(a) Within an urban growth boundary; and
+28 “(b) On lands zoned to allow for industrial uses only if the property is:
+29 “(A) Publicly owned;
+30 “(B) Adjacent to lands zoned for residential uses or schools; and
+HB 4037-A17 2/26/26
+Proposed Amendments to A-Eng. HB 4037 Page 3
+
+1 “(C) Not specifically designated for heavy industrial uses.
+2 “(6) The development of housing under subsection (3) of this section:
+3 “(a) Applies only within an urban growth boundary of a city with a pop-
+4 ulation of 10,000 or greater;
+5 “(b) May not occur on lands zoned to allow industrial uses;
+6 “(c) May require the payment of a system development charge as defined
+7 in ORS 223.299 only if:
+8 “(A) The charge is calculated pursuant to a specific adopted policy for
+9 commercial to residential conversions adopted on or before December 31,
+10 2023; or
+11 “(B) The charge is for water or wastewater and includes an offset for at
+12 least 100 percent of the water or wastewater system development charges
+13 paid when the building was originally constructed; and
+14 “(d) May not be subject to enforcement of any land use regulation that
+15 establishes a minimum number of parking spaces that is greater than the
+16 lesser of:
+17 “(A) The amount that may be required for the existing commercial use;
+18 or
+19 “(B) The amount that may be required in lands zoned for residential uses
+20 that would allow the converted development.
+21 “(7) The development of housing allowed under subsection (4)(d) of this
+22 section may only occur:
+23 “(a) Within an urban growth boundary located no more than 10 miles
+24 from the Pacific Ocean;
+25 “(b) In areas that require compliance with minimum federal regulations
+26 under the National Flood Insurance Program or with local floodplain devel-
+27 opment regulations adopted by the applicable local government, provided
+28 that the local regulations are equal to or more stringent than the minimum
+29 federal regulations;
+30 “(c) In locations that do not include floodways or other areas with higher
+HB 4037-A17 2/26/26
+Proposed Amendments to A-Eng. HB 4037 Page 4
+
+1 risks of greater water velocity and debris flow;
+2 “(d) In communities with emergency response, evacuation and post-
+3 disaster plans that have been updated for the housing development; and
+4 “(e) In areas that are not public parks.
+5 “(8) A local government may prohibit affordable housing or require a zone
+6 change or conditional use permit to develop affordable housing in areas de-
+7 scribed in subsection (4)(d) of this section.
+8 “(9)(a) An applicant who applies to develop affordable housing under
+9 this section within a planned mixed-use development shall, if the de-
+10 velopment would cause the amount of lands available for commercial
+11 uses within the planned mixed-use development to be reduced to less
+12 than 80 percent of the amount in the adopted planned mixed-use de-
+13 velopment, amend the planned mixed-use development to allow an
+14 additional area not smaller than the proposed housing development.
+15 “(b) As used in this subsection, ‘planned mixed-use development’
+16 means an area of land:
+17 “(A) Larger than 10 acres; and
+18 “(B) Subject to a land use approval or binding development agree-
+19 ment adopted by the local government that establishes areas or mini-
+20 mum acreages for commercial uses and includes residential or other
+21 uses.
+22 “[(9)] (10) A local government shall approve an application at an author-
+23 ized density level and authorized height level, as defined in ORS 227.175 (4),
+24 for the development of affordable housing, at the greater of:
+25 “(a) Any local density bonus for affordable housing; or
+26 “(b) Without consideration of any local density bonus for affordable
+27 housing:
+28 “(A) For property with existing maximum density of 16 or fewer units per
+29 acre, 200 percent of the existing density and 12 additional feet;
+30 “(B) For property with existing maximum density of 17 or more units per
+HB 4037-A17 2/26/26
+Proposed Amendments to A-Eng. HB 4037 Page 5
+
+1 acre and 45 or fewer units per acre, 150 percent of the existing density and
+2 24 additional feet; or
+3 “(C) For property with existing maximum density of 46 or more units per
+4 acre, 125 percent of the existing density and 36 additional feet.
+5 “[(10)(a)] (11)(a) Subsection [(9)] (10) of this section does not apply to
+6 housing allowed under subsection (2) of this section in areas that are not
+7 zoned for residential uses.
+8 “(b) A local government may reduce the density or height of the density
+9 bonus allowed under subsection [(9)] (10) of this section as necessary to ad-
+10 dress a health, safety or habitability issue, including fire safety, or to comply
+11 with a protective measure adopted pursuant to a statewide land use planning
+12 goal. Notwithstanding ORS 197.350, the local government must adopt
+13 findings supported by substantial evidence demonstrating the necessity of
+14 this reduction.”.
+15 In line 27, delete “25” and insert “27”.
+16 On page 20, line 9, delete “26” and insert “28”.
+17 In line 33, delete “27” and insert “29”.
+18 On page 21, line 25, delete “28” and insert “30”.
+19 In line 31, delete “29” and insert “31”.
+20
+HB 4037-A17 2/26/26
+Proposed Amendments to A-Eng. HB 4037 Page 6

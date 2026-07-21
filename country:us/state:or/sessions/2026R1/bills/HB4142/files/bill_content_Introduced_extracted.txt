@@ -1,0 +1,343 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+House Bill 4142
+Sponsored by Representatives CHAICHI, TRAN; Representatives CHOTZEN, EVANS, GAMBA, GRAYBER,
+HUDSON, JAVADI, LEVY B, LIVELY, MCDONALD, MUNOZ, NOSSE, PHAM H, RIEKE SMITH, WISE,
+Senator FREDERICK (Presession filed.)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure as introduced. The statement includes a measure digest written in compliance with applicable readability
+standards.
+Digest: The Act says that some entities have to write a policy and teach their staff about the
+medical use of marijuana. (Flesch Readability Score: 60.6).
+Expands the definition of “debilitating medical condition” for the medical use of marijuana. Re-
+quires an organization or residential facility that is designated as an additional caregiver for a
+medical marijuana cardholder to create and maintain a written policy and provide educational
+training for certain staff regarding the medical use of marijuana. Exempts hospitals and hospital-
+affiliated clinics from the requirements. Protects an organization or residential facility and its em-
+ployees and contractors from certain criminal liability related to the medical use of marijuana.
+Prohibits the Oregon State Board of Nursing from taking disciplinary action against a nurse for
+discussing the medical use of marijuana with a patient.
+Takes effect on the 91st day following adjournment sine die.
+1 A BILL FOR AN ACT
+2 Relating to marijuana for medical use; creating new provisions; amending ORS 475C.777, 475C.791,
+3 475C.792, 475C.883 and 475C.916; and prescribing an effective date.
+4 Be It Enacted by the People of the State of Oregon:
+5 SECTION 1. Sections 2 and 3 of this 2026 Act are added to and made a part of ORS
+6 475C.770 to 475C.919.
+7 SECTION 2. Section 3 of this 2026 Act shall be known and may be cited as Ryan’s Law.
+8 SECTION 3. (1) An organization or residential facility designated under ORS 475C.791
+9 shall:
+10 (a) Allow a patient or resident of the organization or residential facility to engage in the
+11 medical use of marijuana on the premises of the organization or residential facility.
+12 (b) Create and maintain a written policy regarding the procurement, on-site storage, ad-
+13 ministration and disposal of marijuana and medical cannabinoid products that:
+14 (A) Defines clear protocols for acquiring and handling marijuana and medical cannabinoid
+15 products;
+16 (B) Addresses patient safety by ensuring the proper storage and accurate administration
+17 of marijuana and medical cannabinoid products; and
+18 (C) Establishes procedures for the responsible disposal of unused marijuana and medical
+19 cannabinoid products.
+20 (c) In addition to any other training required by law, an individual employed as direct
+21 care staff at an organization or residential facility designated under ORS 475C.791 must
+22 complete educational training, either in-person or virtually, that covers at least:
+23 (A) Cannabis pharmacology and the use of marijuana and medical cannabinoid products
+24 in treating medical conditions;
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 86
+
+HB 4142
+1 (B) Dosing strategies and delivery modalities, including cannabinoid edibles, cannabinoid
+2 extracts and the vaporization of cannabinoids; and
+3 (C) Identifying potential contraindications for the use of marijuana and medical
+4 cannabinoid products and potential drug interactions.
+5 (2) An individual described in paragraph (1)(c) of this section shall complete the educa-
+6 tional training described in subsection (1) of this section prior to providing direct care to a
+7 patient or resident who engages in the medical use of marijuana.
+8 (3) The requirements of this section do not apply to a residential treatment home or
+9 residential treatment facility, as those terms are defined in ORS 443.400, a home health
+10 agency, as defined in ORS 443.014, or a hospice program, as defined in ORS 443.850, that
+11 provides for the delivery of home health care services, as defined in ORS 654.412, in a home
+12 health care setting.
+13 SECTION 4. ORS 475C.777 is amended to read:
+14 475C.777. As used in ORS 475C.770 to 475C.919:
+15 (1) “Attending provider” means one of the following health care providers who has primary re-
+16 sponsibility for the care and treatment of a person diagnosed with a debilitating medical condition:
+17 (a) A physician licensed under ORS chapter 677;
+18 (b) A physician associate licensed under ORS 677.505 to 677.525;
+19 (c) A nurse practitioner licensed under ORS 678.375 to 678.390;
+20 (d) A clinical nurse specialist licensed under ORS 678.370 and 678.372;
+21 (e) A certified registered nurse anesthetist as defined in ORS 678.010; or
+22 (f) A naturopathic physician licensed under ORS chapter 685.
+23 (2) “Cannabinoid” means any of the chemical compounds that are the active constituents of
+24 marijuana.
+25 (3) “Cannabinoid concentrate” means a substance obtained by separating cannabinoids from
+26 marijuana by:
+27 (a) A mechanical extraction process;
+28 (b) A chemical extraction process using a nonhydrocarbon-based solvent, such as vegetable
+29 glycerin, vegetable oils, animal fats, isopropyl alcohol or ethanol;
+30 (c) A chemical extraction process using the hydrocarbon-based solvent carbon dioxide, provided
+31 that the process does not involve the use of high heat or pressure; or
+32 (d) Any other process identified by the Oregon Health Authority, in consultation with the
+33 Oregon Liquor and Cannabis Commission, by rule.
+34 (4) “Cannabinoid edible” means food or potable liquid into which a cannabinoid concentrate,
+35 cannabinoid extract or dried leaves or flowers of marijuana have been incorporated.
+36 (5) “Cannabinoid extract” means a substance obtained by separating cannabinoids from
+37 marijuana by:
+38 (a) A chemical extraction process using a hydrocarbon-based solvent, such as butane, hexane
+39 or propane;
+40 (b) A chemical extraction process using the hydrocarbon-based solvent carbon dioxide, if the
+41 process uses high heat or pressure; or
+42 (c) Any other process identified by the Oregon Health Authority, in consultation with the
+43 Oregon Liquor and Cannabis Commission, by rule.
+44 (6) “Debilitating medical condition” means:
+45 (a) Cancer, glaucoma, a degenerative or pervasive neurological condition, positive status for
+[2]
+
+HB 4142
+1 human immunodeficiency virus or acquired immune deficiency syndrome, or a side effect related to
+2 the treatment of those medical conditions;
+3 (b) A medical condition or treatment for a medical condition that produces, for a specific pa-
+4 tient, one or more of the following:
+5 (A) Cachexia;
+6 (B) Severe pain;
+7 (C) Severe nausea;
+8 (D) Seizures, including seizures caused by epilepsy; or
+9 (E) Persistent muscle spasms, including spasms caused by multiple sclerosis;
+10 (c) Post-traumatic stress disorder; [or]
+11 (d) The need for hospice, palliative care, comfort care or other symptom management,
+12 including comprehensive pain management; or
+13 [(d)] (e) Any other medical condition or side effect related to the treatment of a medical condi-
+14 tion adopted by the Oregon Health Authority by rule or approved by the authority pursuant to a
+15 petition filed under ORS 475C.913.
+16 (7)(a) “Delivery” has the meaning given that term in ORS 475.005.
+17 (b) “Delivery” does not include transfer of marijuana by a registry identification cardholder to
+18 another registry identification cardholder if no consideration is paid for the transfer.
+19 (8)(a) “Designated primary caregiver” means an individual:
+20 (A) Who is 18 years of age or older;
+21 (B) Who has significant responsibility for managing the well-being of a person who has been
+22 diagnosed with a debilitating medical condition; and
+23 (C) Who is designated as the person responsible for managing the well-being of a person who
+24 has been diagnosed with a debilitating medical condition on that person’s application for a registry
+25 identification card or in other written notification submitted to the authority.
+26 (b) “Designated primary caregiver” does not include a person’s attending provider.
+27 (9) “High heat” means a temperature exceeding 180 degrees.
+28 (10) “Immature marijuana plant” means a marijuana plant that is not flowering.
+29 (11)(a) “Marijuana” means the plant Cannabis family Cannabaceae, any part of the plant
+30 Cannabis family Cannabaceae and the seeds of the plant Cannabis family Cannabaceae.
+31 (b) “Marijuana” does not include:
+32 (A) Industrial hemp, as defined in ORS 571.269; or
+33 (B) Prescription drugs, as that term is defined in ORS 689.005, including those containing one
+34 or more cannabinoids, that are approved by the United States Food and Drug Administration and
+35 dispensed by a pharmacy, as defined in ORS 689.005.
+36 (12) “Marijuana grow site” means a location registered under ORS 475C.792 where marijuana
+37 is produced for use by a registry identification cardholder.
+38 (13) “Marijuana processing site” means a marijuana processing site registered under ORS
+39 475C.815 or a site for which an applicant has submitted an application for registration under ORS
+40 475C.815.
+41 (14) “Mature marijuana plant” means a marijuana plant that is not an immature marijuana
+42 plant.
+43 (15)(a) “Medical cannabinoid product” means a cannabinoid edible and any other product in-
+44 tended for human consumption or use, including a product intended to be applied to a person’s skin
+45 or hair, that contains cannabinoids or dried leaves or flowers of marijuana.
+[3]
+
+HB 4142
+1 (b) “Medical cannabinoid product” does not include:
+2 (A) Usable marijuana by itself;
+3 (B) A cannabinoid concentrate by itself;
+4 (C) A cannabinoid extract by itself; or
+5 (D) Industrial hemp, as defined in ORS 571.269.
+6 (16) “Medical marijuana dispensary” means a medical marijuana dispensary registered under
+7 ORS 475C.833 or a site for which an applicant has submitted an application for registration under
+8 ORS 475C.833.
+9 (17) “Medical use of marijuana” means the production, processing, possession, delivery or ad-
+10 ministration of marijuana, or use of paraphernalia used to administer marijuana, to mitigate the
+11 symptoms or effects of a debilitating medical condition.
+12 (18) “Person designated to produce marijuana by a registry identification cardholder” means a
+13 person designated to produce marijuana by a registry identification cardholder under ORS 475C.792
+14 who produces marijuana for a registry identification cardholder at an address other than the address
+15 where the registry identification cardholder resides or at an address where more than 12 mature
+16 marijuana plants are produced.
+17 (19) “Process” means the compounding or conversion of marijuana into medical cannabinoid
+18 products, cannabinoid concentrates or cannabinoid extracts.
+19 (20) “Production” means:
+20 (a) Planting, cultivating, growing, trimming or harvesting marijuana; or
+21 (b) Drying marijuana leaves or flowers.
+22 (21) “Registry identification card” means a document issued by the Oregon Health Authority
+23 under ORS 475C.783 that identifies a person authorized to engage in the medical use of marijuana
+24 and, if the person has a designated primary caregiver under ORS 475C.789, the person’s designated
+25 primary caregiver.
+26 (22) “Registry identification cardholder” means a person to whom a registry identification card
+27 has been issued under ORS 475C.783.
+28 (23)(a) “Usable marijuana” means the dried leaves and flowers of marijuana.
+29 (b) “Usable marijuana” does not include:
+30 (A) The seeds, stalks and roots of marijuana; or
+31 (B) Waste material that is a by-product of producing marijuana.
+32 (24) “Written documentation” means a statement signed by the attending provider of a person
+33 diagnosed with a debilitating medical condition or copies of the person’s relevant medical records.
+34 SECTION 5. ORS 475C.791 is amended to read:
+35 475C.791. (1) Notwithstanding ORS 475C.789, an organization that provides hospice, palliative
+36 or home health care services, or a residential facility as defined in ORS 443.400, that has significant
+37 responsibility for managing the well-being of a person who has been diagnosed with a debilitating
+38 medical condition may be designated, in addition to an individual designated pursuant to ORS
+39 475C.789, as an additional caregiver for a registry identification cardholder in the same manner that
+40 an individual is designated as the primary caregiver for a registry identification cardholder under
+41 ORS 475C.789.
+42 (2) An organization or residential facility that is designated under this section has all the duties,
+43 functions and powers of a designated primary caregiver as prescribed by ORS 475C.770 to 475C.919
+44 or a rule adopted under ORS 475C.770 to 475C.919.
+45 (3)(a) Except as provided in paragraph (b) of this subsection, an organization or residen-
+[4]
+
+HB 4142
+1 tial facility designated under this section shall comply with the requirements of section 3 of
+2 this 2026 Act.
+3 (b) A hospital, as defined in ORS 442.015, or a hospital-affiliated clinic, as defined in ORS
+4 442.612, that is designated as an additional caregiver under this section is not subject to the
+5 requirements of section 3 of this 2026 Act.
+6 SECTION 6. ORS 475C.792 is amended to read:
+7 475C.792. (1)(a) The Oregon Health Authority shall establish by rule a marijuana grow site
+8 registration system to track and regulate the production of marijuana by a registry identification
+9 cardholder or a person designated by the registry identification cardholder to produce marijuana for
+10 the registry identification cardholder.
+11 (b) Except as provided in paragraph (c) of this subsection, a person may not produce marijuana
+12 unless the person is registered under this section.
+13 (c) Paragraph (b) of this subsection does not apply to the production of marijuana as provided
+14 in ORS 475C.005 to 475C.525 or as otherwise provided for by the statutory laws of this state.
+15 (2) Rules adopted under this section must require an applicant for a registry identification card,
+16 or a registry identification cardholder who produces marijuana or who designates another person
+17 to produce marijuana, to submit an application to the authority containing the following information
+18 at the time of making an application under ORS 475C.783 (2), renewing a registry identification card
+19 under ORS 475C.783 (6)(b), or notifying the authority of a change under ORS 475C.783 (6)(a):
+20 (a) The name of the person responsible for the marijuana grow site;
+21 (b) Proof that the person is 21 years of age or older;
+22 (c) The information required under ORS 475C.831;
+23 (d) The address of the marijuana grow site; and
+24 (e) Any other information that the authority considers necessary to track the production of
+25 marijuana under ORS 475C.770 to 475C.919.
+26 (3)(a) The authority shall conduct a criminal records check under ORS 181A.195 of any person
+27 whose name is submitted under this section as the person responsible for a marijuana grow site.
+28 (b) A person convicted of a Class A or Class B felony under ORS 475.752 to 475.920 for the
+29 manufacture or delivery of a controlled substance in Schedule I or Schedule II may not act as or
+30 be designated a person responsible for a marijuana grow site for two years from the date of con-
+31 viction.
+32 (c) A person convicted more than once of a Class A or Class B felony under ORS 475.752 to
+33 475.920 for the manufacture or delivery of a controlled substance in Schedule I or Schedule II may
+34 not act as or be designated a person responsible for a marijuana grow site.
+35 (4) Subject to subsection (11) of this section, the authority shall issue a marijuana grow site
+36 registration card if the requirements of subsections (2) and (3) of this section and ORS 475C.831 are
+37 met.
+38 (5) A person who holds a marijuana grow site registration card under this section must display
+39 the card at the marijuana grow site at all times.
+40 (6) A marijuana grow site registration card must be obtained and posted for each registry
+41 identification cardholder for whom marijuana is being produced at a marijuana grow site.
+42 (7)(a) All seeds, immature marijuana plants, mature marijuana plants and usable marijuana as-
+43 sociated with the production of marijuana for a registry identification cardholder by a person re-
+44 sponsible for a marijuana grow site are the property of the registry identification cardholder.
+45 (b) All seeds, immature marijuana plants, mature marijuana plants and usable marijuana asso-
+[5]
+
+HB 4142
+1 ciated with the production of marijuana for a registry identification cardholder by a person re-
+2 sponsible for a marijuana grow site must be transferred to the registry identification cardholder
+3 upon the request of the registry identification cardholder.
+4 (c) All usable marijuana associated with the production of marijuana for a registry identification
+5 cardholder by a person responsible for a marijuana grow site must be transferred to a marijuana
+6 processing site upon the request of the registry identification cardholder. For purposes of this par-
+7 agraph, a request to transfer usable marijuana constitutes an assignment of the right to possess the
+8 usable marijuana.
+9 (d) All seeds, immature marijuana plants and usable marijuana associated with the production
+10 of marijuana for a registry identification cardholder by a person responsible for a marijuana grow
+11 site must be transferred to a medical marijuana dispensary upon request of the registry identifica-
+12 tion cardholder. For purposes of this paragraph, a request to transfer seeds, immature marijuana
+13 plants or usable marijuana constitutes an assignment of the right to possess the seeds, immature
+14 marijuana plants or usable marijuana.
+15 (e) Information related to transfers made under this subsection must be submitted to the au-
+16 thority in the manner required by ORS 475C.795.
+17 (8) A registry identification cardholder, or the designated primary caregiver of a registry
+18 identification cardholder, may reimburse a person responsible for a marijuana grow site for all costs
+19 associated with the production of marijuana for the registry identification cardholder.
+20 (9) The authority may inspect:
+21 (a) The marijuana grow site of a person designated to produce marijuana by a registry identifi-
+22 cation cardholder to ensure compliance with this section and ORS 475C.795 and 475C.806 and any
+23 rule adopted under this section and ORS 475C.795 and 475C.806; and
+24 (b) The records of the marijuana grow site of a person designated to produce marijuana by a
+25 registry identification cardholder to ensure compliance with this section and ORS 475C.795 and any
+26 rule adopted under this section and ORS 475C.795.
+27 (10) The authority may refuse to register a registry identification cardholder or a designee under
+28 this section or may suspend or revoke the registration of a person responsible for a marijuana grow
+29 site if the authority determines that the applicant or the person responsible for a marijuana grow
+30 site violated a provision of ORS 475C.770 to 475C.919, a rule adopted under ORS 475C.770 to
+31 475C.919 or an ordinance adopted pursuant to ORS 475C.827.
+32 (11) The authority may require a person responsible for a marijuana grow site, prior to issuing
+33 a marijuana grow site registration card under subsection (4) of this section, to pay a fee reasonably
+34 calculated to pay costs incurred under this section and ORS 475C.795 and 475C.856.
+35 (12) When submitting an application for renewal of registration under this section, the applicant
+36 or person responsible for the marijuana grow site shall, if the applicant or person is not the owner
+37 of the premises for which the registration is being renewed, submit with the application the owner’s
+38 written signature, witnessed by a notary public, confirming ownership of the premises and consent-
+39 ing to the applicant’s or person’s use of the premises for the purpose of a marijuana grow site, if
+40 the owner’s consent to the use of the premises is expired.
+41 SECTION 7. ORS 475C.883 is amended to read:
+42 475C.883. Except as provided in ORS 475C.886, a person, or an organization or residential
+43 facility described in ORS 475C.791, engaged in or assisting in the medical use of marijuana is ex-
+44 empt from the criminal laws of this state for possession, delivery or manufacture of marijuana, aid-
+45 ing and abetting another in the possession, delivery or manufacture of marijuana, or any other
+[6]
+
+HB 4142
+1 criminal offense in which possession, delivery or manufacture of marijuana is an element if:
+2 (1) The person holds a registry identification card.
+3 (2) The person has applied for a registry identification card under ORS 475C.783 and the person
+4 has proof of written documentation described in ORS 475C.783 (2)(a) and proof of the date on which
+5 the person submitted the application to the Oregon Health Authority. An exemption under this
+6 subsection applies only until the authority approves or denies the application.
+7 (3)(a) The person is designated as a primary caregiver under ORS 475C.789.
+8 (b) The organization or residential facility is designated as an additional caregiver under
+9 ORS 475C.791, or the person is employed by or has been contracted with an organization or
+10 residential facility that is designated as an additional caregiver under ORS 475C.791.
+11 (4) The person is responsible for or is employed by a marijuana grow site registered under ORS
+12 475C.792.
+13 (5) The person owns, is responsible for, or is employed by, a marijuana processing site.
+14 (6) The person owns, is responsible for, or is employed by, a medical marijuana dispensary.
+15 SECTION 8. ORS 475C.916 is amended to read:
+16 475C.916. A nurse licensed under ORS 678.040 to 678.101 may discuss the medical use of
+17 marijuana with a person with whom the nurse has a patient-provider relationship. The Oregon
+18 State Board of Nursing may not impose a civil penalty or take other disciplinary action
+19 against a nurse who engages in a discussion as described in this section.
+20 SECTION 9. (1) Prior to the operative date specified in section 10 of this 2026 Act, the
+21 Oregon Health Authority may conditionally designate an organization or residential facility
+22 described in ORS 475C.791 as an additional caregiver.
+23 (2) An organization or residential facility described in ORS 475C.791 or conditionally des-
+24 ignated under subsection (1) of this section shall:
+25 (a) Create the written policy required under section 3 of this 2026 Act not later than June
+26 30, 2027; and
+27 (b) Make available to staff the educational training required under section 3 of this 2026
+28 Act not later December 31, 2027.
+29 (3) If an organization or residential facility designated under ORS 475C.791 or condi-
+30 tionally designated under subsection (1) of this section does not meet the requirements of
+31 subsection (2) of this section, the authority shall remove the designation from the organiza-
+32 tion or residential facility.
+33 SECTION 10. (1) Sections 2 and 3 of this 2026 Act and the amendments to ORS 475C.777,
+34 475C.791, 475C.792, 475C.883 and 475C.916 by sections 4 to 8 of this 2026 Act become operative
+35 on January 1, 2027.
+36 (2) The Oregon Health Authority may take any action before the operative date specified
+37 in subsection (1) of this section that is necessary to enable the authority to exercise, on and
+38 after the operative date specified in subsection (1) of this section, all of the duties, functions
+39 and powers conferred on the authority by sections 2 and 3 of this 2026 Act and the amend-
+40 ments to ORS 475C.777, 475C.791, 475C.792, 475C.883 and 475C.916 by sections 4 to 8 of this
+41 2026 Act.
+42 SECTION 11. This 2026 Act takes effect on the 91st day after the date on which the 2026
+43 regular session of the Eighty-third Legislative Assembly adjourns sine die.
+44
+[7]

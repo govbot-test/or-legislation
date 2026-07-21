@@ -1,0 +1,461 @@
+Title: 
+Official Title: 
+Source: versions - B-Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+83rd OREGON LEGISLATIVE ASSEMBLY--2026 Regular Session
+B-Engrossed
+House Bill 4035
+Ordered by the Senate February 25
+Including House Amendments dated February 16 and Senate Amendments
+dated February 25
+Introduced and printed pursuant to House Rule 12.00. Presession filed (at the request of House Interim Committee
+on Housing and Homelessness for Representative Pam Marsh)
+SUMMARY
+The following summary is not prepared by the sponsors of the measure and is not a part of the body thereof subject
+to consideration by the Legislative Assembly. It is an editor’s brief statement of the essential features of the
+measure. The statement includes a measure digest written in compliance with applicable readability standards.
+Digest: This Act amends temp UGB program and lets LCDC award grants. (Flesch Readability
+Score: 80.3).
+Expands eligibility for cities and Metro to amend their urban growth boundaries under a tem-
+porary program.
+Provides an alternative pathway within the temporary program by which the City of
+Woodburn may amend its urban growth boundary.
+Authorizes the Land Conservation and Development Commission to issue grants to implement
+the commission’s duties.
+Declares an emergency, effective on passage.
+1 A BILL FOR AN ACT
+2 Relating to land use; creating new provisions; amending ORS 197.045 and sections 49, 50, 51, 52, 53,
+3 54, 55, 56 and 60, chapter 110, Oregon Laws 2024, and section 2, chapter 341, Oregon Laws 2025;
+4 and declaring an emergency.
+5 Be It Enacted by the People of the State of Oregon:
+6 SECTION 1. Section 49, chapter 110, Oregon Laws 2024, as amended by section 4, chapter 530,
+7 Oregon Laws 2025, is amended to read:
+8 Sec. 49. As used in sections 49 to 59, chapter 110, Oregon Laws 2024:
+9 (1) “Net [residential] buildable acre” means an acre of [residentially] designated buildable land,
+10 including for residential uses or uses designated under section 55 (3)(b), chapter 110, Oregon
+11 Laws 2024, but not including rights of way for streets, roads or utilities or areas not designated for
+12 development due to natural resource protections or environmental constraints.
+13 (2) “Site” means a lot or parcel or any combination of lots and parcels that are contiguous or
+14 separated from one another by a street or road with or without common ownership.
+15 SECTION 2. Section 50, chapter 110, Oregon Laws 2024, is amended to read:
+16 Sec. 50. (1) Notwithstanding any other provision of ORS chapter 197A, a city outside of Metro
+17 may add a site to the city’s urban growth boundary under sections 49 to 59, chapter 110, Oregon
+18 Laws 2024 [of this 2024 Act], if:
+19 (a) The site is adjacent to the existing urban growth boundary of the city or is separated from
+20 the existing urban growth boundary by only a street or road;
+21 (b) The site is:
+22 (A) Designated as an urban reserve under ORS 197A.230 to 197A.250, including a site whose
+23 designation is adopted under ORS 197.652 to 197.658;
+NOTE: Matter in boldfaced type in an amended section is new; matter [italic and bracketed] is existing law to be omitted.
+New sections are in boldfaced type.
+LC 205
+
+B-Eng. HB 4035
+1 (B) Designated as nonresource land; [or]
+2 (C) Subject to an acknowledged exception to a statewide land use planning goal relating to
+3 farmland or forestland; or
+4 (D) Other land, only if:
+5 (i) Resource land constitutes more than 80 percent of the land area lying within a quarter
+6 mile outside the city’s urban growth boundary;
+7 (ii) Upon the city’s review under section 54 (1), chapter 110, Oregon Laws 2024, there were
+8 no qualified applications for lands described in subparagraphs (A) to (C) of this paragraph;
+9 and
+10 (iii) Of the qualified applications received by the city, the site is the highest priority,
+11 based on the prioritization described in ORS 197A.285;
+12 (c) The city has not previously adopted an urban growth boundary amendment or exchange un-
+13 der sections 49 to 59, chapter 110, Oregon Laws 2024 [of this 2024 Act];
+14 (d) The city has demonstrated a need for the addition under section 52, chapter 110, Oregon
+15 Laws 2024 [of this 2024 Act];
+16 (e) The city has requested and received an application as required under sections 53 and 54,
+17 chapter 110, Oregon Laws 2024 [of this 2024 Act];
+18 (f) The total acreage of the site:
+19 (A) For a city with a population of 25,000 or greater, [does not exceed 100] includes up to 150
+20 net [residential] buildable acres; or
+21 (B) For a city with a population of less than 25,000, [does not exceed] includes up to 50 net
+22 [residential] buildable acres; and
+23 (g)(A) The city has adopted a binding conceptual plan for the site that satisfies the requirements
+24 of section 55, chapter 110, Oregon Laws 2024 [of this 2024 Act]; or
+25 (B) The added site does not exceed 15 net [residential] buildable acres and satisfies the re-
+26 quirements of section 56, chapter 110, Oregon Laws 2024 [of this 2024 Act].
+27 (2) A county shall approve an amendment to an urban growth boundary made under this section
+28 that complies with sections 49 to 59, chapter 110, Oregon Laws 2024, [of this 2024 Act] and shall
+29 cooperate with a city to facilitate the coordination of functions under ORS 195.020 to facilitate the
+30 city’s annexation and the development of the site. The county’s decision is not a land use decision.
+31 (3) Notwithstanding ORS 197.626, an action by a local government under sections 49 to 59,
+32 chapter 110, Oregon Laws 2024, [of this 2024 Act] is not a land use decision as defined in ORS
+33 197.015.
+34 SECTION 3. Section 51, chapter 110, Oregon Laws 2024, is amended to read:
+35 Sec. 51. (1) A city within Metro may petition Metro to add a site within the Metro urban
+36 growth boundary if the site:
+37 (a) Satisfies the requirements of section 50 (1), chapter 110, Oregon Laws 2024 [of this 2024
+38 Act]; and
+39 (b) Is designated as an urban reserve.
+40 (2)(a) Within 120 days of receiving a petition under this section, Metro shall determine whether
+41 the site would substantially comply with the applicable provisions of sections 49 to 59, chapter 110,
+42 Oregon Laws 2024 [of this 2024 Act].
+43 (b) If Metro determines that a petition does not substantially comply, Metro shall:
+44 (A) Notify the city of deficiencies in the petition, specifying sufficient detail to allow the city
+45 to remedy any deficiency in a subsequent resubmittal; and
+[2]
+
+B-Eng. HB 4035
+1 (B) Allow the city to amend its conceptual plan and resubmit it as a petition to Metro under this
+2 section.
+3 (c) If Metro determines that a petition does comply, notwithstanding any other provision of ORS
+4 chapter 197A, Metro shall adopt amendments to its urban growth boundary to include the site in the
+5 petition, unless the amendment would result in more than 300 total net [residential] buildable acres
+6 added under this subsection.
+7 (3) If the net [residential] buildable acres included in petitions that Metro determines are in
+8 compliance on or before July 1, 2025, total less than 300 net [residential] buildable acres, Metro
+9 shall adopt amendments to its urban growth boundary under subsection (2)(c) of this section:
+10 (a) On or before November 1, 2025, for all petitions deemed compliant on or before July 1, 2025;
+11 or
+12 (b) Within 120 days after a petition is deemed compliant after July 1, 2025, in the order in which
+13 the petitions are received.
+14 (4) If the net [residential] buildable acres included in petitions that Metro determines are in
+15 compliance on or before July 1, 2025, total 300 or more net [residential] buildable acres, on or before
+16 January 1, 2027, Metro shall adopt amendments to its urban growth boundary under subsection (2)(c)
+17 of this section to include the sites in those petitions that Metro determines will:
+18 (a) Best comply with the provisions of section 55, chapter 110, Oregon Laws 2024 [of this 2024
+19 Act]; and
+20 (b) Maximize the development of needed housing.
+21 (5) Metro may not conduct a hearing to review or select petitions or adopt amendments to its
+22 urban growth boundary under this section.
+23 SECTION 4. Section 52, chapter 110, Oregon Laws 2024, as amended by section 5, chapter 530,
+24 Oregon Laws 2025, is amended to read:
+25 Sec. 52. A city may not add, or petition to add, a site under sections 49 to 59, chapter 110,
+26 Oregon Laws 2024, unless:
+27 (1) The city has demonstrated a need for additional land based on the following factors:
+28 (a)(A) In the previous 20 years there have been no urban growth boundary expansions for resi-
+29 dential use adopted by a city or by Metro in a location adjacent to the city; and
+30 (B) The city does not have within the existing urban growth boundary a tract that:
+31 (i) Is larger than 20 net [residential] buildable acres;
+32 [(ii) Is undeveloped; and]
+33 (ii) Contains no permanent buildings;
+34 (iii) Is not adjacent to improved public utilities that are suitable for immediate con-
+35 nection at the property line;
+36 (iv) Has not received final approval of any land use entitlements, development approvals,
+37 subdivision plats, site plans or building permits; and
+38 [(iii)] (v) Consists of one or more lots or parcels with or without common ownership and that
+39 abut each other or are separated by only a street or a road; or
+40 (b) Within urban growth boundary expansion areas for residential use adopted by the city over
+41 the previous 20 years, or by Metro in locations adjacent to the city, 75 percent of the lands either:
+42 (A) Are developed; or
+43 (B) Have an acknowledged comprehensive plan with land use designations in preparation for
+44 annexation and have a public facilities plan and associated financing plan.
+45 (2) The city has demonstrated a need for affordable housing, based on:
+[3]
+
+B-Eng. HB 4035
+1 (a) Having a greater percentage of [severely] cost-burdened households than the average for this
+2 state based on the [Comprehensive Housing Affordability Strategy data from the United States De-
+3 partment of Housing and Urban Development] most recent American Community Survey five-
+4 year estimate data from the United States Census Bureau; or
+5 (b) At least 25 percent of the renter households in the city being [severely] rent burdened as
+6 indicated under the most recent [housing equity indicator data under ORS 456.602 (2)(g)] American
+7 Community Survey five-year estimate data from the United States Census Bureau.
+8 (3) The evaluation of the demonstrations required under this section and the evaluation of cri-
+9 teria in an application under sections 49 to 59, chapter 110, Oregon Laws 2024, must be based on
+10 the evidence, data and factors as of the time a public notice is issued under section 53 (1), chapter
+11 110, Oregon Laws 2024.
+12 SECTION 5. Section 53, chapter 110, Oregon Laws 2024, is amended to read:
+13 Sec. 53. (1) Before a city may select a site for inclusion within the city’s or Metro’s urban
+14 growth boundary under sections 49 to 59, chapter 110, Oregon Laws 2024 [of this 2024 Act], a city
+15 must provide public notice that includes:
+16 (a) The city’s intention to select a site for inclusion within the city’s urban growth boundary.
+17 (b) Each basis under which the city has determined that it qualifies to include a site under
+18 section 52, chapter 110, Oregon Laws 2024 [of this 2024 Act].
+19 (c) A deadline for submission of applications under this section that is at least 45 days following
+20 the date of the notice.
+21 (d) Additional substantive requirements, including a minimum size for a site, as estab-
+22 lished by the city and not incompatible with sections 49 to 59, chapter 110, Oregon Laws 2024.
+23 [(d)] (e) A description of the information, form and format required of an application, including
+24 the requirements of section 55 (2), chapter 110, Oregon Laws 2024 [of this 2024 Act].
+25 (2) A copy of the notice of intent under this section must be provided to:
+26 (a) Each county in which the city resides;
+27 (b) Each special district providing urban services within the city’s urban growth boundary;
+28 (c) The Department of Land Conservation and Development; and
+29 (d) Metro, if the city is within Metro.
+30 SECTION 6. Section 54, chapter 110, Oregon Laws 2024, is amended to read:
+31 Sec. 54. (1) After the deadline for submission of applications established under section [55 of this
+32 2024 Act] 53, chapter 110, Oregon Laws 2024, the city shall:
+33 (a) Review applications filed for compliance with sections 49 to 59, chapter 110, Oregon Laws
+34 2024 [of this 2024 Act].
+35 (b) For each completed application that complies with sections 49 to 59, chapter 110, Oregon
+36 Laws 2024 [of this 2024 Act], provide notice to the residents of the proposed site area who were not
+37 signatories to the application.
+38 (c) Provide opportunities for public participation in selecting a site, including, at least:
+39 (A) One public comment period;
+40 (B)(i) One meeting of the city’s planning commission at which public testimony is considered;
+41 (ii) One meeting of the city’s council at which public testimony is considered; or
+42 (iii) One public open house; and
+43 (C) Notice on the city’s website or published in a paper of record at least 14 days before:
+44 (i) A meeting under subparagraph (B) of this paragraph; and
+45 (ii) The beginning of a comment period under subparagraph (A) of this paragraph.
+[4]
+
+B-Eng. HB 4035
+1 (d) Consult with, request necessary information from and provide the opportunity for written
+2 comment from:
+3 (A) The owners of each lot or parcel within the site;
+4 (B) If the city does not currently exercise land use jurisdiction over the entire site, the gov-
+5 erning body of each county with land use jurisdiction over the site;
+6 (C) Any special district that provides urban services to the site; and
+7 (D) Any public or private utility that provides utilities to the site.
+8 (2) An application filed under this section must:
+9 (a) Be completed for each property owner or group of property owners that are proposing an
+10 urban growth boundary amendment under sections 49 to 59, chapter 110, Oregon Laws 2024 [of this
+11 2024 Act];
+12 (b) Be in writing in a form and format as required by the city;
+13 (c) Specify the lots or parcels that are the subject of the application;
+14 (d) Be signed by all owners of lots or parcels included within the application; and
+15 (e) Include each owner’s signed consent to annexation of the properties if the site is added to
+16 the urban growth boundary.
+17 (3) If the city has received approval from all property owners of such lands, in writing in a form
+18 and format specified by the city, the governing body of the city may select an application and the
+19 city shall adopt a conceptual plan as described in section 55, chapter 110, Oregon Laws 2024, [of
+20 this 2024 Act] for all or a portion of the lands contained within the application.
+21 (4) A conceptual plan adopted under subsection (3) of this section must include findings identi-
+22 fying reasons for inclusion of lands within the conceptual plan and reasons why lands, if any, sub-
+23 mitted as part of an application that was partially approved were not included within the conceptual
+24 plan.
+25 SECTION 7. Section 55, chapter 110, Oregon Laws 2024, as amended by section 6, chapter 530,
+26 Oregon Laws 2025, is amended to read:
+27 Sec. 55. (1) As used in this section:
+28 (a) “Affordable units” means residential units described in subsection (3)(f)(A) or (4) of this sec-
+29 tion.
+30 (b) “Market rate units” means residential units other than affordable units.
+31 (2) Before adopting an urban growth boundary amendment under section 50, chapter 110, Oregon
+32 Laws 2024, or petitioning Metro under section 51, chapter 110, Oregon Laws 2024, for a site larger
+33 than 15 net [residential] buildable acres, a city shall adopt a binding conceptual plan as an amend-
+34 ment to its comprehensive plan.
+35 (3) The conceptual plan must:
+36 (a) Establish the total net [residential] buildable acres within the site and must require for those
+37 residential areas:
+38 (A) A diversity of housing types and sizes, including middle housing, accessible housing and
+39 other needed housing;
+40 (B) That the development will be on lands zoned for residential or mixed-use residential uses;
+41 and
+42 (C) The residential development will be built at net residential densities not less than:
+43 (i) Seventeen dwelling units per net [residential] buildable acre if sited within the Metro urban
+44 growth boundary;
+45 (ii) Ten units per net [residential] buildable acre if sited in a city with a population of 30,000
+[5]
+
+B-Eng. HB 4035
+1 or greater;
+2 (iii) Six units per net [residential] buildable acre if sited in a city with a population of 2,500 or
+3 greater and less than 30,000; or
+4 (iv) Five units per net [residential] buildable acre if sited in a city with a population less than
+5 2,500;
+6 (b) Designate within the site:
+7 (A) Recreation and open space lands; and
+8 (B) Lands for commercial uses, either separate or as a mixed use, that:
+9 (i) Primarily serve the immediate surrounding housing;
+10 (ii) Provide goods and services at a smaller scale than provided on typical lands zoned for
+11 commercial use; and
+12 (iii) Are provided at the minimum amount necessary to support and integrate viable commercial
+13 and residential uses;
+14 (c) If the city has a population of 5,000 or greater, include a transportation network for the site
+15 that provides diverse transportation options, including walking, bicycling and transit use if public
+16 transit services are available, as well as sufficient connectivity to existing and planned transporta-
+17 tion network facilities as shown in the local government’s transportation system plan as defined in
+18 Land Conservation and Development Commission rules;
+19 (d) Demonstrate that protective measures will be applied to the site consistent with the state-
+20 wide land use planning goals for:
+21 (A) Open spaces, scenic and historic areas or natural resources;
+22 (B) Air, water and land resources quality;
+23 (C) Areas subject to natural hazards;
+24 (D) The Willamette River Greenway;
+25 (E) Estuarine resources;
+26 (F) Coast shorelands; or
+27 (G) Beaches and dunes;
+28 (e) Include assurances that the site will be served with all necessary urban services as defined
+29 in ORS 195.065, including through:
+30 (A) Agreements among the city, each owner within the site and any other necessary public or
+31 private utility provider, local government or district, as defined in ORS 195.060, or combination of
+32 local governments and districts;
+33 (B) Letters from utility providers showing a capacity and willingness to provide services; or
+34 (C) Equivalent assurances; and
+35 (f) Include requirements that ensure that:
+36 (A) At least 30 percent of the residential units are subject to affordability restrictions, including
+37 but not limited to affordable housing covenants, as described in ORS 456.270 to 456.295, that require
+38 for a period of not less than 60 years that the units be:
+39 (i) Available for rent, with or without government assistance, by households with an income of
+40 80 percent or less of the area median income as defined in ORS 456.270; or
+41 (ii) Available for purchase, with or without government assistance, by households with an in-
+42 come of 130 percent or less of the area median income;
+43 (B) The construction of all affordable units has commenced before the city issues certificates
+44 of occupancy to the last 15 percent of market rate units;
+45 (C) All common areas and amenities are equally available to residents of affordable units and
+[6]
+
+B-Eng. HB 4035
+1 of market rate units and properties designated for affordable units are dispersed throughout the site;
+2 and
+3 (D) The requirement for affordable housing units is recorded before the building permits are is-
+4 sued for any property within the site, and the requirements contain financial penalties for noncom-
+5 pliance.
+6 (4) A city may require greater affordability requirements for residential units than are required
+7 under subsection (3)(f)(A) of this section, provided that the city significantly and proportionally off-
+8 sets development costs related to:
+9 (a) Permits or fees;
+10 (b) System development charges;
+11 (c) Property taxes; or
+12 (d) Land acquisition and predevelopment costs.
+13 SECTION 8. Section 56, chapter 110, Oregon Laws 2024, is amended to read:
+14 Sec. 56. (1) A city that intends to add 15 net [residential] buildable acres or less is not required
+15 to adopt a conceptual plan under section 55, chapter 110, Oregon Laws 2024, [of this 2024 Act] if
+16 the city has entered into:
+17 (a) Enforceable and recordable agreements with each landowner of a property within the site
+18 to ensure that the site will comply with the affordability requirements described in section 55
+19 (3)(f), chapter 110, Oregon Laws 2024 [of this 2024 Act]; and
+20 (b) A binding agreement with each owner within the site and any other necessary public or
+21 private utility provider, local government or district, as defined in ORS 195.060, or combination of
+22 local governments and districts to ensure that the site will be served with all necessary urban ser-
+23 vices as defined in ORS 195.065.
+24 (2) This section does not apply to a city within Metro.
+25 SECTION 9. Section 2, chapter 341, Oregon Laws 2025, is amended to read:
+26 Sec. 2. (1) In lieu of amending its urban growth boundary under any other process provided by
+27 sections 49 to 59, chapter 110, Oregon Laws 2024, the City of Monmouth may amend its urban
+28 growth boundary to add one or more sites to the urban growth boundary and to remove one or more
+29 tracts of land from the urban growth boundary as provided in this section.
+30 (2) The area to be removed under this section:
+31 (a) May not exceed 90 acres;
+32 (b) Must have more than one-quarter of its acreage within an area mapped as flood hazard or
+33 wetland;
+34 (c) May not have been annexed by the city;
+35 (d) Must be designated for residential use on the city’s comprehensive plan map; and
+36 (e) May not be currently served by city sewer service.
+37 (3) The site to be added under this section:
+38 (a) May not exceed 75 net [residential] buildable acres;
+39 (b) Must be contiguous to the boundary of the city and the city’s existing urban growth bound-
+40 ary;
+41 (c) May not have more than 25 percent of its acreage within an area mapped as a flood hazard
+42 or wetland;
+43 (d) Must be able to connect to nearby water and sewer services; and
+44 (e) Must be owned by owners that have consented to having the site:
+45 (A) Added to the urban growth boundary; and
+[7]
+
+B-Eng. HB 4035
+1 (B) Annexed by the city.
+2 (4) Land may be removed from an urban growth boundary under this section without landowner
+3 consent. ORS 195.305 to 195.336 do not apply to the removal of land from the urban growth boundary
+4 under this section.
+5 (5) Review of an exchange of lands made under this section may only be made by the county
+6 as provided in section 50 (2), chapter 110, Oregon Laws 2024, and by the Department of Land Con-
+7 servation and Development, subject to judicial review, as provided in section 57, chapter 110,
+8 Oregon Laws 2024.
+9 (6)(a) Sections 52, 53, 54, 55 and 56, chapter 110, Oregon Laws 2024, do not apply to a site ad-
+10 dition made under this section.
+11 (b) A site addition made under this section is not required to meet the conditions listed in sec-
+12 tion 50 (1)(a) to (g), chapter 110, Oregon Laws 2024.
+13 SECTION 10. Section 11 of this 2026 Act is added to and made a part of sections 49 to 59,
+14 chapter 110, Oregon Laws 2024.
+15 SECTION 11. (1) The City of Woodburn, when adding a site to the city’s urban growth
+16 boundary under sections 49 to 59, chapter 110, Oregon Laws 2024:
+17 (a) Is not required to comply with the selection conditions in section 50 (1)(b)(D)(ii) or
+18 (iii), chapter 110, Oregon Laws 2024.
+19 (b) Is not required to solicit submission of applications or otherwise comply with section
+20 50 (1)(e) or 53, chapter 110, Oregon Laws 2024, provided that the city deliver a notice to
+21 Marion County, the Department of Land Conservation and Development and any special dis-
+22 trict providing urban services within the city’s urban growth boundary upon receipt of an
+23 application.
+24 (c) May demonstrate need under section 52, chapter 110, Oregon Laws 2024, as of the date
+25 of the delivery of the notice under paragraph (b) of this subsection.
+26 (d) May approve a site upon receipt of an application without subjecting the site to any
+27 of the processes under section 54 (1), chapter 110, Oregon Laws 2024.
+28 (e) Is not required to adopt a binding conceptual plan under section 50 (1)(g), 54 (3) or
+29 55 (2), chapter 110, Oregon Laws 2024, before adding a site to the city’s urban growth
+30 boundary under paragraph (f) of this subsection.
+31 (f) May select a site application that complies with section 54 (2), chapter 110, Oregon
+32 Laws 2024, and, following submission under paragraph (h)(A) of this subsection and approval
+33 under subsection (2) of this section, add the site to the city’s urban growth boundary.
+34 (g) For a site added under paragraph (f) of this subsection, shall adopt a master plan
+35 that, following submission under paragraph (h)(B) of this subsection and approval under
+36 subsection (2) of this section, must be applied to the site upon annexation of the site. The
+37 master plan must:
+38 (A) Meet any requirements applicable to a conceptual plan under section 55 (3), chapter
+39 110, Oregon Laws 2024; and
+40 (B) Require no fewer than 600 residential units to be developed on the site.
+41 (h) Shall have the city’s site selection reviewed, in lieu of the approval procedures set
+42 forth in section 57, chapter 110, Oregon Laws 2024, by submitting to the department:
+43 (A) The selected site application and proposed amendment to the city’s urban growth
+44 boundary under paragraphs (c) to (f) of this subsection at least 30 days prior to the adoption
+45 of the amendment.
+[8]
+
+B-Eng. HB 4035
+1 (B) A master plan for the site described in paragraph (g) of this subsection at least 30
+2 days prior to an annexation hearing for any property included in the site.
+3 (i) Shall comply with an order by the department under subsection (2) of this section.
+4 (2)(a) The department shall review the submittals under subsection (1)(h) of this section
+5 for compliance with the provisions of sections 49 to 59, chapter 110, Oregon Laws 2024, and:
+6 (A) If a submittal substantially complies with the provisions of sections 49 to 59, chapter
+7 110, Oregon Laws 2024, issue an order approving the submittal; or
+8 (B) If a submittal does not substantially comply with the provisions of sections 49 to 59,
+9 chapter 110, Oregon Laws 2024, issue an order remanding the submittal to the city with a
+10 specific determination of deficiencies in the submittal and with sufficient detail to identify a
+11 specific remedy for any deficiency in a subsequent resubmittal.
+12 (b) The department must issue an order within 30 days of the delivery of a submittal
+13 under subsection (1)(h) of this section.
+14 (c) An order issued by the department under this subsection is subject to appeal as de-
+15 scribed in section 57 (4), chapter 110, Oregon Laws 2024.
+16 SECTION 12. Section 60, chapter 110, Oregon Laws 2024, as amended by section 4, chapter 341,
+17 Oregon Laws 2025, is amended to read:
+18 Sec. 60. (1) [Sections] Section 49 [to 56, 58 and 59], chapter 110, Oregon Laws 2024, [are] as
+19 amended by section 4, chapter 530, Oregon Laws 2025, and section 1 of this 2026 Act, is re-
+20 pealed on January 2, 2033.
+21 (2) Section 50, chapter 110, Oregon Laws 2024, as amended by section 2 of this 2026 Act,
+22 is repealed on January 2, 2033.
+23 (3) Section 51, chapter 110, Oregon Laws 2024, as amended by section 3 of this 2026 Act,
+24 is repealed on January 2, 2033.
+25 (4) Section 52, chapter 110, Oregon Laws 2024, as amended by section 5, chapter 530,
+26 Oregon Laws 2025, and section 4 of this 2026 Act, is repealed on January 2, 2033.
+27 (5) Section 53, chapter 110, Oregon Laws 2024, as amended by section 5 of this 2026 Act,
+28 is repealed on January 2, 2033.
+29 (6) Section 54, chapter 110, Oregon Laws 2024, as amended by section 6 of this 2026 Act,
+30 is repealed on January 2, 2033.
+31 (7) Section 55, chapter 110, Oregon Laws 2024, as amended by section 6, chapter 530,
+32 Oregon Laws 2025, and section 7 of this 2026 Act, is repealed on January 2, 2033.
+33 (8) Section 56, chapter 110, Oregon Laws 2024, as amended by section 8 of this 2026 Act,
+34 is repealed on January 2, 2033.
+35 [(2)] (9) Section 57, chapter 110, Oregon Laws 2024, as amended by section 3 [of this 2025 Act],
+36 chapter 341, Oregon Laws 2025, and section 7, chapter 530, Oregon Laws 2025, is repealed on
+37 January 2, 2033.
+38 (10) Section 58, chapter 110, Oregon Laws 2024, as amended by section 8, chapter 530,
+39 Oregon Laws 2025, is repealed on January 2, 2033.
+40 (11) Section 59, chapter 110, Oregon Laws 2024, is repealed on January 2, 2033.
+41 [(3)] (12) Section 2, chapter 341, Oregon Laws 2025, as amended by section 9 of this 2026
+42 Act, [of this 2025 Act] is repealed on January 2, 2033.
+43 (13) Section 11 of this 2026 Act is repealed on January 2, 2033.
+44 SECTION 13. ORS 197.045 is amended to read:
+45 197.045. The Land Conservation and Development Commission may:
+[9]
+
+B-Eng. HB 4035
+1 (1) Apply for and receive moneys from the federal government and from this state or any of its
+2 agencies or departments.
+3 (2) Contract with or issue grants to any public agency for the performance of services or the
+4 exchange of employees or services by one to the other necessary in carrying out ORS chapters 195,
+5 196, 197 and 197A.
+6 (3) Contract for the services of and consultation with professional persons or organizations, not
+7 otherwise available through federal, state and local governmental agencies, in carrying out its duties
+8 under ORS chapters 195, 196, 197 and 197A.
+9 (4) Perform other functions, including issuing grants, required to carry out ORS chapters 195,
+10 196, 197 and 197A.
+11 (5) Assist in development and preparation of model land use regulations to guide state agencies,
+12 cities, counties and special districts in implementing goals.
+13 (6) Notwithstanding any other provision of law, review comprehensive plan and land use regu-
+14 lations related to the identification and designation of high-value farmland pursuant to chapter 792,
+15 Oregon Laws 1993, under procedures set forth in ORS 197.251.
+16 SECTION 14. This 2026 Act being necessary for the immediate preservation of the public
+17 peace, health and safety, an emergency is declared to exist, and this 2026 Act takes effect
+18 on its passage.
+19
+[10]
